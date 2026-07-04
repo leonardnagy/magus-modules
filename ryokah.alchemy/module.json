@@ -1,0 +1,211 @@
+{
+  "formatVersion": 1,
+  "id": "ryokah-alchemy",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Ryokah Alkímia — A Nagy Mű utolsó három lépése",
+    "en": "Ryokah Alchemy — The Last Three Steps of the Great Work"
+  },
+  "description": {
+    "hu": "Modern, gyakorlati alkímia Ryokah (Sassani vonal) tanításainak szellemében: a klasszikus Nagy Mű utolsó három lépése — Fermentáció, Desztilláció, Koaguláció — mint személyes átalakulás, kiegészítve a Permission Slip módszerrel és a Chi-gömb gyakorlattal. Szabad ütemben gyakorolható, a Bardon-út mellett is.",
+    "en": "Modern, practical alchemy in the spirit of Ryokah's (Sassani-line) teachings: the last three steps of the classical Great Work — Fermentation, Distillation, Coagulation — as personal transformation, complemented by the Permission Slip method and the Chi Ball practice. Practice at your own pace, alongside the Bardon path."
+  },
+  "items": [
+    {
+      "id": "ryokah-alchemy-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető", "en": "Introduction" },
+      "text": {
+        "hu": "Az alkímia sohasem csak az ólom arannyá változtatásáról szólt. A Nagy Mű igazi laboratóriuma **te magad vagy**: a nyersanyag a jelenlegi éned, az arany pedig az, akivé válhatsz.\n\nEz a modul a klasszikus alkímiai út **utolsó három lépését** dolgozza fel — a Fermentációt, a Desztillációt és a Koagulációt — úgy, ahogyan a modern, gyakorlati spiritualitás tanítja: Ryokah, a Sassani vonal tanítója szellemében, akit Tyler Ellison közvetít. A hangsúly nem a laboratóriumon van, hanem a **belső átalakuláson és annak megszilárdításán a hétköznapi valóságban**.\n\nA modul második fele két erőteljes gyakorlati eszközt ad a kezedbe: a **Permission Slip** (engedély-cédula) módszert és a **Chi-gömb** energiagyakorlatot.\n\n**Hogyan használd:** a három lépés egymásra épül, de az életed nem menetrend szerint halad — lehet, hogy egyszerre több fázisban is állsz különböző területeken. Olvasd a leckéket sorban, gyakorolj az időzítőkkel, és naplózz minden nap.\n\n**Megkülönböztetés:** ez a tananyag csatornázott tanításokon alapul. Ahogy maga a vonal is tanítja — semmit ne fogadj el vakon: azt tartsd meg, ami a saját tapasztalatodban igazolódik.",
+        "en": "Alchemy was never only about turning lead into gold. The true laboratory of the Great Work is **you yourself**: the raw material is your present self, and the gold is who you may become.\n\nThis module works through the **last three steps** of the classical alchemical path — Fermentation, Distillation and Coagulation — as modern, practical spirituality teaches them: in the spirit of Ryokah, teacher of the Sassani line, channeled by Tyler Ellison. The emphasis is not on the laboratory but on **inner transformation and its stabilization in everyday reality**.\n\nThe second half of the module places two powerful practical tools in your hands: the **Permission Slip** method and the **Chi Ball** energy practice.\n\n**How to use it:** the three steps build on each other, yet your life does not follow a timetable — you may stand in several phases at once in different areas. Read the lessons in order, practise with the timers, and journal every day.\n\n**Discernment:** this material is based on channeled teachings. As the line itself teaches — accept nothing blindly: keep what is confirmed in your own experience."
+      }
+    },
+    {
+      "id": "ryokah-alchemy-md-map",
+      "kind": "markdown",
+      "nevek": { "hu": "A Nagy Mű térképe", "en": "The Map of the Great Work" },
+      "text": {
+        "hu": "A nyugati alkímia hagyománya **hét fokozatra** osztja az átalakulás útját. Az első négy „Lent”, az anyag és az érzelmek világában zajlik; az utolsó három „Fent”, a tudat és a képzelet birodalmában.\n\n**Lent — a lebontás fázisai:**\n\n— **Kalcináció:** az ego égetése — ami hamis, az megég.\n— **Disszolúció:** feloldódás — az elfojtott érzelmek vize felszínre tör.\n— **Szeparáció:** szétválasztás — mi az enyém, és mi az, amit csak cipelek?\n— **Konjunkció:** egyesítés — a megtisztított részek új egésszé állnak össze.\n\n**Fent — az újjáépítés fázisai (ez a modul témája):**\n\n— **Fermentáció:** a régi én komposztjából új élet sarjad.\n— **Desztilláció:** a tapasztalat lényegének kinyerése és megtisztítása.\n— **Koaguláció:** az új én megszilárdítása — a Bölcsek Köve: te magad, átalakulva.\n\nRyokah tanításának lényege, hogy ez a folyamat **nem egyszeri esemény, hanem élő spirál**: életed minden nagy változása végigjárja ezeket a fokokat. Aki ismeri a térképet, az a válságban nem eltéved, hanem tájékozódik — tudja, hogy a sötét fázis nem hiba, hanem **a mű része**.",
+        "en": "The Western alchemical tradition divides the path of transformation into **seven stages**. The first four take place 'Below', in the world of matter and emotion; the last three 'Above', in the realm of consciousness and imagination.\n\n**Below — the phases of breaking down:**\n\n— **Calcination:** the burning of the ego — what is false burns away.\n— **Dissolution:** dissolving — the water of suppressed feeling rises to the surface.\n— **Separation:** sorting — what is truly mine, and what am I merely carrying?\n— **Conjunction:** union — the purified parts join into a new whole.\n\n**Above — the phases of rebuilding (the subject of this module):**\n\n— **Fermentation:** from the compost of the old self, new life sprouts.\n— **Distillation:** extracting and purifying the essence of experience.\n— **Coagulation:** solidifying the new self — the Philosopher's Stone: you yourself, transformed.\n\nThe heart of Ryokah's teaching is that this process is **not a one-time event but a living spiral**: every great change in your life walks these steps. Whoever knows the map does not get lost in crisis but navigates — knowing the dark phase is not a mistake but **part of the work**."
+      }
+    },
+    {
+      "id": "ryokah-alchemy-md-fermentation",
+      "kind": "markdown",
+      "nevek": { "hu": "1. Fermentáció — az új élet erjedése", "en": "1. Fermentation — the Ferment of New Life" },
+      "text": {
+        "hu": "A fermentáció a természetben úgy kezdődik, hogy valami **lebomlik** — és éppen ebből a bomlásból születik az új: a szőlőből bor, a magból csíra. A belső alkímiában ugyanez történik: egy régi identitás, kapcsolat, hit vagy életszakasz **elkezd szétesni**, és ez eleinte veszteségnek tűnik.\n\n**Az első mozzanat a putrefakció — a szent rothadás.** Üresség, irányvesztés, „nem tudom, ki vagyok már” érzés. A legtöbb ember itt pánikol, és megpróbálja visszaépíteni a régit. Az alkimista mást tesz: **hagyja, hogy a régi lebomoljon**, mert tudja, hogy a káosz termőtalaj.\n\n**A második mozzanat az erjedés — az új élet első jele.** Ahogy a borban megjelenik az élesztő munkája, benned is megjelennek az első új impulzusok: váratlan érdeklődés, friss inspiráció, egy halvány, de eleven **lelkesedés**. Ryokah vonala szerint ez a lelkesedés nem véletlen: ez a magasabb éned jelzése, hogy merre sarjad az új.\n\n**Gyakorlat:** ne siettesd. Ülj le naponta, és kérdezd meg: *mi az, ami bennem most bomlik le?* Ne javítsd meg, ne magyarázd el — csak légy vele jelen, ahogy a gazda sem húzgálja a csírát. A lenti időzítő ebben segít.\n\n**Jele annak, hogy a fázis érik:** a veszteség szorítása lassan kíváncsisággá válik.",
+        "en": "In nature, fermentation begins when something **breaks down** — and precisely from this decay the new is born: wine from grapes, a sprout from a seed. In inner alchemy the same happens: an old identity, relationship, belief or life-chapter **begins to decompose**, and at first this feels like loss.\n\n**The first movement is putrefaction — the sacred rot.** Emptiness, loss of direction, the feeling of 'I no longer know who I am'. Most people panic here and try to rebuild the old. The alchemist does otherwise: **he lets the old decompose**, knowing that chaos is fertile soil.\n\n**The second movement is the ferment — the first sign of new life.** As the yeast's work appears in the wine, the first new impulses appear in you: unexpected interest, fresh inspiration, a faint but living **excitement**. According to Ryokah's line this excitement is no accident: it is your higher self signalling where the new is sprouting.\n\n**Practice:** do not rush it. Sit down daily and ask: *what in me is decomposing right now?* Do not fix it, do not explain it — simply be present with it, as the farmer does not tug at the sprout. The timer below supports this.\n\n**Sign that the phase is ripening:** the grip of loss slowly turns into curiosity."
+      }
+    },
+    {
+      "id": "ryokah-alchemy-timer-fermentation",
+      "kind": "timer",
+      "nevek": { "hu": "Fermentációs meditáció — 10 perc", "en": "Fermentation Meditation — 10 min" },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ülj le csendben. Kérdezd meg: mi az, ami bennem most lebomlik? Ne javítsd, ne siettesd — légy jelen vele, mint gazda a földdel. A végén figyeld meg: hol mozdul valami új, halvány lelkesedés?",
+          "en": "Sit in silence. Ask: what in me is decomposing right now? Do not fix it, do not rush it — be present with it, as a farmer with the soil. At the end notice: where does something new stir, a faint excitement?"
+        },
+        "intervals": [
+          { "atSecond": 300, "label": { "hu": "Félidő — engedd, hogy dolgozzon", "en": "Halfway — let it work" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-alchemy-md-distillation",
+      "kind": "markdown",
+      "nevek": { "hu": "2. Desztilláció — a lényeg kinyerése", "en": "2. Distillation — Extracting the Essence" },
+      "text": {
+        "hu": "A lepárlásnál a folyadékot **újra és újra felmelegítik és lecsapatják**, amíg csak a tiszta esszencia marad. A belső desztilláció ugyanez: a megélt tapasztalatot addig forgatod tudatos figyelemmel, amíg **elválik a lényeg a történettől**.\n\n**Mi a különbség a történet és a lényeg között?** A történet: „ő ezt tette velem, én ezt éreztem, és azóta is…”. A lényeg: *mit tanított ez nekem arról, hogy ki vagyok és hogyan működik a valóságom?* A történet nehéz és ragadós; a lényeg könnyű és világító.\n\n**A desztilláló készüléked a napló.** Este vedd elő a nap egy erős élményét, és párold le három lépésben:\n\n— **Első forralás:** írd le, mi történt — nyersen, ítélet nélkül.\n— **Második forralás:** írd le, mit éreztél és milyen hiedelem mozgott alatta. Ryokah vonala szerint minden érzelem egy hiedelem lenyomata — az érzés az út a hiedelemhez.\n\n— **Lecsapatás:** egyetlen tiszta mondatban fogalmazd meg a párlatot: *mit viszek tovább ebből?*\n\n**Ismétlés teszi tisztává.** Ahogy a párlat minden lepárlással finomodik, egy-egy nagy témádat érdemes többször is átdesztillálni — hetek múltán meglepően tisztább esszenciát kapsz. A lenti légzőgyakorlat a desztilláció testi horgonya.",
+        "en": "In distillation the liquid is **heated and condensed again and again** until only the pure essence remains. Inner distillation is the same: you turn a lived experience in conscious attention until **the essence separates from the story**.\n\n**What is the difference between story and essence?** The story: 'they did this to me, I felt this, and ever since…'. The essence: *what did this teach me about who I am and how my reality works?* The story is heavy and sticky; the essence is light and luminous.\n\n**Your distillation apparatus is the journal.** In the evening take one strong experience of the day and distil it in three movements:\n\n— **First boiling:** write down what happened — raw, without judgment.\n— **Second boiling:** write down what you felt and what belief moved beneath it. According to Ryokah's line every emotion is the imprint of a belief — the feeling is the road to the belief.\n\n— **Condensation:** state the distillate in a single clear sentence: *what do I carry forward from this?*\n\n**Repetition purifies.** As the distillate refines with every pass, your great themes deserve several distillations — weeks later you receive a surprisingly clearer essence. The breathing practice below is the bodily anchor of distillation."
+      }
+    },
+    {
+      "id": "ryokah-alchemy-timer-distillation",
+      "kind": "timer",
+      "nevek": { "hu": "Desztillációs légzés — 5 perc", "en": "Distillation Breath — 5 min" },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "A légzésed a lombik. Belégzéskor gyűjtsd össze a nap egy élményét; a légzet csúcsán tartsd meg egy pillanatra; kilégzéskor engedd el a történetet, és tartsd meg csak a lényeget. Ismételd, amíg az esszencia kitisztul.",
+          "en": "Your breath is the alembic. On the inhale gather one experience of the day; hold it a moment at the top; on the exhale release the story and keep only the essence. Repeat until the essence runs clear."
+        },
+        "intervals": [
+          { "atSecond": 150, "label": { "hu": "Félidő — már csak a lényeg", "en": "Halfway — only the essence now" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-alchemy-md-coagulation",
+      "kind": "markdown",
+      "nevek": { "hu": "3. Koaguláció — a megszilárdulás", "en": "3. Coagulation — the Solidifying" },
+      "text": {
+        "hu": "A koaguláció a Nagy Mű beteljesedése: a finomított esszencia **testet ölt**. Ami eddig belátás volt, az most hús-vér valósággá válik — másképp beszélsz, másképp döntesz, másképp élsz. A Bölcsek Köve nem egy tárgy: **a megszilárdult új éned az**.\n\n**Az elv: a felismerés önmagában elpárolog.** Hányszor volt már mély belátásod, ami két hét múlva nyomtalanul eltűnt? Ami nem ölt testet, az visszaszáll a párába. A koaguláció ezért a **tettek** fázisa.\n\n**A módszer: élj úgy, mintha — mert már az vagy.** Ryokah vonala szerint nem a jövőbeli célod felé araszolsz, hanem **már most annak az új énnek a szemével nézel, döntesz és cselekszel**, akivé a folyamat formált. Nem színészkedés ez, hanem hangolódás: a valóság a lényedhez igazodik, nem a kívánságaidhoz.\n\n**Gyakorlat — a napi horgony:** minden nap tegyél **egyetlen konkrét, fizikai tettet**, amely az új énedből fakad. Nem nagy gesztust — pontosat. Ha a párlatod az volt, hogy „a hangomnak helye van”, akkor ma egyszer szólalj fel ott, ahol eddig hallgattál. A test a pecsét: amit a test megtesz, azt a tudat elhiszi.\n\n**Jele annak, hogy a mű megszilárdult:** ami régen erőfeszítés volt, az természetessé vált — már nem csinálod az újat, hanem **az vagy**.",
+        "en": "Coagulation is the completion of the Great Work: the refined essence **takes body**. What was insight now becomes flesh-and-blood reality — you speak differently, decide differently, live differently. The Philosopher's Stone is not an object: **it is your solidified new self**.\n\n**The principle: insight alone evaporates.** How many deep realizations have you had that vanished without trace within two weeks? What does not take body rises back into vapour. Coagulation is therefore the phase of **deeds**.\n\n**The method: live as if — because you already are.** According to Ryokah's line you do not inch toward a future goal; **you look, decide and act right now with the eyes of the new self** the process has shaped. This is not acting but attunement: reality conforms to your being, not to your wishes.\n\n**Practice — the daily anchor:** every day perform **one concrete physical deed** that springs from the new self. Not a grand gesture — a precise one. If your distillate was 'my voice has a place', then today speak up once where you used to stay silent. The body is the seal: what the body does, the mind believes.\n\n**Sign that the work has solidified:** what used to take effort has become natural — you no longer do the new, you **are** it."
+      }
+    },
+    {
+      "id": "ryokah-alchemy-md-permissionslips",
+      "kind": "markdown",
+      "nevek": { "hu": "Permission Slip — az engedély-cédula", "en": "The Permission Slip" },
+      "text": {
+        "hu": "A Sassani vonal egyik legfelszabadítóbb tanítása így hangzik: **egyetlen eszköznek, rítusnak vagy technikának sincs önmagában ereje.** A kristály, a szertartás, a mantra — mind **engedély-cédula**: jelképes kulcs, amellyel megengeded magadnak azt, amire mindig is képes voltál.\n\n**Miért működik mégis?** Mert az elméd hidat kér. Ha egy tárgy vagy mozdulat segít elhinned, hogy nyugodt lehetsz, erős lehetsz, gyógyulhatsz — akkor a híd betöltötte szerepét. A varázslat benned történt; a cédula csak aláírta.\n\n**Készítsd el a sajátodat:**\n\n— **1. Nevezd meg az állapotot,** amire engedélyt adsz magadnak (nyugalom, bátorság, bőség, kapcsolódás).\n\n— **2. Válassz hordozót:** egy tárgy, egy mozdulat, egy ujjtartás, egy rövid mondat — bármi, ami számodra jelentéssel bír. (Vedd észre: a Bardon-út IV. lépésének saját rítusai ugyanezen az elven működnek.)\n\n— **3. Töltsd fel:** amikor az állapot természetesen jelen van, végezd el a mozdulatot vagy fogd meg a tárgyat — kösd össze a kettőt, többször.\n\n— **4. Használd — aztán engedd el.** Az érett gyakorló egyre kevesebb cédulára szorul: egyszer majd maga a szándék lesz az engedély.\n\n**Az iránytű: a lelkesedés.** A vonal másik alaptanítása szerint a **legnagyobb lelkesedésed** mutatja mindig a következő lépést — cselekedj belőle, amennyire csak tudsz, elvárás nélkül. A lelkesedés nem szeszély: a magasabb éned iránytűje.",
+        "en": "One of the most liberating teachings of the Sassani line goes like this: **no tool, ritual or technique has power in itself.** The crystal, the ceremony, the mantra — all are **permission slips**: symbolic keys with which you allow yourself what you were always capable of.\n\n**Why do they still work?** Because your mind asks for a bridge. If an object or gesture helps you believe you may be calm, strong, healed — the bridge has served its purpose. The magic happened in you; the slip merely signed it.\n\n**Create your own:**\n\n— **1. Name the state** you grant yourself permission for (calm, courage, abundance, connection).\n\n— **2. Choose a carrier:** an object, a gesture, a finger posture, a short sentence — anything meaningful to you. (Notice: the personal rituals of Step IV on the Bardon path work on this very principle.)\n\n— **3. Charge it:** when the state is naturally present, perform the gesture or hold the object — bind the two together, repeatedly.\n\n— **4. Use it — then outgrow it.** The mature practitioner needs fewer and fewer slips: one day intention itself will be the permission.\n\n**The compass: excitement.** The line's other core teaching is that your **highest excitement** always shows the next step — act on it as fully as you can, with no insistence on outcome. Excitement is no whim: it is the compass of your higher self."
+      }
+    },
+    {
+      "id": "ryokah-alchemy-timer-chiball",
+      "kind": "timer",
+      "nevek": { "hu": "Chi-gömb gyakorlat — 5 perc", "en": "Chi Ball Practice — 5 min" },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Dörzsöld össze a tenyered, majd tartsd őket egymással szemben. Képzeld és érezd, ahogy köztük energiagömb formálódik. Töltsd fel egyetlen tiszta szándékkal, majd engedd útjára a célja felé — és oldd fel a kezed közti teret.",
+          "en": "Rub your palms together, then hold them facing each other. Imagine and feel a ball of energy forming between them. Charge it with a single clear intention, then release it toward its purpose — and dissolve the space between your hands."
+        },
+        "intervals": [
+          { "atSecond": 180, "label": { "hu": "Töltsd fel a szándékkal", "en": "Charge it with the intention" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-alchemy-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "Alkímiai jellemvonások", "en": "Alchemical character traits" },
+      "aspektusPack": [
+        { "key": "ry-asp-clinging", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "Ragaszkodás a régihez", "en": "Clinging to the old" } },
+        { "key": "ry-asp-forcing", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "A folyamat erőltetése", "en": "Forcing the process" } },
+        { "key": "ry-asp-bypass", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Spirituális megkerülés", "en": "Spiritual bypassing" } },
+        { "key": "ry-asp-suppression", "elem": "viz", "tukor": "fekete",
+          "nevek": { "hu": "Érzelmi elfojtás", "en": "Emotional suppression" } },
+        { "key": "ry-asp-letgo", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Elengedés", "en": "Letting go" } },
+        { "key": "ry-asp-excitement", "elem": "tuz", "tukor": "feher",
+          "nevek": { "hu": "A lelkesedés követése", "en": "Following excitement" } },
+        { "key": "ry-asp-essence", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "Tiszta lényeglátás", "en": "Clear sight of essence" } },
+        { "key": "ry-asp-embody", "elem": "fold", "tukor": "feher",
+          "nevek": { "hu": "Megtestesítés", "en": "Embodiment" } }
+      ]
+    },
+    {
+      "id": "ryokah-alchemy-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Alkímiai napló", "en": "Alchemical Journal" },
+      "journalTemplate": {
+        "aspektusKeys": ["ry-asp-embody"],
+        "prompts": {
+          "hu": "FERMENTÁCIÓ — Mi bomlik/alakul bennem most: ___\n\nDESZTILLÁCIÓ — A mai nap egy erős élménye: ___. Az alatta mozgó érzés/hiedelem: ___. A párlat egy mondatban: ___\n\nKOAGULÁCIÓ — A mai konkrét tett, amivel az új énem testet öltött: ___\n\nIRÁNYTŰ — Ma ebben éreztem a legnagyobb lelkesedést: ___",
+          "en": "FERMENTATION — What is decomposing/transforming in me now: ___\n\nDISTILLATION — One strong experience today: ___. The feeling/belief moving beneath it: ___. The distillate in one sentence: ___\n\nCOAGULATION — Today's concrete deed that embodied the new self: ___\n\nCOMPASS — Where I felt the highest excitement today: ___"
+        }
+      }
+    },
+    {
+      "id": "ryokah-alchemy-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "A Mű elsajátítása", "en": "Mastery of the Work" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "A Nagy Mű térképét megismertem (7 fokozat, 3 fázis fent)", "en": "Learned the map of the Great Work (7 stages, 3 above)" } },
+          { "key": "c2", "nevek": { "hu": "Fermentációs meditáció rendszeres gyakorlat", "en": "Fermentation meditation as a regular practice" } },
+          { "key": "c3", "nevek": { "hu": "Napi desztilláció: élmény → érzés/hiedelem → párlat-mondat", "en": "Daily distillation: experience → feeling/belief → distillate sentence" } },
+          { "key": "c4", "nevek": { "hu": "Minden nap egy koagulációs tett (az új énből cselekedve)", "en": "One coagulation deed daily (acting from the new self)" } },
+          { "key": "c5", "nevek": { "hu": "Saját Permission Slip megalkotva és feltöltve", "en": "Personal Permission Slip created and charged" } },
+          { "key": "c6", "nevek": { "hu": "Chi-gömb gyakorlat kipróbálva, teljes feloldással", "en": "Chi Ball practice done, with complete dissolution" } },
+          { "key": "c7", "nevek": { "hu": "A lelkesedés-iránytű napi követése és naplózása", "en": "The excitement compass followed and journaled daily" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-alchemy-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Önellenőrzés", "en": "Self-Check" },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Mi a fermentáció szerepe a belső alkímiában?", "en": "What is the role of fermentation in inner alchemy?" },
+            "options": {
+              "hu": ["A sötét fázis elkerülése pozitív gondolkodással", "A régi lebomlásának engedése, mert a bomlásból sarjad az új élet", "A múlt részletes elemzése, amíg minden érthető nem lesz", "A célok minél gyorsabb megvalósítása"],
+              "en": ["Avoiding the dark phase through positive thinking", "Allowing the old to decompose, for from decay the new life sprouts", "Analysing the past in detail until everything is understood", "Achieving goals as fast as possible"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Miben áll a Permission Slip valódi ereje?", "en": "Where does the real power of a Permission Slip lie?" },
+            "options": {
+              "hu": ["A tárgy anyagában és eredetében", "A pontos szertartási előírások betartásában", "Benned — az eszköz csak jelképes kulcs, amivel megengeded magadnak a képességet", "A csatornázott lény jelenlétében"],
+              "en": ["In the material and origin of the object", "In following the exact ceremonial prescriptions", "In you — the tool is only a symbolic key by which you allow yourself the ability", "In the presence of the channeled being"]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Mi a koaguláció lényege?", "en": "What is the essence of coagulation?" },
+            "options": {
+              "hu": ["Minél több belátás gyűjtése", "A finomított új állapot megszilárdítása testben és napi tettekben", "A meditáció idejének megduplázása", "A régi én emlékeinek megőrzése"],
+              "en": ["Gathering as many insights as possible", "Solidifying the refined new state in the body and in daily deeds", "Doubling the time spent in meditation", "Preserving the memories of the old self"]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-alchemy-md-source",
+      "kind": "markdown",
+      "nevek": { "hu": "Forrás és nyilatkozat", "en": "Source & Disclaimer" },
+      "text": {
+        "hu": "*Tanulási segédlet Ryokah (Sassani vonal) tanításainak szellemében, amelyeket Tyler Ellison közvetít (Health Thyself csatorna, thegalacticguide.com), a nyugati alkímia hét fokozatának klasszikus hagyományára építve. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes tanításokért keresd az eredeti forrásokat.*\n\n*A csatornázott tanításokat mindig saját megkülönböztető képességeddel mérlegeld: azt tartsd meg, ami a tapasztalatodban igazolódik. Ez nem orvosi és nem pszichológiai tanács — ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd.*",
+        "en": "*Study aid in the spirit of the teachings of Ryokah (Sassani line) as channeled by Tyler Ellison (Health Thyself channel, thegalacticguide.com), built on the classical tradition of the seven stages of Western alchemy. This text is an original paraphrase, not a verbatim quotation — seek the original sources for the complete teachings.*\n\n*Always weigh channeled teachings with your own discernment: keep what is confirmed in your experience. This is not medical or psychological advice — if you experience distress, consult a professional. Practice ethically and patiently.*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "formatVersion": 1,
+  "id": "iih-theme-condensers",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Fluidkondenzátorok",
+    "en": "Fluid Condensers"
+  },
+  "description": {
+    "hu": "Referenciamodul a fluidkondenzátorokról: mik ezek az anyagok, és hogyan vonzzák, tartják és sűrítik az elektromos és mágneses fluidumot meg az életerőt. Áttekinted a folyékony, szilárd és összetett típusokat, a felhasználási területeket és a biztonságos kezelés szabályait.",
+    "en": "A reference module on fluid condensers: what these substances are and how they attract, hold and condense the electric and magnetic fluids and the vital force. You will survey liquid, solid and compound types, their fields of use, and the rules of safe handling."
+  },
+  "items": [
+    {
+      "id": "iih-theme-condensers-what",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Mi a fluidkondenzátor?",
+        "en": "What Is a Fluid Condenser?"
+      },
+      "text": {
+        "hu": "A fluidkondenzátor neve pontosan azt mondja, amit az anyag tesz: **vonz, megköt és besűrít**. Ahogy a lencse egyetlen pontba gyűjti a szétszórt fényt, úgy gyűjti magába a kondenzátor az elektromos és a mágneses fluidumot, valamint az életerőt, amelyet a gyakorló beléje vetít. Nem varázsszer, hanem hordozó: olyan anyag, amelynek természete különösen alkalmas arra, hogy a finom erőket megtartsa és tömörítse.\n\n**1. Erősítő, nem forrás.** A kondenzátor önmagában halott anyag. Amit tárol, azt tőled kapja: a képzett akarat, a plasztikus képzelet és az érzés tölti fel. Ezért a legjobb kondenzátor is csak annyit ér, amennyit a mágus képes belé sűríteni — a gyenge töltés gyenge marad a legnemesebb anyagban is.\n\n**2. Soha nem pótlék.** A rendszeres képzés célja, hogy magadból formálj eszközt; a kondenzátor ezt a munkát felnagyítja, de nem helyettesíti. Aki külső segédeszközöktől várja a fejlődést, az a fáradságot spórolná meg — és pontosan a lényeget veszíti el. A képzett mágus kondenzátor nélkül is dolgozik; a kondenzátorral csak messzebbre nyúl.\n\n**3. Helye a képzésben.** A hagyomány a rendszeres út későbbi szakaszaihoz köti a kondenzátorok gyakorlati használatát, amikor a fluidumok tudatos irányítása már begyakorolt készség. Ez a modul referenciaként szolgál: tájékozódj belőle nyugodtan, de az alkalmazást hagyd arra az időre, amikor az alapok szilárdan állnak.",
+        "en": "The name says exactly what the substance does: a fluid condenser **attracts, binds and condenses**. As a lens gathers scattered light into a single point, the condenser gathers into itself the electric and magnetic fluids and the vital force that the practitioner projects into it. It is not a magic potion but a carrier: a material whose nature is unusually suited to holding and compacting the subtle forces.\n\n**1. An amplifier, not a source.** By itself a condenser is dead matter. Whatever it stores, it receives from you: the trained will, the plastic imagination and the feeling charge it. Even the finest condenser is therefore worth only as much as the magician can condense into it — a weak charge stays weak in the noblest material.\n\n**2. Never a substitute.** The purpose of systematic training is to forge yourself into the instrument; the condenser magnifies that work, it does not replace it. Whoever expects progress from external aids is trying to save the effort — and loses precisely the essence. The trained magician works without a condenser; with one, he simply reaches further.\n\n**3. Its place in the training.** The tradition ties the practical use of condensers to the later stages of the systematic path, when the conscious direction of the fluids is already a practised skill. This module serves as a reference: orient yourself here freely, but leave the application for the time when the foundations stand firm."
+      }
+    },
+    {
+      "id": "iih-theme-condensers-types",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Típusok: folyékony, szilárd, összetett",
+        "en": "Types: Liquid, Solid, Compound"
+      },
+      "text": {
+        "hu": "A hagyomány három nagy csoportot különböztet meg. A felosztás nem kémiai, hanem gyakorlati: azt mutatja meg, milyen munkához milyen hordozó való.\n\n**1. Egyszerű folyékony kondenzátorok.** A klasszikus példa a gyógynövény-főzet — leggyakrabban a kamilláé —, amelyet alkohol tartósít, és amelynek befogadóképességét a hagyomány szerint egy leheletnyi arany emeli meg. Fontos: ez itt tájékoztató leírás, nem recept. Az elkészítés részletei az eredeti forrásműben szerepelnek, és csak a rendszeres képzés megfelelő fokán van értelmük. A folyékony kondenzátor sokoldalú: felületek bevonására, itatásra, átmeneti töltésekre való.\n\n**2. Szilárd kondenzátorok.** Ide gyanták, bizonyos fémek és ásványok tartoznak. Ott használatosak, ahol tartós hordozóra van szükség: a szilárd anyag hosszan őrzi a beléje sűrített töltést, ezért talizmánok és amulettek természetes alapanyaga.\n\n**3. Összetett kondenzátorok.** Több összetevő keveréke, erősebb és igényesebb munkákhoz. A több komponens nagyobb befogadóképességet ad — de nagyobb felelősséget is kíván, mert az erősebb hordozó az elhibázott töltést is hívebben megőrzi.\n\n**Melyiket válaszd?** Ez a kezdő kérdése, és a válasz megnyugtató: a legtöbb munkához az egyszerű kondenzátor bőven elegendő. Az erő nem az egzotikus összetevőlistában lakik, hanem a töltés minőségében — vagyis benned.",
+        "en": "The tradition distinguishes three broad groups. The division is not chemical but practical: it shows which carrier suits which kind of work.\n\n**1. Simple liquid condensers.** The classic example is an herbal decoction — most often of chamomile — preserved with alcohol, its capacity traditionally raised by a trace of gold. Important: this is an orientation-level description, not a recipe. The details of preparation belong to the original source work and only make sense at the appropriate stage of systematic training. A liquid condenser is versatile: it serves for coating surfaces, for soaking, for temporary charges.\n\n**2. Solid condensers.** Resins, certain metals and minerals belong here. They are used where a lasting carrier is needed: solid matter guards the charge condensed into it for a long time, which makes it the natural base material of talismans and amulets.\n\n**3. Compound condensers.** Mixtures of several ingredients, meant for stronger and more demanding operations. More components give greater capacity — and demand greater responsibility, because a stronger carrier also preserves a botched charge more faithfully.\n\n**Which one should you choose?** It is the beginner's question, and the answer is reassuring: for most work the simple condenser is amply sufficient. The power does not live in an exotic ingredient list but in the quality of the charge — that is, in you."
+      }
+    },
+    {
+      "id": "iih-theme-condensers-uses",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Felhasználás és biztonságos kezelés",
+        "en": "Uses and Safe Handling"
+      },
+      "text": {
+        "hu": "Mire való a kondenzátor a gyakorlatban, és hogyan bánj vele úgy, hogy segítsen, ne ártson?\n\n**1. Felhasználási területek.** A hagyományos alkalmazások: a mágikus tükör felületének kezelése, hogy a tükör jobban megtartsa a töltést; talizmánok és amulettek töltése, ahol a szilárd kondenzátor a tartós hordozó; az elementárteremtés és más teremtő munkák támogatása; valamint az impregnálási gyakorlatok — ezek a rendszeres képzés nyolcadik fokától jelennek meg, amikor a fluidumok irányítása már készség.\n\n**2. Elkészítés és tárolás.** A kondenzátort gondosan készítsd és gondosan tárold: tiszta edényben, lefedve, fénytől védve, minden esetben felcímkézve, hogy évek múlva is tudd, mi van benne. A rendetlenség itt nem szépséghiba, hanem hibaforrás.\n\n**3. Tartsd személyesen.** Az elkészített kondenzátor a te munkád lenyomatát hordozza. Ne add kölcsön, ne hagyd mások keze ügyében, és ne engedd, hogy illetéktelen hozzáérjen — a hagyomány szerint az idegen érintés megzavarja, szennyezi a tárolt töltést.\n\n**4. Biztonság mindenek előtt.** Két szabály nem alku tárgya. Először: a kondenzátort **soha ne vedd be** — külső használatra készül, nem fogyasztásra. Másodszor: tartsd távol másoktól, gyerekektől különösen. És a legfontosabb elv, amely az egészet keretezi: a külső segédeszköz erősít, de **a jellem irányít**. Amilyen az ember, olyan lesz a munkája — kondenzátorral is, anélkül is.",
+        "en": "What is a condenser for in practice, and how do you handle it so that it helps rather than harms?\n\n**1. Fields of use.** The traditional applications: treating the surface of the magic mirror so that it holds a charge better; charging talismans and amulets, where the solid condenser serves as the lasting carrier; supporting the creation of elementaries and other creative operations; and the impregnation exercises — these appear from the eighth step of the systematic training onward, when directing the fluids is already a skill.\n\n**2. Preparation and storage.** Prepare the condenser with care and store it with care: in a clean vessel, covered, protected from light, and always labeled, so that years later you still know what it contains. Untidiness here is not a cosmetic flaw but a source of error.\n\n**3. Keep it personal.** A finished condenser carries the imprint of your work. Do not lend it, do not leave it within others' reach, and do not let unauthorized hands touch it — by the tradition's account, a stranger's touch disturbs and contaminates the stored charge.\n\n**4. Safety above all.** Two rules are not negotiable. First: **never ingest** a condenser — it is made for external use, not for consumption. Second: keep it away from others, from children especially. And the principle that frames it all: the external aid amplifies, but **character directs**. As the person is, so will the work be — with a condenser or without one."
+      }
+    },
+    {
+      "id": "iih-theme-condensers-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Check Quiz"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mi a fluidkondenzátor alapvető szerepe a mágikus munkában?",
+              "en": "What is the fundamental role of a fluid condenser in magical work?"
+            },
+            "options": {
+              "hu": [
+                "Helyettesíti a hosszú gyakorlást, így képzettség nélkül is működik",
+                "Erősítőként vonzza és sűríti a fluidumokat, de a képzett képességet sosem pótolja",
+                "Önmagában hoz létre erőket, a mágustól függetlenül",
+                "Csak szimbolikus dísz, gyakorlati szerep nélkül"
+              ],
+              "en": [
+                "It replaces long practice, so it works without any trained ability",
+                "As an amplifier it attracts and condenses the fluids, but never substitutes for trained ability",
+                "It generates forces by itself, independently of the magician",
+                "It is purely symbolic decoration with no practical role"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Melyik felsorolás tartalmaz klasszikus szilárd kondenzátor-anyagokat?",
+              "en": "Which list contains classic solid condenser materials?"
+            },
+            "options": {
+              "hu": [
+                "Gyanták, bizonyos fémek és ásványok",
+                "Kizárólag desztillált víz és cukor",
+                "Papír, műanyag és üveggyapot",
+                "Bármilyen étel, amit elfogyasztasz"
+              ],
+              "en": [
+                "Resins, certain metals and minerals",
+                "Only distilled water and sugar",
+                "Paper, plastic and glass wool",
+                "Any food that you eat"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Hogyan kezeld helyesen az elkészített kondenzátort?",
+              "en": "How should you handle a finished condenser correctly?"
+            },
+            "options": {
+              "hu": [
+                "Oszd meg másokkal, hogy erősebb legyen",
+                "Idd meg rendszeresen, hogy belülről hasson",
+                "Tartsd személyesen, lefedve és felcímkézve, és soha ne vedd be",
+                "Hagyd nyitva a napfényen, hogy magától töltődjön"
+              ],
+              "en": [
+                "Share it with others so it becomes stronger",
+                "Drink it regularly so it works from within",
+                "Keep it personal, covered and labeled, and never ingest it",
+                "Leave it open in sunlight so it charges by itself"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-condensers-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába\" (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Franz Bardon's \"Initiation Into Hermetics\". The text is an original summary, not a verbatim quotation — for the complete instructions always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, consult a professional. Carry out the exercises ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

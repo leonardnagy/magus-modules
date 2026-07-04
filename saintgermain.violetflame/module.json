@@ -1,0 +1,189 @@
+{
+  "formatVersion": 1,
+  "id": "saintgermain-violetflame",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Saint Germain — A Lila Láng alkímiája",
+    "en": "Saint Germain — The Alchemy of the Violet Flame"
+  },
+  "description": {
+    "hu": "Spirituális transzmutáció a modern ezoterikus hagyomány (I AM mozgalom, Summit Lighthouse) Saint Germain-tanításai szellemében: a Lila Láng napi gyakorlata kilenc lépésben, valamint a Kilenc Lépés a Precipitációhoz — az alkímiai teremtés útja. Szabad ütemben gyakorolható.",
+    "en": "Spiritual transmutation in the spirit of the Saint Germain teachings of the modern esoteric tradition (I AM movement, Summit Lighthouse): the daily Violet Flame practice in nine steps, and the Nine Steps to Precipitation — the path of alchemical creation. Practice at your own pace."
+  },
+  "items": [
+    {
+      "id": "sg-vf-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető — a hetedik sugár", "en": "Introduction — the Seventh Ray" },
+      "text": {
+        "hu": "A modern ezoterikus hagyományban **Saint Germain** a felemelkedett mesterek egyike: a **hetedik sugár** — a szabadság, a transzmutáció, a szertartás és az alkímia lila sugarának — tanítója. Az ő nevéhez kötődik a **Lila Láng** gyakorlata, amelyet a XX. századi I AM mozgalom és a Summit Lighthouse tanításai tettek széles körben ismertté.\n\nEz az alkímia nem fémeket nemesít, hanem **téged**: a harag, a félelem, az önvád, a régi terhek energiáját alakítja át fénnyé és szabadsággá. A lila láng a **transzmutáció** eszköze — nem elfojt, hanem átalakít.\n\nA modul két gyakorlati rendszert dolgoz fel:\n\n— **A Lila Láng napi gyakorlata** kilenc lépésben — a mindennapi belső tisztítás szertartása.\n— **A Kilenc Lépés a Precipitációhoz** — az alkímiai teremtés útja: hogyan öltsön testet egy tiszta belső tervrajz.\n\n**Megkülönböztetés:** ez a tananyag egy élő spirituális hagyomány tanításain alapul. Semmit ne fogadj el vakon — azt tartsd meg, ami a saját tapasztalatodban igazolódik. A gyakorlatok jól kiegészítik a Bardon-utat és a Ryokah-alkímiát: mindhárom ugyanarról beszél — a tudatos átalakulásról.",
+        "en": "In the modern esoteric tradition **Saint Germain** is one of the ascended masters: the teacher of the **seventh ray** — the violet ray of freedom, transmutation, ceremony and alchemy. His name is bound to the practice of the **Violet Flame**, made widely known by the 20th-century I AM movement and the teachings of the Summit Lighthouse.\n\nThis alchemy does not ennoble metals but **you**: it transforms the energy of anger, fear, self-blame and old burdens into light and freedom. The violet flame is the instrument of **transmutation** — it does not suppress, it transforms.\n\nThe module works through two practical systems:\n\n— **The daily Violet Flame practice** in nine steps — the ceremony of everyday inner purification.\n— **The Nine Steps to Precipitation** — the path of alchemical creation: how a clear inner blueprint takes body.\n\n**Discernment:** this material is based on the teachings of a living spiritual tradition. Accept nothing blindly — keep what is confirmed in your own experience. The practices complement the Bardon path and the Ryokah alchemy well: all three speak of the same thing — conscious transformation."
+      }
+    },
+    {
+      "id": "sg-vf-md-flame",
+      "kind": "markdown",
+      "nevek": { "hu": "Mi a Lila Láng?", "en": "What is the Violet Flame?" },
+      "text": {
+        "hu": "A hagyomány szerint a lila láng a **legmagasabb rezgésű látható fény** minősége: ibolya, ametiszt és rózsás-lila árnyalatokban izzó szellemi tűz, amely képes a megkötött, nehéz energiát — a hagyomány nyelvén a **karmát** — feloldani és fénnyé alakítani.\n\n**Hogyan „működik”?** Gondolj minden nehéz érzésre, régi sérelemre, ismétlődő mintára úgy, mint megkötött energiára: valaha eleven erő volt, most teherként kering benned. A lila láng gyakorlata három dolgot tesz egyszerre:\n\n— **Megnevezi** a terhet — mert csak azt lehet átadni, amit felvállalsz.\n— **Átadja** a lángnak — a képzelet és a kimondott szó erejével.\n— **Fénnyé engedi** — nem visszafojtja, nem elemzi szét, hanem hagyja átalakulni.\n\n**Miben más ez, mint az elfojtás?** Az elfojtás lenyomja a sötétet a pincébe, ahol tovább dolgozik. A transzmutáció **kiengedi a fényre**, és hagyja, hogy a tűz azzá alakítsa, ami eredetileg volt: szabad energiává.\n\n**A gyakorlat gerince a kimondott szó** — a hagyományban dekrétumnak nevezett, ritmikus megerősítés — és a **vizualizáció** együtt. A test kimondja, a képzelet látja, a szív átadja: így hármasával dolgozik az alkimista.",
+        "en": "According to the tradition the violet flame is the quality of the **highest-vibration visible light**: a spiritual fire glowing in violet, amethyst and rose-purple hues, able to dissolve bound, heavy energy — in the tradition's language, **karma** — and turn it into light.\n\n**How does it 'work'?** Think of every heavy feeling, old grievance, repeating pattern as bound energy: once it was living force, now it circles in you as burden. The violet flame practice does three things at once:\n\n— **It names** the burden — for only what you own can be handed over.\n— **It hands it** to the flame — by the power of imagination and the spoken word.\n— **It lets it become light** — not pushing it back, not analysing it apart, but letting the fire transform it.\n\n**How is this different from suppression?** Suppression presses the dark down into the cellar, where it keeps working. Transmutation **brings it out into the light** and lets the fire return it to what it originally was: free energy.\n\n**The backbone of the practice is the spoken word** — the rhythmic affirmation the tradition calls a decree — together with **visualization**. The body speaks it, the imagination sees it, the heart hands it over: thus the alchemist works threefold."
+      }
+    },
+    {
+      "id": "sg-vf-md-ninesteps",
+      "kind": "markdown",
+      "nevek": { "hu": "A napi gyakorlat kilenc lépése", "en": "The Nine Steps of the Daily Practice" },
+      "text": {
+        "hu": "**1. Szánj rá időt minden nap.** Legalább tizenöt percet, lehetőleg reggel. Legjobb egy tiszta, szellős hely — egy gyertya, kristály vagy kép segíthet a hangolódásban, de nem feltétel.\n\n**2. Kezdd megszólítással.** Hívd a fényt a saját szavaiddal: fordulj a benned élő isteni jelenléthez, és — ha a hagyomány közel áll hozzád — Saint Germainhez és a hetedik sugár angyalaihoz.\n\n**3. Védelem — mindig először.** Mielőtt terheket mozgatsz, zárd le az aurád: képzeld el, hogy a fejed fölül ragyogó **fényoszlop** (a hagyományban: Tube of Light) ereszkedik le és burkol be tetőtől talpig. Kérheted Mihály arkangyal oltalmát is. Terhekkel dolgozni védelem nélkül olyan, mint viharban nyitott ajtóval takarítani.\n\n**4. Nyisd meg a munkát.** Egy rövid bevezető mondattal jelentsd ki, hogy a saját legmagasabb éned nevében dolgozol, és a láng munkáját a javadra és mindenki javára kéred.\n\n**5. A dekrétum — a kimondott szó.** Mondd a megerősítést előbb lassan, minden szót átérezve, majd fokozatosan gyorsulva, ahogy a vonat gyorsul. Ismételd hármasával: 3-szor, 9-szer, akár 36-szor. (A következő lecke ad hozzá szöveget.)\n\n**6. Vizualizáció.** Lásd a lila lángoszlopot magad körül — nagyjából karnyújtásnyi sugarú, fejed fölé magasodó tűzoszlop. Lásd, ahogy a nehéz energia sötét darabkákként válik le rólad, a lángban fénnyé lobban, és felszáll.\n\n**7. Dolgozz konkrét célokon.** Nevezd meg pontosan: „átadom a lángnak a haragomat X helyzet miatt” — kapcsolat, egészség, pénzügyi szorongás, félelem. A pontosság erő.\n\n**8. A régi rétegek.** Rendszeres gyakorlásnál régi emlékek merülhetnek fel. Ne fojtsd el őket: áraszd el lila lánggal, **bocsáss meg** — magadnak is —, és engedd el. Ha túl nehéz, ami felszínre jön, lassíts, és kérj szakmai segítséget: a gyakorlat nem terápia.\n\n**9. Terjeszd ki.** A végén ne csak magadra dolgozz: küldd a lángot az otthonodra, szeretteidre, a bolygóra. Az alkimista végül **forrássá** válik, amelyből mások is meríthetnek.",
+        "en": "**1. Give it time every day.** At least fifteen minutes, preferably in the morning. Best in a clean, airy place — a candle, crystal or image can help attunement, but is not required.\n\n**2. Begin with an address.** Call the light in your own words: turn to the divine presence living in you and — if the tradition is close to you — to Saint Germain and the angels of the seventh ray.\n\n**3. Protection — always first.** Before you move burdens, seal your aura: imagine a radiant **pillar of light** (in the tradition: the Tube of Light) descending from above your head and enveloping you head to toe. You may also ask the protection of Archangel Michael. Working with burdens without protection is like cleaning in a storm with the door open.\n\n**4. Open the work.** With a short opening sentence declare that you work in the name of your own highest self, and ask the flame's work for your good and the good of all.\n\n**5. The decree — the spoken word.** Speak the affirmation slowly at first, feeling every word, then gradually faster, as a train gathers speed. Repeat in threes: 3 times, 9 times, even 36. (The next lesson provides text.)\n\n**6. Visualization.** See the violet pillar of flame around you — roughly an arm's reach in radius, towering above your head. See the heavy energy peel off you as dark flecks, flare into light in the flame, and rise.\n\n**7. Work on concrete aims.** Name it precisely: 'I hand to the flame my anger about situation X' — a relationship, health, financial anxiety, fear. Precision is power.\n\n**8. The old layers.** With regular practice old memories may surface. Do not suppress them: flood them with violet flame, **forgive** — yourself included — and release. If what surfaces is too heavy, slow down and seek professional help: the practice is not therapy.\n\n**9. Extend it.** At the end do not work only on yourself: send the flame to your home, your loved ones, the planet. The alchemist finally becomes a **fountain** from which others may draw."
+      }
+    },
+    {
+      "id": "sg-vf-timer-daily",
+      "kind": "timer",
+      "nevek": { "hu": "Lila Láng napi gyakorlat — 15 perc", "en": "Violet Flame Daily Practice — 15 min" },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Kövesd a kilenc lépést: megszólítás és védelem (fényoszlop!), majd dekrétum egyre élénkebb ritmusban, végül vizualizáció — a lila tűzoszlop átjár és megtisztít. Zárd hálával, és terjeszd ki a fényt.",
+          "en": "Follow the nine steps: address and protection (pillar of light!), then the decree in a quickening rhythm, finally visualization — the violet pillar of fire pervades and purifies you. Close with gratitude and extend the light."
+        },
+        "intervals": [
+          { "atSecond": 0, "label": { "hu": "Megszólítás és védelem", "en": "Address and protection" } },
+          { "atSecond": 240, "label": { "hu": "Dekrétum — a kimondott szó", "en": "Decree — the spoken word" } },
+          { "atSecond": 660, "label": { "hu": "Vizualizáció és kiterjesztés", "en": "Visualization and extension" } }
+        ]
+      }
+    },
+    {
+      "id": "sg-vf-md-decree",
+      "kind": "markdown",
+      "nevek": { "hu": "A dekrétum — gyakorló szöveg", "en": "The Decree — Practice Text" },
+      "text": {
+        "hu": "A hagyomány klasszikus dekrétumai a forrásoknál találhatók — itt egy **saját, gyakorlásra szánt megerősítést** kapsz, amelyet szabadon alakíthatsz. A lényeg nem a szöveg szentsége, hanem a **ritmus, az átélés és az ismétlés**.\n\n**Magyar gyakorlószöveg:**\n\n*Lila tűz, élő fény,*\n*lobogj át most a lényemén!*\n*Ami teher, ami árny,*\n*fénnyé váljon — szabaddá válj!*\n\n*Én a fény oszlopa vagyok,*\n*a láng bennem föl-le ragyog.*\n*Minden szavam tiszta erő —*\n*a szabadság bennem felnövő.*\n\n**Hogyan dolgozz vele:**\n\n— Először **lassan**, minden sort átérezve — a képzelet lásson mindent, amit a száj kimond.\n— Majd **gyorsulva**, ritmusban — a szavak ilyenkor már nem gondolatok, hanem hordozóhullám.\n— Számold hármasával: 3, 9, 36 ismétlés. A számolás maga is a figyelem horgonya.\n\n— **A saját szavad a legerősebb.** Ha érik benned egy saját dekrétum, írd meg — rövid sorok, tiszta képek, jelen idő. Írd be a naplódba, és az válik a te lángformáddá.",
+        "en": "The classical decrees of the tradition are found at the sources — here you receive an **original affirmation meant for practice**, which you may shape freely. What matters is not the sanctity of the text but **rhythm, feeling and repetition**.\n\n**English practice text:**\n\n*Violet fire, living light,*\n*blaze through all my being bright!*\n*What is burden, what is shade,*\n*into light be freely made!*\n\n*I am a pillar of the flame,*\n*its glow runs through my very frame.*\n*Each word I speak is power free —*\n*and freedom rises up in me.*\n\n**How to work with it:**\n\n— First **slowly**, feeling every line — let the imagination see all that the mouth speaks.\n— Then **quickening**, in rhythm — the words are then no longer thoughts but a carrier wave.\n\n— Count in threes: 3, 9, 36 repetitions. The counting itself anchors attention.\n\n— **Your own word is the strongest.** When a decree of your own ripens in you, write it — short lines, clear images, present tense. Put it in your journal, and it becomes your form of the flame."
+      }
+    },
+    {
+      "id": "sg-vf-timer-decree",
+      "kind": "timer",
+      "nevek": { "hu": "Dekrétum-gyakorlat — 5 perc", "en": "Decree Practice — 5 min" },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Mondd a dekrétumot előbb lassan, átérezve, majd fokozatosan gyorsítva, ritmusban. Közben lásd a lila lángot, ahogy egyre fényesebben lobog körülötted.",
+          "en": "Speak the decree slowly and feelingly at first, then gradually faster, in rhythm. Meanwhile see the violet flame blazing ever brighter around you."
+        },
+        "intervals": [
+          { "atSecond": 150, "label": { "hu": "Gyorsíts — a szó hordozóhullám", "en": "Quicken — the word is a carrier wave" } }
+        ]
+      }
+    },
+    {
+      "id": "sg-vf-md-precipitation",
+      "kind": "markdown",
+      "nevek": { "hu": "Kilenc lépés a precipitációhoz", "en": "Nine Steps to Precipitation" },
+      "text": {
+        "hu": "A hagyomány másik nagy rendszere a **precipitáció** — az alkímiai teremtés: hogyan „csapódik ki” egy tiszta belső kép a megélt valóságba. (A teljes tanítást a *Saint Germain On Alchemy* című könyv őrzi — itt a kilenc lépés gyakorlati váza következik, saját összefoglalásban.)\n\n**1. A fény a kulcs.** Minden teremtés fénnyel kezdődik — hangolódj előbb a fényre, csak aztán a formára.\n\n**2. Készíts részletes tervrajzot.** Az elmédben rajzold meg pontosan, amit létre akarsz hívni: méret, szín, minőség, anyag — vagy ha nem tárgy: a helyzet pontos képe, hangulata, részletei.\n\n**3. Határozd meg a helyét.** Hol jelenjen meg? A fizikai teredben, az életed melyik területén?\n\n**4. Tartsd a képet.** Vésd emlékezetbe a tervrajzot, és tartsd fenn állandóan — ahogy a rézkarcoló őrzi a lemezt. Az ingadozó kép ingadozó eredményt ad.\n\n**5. Tisztíts a lila lánggal.** Ahol blokkot, kételyt, régi mintát érzel a cél körül, ott előbb a láng dolgozzon — a precipitáció tiszta csatornát kíván.\n\n**6. Hívd a magasabb elmét.** Engedd, hogy a benned lévő magasabb intelligencia tökéletesítse a tervet — lehet, hogy jobbat tud, mint az eredeti elképzelésed.\n\n**7. Engedd el a görcsöt.** A ragaszkodás szorítása fojtja a teremtést. Tartsd a képet — de nyitott tenyérrel, nem ökölbe zárva.\n\n**8. Fogadd el, amikor megjelenik.** Sokszor másképp vagy máskor érkezik, mint vártad. Ne kérdőjelezd meg, ne kicsinyeld le — ismerd fel.\n\n**9. Hála és pecsét.** Zárd le a művet köszönettel, és jelentsd ki késznek: *„Elfogadom késznek.”* A hála a koaguláció pecsétje — ismerős ez a Ryokah-modulból is.",
+        "en": "The tradition's other great system is **precipitation** — alchemical creation: how a clear inner image 'precipitates' into lived reality. (The full teaching is kept in the book *Saint Germain On Alchemy* — here follows the practical frame of the nine steps, in an original summary.)\n\n**1. Light is the key.** All creation begins with light — attune first to the light, only then to the form.\n\n**2. Make a detailed blueprint.** Draw precisely in your mind what you wish to call forth: size, colour, quality, material — or if not an object: the exact image, mood and details of the situation.\n\n**3. Determine its place.** Where shall it appear? In your physical space, in which area of your life?\n\n**4. Hold the image.** Memorize the blueprint and hold it constantly — as the engraver guards his plate. A wavering image gives a wavering result.\n\n**5. Purify with the violet flame.** Where you feel a block, a doubt, an old pattern around the aim, let the flame work there first — precipitation asks for a clean channel.\n\n**6. Call the higher mind.** Let the higher intelligence within you perfect the plan — it may know better than your original idea.\n\n**7. Release the clench.** The grip of attachment strangles creation. Hold the image — but with an open palm, not a closed fist.\n\n**8. Accept it when it appears.** It often arrives differently or at another time than expected. Do not question it, do not belittle it — recognize it.\n\n**9. Gratitude and seal.** Close the work with thanks and declare it done: *'I accept it done.'* Gratitude is the seal of coagulation — familiar from the Ryokah module as well."
+      }
+    },
+    {
+      "id": "sg-vf-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "A Lila Láng jellemvonásai", "en": "Violet Flame character traits" },
+      "aspektusPack": [
+        { "key": "sg-asp-resentment", "elem": "viz", "tukor": "fekete",
+          "nevek": { "hu": "Neheztelés", "en": "Resentment" } },
+        { "key": "sg-asp-burden", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "A múlt cipelése", "en": "Carrying the past" } },
+        { "key": "sg-asp-doubt", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Kételkedés a folyamatban", "en": "Doubting the process" } },
+        { "key": "sg-asp-grasping", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "Görcsös irányítás", "en": "Grasping control" } },
+        { "key": "sg-asp-forgiveness", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Megbocsátás", "en": "Forgiveness" } },
+        { "key": "sg-asp-freedom", "elem": "tuz", "tukor": "feher",
+          "nevek": { "hu": "A szabadság lángja", "en": "The flame of freedom" } },
+        { "key": "sg-asp-blueprint", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "Tiszta tervrajz", "en": "Clear blueprint" } },
+        { "key": "sg-asp-gratitude", "elem": "fold", "tukor": "feher",
+          "nevek": { "hu": "Hála-pecsét", "en": "Seal of gratitude" } }
+      ]
+    },
+    {
+      "id": "sg-vf-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Lila Láng napló", "en": "Violet Flame Journal" },
+      "journalTemplate": {
+        "aspektusKeys": ["sg-asp-forgiveness"],
+        "prompts": {
+          "hu": "TRANSZMUTÁCIÓ — Ma ezt adtam át a lángnak: ___\n\nMEGBOCSÁTÁS — Akinek/aminek ma megbocsátottam (magamnak is): ___\n\nTERVRAJZ — Amin a precipitáció dolgozik: ___ (a kép tiszta: igen/nem)\n\nHÁLA — Ma ezért mondtam köszönetet: ___",
+          "en": "TRANSMUTATION — Today I handed this to the flame: ___\n\nFORGIVENESS — Whom/what I forgave today (myself included): ___\n\nBLUEPRINT — What precipitation is working on: ___ (the image is clear: yes/no)\n\nGRATITUDE — Today I gave thanks for: ___"
+        }
+      }
+    },
+    {
+      "id": "sg-vf-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "A gyakorlat elsajátítása", "en": "Mastery of the Practice" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "Napi 15 perc Lila Láng gyakorlat", "en": "15 minutes of Violet Flame practice daily" } },
+          { "key": "c2", "nevek": { "hu": "Védelem (fényoszlop) minden munka előtt", "en": "Protection (pillar of light) before every session" } },
+          { "key": "c3", "nevek": { "hu": "Dekrétum lassan majd gyorsulva, hármasával számolva", "en": "Decree slow then quickening, counted in threes" } },
+          { "key": "c4", "nevek": { "hu": "Vizualizáció: a lila tűzoszlop és a leváló terhek", "en": "Visualization: the violet pillar and the peeling burdens" } },
+          { "key": "c5", "nevek": { "hu": "Legalább egy konkrét helyzet transzmutálva", "en": "At least one concrete situation transmuted" } },
+          { "key": "c6", "nevek": { "hu": "Precipitációs tervrajz elkészítve és naponta tartva", "en": "Precipitation blueprint made and held daily" } },
+          { "key": "c7", "nevek": { "hu": "A gyakorlat kiterjesztve másokra / a bolygóra", "en": "The practice extended to others / the planet" } }
+        ]
+      }
+    },
+    {
+      "id": "sg-vf-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Önellenőrzés", "en": "Self-Check" },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Mi a Lila Láng munkájának lényege?", "en": "What is the essence of the Violet Flame's work?" },
+            "options": {
+              "hu": ["A negatív érzések elfojtása és távoltartása", "A nehéz, megkötött energia átalakítása fénnyé — transzmutáció", "A múlt részletes elemzése", "A kellemetlen emberek elkerülése"],
+              "en": ["Suppressing and keeping away negative feelings", "Transforming heavy, bound energy into light — transmutation", "Analysing the past in detail", "Avoiding unpleasant people"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Mi az első teendő, mielőtt terhekkel dolgozol?", "en": "What comes first, before you work with burdens?" },
+            "options": {
+              "hu": ["A leggyorsabb dekrétum-tempó felvétele", "A védelem: a fényoszlop lehívása és az aura lezárása", "A múlt emlékeinek előhívása", "A gyertya meggyújtása"],
+              "en": ["Taking up the fastest decree tempo", "Protection: calling down the pillar of light and sealing the aura", "Summoning memories of the past", "Lighting the candle"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Mi zárja le a precipitáció kilenc lépését?", "en": "What closes the nine steps of precipitation?" },
+            "options": {
+              "hu": ["A tervrajz újrarajzolása", "A kép elengedése és elfelejtése", "Hála és pecsét: „Elfogadom késznek”", "A folyamat megismétlése elölről"],
+              "en": ["Redrawing the blueprint", "Releasing and forgetting the image", "Gratitude and seal: 'I accept it done'", "Repeating the process from the start"]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "sg-vf-md-source",
+      "kind": "markdown",
+      "nevek": { "hu": "Forrás és nyilatkozat", "en": "Source & Disclaimer" },
+      "text": {
+        "hu": "*Tanulási segédlet a modern ezoterikus hagyomány Saint Germain-tanításai szellemében — elsősorban a Summit Lighthouse „Lila Láng” tanításai és Mark L. Prophet & Elizabeth Clare Prophet „Saint Germain On Alchemy” című könyve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet; a hagyomány klasszikus dekrétumaiért és a teljes tanításért keresd az eredeti forrásokat.*\n\n*A tanításokat mindig saját megkülönböztető képességeddel mérlegeld: azt tartsd meg, ami a tapasztalatodban igazolódik. Ez nem orvosi és nem pszichológiai tanács — a gyakorlat nem terápia, és nem helyettesíti a szakszerű ellátást. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez.*",
+        "en": "*Study aid in the spirit of the Saint Germain teachings of the modern esoteric tradition — chiefly after the Summit Lighthouse 'Violet Flame' teachings and the book 'Saint Germain On Alchemy' by Mark L. Prophet & Elizabeth Clare Prophet. This text is an original summary, not a verbatim quotation; for the tradition's classical decrees and the complete teaching, seek the original sources.*\n\n*Always weigh the teachings with your own discernment: keep what is confirmed in your experience. This is not medical or psychological advice — the practice is not therapy and does not replace professional care. If you experience distress, consult a professional.*"
+      }
+    }
+  ]
+}

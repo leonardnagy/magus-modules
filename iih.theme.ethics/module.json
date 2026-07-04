@@ -1,0 +1,288 @@
+{
+  "formatVersion": 1,
+  "id": "iih-theme-ethics",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Etika és a mágikus napló",
+    "en": "Ethics & the Magical Diary"
+  },
+  "description": {
+    "hu": "Ez a modul a hermetikus képzés etikai alapjait és a mágikus napló módszerét dolgozza fel: az egyensúly törvényét, a titoktartást és a becsületes önmegfigyelést. Gyakorlati eszközöket ad — esti áttekintést, naplósablont, ellenőrzőlistát —, hogy a haladásodat ne érzésekre, hanem tárgyilagos feljegyzésekre építsd.",
+    "en": "This module covers the ethical foundations of Hermetic training and the method of the magical diary: the law of equilibrium, discretion, and honest self-observation. It gives you practical tools — an evening review, a journal template, a checklist — so you build your progress on objective records rather than impressions."
+  },
+  "items": [
+    {
+      "id": "iih-theme-ethics-foundation",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az etika mint alap",
+        "en": "Ethics as the Foundation"
+      },
+      "text": {
+        "hu": "**Miért az etika az első kő?** Ebben a képzésben minden erő a jellemet tükrözi. Nincs olyan képesség, amely függetlenül létezne attól, aki használja: amit magadban rendezetlenül hagysz, azt a növekvő erő felnagyítja. Ezért az út első és utolsó kérdése nem az, hogy *mit tudsz*, hanem az, hogy *ki vagy*, miközben tudod.\n\n**Az egyensúly törvénye.** A hermetikus út nem kívülről büntet vagy jutalmaz — kiegyenlít. Aki az erejét bosszúra, fitogtatásra vagy mások kárára fordítja, az a saját szerszámát fordítja önmaga ellen: a visszaélve használt erő előbb-utóbb elpusztítja a használóját. Ez nem fenyegetés, hanem törvényszerűség; a mérleg nyelve mindig visszaáll középre.\n\n**Mire való hát az erő?** Két dologra: a saját fejlődésedre és a csendes szolgálatra. Minden más használat — a látványosság, a megtorlás, a mások rovására szerzett előny — nem apró botlás, hanem magának az útnak a feladása.\n\n— Ne árts: se tettel, se szóval, se szándékkal.\n— Ne mutogasd: ami valódi erő, az nem műsor.\n— Ne várj érte tapsot: a haladásod tanúja a naplód, nem a közönség.\n\n**A hallgatás fogadalma.** A gyakorlásodról ne beszélj. A kimondott szó szétszórja, amit a munka összegyűjtött; a hallgatás gyűjt. Aki mesél, észrevétlenül a hallgatóság tetszéséért kezd gyakorolni — és onnantól már nem magának dolgozik, hanem a képnek, amit magáról fest. A titoktartás nem titokzatoskodás, hanem védelem: a munkádé, a nyugalmadé, és azoké is, akik nem értenék.\n\n**Az etika nem dísz, hanem tartószerkezet.** Ahogy a ház sem a festéstől áll meg, hanem az alapjától, úgy a gyakorló sem a technikáktól lesz mágus, hanem attól, hogy a jelleme elbírja az erőt, amit felépít.",
+        "en": "**Why is ethics the first stone?** In this training, every power mirrors character. No ability exists independently of the one who uses it: whatever you leave disordered in yourself, the growing force will magnify. So the first and last question of the path is not *what you can do*, but *who you are* while you can do it.\n\n**The law of equilibrium.** The Hermetic path does not punish or reward from outside — it balances. Whoever turns their power to revenge, to display, or to gain at others' cost turns their own instrument against themselves: misused power sooner or later destroys its user. This is not a threat but a law; the needle of the scale always returns to centre.\n\n**What, then, is power for?** Two things: your own development and quiet service. Every other use — spectacle, retaliation, advantage taken at another's expense — is not a minor stumble but the abandonment of the path itself.\n\n— Harm none: not by deed, not by word, not by intention.\n— Do not display: real power is not a performance.\n— Expect no applause: the witness of your progress is your diary, not an audience.\n\n**The vow of silence.** Do not talk about your practice. The spoken word scatters what the work has gathered; silence gathers. Whoever tells stories begins, without noticing, to practise for the approval of the listeners — and from that moment works not for themselves but for the image they paint of themselves. Discretion is not mystery-mongering but protection: of your work, of your peace, and of those who would not understand.\n\n**Ethics is not decoration but load-bearing structure.** Just as a house stands not on its paint but on its foundation, the practitioner becomes a magician not through techniques, but because their character can bear the force they build."
+      }
+    },
+    {
+      "id": "iih-theme-ethics-diary",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A napló módszere",
+        "en": "The Diary Method"
+      },
+      "text": {
+        "hu": "**A mester szerszáma.** A mágikus napló nem kiegészítő, hanem a képzés központi eszköze. Az emlékezet szépít, a hangulat torzít — a napló az egyetlen tárgyilagos tanúd. Minden lépcsőfok önértékelése erre épül: nem arra, hogy milyennek *érzed* a haladásodat, hanem arra, amit a lapok feketén-fehéren mutatnak.\n\n**Mit jegyezz fel?** Minden nap, röviden és pontosan:\n\n— melyik gyakorlatot végezted, és mennyi ideig,\n— milyen minőségben — zavartalanul vagy akadozva,\n— a kudarcokat is, szépítés nélkül: a kihagyott napot, a szétszóródott figyelmet,\n— a felismeréseket, amelyek közben érkeztek,\n— és amit a jellemedről vettél észre a nap során.\n\n**A teljes őszinteség.** A napló csak akkor ér valamit, ha nem hazudsz benne. Aki a naplójának szépít, önmagát csapja be — és pontatlan térkép alapján próbál tájékozódni. A rögzített kudarc nem szégyenfolt, hanem adat: megmutatja, hol tart a munka valójában.\n\n**Az esti áttekintés.** Minden este játszd le újra a napodat — de ne bíróként és ne védőügyvédként, hanem semleges megfigyelőként. Nézd végig a jeleneteket kívülről: mit tettél, mit mondtál, hol reagáltál a régi minta szerint. Nem ítélkezel, csak feljegyzel; a változtatás a holnap dolga, a látás a mai.\n\n**A rendszeresség többet ér a hosszúságnál.** Három őszinte sor minden este többet ér, mint heti egy oldalnyi vallomás. A napló ereje a folytonosságban van: a napi bejegyzés maga is gyakorlat — akarat-, figyelem- és alázatgyakorlat egyszerre.",
+        "en": "**The master's tool.** The magical diary is not an accessory but the central instrument of the training. Memory flatters, mood distorts — the diary is your only objective witness. The self-assessment of every step rests on it: not on how your progress *feels*, but on what the pages show in black and white.\n\n**What should you record?** Every day, briefly and precisely:\n\n— which exercise you did, and for how long,\n— its quality — undisturbed or faltering,\n— the failures too, without embellishment: the skipped day, the scattered attention,\n— the insights that arrived along the way,\n— and what you noticed about your character during the day.\n\n**Complete honesty.** The diary is only worth something if you do not lie in it. Whoever embellishes for their own diary deceives themselves — and then tries to navigate by an inaccurate map. A recorded failure is not a stain but a data point: it shows where the work truly stands.\n\n**The evening review.** Every evening, replay your day — not as a judge and not as a defence lawyer, but as a neutral observer. Watch the scenes from the outside: what you did, what you said, where you reacted along the old pattern. You do not pass sentence, you take notes; changing is tomorrow's task, seeing is today's.\n\n**Regularity beats length.** Three honest lines every evening are worth more than a page of confession once a week. The diary's power lies in continuity: the daily entry is itself an exercise — of will, of attention, and of humility all at once."
+      }
+    },
+    {
+      "id": "iih-theme-ethics-aspects",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "Etikai aspektusok",
+        "en": "Ethical Aspects"
+      },
+      "aspektusPack": [
+        {
+          "key": "iih-asp-eth-honesty",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Becsületesség",
+            "en": "Honesty"
+          }
+        },
+        {
+          "key": "iih-asp-eth-lying",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Hazugság",
+            "en": "Lying"
+          }
+        },
+        {
+          "key": "iih-asp-eth-discretion",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Titoktartás",
+            "en": "Discretion"
+          }
+        },
+        {
+          "key": "iih-asp-eth-negligence",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Hanyagság",
+            "en": "Negligence"
+          }
+        },
+        {
+          "key": "iih-asp-eth-helpful",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Segítőkészség",
+            "en": "Helpfulness"
+          }
+        },
+        {
+          "key": "iih-asp-eth-envy",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Irigység",
+            "en": "Envy"
+          }
+        },
+        {
+          "key": "iih-asp-eth-steady",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Kitartó gyakorlás",
+            "en": "Steady practice"
+          }
+        },
+        {
+          "key": "iih-asp-eth-boasting",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Kérkedés",
+            "en": "Boasting"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iih-theme-ethics-evening-review",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Esti áttekintés",
+        "en": "Evening Review"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["iih-asp-eth-honesty"],
+        "prompts": {
+          "hu": "**Esti áttekintés — ___ (dátum).**\n\nMa ezt gyakoroltam: ___, időtartam: ___ perc.\n\nA gyakorlás minősége (1–5): ___, mert ___.\n\nAmi nem sikerült, szépítés nélkül: ___.\n\nA napom egy semleges megfigyelő szemével: ___.\n\nMa ezt vettem észre a jellememről: ___.\n\nHolnap ezen az egy dolgon változtatok: ___.",
+          "en": "**Evening review — ___ (date).**\n\nToday I practised: ___, duration: ___ minutes.\n\nQuality of the practice (1–5): ___, because ___.\n\nWhat did not succeed, without embellishment: ___.\n\nMy day through the eyes of a neutral observer: ___.\n\nWhat I noticed about my character today: ___.\n\nTomorrow I will change this one thing: ___."
+        }
+      }
+    },
+    {
+      "id": "iih-theme-ethics-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Elsajátítási lista",
+        "en": "Mastery Checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Minden nap írok bejegyzést, ha csak pár sort is.",
+              "en": "I write an entry every day, even if only a few lines."
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "A kudarcokat is rögzítem, szépítés nélkül.",
+              "en": "I record failures too, without embellishment."
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Feljegyzem a gyakorlatot, az időtartamot és a minőséget.",
+              "en": "I note the exercise, its duration, and its quality."
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Este semleges megfigyelőként visszajátszom a napomat.",
+              "en": "In the evening I replay my day as a neutral observer."
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "A gyakorlásomról nem beszélek kívülállóknak.",
+              "en": "I do not talk about my practice to outsiders."
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Minden képességet fejlődésre és csendes szolgálatra használok, sosem mutogatásra vagy mások kárára.",
+              "en": "I use every ability for development and quiet service, never for display or at others' expense."
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Az önértékelésemet a napló adataira építem, nem a benyomásaimra.",
+              "en": "I base my self-assessment on the diary's records, not on my impressions."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-ethics-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Review Quiz"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mit tanít az egyensúly törvénye a visszaélve használt erőről?",
+              "en": "What does the law of equilibrium teach about misused power?"
+            },
+            "options": {
+              "hu": [
+                "Csak akkor veszélyes, ha mások észreveszik.",
+                "Előbb-utóbb a használója ellen fordul, és elpusztítja őt.",
+                "Egy tanító megbocsáthatja, és akkor nincs következménye.",
+                "Elhalványul, ha elég sokáig szünetelteted a gyakorlást."
+              ],
+              "en": [
+                "It is only dangerous if others notice it.",
+                "Sooner or later it turns against its user and destroys them.",
+                "A teacher can forgive it, and then it has no consequence.",
+                "It fades away if you pause your practice long enough."
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Miért tartsd titokban a gyakorlásodat?",
+              "en": "Why should you keep your practice to yourself?"
+            },
+            "options": {
+              "hu": [
+                "Mert a gyakorlatokat csak felszentelt tanítók adhatják tovább.",
+                "Mert aki hall róla, ellophatja az összegyűjtött erődet.",
+                "Mert a beszéd szétszórja, amit a munka összegyűjtött — a hallgatás pedig gyűjt.",
+                "Mert a napló pótolja a beszélgetést, így nincs mit megosztani."
+              ],
+              "en": [
+                "Because the exercises may only be passed on by ordained teachers.",
+                "Because anyone who hears about it can steal your gathered force.",
+                "Because speaking scatters what the work has gathered — while silence gathers.",
+                "Because the diary replaces conversation, so there is nothing to share."
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mitől lesz a mágikus napló a haladásod hiteles mércéje?",
+              "en": "What makes the magical diary a trustworthy measure of your progress?"
+            },
+            "options": {
+              "hu": [
+                "A napi, teljesen őszinte bejegyzésektől, amelyek a kudarcokat is rögzítik — ez az egyetlen tárgyilagos tanú.",
+                "A minél hosszabb, irodalmi igényű beszámolóktól.",
+                "Attól, hogy csak a sikeres gyakorlatokat örökíted meg benne.",
+                "Attól, hogy hetente egyszer összefoglalod a benyomásaidat."
+              ],
+              "en": [
+                "Daily, completely honest entries that record the failures too — it is the only objective witness.",
+                "Reports that are as long and as literary as possible.",
+                "Recording only the successful exercises in it.",
+                "Summing up your impressions once a week."
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-ethics-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Franz Bardon's \"Initiation Into Hermetics\". The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, consult a professional. Practise the exercises ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "formatVersion": 1,
+  "id": "ryokah-magick",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Ryokah High Magick — a játékos mágia műhelye",
+    "en": "Ryokah High Magick — the Workshop of Playful Magick"
+  },
+  "description": {
+    "hu": "Gyakorlati mágia Ryokah (Sassani vonal) tanításainak szellemében: tudatos energia-munka, hitrendszer-átalakítás és manifesztáció — Permission Slip mélymerülés, Chi-gömb mágia, varázslat-készítés hét lépésben, piramis-mágia, és a mágia összekapcsolása az alkímiával és a Lila Lánggal. A Ryokah Alkímia modul folytatása, de önállóan is gyakorolható.",
+    "en": "Practical magick in the spirit of Ryokah's (Sassani-line) teachings: conscious energy work, belief transformation and manifestation — a Permission Slip deep-dive, Chi Ball magick, spell crafting in seven steps, pyramidal magick, and the fusion of magick with alchemy and the Violet Flame. A continuation of the Ryokah Alchemy module, yet practicable on its own."
+  },
+  "items": [
+    {
+      "id": "ryokah-magick-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető — mi a mágia?", "en": "Introduction — What is Magick?" },
+      "text": {
+        "hu": "Ez a mágia **nem fantasy-varázslat**. Ryokah tanításában a mágia három dolog egyszerre: **tudatos energia-munka**, **hitrendszer-átalakítás** és **manifesztációs technológia**. A lényege pedig egyetlen mondat: **a személyes erőd visszavétele** — annak felismerése, hogy a valóságodat te formálod, energetikai és jelképes eszközökkel.\n\nA modul négy műhelyt nyit meg:\n\n— **Permission Slip mélymerülés** — az engedély-eszközök teljes rendszere.\n— **Chi-gömb mágia** — a legkonkrétabb energetikai konstrukció, lépésről lépésre.\n— **Varázslat-készítés** — strukturált, hét lépéses spell crafting.\n— **Fúzió** — a mágia összekapcsolása az alkímia három lépésével és a Lila Lánggal.\n\n**A hangnem: játék.** Ryokah újra és újra hangsúlyozza — a mágia nem súlyos és nem görcsös. Könnyed, örömteli és természetes, mint a gyermek játéka, aki még tudja, hogy a világ képlékeny. A komorság maga is egy hiedelem, amit átalakíthatsz.\n\n**Megkülönböztetés:** csatornázott tanításokon alapuló anyag — semmit ne fogadj el vakon, azt tartsd meg, ami a tapasztalatodban igazolódik. És ahogy minden gyakorlatunknál: etikusan, mások szabad akaratát tiszteletben tartva dolgozz.",
+        "en": "This magick is **not fantasy sorcery**. In Ryokah's teaching magick is three things at once: **conscious energy work**, **belief transformation** and **manifestation technology**. Its essence is a single sentence: **reclaiming your personal power** — recognizing that you shape your reality, with energetic and symbolic instruments.\n\nThe module opens four workshops:\n\n— **Permission Slip deep-dive** — the full system of permission tools.\n— **Chi Ball magick** — the most concrete energetic construction, step by step.\n— **Spell crafting** — structured, seven-step spell creation.\n— **Fusion** — joining magick with the three steps of alchemy and the Violet Flame.\n\n**The tone: play.** Ryokah stresses again and again — magick is not heavy and not strained. It is light, joyful and natural, like the play of a child who still knows the world is malleable. Solemnity itself is a belief you may transform.\n\n**Discernment:** material based on channeled teachings — accept nothing blindly; keep what is confirmed in your experience. And as with all our practices: work ethically, honouring the free will of others."
+      }
+    },
+    {
+      "id": "ryokah-magick-md-slips",
+      "kind": "markdown",
+      "nevek": { "hu": "Permission Slip — mélymerülés", "en": "Permission Slips — the Deep Dive" },
+      "text": {
+        "hu": "Az alkímia-modulban megismerted az elvet; most jön a **teljes rendszer**. A Sassani tanítás szerint legtöbbször nem a képesség hiányzik belőled, hanem a **belső engedély**. A Permission Slip ezt a szakadékot hidalja át: jelképes kulcs, amely megengedi az elmédnek, amit a lényed már tud.\n\n**A cédulák családjai** (Ryokah gyakorlatai nyomán):\n\n— **Energetikai konstrukciók** — a Chi-gömb (a következő lecke), fény-formák, piramisok.\n— **Hitrendszer-átíró folyamatok** — egy hit, ami a saját igazságodhoz hangol.\n— **Bőség- és kreativitás-cédulák** — az áramlás megengedése az anyagi életben.\n— **Lélek-cél cédulák** — az „örök hívás” felfedezése.\n— **Belső Gyermek / Isteni Gyermek** — a játékosság és ártatlanság gyógyító visszahívása.\n— **Galaktikus és geometrikus** — piramis-alapú, magasabb frekvenciájú munkák.\n\n**Az általános folyamat, öt lépésben:**\n\n**1.** Azonosítsd, mit akarsz manifesztálni vagy átalakítani.\n**2.** Válassz vagy készíts cédulát — tárgy, vizualizáció, mozdulat, mondat.\n**3.** Töltsd fel energiával — Chi-gömbbel vagy kimondott szóval.\n**4.** Használd tudatosan — hordd, idézd fel, ismételd.\n**5.** Engedd el a kimenetelt — a görcs a manifesztáció fojtója.\n\n**Az appban van saját eszközöd ehhez:** a Napló képernyő tetején a 🎫 gombbal céduláidat létre is hozhatod és aktiválhatod — ez a modul a mögötte lévő művészetet tanítja.",
+        "en": "You met the principle in the alchemy module; now comes the **full system**. According to the Sassani teaching, what you lack is usually not the ability but the **inner permission**. The Permission Slip bridges that gap: a symbolic key that lets your mind allow what your being already knows.\n\n**The families of slips** (after Ryokah's practices):\n\n— **Energetic constructions** — the Chi Ball (next lesson), light-forms, pyramids.\n— **Belief-rewriting processes** — a faith that aligns you with your own truth.\n— **Abundance and creativity slips** — allowing the flow in material life.\n— **Soul-purpose slips** — discovering the 'eternal calling'.\n— **Inner Child / Divine Child** — the healing recall of playfulness and innocence.\n— **Galactic and geometric** — pyramid-based, higher-frequency works.\n\n**The general process, in five steps:**\n\n**1.** Identify what you wish to manifest or transform.\n**2.** Choose or craft a slip — an object, visualization, gesture, sentence.\n**3.** Charge it with energy — with a Chi Ball or the spoken word.\n**4.** Use it consciously — carry it, recall it, repeat it.\n**5.** Release the outcome — clenching strangles manifestation.\n\n**You have a native tool for this in the app:** with the 🎫 button atop the Journal screen you can create and activate your slips — this module teaches the art behind it."
+      }
+    },
+    {
+      "id": "ryokah-magick-md-chiball",
+      "kind": "markdown",
+      "nevek": { "hu": "Chi-gömb mágia — lépésről lépésre", "en": "Chi Ball Magick — Step by Step" },
+      "text": {
+        "hu": "A Chi-gömb Ryokah legkonkrétabb mágikus eszköze: **energetikai gömb**, amelyet a tenyereid között építesz — általában arany-fehér vagy lila fényűnek érzékelve. Ryokah hangsúlyozza: ez **nem csupán vizualizáció**, hanem valódi energetikai konstrukció, amelyet a tested és a meződ engedély-cédulaként fogad el.\n\n**A nyolc lépés:**\n\n**1. Ülj kényelmesen** — gerinc egyenes, kezek a comb fölött vagy magad előtt.\n\n**2. Lélegezz mélyen** — központosíts a szívedbe, majd engedd a figyelmet a tenyereidbe áramlani.\n\n**3. Érzékeld a gyülekező energiát** — melegség, bizsergés, finom nyomás a tenyerek között. Ne erőltesd a látványt: az **érzet** az elsődleges.\n\n**4. Formázd gömbbé** — mintha fényből gyúrnál labdát; tágítsd és sűrítsd párszor, hogy „kézzelfoghatóvá” váljon.\n\n**5. Töltsd fel szándékkal** — mondd ki pontosan, jelen időben: „Ez a gömb a bőségemet / gyógyulásomat / kapcsolatomat táplálja.”\n\n**6. Tartsd** — néhány percig érezd a rezgését; hagyd, hogy a szándék és a gömb egyetlen dologgá váljon.\n\n**7. Engedd útjára** — három lehetőség: engedd a testedbe olvadni (öngyógyítás), helyezd az aurádba (hordozott cédula), vagy küldd el a cél felé.\n\n**8. Ismételd** — naponta, vagy amikor hívást érzel rá. Az ismétlés mélyíti a konstrukció valóságát.\n\n**Globális munka:** a Chi-gömb küldhető kollektív célokra is — békére egy térségnek, gyógyulásra a Földnek. Ilyenkor a szándék szolgálat, nem irányítás: fényt küldesz, nem akaratot.",
+        "en": "The Chi Ball is Ryokah's most concrete magickal instrument: an **energetic sphere** you build between your palms — usually sensed as golden-white or violet light. Ryokah stresses: this is **not mere visualization** but a real energetic construction, which your body and field accept as a permission slip.\n\n**The eight steps:**\n\n**1. Sit comfortably** — spine straight, hands above your thighs or before you.\n\n**2. Breathe deeply** — centre in your heart, then let attention flow into your palms.\n\n**3. Sense the gathering energy** — warmth, tingling, gentle pressure between the palms. Do not force imagery: **sensation** is primary.\n\n**4. Shape it into a sphere** — as if kneading a ball of light; expand and condense it a few times until it feels 'tangible'.\n\n**5. Charge it with intention** — speak precisely, in the present tense: 'This sphere feeds my abundance / healing / relationship.'\n\n**6. Hold it** — feel its vibration for a few minutes; let intention and sphere become one thing.\n\n**7. Release it** — three ways: let it melt into your body (self-healing), set it into your aura (a carried slip), or send it toward its aim.\n\n**8. Repeat** — daily, or whenever you feel called. Repetition deepens the construction's reality.\n\n**Global work:** the Chi Ball may also be sent to collective aims — peace for a region, healing for the Earth. There the intention is service, not control: you send light, not will."
+      }
+    },
+    {
+      "id": "ryokah-magick-timer-chiball",
+      "kind": "timer",
+      "nevek": { "hu": "Chi-gömb mágia — 10 perc", "en": "Chi Ball Magick — 10 min" },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Kövesd a nyolc lépést: központosítás, az energia érzékelése a tenyerek közt, gömbformálás, szándékkal töltés, tartás — végül engedd útjára (testbe, aurába vagy a cél felé).",
+          "en": "Follow the eight steps: centring, sensing the energy between the palms, shaping the sphere, charging with intention, holding — finally release it (into body, aura, or toward the aim)."
+        },
+        "intervals": [
+          { "atSecond": 120, "label": { "hu": "Formázd a gömböt", "en": "Shape the sphere" } },
+          { "atSecond": 300, "label": { "hu": "Töltsd fel a szándékkal", "en": "Charge it with the intention" } },
+          { "atSecond": 480, "label": { "hu": "Engedd útjára", "en": "Release it" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-magick-md-spellcraft",
+      "kind": "markdown",
+      "nevek": { "hu": "Varázslat-készítés — hét lépés", "en": "Spell Crafting — Seven Steps" },
+      "text": {
+        "hu": "Ryokah varázslat-tanítása strukturált **műhelymunka** — nem „kívánság plusz ima”, hanem megkomponált teremtő aktus.\n\n**1. Tiszta szándék.** Pontos, pozitív, jelen idejű megfogalmazás: „Ez most történik…” vagy „…vagyok”. A homályos szándék homályos eredményt szül.\n\n**2. Energetikai alap.** Tisztítsd meg a teret és önmagad — Chi-gömbbel, vagy ha a Saint Germain modult is járod: a Lila Lánggal. Tiszta edénybe kerül a mű.\n\n**3. Jelképes elemek.** Válassz hordozókat, amelyek NEKED jelentenek: szín, hang, mozdulat, tárgy, geometria. Ryokah különösen kedveli a **piramis-formákat** — a geometria rendezett erőt ad a szándéknak.\n\n**4. Programozás.** Vidd bele a szándékot az energiába — szóval, képpel és **érzelemmel** együtt. Az érzelem az üzemanyag: érezd, milyen MÁR megvalósulva.\n\n**5. Lezárás és pecsét.** Zárd le a művet egy határozott aktussal — kimondott mondattal („Elfogadom késznek, teljes erővel, a legfőbb jó szerint.”) vagy egy fizikai mozdulattal. A pecsét nélküli varázslat nyitva maradt ajtó.\n\n**6. Engedélyezés.** A Ryokah-i kulcslépés: **adj engedélyt magadnak**, hogy a varázslat működjön. E nélkül a legszebb szertartás is üres — ezért előzte meg ezt a leckét a Permission Slip műhely.\n\n**7. Engedés.** Ne erőltesd, ne piszkáld, ne „nézd meg, működik-e már”. Kövesd a **legnagyobb lelkesedésed** — a cselekvés, amit örömmel teszel, maga a manifesztáció csatornája.\n\n**Grimoire:** minden megalkotott varázslatodat jegyezd fel a naplódban — szándék, eszközök, pecsét, dátum. Így épül a saját mágikus könyved, és így látod idővel, mi hogyan érett be.",
+        "en": "Ryokah's spell teaching is structured **workshop craft** — not 'a wish plus a prayer' but a composed creative act.\n\n**1. Clear intent.** Precise, positive, present-tense wording: 'This is happening now…' or 'I am…'. Vague intent breeds vague results.\n\n**2. Energetic base.** Purify the space and yourself — with a Chi Ball, or if you also walk the Saint Germain module: with the Violet Flame. The work belongs in a clean vessel.\n\n**3. Symbolic elements.** Choose carriers that mean something TO YOU: colour, sound, gesture, object, geometry. Ryokah is especially fond of **pyramid forms** — geometry lends ordered power to intent.\n\n**4. Programming.** Bring the intention into the energy — with word, image and **emotion** together. Emotion is the fuel: feel how it is ALREADY fulfilled.\n\n**5. Closing and seal.** Close the work with a decisive act — a spoken sentence ('I accept it done in full power, according to the highest good.') or a physical gesture. An unsealed spell is a door left open.\n\n**6. Permission.** The Ryokah key-step: **give yourself permission** for the spell to work. Without it the finest ceremony stays empty — which is why the Permission Slip workshop preceded this lesson.\n\n**7. Allowing.** Do not force it, do not poke at it, do not 'check whether it works yet'. Follow your **highest excitement** — the action you take with joy is itself the channel of manifestation.\n\n**Grimoire:** record every spell you craft in your journal — intent, instruments, seal, date. Thus your own book of magick grows, and in time you see what ripened and how."
+      }
+    },
+    {
+      "id": "ryokah-magick-timer-spell",
+      "kind": "timer",
+      "nevek": { "hu": "Varázslat-műhely — 15 perc", "en": "Spell Workshop — 15 min" },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Egy teljes varázslat megkomponálása: szándék tisztázása → tér tisztítása → jelképek kiválasztása → programozás szóval-képpel-érzelemmel → pecsét → engedély → elengedés. A végén jegyezd fel a grimoire-odba (napló).",
+          "en": "Compose one complete spell: clarify intent → purify the space → choose symbols → program with word-image-emotion → seal → permission → release. Afterwards record it in your grimoire (journal)."
+        },
+        "intervals": [
+          { "atSecond": 180, "label": { "hu": "Tisztítás és jelképek", "en": "Purification and symbols" } },
+          { "atSecond": 480, "label": { "hu": "Programozás — érzelemmel", "en": "Programming — with emotion" } },
+          { "atSecond": 780, "label": { "hu": "Pecsét, engedély, elengedés", "en": "Seal, permission, release" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-magick-md-advanced",
+      "kind": "markdown",
+      "nevek": { "hu": "Haladó műhelyek — piramisok és fúzió", "en": "Advanced Workshops — Pyramids and Fusion" },
+      "text": {
+        "hu": "**Piramis-mágia (Galactic Pyramidal Magick).** Ryokah geometriai munkáiban a piramis a rendezettség és az erősítés formája: képzelj magad köré fény-piramist — négy oldala a négy elem, csúcsa a magasabb éned. A piramisban végzett Chi-gömb- vagy spell-munka fókuszáltabb; a csúcson át pedig a szándék „felküldhető” a magasabb perspektívának.\n\n**Magasabb Én kapcsolat.** A mágia végső forrása nem a technika, hanem a kapcsolat a saját magasabb intelligenciáddal. Kérd a részvételét minden műben — a Bardon-út vezető-munkája és a precipitáció hatodik lépése ugyanide mutat.\n\n**Béke-munka.** A kollektív Chi-gömb: fényküldés térségeknek, helyzeteknek, a Földnek. Szolgálat, nem irányítás.\n\n**A fúzió — mágia mint alkímia.** A három nagy rendszered itt ér össze:\n\n— **Fermentáció** = a régi minta átengedése a bomlásnak — ezt segíti a Lila Láng transzmutációja.\n— **Desztilláció** = a szándék lényegének kinyerése — ez a spell crafting 1. és 3. lépése.\n— **Koaguláció** = a mű megszilárdulása a valóságban — ez a pecsét, az engedély és a lelkesedésből tett napi lépés.\n\nA mágus, az alkimista és a Lila Láng munkása **ugyanazt a művet** végzi három nyelven. Válaszd azt a nyelvet, amelyik aznap a legjobban szól hozzád — vagy szőjed össze őket.",
+        "en": "**Pyramidal magick (Galactic Pyramidal Magick).** In Ryokah's geometric works the pyramid is the form of order and amplification: imagine a pyramid of light around you — its four faces the four elements, its apex your higher self. Chi Ball or spell work done within the pyramid is more focused; and through the apex the intention can be 'sent up' to the higher perspective.\n\n**Higher Self connection.** The final source of magick is not technique but the bond with your own higher intelligence. Ask its participation in every work — the guide-work of the Bardon path and the sixth step of precipitation point to the same place.\n\n**Peace work.** The collective Chi Ball: sending light to regions, situations, the Earth. Service, not control.\n\n**The fusion — magick as alchemy.** Your three great systems meet here:\n\n— **Fermentation** = yielding the old pattern to decay — aided by the Violet Flame's transmutation.\n— **Distillation** = extracting the essence of the intent — steps 1 and 3 of spell crafting.\n— **Coagulation** = the work solidifying in reality — the seal, the permission, and the daily deed taken from excitement.\n\nThe magician, the alchemist and the worker of the Violet Flame perform **the same work** in three languages. Choose the language that speaks to you most that day — or weave them together."
+      }
+    },
+    {
+      "id": "ryokah-magick-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "A mágus jellemvonásai", "en": "The Magician's character traits" },
+      "aspektusPack": [
+        { "key": "ry-mag-powerless", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "Az erő átadása kívülre", "en": "Giving power away" } },
+        { "key": "ry-mag-heavy", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "Görcsös komolyság", "en": "Heavy seriousness" } },
+        { "key": "ry-mag-undoing", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Kételkedő utólagos piszkálás", "en": "Doubtful poking at the work" } },
+        { "key": "ry-mag-attachment", "elem": "viz", "tukor": "fekete",
+          "nevek": { "hu": "Tapadás a kimenetelhez", "en": "Attachment to the outcome" } },
+        { "key": "ry-mag-power", "elem": "tuz", "tukor": "feher",
+          "nevek": { "hu": "Személyes erő", "en": "Personal power" } },
+        { "key": "ry-mag-playful", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "Játékos könnyedség", "en": "Playful lightness" } },
+        { "key": "ry-mag-trust", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Bizalom az áramlásban", "en": "Trust in the flow" } },
+        { "key": "ry-mag-grounding", "elem": "fold", "tukor": "feher",
+          "nevek": { "hu": "Megszilárdító jelenlét", "en": "Grounding presence" } }
+      ]
+    },
+    {
+      "id": "ryokah-magick-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Grimoire — a mágus naplója", "en": "Grimoire — the Magician's Journal" },
+      "journalTemplate": {
+        "aspektusKeys": ["ry-mag-power"],
+        "prompts": {
+          "hu": "MŰ — A mai munka (chi-gömb / varázslat / cédula): ___\n\nSZÁNDÉK — Pontosan, jelen időben: ___\n\nESZKÖZÖK — Jelképek, geometria, pecsét-mondat: ___\n\nÉRZET — Mit érzékeltem az energiából: ___\n\nELENGEDÉS — A kimenetelt elengedtem: igen/nem. A mai legnagyobb lelkesedésem: ___",
+          "en": "WORK — Today's working (chi ball / spell / slip): ___\n\nINTENT — Precisely, in the present tense: ___\n\nINSTRUMENTS — Symbols, geometry, sealing sentence: ___\n\nSENSATION — What I sensed of the energy: ___\n\nRELEASE — I released the outcome: yes/no. My highest excitement today: ___"
+        }
+      }
+    },
+    {
+      "id": "ryokah-magick-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "A műhely elsajátítása", "en": "Mastery of the Workshop" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "A Permission Slip öt lépése megértve és kipróbálva", "en": "The five steps of the Permission Slip understood and tried" } },
+          { "key": "c2", "nevek": { "hu": "Saját cédula létrehozva a 🎫 eszközben és feltöltve", "en": "A personal slip created in the 🎫 tool and charged" } },
+          { "key": "c3", "nevek": { "hu": "Chi-gömb napi gyakorlat — az érzet egyre kézzelfoghatóbb", "en": "Daily Chi Ball practice — the sensation ever more tangible" } },
+          { "key": "c4", "nevek": { "hu": "Első teljes varázslat megkomponálva mind a hét lépéssel", "en": "First complete spell composed with all seven steps" } },
+          { "key": "c5", "nevek": { "hu": "A mű feljegyezve a grimoire-ba (napló)", "en": "The work recorded in the grimoire (journal)" } },
+          { "key": "c6", "nevek": { "hu": "Piramis-fókusz vagy globális béke-munka kipróbálva", "en": "Pyramid focus or global peace work tried" } },
+          { "key": "c7", "nevek": { "hu": "A játékosság megmaradt — a mágia öröm, nem görcs", "en": "Playfulness kept — magick is joy, not strain" } }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-magick-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Önellenőrzés", "en": "Self-Check" },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Ryokah szerint mi hiányzik legtöbbször a manifesztációhoz?", "en": "According to Ryokah, what is most often missing for manifestation?" },
+            "options": {
+              "hu": ["A megfelelő mágikus tárgy", "A belső engedély — ezt hidalja át a Permission Slip", "A pontos asztrológiai időzítés", "Egy tapasztalt mester jelenléte"],
+              "en": ["The right magickal object", "The inner permission — bridged by the Permission Slip", "Precise astrological timing", "The presence of an experienced master"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Mitől több a Chi-gömb puszta vizualizációnál?", "en": "What makes the Chi Ball more than mere visualization?" },
+            "options": {
+              "hu": ["A gömb mérete", "Az, hogy csukott szemmel csinálod", "Valódi energetikai konstrukció: az érzet elsődleges, és a szándék tölti fel", "A hozzá tartozó zene"],
+              "en": ["The size of the sphere", "Doing it with closed eyes", "It is a real energetic construction: sensation is primary, and intention charges it", "The music that goes with it"]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Mi zárja le helyesen a varázslat-készítést?", "en": "What correctly closes spell crafting?" },
+            "options": {
+              "hu": ["A varázslat napi ellenőrzése, működik-e", "Pecsét + engedély + elengedés — majd a lelkesedés követése", "A szándék titokban tartása önmagad elől is", "Az eszközök elégetése"],
+              "en": ["Checking daily whether the spell works", "Seal + permission + release — then following the excitement", "Keeping the intent secret even from yourself", "Burning the instruments"]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "ryokah-magick-md-source",
+      "kind": "markdown",
+      "nevek": { "hu": "Forrás és nyilatkozat", "en": "Source & Disclaimer" },
+      "text": {
+        "hu": "*Tanulási segédlet Ryokah (Sassani vonal) mágia-tanításainak szellemében, amelyeket Tyler Ellison közvetít (Health Thyself csatorna — „Ryokah Permission Slips”, „High Magick” gyakorlatok, „How To Craft Magickal Spell”; thegalacticguide.com). A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes tanításokért keresd az eredeti forrásokat.*\n\n*A csatornázott tanításokat mindig saját megkülönböztető képességeddel mérlegeld: azt tartsd meg, ami a tapasztalatodban igazolódik. Minden gyakorlatot etikusan, mások szabad akaratát tiszteletben tartva végezz. Ez nem orvosi és nem pszichológiai tanács — ha lelki nehézséget tapasztalsz, fordulj szakemberhez.*",
+        "en": "*Study aid in the spirit of the magick teachings of Ryokah (Sassani line) as channeled by Tyler Ellison (Health Thyself channel — 'Ryokah Permission Slips', 'High Magick' practices, 'How To Craft Magickal Spell'; thegalacticguide.com). This text is an original paraphrase, not a verbatim quotation — seek the original sources for the complete teachings.*\n\n*Always weigh channeled teachings with your own discernment: keep what is confirmed in your experience. Perform every practice ethically, honouring the free will of others. This is not medical or psychological advice — if you experience distress, consult a professional.*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "formatVersion": 1,
+  "id": "iih-step-08",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "VIII. Lépés — Mentális vándorlás és fluidok",
+    "en": "Step VIII — Mental Wandering & Fluids"
+  },
+  "description": {
+    "hu": "A nyolcadik lépés a mentális vándorlást — a tudat testtől független áthelyezését —, az örök Most derűs jelen-tudatát és a két egyetemes fluidum, az elektromos és a mágneses uralmát tanítja. A fizikai munka a fluidkondenzátorok és a mágikus tükör céltudatos, töltött használata. Ajánlott időtartam: 3–6+ hónap.",
+    "en": "The eighth step teaches mental wandering — the transfer of consciousness independent of the body —, the serene present-awareness of the eternal Now, and the mastery of the two universal fluids, the electric and the magnetic. The physical work is the purposeful, charged use of fluid condensers and the magic mirror. Recommended duration: 3–6+ months."
+  },
+  "items": [
+    {
+      "id": "iih-step-08-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető",
+        "en": "Introduction"
+      },
+      "text": {
+        "hu": "A nyolcadik lépésnél a műhelyed fala kitágul. Amit eddig magadban építettél — figyelem, elemuralom, fegyelmezett érzékek —, azt most a testen túlra viszed: megtanulod a tudatodat **a testtől függetlenül áthelyezni**, és megismered a mindenség két alapvető ható erejét, az elektromos és a mágneses fluidumot.\n\nA három sík itt így fonódik össze: a **szellem** a mentális vándorlást gyakorolja — a nézőpont szabad áthelyezését és a pontos, ellenőrizhető észlelést; a **lélek** az örök Most derűs jelen-tudatát és a két fluidum uralmát műveli; a **test** szintjén a fluidkondenzátorok és a mágikus tükör céltudatos használata kap helyet.\n\nMielőtt belefogsz, légy magadhoz őszinte: a hetedik lépés *minden* gyakorlata üljön biztosan. A mentális vándorlás az összes eddigi fegyelemre épül — ingatag alapon nem stabil kilépés lesz belőle, hanem ábrándozás vagy nyugtalanság.\n\nSzánj erre a lépésre legalább három–hat hónapot, és ne siess. Semmit ne erőltess: ha feszültséget, szorongást vagy zavart észlelsz, rövidíts, pihenj, és térj vissza az alapokhoz. A nyugodt visszatérés minden gyakorlat része — ezzel kezdődik és ezzel zárul a biztonság.",
+        "en": "At the eighth step the walls of your workshop widen. What you have built within yourself so far — attention, command of the elements, disciplined senses — you now carry beyond the body: you learn to **displace your consciousness independently of the body**, and you come to know the two fundamental active forces of the universe, the electric and the magnetic fluid.\n\nThe three planes interweave here like this: the **spirit** trains mental wandering — the free transfer of the point of view and precise, verifiable perception; the **soul** cultivates the serene present-awareness of the eternal Now and the mastery of the two fluids; on the level of the **body**, the purposeful use of fluid condensers and the magic mirror takes its place.\n\nBefore you begin, be honest with yourself: *every* exercise of the seventh step must sit securely. Mental wandering rests on all the discipline gathered so far — on a shaky foundation it becomes not a stable projection but daydreaming or restlessness.\n\nGive this step at least three to six months, and do not hurry. Force nothing: if you notice tension, anxiety or confusion, shorten the sessions, rest, and return to the basics. The calm return is part of every exercise — safety begins and ends with it."
+      }
+    },
+    {
+      "id": "iih-step-08-md-mental",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Szellemi képzés",
+        "en": "Mental Training"
+      },
+      "text": {
+        "hu": "A hetedik lépésig a tudatodat *befelé* fegyelmezted; most megtanulod *áthelyezni*. A mentális vándorlás azt jelenti, hogy a figyelmed középpontját — az igazi „itt vagyok” érzést — kiemeled a test megszokott nézőpontjából, és máshová helyezed. Nem képzelgés a cél, hanem pontos, ellenőrizhető észlelés.\n\n**1. Kilépés a szoba egy pontjára.** Ülj az ászanádba, csukd be a szemed, és képzeld el, hogy a tudatod néhány lépésre a testedtől, a szoba egy pontján áll. Onnan nézz körül: lásd a bútorokat, a fényt — és lásd nyugodtan a saját, mozdulatlanul ülő testedet is. Az első napokban néhány perc is elég; a lényeg, hogy a nézőpont váltása természetessé váljon.\n\n**2. Ismerős közeli hely.** Ha a szobán belül már otthonosan mozogsz, helyezd a tudatodat egy jól ismert, közeli helyre: a szomszéd szobába, egy barátod konyhájába, az udvarra. Ne emlékképet idézz fel — *ott* légy. Figyeld meg a részleteket: mi hol áll, mi változott, hogyan esik a fény.\n\n**3. Ellenőrzés.** Minden vándorlás után, amikor csak lehet, ellenőrizd a látottakat: menj oda, kérdezz rá, vesd össze. Ez választja el a valódi mentális vándorlást az álmodozástól. Az eltéréseket ne kudarcként, hanem mérőműszerként kezeld — a pontosság gyakorlással nő.\n\n**4. Fokozatos távolítás és gyakoriság.** Csak akkor menj messzebb, ha a közeli helyeken már megbízhatóan észlelsz. A gyakori, rövid vándorlás többet ér, mint a ritka és hosszú: a stabilitást az ismétlés építi, nem a hősies erőfeszítés.\n\n**5. Nyugodt visszatérés.** Minden alkalommal tudatosan, sietség nélkül térj vissza a testedbe, és néhány lélegzetvétellel érkezz meg teljesen. Ha bármi megzavar, ne ijedj meg: a tudatod magától hazatalál — te csak kísérd nyugalommal.",
+        "en": "Up to the seventh step you disciplined your consciousness *inward*; now you learn to *transfer* it. Mental wandering means lifting the centre of your attention — the true sense of “I am here” — out of the body's habitual viewpoint and placing it elsewhere. The goal is not fantasy but precise, verifiable perception.\n\n**1. Stepping to a point in the room.** Sit in your asana, close your eyes, and imagine that your consciousness stands a few paces from your body, at a point in the room. Look around from there: see the furniture, the light — and see, calmly, your own body sitting motionless. In the first days a few minutes are enough; what matters is that the change of viewpoint becomes natural.\n\n**2. A familiar nearby place.** Once you move at home within the room, transfer your awareness to a well-known place close by: the next room, a friend's kitchen, the courtyard. Do not summon a memory — *be there*. Observe the details: what stands where, what has changed, how the light falls.\n\n**3. Verification.** After every wandering, whenever possible, check what you saw: walk over, ask, compare. This is what separates true mental wandering from daydreaming. Treat deviations not as failure but as a measuring instrument — accuracy grows with practice.\n\n**4. Gradual distance and frequency.** Go farther only when you already perceive reliably in nearby places. Frequent short wanderings are worth more than rare long ones: stability is built by repetition, not by heroic effort.\n\n**5. Calm return.** Each time, return to your body consciously and without haste, and arrive fully with a few breaths. If something disturbs you, do not be alarmed: your consciousness finds its way home by itself — you only accompany it with calm."
+      }
+    },
+    {
+      "id": "iih-step-08-timer-greatnow",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Az örök Most — 5 perc",
+        "en": "The Great Now — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Engedd el a múltat és a jövőt. Időzz a tiszta jelenben: minden benyomás most születik és most múlik el. Maradj ebben a derűs éberségben.",
+          "en": "Release past and future. Dwell in the pure present: every impression is born now and passes now. Remain in this serene wakefulness."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Félidő — maradj a Mostban",
+              "en": "Halfway — stay in the Now"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-08-md-astral",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Asztrális képzés",
+        "en": "Astral Training"
+      },
+      "text": {
+        "hu": "**1. Az örök Most.** E lépés lelki alapja egy állandó, derűs jelen-tudat. A múlt tanító, a jövő irány — de élni csak a Mostban lehet. Gyakorold, hogy minden benyomást ott fogadsz, ahol születik: a jelenben, negatív érzelmi visszhang nélkül. Ez a tudatállapot hangol össze az akásával, és ez adja minden további munka hátterét.\n\n**2. Az elektromos fluidum.** A mindenségben két alapvető ható erő dolgozik. Az elektromos fluidum táguló és meleg, a tűz természetéhez tartozik. Halmozd fel a tűz elem munkájából ismerős módon: érezd, ahogy a tested — vagy egyetlen testrészed, például a jobb kezed — forró, feszítő, sugárzó erővel telik meg. Tanuld meg pontosan az *érzetét*, majd oldd fel maradéktalanul.\n\n**3. A mágneses fluidum.** Az ellenpólus: összehúzó, hűvös erő, a víz természetéhez tartozik. Halmozd fel ugyanígy — érezd a hűvös, vonzó, összetartó sűrűsödést —, ismerd meg az érzetét, és oldd fel. A két fluidum megkülönböztetése és uralma a hermetika egyik nagy kulcsa: minden hatás e kettő játékából áll.\n\n**4. Hatás az elemeken keresztül.** Ha a fluidumokat már biztosan érzed, tanulmányozd a befolyásolás négy útját — mindegyik egy-egy elem természetének felel meg: közvetlenül az akásán át, az elektromos, a mágneses, illetve az elektromágneses hatás útján. Ebben a lépésben elég, ha az elvet érted, és óvatosan, kizárólag nemes céllal kísérletezel.\n\n**5. Felkészülés az eszközökre.** Lélekben készülj a fluidkondenzátorok és a mágikus tükör használatára is: ezek az eszközök sűrítik és megtartják a fluidumokat — de csak annyit érnek, amennyi rend van abban, aki használja őket. Az alábbi jellemvonás-csomag ezt a belső rendet szolgálja: a Tükör munkádat táplálja, ott követheted, merre billen az egyensúly.",
+        "en": "**1. The eternal Now.** The soul's foundation of this step is a constant, serene present-awareness. The past is a teacher, the future a direction — but life happens only in the Now. Practise receiving every impression where it is born: in the present, without a negative emotional echo. This state of mind attunes you to the akasha, and it is the background of all further work.\n\n**2. The electric fluid.** Two fundamental active forces work throughout the universe. The electric fluid is expansive and warm, belonging to the nature of fire. Accumulate it in the way familiar from your work with the fire element: feel your body — or a single part of it, say your right hand — filling with hot, straining, radiant force. Learn its *feel* precisely, then dissolve it without remainder.\n\n**3. The magnetic fluid.** The counter-pole: a contracting, cool force belonging to the nature of water. Accumulate it in the same way — feel the cool, attracting, binding condensation —, learn its feel, and dissolve it. Distinguishing and commanding the two fluids is one of the great keys of hermetics: every effect is a play of these two.\n\n**4. Influence through the elements.** When you sense the fluids with certainty, study the four ways of influence — each answering the nature of one element: directly through the akasha, by the electric, by the magnetic, and by the electromagnetic way. At this step it is enough to understand the principle and to experiment cautiously, only with a noble aim.\n\n**5. Preparing for the tools.** Prepare in soul for the fluid condensers and the magic mirror as well: these tools condense and hold the fluids — but they are worth only as much as the order within the one who uses them. The trait pack below serves this inner order: it feeds your Mirror work, where you can follow which way the balance tips."
+      }
+    },
+    {
+      "id": "iih-step-08-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "8. lépés — jellemvonások",
+        "en": "Step VIII — character traits"
+      },
+      "aspektusPack": [
+        {
+          "key": "iih-asp8-reactive",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Reaktivitás",
+            "en": "Reactivity"
+          }
+        },
+        {
+          "key": "iih-asp8-turbulence",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Érzelmi vihar",
+            "en": "Emotional turbulence"
+          }
+        },
+        {
+          "key": "iih-asp8-pastbound",
+          "elem": "ido",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Múlthoz tapadás",
+            "en": "Clinging to the past"
+          }
+        },
+        {
+          "key": "iih-asp8-worry",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Aggodalmaskodás",
+            "en": "Worrying"
+          }
+        },
+        {
+          "key": "iih-asp8-greatnow",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Az örök Most nyugalma",
+            "en": "Calm of the eternal Now"
+          }
+        },
+        {
+          "key": "iih-asp8-poise",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Lelki egyensúly",
+            "en": "Poise"
+          }
+        },
+        {
+          "key": "iih-asp8-presence",
+          "elem": "ido",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Jelenlét",
+            "en": "Presence"
+          }
+        },
+        {
+          "key": "iih-asp8-composure",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Higgadtság",
+            "en": "Composure"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iih-step-08-md-physical",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Fizikai képzés",
+        "en": "Physical Training"
+      },
+      "text": {
+        "hu": "**1. Egyszerű fluidkondenzátor.** Készíts egyszerű fluidkondenzátort: egyetlen alkalmas növényből készült, gondosan leszűrt és tartósított főzetet, amelyet a fluidumok megkötésére töltesz fel. A pontos receptet az eredeti könyvből vedd — itt az elv a fontos: a kondenzátor nem varázsszer, hanem *tároló*, amely azt sűríti, amit te viszel bele.\n\n**2. Összetett kondenzátorok és a tükör.** A több összetevőből készült, összetett kondenzátorok erősebb tárolók; a fluidkondenzátorral bevont mágikus tükör pedig sokoldalú munkaeszköz: gyűjtőfelület, kapu a tisztánlátáshoz, segéd a hatás munkájában. Minden használat előtt tisztítsd meg, és mindig meghatározott céllal töltsd fel.\n\n**3. Töltött gyakorlat.** Dolgozz a tükörrel rendszeresen, de mindig *töltött* állapotban: előbb halmozd fel a megfelelő fluidumot vagy elemet, fogalmazd meg a célt, és csak azután kezdj. A kísérletezés önmagáért — puszta kíváncsiságból — erőt pazarol és fegyelmet bont; minden gyakorlat a fejlődésedet szolgálja.\n\n**4. Mérték és jegyzet.** A fizikai munkában is a mérték a mester: rövid, összeszedett ülések, teljes feloldással és pontos naplóbejegyzéssel. Ami nincs leírva, elvész — ami le van írva, abból módszer lesz.",
+        "en": "**1. A simple fluid condenser.** Prepare a simple fluid condenser: a carefully strained and preserved decoction of a single suitable plant, which you charge to bind the fluids. Take the exact recipe from the original book — what matters here is the principle: the condenser is no magic potion but a *store*, condensing what you yourself put into it.\n\n**2. Compound condensers and the mirror.** Compound condensers, made of several ingredients, are stronger stores; and a magic mirror coated with a fluid condenser is a versatile working tool: a collecting surface, a gate for clairvoyance, an aid in the work of influence. Cleanse it before every use, and always charge it with a defined purpose.\n\n**3. Charged practice.** Work with the mirror regularly, but always in a *charged* state: first accumulate the appropriate fluid or element, formulate the aim, and only then begin. Experimenting for its own sake — out of mere curiosity — wastes force and loosens discipline; every exercise serves your development.\n\n**4. Measure and record.** In the physical work too, measure is the master: short, collected sessions, with complete dissolution and a precise diary entry. What is not written down is lost — what is written down becomes method."
+      }
+    },
+    {
+      "id": "iih-step-08-timer-wander",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Mentális vándorlás — 10 perc",
+        "en": "Mental Wandering — 10 min"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Helyezd a tudatodat egy jól ismert közeli helyre. Figyeld meg a részleteket, majd nyugodtan térj vissza. Utólag ellenőrizd, mit láttál pontosan.",
+          "en": "Transfer your awareness to a nearby, well-known place. Observe details, then return calmly. Verify afterwards what you perceived."
+        },
+        "intervals": [
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "Félidő — figyeld a részleteket",
+              "en": "Halfway — observe the details"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-08-md-keynotes",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Kulcspontok",
+        "en": "Key Notes"
+      },
+      "text": {
+        "hu": "— **Előbb mesterség, aztán tovább.** A mentális vándorlás és a fluidumok munkája csak akkor biztonságos, ha a hetedik lépés minden gyakorlata valóban ül. Ha hiányt találsz, térj vissza — a becsületes visszalépés gyorsabb út, mint a látszat-haladás.\n\n— **Naplófegyelem.** Ebben a lépésben az ellenőrzés minden: vándorlásaid részleteit, a fluidumok érzetét és a tükörmunka eredményeit azonnal jegyezd fel. A napló a te műszered — nélküle nincs mit ellenőrizni.\n\n— **Párhuzamosság.** Szellem, lélek és test itt is együtt halad: a vándorlás pontossága a Most nyugalmán áll, a fluidumok uralma a jellemeden, az eszközök ereje mindkettőn. Egyik szálat se hagyd elmaradni.\n\n— **Türelem.** A tudat áthelyezése nem erőltethető: a görcsös akarás éppen azt a nyugalmat rontja el, amelyen a gyakorlat áll. Gyakori, rövid, derűs munka — hónapokban mérve, nem napokban.\n\n— **Etika.** A fluidumok és az eszközök hatalmat adnak a hatásra. Soha ne fordítsd őket más akarata ellen, és ne használd őket hiúságból vagy kíváncsiságból: az eszköz erősít, de az irányt a jellemed adja.",
+        "en": "— **Mastery first, then onward.** Mental wandering and the work with the fluids are safe only when every exercise of the seventh step truly sits. If you find a gap, go back — an honest step back is a faster road than the appearance of progress.\n\n— **Diary discipline.** In this step verification is everything: record the details of your wanderings, the feel of the fluids and the results of the mirror work at once. The diary is your instrument — without it there is nothing to verify.\n\n— **Parallel development.** Spirit, soul and body advance together here as well: the accuracy of wandering rests on the calm of the Now, command of the fluids on your character, the power of the tools on both. Let no strand fall behind.\n\n— **Patience.** The transfer of consciousness cannot be forced: strained willing spoils exactly the calm the exercise stands on. Frequent, short, serene work — measured in months, not in days.\n\n— **Ethics.** The fluids and the tools give power to affect. Never turn them against another's will, and never use them out of vanity or curiosity: the tool amplifies, but your character sets the direction."
+      }
+    },
+    {
+      "id": "iih-step-08-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Naplósablon",
+        "en": "Journal Template"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["iih-asp8-greatnow"],
+        "prompts": {
+          "hu": "SZELLEM — mentális vándorlás: ___ perc. Hová helyeztem a tudatomat: ___. Az ellenőrzés eredménye (pontos / eltérés): ___.\n\nLÉLEK — az örök Most: ___ perc, nyugalom (1–10): ___. Fluidum-munka (elektromos / mágneses): ___, érzete: ___.\n\nTEST — kondenzátor / tükör: ___. Cél és tapasztalat: ___.\n\nFELISMERÉS — a mai nap tanítása: ___",
+          "en": "SPIRIT — mental wandering: ___ min. Where I placed my awareness: ___. Verification result (accurate / deviation): ___.\n\nSOUL — the eternal Now: ___ min, calm (1–10): ___. Fluid work (electric / magnetic): ___, its feel: ___.\n\nBODY — condenser / mirror: ___. Purpose and experience: ___.\n\nINSIGHT — today's lesson: ___"
+        }
+      }
+    },
+    {
+      "id": "iih-step-08-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Elsajátítási ellenőrzőlista",
+        "en": "Mastery Checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Tudatomat nyugodtan áthelyezem a szoba bármely pontjára, és onnan látom a környezetemet — a saját testemet is.",
+              "en": "I calmly transfer my awareness to any point of the room and see my surroundings from there — my own body included."
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Ismerős közeli helyeket keresek fel mentálisan; az utólagos ellenőrzés a részleteket pontosnak találja.",
+              "en": "I mentally visit familiar nearby places; later verification finds the details accurate."
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Minden vándorlásból tudatosan, sietség és zavar nélkül térek vissza a testembe.",
+              "en": "From every wandering I return to my body consciously, without haste or disturbance."
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Az örök Most derűs jelen-tudata a hétköznapjaimban is megmarad, negatív érzelmi visszhang nélkül.",
+              "en": "The serene present-awareness of the eternal Now persists in my everyday life, without negative emotional echo."
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Az elektromos fluidumot felhalmozom, érzetét (meleg, táguló) pontosan ismerem, és maradéktalanul feloldom.",
+              "en": "I accumulate the electric fluid, know its feel (warm, expansive) precisely, and dissolve it completely."
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "A mágneses fluidumot felhalmozom, érzetét (hűvös, összehúzó) pontosan ismerem, és maradéktalanul feloldom.",
+              "en": "I accumulate the magnetic fluid, know its feel (cool, contracting) precisely, and dissolve it completely."
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Elkészítettem egy egyszerű fluidkondenzátort, és meghatározott céllal, feltöltve használom.",
+              "en": "I have prepared a simple fluid condenser and use it charged, with a defined purpose."
+            }
+          },
+          {
+            "key": "c8",
+            "nevek": {
+              "hu": "A tükörmunkát mindig töltött állapotban, fejlődési céllal végzem, és minden gyakorlatot naplózok.",
+              "en": "I do the mirror work always in a charged state, with a developmental aim, and I journal every session."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-08-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Review Quiz"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Melyik állítás írja le helyesen az elektromos fluidumot?",
+              "en": "Which statement describes the electric fluid correctly?"
+            },
+            "options": {
+              "hu": [
+                "Összehúzó, hűvös erő, a víz természetéhez tartozik.",
+                "Táguló, meleg erő, a tűz természetéhez tartozik.",
+                "Semleges, mozdulatlan erő, a föld természetéhez tartozik.",
+                "Könnyű, közvetítő erő, amely kizárólag a levegőben hat."
+              ],
+              "en": [
+                "A contracting, cool force belonging to the nature of water.",
+                "An expansive, warm force belonging to the nature of fire.",
+                "A neutral, motionless force belonging to the nature of earth.",
+                "A light, mediating force that acts only in the air."
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Hogyan gyakorlod helyesen és biztonságosan a mentális vándorlást?",
+              "en": "How do you practise mental wandering correctly and safely?"
+            },
+            "options": {
+              "hu": [
+                "Rögtön távoli, ismeretlen helyekre utazol, hogy gyorsabban fejlődj.",
+                "Addig erőlteted a kilépést, amíg a test teljesen érzéketlenné nem válik.",
+                "Közeli, jól ismert helyről indulsz, megfigyelsz, nyugodtan visszatérsz, majd ellenőrzöd a látottakat.",
+                "Csak félálomban gyakorolsz, mert olyankor könnyebb a kilépés."
+              ],
+              "en": [
+                "You travel at once to distant, unknown places so as to progress faster.",
+                "You force the projection until the body becomes completely numb.",
+                "You start from a nearby, well-known place, observe, return calmly, then verify what you saw.",
+                "You practise only in half-sleep, because projection is easier then."
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mi a fluidkondenzátorok és a mágikus tükör helyes szerepe?",
+              "en": "What is the proper role of fluid condensers and the magic mirror?"
+            },
+            "options": {
+              "hu": [
+                "Erősítik és sűrítik a munkádat, de az irányt a jellemed és a fejlődési célod adja — puszta kíváncsiságból nem használod őket.",
+                "Kiváltják a napi gyakorlást, mert önmagukban tárolják az erőt.",
+                "Csak jelképek: valódi hatásuk nincs, ezért bármire szabadon használhatók.",
+                "Kizárólag jóslásra valók, más munkára nem alkalmasak."
+              ],
+              "en": [
+                "They amplify and condense your work, but your character and developmental aim set the direction — you never use them out of mere curiosity.",
+                "They replace daily practice, because they store the force by themselves.",
+                "They are mere symbols with no real effect, so they may be used freely for anything.",
+                "They serve divination only and are unsuited to any other work."
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-08-md-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve 8. lépése nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Step 8 of Franz Bardon's “Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the full instructions always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, consult a professional. Practise ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "formatVersion": 1,
+  "id": "iih-theme-fire",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "A Tűz elem",
+    "en": "The Fire Element"
+  },
+  "description": {
+    "hu": "Tematikus elmélyülés a tűz elemben: természete, minőségei és lelki megnyilvánulásai Franz Bardon rendszere nyomán. Elmélet, vezetett tűz-érzet meditáció és önellenőrző kvíz egy modulban.",
+    "en": "A thematic deep-dive into the fire element: its nature, qualities and manifestations in the psyche, following Franz Bardon's system. Theory, a guided fire-feeling meditation and a self-check quiz in one module."
+  },
+  "items": [
+    {
+      "id": "iih-theme-fire-nature",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A tűz természete",
+        "en": "The Nature of Fire"
+      },
+      "text": {
+        "hu": "**1. Az első elem.** A hermetikus világkép szerint minden megnyilvánulás az elemekből épül fel, és a sor a tűzzel kezdődik. Nem a gyertyaláng fizikai tüzéről van szó, hanem egyetemes elvről: arról az ős-erőről, amely mindenben ott dolgozik, ami hat, terjed és átalakít. A látható tűz csak a legdurvább tükröződése ennek az elvnek.\n\n**2. Hő és fény.** A tűz elem két alapminősége a hő és a fény. Ahol meleget és világosságot találsz — a napsugárban, a test hőjében, egy gondolat hirtelen tisztaságában —, ott a tűz elv működik. A hermetika ezt az erőt *elektromos fluidumnak* nevezi: aktív, kifelé ható, teremtő feszültségnek.\n\n**3. A terjeszkedés iránya.** A tűz természete a tágulás: minden irányban kifelé tör, nyomást fejt ki és teret követel. Vele szemben áll majd a víz összehúzó ereje — de az már egy másik modul témája. Egyelőre elég, ha megjegyzed: ahol valami nő, feszül és kisugárzik, ott tűz dolgozik.\n\n**4. A test tájéka.** Az elemek a testben is elrendeződnek: a tűz régiója a fej. Nem véletlen, hogy a heves indulat *a fejünkbe száll*, és hogy a döntés, az akarat és a szellemi világosság is innen sugárzik szét.\n\n**5. Miért tanulod?** Az elem elméleti ismerete nem öncél. Csak azt tudod tudatosan felidézni és irányítani, amit előbb pontosan megértettél. Figyeld meg a tüzet a természetben és önmagadban — a gyakorlat erre az élő megfigyelésre épül.",
+        "en": "**1. The first element.** In the hermetic view every manifestation is built from the elements, and the sequence begins with fire. This is not the physical flame of a candle but a universal principle: the primal force at work in everything that acts, spreads and transforms. Visible fire is only the coarsest reflection of this principle.\n\n**2. Heat and light.** The two fundamental qualities of the fire element are heat and light. Wherever you find warmth and illumination — in sunlight, in the heat of the body, in the sudden clarity of a thought — the fire principle is working. Hermetics calls this force the *electric fluid*: an active, outward-working, creative tension.\n\n**3. The direction of expansion.** The nature of fire is to expand: it presses outward in all directions, exerting pressure and claiming space. Opposite it stands the contracting power of water — but that belongs to another module. For now, remember this much: wherever something grows, strains and radiates, fire is at work.\n\n**4. The region of the body.** The elements arrange themselves within the body as well: the region of fire is the head. It is no accident that hot temper *goes to our head*, and that decision, will and mental clarity also radiate from there.\n\n**5. Why study it?** Theoretical knowledge of the element is not an end in itself. You can consciously evoke and direct only what you have first understood precisely. Observe fire in nature and in yourself — the practice is built on this living observation."
+      }
+    },
+    {
+      "id": "iih-theme-fire-psyche",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A tűz a lélekben — erények és árnyak",
+        "en": "Fire in the Psyche — Virtues and Vices"
+      },
+      "text": {
+        "hu": "**1. Ugyanaz az erő — két arc.** A tűz a lélekben is dolgozik, és ott is az marad, ami: aktív, terjeszkedő, hatni akaró erő. Hogy áldás lesz-e belőle vagy pusztítás, azt nem az erő dönti el, hanem az irány, amit te adsz neki.\n\n**2. A fehér oldal.** Amikor a tüzed rendezetten ég, így mutatkozik meg:\n\n— akarat és belső erő,\n— tettvágy és aktivitás,\n— szenvedély, amely ügyet szolgál,\n— bátorság és döntésképesség,\n— lelkesedés, amely másokat is lángra gyújt.\n\nEzek a tűz erényei — nélkülük nincs mágikus fejlődés, mert nem volna, ami hajtsa.\n\n**3. A fekete oldal.** Ugyanez az erő irány nélkül vagy rossz irányban így torzul el:\n\n— harag és lobbanékonyság,\n— féltékenység és gyűlölet,\n— rombolási vágy,\n— zsarnoki uralkodás mások felett.\n\nFigyeld meg: a fekete lista minden tétele a fehér lista egy-egy erénye — csak eltévedve.\n\n**4. Nem elfojtás, hanem irányítás.** A kezdő hibája, hogy *megöli* a tüzét: elfojtja a haragot, és vele együtt megfojtja a bátorságot is. A hermetikus út más: az erőt megtartod, csak medret adsz neki. A haragban felismered a nyers akaratot — és tudatosan munkává, döntéssé, kiállássá alakítod.\n\n**5. Gyakorlati megfigyelés.** Néhány napon át jegyezd fel, mikor lobban fel benned a tűz — indulatként vagy lelkesedésként. Ne ítéld el, csak nevezd meg, és tedd fel a kérdést: milyen irányt adhatnék most ennek az erőnek? Ez a kérdés maga a tűz-munka kezdete.",
+        "en": "**1. One force — two faces.** Fire works in the psyche as well, and there too it remains what it is: an active, expansive force that wants to act. Whether it becomes a blessing or a destruction is decided not by the force itself but by the direction you give it.\n\n**2. The white side.** When your fire burns in an ordered way, it shows itself as:\n\n— will and inner power,\n— activity and the urge to act,\n— passion that serves a cause,\n— courage and decisiveness,\n— zeal that kindles others too.\n\nThese are the virtues of fire — without them there is no magical development, because nothing would drive it.\n\n**3. The black side.** The very same force, undirected or misdirected, distorts into:\n\n— anger and irascibility,\n— jealousy and hatred,\n— the urge to destroy,\n— domineering rule over others.\n\nNotice: every entry on the black list is a virtue from the white list — merely gone astray.\n\n**4. Not suppression but direction.** The beginner's mistake is to *kill* the fire: suppressing anger, and with it suffocating courage as well. The hermetic way is different: you keep the force and simply give it a channel. In anger you recognize raw will — and consciously reshape it into work, decision and the strength to stand your ground.\n\n**5. Practical observation.** For a few days, note down when fire flares up in you — as temper or as enthusiasm. Do not condemn it; simply name it and ask: what direction could I give this force right now? That question is itself the beginning of fire-work."
+      }
+    },
+    {
+      "id": "iih-theme-fire-timer-firefeel",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Tűz-érzet meditáció — 5 perc",
+        "en": "Fire-Feeling Meditation — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Idézd fel a tűz minőségét: meleg, kiterjedő erő tölti be a tested. A gyakorlat végén teljesen oldd fel az érzetet.",
+          "en": "Evoke the quality of fire: warm, expansive force filling your body. At the end dissolve the sensation completely."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Félidő — tartsd meg nyugodtan a meleg, táguló érzetet.",
+              "en": "Halfway — calmly hold the warm, expansive sensation."
+            }
+          },
+          {
+            "atSecond": 270,
+            "label": {
+              "hu": "Utolsó fél perc — kezdd finoman, teljesen feloldani az érzetet.",
+              "en": "Final half minute — begin gently and completely dissolving the sensation."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-fire-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Knowledge Check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Melyik két alapminőség jellemzi a tűz elemet a hermetikus tanítás szerint?",
+              "en": "Which two fundamental qualities characterize the fire element in the hermetic teaching?"
+            },
+            "options": {
+              "hu": [
+                "Hideg és összehúzódás",
+                "Hő és fény",
+                "Nedvesség és oldódás",
+                "Szárazság és mozdulatlanság"
+              ],
+              "en": [
+                "Cold and contraction",
+                "Heat and light",
+                "Moisture and dissolution",
+                "Dryness and stillness"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Hogyan hat a tűz elem ereje, az elektromos fluidum?",
+              "en": "How does the power of the fire element, the electric fluid, act?"
+            },
+            "options": {
+              "hu": [
+                "Minden irányban kifelé terjeszkedik",
+                "Egyetlen pontba húzódik össze",
+                "Kizárólag lefelé áramlik",
+                "Zárt körben kering, terjedés nélkül"
+              ],
+              "en": [
+                "It expands outward in all directions",
+                "It contracts into a single point",
+                "It flows exclusively downward",
+                "It circulates in a closed loop without spreading"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mi a tűz elem helyes uralásának útja a lélekben?",
+              "en": "What is the right way to master the fire element in the psyche?"
+            },
+            "options": {
+              "hu": [
+                "Az erő elfojtása, amíg teljesen el nem tűnik",
+                "A harag szabadjára engedése, hogy magától kiégjen",
+                "Az erő tudatos irányítása akarattá, bátorsággá és tetté",
+                "A tüzes vonások tagadása és tudatos kerülése"
+              ],
+              "en": [
+                "Suppressing the force until it disappears entirely",
+                "Letting anger run free so it burns itself out",
+                "Consciously directing the force into will, courage and action",
+                "Denying fiery traits and deliberately avoiding them"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-fire-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Franz Bardon's work \"Initiation Into Hermetics\". The text is an original summary, not a verbatim quotation — for the complete instructions always read the original book.*\n\n*This is not medical or psychological advice. If you experience emotional or mental difficulties, consult a professional. Practise ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

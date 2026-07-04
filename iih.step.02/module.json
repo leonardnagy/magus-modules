@@ -1,0 +1,379 @@
+{
+  "formatVersion": 1,
+  "id": "iih-step-02",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "II. Lépés — Elmélyítés",
+    "en": "Step II — Deepening"
+  },
+  "description": {
+    "hu": "A második lépés a megfigyelést formálássá mélyíti: önszuggesztió és érzékenkénti koncentráció a szellemben, a jellemvonások átnemesítése a lélekben, pórus-légzés és mozdulatlan testtartás a testben. Aki ezt a lépést uralja, kezében tartja a belső munka legfontosabb szerszámait.\n\nAjánlott időtartam: 3–8+ hét.",
+    "en": "The second step deepens observation into shaping: autosuggestion and sense-by-sense concentration in the spirit, the ennobling of character traits in the soul, pore breathing and motionless posture in the body. Whoever masters this step holds the essential tools of the inner work.\n\nRecommended duration: 3–8+ weeks."
+  },
+  "items": [
+    {
+      "id": "iih-step-02-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető",
+        "en": "Introduction"
+      },
+      "text": {
+        "hu": "A második lépés az **elmélyítés** lépése. Az elsőben megfigyelővé váltál: követted a gondolataidat, feltérképezted a lelkedet, tudatosan ettél és lélegeztél. Most a megfigyelőből formáló leszel — amit eddig csak láttál magadban, azt elkezded tudatosan alakítani.\n\nA munka itt is három síkon halad párhuzamosan. **A szellemben** az önszuggesztió erejét fogod munkába, és az érzékeidet tanítod egyetlen benyomásnál időzni. **A lélekben** a tükörmunka mélyül: a negatív vonásokat nem elnyomod, hanem az ellentétükké nemesíted. **A testben** megtanulsz minden pórusodon át lélegezni, és mozdulatlan, uralt testtel ülni.\n\nMielőtt belevágsz, kérdezd meg magadtól őszintén: valóban uralom az első lépést? Ha a gondolatmegfigyelés, az egy gondolat megtartása és a gondolati üresség még bizonytalan, térj vissza hozzájuk. A második lépés ezekre épül — homokra nem lehet tornyot emelni, és a visszalépés itt nem kudarc, hanem érettség.\n\nSzánj erre a szakaszra legalább három–nyolc hetet, és ne szégyelld, ha többre van szükséged. Ha gyakorlás közben feszültséget, fejfájást vagy nyugtalanságot érzel, rövidítsd az üléseket és lazíts — a fejlődést a nyugodt rendszeresség hozza, nem az erőltetés.",
+        "en": "The second step is the step of **deepening**. In the first you became an observer: you followed your thoughts, mapped your soul, ate and breathed with awareness. Now the observer becomes a shaper — what you have so far only watched in yourself, you begin to transform deliberately.\n\nThe work again proceeds on three planes in parallel. **In the spirit** you put the power of autosuggestion to work and teach your senses to dwell on a single impression. **In the soul** the mirror work deepens: you do not suppress negative traits, you refine them into their opposites. **In the body** you learn to breathe through every pore and to sit with a motionless, mastered body.\n\nBefore you begin, ask yourself honestly: have I truly mastered the first step? If thought observation, holding a single thought and the emptiness of mind are still shaky, return to them. The second step is built on these — no tower stands on sand, and stepping back here is not failure but maturity.\n\nGive this stage at least three to eight weeks, and feel no shame if you need more. If tension, headache or restlessness appears during practice, shorten the sessions and relax — progress comes from calm regularity, never from force."
+      }
+    },
+    {
+      "id": "iih-step-02-md-mental",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Szellemi képzés",
+        "en": "Mental Training"
+      },
+      "text": {
+        "hu": "**1. Az önszuggesztió mondata.** Fogalmazz meg egy rövid, pozitív, jelen idejű mondatot arról a tulajdonságról, amelyet ki akarsz fejleszteni, vagy arról a gyengeségről, amelyet el akarsz hagyni. Ne azt mondd ki, mitől szabadulnál — azt mondd ki, ami már megvalósult: *„Nyugodt és kitartó vagyok.”* A tudatalattid nem ismeri a tagadást és a jövő időt; csak a kész képet fogadja be.\n\n**2. A félálom kapuja.** A szuggesztió akkor hat a legmélyebben, amikor a nappali tudat elcsendesül: közvetlenül elalvás előtt és közvetlenül ébredés után. Ismételd a mondatodat halkan vagy gondolatban ebben a szendergő állapotban, nyugodt bizonyossággal, míg el nem alszol — és újra, mielőtt teljesen felébrednél. Segíthet, ha az ismétléseket gyöngysoron vagy csomózott zsinóron számolod: így a folyamat elalvás közben sem szakad meg.\n\n**3. Látási koncentráció.** Csukott szemmel idézz fel egy jól ismert tárgyat — gyertyát, gyümölcsöt, tollat —, és tartsd meg a képét öt percig, mintha nyitott szemmel néznéd. Ha a kép elhalványul vagy elszökik, türelmesen hozd vissza. Kezdetben néhány másodperc is eredmény; a napi gyakorlással nyúlik az idő.\n\n**4. Hallási koncentráció.** Ugyanígy idézz fel egy hangot: óra ketyegését, harang kondulását, eső kopogását. Ne a hang képét lásd — magát a hangot halld belül, folyamatosan, öt percen át.\n\n**5. A többi érzék.** Folytasd a szaglással (egy virág illata), az ízleléssel (egyetlen jellegzetes íz) és a tapintással (hideg, meleg, érdes, sima). Egy gyakorlaton belül mindig csak egyetlen érzékkel dolgozz, és csak akkor lépj tovább, ha az előző érzék benyomását már biztosan megtartod. Ez az érzékenkénti fegyelem építi fel azt az egyhegyű figyelmet, amelyre minden későbbi munka támaszkodik.",
+        "en": "**1. The autosuggestion phrase.** Formulate one short, positive, present-tense sentence about the quality you want to build or the weakness you want to leave behind. Do not name what you wish to escape — state what is already real: *“I am calm and persevering.”* The subconscious knows neither negation nor the future tense; it accepts only the finished picture.\n\n**2. The gate of drowsiness.** Suggestion works deepest when the waking mind grows quiet: immediately before falling asleep and immediately after waking. Repeat your sentence softly or in thought in this drowsy state, with calm certainty, until you drift off — and again before you are fully awake. It helps to count the repetitions on a string of beads or knots: the flow then continues even as sleep arrives.\n\n**3. Visual concentration.** With closed eyes, call up a familiar object — a candle, a fruit, a pen — and hold its image for five minutes as if you were looking at it with open eyes. When the picture fades or slips away, bring it back patiently. At first a few seconds is already success; daily practice stretches the time.\n\n**4. Auditory concentration.** In the same way call up a sound: the ticking of a clock, the toll of a bell, the patter of rain. Do not see a picture of the sound — hear the sound itself, inwardly and continuously, for five minutes.\n\n**5. The remaining senses.** Continue with smell (the scent of a flower), taste (one distinct flavour) and touch (cold, warmth, rough, smooth). Within one exercise work with a single sense only, and move on only when the previous sense impression holds firmly. This sense-by-sense discipline builds the one-pointed attention on which all later work rests."
+      }
+    },
+    {
+      "id": "iih-step-02-timer-concentration",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Érzék-koncentráció — 5 perc",
+        "en": "Sense Concentration — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Válassz egy érzéket (látás, hallás, szaglás, ízlelés, tapintás), és tarts fenn egyetlen elképzelt benyomást 5 percig, megszakítás nélkül.",
+          "en": "Choose one sense (sight, hearing, smell, taste, touch) and hold a single imagined impression for 5 minutes without interruption."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Félidő — maradj az egyetlen benyomásnál",
+              "en": "Halfway — stay with the single impression"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-02-md-astral",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Asztrális képzés",
+        "en": "Astral Training"
+      },
+      "text": {
+        "hu": "**1. A tükörmunka folytatása.** Az első lépésben elkészítetted a lelked fekete és fehér tükrét. Most ez a leltár munkaeszközzé válik: kiválasztod a legdurvább, legtöbb kárt okozó negatív vonásaidat, és módszeresen átalakítod őket.\n\n**2. Az átalakítás három szerszáma.** Az első az **önszuggesztió**: a kívánt ellentétes tulajdonságot már megvalósultként ülteted el a félálom állapotában. A második az **akaraterő**: napközben tudatosan elkapod magad, amikor a régi vonás megmozdul, és ott helyben az ellenkezőjét teszed. A harmadik az **átirányított figyelem**: nem a hibával harcolsz, hanem az erényt táplálod — amerre a figyelem árad, az növekszik.\n\n**3. Nemesítés, nem elfojtás.** A cél nem az, hogy a negatív vonást a pincébe zárd, hanem hogy az erejét átfordítsd. Az akaratgyengeségből erős akarat lesz, a szétszórtságból összpontosítás, az érzelmi ingadozásból kiegyensúlyozottság, a következetlenségből következetesség. Ugyanaz az erő dolgozik mindkettőben — te döntöd el, melyik irányba.\n\n**4. Az elemek egyensúlya.** Minden vonás egy elemhez tartozik: a tűz az akarat, a levegő az értelem, a víz az érzelem, a föld az állhatatosság. Figyeld meg, melyik elem uralkodik túl benned és melyik gyenge — az átalakítás sorrendjét ehhez igazítsd, hogy a lelked elemi hatásai fokozatosan kiegyenlítődjenek.\n\n**5. Napi mérleg.** Zárd a napot rövid számvetéssel: hol mozdult a régi vonás, hol győzött az új? Az alábbi jellemvonás-csomag a Tükröt táplálja — vedd fel, és a napló Tükör nézetében követheted, ahogy a fekete oldal fokozatosan fehérbe fordul.",
+        "en": "**1. Continuing the mirror work.** In the first step you drew up the black and the white mirror of your soul. Now that inventory becomes a working tool: you select your coarsest, most damaging negative traits and transform them methodically.\n\n**2. Three tools of transmutation.** The first is **autosuggestion**: you plant the desired opposite quality, already accomplished, into the drowsy state. The second is **willpower**: during the day you catch yourself the moment the old trait stirs, and do the opposite on the spot. The third is **redirected attention**: you do not fight the fault, you feed the virtue — whatever attention flows toward, grows.\n\n**3. Refining, not repressing.** The aim is not to lock the negative trait in the cellar but to turn its force around. Weakness of will becomes strong will, distractedness becomes focused concentration, emotional volatility becomes steadiness, inconsistency becomes consistency. The same energy drives both — you decide the direction.\n\n**4. The balance of the elements.** Every trait belongs to an element: fire is will, air is intellect, water is feeling, earth is steadfastness. Observe which element dominates in you and which runs weak — order your transmutation accordingly, so the elemental influences of your soul gradually even out.\n\n**5. The daily reckoning.** Close each day with a brief accounting: where did the old trait stir, where did the new one win? The trait pack below feeds the Mirror — add it, and in the journal's Mirror view you can watch the black side gradually turn white."
+      }
+    },
+    {
+      "id": "iih-step-02-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "2. lépés — jellemvonások",
+        "en": "Step II — character traits"
+      },
+      "aspektusPack": [
+        {
+          "key": "iih-asp2-weakwill",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Akaratgyengeség",
+            "en": "Weakness of will"
+          }
+        },
+        {
+          "key": "iih-asp2-distracted",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Szétszórtság",
+            "en": "Distractedness"
+          }
+        },
+        {
+          "key": "iih-asp2-volatile",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Érzelmi ingadozás",
+            "en": "Emotional volatility"
+          }
+        },
+        {
+          "key": "iih-asp2-inconsistent",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Következetlenség",
+            "en": "Inconsistency"
+          }
+        },
+        {
+          "key": "iih-asp2-strongwill",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Erős akarat",
+            "en": "Strong will"
+          }
+        },
+        {
+          "key": "iih-asp2-focus",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Összpontosítás",
+            "en": "Focused concentration"
+          }
+        },
+        {
+          "key": "iih-asp2-steady",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Érzelmi kiegyensúlyozottság",
+            "en": "Emotional steadiness"
+          }
+        },
+        {
+          "key": "iih-asp2-consistent",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Következetesség",
+            "en": "Consistency"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iih-step-02-md-physical",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Fizikai képzés",
+        "en": "Physical Training"
+      },
+      "text": {
+        "hu": "**1. Pórus-légzés.** Az első lépés tudatos légzését most kiterjeszted: nemcsak a tüdőd lélegzik, hanem az egész tested. Ülj kényelmesen, lazíts, és képzeld el, hogy belégzéskor minden pórusodon át életerő árad beléd — ahogy a száraz szivacs szívja a vizet —, kilégzéskor pedig az elhasznált erő távozik. Gyakorold először az egész testtel, később egyes testrészekkel is.\n\n**2. A test mozdulatlansága.** Válassz egy kényelmes ülő testhelyzetet — egy szék is tökéletes: egyenes hát, zárt térdek, kezek a combon —, és maradj benne teljesen mozdulatlanul. Semmi fészkelődés, semmi rezdülés: se ujj, se szemhéj. Kezdd rövid idővel, és naponta növeld; a cél, hogy a kényelmetlenség fölé emelkedj, és a test engedelmes, nyugodt eszközzé váljon.\n\n**3. Az uralom hétköznapja.** Ez a nyugalom nem ér véget a gyakorlóhelyen. Vidd magaddal a tartást a napodba: ülj egyenesen az asztalnál, mozdulj szándékkal, ne kapkodj. A test fegyelme visszahat a szellemre — aki nyugodtan ül, nyugodtabban is gondolkodik.\n\n**4. Mérték és jelzések.** A pórus-légzés erőteljes gyakorlat: ha felpörögsz, szédülsz vagy nyomást érzel, rövidítsd az időt, és végezd lágyabban. A mozdulatlan ülésnél a zsibbadás eleinte természetes, az éles fájdalom viszont jelzés — igazíts a testhelyzeten, és építkezz türelmesen.",
+        "en": "**1. Pore breathing.** You now extend the conscious breathing of the first step: not only your lungs breathe, but your whole body. Sit comfortably, relax, and imagine that with every inhale vital force streams into you through every pore — as a dry sponge drinks water — and with every exhale the spent force departs. Practise first with the whole body, later with individual parts as well.\n\n**2. Stillness of the body.** Choose a comfortable seated position — a chair is perfect: upright back, knees together, hands resting on the thighs — and remain in it completely motionless. No shifting, no flutter: not a finger, not an eyelid. Begin with a short time and lengthen it daily; the aim is to rise above discomfort until the body becomes an obedient, quiet instrument.\n\n**3. Composure in daily life.** This calm does not end at the practice seat. Carry the posture into your day: sit upright at your desk, move with intention, stop rushing. The discipline of the body feeds back into the spirit — whoever sits calmly also thinks more calmly.\n\n**4. Measure and signals.** Pore breathing is a powerful exercise: if you feel overstimulated, dizzy or pressured, shorten the time and work more gently. In motionless sitting, numbness is natural at first, but sharp pain is a signal — adjust the position and build patiently."
+      }
+    },
+    {
+      "id": "iih-step-02-timer-porebreath",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Pórus-légzés — 5 perc",
+        "en": "Pore Breathing — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Képzeld, hogy az egész tested lélegzik: minden pórusodon át életerőt szívsz be, kilégzéskor pedig az elhasznált erőt engeded ki.",
+          "en": "Imagine your whole body breathing: through every pore you draw in vital force, and on the exhale release the spent force."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Félidő — az egész tested egyenletesen lélegzik",
+              "en": "Halfway — your whole body breathes evenly"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-02-md-keynotes",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Kulcspontok",
+        "en": "Key Notes"
+      },
+      "text": {
+        "hu": "— **Elsajátítás a továbblépés előtt.** Az öt perc megszakítatlan érzék-koncentráció mind az öt érzékkel nem díszítés, hanem küszöb. A harmadik lépés vizualizációi erre épülnek — az itt hagyott hiányt később nem lehet befoltozni.\n\n— **Naplófegyelem.** Jegyezd fel minden nap az időket, a megszakításokat és a tükörmunkád állását. Az átalakulás lassú és fokozatos; napló nélkül észre sem veszed — és be is csaphatod magad.\n\n— **Párhuzamosság.** Szellem, lélek és test együtt halad. Csábító csak a látványos koncentrációt gyakorolni, és a kellemetlen jellemmunkát halogatni — de a féloldalas fejlődés torz épületet emel.\n\n— **Türelem.** A jellemvonásaid évek alatt vésődtek beléd; hetek alatt nem tűnnek el. Zárd a napot mindig egy pozitív gondolattal, és a visszaesést kezeld adatként, ne ítéletként.\n\n— **Etika.** Az önszuggesztió és a növekvő akaraterő hatalom — kizárólag a saját nemesítésedre irányítsd. Aki ezen a fokon mások befolyásolására fordítja az eszközöket, a saját tükrét feketíti.",
+        "en": "— **Mastery before advancing.** Five minutes of unbroken sense concentration with each of the five senses is not decoration but a threshold. The visualizations of Step III are built on it — a gap left here cannot be patched later.\n\n— **Diary discipline.** Record the times, the interruptions and the state of your mirror work every day. Transmutation is slow and gradual; without a diary you will not notice it — and you may well deceive yourself.\n\n— **Parallelism.** Spirit, soul and body advance together. It is tempting to practise only the showy concentration and postpone the uncomfortable character work — but lopsided growth raises a crooked building.\n\n— **Patience.** Your traits were carved into you over years; they will not vanish in weeks. Always close the day with a positive thought, and treat a relapse as data, not as a verdict.\n\n— **Ethics.** Autosuggestion and growing willpower are power — direct them solely at your own refinement. Whoever turns these tools to influencing others at this stage blackens their own mirror."
+      }
+    },
+    {
+      "id": "iih-step-02-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Napi naplósablon",
+        "en": "Daily Journal Template"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["iih-asp2-focus"],
+        "prompts": {
+          "hu": "SZELLEM — Érzék-koncentráció (érzék: ___): ___ perc, megszakítások: ___. Önszuggesztió (mondatom: ___): elalváskor ___, ébredéskor ___.\n\nLÉLEK — Ma ezen a vonáson dolgoztam: ___. Így jelentkezett, és így fordítottam át: ___.\n\nTEST — Pórus-légzés: ___ perc. Mozdulatlan ülés: ___ perc, ebből zavartalan: ___.\n\nFELISMERÉS — A mai gyakorlás tanulsága, amit holnap magammal viszek: ___.",
+          "en": "SPIRIT — Sense concentration (sense: ___): ___ min, interruptions: ___. Autosuggestion (my phrase: ___): before sleep ___, on waking ___.\n\nSOUL — Trait I worked on today: ___. How it showed up, and how I turned it around: ___.\n\nBODY — Pore breathing: ___ min. Motionless sitting: ___ min, undisturbed for: ___.\n\nINSIGHT — Today's lesson that I carry into tomorrow: ___."
+        }
+      }
+    },
+    {
+      "id": "iih-step-02-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Elsajátítási lista",
+        "en": "Mastery Checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Megfogalmaztam egy rövid, pozitív, jelen idejű szuggesztiós mondatot, és naponta használom elalvás előtt és ébredés után.",
+              "en": "I have formulated a short, positive, present-tense suggestion phrase and use it daily before sleep and right after waking."
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Egy elképzelt látványt öt percig megszakítás nélkül megtartok.",
+              "en": "I can hold an imagined visual image for five minutes without interruption."
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Egy elképzelt hangot öt percig megszakítás nélkül megtartok.",
+              "en": "I can hold an imagined sound for five minutes without interruption."
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Szaglási, ízlelési és tapintási benyomást egyenként öt percig megtartok.",
+              "en": "I can hold a smell, a taste and a touch impression for five minutes each."
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "A fekete tükröm legalább egy vonását tudatosan alakítom az ellentétévé, és a naplóm igazolja a haladást.",
+              "en": "I am consciously transmuting at least one trait of my black mirror into its opposite, and my diary confirms the progress."
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Az egésztest-pórus-légzést nyugodtan és természetesen végzem.",
+              "en": "I perform whole-body pore breathing calmly and naturally."
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Választott testhelyzetemben legalább fél órán át teljesen mozdulatlanul ülök.",
+              "en": "I sit completely motionless in my chosen position for at least half an hour."
+            }
+          },
+          {
+            "key": "c8",
+            "nevek": {
+              "hu": "Minden nap vezetem a naplót, és a napot pozitív gondolattal zárom.",
+              "en": "I keep my diary every day and close each day with a positive thought."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-02-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Review Quiz"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Milyen a helyesen megfogalmazott önszuggesztiós mondat?",
+              "en": "What makes a correctly formulated autosuggestion phrase?"
+            },
+            "options": {
+              "hu": [
+                "Jövő idejű, mert a változás még előttem áll.",
+                "Rövid, pozitív és jelen idejű — úgy mondom ki, mintha már igaz lenne.",
+                "Tagadó formájú, hogy pontosan megnevezze, mitől akarok megszabadulni.",
+                "Minél hosszabb és részletesebb, annál mélyebbre hatol."
+              ],
+              "en": [
+                "Future tense, because the change still lies ahead of me.",
+                "Short, positive and present tense — spoken as if it were already true.",
+                "Phrased as a negation, so it names exactly what I want to be rid of.",
+                "The longer and more detailed, the deeper it penetrates."
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "A lelki tükörben melyik elemhez tartozik a szétszórtság, és mi a pozitív ellentéte?",
+              "en": "In the soul mirror, which element does distractedness belong to, and what is its positive opposite?"
+            },
+            "options": {
+              "hu": [
+                "Tűz — erős akarat",
+                "Víz — érzelmi kiegyensúlyozottság",
+                "Levegő — összpontosítás",
+                "Föld — következetesség"
+              ],
+              "en": [
+                "Fire — strong will",
+                "Water — emotional steadiness",
+                "Air — focused concentration",
+                "Earth — consistency"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mit tegyél, ha a pórus-légzés vagy a koncentráció közben feszültség, szédülés vagy fejfájás jelentkezik?",
+              "en": "What should you do if tension, dizziness or headache appears during pore breathing or concentration?"
+            },
+            "options": {
+              "hu": [
+                "Rövidítem a gyakorlatot, lazítok, és fokozatosan, erőltetés nélkül építem újra az időt.",
+                "Tovább erőltetem, mert a kellemetlenség a haladás biztos jele.",
+                "Azonnal a következő lépésre ugrom, hátha annak gyakorlatai könnyebbek.",
+                "Megduplázom az időtartamot, hogy a testem gyorsabban hozzászokjon."
+              ],
+              "en": [
+                "I shorten the exercise, relax, and rebuild the time gradually, without forcing.",
+                "I push on harder, because discomfort is a sure sign of progress.",
+                "I jump straight to the next step in case its exercises are easier.",
+                "I double the duration so my body adapts faster."
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-02-md-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve 2. lépése nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Step 2 of Franz Bardon's \"Initiation Into Hermetics\". The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience emotional or mental difficulties, consult a professional. Practise ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

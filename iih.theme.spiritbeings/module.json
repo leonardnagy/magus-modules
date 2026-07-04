@@ -1,0 +1,142 @@
+{
+  "formatVersion": 1,
+  "id": "iih-theme-spiritbeings",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Szellemlények és a vezető",
+    "en": "Spirit Beings & the Guide"
+  },
+  "description": {
+    "hu": "Tematikus elmélyülés a hermetika láthatatlan világaiban: az elemi lények, az eltávozottak és a magasabb intelligenciák birodalmai, valamint a minden embert kísérő személyes vezető. Megtanulod, hogyan épül ki a kapcsolat fokozatosan, hogyan mérj meg minden közlést, és miért a kiegyensúlyozott jellem a legjobb védelem.",
+    "en": "A thematic deep-dive into the invisible worlds of hermetics: the kingdoms of the elemental beings, the departed and the higher intelligences, and the personal guide who accompanies every human being. You will learn how contact is built up gradually, how to weigh every communication, and why a balanced character is the best protection."
+  },
+  "items": [
+    {
+      "id": "iih-theme-spiritbeings-worlds",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A láthatatlan világok",
+        "en": "The Invisible Worlds"
+      },
+      "text": {
+        "hu": "A hermetikus világkép szerint a fizikai természet csak a legkülső héj: mögötte síkok és birodalmak sora húzódik, amelyeket éppúgy lények népesítenek be, mint a látható világot az állatok és az emberek. Ez a lecke térkép, nem meghívó — előbb ismerd a tájat, mielőtt bárkivel szóba állnál rajta.\n\n**1. Az elemek népe.** A hagyomány négy nagy elemi birodalmat ír le, mindegyiket a maga lényeivel: a föld szellemei a *gnómok*, a vízéi az *undinák*, a levegőéi a *szilfek*, a tűzéi a *szalamandrák*. Ezek a lények egyetlen elemből épülnek fel, és a saját elemük erőit igazgatják — a növekedés és a szilárdság munkáját a földben, az áramlásét a vízben, a mozgásét a levegőben, a hőét és a fényét a tűzben.\n\n**2. Egyoldalú tudat.** Mivel csak egyetlen elem működik bennük, tudatuk egyoldalú: a maguk területén bámulatosan hozzáértők, de hiányzik belőlük az a négy elemet egyensúlyban tartó teljesség, amely az embert jellemzi. A hagyomány szerint éppen ezért tekintenek tisztelettel arra az emberre, aki a saját elemeit uralja — és ezért kockázatos játék felkészületlenül közéjük lépni.\n\n**3. Az eltávozottak.** A láthatatlan világ lakói közé tartoznak az elhunytak lelkei is. Ők a földi életükben elért érettségnek megfelelő régiókban tartózkodnak, és a maguk útján fejlődnek tovább. A velük való érintkezés nem játék és nem mutatvány: a kegyelet és a józanság itt is kéz a kézben jár.\n\n**4. Magasabb intelligenciák.** A hierarchia felsőbb fokain olyan intelligenciák állnak, amelyek régiókat, törvényeket és feladatköröket felügyelnek. A tanítvány számára sokáig nem közvetlen beszélgetőtársak, hanem irányjelzők: létük arra emlékeztet, hogy a rend a láthatatlanban is rend.\n\n**5. Hogyan használd ezt a tudást?** Egyelőre sehogy — pontosabban háttérként. A rendszeres munka első fokain nem lényekkel dolgozol, hanem önmagadon. De aki tudja, milyen tájon jár majd, az nem esik pánikba az első zörrenésre — és nem borul térdre az első fény előtt sem.",
+        "en": "In the hermetic view the physical world is only the outermost shell: behind it stretches a series of planes and kingdoms, populated by beings just as the visible world is populated by animals and humans. This lesson is a map, not an invitation — learn the terrain before you speak with anyone who lives there.\n\n**1. The peoples of the elements.** Tradition describes four great elemental kingdoms, each with its own beings: the spirits of earth are the *gnomes*, those of water the *undines*, of air the *sylphs*, of fire the *salamanders*. These beings are built of a single element and administer its forces — the work of growth and solidity in the earth, of flow in the water, of movement in the air, of heat and light in the fire.\n\n**2. One-sided consciousness.** Because only one element works in them, their consciousness is one-sided: astonishingly competent within their own domain, yet lacking the four-element wholeness that characterizes the human being. This, tradition says, is why they look with respect upon a person who has mastered their own elements — and why it is a risky game to step among them unprepared.\n\n**3. The departed.** Among the inhabitants of the invisible world are also the souls of the deceased. They dwell in regions corresponding to the maturity they reached in earthly life and continue to develop along their own path. Contact with them is neither a game nor a stage act: reverence and sobriety walk hand in hand here as well.\n\n**4. Higher intelligences.** On the upper rungs of the hierarchy stand intelligences that oversee regions, laws and spheres of duty. For a long time they are not conversation partners for the student but signposts: their existence reminds you that order reigns in the invisible too.\n\n**5. How should you use this knowledge?** For now, not at all — or more precisely, as background. In the first steps of the systematic work you do not work with beings; you work on yourself. But the one who knows the terrain will not panic at the first rustle — and will not fall to their knees before the first light either."
+      }
+    },
+    {
+      "id": "iih-theme-spiritbeings-guide",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A személyes vezető",
+        "en": "The Personal Guide"
+      },
+      "text": {
+        "hu": "A hagyomány szerint senki sem járja az utat kíséret nélkül: minden ember mellé születésétől fogva rendeltetett egy vezető — nevezd őrszellemnek, védangyalnak vagy belső mesternek, a név kevésbé fontos, mint a viszony. Ő nem szolga és nem varázsgép: figyel, terel, és pontosan annyit mutat meg, amennyire megértél.\n\n**1. Miért nem jelentkezik magától?** Mert tiszteletben tartja a szabadságodat és a fejlődésed ütemét. A kapcsolat nem kegy, amit kikönyörögsz, hanem érettség, amelybe belenősz — a feltételeit a rendszeres belső munka teremti meg, nem a sóvárgás.\n\n**2. Passzív kezdet.** A módszeres képzés negyedik–ötödik foka táján a tanítvány *passzív érintkezéssel* kezd. A legegyszerűbb eszköz az inga: előre rögzített igen/nem jelekkel kérdezel, és a válaszokat hidegvérrel jegyzőkönyvezed. Ez nem jóslás és nem játék — gyakorlat, amelyben a csatorna tisztaságát tanulod.\n\n**3. Az írás fokozatai.** Az inga után jöhet a mediális írás három fokozata: az *automatikus* írás, ahol a kéz szinte magától mozdul; az *inspirációs*, ahol gondolatok és mondatok érkeznek, s te lejegyzed őket; végül az *intuitív*, ahol a közlés már nem szavakban, hanem kész tudásként jelenik meg benned. Mindhárom fokon te maradsz az úr: bármikor megállhatsz, kérdezhetsz, ellenőrizhetsz.\n\n**4. A tudatos közösség.** Ahogy a belső érzékeid fejlődnek, a kapcsolat kinő az eszközökből: a vezető hangja belső hallássá, alakja belső látássá tisztul, míg végül tudatos, kétirányú közösséggé érik. Ez a cél — nem a látványosság, hanem a megbízható, józan együttműködés.\n\n**5. Türelem.** Ha hetekig vagy hónapokig nem történik semmi, az nem kudarc, hanem mérce: a csatorna a jellemeddel együtt tisztul. Dolgozz tovább a fokozatok gyakorlatain — a vezető nem késik, csak a te órád jár még másképp.",
+        "en": "According to tradition no one walks the path unaccompanied: from birth a guide is assigned to every human being — call it a guardian spirit, a protecting angel or an inner master; the name matters less than the relationship. The guide is neither a servant nor a magic vending machine: it watches, steers, and reveals exactly as much as you have ripened for.\n\n**1. Why does it not simply announce itself?** Because it respects your freedom and the pace of your development. The connection is not a favour you beg for but a maturity you grow into — its conditions are created by steady inner work, not by longing.\n\n**2. A passive beginning.** Around the fourth and fifth steps of the systematic training, the student begins with *passive contact*. The simplest instrument is the pendulum: you ask questions with pre-agreed yes/no signals and record the answers with a cool head. This is neither fortune-telling nor a game — it is an exercise in which you learn the cleanliness of the channel.\n\n**3. The grades of writing.** After the pendulum may come the three grades of mediumistic writing: *automatic* writing, where the hand moves almost by itself; *inspirational* writing, where thoughts and sentences arrive and you take them down; and finally *intuitive* writing, where the communication no longer appears in words but as ready-made knowing within you. On all three grades you remain the master: you may stop, question and verify at any moment.\n\n**4. Conscious communion.** As your inner senses develop, the connection outgrows its instruments: the guide's voice clarifies into inner hearing, its form into inner sight, until at last the relationship matures into conscious, two-way communion. That is the goal — not spectacle, but reliable, sober cooperation.\n\n**5. Patience.** If nothing happens for weeks or months, that is not failure but a measuring rod: the channel purifies together with your character. Keep working at the exercises of the steps — the guide is never late; it is only your clock that still runs differently."
+      }
+    },
+    {
+      "id": "iih-theme-spiritbeings-discernment",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Megkülönböztetés és védelem",
+        "en": "Discernment & Protection"
+      },
+      "text": {
+        "hu": "A láthatatlan világgal való érintkezés legfontosabb szerve nem az inga és nem az írótoll, hanem az ítélőképességed. Amit nem mersz megvizsgálni, azt nem érdemled meg elhinni.\n\n**1. Mérj meg minden közlést.** Bármi érkezik — ingán, íráson vagy belső hangon át —, tedd az eszed és a lelkiismereted mérlegére. Igaz-e? Ésszerű-e? Összefér-e az etikáddal? Ami a józan ésszel vagy az erkölccsel ütközik, azt a forrástól függetlenül elveted. Magasabb világból érkező közlés soha nem kéri, hogy kikapcsold a gondolkodásodat.\n\n**2. A valódi vezető ismertetőjegyei.** Az igazi vezető *sosem hízeleg* — nem mondja, hogy kiválasztott vagy, és nem ígér gyors hatalmat. *Sosem követel vak engedelmességet* — tanácsol, de a döntést rád hagyja. És *sosem kér imádatot* — aki hódolatot követel, már ezzel leleplezte magát. Jegyezd meg: a fény tanít, a homály parancsol.\n\n**3. Név és ellenőrzés.** Kérd a jelentkező lény nevét, és vizsgáld a következetességét: ugyanaz a név, ugyanaz a jelleg, ugyanaz a színvonal tér-e vissza minden alkalommal? A zavaros, csapongó, önmagának ellentmondó forrás nem vezető, hanem hívatlan vendég, akit udvariasan, de határozottan elbocsátasz.\n\n**4. A legjobb pajzs.** Nem a bonyolult rituálé véd, hanem a kiegyensúlyozott jellem és a nyugodt elme. A félelem az egyetlen igazán tárva hagyott kapu: azt vonzza, amitől retteg. Akiben az elemek egyensúlyban állnak, arról a zavaró hatások úgy peregnek le, mint eső az üvegről.\n\n**5. Tisztelet szolgalelkűség nélkül.** Nincs szeánszosdi, nincs borzongásból űzött szellemidézés, nincs társasjáték a láthatatlannal. A magasabb lényeknek tisztelet jár — de nem térdre borulás. Egyenes derékkal, tiszta szándékkal, nyitott ésszel: így közlekedik a hermetikus a világok között.",
+        "en": "The most important organ for contact with the invisible world is neither the pendulum nor the pen — it is your judgement. What you dare not examine, you do not deserve to believe.\n\n**1. Weigh every communication.** Whatever arrives — through pendulum, writing or inner voice — place it on the scales of your reason and your conscience. Is it true? Is it sensible? Is it compatible with your ethics? Whatever collides with sound reason or with morality you reject, regardless of its source. A communication from a higher world never asks you to switch off your thinking.\n\n**2. The marks of a true guide.** A genuine guide *never flatters* — it does not tell you that you are chosen and it promises no quick powers. It *never demands blind obedience* — it advises, but leaves the decision to you. And it *never asks for worship* — whoever demands adoration has already unmasked itself. Remember: light teaches, darkness commands.\n\n**3. Name and verification.** Ask the name of the being that presents itself, and test its consistency: does the same name, the same character, the same level return on every occasion? A confused, rambling, self-contradicting source is not a guide but an uninvited visitor, whom you dismiss politely yet firmly.\n\n**4. The best shield.** It is not the elaborate ritual that protects you, but a balanced character and a calm mind. Fear is the only gate left truly open: it attracts the very thing it dreads. From one in whom the elements stand in equilibrium, disturbing influences run off like rain from glass.\n\n**5. Respect without servility.** No séance games, no ghost-summoning for the sake of a thrill, no parlour play with the invisible. Higher beings deserve respect — but not prostration. With a straight back, clean intent and an open mind: that is how the hermeticist travels between the worlds."
+      }
+    },
+    {
+      "id": "iih-theme-spiritbeings-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Tudáspróba",
+        "en": "Knowledge Check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Miből épülnek fel az elemi lények (gnómok, undinák, szilfek, szalamandrák) a hermetikus tanítás szerint?",
+              "en": "According to hermetic teaching, what are the elemental beings (gnomes, undines, sylphs, salamanders) made of?"
+            },
+            "options": {
+              "hu": [
+                "Egyetlen elemből, ezért tudatuk egyoldalú",
+                "Mind a négy elemből, akárcsak az ember",
+                "Tiszta szellemből, minden elem nélkül",
+                "Az emberi képzelet anyagából, önálló létezés nélkül"
+              ],
+              "en": [
+                "Of a single element, which is why their consciousness is one-sided",
+                "Of all four elements, just like the human being",
+                "Of pure spirit, without any element at all",
+                "Of the substance of human imagination, with no existence of their own"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Hogyan kezdődik a kapcsolat a személyes vezetővel a módszeres képzésben?",
+              "en": "How does contact with the personal guide begin in the systematic training?"
+            },
+            "options": {
+              "hu": [
+                "Látványos idézőszertartással, amely azonnali megjelenést kényszerít ki",
+                "Sehogy — a vezetővel csak a halál után lehet kapcsolatba lépni",
+                "Passzívan — például ingával adott igen/nem válaszokkal, később az írás fokozatain át",
+                "Csoportos szeánszokon, minél több résztvevővel"
+              ],
+              "en": [
+                "With a spectacular summoning ceremony that forces an immediate appearance",
+                "Not at all — the guide can only be contacted after death",
+                "Passively — for example with pendulum yes/no answers, later through the grades of writing",
+                "In group séances, with as many participants as possible"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Miről ismered fel a valódi vezetőt?",
+              "en": "How do you recognize a true guide?"
+            },
+            "options": {
+              "hu": [
+                "Hízeleg, és gyors hatalmat ígér a kiválasztottnak",
+                "Sosem hízeleg, nem követel vak engedelmességet, és nem kér imádatot",
+                "Feltétlen engedelmességet vár el, kérdések nélkül",
+                "Mindig megtagadja a nevét, hogy próbára tegyen"
+              ],
+              "en": [
+                "It flatters you and promises quick powers to the chosen one",
+                "It never flatters, never demands blind obedience, and never asks for worship",
+                "It expects unconditional obedience, with no questions asked",
+                "It always refuses to give its name, as a test of your faith"
+              ]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-spiritbeings-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába\" (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Franz Bardon's work 'Initiation Into Hermetics'. The text is an original summary, not a verbatim quotation — for the complete instructions always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, consult a professional. Practise ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

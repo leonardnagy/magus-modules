@@ -1,0 +1,185 @@
+{
+  "formatVersion": 1,
+  "id": "iih-step-01",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "I. Lépés — Alapok",
+    "en": "Step I — Foundations"
+  },
+  "description": {
+    "hu": "A gondolatok feletti uralom, az önismeret a lélektükrök révén, és az egészséges, tudatos életmód a tudatos légzéssel. A teljes út megingathatatlan alapköve. Ajánlott időtartam: 2–6+ hét, az őszinte elsajátításig.",
+    "en": "Mastery over one's thoughts, self-knowledge through the soul mirrors, and a healthy, conscious lifestyle with conscious breathing. The unshakeable foundation of the entire path. Recommended duration: 2–6+ weeks, until honest mastery."
+  },
+  "items": [
+    {
+      "id": "iih-step-01-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető", "en": "Introduction" },
+      "text": {
+        "hu": "Az első lépés nem látványos, mégis ez dönti el, meddig jutsz. Itt nem erőket gyűjtesz, hanem **eszközt készítesz magadból**: egy tiszta, fegyelmezett, őszinte tudatot, amellyel minden későbbi munka elvégezhető.\n\nA lépés három síkon, egyszerre dolgozik:\n\n— **Szellem (mentális):** uralom a gondolatok felett.\n— **Lélek (asztrális):** önismeret a fekete és fehér lélektükör révén.\n— **Test (fizikai):** mértékletes életmód és tudatos légzés.\n\nMindhármat **párhuzamosan** kell gyakorolni. Bardon határozottan int: csak akkor lépj tovább, ha mindhárom területet őszintén elsajátítottad — és ezt a naplód igazolja. Ne siess. Hetek, gyakran egy-két hónap is természetes.\n\n**Biztonság:** ezek szelíd, befelé forduló gyakorlatok. Ha bármi nyugtalanságot kelt, lassíts. Ez tanulási segédlet — az eredeti könyv pótolhatatlan.",
+        "en": "The first step is unspectacular, yet it decides how far you will go. Here you do not gather powers — you **forge yourself into the instrument**: a clear, disciplined, honest consciousness with which all later work becomes possible.\n\nThe step works on three planes at once:\n\n— **Spirit (mental):** mastery over your thoughts.\n— **Soul (astral):** self-knowledge through the black and white soul mirrors.\n— **Body (physical):** a moderate lifestyle and conscious breathing.\n\nAll three must be practised **in parallel**. Bardon warns firmly: advance only when you have honestly mastered all three — and your diary proves it. Do not rush. Weeks, often a month or two, are normal.\n\n**Safety:** these are gentle, inward exercises. If anything causes unease, slow down. This is a study aid — the original book is irreplaceable."
+      }
+    },
+    {
+      "id": "iih-step-01-md-mental",
+      "kind": "markdown",
+      "nevek": { "hu": "Szellemi képzés — gondolatkontroll", "en": "Mental Training — Thought Control" },
+      "text": {
+        "hu": "A legtöbb ember nem gondolkodik, hanem *gondolják* — a gondolatok jönnek-mennek, mint utcán a járókelők, és magukkal sodorják a figyelmet. Az első feladat ezt megfordítani.\n\n**1. A gondolatok megfigyelése.** Ülj le kényelmesen, naponta kétszer. Néhány percig (kezdd 1–5 perccel) légy a saját gondolataid **semleges megfigyelője**. Ne kapaszkodj beléjük, ne kergesd el őket, ne ítélkezz — csak nézd, ahogy felmerülnek és elmúlnak, mintha idegen forgalmat figyelnél. Eleinte döbbenetes lesz, milyen kaotikus az elme. Ez nem kudarc; ez a diagnózis.\n\n**2. A gondolatok fegyelmezése.** Ha a megfigyelés megy, válassz **egyetlen témát**, és tartsd rajta a figyelmedet, a többit pedig hagyd elcsendesedni. Majd ennek ellentéte: engedd, hogy egy nemkívánatos gondolat fel se merüljön — tartsd távol.\n\n**3. A gondolatok alávetése — az üres elme.** A cél a tudat **kiüresítése**: rövid ideig egyetlen gondolat se legyen jelen, mégis éber maradsz. Eleinte másodpercekig sikerül. Türelemmel ez percekre nő.\n\nMinden ülést rögzíts a naplóban: hány perc, milyen mély volt a csend, mi zavart meg. A napló itt nem dísz, hanem a mérőeszközöd.",
+        "en": "Most people do not think; they *are thought* — ideas come and go like passers-by in the street, dragging attention with them. The first task is to reverse this.\n\n**1. Observation of thoughts.** Sit comfortably, twice a day. For a few minutes (start with 1–5) become the **neutral observer** of your own thoughts. Do not cling to them, do not chase them away, do not judge — simply watch them arise and pass, like watching foreign traffic. At first it is startling how chaotic the mind is. That is not failure; it is the diagnosis.\n\n**2. Discipline of thoughts.** Once observation works, choose **a single subject** and hold your attention on it while letting the rest fall silent. Then the reverse: prevent an unwanted thought from even arising — keep it out.\n\n**3. Subordination of thoughts — the empty mind.** The goal is to **empty** consciousness: for a short while not a single thought is present, yet you remain alert. At first this lasts seconds. With patience it grows to minutes.\n\nRecord every session in your diary: how many minutes, how deep the silence, what disturbed it. Here the diary is not decoration — it is your measuring instrument."
+      }
+    },
+    {
+      "id": "iih-step-01-timer-thoughtobs",
+      "kind": "timer",
+      "nevek": { "hu": "Gondolatmegfigyelés — 5 perc", "en": "Thought Observation — 5 min" },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Ülj kényelmesen, gerinc egyenes. 5 percig légy gondolataid semleges megfigyelője: ne kapaszkodj, ne ítélkezz, csak nézd, ahogy jönnek és mennek. A végén jegyezd fel a naplóba, milyen volt.",
+          "en": "Sit comfortably, spine straight. For 5 minutes be the neutral observer of your thoughts: do not cling, do not judge, simply watch them come and go. Afterwards, note in your diary how it went."
+        },
+        "intervals": [
+          { "atSecond": 150, "label": { "hu": "Félidő — maradj megfigyelő", "en": "Halfway — stay the observer" } }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-01-md-astral",
+      "kind": "markdown",
+      "nevek": { "hu": "Asztrális képzés — a lélektükrök", "en": "Astral Training — the Soul Mirrors" },
+      "text": {
+        "hu": "A szellemi munkával párhuzamosan kezdődik az **önismeret** legbátrabb gyakorlata.\n\n**1. Kíméletlen önvizsgálat.** Néhány napon át figyeld magad úgy, mintha idegen lennél: gyengeségek, szokások, reakciók, indítékok. Írj le mindent — szépítés nélkül. Csak az igazság visz előre.\n\n**2. A fekete tükör (negatívumok).** Készíts listát minden hibádról, gyengeségedről, árnyékodról. Ezután **rendezd az elemek szerint**:\n\n— **Tűz** (akarat, aktivitás): harag, türelmetlenség, indulatosság, uralomvágy.\n— **Levegő** (értelem): felszínesség, hencegés, fecsegés, állhatatlanság.\n— **Víz** (érzelem): közöny, csüggedés, érzékenykedés, érzelmi befolyásolhatóság.\n— **Föld** (tudat, stabilitás): lustaság, restség, melankólia, rendetlenség.\n\n**3. A fehér tükör (pozitívumok).** Ugyanígy gyűjtsd össze erényeidet és erősségeidet, szintén az elemek szerint. Légy itt is őszinte — az alázat nem azt jelenti, hogy letagadod a jót, ami már megvan benned.\n\n**4. A munka iránya.** A két tükör megmutatja az **elemi egyensúlyhiányodat**. A cél nem az önostorozás, hanem az **átalakítás (transzmutáció):** a túlsúlyos hibákat tudatosan a velük szemközti erénnyé formálni. Ezt a következő lépésekben mélyíted el — most az alapos, őszinte leltár a feladat. A tükröket rendszeresen frissítsd.\n\nAz alábbi aspektus-csomag ehhez ad kész jellemvonásokat, amiket a Naplóban rögzíthetsz — így épül a saját Tükröd.",
+        "en": "In parallel with the mental work begins the bravest exercise of **self-knowledge**.\n\n**1. Ruthless self-examination.** For several days observe yourself as though you were a stranger: weaknesses, habits, reactions, motives. Write everything down — without softening. Only the truth moves you forward.\n\n**2. The black mirror (negatives).** List every fault, weakness and shadow. Then **sort them by element**:\n\n— **Fire** (will, activity): anger, impatience, irascibility, domineering.\n— **Air** (intellect): superficiality, boastfulness, idle talk, inconstancy.\n— **Water** (feeling): indifference, despondency, touchiness, emotional susceptibility.\n— **Earth** (consciousness, stability): laziness, sloth, melancholy, disorder.\n\n**3. The white mirror (positives).** In the same way, gather your virtues and strengths, also sorted by element. Be honest here too — humility does not mean denying the good already in you.\n\n**4. The direction of the work.** The two mirrors reveal your **elemental imbalance**. The aim is not self-flagellation but **transmutation:** consciously reshaping a dominant fault into its opposing virtue. You deepen this in later steps — for now the task is a thorough, honest inventory. Update the mirrors regularly.\n\nThe aspect pack below provides ready-made traits you can log in the Journal — this is how your own Mirror is built."
+      }
+    },
+    {
+      "id": "iih-step-01-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "I. lépés — jellemvonások", "en": "Step I — character traits" },
+      "aspektusPack": [
+        { "key": "iih-asp-impatience", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "Türelmetlenség", "en": "Impatience" } },
+        { "key": "iih-asp-anger", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "Harag / indulatosság", "en": "Anger / irascibility" } },
+        { "key": "iih-asp-idletalk", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Fecsegés / felszínesség", "en": "Idle talk / superficiality" } },
+        { "key": "iih-asp-despondency", "elem": "viz", "tukor": "fekete",
+          "nevek": { "hu": "Csüggedés / közöny", "en": "Despondency / indifference" } },
+        { "key": "iih-asp-sloth", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "Restség / lustaság", "en": "Sloth / laziness" } },
+        { "key": "iih-asp-selfhonesty", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "Önőszinteség", "en": "Self-honesty" } },
+        { "key": "iih-asp-calm", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Nyugalom nyomás alatt", "en": "Calm under pressure" } },
+        { "key": "iih-asp-perseverance", "elem": "fold", "tukor": "feher",
+          "nevek": { "hu": "Kitartás", "en": "Perseverance" } }
+      ]
+    },
+    {
+      "id": "iih-step-01-md-physical",
+      "kind": "markdown",
+      "nevek": { "hu": "Fizikai képzés — élet és lélegzet", "en": "Physical Training — Life and Breath" },
+      "text": {
+        "hu": "A test a szellem és a lélek hordozója; rendezetlen testben nehéz a tiszta munka.\n\n**1. Mértékletes, egészséges életmód.** Nem aszkézis és nem önsanyargatás — **egyensúly**. Rendezett alvás, mozgás, étkezés; a szélsőségek kerülése. A mágus nem menekül az életből, hanem rendet tesz benne.\n\n**2. Tudatos légzés.** Naponta néhány percig figyeld a légzésedet — nyugodtan, ritmikusan, erőltetés nélkül. Idővel **képzeld azt, hogy a belélegzett levegővel életerőt, egészséget, nyugalmat veszel magadhoz**, a kilégzéssel pedig elengeded a feszültséget. Ez az első tudatos kapcsolat a finomabb energiákkal; a pórus-légzést a II. lépés építi erre.\n\n**3. Tudatos étkezés.** Evés közben — legalább naponta egyszer — adj az ételnek tudatos, jó szándékot (pl. „ez az étel egészséget és tisztánlátást ad”). Az étel így a szándékod hordozójává válik.\n\n**4. Vízmágia (tisztulás).** A napi tisztálkodást végezd tudatosan: képzeld, hogy a víz nemcsak a testet, hanem a finomabb burkokat is megtisztítja. Ahol megfelelő, hideg lemosás vagy száraz kefézés is segíti a frissességet.\n\nMinden elemet rögzíts a naplóban: mit tettél, mit éreztél, mi változott.",
+        "en": "The body carries the spirit and the soul; clear work is hard in a disordered body.\n\n**1. A moderate, healthy lifestyle.** Not asceticism, not self-mortification — **balance**. Ordered sleep, movement and eating; avoidance of extremes. The magician does not flee life but brings order into it.\n\n**2. Conscious breathing.** For a few minutes daily, watch your breath — calm, rhythmic, unforced. In time, **imagine that with the inhaled air you draw in vital force, health and calm**, and with the exhalation you release tension. This is the first conscious contact with subtler energies; Step II builds pore breathing on this.\n\n**3. Conscious eating.** While eating — at least once a day — imbue the food with a conscious, good intention (e.g. 'this food gives me health and clarity'). The food becomes a carrier of your intention.\n\n**4. Water magic (purification).** Perform your daily washing consciously: imagine the water cleansing not only the body but the subtler sheaths too. Where suitable, a cold rinse or dry brushing supports freshness.\n\nRecord every element in your diary: what you did, what you felt, what changed."
+      }
+    },
+    {
+      "id": "iih-step-01-timer-breath",
+      "kind": "timer",
+      "nevek": { "hu": "Tudatos légzés — 3 perc", "en": "Conscious Breathing — 3 min" },
+      "timer": {
+        "durationSeconds": 180,
+        "instructions": {
+          "hu": "3 perc nyugodt, ritmikus légzés. Belégzéskor képzeld, hogy életerőt és nyugalmat veszel magadhoz; kilégzéskor elengeded a feszültséget.",
+          "en": "3 minutes of calm, rhythmic breathing. On the inhale imagine drawing in vital force and calm; on the exhale releasing tension."
+        }
+      }
+    },
+    {
+      "id": "iih-step-01-md-keynotes",
+      "kind": "markdown",
+      "nevek": { "hu": "Kulcspontok és Bardon tanácsai", "en": "Key Notes & Bardon's Advice" },
+      "text": {
+        "hu": "— **Mesterség, nem sebesség.** Csak akkor lépj a II. lépésre, ha mindhárom sík (szellem, lélek, test) gyakorlatait őszintén birtoklod — és a naplód ezt igazolja.\n\n— **A napló szent.** Naponta, teljes őszinteséggel. A napló a leginkább hangsúlyozott eszköz az egész rendszerben: az önismereted és a haladásod tükre.\n\n— **Párhuzamosság.** Soha ne hanyagold el egyik síkot a másik kedvéért. Az egyoldalú fejlődés torzulást szül.\n\n— **Türelem.** A gondolatok elcsendesedése, a tükrök őszinte elkészítése hetekbe telhet. Ez nem lassúság, hanem alaposság.\n\n— **Etika.** Minden, ami később jön — erő, érzékelés, hatás — ezen az alapon nyugszik. Tiszta jellem nélkül nincs biztonságos haladás.",
+        "en": "— **Mastery, not speed.** Advance to Step II only when you honestly possess the exercises of all three planes (spirit, soul, body) — and your diary proves it.\n\n— **The diary is sacred.** Daily, with complete honesty. The diary is the most emphasised tool in the whole system: the mirror of your self-knowledge and progress.\n\n— **Parallelism.** Never neglect one plane for another. One-sided development breeds distortion.\n\n— **Patience.** Quieting the thoughts and honestly compiling the mirrors can take weeks. That is not slowness but thoroughness.\n\n— **Ethics.** Everything that comes later — power, perception, influence — rests on this foundation. Without pure character there is no safe progress."
+      }
+    },
+    {
+      "id": "iih-step-01-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Napi gyakorlás naplózása", "en": "Log Today's Practice" },
+      "journalTemplate": {
+        "aspektusKeys": ["iih-asp-selfhonesty"],
+        "prompts": {
+          "hu": "SZELLEM — Gondolatmegfigyelés: ___ perc (reggel/este). Üres elme: ___ mp. Mi zavart meg?\n\nLÉLEK — Tükör frissítés. Új fekete: ___ (elem: ___). Új fehér: ___ (elem: ___).\n\nTEST — Tudatos légzés: ___ perc. Tudatos étkezés: igen/nem. Vízmágia: igen/nem.\n\nFELISMERÉS — Őszinte önkritika, hangulat: ___",
+          "en": "SPIRIT — Thought observation: ___ min (morning/evening). Empty mind: ___ sec. What disturbed me?\n\nSOUL — Mirror update. New black: ___ (element: ___). New white: ___ (element: ___).\n\nBODY — Conscious breathing: ___ min. Conscious eating: yes/no. Water magic: yes/no.\n\nINSIGHT — Honest self-critique, mood: ___"
+        }
+      }
+    },
+    {
+      "id": "iih-step-01-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "I. lépés — elsajátítás", "en": "Step I — Mastery" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "Gondolatmegfigyelés naponta kétszer, 5–10 perc", "en": "Thought observation twice daily, 5–10 min" } },
+          { "key": "c2", "nevek": { "hu": "Egyetlen gondolat tartása / nemkívánt gondolat távoltartása", "en": "Holding a single thought / keeping an unwanted one out" } },
+          { "key": "c3", "nevek": { "hu": "Üres elme néhány percig, éberen", "en": "Empty mind for a few minutes, alert" } },
+          { "key": "c4", "nevek": { "hu": "Fekete tükör elkészítve, elemek szerint rendezve", "en": "Black mirror compiled, sorted by element" } },
+          { "key": "c5", "nevek": { "hu": "Fehér tükör elkészítve, elemek szerint rendezve", "en": "White mirror compiled, sorted by element" } },
+          { "key": "c6", "nevek": { "hu": "Tudatos légzés napi gyakorlat", "en": "Conscious breathing as a daily practice" } },
+          { "key": "c7", "nevek": { "hu": "Mértékletes életmód + tudatos étkezés + vízmágia", "en": "Moderate lifestyle + conscious eating + water magic" } },
+          { "key": "c8", "nevek": { "hu": "Napló vezetése minden nap, őszintén", "en": "Diary kept every day, honestly" } }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-01-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Felkészültségi önellenőrzés", "en": "Readiness Self-Check" },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Mi a feltétele annak, hogy a II. lépésre lépj?", "en": "What is the condition for advancing to Step II?" },
+            "options": {
+              "hu": ["Legalább két hét eltelt", "Mindhárom sík őszinte elsajátítása, naplóval igazolva", "Az üres elme elérése egyszer", "A fekete tükör elkészítése"],
+              "en": ["At least two weeks have passed", "Honest mastery of all three planes, proven by diary", "Achieving the empty mind once", "Compiling the black mirror"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Melyik elemhez tartozik elsősorban a türelmetlenség és a harag?", "en": "To which element do impatience and anger primarily belong?" },
+            "options": {
+              "hu": ["Víz", "Föld", "Tűz", "Levegő"],
+              "en": ["Water", "Earth", "Fire", "Air"]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Mi a gondolatmegfigyelés helyes hozzáállása?", "en": "What is the correct attitude in thought observation?" },
+            "options": {
+              "hu": ["Minden gondolatot azonnal elnyomni", "Semleges megfigyelőként nézni, ítélkezés és kapaszkodás nélkül", "A kellemes gondolatokat fenntartani", "Erőltetni az ürességet"],
+              "en": ["Suppress every thought at once", "Watch as a neutral observer, without judging or clinging", "Sustain the pleasant thoughts", "Force the emptiness"]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-01-md-source",
+      "kind": "markdown",
+      "nevek": { "hu": "Forrás és nyilatkozat", "en": "Source & Disclaimer" },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve I. lépése nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*Study aid based on Step I of Franz Bardon's 'Initiation Into Hermetics'. This text is an original paraphrase, not a verbatim quotation — always read the original book for the complete instructions.*\n\n*Not medical or psychological advice. If you experience distress, consult a professional. Practice ethically and patiently; mastery, not speed, is the goal.*"
+      }
+    }
+  ]
+}

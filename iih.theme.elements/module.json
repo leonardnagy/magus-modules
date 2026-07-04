@@ -1,0 +1,142 @@
+{
+  "formatVersion": 1,
+  "id": "iih-theme-elements",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Az elemek tana",
+    "en": "The Doctrine of the Elements"
+  },
+  "description": {
+    "hu": "Referenciamodul a hermetika egyetemes kulcsáról: a négy elem és az Akása működéséről a testben, a lélekben és a szellemben. Megismered a tűz, a víz, a levegő és a föld elvét, valamint a tetrapoláris mágnest, amelyre az egész képzés épül.",
+    "en": "A reference module on the universal key of Hermetics: how the four elements and Akasha operate in body, soul and spirit. You will learn the principles of fire, water, air and earth, and the tetrapolar magnet on which the entire training rests."
+  },
+  "items": [
+    {
+      "id": "iih-theme-elements-overview",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Áttekintés: az egyetemes kulcs",
+        "en": "Overview: The Universal Key"
+      },
+      "text": {
+        "hu": "**Miért az elemek?** Bardon rendszerében minden — a legfinomabb gondolattól a legsűrűbb anyagig — ugyanannak a négy őselvnek és egy ötödik, okozati elvnek a játéka. Aki ezt a tant valóban megérti, egyetemes kulcsot kap a kezébe: többé nem recepteket követ, hanem látja, *miért* működik minden egyes gyakorlat, szertartás és jelenség.\n\n**Ne a fizikai elemekre gondolj.** A tűz itt nem a gyertya lángja, a víz nem a pohárban lévő víz. Az elemek egyetemes minőségek, működési elvek — a fizikai tűz, víz, levegő és föld csak a legdurvább, látható megnyilvánulásuk. Ugyanezek az elvek dolgoznak a gondolataidban, az érzelmeidben és a tested minden folyamatában is.\n\n**Három sík, egy törvény.** Az elemek a szellemben, a lélekben és a fizikai testben egyaránt hatnak. A harag ugyanannak a tűznek a lelki arca, mint amelyik a testben hőként, a szellemben akaratként mutatkozik. Ezért olyan gyakorlati ez a tan: amit az egyik síkon megfigyelsz, azt a többin is megtanulod felismerni és formálni.\n\n**A képzés célja az egyensúly.** Az egész hermetikus út — a lélektükröktől az elemek tudatos irányításáig — végső soron egyetlen munkát végez: kiegyenlíti benned az elemek működését. Nem elfojtani akarod őket, hanem a mesterükké válni. Ez a modul a térképet adja ehhez a munkához; a lépésmodulok a gyakorlati utat.",
+        "en": "**Why the elements?** In Bardon's system everything — from the subtlest thought to the densest matter — is the interplay of the same four primordial principles and a fifth, causal one. Whoever truly understands this doctrine receives a universal key: you no longer follow recipes, you see *why* every single exercise, rite and phenomenon works.\n\n**Do not think of the physical elements.** Fire here is not the candle flame, and water is not the water in your glass. The elements are universal qualities, principles of operation — physical fire, water, air and earth are merely their coarsest, visible manifestations. The very same principles are at work in your thoughts, your emotions and every process of your body.\n\n**Three planes, one law.** The elements act in the spirit, in the soul and in the physical body alike. Anger is the soul-face of the same fire that shows itself as heat in the body and as will in the spirit. This is what makes the doctrine so practical: what you observe on one plane, you learn to recognize and shape on the others.\n\n**The goal of the training is equilibrium.** The whole Hermetic path — from the soul mirrors to the conscious command of the elements — ultimately performs a single work: it balances the operation of the elements within you. You do not want to suppress them; you want to become their master. This module gives you the map for that work; the Step modules give you the practical road."
+      }
+    },
+    {
+      "id": "iih-theme-elements-four",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A négy elem egyenként",
+        "en": "The Four Elements One by One"
+      },
+      "text": {
+        "hu": "**1. A tűz — a kiterjedés elve.** Minden, ami tágul, hevít, világít és cselekvésre sarkall, a tűz természetét hordozza. Két alaptulajdonsága a hő és a fény; finomabb megfelelője az úgynevezett elektromos fluidum. A szellemben akaratként, tetterőként és bátorságként jelenik meg — kiegyensúlyozatlanul viszont haragként, mohóságként és rombolásvágyként.\n\n**2. A víz — az összehúzódás elve.** A víz a tűz poláris ellentéte: hűt, gyűjt, megőriz és táplál. Finomabb megfelelője a mágneses fluidum. A lélekben érzésként, szeretetként és az életet fenntartó, befogadó erőként dolgozik — torzultan közönyként, hidegségként vagy formátlan érzelgősségként.\n\n**3. A levegő — a közvetítő.** A hermetikus tanítás a levegőt nem tekinti önálló poláris erőnek: szerepe a közvetítés a tűz és a víz között. Semleges, kiegyenlítő elv, amely a két ellentétet mozgásban és termékeny feszültségben tartja. Az emberben intellektusként, a mérlegelő és összekötő értelemként mutatkozik meg.\n\n**4. A föld — a megszilárdító.** A föld sem hoz új erőt: az ő elve a megszilárdítás. A másik három elem működését köti össze és rögzíti, formát, mértéket és határt ad nekik. Neki köszönhető, hogy bármi alakot ölthet — és a hermetika szerint benne válik a három finomabb elem munkája tudatossá és kézzelfoghatóvá.\n\nJegyezd meg a szereposztást:\n\n— a tűz és a víz a két alapvető, poláris teremtő erő;\n— a levegő közvetít és kiegyensúlyoz közöttük;\n— a föld formába önti és megszilárdítja hármuk együttes munkáját.",
+        "en": "**1. Fire — the principle of expansion.** Everything that expands, heats, gives light and urges to action carries the nature of fire. Its two basic properties are heat and light; its subtler counterpart is the so-called electric fluid. In the spirit it appears as will, drive and courage — unbalanced, however, as anger, greed and the urge to destroy.\n\n**2. Water — the principle of contraction.** Water is the polar opposite of fire: it cools, gathers, preserves and nourishes. Its subtler counterpart is the magnetic fluid. In the soul it works as feeling, love and the receptive, life-sustaining force — distorted, it becomes indifference, coldness or shapeless sentimentality.\n\n**3. Air — the mediator.** The Hermetic teaching does not regard air as an independent polar force: its role is mediation between fire and water. It is a neutral, balancing principle that keeps the two opposites in motion and in fruitful tension. In the human being it shows itself as the intellect — the weighing, connecting mind.\n\n**4. Earth — the solidifier.** Earth, too, brings no new force of its own: its principle is solidification. It binds together and fixes the working of the other three elements, giving them form, measure and limit. It is thanks to earth that anything can take shape — and, according to Hermetics, it is in earth that the work of the three subtler elements becomes conscious and tangible.\n\nRemember the cast of roles:\n\n— fire and water are the two fundamental, polar creative forces;\n— air mediates and balances between them;\n— earth moulds and solidifies their joint work into form."
+      }
+    },
+    {
+      "id": "iih-theme-elements-akasha",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az Akása és a tetrapoláris mágnes",
+        "en": "Akasha and the Tetrapolar Magnet"
+      },
+      "text": {
+        "hu": "**Az ötödik: az Akása.** A négy elem nem a végső valóság. Mindegyikük egy ötödik, okozati elvből — az Akásából, az éterelvből — születik, és oda is tér vissza. Az Akása tér és idő nélküli: mindent áthat, mindenütt jelen van, mégsem fogható meg egyetlen formában sem. Ő az ok-világ: benne rejlik minden dolog csírája és minden történés oka.\n\n**A tetrapoláris mágnes.** Amikor a négy elem együtt, egymást kiegészítve működik — a tűz és a víz polaritása, a levegő közvetítése és a föld megszilárdító ereje —, a hermetika tetrapoláris mágnesről beszél. Ez nem tárgy, hanem működési minta: minden lényben és minden teremtett dologban ez a négypólusú erő dolgozik. Az ember azért mikrokozmosz, mert benne a tetrapoláris mágnes a maga teljességében jelenik meg.\n\n**Mit jelent ez a gyakorlatban?** Figyeld meg magadban az elemeket: az akaratod fellobbanását (tűz), az érzéseid áramlását (víz), a gondolataid mérlegelő játékát (levegő) és a tested meg a szokásaid tartósságát (föld). Ami ma öntudatlan keverékként működik benned, azt a képzés tudatos, kiegyensúlyozott együttműködéssé alakítja.\n\n**A mérce mindig az egyensúly.** Se a tüzes, se a vizes, se a levegős, se a földes ember nem eszménye a hermetikának — hanem az, akiben a négy elem az Akása csendes hátterén, egyensúlyban dolgozik. Ezért mondható: az egész beavatási út nem más, mint az elemek tanának megélt, testté, lélekké és szellemmé vált változata.",
+        "en": "**The fifth: Akasha.** The four elements are not the final reality. Each of them is born from — and returns to — a fifth, causal principle: Akasha, the etheric principle. Akasha is without space and time: it penetrates everything and is present everywhere, yet it cannot be grasped in any single form. It is the causal world: the seed of every thing and the cause of every event lie hidden within it.\n\n**The tetrapolar magnet.** When the four elements work together, completing one another — the polarity of fire and water, the mediation of air and the solidifying power of earth — Hermetics speaks of the tetrapolar magnet. This is not an object but a pattern of operation: this four-poled force works in every being and in everything created. The human being is a microcosm precisely because the tetrapolar magnet appears in them in its entirety.\n\n**What does this mean in practice?** Observe the elements within yourself: the flaring up of your will (fire), the flow of your feelings (water), the weighing play of your thoughts (air) and the steadiness of your body and habits (earth). What operates in you today as an unconscious mixture, the training transforms into conscious, balanced cooperation.\n\n**The measure is always equilibrium.** Neither the fiery, nor the watery, nor the airy, nor the earthy person is the ideal of Hermetics — but the one in whom the four elements work in balance against the quiet background of Akasha. That is why it can be said: the whole path of initiation is nothing other than the doctrine of the elements lived out — become body, soul and spirit."
+      }
+    },
+    {
+      "id": "iih-theme-elements-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Review Quiz"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Melyik elv jellemzi a tüzet a hermetikus tanítás szerint?",
+              "en": "Which principle characterizes fire according to the Hermetic teaching?"
+            },
+            "options": {
+              "hu": [
+                "Az összehúzódás, a hűtés és a mágneses fluidum",
+                "A kiterjedés, a hő és a fény, az elektromos fluidum",
+                "A semleges közvetítés a többi elem között",
+                "A megszilárdítás és a formaadás"
+              ],
+              "en": [
+                "Contraction, cooling and the magnetic fluid",
+                "Expansion, heat and light, the electric fluid",
+                "Neutral mediation between the other elements",
+                "Solidification and the giving of form"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Mi a levegő elem szerepe az elemek tanában?",
+              "en": "What is the role of the air element in the doctrine of the elements?"
+            },
+            "options": {
+              "hu": [
+                "Önálló poláris erő, amely a földdel áll szemben",
+                "Az okozati elv, amelyből a többi elem ered",
+                "Semleges, kiegyenlítő közvetítő a tűz és a víz között",
+                "A megszilárdító elv, amely formát ad a többinek"
+              ],
+              "en": [
+                "An independent polar force standing opposite earth",
+                "The causal principle from which the other elements arise",
+                "A neutral, balancing mediator between fire and water",
+                "The solidifying principle that gives form to the others"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mit jelent a tetrapoláris mágnes kifejezés?",
+              "en": "What does the term tetrapolar magnet mean?"
+            },
+            "options": {
+              "hu": [
+                "A négy elem együttes, egymást kiegészítő működését minden lényben",
+                "Egy fizikai mágnest, amelyet a gyakorlatok során használsz",
+                "A négy égtáj erőinek megidézését",
+                "Az elektromos fluidum másik elnevezését"
+              ],
+              "en": [
+                "The joint, complementary working of the four elements in every being",
+                "A physical magnet that you use during the exercises",
+                "The invocation of the forces of the four cardinal directions",
+                "Another name for the electric fluid"
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-theme-elements-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába\" (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Franz Bardon's \"Initiation Into Hermetics\". The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience emotional or mental difficulties, consult a professional. Carry out the exercises ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}

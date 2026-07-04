@@ -1,0 +1,379 @@
+{
+  "formatVersion": 1,
+  "id": "iih-step-03",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "III. Lépés — Elemegyensúly",
+    "en": "Step III — Elemental Balance"
+  },
+  "description": {
+    "hu": "A harmadik lépés a többérzékes képzeletet, a négy elem asztráltesti uralmát és a szerv-légzést tanítja. Innen már nem csupán megfigyelsz, hanem tudatosan formálsz — a szellemi, lelki és testi munka egyszerre halad. Ajánlott időtartam: 4–10+ hét.",
+    "en": "The third step trains simultaneous multi-sense imagination, command of the four elements within the astral body, and organ breathing. From here you no longer merely observe — you consciously shape, and the mental, astral and physical work advance together. Recommended duration: 4–10+ weeks."
+  },
+  "items": [
+    {
+      "id": "iih-step-03-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető",
+        "en": "Introduction"
+      },
+      "text": {
+        "hu": "A harmadik lépés az első nagy vízválasztó. Amit eddig külön-külön csiszoltál — érzékszervi koncentráció, gondolati fegyelem, önismeret —, az itt egyetlen élő képességgé áll össze: a **plasztikus képzelőerővé** és az **elemek fölötti tudatos uralommá**. Ezen a fokon már nem csupán megfigyelsz: előhívsz, formálsz és feloldasz.\n\nA három sík ezen a lépésen így oszlik meg. **Szellem:** a képzelet kitágítása — egy tárgyat vagy jelenetet több érzékkel egyszerre idézel fel, legalább öt percen át. **Lélek:** a négy elem — tűz, levegő, víz, föld — előhívása és maradéktalan feloldása az asztráltestben, míg teljes egyensúlyba nem kerülnek. **Test:** a szerv-légzés, vagyis az életerő tudatos irányítása a test egyes szerveibe.\n\nMielőtt belefogsz, légy őszinte magadhoz: a második lépés gyakorlatait — az egyérzékes koncentrációt, a gondolati fegyelmet és a testi edzést — valóban uralod-e. Ha a lélektükör munkája még tart, az természetes: azt párhuzamosan folytatod tovább. De ingatag alapra ezt a lépést nem lehet építeni.\n\nSzánj rá annyi időt, amennyit kér — négy héttől akár tíznél is több hétig. Ha feszültséget, fejnyomást vagy túlpörgést észlelsz, rövidítsd a gyakorlatokat, és térj vissza a nyugodt alapokhoz. Az elemekkel végzett munka nyugalmat kíván: itt a türelem nem erény, hanem munkaeszköz.",
+        "en": "The third step is the first great watershed. What you have polished separately until now — sensory concentration, discipline of thought, self-knowledge — here fuses into a single living faculty: **plastic imagination** and **conscious command of the elements**. At this level you no longer merely observe: you evoke, shape and dissolve.\n\nOn this step the three planes divide like this. **Spirit:** expanding the imagination — you evoke an object or a scene with several senses at once, for at least five minutes. **Soul:** producing and completely dissolving the four elements — fire, air, water, earth — within the astral body, until they stand in full equilibrium. **Body:** organ breathing, the conscious direction of vital force into individual organs of the body.\n\nBefore you begin, be honest with yourself: do you truly command the exercises of the second step — single-sense concentration, discipline of thought and physical training? If the soul-mirror work is still in progress, that is natural: you continue it in parallel. But this step cannot be built on unstable ground.\n\nGive it the time it asks for — from four weeks to well beyond ten. If you notice tension, pressure in the head or over-excitement, shorten the sessions and return to the calm foundations. Work with the elements demands composure: here patience is not a virtue but a working tool."
+      }
+    },
+    {
+      "id": "iih-step-03-md-mental",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Szellemi képzés",
+        "en": "Mental Training"
+      },
+      "text": {
+        "hu": "**1. Miért egyszerre?** A második lépésben egy-egy érzékkel dolgoztál külön. A valóság azonban sosem egyetlen érzék: a tűz nemcsak látvány, hanem meleg, fény és pattogás is. Ezen a lépésen megtanulod az érzékeket **egyetlen élő képpé** összefogni — ez a többérzékes képzelet, és ez a kulcsa mindannak, ami a későbbi lépésekben következik.\n\n**2. Kezdd tárgyakkal.** Válassz egyszerű tárgyat, amely két-három érzéket kínál. Egy zsebóra kiváló: lásd a számlapját, halld a ketyegését, érezd a súlyát és hűvös fémjét a tenyeredben — mindezt egyszerre, nem váltogatva. Ha a kép szétesik, ne bosszankodj: nyugodtan építsd újra, és folytasd.\n\n**3. Bővítsd jelenetekké.** Ha a tárgyak már engedelmeskednek, idézz fel egész jeleneteket: erdőt, ahol susog a lomb, madár szól, gyanta illata száll, és a bőrödön érzed a szellőt. Ahol természetes, vond be a szaglást és az ízlelést is. A jelenet éljen — ne fénykép legyen, hanem jelenlét.\n\n**4. Nyitott és csukott szemmel.** Gyakorolj mindkét módon. Csukott szemmel könnyebb elmerülni; nyitott szemmel viszont azt tanulod meg, hogy a képzeleted a külvilág ingerei közben is szilárd maradjon. A cél mindkét úton ugyanaz: teljes, zavartalan kép.\n\n**5. A mérce.** Akkor tekintheted elsajátítottnak a gyakorlatot, ha a több érzékből szőtt képet **legalább öt percen át** megszakítás nélkül fenn tudod tartani. A naplóba csak a tiszta perceket írd be — magadat csapod be, ha felfelé kerekítesz.\n\n**6. Ne feledd:** ez a képesség nem játék és nem díszlet. A későbbi mágikus munka minden művelete erre az egyidejű, plasztikus képzeletre épül — amilyen gondosan most alapozol, olyan magasra építhetsz később.",
+        "en": "**1. Why simultaneously?** In the second step you worked with each sense separately. Reality, however, is never a single sense: fire is not only a sight but also warmth, light and crackling. On this step you learn to weave the senses into **one living image** — this is multi-sense imagination, and it is the key to everything that follows in the later steps.\n\n**2. Begin with objects.** Choose a simple object that offers two or three senses. A pocket watch is excellent: see its dial, hear its ticking, feel its weight and cool metal in your palm — all at once, not in alternation. If the image falls apart, do not fret: calmly rebuild it and carry on.\n\n**3. Expand into scenes.** Once objects obey you, evoke whole scenes: a forest where the leaves rustle, a bird calls, the scent of resin drifts, and you feel the breeze on your skin. Where it is natural, include smell and taste as well. Let the scene live — not a photograph, but a presence.\n\n**4. With eyes open and closed.** Practise both ways. With closed eyes it is easier to sink in; with open eyes you learn to keep your imagination steady amid the stimuli of the outer world. The goal is the same on both paths: a complete, undisturbed image.\n\n**5. The measure.** You may consider the exercise mastered when you can hold an image woven from several senses **for at least five minutes** without interruption. Enter only the clean minutes in your diary — you deceive only yourself by rounding up.\n\n**6. Remember:** this faculty is neither a game nor a decoration. Every operation of the later magical work rests on this simultaneous, plastic imagination — the more carefully you lay the foundation now, the higher you may build later."
+      }
+    },
+    {
+      "id": "iih-step-03-timer-imagery",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Többérzékes képzelet — 5 perc",
+        "en": "Multi-Sense Imagery — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Idézz fel egy tárgyat vagy jelenetet egyszerre több érzékkel: lásd, halld, érezd — 5 percig, megszakítás nélkül.",
+          "en": "Evoke an object or scene with several senses at once: see it, hear it, feel it — for 5 minutes without a break."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Félidő — tartsd a képet élőn",
+              "en": "Halfway — keep the image alive"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-03-md-astral",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Asztrális képzés",
+        "en": "Astral Training"
+      },
+      "text": {
+        "hu": "**1. Az elemek nyelve.** A négy elem mindegyike jellegzetes érzetként szólal meg a testben: a **tűz** meleg és tágulás, a **levegő** könnyűség és lebegés, a **víz** hűvösség és frissesség, a **föld** súly és sűrűség. Először ezt a nyelvet tanulod meg — nem elméletben, hanem a saját asztráltestedben.\n\n**2. Előhívás.** Ülj nyugodt testtartásba, és képzeld el, hogy a választott elem közepén ülsz — a tűznél például izzó hőben. Minden lélegzettel engedd, hogy az elem érzete betöltse egész lényedet: a meleg járja át, a tágulás feszítse. Fokozd lépésről lépésre, míg az érzet valóságossá nem válik.\n\n**3. Feloldás.** Amit előhívtál, azt ugyanolyan tudatosan fel is kell oldanod — ez nem ráadás, hanem a gyakorlat fele. Lélegzetről lélegzetre engedd kiürülni az elem érzetét, míg vissza nem térsz a teljesen semleges állapotba. Feltöltve soha ne állj fel a gyakorlatból: a mérce a tökéletes nulla.\n\n**4. Sorra mind a négyet.** Dolgozd végig ugyanígy a levegőt, a vizet és a földet is. Idővel vedd észre, melyik elem megy könnyen és melyik ellenáll — ez pontos térkép a saját természetedről, és összecseng azzal, amit a lélektükörben találtál.\n\n**5. Az egyensúly nem alku tárgya.** Addig nem léphetsz tovább, míg mind a négy elem egyformán engedelmeskedik — előhívásban és feloldásban egyaránt. Az egyoldalúan fejlesztett elem torzít: a túltengő tűz hajszoltságba, a féktelen levegő csapongásba, a túláradó víz érzékenységbe, a megülő föld tehetetlenségbe billent. Az alábbi jellemvonás-csomag ezeket a vonásokat viszi be a **Tükörbe**, hogy nap mint nap szemmel tarthasd őket.",
+        "en": "**1. The language of the elements.** Each of the four elements speaks in the body as a characteristic sensation: **fire** is warmth and expansion, **air** is lightness and floating, **water** is coolness and freshness, **earth** is weight and density. First you learn this language — not in theory, but in your own astral body.\n\n**2. Production.** Sit in a calm posture and imagine yourself at the centre of the chosen element — with fire, for instance, in glowing heat. With every breath let the sensation of the element fill your whole being: let the warmth pervade you, let the expansion press outward. Intensify it step by step until the sensation becomes real.\n\n**3. Dissolution.** What you have produced you must dissolve just as consciously — this is not an afterthought but half of the exercise. Breath by breath let the sensation of the element drain away until you return to a completely neutral state. Never rise from the practice still charged: the measure is a perfect zero.\n\n**4. All four in turn.** Work through air, water and earth in exactly the same way. In time, notice which element comes easily and which resists — this is a precise map of your own nature, and it echoes what you found in the soul mirror.\n\n**5. The balance is not negotiable.** You may not advance until all four elements obey you equally — in production and in dissolution alike. A one-sidedly developed element distorts: excessive fire tips you into over-activity, unbridled air into flightiness, overflowing water into over-sensitivity, settled earth into inertia. The aspect pack below carries these traits into the **Mirror**, so you can keep watch over them day by day."
+      }
+    },
+    {
+      "id": "iih-step-03-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "3. lépés — jellemvonások",
+        "en": "Step III — character traits"
+      },
+      "aspektusPack": [
+        {
+          "key": "iih-asp3-overactive",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Túlhajtottság",
+            "en": "Over-activity"
+          }
+        },
+        {
+          "key": "iih-asp3-flighty",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Csapongás",
+            "en": "Flightiness"
+          }
+        },
+        {
+          "key": "iih-asp3-oversensitive",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Túlérzékenység",
+            "en": "Over-sensitivity"
+          }
+        },
+        {
+          "key": "iih-asp3-inertia",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Tehetetlenség",
+            "en": "Inertia"
+          }
+        },
+        {
+          "key": "iih-asp3-decisive",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Határozottság",
+            "en": "Decisiveness"
+          }
+        },
+        {
+          "key": "iih-asp3-clarity",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Szellemi tisztaság",
+            "en": "Mental clarity"
+          }
+        },
+        {
+          "key": "iih-asp3-equanimity",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Kiegyensúlyozottság",
+            "en": "Equanimity"
+          }
+        },
+        {
+          "key": "iih-asp3-stability",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Szilárdság",
+            "en": "Stability"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iih-step-03-md-physical",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Fizikai képzés",
+        "en": "Physical Training"
+      },
+      "text": {
+        "hu": "**1. Az életerő útja.** Eddig minden lélegzettel az egész testedet töltötted. Most finomítasz: a belélegzett életerőt **egyetlen kiválasztott szervbe** vezeted — mintha nem a tüdőddel, hanem magával a szervvel lélegeznél. A képzelet vezeti az erőt: ahová a figyelem irányul, oda árad az energia.\n\n**2. A gyakorlat.** Válassz egy szervet vagy testrészt — kezdd a könnyebben érezhetőkkel, például a kezekkel vagy a gyomorral. Belégzéskor vezesd oda az életerőt, és érezd, ahogy a szerv feltöltődik, felmelegszik, megerősödik. Néhány lélegzet után tudatosan engedd is el: kilégzéssel oszlasd szét az erőt az egész testben, vagy add vissza a levegőnek. **Fontos óvó szabály:** a szívben és az agyban soha ne halmozz fel erőt — ezekkel csak röviden és gyengéden dolgozz.\n\n**3. Harmónia, nem hajsza.** A cél nem a minél nagyobb töltés, hanem a szervek harmonikus, kiegyensúlyozott erősítése. Járd végig idővel a test fontosabb területeit, és figyeld meg, hogyan válaszol mindegyik. A rendszeresség itt többet ér minden erőltetésnél.\n\n**4. Kivetítés — csak jóra.** Ha az irányítás már biztos, megtanulhatod az életerőt kifelé is sugározni: a tenyereden át, egy pohár vízbe, egy másik ember javára. Ez a képesség kizárólag nemes célt szolgálhat — gyógyítást, erősítést, segítséget. Aki önző célra fordítja, a saját fejlődését zárja el.",
+        "en": "**1. The path of the vital force.** Until now every breath charged your whole body. Now you refine this: you lead the inhaled vital force into **one chosen organ** — as if you were breathing not with your lungs but with the organ itself. Imagination guides the force: where attention goes, energy flows.\n\n**2. The exercise.** Choose an organ or body part — begin with those easier to feel, such as the hands or the stomach. On the inhale, lead the vital force there and feel the organ charge, warm and strengthen. After a few breaths, consciously release it as well: with the exhale distribute the force through the whole body, or give it back to the air. **Important safety rule:** never accumulate force in the heart or the brain — work with these only briefly and gently.\n\n**3. Harmony, not haste.** The goal is not the greatest possible charge but the harmonious, balanced strengthening of the organs. Over time, work through the important regions of the body and observe how each one responds. Regularity here is worth more than any forcing.\n\n**4. Projection — for good only.** Once your control is secure, you may learn to radiate vital force outward: through your palms, into a glass of water, for the benefit of another person. This ability may serve only noble ends — healing, strengthening, help. Whoever turns it to selfish purposes closes off their own development."
+      }
+    },
+    {
+      "id": "iih-step-03-timer-organbreath",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Szerv-légzés — 5 perc",
+        "en": "Organ Breathing — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Irányítsd a belélegzett életerőt egy kiválasztott szervbe; érezd, ahogy feltöltődik és megerősödik.",
+          "en": "Direct the inhaled vital force into a chosen organ; feel it charge and strengthen."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Félidő — engedd mélyülni az érzetet",
+              "en": "Halfway — let the sensation deepen"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-03-md-keynotes",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Kulcspontok",
+        "en": "Key Notes"
+      },
+      "text": {
+        "hu": "— **Elsajátítás előbb, haladás utána.** A negyedik lépés tovább dolgozik az elemekkel — ha itt hézag marad, ott szakadék lesz. Csak akkor lépj tovább, ha az ötperces többérzékes kép, mind a négy elem előhívása és feloldása, valamint a szerv-légzés egyaránt megbízhatóan megy.\n\n— **Naplófegyelem.** Minden gyakorlatról jegyezd fel a tényleges időt, az elemet és az őszinte eredményt. Ezen a lépésen a napló véd meg attól, hogy egy kedvenc elemet dédelgess, míg a többi elmarad.\n\n— **Párhuzamosság.** Szellem, lélek és test együtt halad — a látványos elemmunka kedvéért ne hanyagold el a képzeletgyakorlatot vagy a testi képzést. A lélektükör nemesítése közben is tovább folyik a háttérben.\n\n— **Türelem.** Az elemi egyensúly hetek helyett hónapokat is kérhet, és ez rendjén van. A feloldást soha ne kapkodd el: a felhalmozott, ki nem engedett elem feszültségként ütne vissza — a tökéletes nulla nem díszítés, hanem védelem.\n\n— **Etika.** Az elemek uralma és az életerő kivetítése hatalom — kizárólag jóra használd. Ne halmozz erőt a szívben és az agyban, ne irányíts energiát senkire a tudta és a java ellenére, és ne feledd: aki az erőt önzésre fordítja, önmagát gyengíti.",
+        "en": "— **Mastery first, advancement after.** The fourth step continues to work with the elements — a gap left here becomes a chasm there. Advance only when the five-minute multi-sense image, the production and dissolution of all four elements, and organ breathing are all reliably yours.\n\n— **Diary discipline.** Record the actual time, the element and the honest result of every session. On this step the diary is what protects you from pampering a favourite element while the others fall behind.\n\n— **Parallelism.** Spirit, soul and body advance together — do not neglect the imagery work or the physical training for the sake of the more spectacular element practice. The ennobling of the soul mirror continues in the background all the while.\n\n— **Patience.** Elemental equilibrium may ask for months rather than weeks, and that is as it should be. Never rush the dissolution: an accumulated, unreleased element would strike back as tension — the perfect zero is not an ornament but a protection.\n\n— **Ethics.** Command of the elements and the projection of vital force is power — use it only for good. Do not accumulate force in the heart or the brain, do not direct energy at anyone without their knowledge and benefit, and remember: whoever turns power to selfishness weakens themselves."
+      }
+    },
+    {
+      "id": "iih-step-03-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Naplósablon",
+        "en": "Journal Template"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["iih-asp3-equanimity"],
+        "prompts": {
+          "hu": "SZELLEM — többérzékes képzelet: ___ perc megszakítás nélkül. Tárgy/jelenet: ___. Bevont érzékek: ___.\n\nLÉLEK — elem: ___. Előhívás: ___ (az érzet erőssége), feloldás: ___ (visszatértem-e a nullára?).\n\nTEST — szerv-légzés: szerv: ___, ___ lélegzet. Érzet a szervben: ___.\n\nFELISMERÉS — ma ezt vettem észre magamon: ___",
+          "en": "SPIRIT — multi-sense imagery: ___ minutes without a break. Object/scene: ___. Senses involved: ___.\n\nSOUL — element: ___. Production: ___ (strength of the sensation), dissolution: ___ (did I return to zero?).\n\nBODY — organ breathing: organ: ___, ___ breaths. Sensation in the organ: ___.\n\nINSIGHT — today I noticed this about myself: ___"
+        }
+      }
+    },
+    {
+      "id": "iih-step-03-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Elsajátítási lista",
+        "en": "Mastery Checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Egy tárgyat két-három érzékkel egyszerre, legalább öt percig megszakítás nélkül fel tudok idézni.",
+              "en": "I can evoke an object with two or three senses at once for at least five minutes without a break."
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Egész jeleneteket több érzékkel, nyitott és csukott szemmel egyaránt élően fenn tudok tartani.",
+              "en": "I can hold whole scenes vividly with several senses, with eyes both open and closed."
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "A tűz elemet (meleg, tágulás) tetszés szerint előhívom és maradéktalanul feloldom.",
+              "en": "I can produce the fire element (warmth, expansion) at will and dissolve it completely."
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "A levegő elemet (könnyűség) tetszés szerint előhívom és maradéktalanul feloldom.",
+              "en": "I can produce the air element (lightness) at will and dissolve it completely."
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "A víz elemet (hűvösség) tetszés szerint előhívom és maradéktalanul feloldom.",
+              "en": "I can produce the water element (coolness) at will and dissolve it completely."
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "A föld elemet (súly, sűrűség) tetszés szerint előhívom és maradéktalanul feloldom.",
+              "en": "I can produce the earth element (weight, density) at will and dissolve it completely."
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Egyik elem sem uralkodik a többi fölött — az egyensúlyt a Tükör bejegyzései is visszaigazolják.",
+              "en": "No element dominates the others — the Mirror entries confirm the balance."
+            }
+          },
+          {
+            "key": "c8",
+            "nevek": {
+              "hu": "A szerv-légzést biztosan végzem: a kiválasztott szervet feltöltöm, majd az erőt tudatosan elengedem; a szívet és az agyat soha nem terhelem, és a naplót naponta vezetem.",
+              "en": "I perform organ breathing with confidence: I charge the chosen organ, then consciously release the force; I never overload the heart or the brain, and I keep the diary daily."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-03-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrző kvíz",
+        "en": "Review Quiz"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mi a harmadik lépés szellemi képzésének mércéje?",
+              "en": "What is the measure of mastery for the mental training of Step III?"
+            },
+            "options": {
+              "hu": [
+                "Egyetlen érzékkel tartott kép tíz percen át",
+                "Több érzékkel egyszerre fenntartott kép legalább öt percen át",
+                "A gondolatok teljes kiüresítése öt percre",
+                "Egy tárgy pontos lerajzolása emlékezetből"
+              ],
+              "en": [
+                "An image held with a single sense for ten minutes",
+                "An image sustained with several senses at once for at least five minutes",
+                "Complete emptiness of mind for five minutes",
+                "Drawing an object accurately from memory"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Melyik érzet tartozik a víz elemhez az asztrális gyakorlatokban?",
+              "en": "Which sensation belongs to the water element in the astral exercises?"
+            },
+            "options": {
+              "hu": [
+                "Meleg és tágulás",
+                "Könnyűség és lebegés",
+                "Hűvösség és frissesség",
+                "Súly és sűrűség"
+              ],
+              "en": [
+                "Warmth and expansion",
+                "Lightness and floating",
+                "Coolness and freshness",
+                "Weight and density"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Melyik óvó szabályt kell betartanod a szerv-légzésnél és az elemmunkánál?",
+              "en": "Which safety rule must you observe in organ breathing and element work?"
+            },
+            "options": {
+              "hu": [
+                "A szívben és az agyban soha nem halmozok fel erőt, és minden előhívott elemet teljesen feloldok",
+                "Feltöltött állapotban fejezem be a gyakorlatot, hogy az erő megmaradjon",
+                "Az erőt mindig a fejben gyűjtöm össze, mielőtt szétosztom",
+                "Egyszerre mindig több szervet töltök, hogy az egyensúly megmaradjon"
+              ],
+              "en": [
+                "I never accumulate force in the heart or the brain, and I fully dissolve every element I produce",
+                "I finish the exercise still charged, so that the force is preserved",
+                "I always gather the force in the head before distributing it",
+                "I always charge several organs at once to keep the balance"
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "iih-step-03-md-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve 3. lépése nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
+        "en": "*A study aid based on Step 3 of Franz Bardon's “Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience psychological difficulty, consult a professional. Practise the exercises ethically and patiently; mastery is the goal, not speed.*"
+      }
+    }
+  ]
+}
