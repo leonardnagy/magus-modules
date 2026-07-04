@@ -19,6 +19,7 @@ Install: copy a module's **raw** link below and paste it in the app
 | Ra — The Way of the Sun | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ra.solar/module.json` |
 | Kloss-Ignatenko — Cosmohumanism | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ignatenko.cosmohumanism/module.json` |
 | Sathya Sai Baba — Love & Service | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/saibaba.love/module.json` |
+| Kashpirovsky — The Two Edges of Suggestion | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/kashpirovsky.suggestion/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
