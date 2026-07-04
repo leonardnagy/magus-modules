@@ -13,6 +13,7 @@ Install: copy a module's **raw** link below and paste it in the app
 | Saint Germain — Violet Flame | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/saintgermain.violetflame/module.json` |
 | Bashar — Reality Shifting | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/bashar.shifting/module.json` |
 | Hermes Trismegistus — The Ancient Root | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/hermes.trismegistos/module.json` |
+| Osiris — Death & Rebirth | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/osiris.rebirth/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 

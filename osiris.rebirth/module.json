@@ -1,0 +1,193 @@
+{
+  "formatVersion": 1,
+  "id": "osiris-rebirth",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Ozirisz — A halál és újjászületés misztériumai",
+    "en": "Osiris — The Mysteries of Death and Rebirth"
+  },
+  "description": {
+    "hu": "Az ősi egyiptomi hagyomány belső útja: Ozirisz mítosza mint az átalakulás ősképe, a Duat-utazás meditációja, a belső feltámadás gyakorlata és a Maat-mérleg esti önvizsgálata — a Halottak Könyve és az ozirisi misztériumok modern, kontemplatív adaptációjában. Nem csatornázott tanítás: négyezer éves rituális hagyomány belső gyakorlattá formálva.",
+    "en": "The inner way of the ancient Egyptian tradition: the myth of Osiris as the archetype of transformation, the Duat-journey meditation, the practice of inner resurrection and the Maat-scale evening self-examination — in a modern, contemplative adaptation of the Book of the Dead and the Osirian mysteries. Not a channeled teaching: a four-thousand-year-old ritual tradition shaped into inner practice."
+  },
+  "items": [
+    {
+      "id": "osiris-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető — a zöld isten", "en": "Introduction — the Green God" },
+      "text": {
+        "hu": "**Ozirisz** (egyiptomi nevén Uszir) az ókori Egyiptom egyik legnagyobb alakja: a termékenység, a halál és a **feltámadás** ura, az alvilág — a Duat — királya és bírája. Bőre zölden ábrázolva: a sarjadó élet színében, mert ő az az isten, aki a halálból hoz termést.\n\n**A mítosz magva:** testvére, Széth, irigységből megölte és feldarabolta; hitvese, **Ízisz**, türelmes szeretettel összegyűjtötte és — Anubisz segítségével — újra egésszé illesztette; Ozirisz feltámadt, és az újjászületett élet urává lett. Fiuk, Hórusz, visszaszerezte a trónt. Ez a történet lett az emberiség egyik legmélyebb **ősképe**: ami széthullik, az magasabb formában állhat össze újra.\n\n**Honnan ismerjük?** A piramisszövegekből és koporsószövegekből, a **Halottak Könyvéből** — amelynek igazi címe sokatmondó: *„A nappali előjövetel könyve”* —, az Amduatból (a Nap éjszakai útja a Duat tizenkét óráján át) és az évente megült **Khoiak-misztériumokból**.\n\n**Fontos, őszinte keret:** Ozirisznek nincs modern „csatornázott” tanítóvonala. Ez a modul az **ősi rituális hagyomány** belső, kontemplatív adaptációja — a szertartások, amelyek egykor a halottat kísérték, itt az **élő ember átalakulását** szolgálják: annak művészetét, hogyan halj meg jól a régi énednek, és hogyan támadj fel belőle.\n\n**Gyengédség:** a halál-újjászületés gyakorlatai megérinthetik a valódi gyászt is. Ha friss veszteség él benned, bánj magaddal különös szelídséggel, haladj lassan — és ha kell, kérj emberi támaszt is.",
+        "en": "**Osiris** (Egyptian Usir) is one of the greatest figures of ancient Egypt: lord of fertility, of death and of **resurrection**, king and judge of the underworld — the Duat. He is depicted green-skinned: the colour of sprouting life, for he is the god who brings harvest out of death.\n\n**The core of the myth:** his brother Seth killed and dismembered him out of envy; his wife **Isis** gathered him with patient love and — with the help of Anubis — joined him whole again; Osiris rose, and became lord of reborn life. Their son Horus reclaimed the throne. This story became one of humanity's deepest **archetypes**: what falls apart may come together again in a higher form.\n\n**How do we know it?** From the Pyramid Texts and Coffin Texts, from the **Book of the Dead** — whose true title says much: *'The Book of Coming Forth by Day'* —, from the Amduat (the Sun's night journey through the twelve hours of the Duat), and from the yearly **Khoiak mysteries**.\n\n**An important, honest frame:** Osiris has no modern 'channeled' teaching line. This module is the inner, contemplative adaptation of the **ancient ritual tradition** — the rites that once escorted the dead here serve the **transformation of the living**: the art of dying well to your old self, and rising from it.\n\n**Gentleness:** practices of death and rebirth can touch real grief as well. If a fresh loss lives in you, treat yourself with particular tenderness, go slowly — and seek human support too, if needed."
+      }
+    },
+    {
+      "id": "osiris-md-map",
+      "kind": "markdown",
+      "nevek": { "hu": "A mítosz mint belső térkép", "en": "The Myth as Inner Map" },
+      "text": {
+        "hu": "Az ozirisi történet minden mozzanata a te átalakulásod egy-egy állomása.\n\n**A halál.** Széth — a szétszóró, kiszámíthatatlan erő — nem „gonosz kívülálló”: ő az életed vihara, amely szétveti, ami már nem tartható. Amikor egy életszakasz, egy szerep, egy önkép széthullik — az a Széth-pillanat. A hagyomány nem tagadja: **megtiszteli**.\n\n**A feldarabolás.** A régi én nem egyben hal meg — darabokban ismered fel: itt egy szokás, ott egy hit, amott egy kapcsolatminta. A darabok szemlélése fájdalmas és szent munka.\n\n**Az összegyűjtés — Ízisz.** A gyógyulás nem erővel történik, hanem **türelmes szeretettel**. Ízisz nem sietett. Bejárta a folyót minden darabért. A benned élő Ízisz az az erő, amely ítélet nélkül gyűjti össze, ami vagy.\n\n**A feltámadás.** Az újra összeillesztett Ozirisz nem a régi lett — **más lett**: az élet urából az újjászületés urává vált. A belső feltámadás sem visszatérés a régihez: magasabb rendbe állsz össze.\n\n**A mérleg — Maat.** A Duat csarnokában a szívet mérik **Maat** — az igazság és a világrend — tollával szemben. Ha a szív könnyű, mint a toll, az út nyitott. Ez a hagyomány etikai szíve, és napi gyakorlattá tehető: **úgy élni, hogy a szív este könnyű maradjon** — kimondatlan hazugságok, hordozott neheztelések, elkerült igazságok nélkül. Az esti Maat-mérleg ennek a modulnak a gerince, és rokona a bardoni napló könyörtelen őszinteségének.",
+        "en": "Every movement of the Osirian story is a station of your own transformation.\n\n**The death.** Seth — the scattering, unpredictable force — is no 'evil outsider': he is the storm of your life that blows apart what can no longer hold. When a life-chapter, a role, a self-image falls apart — that is the Seth-moment. The tradition does not deny it: it **honours** it.\n\n**The dismemberment.** The old self does not die in one piece — you recognize it in fragments: here a habit, there a belief, yonder a relationship pattern. Beholding the pieces is painful and holy work.\n\n**The gathering — Isis.** Healing happens not by force but by **patient love**. Isis did not hurry. She walked the river for every piece. The Isis living in you is the power that gathers what you are, without judgment.\n\n**The resurrection.** The re-membered Osiris did not become the old one — he became **other**: from lord of life to lord of rebirth. Inner resurrection likewise is no return to the old: you come together into a higher order.\n\n**The scale — Maat.** In the hall of the Duat the heart is weighed against the feather of **Maat** — truth and world-order. If the heart is light as the feather, the way is open. This is the ethical heart of the tradition, and it can become daily practice: **to live so that the heart stays light by evening** — without unspoken lies, carried resentments, avoided truths. The evening Maat-scale is the spine of this module, and kin to the ruthless honesty of the Bardonian diary."
+      }
+    },
+    {
+      "id": "osiris-md-duat",
+      "kind": "markdown",
+      "nevek": { "hu": "A Duat-utazás — meditáció", "en": "The Duat Journey — Meditation" },
+      "text": {
+        "hu": "Az Amduat a Nap éjszakai útját írja le a Duat **tizenkét óráján** át — a lenyugvástól az újjászületett hajnalig. Ez a meditáció ennek belső, egyszerűsített útja: **kontemplatív utazás a saját éjszakádon át**, négy szakaszban. Végig a saját tudatodban dolgozol, biztonságban.\n\n**Előkészület.** Félhomály vagy gyertyafény. Ülj kényelmesen, lélegezz mélyen. Szándék: *„Tudatosan járom be az éjszaka útját, és a hajnallal térek vissza.”* Ha a Lila Láng modult is járod, vond magad köré védelemként.\n\n**1–3. óra — az alámerülés.** A nap lenyugszik benned: engedd hátra a nappali szerepeket, tennivalókat, arcokat. Ami ma véget ért — hadd érjen véget. Csend és sötét: nem ellenség, hanem anyaméh.\n\n**4–6. óra — az árnyak csarnoka.** Itt találkozol azzal, amit kerülsz: egy félelem, egy szégyen, egy elhallgatott igazság léphet eléd. Ne harcolj és ne fuss: **nézd meg**. A Duat őrei nem bántani akarnak — megmutatni. A csarnok végén áll a mérleg: tedd fel rá a szíved, és kérdezd: *mi teszi nehézzé?*\n\n**7–9. óra — a fény fogadása.** A mélypont után fordul az éj. Halvány zöld-arany derengés közelít: az újjászületés első fénye. Engedd, hogy elérjen — nem kell kiérdemelni, csak befogadni.\n\n**10–12. óra — a trónterem.** A fényben kirajzolódik **Ozirisz** alakja: zöld bőrű király a trónon, nyugalma mélyebb a halálnál. Tedd fel neki a két kérdést: *„Mit kell elengednem?”* — és — *„Mi születik újjá bennem?”* Fogadd a választ képként, szóként vagy csendként.\n\n**A hajnal — visszatérés.** A tizenkettedik óra végén a Nap újjászületve kel. Térj vissza vele: érezd a tested, mozgasd az ujjaid, nyisd ki a szemed — és **azonnal jegyezd le**, amit hoztál. A napkeltével való előjövetel — ez a könyv igazi címe, és a gyakorlat igazi célja.",
+        "en": "The Amduat describes the Sun's night journey through the **twelve hours** of the Duat — from setting to the reborn dawn. This meditation is its inner, simplified way: a **contemplative journey through your own night**, in four phases. You work within your own consciousness throughout, in safety.\n\n**Preparation.** Half-dark or candlelight. Sit comfortably, breathe deeply. Intent: *'I walk the way of the night consciously, and return with the dawn.'* If you also walk the Violet Flame module, draw it around you as protection.\n\n**Hours 1–3 — the descent.** The sun sets within you: leave behind the day's roles, tasks, faces. What ended today — let it end. Silence and dark: not an enemy but a womb.\n\n**Hours 4–6 — the hall of shadows.** Here you meet what you avoid: a fear, a shame, an unspoken truth may step before you. Do not fight and do not flee: **behold it**. The guardians of the Duat do not wish to harm — they wish to show. At the hall's end stands the scale: place your heart upon it and ask: *what makes it heavy?*\n\n**Hours 7–9 — receiving the light.** After the deepest point the night turns. A faint green-gold glow approaches: the first light of rebirth. Let it reach you — it need not be earned, only received.\n\n**Hours 10–12 — the throne hall.** In the light the figure of **Osiris** takes shape: a green-skinned king on the throne, his calm deeper than death. Ask him the two questions: *'What must I release?'* — and — *'What is being reborn in me?'* Receive the answer as image, word or silence.\n\n**The dawn — return.** At the end of the twelfth hour the Sun rises reborn. Return with it: feel your body, move your fingers, open your eyes — and **record at once** what you brought back. Coming forth by day — that is the book's true title, and the practice's true aim."
+      }
+    },
+    {
+      "id": "osiris-timer-duat",
+      "kind": "timer",
+      "nevek": { "hu": "Duat-utazás — 20 perc", "en": "Duat Journey — 20 min" },
+      "timer": {
+        "durationSeconds": 1200,
+        "instructions": {
+          "hu": "Járd az éjszaka négy szakaszát: alámerülés → az árnyak csarnoka és a mérleg → a fény fogadása → Ozirisz trónterme és a két kérdés. A hajnallal térj vissza, és azonnal naplózz.",
+          "en": "Walk the four phases of the night: descent → the hall of shadows and the scale → receiving the light → the throne hall of Osiris and the two questions. Return with the dawn, and journal at once."
+        },
+        "intervals": [
+          { "atSecond": 240, "label": { "hu": "Az árnyak csarnoka — nézd meg", "en": "The hall of shadows — behold it" } },
+          { "atSecond": 600, "label": { "hu": "A fény fogadása", "en": "Receiving the light" } },
+          { "atSecond": 840, "label": { "hu": "A trónterem — a két kérdés", "en": "The throne hall — the two questions" } },
+          { "atSecond": 1080, "label": { "hu": "Hajnal — térj vissza", "en": "Dawn — return" } }
+        ]
+      }
+    },
+    {
+      "id": "osiris-md-resurrection",
+      "kind": "markdown",
+      "nevek": { "hu": "A belső feltámadás — öt fázis", "en": "The Inner Resurrection — Five Phases" },
+      "text": {
+        "hu": "A mítosz teljes íve gyakorlattá formálva. Akkor végezd, amikor egy valódi átalakulás zajlik az életedben — szerep, kapcsolat, önkép, korszak fordulóján.\n\n**1. A halál.** Nevezd meg, minek kell meghalnia benned. Ne általánosságot — **pontosat**: „a mindenkinek-megfelelés”, „a régi munkám énje”. Mondd ki: *„Ez a rész elvégezte dolgát. Engedem meghalni.”* Ha ellenállás támad, az természetes — Széth vihara nem kér engedélyt, de te méltóságot adhatsz a búcsúnak.\n\n**2. A feldarabolás.** Engedd, hogy a régi rész darabjaira essen: lásd külön-külön a szokásait, hiedelmeit, gesztusait. Ne rendezgesd — csak **leltározz**, ahogy Ízisz járta a partokat. (A Lila Láng itt segíthet: a darabokat átadhatod a transzmutáló tűznek.)\n\n**3. Az összegyűjtés — Ízisz keze.** Hívd meg a türelmes, gyógyító szeretetet — a benned élő Íziszt. Lásd, ahogy a darabokból **nem a régi forma** áll össze, hanem egy új rend: ami szolgált, megmarad új helyén; ami nem, azt a tűz már elvitte.\n\n**4. A feltámadás — a zöld erő.** Engedd, hogy Ozirisz zöld életereje végigáradjon az új formán: a sarjadás erejét érezd a mellkasodban, a kezeidben, a gerinced mentén. Az új én első lélegzete ez.\n\n**5. A pecsét.** Mondd ki: *„Ahogy Ozirisz feltámadt, úgy élek én is újjá.”* — és tégy még aznap **egy kis, kézzelfogható tettet** az új énedből. (A koaguláció törvénye: ami nem ölt testet, elpárolog.)\n\n**Ritmus:** hetente egyszer elég — mély munka. A holdciklussal is járhatod: **fogyó holdnál** az 1–2. fázis (elengedés), **növőnél** a 3–5. (összeállás, feltámadás).",
+        "en": "The full arc of the myth shaped into practice. Do it when a real transformation is underway in your life — at the turning of a role, a relationship, a self-image, an era.\n\n**1. The death.** Name what must die in you. Not a generality — something **precise**: 'the pleasing-everyone', 'the self of my old work'. Say: *'This part has done its work. I let it die.'* If resistance rises, that is natural — Seth's storm asks no permission, but you can give the farewell dignity.\n\n**2. The dismemberment.** Let the old part fall to pieces: see its habits, beliefs, gestures one by one. Do not tidy — only **take inventory**, as Isis walked the shores. (The Violet Flame can help here: you may hand the pieces to the transmuting fire.)\n\n**3. The gathering — the hands of Isis.** Invite the patient, healing love — the Isis living in you. See how out of the pieces comes together **not the old form** but a new order: what served remains in a new place; what did not, the fire has already taken.\n\n**4. The resurrection — the green power.** Let the green life-force of Osiris stream through the new form: feel the power of sprouting in your chest, your hands, along your spine. This is the first breath of the new self.\n\n**5. The seal.** Say: *'As Osiris rose, so I too live anew.'* — and that very day do **one small, tangible deed** from the new self. (The law of coagulation: what does not take body, evaporates.)\n\n**Rhythm:** once a week is enough — deep work. You may also walk it with the moon: at the **waning moon** phases 1–2 (release), at the **waxing** 3–5 (gathering, resurrection)."
+      }
+    },
+    {
+      "id": "osiris-timer-resurrection",
+      "kind": "timer",
+      "nevek": { "hu": "Belső feltámadás — 15 perc", "en": "Inner Resurrection — 15 min" },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Az öt fázis: nevezd meg, ami meghal → engedd darabjaira → Ízisz türelmes kezével gyűjtsd új rendbe → fogadd a zöld életerőt → pecsételd szóval és aznapi tettel.",
+          "en": "The five phases: name what dies → let it fall to pieces → gather it into new order with the patient hands of Isis → receive the green life-force → seal it with word and a same-day deed."
+        },
+        "intervals": [
+          { "atSecond": 180, "label": { "hu": "A darabok — leltározz ítélet nélkül", "en": "The pieces — inventory without judgment" } },
+          { "atSecond": 420, "label": { "hu": "Ízisz keze — az új rend", "en": "The hands of Isis — the new order" } },
+          { "atSecond": 660, "label": { "hu": "A zöld erő — az első lélegzet", "en": "The green power — the first breath" } },
+          { "atSecond": 810, "label": { "hu": "A pecsét", "en": "The seal" } }
+        ]
+      }
+    },
+    {
+      "id": "osiris-md-maat",
+      "kind": "markdown",
+      "nevek": { "hu": "A Maat-mérleg és a napi ritmus", "en": "The Maat Scale and the Daily Rhythm" },
+      "text": {
+        "hu": "**Az esti Maat-mérleg** — ennek a modulnak a napi gerince.\n\nMinden este, lefekvés előtt, tedd a szíved a mérlegre: ülj le két percre, és kérdezd végig:\n\n— Mondtam-e ma olyat, ami nem igaz — másnak vagy magamnak?\n— Hordozok-e neheztelést, amit ma elengedhetnék?\n— Van-e igazság, amit ma elkerültem kimondani vagy meglátni?\n— Mit tettem ma, amitől könnyebb a szívem?\n\nAmi nehezít, azt **nevezd meg és engedd el** — bocsánatkéréssel, elhatározással vagy egyszerű kimondással. A cél nem a bűntudat: a **könnyű szív**, amely Maat tollával egyensúlyban áll. Így az „utolsó ítélet” nem egyetlen félelmetes pillanat, hanem **napi szelíd gyakorlat**.\n\n**A napi ritmus:**\n\n— **Reggel (2 perc):** minden hajnal egy kis feltámadás. Ébredés után egy pillanatra tudatosítsd: *ma újra előjöttem a nappalra.* Hála — és egy szándék az új napnak.\n— **Este (5–10 perc):** a Maat-mérleg + a napló.\n— **Hetente:** a belső feltámadás gyakorlata vagy a Duat-utazás.\n— **Holdciklusban:** fogyó hold = elengedés-munka; növő hold = építés, feltámadás.\n\n**A fa ágai között:** Ozirisz a Hermész-modul egyiptomi talaja — Thot és Uszir egyazon templomvilág alakjai. A feldarabolás-összeállás a Ryokah-alkímia fermentáció-koagulációjának őse; a Lila Láng a Duat tüzeinek modern rokona; és egy ankh vagy zöld jel tökéletes **feltámadás-cédula** lehet a 🎫 eszközödben. A kör bezárult: a legmodernebb tanításaid a legősibb forrásból isznak.",
+        "en": "**The evening Maat scale** — the daily spine of this module.\n\nEvery evening before sleep, place your heart on the scale: sit for two minutes and ask through:\n\n— Did I say anything today that is not true — to another or to myself?\n— Do I carry a resentment I could release today?\n— Is there a truth I avoided speaking or seeing today?\n— What did I do today that makes my heart lighter?\n\nWhat weighs, **name and release** — with an apology, a resolution or a simple speaking-out. The aim is not guilt: it is the **light heart**, balanced against the feather of Maat. Thus the 'last judgment' is not one fearsome moment but a **gentle daily practice**.\n\n**The daily rhythm:**\n\n— **Morning (2 min):** every dawn is a small resurrection. On waking, be aware for a moment: *today I have come forth by day again.* Gratitude — and one intent for the new day.\n— **Evening (5–10 min):** the Maat scale + the journal.\n— **Weekly:** the inner resurrection practice or the Duat journey.\n— **In the moon cycle:** waning moon = release-work; waxing moon = building, resurrection.\n\n**Among the branches of the tree:** Osiris is the Egyptian soil of the Hermes module — Thoth and Usir are figures of the same temple-world. Dismemberment-and-gathering is the ancestor of the Ryokah alchemy's fermentation-coagulation; the Violet Flame is the modern kin of the Duat's fires; and an ankh or a green sign can be a perfect **resurrection slip** in your 🎫 tool. The circle closes: your most modern teachings drink from the most ancient spring."
+      }
+    },
+    {
+      "id": "osiris-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "Az újjászülető jellemvonásai", "en": "The Reborn One's character traits" },
+      "aspektusPack": [
+        { "key": "os-asp-fearletting", "elem": "viz", "tukor": "fekete",
+          "nevek": { "hu": "Félelem az elengedéstől", "en": "Fear of letting go" } },
+        { "key": "os-asp-heavyheart", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "Nehéz szív", "en": "The heavy heart" } },
+        { "key": "os-asp-denyshadow", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Az árnyék tagadása", "en": "Denying the shadow" } },
+        { "key": "os-asp-stuckgrief", "elem": "ido", "tukor": "fekete",
+          "nevek": { "hu": "Megrekedt gyász", "en": "Grief stuck in time" } },
+        { "key": "os-asp-dignifiedrelease", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Elengedés méltósággal", "en": "Letting go with dignity" } },
+        { "key": "os-asp-lightheart", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "Könnyű szív (Maat)", "en": "The light heart (Maat)" } },
+        { "key": "os-asp-greenforce", "elem": "tuz", "tukor": "feher",
+          "nevek": { "hu": "Zöld életerő", "en": "The green life-force" } },
+        { "key": "os-asp-rebirthtrust", "elem": "eter", "tukor": "feher",
+          "nevek": { "hu": "Bizalom az újjászületésben", "en": "Trust in rebirth" } }
+      ]
+    },
+    {
+      "id": "osiris-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Halál-újjászületés napló", "en": "Death & Rebirth Journal" },
+      "journalTemplate": {
+        "aspektusKeys": ["os-asp-lightheart"],
+        "prompts": {
+          "hu": "AMI MEGHAL — Amit ma elengedtem vagy elengedni tanulok: ___\n\nMAAT-MÉRLEG — Ami ma nehezítette a szívem: ___ · amit kimondtam/elengedtem: ___\n\nAMI SZÜLETIK — Az új, ami sarjad bennem: ___\n\nA TRÓNTEREMBŐL — Kép, szó vagy csend, amit a gyakorlatból hoztam: ___",
+          "en": "WHAT DIES — What I released today, or am learning to release: ___\n\nMAAT SCALE — What weighed on my heart today: ___ · what I spoke out / released: ___\n\nWHAT IS BORN — The new sprouting in me: ___\n\nFROM THE THRONE HALL — Image, word or silence I brought from the practice: ___"
+        }
+      }
+    },
+    {
+      "id": "osiris-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "A misztérium elsajátítása", "en": "Mastery of the Mystery" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "A mítosz belső térképe megértve (Széth, Ízisz, mérleg, feltámadás)", "en": "The myth's inner map understood (Seth, Isis, scale, resurrection)" } },
+          { "key": "c2", "nevek": { "hu": "Esti Maat-mérleg napi gyakorlattá vált", "en": "The evening Maat scale became daily practice" } },
+          { "key": "c3", "nevek": { "hu": "Reggeli „előjövetel” pillanat — hála és szándék", "en": "The morning 'coming forth' moment — gratitude and intent" } },
+          { "key": "c4", "nevek": { "hu": "Duat-utazás nyugodt visszatéréssel és naplózással", "en": "Duat journey with calm return and journaling" } },
+          { "key": "c5", "nevek": { "hu": "Belső feltámadás gyakorlat egy valódi átalakulásra alkalmazva", "en": "Inner resurrection applied to a real transformation" } },
+          { "key": "c6", "nevek": { "hu": "Holdciklus-ritmus kipróbálva (fogyó=elengedés, növő=építés)", "en": "The moon rhythm tried (waning=release, waxing=building)" } },
+          { "key": "c7", "nevek": { "hu": "Feltámadás-cédula (ankh / zöld jel) létrehozva a 🎫 eszközben", "en": "A resurrection slip (ankh / green sign) created in the 🎫 tool" } }
+        ]
+      }
+    },
+    {
+      "id": "osiris-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Önellenőrzés", "en": "Self-Check" },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Mit tanít a szív megmérése Maat tollával szemben?", "en": "What does the weighing of the heart against Maat's feather teach?" },
+            "options": {
+              "hu": ["Hogy a halál után büntetés vár", "Hogy úgy érdemes élni, hogy a szív könnyű maradjon — hazugságok és hordozott terhek nélkül", "Hogy az érzelmeket el kell nyomni", "Hogy a szív súlya a tudás mértéke"],
+              "en": ["That punishment awaits after death", "That it is worth living so the heart stays light — without lies and carried burdens", "That emotions must be suppressed", "That the heart's weight measures knowledge"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Mi a feldarabolás–összegyűjtés belső értelme?", "en": "What is the inner meaning of dismemberment and gathering?" },
+            "options": {
+              "hu": ["A múlt teljes elfelejtése", "A régi én darabjainak ítélet nélküli leltára, majd türelmes szeretettel új rendbe illesztése", "A hibák felsorolása és megbüntetése", "A test fizikai megtisztítása"],
+              "en": ["Completely forgetting the past", "Inventorying the old self's pieces without judgment, then joining them into new order with patient love", "Listing and punishing one's faults", "Physically cleansing the body"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Hogyan zárul helyesen a Duat-utazás?", "en": "How does the Duat journey close correctly?" },
+            "options": {
+              "hu": ["Minél tovább a sötétben maradva", "A hajnallal való visszatéréssel — test-tudatosítás és azonnali naplózás", "A gyakorlat titokban tartásával", "Az árnyak elleni küzdelemmel"],
+              "en": ["By staying in the dark as long as possible", "By returning with the dawn — body awareness and immediate journaling", "By keeping the practice secret", "By fighting the shadows"]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "osiris-md-source",
+      "kind": "markdown",
+      "nevek": { "hu": "Forrás és nyilatkozat", "en": "Source & Disclaimer" },
+      "text": {
+        "hu": "*Tanulási segédlet az ókori egyiptomi hagyomány forrásai nyomán: a Halottak Könyve („A nappali előjövetel könyve”), a piramis- és koporsószövegek, az Amduat és az ozirisi (Khoiak-) misztériumok. A szövegek saját, modern belső adaptációk — a tudományos elmélyüléshez ajánlott: R. O. Faulkner fordításai, Jan Assmann „Death and Salvation in Ancient Egypt” című műve.*\n\n*Őszinte keret: Ozirisznek nincs modern csatornázott tanítóvonala — ez a modul ősi rituális hagyomány kontemplatív átültetése. A halál-újjászületés gyakorlatai valódi gyászt is megérinthetnek: friss veszteség idején bánj magaddal különös gyengédséggel, és kérj emberi támaszt is. Ez nem orvosi és nem pszichológiai tanács; ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat nyugodt, biztonságos helyzetben végezd.*",
+        "en": "*Study aid after the sources of the ancient Egyptian tradition: the Book of the Dead ('The Book of Coming Forth by Day'), the Pyramid and Coffin Texts, the Amduat and the Osirian (Khoiak) mysteries. The texts are our own modern inner adaptations — for scholarly depth see R. O. Faulkner's translations and Jan Assmann's 'Death and Salvation in Ancient Egypt'.*\n\n*An honest frame: Osiris has no modern channeled teaching line — this module is a contemplative transposition of an ancient ritual tradition. Practices of death and rebirth may touch real grief: in times of fresh loss treat yourself with particular tenderness and seek human support as well. This is not medical or psychological advice; if you experience distress, consult a professional. Do the practices in calm, safe settings.*"
+      }
+    }
+  ]
+}
