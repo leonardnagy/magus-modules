@@ -1,0 +1,197 @@
+{
+  "formatVersion": 1,
+  "id": "thoth-wisdom",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Thot — Az írnok bölcsessége",
+    "en": "Thoth — The Wisdom of the Scribe"
+  },
+  "description": {
+    "hu": "Djehuty, a bölcsesség, az írás és a mágia íbiszfejű istene: a jel és a szó ereje, a Maat-egyensúly és a semleges tanú gyakorlata, a Hold ritmusa és az idő mértéke — és az írnok útja, amelynek a te mágikus naplód is része. Az egyiptomi triász zárása: Ptah kimond, Thot feljegyez, Ozirisz megújít.",
+    "en": "Djehuty, the ibis-headed god of wisdom, writing and magic: the power of sign and word, the Maat balance and the practice of the neutral witness, the Moon's rhythm and the measure of time — and the way of the scribe, of which your magical diary is a part. The closing of the Egyptian triad: Ptah speaks, Thoth records, Osiris renews."
+  },
+  "items": [
+    {
+      "id": "thoth-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető — az íbiszfejű", "en": "Introduction — the Ibis-Headed" },
+      "text": {
+        "hu": "**Thot** (egyiptomi nevén **Djehuty**) az ókori Egyiptom legösszetettebb istene — már az Óbirodalomban tisztelték. Íbiszfejjel ábrázolják, amelynek hosszú csőre a holdsarlóra emlékeztet, vagy bölcs páviánként, aki a mérleg fölött ül.\n\n**Szerepei egy egész pantheonnyi:**\n\n— **Az írás feltalálója** — a hieroglifák az ő ajándéka: nevük szó szerint *„az istenek szavai”*.\n— **A mágia mestere** — a formulák, a szertartások, a szent tudás ura.\n— **A Hold istene** — az idő mérője, a naptár és a ciklusok rendjének őre.\n— **Maat társa** — az igazság és egyensúly fenntartója.\n— **Az írnok a mérlegnél** — a szív megmérésekor (ott, ahol Ozirisz ítél) Thot az, aki **pontosan feljegyzi** az eredményt. Nem ítél: **tanúsít**.\n— **A gyógyító** — ő állította helyre Hórusz megsebzett szemét, és ő segített Ízisznek Ozirisz feltámasztásában.\n\n**A nagy híd:** a görög-római korban Thotot Hermésszel azonosították — ebből az ölelésből született **Hermész Triszmegisztosz**. A Hermész-modulod gyökere tehát itt áll, Hermopolisz templomában.\n\n**És a legszemélyesebb szál:** Thot az **írnok istene** — a feljegyzésé, a naplóé. Bardon azt tanítja, a mágikus napló a legfontosabb eszközöd; Ptahhotep a fiának írta le a bölcsességét; te minden nap bejegyzést írsz ebbe az appba. **Mindannyian Thot művét végzitek.** Ez a modul ennek a műnek a tudatosítása.\n\n**Őszinte keret:** Thot ősi hagyománya közkincs. Létezik egy modern szöveg is — „Thot, az atlantiszi smaragdtáblái” (M. Doreal, 1930-as évek) —, amely **modern ezoterikus mű, nem ősi forrás**; ha olvasod, saját megkülönböztetéssel tedd. Ez a modul az ősi hagyományra épül.",
+        "en": "**Thoth** (Egyptian **Djehuty**) is ancient Egypt's most complex god — honoured already in the Old Kingdom. He is depicted ibis-headed, the long beak recalling the crescent moon, or as the wise baboon seated above the scale.\n\n**His roles fill a whole pantheon:**\n\n— **Inventor of writing** — the hieroglyphs are his gift: their name means literally *'the gods' words'*.\n— **Master of magic** — lord of formulas, rites and sacred knowledge.\n— **God of the Moon** — measurer of time, keeper of the calendar and the order of cycles.\n— **Companion of Maat** — sustainer of truth and balance.\n— **The scribe at the scale** — at the weighing of the heart (where Osiris judges) it is Thoth who **precisely records** the result. He does not judge: he **witnesses**.\n— **The healer** — he restored the wounded Eye of Horus, and helped Isis raise Osiris.\n\n**The great bridge:** in the Greco-Roman age Thoth was identified with Hermes — from that embrace was born **Hermes Trismegistus**. The root of your Hermes module thus stands here, in the temple of Hermopolis.\n\n**And the most personal thread:** Thoth is the god of the **scribe** — of the record, of the diary. Bardon teaches that the magical diary is your most important tool; Ptahhotep wrote his wisdom down for his son; you write an entry into this app every day. **You are all doing Thoth's work.** This module makes that work conscious.\n\n**Honest frame:** Thoth's ancient tradition is public heritage. A modern text also exists — 'The Emerald Tablets of Thoth the Atlantean' (M. Doreal, 1930s) — which is a **modern esoteric work, not an ancient source**; if you read it, do so with your own discernment. This module builds on the ancient tradition."
+      }
+    },
+    {
+      "id": "thoth-md-word",
+      "kind": "markdown",
+      "nevek": { "hu": "A jel és a szó — az írás mint mágia", "en": "Sign and Word — Writing as Magic" },
+      "text": {
+        "hu": "Az egyiptomi számára az írás nem jegyzetelés volt: **teremtő aktus**. A hieroglifa nem egy hang jele csupán — **eleven forma**, amely hordozza annak erejét, amit ábrázol. Ezért véstek áldás-szavakat a falakba, és ezért kapartak ki gondosan minden ártó jelet: amit leírtak, az **működött**.\n\n**A hármas lánc.** Emlékszel Ptahra? A szív elgondol, a nyelv kimond. Thot a harmadik láncszem: **a kéz leírja** — és ezzel a kimondott szó maradandóvá válik. A beszélt szó elszáll a levegőben; a leírt szó **túléli az éjszakát**. Ezért az írás a leghosszabb távú mágia.\n\n**Mit jelent ez a gyakorlódnak?**\n\n— **A naplód szentély.** Amit leírsz, azt kétszer teremted: egyszer megélve, egyszer megörökítve. A bardoni napló, a gnózis-napló, az ugrás-napló — mind Thot oltára. Írj **pontosan és őszintén**: az írnok hűsége maga a gyakorlat.\n\n— **A leírt szándék erősebb.** Amit a szív-nyelv gyakorlatban kihirdetsz, írd is le — egyetlen tiszta mondatban. A papír a te Shabaka-köved.\n\n— **Vigyázz, mit rögzítesz.** Aki naponta a panaszait írja le gondosan, az a panaszait vési kőbe. Az írnok művészete a **válogatás**: a feljegyzés méltó tárgya az igazság — nem a méreg.\n\n**Az írás rítusa:** mielőtt naplót írsz, egyetlen lélegzetnyi szünet — *„Írnokként írok: pontosan, igazul.”* — és a bejegyzés máris gyakorlattá válik.",
+        "en": "For the Egyptian, writing was no note-taking: it was a **creative act**. The hieroglyph is not merely the sign of a sound — it is **living form**, carrying the power of what it depicts. That is why blessing-words were carved into walls, and why every harmful sign was carefully scratched out: what was written **worked**.\n\n**The threefold chain.** Remember Ptah? The heart conceives, the tongue speaks. Thoth is the third link: **the hand writes** — and with that the spoken word becomes enduring. The spoken word flies off in the air; the written word **survives the night**. Hence writing is the longest-range magic.\n\n**What does this mean for the practitioner?**\n\n— **Your diary is a shrine.** What you write you create twice: once by living it, once by recording it. The Bardonian diary, the gnosis journal, the jump log — all are altars of Thoth. Write **precisely and honestly**: the scribe's fidelity is itself the practice.\n\n— **The written intent is stronger.** What you proclaim in the heart-tongue practice, write down as well — in one clean sentence. The paper is your Shabaka Stone.\n\n— **Mind what you record.** Whoever writes down their complaints carefully every day carves their complaints in stone. The scribe's art is **selection**: the worthy object of the record is truth — not poison.\n\n**The rite of writing:** before you journal, one breath's pause — *'I write as a scribe: precisely, truly.'* — and the entry becomes practice at once."
+      }
+    },
+    {
+      "id": "thoth-md-symbol",
+      "kind": "markdown",
+      "nevek": { "hu": "Jel-munka — kontempláció és saját glifa", "en": "Sign-Work — Contemplation and Your Own Glyph" },
+      "text": {
+        "hu": "Thot művészetének két gyakorlata: az ősi jelek olvasása — és a sajátod megalkotása.\n\n**1. Jel-kontempláció.** Válassz egy ősi jelet, amelyik hív:\n\n— **Ankh** — az élet kulcsa; a lét lehelete.\n— **Dzsed-oszlop** — Ozirisz gerince; a szilárdság és felegyenesedés.\n— **Uasz-jogar** — a hatalom botja; az irányított erő.\n— **Íbisz** — Thot madara; a türelmes, pontos figyelem.\n— **Holdsarló** — a ciklus és a mérték.\n\nRajzold le kézzel (a vonal maga is gyakorlat), vagy tartsd a belső szemed előtt. Tizenöt percig **csak nézd és érezd** — ne elemezd. Majd kérdezd: *„Mit mutatsz nekem?”* — és fogadd, ami jön: kép, szó, érzet. Írd le az írnok hűségével.\n\n**2. A saját glifád.** Az írnok végül maga is jelet alkot:\n\n— **Desztilláld** a szándékod egyetlen magra (a Ryokah-módszer szerint): mi az az EGY minőség, amit hordozni akarsz?\n— **Rajzolj hozzá egyszerű jelet** — pár vonal, amit bárhová felvésel. Ne legyen szép: legyen **igaz**.\n— **Töltsd fel**: a szív-nyelv gyakorlattal mondd ki a jelentését, miközben megrajzolod — háromszor, három napon át.\n— **Használd**: a glifád mostantól cédula (🎫) — jegyzetfüzet sarkára, tenyérbe, képzeletben a küszöbre. Minden megrajzolás kihirdetés.\n\n**A grimoire.** Minden jelet, amit kontempláltál vagy alkottál, jegyezz fel a naplódba jelentésével együtt. Így épül a saját jel-könyved — Thot művének legszemélyesebb fejezete.",
+        "en": "Two practices of Thoth's art: reading the ancient signs — and creating your own.\n\n**1. Sign contemplation.** Choose an ancient sign that calls you:\n\n— **Ankh** — the key of life; the breath of being.\n— **Djed pillar** — the spine of Osiris; steadfastness and rising upright.\n— **Was sceptre** — the staff of power; directed force.\n— **Ibis** — Thoth's bird; patient, precise attention.\n— **Crescent moon** — cycle and measure.\n\nDraw it by hand (the line itself is practice) or hold it before your inner eye. For fifteen minutes **only behold and feel it** — do not analyse. Then ask: *'What do you show me?'* — and receive what comes: image, word, sensation. Write it down with the scribe's fidelity.\n\n**2. Your own glyph.** The scribe finally makes a sign of his own:\n\n— **Distil** your intent to a single core (by the Ryokah method): what is the ONE quality you wish to carry?\n— **Draw a simple sign for it** — a few strokes you can inscribe anywhere. It need not be beautiful: it must be **true**.\n— **Charge it**: with the heart-tongue practice speak its meaning while you draw it — three times, on three days.\n— **Use it**: your glyph is now a slip (🎫) — on a notebook's corner, into a palm, in imagination upon a threshold. Every drawing of it is a proclamation.\n\n**The grimoire.** Record every sign you contemplated or created in your journal, with its meaning. Thus grows your own book of signs — the most personal chapter of Thoth's work."
+      }
+    },
+    {
+      "id": "thoth-timer-symbol",
+      "kind": "timer",
+      "nevek": { "hu": "Jel-kontempláció — 15 perc", "en": "Sign Contemplation — 15 min" },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Válassz egy jelet (Ankh, Dzsed, Uasz, íbisz, holdsarló — vagy a sajátod). Rajzold le, majd csak nézd és érezd, elemzés nélkül. A végén kérdezd: „Mit mutatsz nekem?” — és jegyezd fel, amit kaptál.",
+          "en": "Choose a sign (Ankh, Djed, Was, ibis, crescent — or your own). Draw it, then only behold and feel it, without analysis. At the end ask: 'What do you show me?' — and record what you received."
+        },
+        "intervals": [
+          { "atSecond": 420, "label": { "hu": "Félidő — csak nézd, ne elemezd", "en": "Halfway — only behold, do not analyse" } },
+          { "atSecond": 780, "label": { "hu": "Kérdezd: mit mutatsz nekem?", "en": "Ask: what do you show me?" } }
+        ]
+      }
+    },
+    {
+      "id": "thoth-md-maat",
+      "kind": "markdown",
+      "nevek": { "hu": "A semleges tanú — Maat és az írnok", "en": "The Neutral Witness — Maat and the Scribe" },
+      "text": {
+        "hu": "A mérlegelés csarnokában mindenkinek megvan a maga dolga: Anubisz vezet, Ozirisz ítél — és Thot **feljegyez**. Nem szépít, nem súlyosbít, nem néz félre: **pontosan tanúsítja, ami van**. Ez a tartás — a **semleges tanú** — Thot legnagyobb ajándéka a gyakorlónak.\n\n**Miért forradalmi ez?** Mert a legtöbb belső munka ott bukik el, hogy vagy ostorozzuk magunkat (ítélő tanú), vagy megmagyarázzuk magunknak (védő tanú). Az írnok **egyiket sem teszi**: látja és rögzíti. És pontosan ez a látás gyógyít — amit tisztán látsz, az már mozdulni tud.\n\nIsmerős? **Bardon I. lépése** — a gondolatok semleges megfigyelése — pontosan ez a gyakorlat. A kör újra bezárul: az út legelső gyakorlata Thot tartása volt, csak még nem tudtad a nevét.\n\n**A Maat-egyensúly meditáció** (napközbeni gyakorlat — az Ozirisz-modul esti mérlege mellé, nem helyette):\n\n**1.** Ülj le egyenes háttal, akár két percre is.\n**2.** Képzeld magad elé a mérleget: egyik serpenyőben **Maat tolla**, a másikban a **szíved** — most, ebben az órában.\n**3.** Kérdezd az írnok hangján: *„Hol vagyok most egyensúlyban? Hol billentem ki?”* — és **ne ítélkezz**: csak jegyezd fel, amit a mérleg mutat.\n**4.** Ahol billenés van, kérdezd: *„Mi az a legkisebb mozdulat, ami visszabillent?”* — egy kimondatlan mondat kimondása, egy szünet, egy pohár víz, egy bocsánatkérés.\n**5.** Zárd: *„Maat szerint élek és cselekszem.”*\n\nA semleges tanú nem hideg: **tiszta**. És a tisztaság a legmélyebb kedvesség, amit önmagadnak adhatsz.",
+        "en": "In the hall of weighing everyone has their office: Anubis guides, Osiris judges — and Thoth **records**. He does not flatter, does not aggravate, does not look away: he **witnesses precisely what is**. This stance — the **neutral witness** — is Thoth's greatest gift to the practitioner.\n\n**Why is it revolutionary?** Because most inner work fails at this point: we either scourge ourselves (the judging witness) or explain ourselves away (the defending witness). The scribe does **neither**: he sees and records. And precisely this seeing heals — what you see clearly can already move.\n\nFamiliar? **Bardon's Step I** — the neutral observation of thoughts — is exactly this practice. The circle closes again: the very first exercise of the path was Thoth's stance, you only did not yet know its name.\n\n**The Maat balance meditation** (a daytime practice — alongside the Osiris module's evening scale, not instead of it):\n\n**1.** Sit upright, even for two minutes.\n**2.** Imagine the scale before you: in one pan **Maat's feather**, in the other **your heart** — now, in this hour.\n**3.** Ask in the scribe's voice: *'Where am I in balance right now? Where have I tipped?'* — and **do not judge**: only record what the scale shows.\n**4.** Where there is tipping, ask: *'What is the smallest movement that rebalances?'* — speaking one unspoken sentence, a pause, a glass of water, an apology.\n**5.** Close: *'I live and act by Maat.'*\n\nThe neutral witness is not cold: it is **clear**. And clarity is the deepest kindness you can give yourself."
+      }
+    },
+    {
+      "id": "thoth-timer-maat",
+      "kind": "timer",
+      "nevek": { "hu": "Maat-egyensúly meditáció — 10 perc", "en": "Maat Balance Meditation — 10 min" },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Lásd a mérleget: Maat tolla és a szíved — most. Az írnok hangján kérdezd: hol vagyok egyensúlyban, hol billentem ki? Ne ítélkezz — jegyezd fel. Majd találd meg a legkisebb visszabillentő mozdulatot.",
+          "en": "See the scale: Maat's feather and your heart — now. Ask in the scribe's voice: where am I in balance, where have I tipped? Do not judge — record. Then find the smallest rebalancing movement."
+        },
+        "intervals": [
+          { "atSecond": 300, "label": { "hu": "A legkisebb visszabillentő mozdulat", "en": "The smallest rebalancing movement" } }
+        ]
+      }
+    },
+    {
+      "id": "thoth-md-moon",
+      "kind": "markdown",
+      "nevek": { "hu": "A Hold, az idő és a gyógyult szem", "en": "The Moon, Time and the Healed Eye" },
+      "text": {
+        "hu": "Thot a **Hold istene**: az idő mérője, a naptár őre. A Nap ereje egyenletes — a Holdé **ciklikus**: nő, telik, fogy, elsötétül, újjászületik. Aki Thot-tal dolgozik, az idő mértékével dolgozik.\n\n**A holdritmus a gyakorlásban** (az Ozirisz-modul elengedés-ritmusát kiegészítve):\n\n— **Újhold** — az írnok új lapot nyit: írd le az új ciklus szándékát, alkosd meg hozzá a glifát.\n— **Növő hold** — építés: a szándék napi munkája, a mesterember gondjával.\n— **Telihold** — a **visszaolvasás** ideje: vedd elő a naplód, és olvasd újra a ciklus bejegyzéseit az írnok szemével. Mit mutat a feljegyzések mintázata, amit napról napra nem láttál?\n— **Fogyó hold** — a mérték kiigazítása: mit mutatnak a feljegyzések fölöslegesnek? Engedd el.\n\n**A havi visszaolvasás Thot legerősebb gyakorlata.** A napló nemcsak írva teremt — **olvasva tanít**. A mintázat, amely a napokban láthatatlan, a hónap tükrében kirajzolódik: ez az írnok második látása.\n\n**A gyógyult szem.** A mítosz szerint Hórusz szeme megsérült a Széth elleni harcban — és **Thot állította helyre, darabról darabra, egésszé**. Az udzsat — a helyreállított szem — a teljessé tett látás jele.\n\n*Gyakorlat — a szem helyreállítása:* amikor szétszórtnak érzed a figyelmed (száz fele néztél, semmit sem láttál), ülj le két percre. Képzeld el az udzsat-szemet, és mondd: *„Összegyűjtöm a látásom darabjait.”* Lélegzetenként hívd vissza a figyelmed egy-egy darabját — a képernyőktől, az aggodalmaktól, a félbehagyott gondolatoktól — míg a szem újra egész. Majd nézz rá **egyetlen** dologra, teljes szemmel.",
+        "en": "Thoth is the god of the **Moon**: measurer of time, keeper of the calendar. The Sun's power is even — the Moon's is **cyclic**: waxing, full, waning, darkening, reborn. Who works with Thoth works with the measure of time.\n\n**The moon rhythm in practice** (complementing the Osiris module's release rhythm):\n\n— **New moon** — the scribe opens a new page: write the new cycle's intent, craft its glyph.\n— **Waxing moon** — building: the intent's daily work, with the craftsman's care.\n— **Full moon** — the time of **reading back**: take your journal and re-read the cycle's entries with the scribe's eye. What does the pattern of the records show that you could not see day by day?\n— **Waning moon** — adjusting the measure: what do the records show to be excess? Release it.\n\n**The monthly read-back is Thoth's strongest practice.** The diary creates not only when written — **it teaches when read**. The pattern invisible in the days is drawn out in the month's mirror: this is the scribe's second sight.\n\n**The healed eye.** In the myth the Eye of Horus was wounded in the battle with Seth — and **Thoth restored it, piece by piece, to wholeness**. The udjat — the restored eye — is the sign of sight made whole.\n\n*Practice — restoring the eye:* when your attention feels scattered (you looked a hundred ways and saw nothing), sit for two minutes. Imagine the udjat eye and say: *'I gather the pieces of my sight.'* Breath by breath, call back one piece of your attention — from the screens, the worries, the half-finished thoughts — until the eye is whole again. Then look at **one** thing, with the whole eye."
+      }
+    },
+    {
+      "id": "thoth-md-integration",
+      "kind": "markdown",
+      "nevek": { "hu": "Thot — a középső kapocs", "en": "Thoth — the Central Link" },
+      "text": {
+        "hu": "Ha kiteríted a könyvtárad térképét, Thot mindenütt ott áll a kereszteződésekben.\n\n**Az egyiptomi triász:**\n\n— **Ptah** kimondja — a szív gondolata és a nyelv szava teremt.\n— **Thot** feljegyzi — a jel maradandóvá teszi és tanúsítja a teremtést.\n— **Ozirisz** megújítja — ami feljegyeztetett és megéretett, az meghalhat és feltámadhat.\n\nEz a teljes teremtő kör: **szó → írás → átalakulás** — és mindhárom modulod egy-egy íve.\n\n**A nagy leszármazás:** Thot–Hermész azonosításából született Hermész Triszmegisztosz; a hermetikából az alkímia és Bardon iskolája; a „minden Elme” elvből a modern tanítók — Bashar frekvencia-nyelve és Ryokah jel-mágiája. **Thot a családfa törzse.**\n\n**És a mágia mint pontos tudomány.** Thot számára a mágia nem hangulat: **mérték, jel, szó és szándék pontos illesztése**. Ezt láttad Ryokah strukturált varázslat-műhelyében, Bardon fokozataiban, a dekrétumok ritmusában. Az írnok-isten öröksége az igényesség: *a mágus annyira erős, amennyire pontos.*\n\n**A te templomod.** Ez az app — a napló, a Tükör, a jelek, az utak — egy Thot-templom a zsebedben. Minden bejegyzésed az írnok műve. Végezd úgy — pontosan, igazul, Maat szerint —, és a gyűjtemény, amit építesz, egy nap valakinek olyan lesz, mint neked Ptahhotep szava: **apai hang a messzeségből.**",
+        "en": "If you spread out the map of your library, Thoth stands at every crossroads.\n\n**The Egyptian triad:**\n\n— **Ptah** speaks — the heart's thought and the tongue's word create.\n— **Thoth** records — the sign makes creation enduring and bears witness to it.\n— **Osiris** renews — what was recorded and ripened may die and rise again.\n\nThis is the full creative circle: **word → writing → transformation** — and each of your three modules is one of its arcs.\n\n**The great lineage:** from the Thoth–Hermes identification was born Hermes Trismegistus; from Hermetism, alchemy and Bardon's school; from the 'All is Mind' principle, the modern teachers — Bashar's frequency tongue and Ryokah's sign-magic. **Thoth is the trunk of the family tree.**\n\n**And magic as precise science.** For Thoth magic is no mood: it is the **exact fitting of measure, sign, word and intent**. You saw this in Ryokah's structured spell workshop, in Bardon's grades, in the rhythm of the decrees. The scribe-god's legacy is exactingness: *the magician is as strong as he is precise.*\n\n**Your temple.** This app — the diary, the Mirror, the signs, the paths — is a temple of Thoth in your pocket. Every entry of yours is the scribe's work. Do it so — precisely, truly, by Maat — and the collection you build may one day be to someone what Ptahhotep's word is to you: **a father's voice from far away.**"
+      }
+    },
+    {
+      "id": "thoth-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "Az írnok jellemvonásai", "en": "The Scribe's character traits" },
+      "aspektusPack": [
+        { "key": "th-asp-judgingwitness", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Ítélkező tanúság", "en": "The judging witness" } },
+        { "key": "th-asp-carelessword", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "Gondatlan szó", "en": "The careless word" } },
+        { "key": "th-asp-unrecorded", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "Feljegyzetlen élet", "en": "The unrecorded life" } },
+        { "key": "th-asp-losttime", "elem": "ido", "tukor": "fekete",
+          "nevek": { "hu": "Az idő mértékének vesztése", "en": "Losing time's measure" } },
+        { "key": "th-asp-scribe", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "A semleges írnok", "en": "The neutral scribe" } },
+        { "key": "th-asp-healedeye", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Gyógyult látás", "en": "The healed eye" } },
+        { "key": "th-asp-fidelity", "elem": "fold", "tukor": "feher",
+          "nevek": { "hu": "A feljegyzés hűsége", "en": "Fidelity of the record" } },
+        { "key": "th-asp-measure", "elem": "ido", "tukor": "feher",
+          "nevek": { "hu": "Pontos mérték", "en": "Precise measure" } }
+      ]
+    },
+    {
+      "id": "thoth-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Az írnok naplója", "en": "The Scribe's Journal" },
+      "journalTemplate": {
+        "aspektusKeys": ["th-asp-scribe"],
+        "prompts": {
+          "hu": "FELJEGYZÉS — A nap egy eseménye, az írnok hangján (pontosan, ítélet nélkül): ___\n\nMÉRLEG — Ahol ma egyensúlyban voltam / ahol kibillentem, és a legkisebb visszabillentő mozdulat: ___\n\nJEL — A mai jel-munka (kontemplált vagy saját glifa) és amit mutatott: ___\n\nHOLD — Hol jár a ciklus, és mit kér ez a szakasz: ___",
+          "en": "RECORD — One event of the day, in the scribe's voice (precisely, without judgment): ___\n\nSCALE — Where I was in balance today / where I tipped, and the smallest rebalancing movement: ___\n\nSIGN — Today's sign-work (contemplated or own glyph) and what it showed: ___\n\nMOON — Where the cycle stands, and what this phase asks: ___"
+        }
+      }
+    },
+    {
+      "id": "thoth-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "Az írnok útjának elsajátítása", "en": "Mastery of the Scribe's Way" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "Az írás rítusa a naplózás előtt szokássá vált", "en": "The rite of writing before journaling became habit" } },
+          { "key": "c2", "nevek": { "hu": "Egy ősi jel kontemplálva, a tapasztalat feljegyezve", "en": "One ancient sign contemplated, the experience recorded" } },
+          { "key": "c3", "nevek": { "hu": "Saját glifa megalkotva, feltöltve és cédulaként használva (🎫)", "en": "Own glyph created, charged and used as a slip (🎫)" } },
+          { "key": "c4", "nevek": { "hu": "Maat-egyensúly meditáció napközbeni gyakorlatként", "en": "Maat balance meditation as a daytime practice" } },
+          { "key": "c5", "nevek": { "hu": "A semleges tanú tartása egy nehéz helyzetben megélve", "en": "The neutral witness stance lived through one difficult situation" } },
+          { "key": "c6", "nevek": { "hu": "Telihold-visszaolvasás: a napló egy hónapja újraolvasva", "en": "Full-moon read-back: one month of the diary re-read" } },
+          { "key": "c7", "nevek": { "hu": "A szem-helyreállítás gyakorlat szétszórtság idején alkalmazva", "en": "The eye-restoring practice applied in a scattered moment" } }
+        ]
+      }
+    },
+    {
+      "id": "thoth-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Önellenőrzés", "en": "Self-Check" },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Mi Thot szerepe a szív mérlegelésénél?", "en": "What is Thoth's role at the weighing of the heart?" },
+            "options": {
+              "hu": ["Ő ítéli meg a lelket", "Ő vezeti be a lelket a csarnokba", "Pontosan feljegyzi az eredményt — a semleges tanú", "Ő tartja a mérleget"],
+              "en": ["He judges the soul", "He leads the soul into the hall", "He precisely records the result — the neutral witness", "He holds the scale"]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Mit jelent a hieroglifák egyiptomi neve?", "en": "What does the Egyptian name of the hieroglyphs mean?" },
+            "options": {
+              "hu": ["Szent képek", "Az istenek szavai", "A fáraó jelei", "A kövek beszéde"],
+              "en": ["Sacred images", "The gods' words", "The Pharaoh's signs", "The speech of stones"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Mi lett Thotból a görög-római világban?", "en": "What became of Thoth in the Greco-Roman world?" },
+            "options": {
+              "hu": ["Elfelejtették", "Zeusszal azonosították", "Hermésszel azonosították — így született Hermész Triszmegisztosz és a hermetikus hagyomány", "Csak a csillagászok tisztelték"],
+              "en": ["He was forgotten", "He was identified with Zeus", "He was identified with Hermes — thus were born Hermes Trismegistus and the hermetic tradition", "Only astronomers honoured him"]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "thoth-md-source",
+      "kind": "markdown",
+      "nevek": { "hu": "Forrás és nyilatkozat", "en": "Source & Disclaimer" },
+      "text": {
+        "hu": "*Tanulási segédlet az ókori egyiptomi hagyomány forrásai nyomán: a Halottak Könyve és a templomi szövegek Thot-alakja, a hermopoliszi hagyomány, valamint a Thot–Hermész azonosításból született hermetikus vonal. A megfogalmazások saját, modern átültetések. Tudományos elmélyüléshez: Patrick Boylan „Thoth, the Hermes of Egypt”, Jan Assmann munkái, és a Hermész-modul forrásai.*\n\n*Őszinte keret: Thotnak nincs modern csatornázott tanítóvonala. A „Thot, az atlantiszi smaragdtáblái” (M. Doreal, 1930-as évek) modern ezoterikus mű, nem ősi forrás — ha olvasod, saját megkülönböztetéseddel mérlegeld. Ez nem orvosi és nem pszichológiai tanács; ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A mesterség a cél, nem a sebesség.*",
+        "en": "*Study aid after the sources of the ancient Egyptian tradition: the figure of Thoth in the Book of the Dead and the temple texts, the Hermopolitan tradition, and the hermetic line born of the Thoth–Hermes identification. The renderings are our own modern transpositions. For scholarly depth: Patrick Boylan, 'Thoth, the Hermes of Egypt'; the works of Jan Assmann; and the sources of the Hermes module.*\n\n*Honest frame: Thoth has no modern channeled teaching line. 'The Emerald Tablets of Thoth the Atlantean' (M. Doreal, 1930s) is a modern esoteric work, not an ancient source — if you read it, weigh it with your own discernment. This is not medical or psychological advice; if you experience distress, consult a professional. Mastery, not speed, is the goal.*"
+      }
+    }
+  ]
+}
