@@ -24,4 +24,19 @@ Install: copy a module's **raw** link below and paste it in the app
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
+## Practice packs (Gyakorlat-tár)
+
+Downloadable packs of example practices for the in-app Practice Library
+(Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
+Installed packs **add to** the app's built-in seed practices.
+
+| Pack | Raw link |
+|---|---|
+| Core practice pack (15 practices) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/core.json` |
+
+Pack format: `{ formatVersion, id, nevek{hu,en}, gyakorlatok:[…] }`, where each practice has
+`id, mester, szint (kezdo|halado|mester), sik (szellem|lelek|test|null),
+elem (Tuz|Levego|Viz|Fold|Eter|Ido|"Materia Prima"|null), cim{hu,en}, cel{hu,en},
+modszer[{hu,en}…], keret{hu,en}, etika{hu,en}?`.
+
 All content is original paraphrase (HU+EN) with source citations and disclaimers inside each module.

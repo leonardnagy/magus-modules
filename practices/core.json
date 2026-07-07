@@ -1,0 +1,364 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-core",
+  "nevek": {
+    "hu": "Alap gyakorlat-csomag",
+    "en": "Core practice pack"
+  },
+  "gyakorlatok": [
+    {
+      "id": "core-porlegzes",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "test",
+      "elem": null,
+      "cim": { "hu": "Pórus-légzés (életerő a bőrön át)", "en": "Pore breathing (vital energy through the skin)" },
+      "cel": {
+        "hu": "Az egész testtel lélegezni: belégzésre az életerőt a bőr minden pórusán át beszívni, kilégzésre a fáradtságot elengedni — a testi vitalitás bardoni alapgyakorlata.",
+        "en": "Breathing with the whole body: on the in-breath drawing vital energy in through every pore of the skin, on the out-breath releasing fatigue — Bardon's foundational practice for bodily vitality."
+      },
+      "modszer": [
+        { "hu": "Feküdj vagy ülj ellazultan, és néhány percig figyeld a természetes légzésed.", "en": "Lie or sit relaxed, and for a few minutes watch your natural breath." },
+        { "hu": "Belégzésnél képzeld, hogy nemcsak az orrodon, hanem az egész bőrfelületeden át szívod be az életerőt, mint egy szivacs.", "en": "On the in-breath imagine you draw vital energy in not only through the nose but through your whole skin, like a sponge." },
+        { "hu": "Kilégzésnél engedd el a fáradtságot és a feszültséget, ahogy elhagyja a testet.", "en": "On the out-breath release fatigue and tension as it leaves the body." },
+        { "hu": "Tartsd 5–10 percig, majd jegyezd fel, mennyire érezted felfrissülve magad.", "en": "Keep it for 5–10 minutes, then note how refreshed you felt." }
+      ],
+      "keret": {
+        "hu": "Nyugodt, ellazító légzőgyakorlat; a felfrissülés az elmélyült pihenésből és a tudatos légzésből is fakad.",
+        "en": "A calm, relaxing breathing exercise; the refreshment also comes from deep rest and conscious breathing."
+      },
+      "etika": {
+        "hu": "Légzőgyakorlat, nem orvosi kezelés. Ha légzési vagy keringési panaszod van, előbb kérdezd meg az orvosod.",
+        "en": "A breathing exercise, not a medical treatment. If you have breathing or circulatory issues, ask your doctor first."
+      }
+    },
+    {
+      "id": "core-tudatossag",
+      "mester": "Franz Bardon",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": null,
+      "cim": { "hu": "Éber jelenlét a nap folyamán", "en": "Waking presence through the day" },
+      "cel": {
+        "hu": "A megfigyelő tudatot kiterjeszteni a hétköznapokra: napközben újra és újra visszatérni a jelen pillanatba, észrevenni mit teszel, érzel, gondolsz — ítélet nélkül.",
+        "en": "Extending the observing awareness into daily life: through the day returning again and again to the present moment, noticing what you do, feel, think — without judgment."
+      },
+      "modszer": [
+        { "hu": "Válassz néhány mindennapi horgonyt (ajtón átlépés, telefon felvétele), amelyeknél megállsz egy pillanatra.", "en": "Choose a few everyday anchors (stepping through a door, picking up the phone) at which you pause for a moment." },
+        { "hu": "Ezeknél kérdezd meg: most hol jár a figyelmem? Mit érzek a testemben?", "en": "At these, ask: where is my attention now? What do I feel in my body?" },
+        { "hu": "Egyszerűen vedd észre — ne javítsd, ne ítéld el.", "en": "Simply notice — do not fix or judge it." },
+        { "hu": "Este jegyezd fel, hányszor sikerült visszatérned a jelenbe.", "en": "In the evening note how many times you managed to return to the present." }
+      ],
+      "keret": {
+        "hu": "Bevált jelenlét- és figyelem-edzés; a mindennapi éberség alapja.",
+        "en": "Well-established presence and attention training; the base of everyday alertness."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-koncentracio-egy",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": null,
+      "cim": { "hu": "Egypontú koncentráció (II. lépés)", "en": "One-pointed concentration (Step II)" },
+      "cel": {
+        "hu": "A figyelmet egyetlen egyszerű tárgyra összpontosítani, és ott tartani — a mentális erő és a későbbi mágikus munka alapfeltétele.",
+        "en": "Focusing attention on a single simple object and holding it there — the precondition of mental strength and all later magical work."
+      },
+      "modszer": [
+        { "hu": "Válassz egy egyszerű tárgyat (ceruza, gyertyaláng) vagy egy egyszerű képet a képzeletedben.", "en": "Choose a simple object (a pencil, a candle flame) or a simple image in your imagination." },
+        { "hu": "Tartsd rajta a figyelmed, minden mást engedj el; ha elkalandozol, szelíden térj vissza.", "en": "Keep your attention on it, let everything else go; if you drift, gently return." },
+        { "hu": "Kezdd 3–5 perccel, és lassan növeld az időt.", "en": "Start with 3–5 minutes and increase the time slowly." },
+        { "hu": "Jegyezd fel, meddig maradt tiszta a fókusz.", "en": "Note how long the focus stayed clear." }
+      ],
+      "keret": {
+        "hu": "Klasszikus, bevált koncentráció-edzés — semmi rendkívüli állítás.",
+        "en": "Classic, well-established concentration training — no extraordinary claim."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-uresseg",
+      "mester": "Franz Bardon",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": null,
+      "cim": { "hu": "A gondolatok elcsendesítése (üresség)", "en": "Quieting the thoughts (the void)" },
+      "cel": {
+        "hu": "Rövid időre teljesen elengedni a gondolatokat: belső csend, amelyben az elme megpihen és kitisztul.",
+        "en": "Letting go of thoughts completely for a short while: an inner silence in which the mind rests and clears."
+      },
+      "modszer": [
+        { "hu": "Előbb néhány percig figyeld a gondolataidat (mint az I. lépésben).", "en": "First watch your thoughts for a few minutes (as in Step I)." },
+        { "hu": "Aztán finoman engedd el őket — ne kergesd el erővel, csak ne kapaszkodj beléjük.", "en": "Then gently let them go — do not chase them away by force, just do not cling to them." },
+        { "hu": "Ha jön egy gondolat, hagyd tovaúszni, és térj vissza a csendbe.", "en": "If a thought comes, let it float on, and return to the silence." },
+        { "hu": "Kezdd pár másodperccel; a tartósság idővel jön.", "en": "Start with a few seconds; duration comes with time." }
+      ],
+      "keret": {
+        "hu": "Elmélyült ellazulás- és figyelemgyakorlat; a belső csend edzése. Türelmet kíván.",
+        "en": "A deep relaxation and attention exercise; training inner silence. It asks for patience."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-tuz-erzes",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Tuz",
+      "cim": { "hu": "A Tűz elem érzése", "en": "Feeling the Fire element" },
+      "cel": {
+        "hu": "Tudatosan felidézni a Tűz minőségét — meleg, tágulás, lendület —, hogy megismerd és uraljad az érzést, ahelyett hogy az uralkodna rajtad.",
+        "en": "Consciously evoking the quality of Fire — warmth, expansion, drive — so you know and master the feeling instead of it mastering you."
+      },
+      "modszer": [
+        { "hu": "Ülj csendben, és idézd fel egy meleg, tágulós érzés emlékét (napfény a bőrön, lendület).", "en": "Sit quietly and recall the memory of a warm, expanding feeling (sunlight on the skin, momentum)." },
+        { "hu": "Hagyd, hogy a meleg érzése betöltse a tested; a minőségét érezd, ne a hőmérsékletét.", "en": "Let the sense of warmth fill your body; feel its quality, not its temperature." },
+        { "hu": "Néhány perc után tudatosan oldd fel az érzést, és térj vissza a semlegeshez.", "en": "After a few minutes consciously dissolve the feeling and return to neutral." },
+        { "hu": "Jegyezd fel, mennyire tudtad felidézni és elengedni.", "en": "Note how well you could evoke and release it." }
+      ],
+      "keret": {
+        "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
+        "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-viz-erzes",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Viz",
+      "cim": { "hu": "A Víz elem érzése", "en": "Feeling the Water element" },
+      "cel": {
+        "hu": "Felidézni a Víz minőségét — hűvös, összehúzó, elengedő nyugalom —, és megtanulni tudatosan kezelni.",
+        "en": "Evoking the quality of Water — cool, contracting, yielding calm — and learning to handle it consciously."
+      },
+      "modszer": [
+        { "hu": "Idézd fel egy hűvös, megnyugtató érzés emlékét (hűs víz, csendes eső).", "en": "Recall a cool, soothing feeling (cool water, quiet rain)." },
+        { "hu": "Hagyd, hogy a hűvös nyugalom végigfusson rajtad, oldva a feszültséget.", "en": "Let the cool calm run through you, dissolving tension." },
+        { "hu": "Néhány perc után oldd fel az érzést, vissza a semlegeshez.", "en": "After a few minutes dissolve the feeling, back to neutral." },
+        { "hu": "Jegyezd fel a tapasztalatot.", "en": "Note the experience." }
+      ],
+      "keret": {
+        "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
+        "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-levego-erzes",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Levego",
+      "cim": { "hu": "A Levegő elem érzése", "en": "Feeling the Air element" },
+      "cel": {
+        "hu": "Felidézni a Levegő minőségét — könnyedség, lebegés, derű —, és tudatosan kezelni.",
+        "en": "Evoking the quality of Air — lightness, buoyancy, cheerfulness — and handling it consciously."
+      },
+      "modszer": [
+        { "hu": "Idézd fel egy könnyed, lebegő érzés emlékét (lágy szellő, súlytalanság).", "en": "Recall a light, floating feeling (a soft breeze, weightlessness)." },
+        { "hu": "Hagyd, hogy a könnyedség betöltsön, oldva a nehézséget.", "en": "Let the lightness fill you, dissolving heaviness." },
+        { "hu": "Néhány perc után oldd fel az érzést, vissza a semlegeshez.", "en": "After a few minutes dissolve the feeling, back to neutral." },
+        { "hu": "Jegyezd fel a tapasztalatot.", "en": "Note the experience." }
+      ],
+      "keret": {
+        "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
+        "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-fold-erzes",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": { "hu": "A Föld elem érzése", "en": "Feeling the Earth element" },
+      "cel": {
+        "hu": "Felidézni a Föld minőségét — súly, szilárdság, nyugodt kitartás —, és tudatosan kezelni.",
+        "en": "Evoking the quality of Earth — weight, solidity, steady endurance — and handling it consciously."
+      },
+      "modszer": [
+        { "hu": "Idézd fel egy súlyos, földelt érzés emlékét (szilárdan állsz, egy nehéz kő).", "en": "Recall a heavy, grounded feeling (standing firm, a heavy stone)." },
+        { "hu": "Hagyd, hogy a szilárdság és nyugalom betöltsön.", "en": "Let the solidity and calm fill you." },
+        { "hu": "Néhány perc után oldd fel az érzést, vissza a semlegeshez.", "en": "After a few minutes dissolve the feeling, back to neutral." },
+        { "hu": "Jegyezd fel a tapasztalatot.", "en": "Note the experience." }
+      ],
+      "keret": {
+        "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
+        "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-tukor-osszeallitas",
+      "mester": "Franz Bardon",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": null,
+      "cim": { "hu": "A lélektükör összeállítása", "en": "Compiling the soul mirror" },
+      "cel": {
+        "hu": "Őszintén számba venni a jellemvonásaidat, és elemenként rendezni őket a fekete (leküzdendő) és a fehér (kimunkálandó) tükörbe — az önismeret és a belső munka térképe.",
+        "en": "Honestly taking stock of your character traits and sorting them by element into the black (to overcome) and white (to cultivate) mirror — the map of self-knowledge and inner work."
+      },
+      "modszer": [
+        { "hu": "Néhány napon át figyeld magad a hétköznapokban, és jegyezd fel a visszatérő reakcióidat.", "en": "Over a few days watch yourself in daily life and note your recurring reactions." },
+        { "hu": "Rendezd a hibákat a négy elemhez (Tűz: harag, türelmetlenség; Víz: túlérzékenység, csüggedés; Levegő: nyugtalanság, felszínesség; Föld: restség, nehézkesség).", "en": "Sort the faults by the four elements (Fire: anger, impatience; Water: over-sensitivity, dejection; Air: restlessness, superficiality; Earth: sloth, heaviness)." },
+        { "hu": "Ugyanígy rendezd az erényeidet a fehér tükörbe.", "en": "Sort your virtues into the white mirror the same way." },
+        { "hu": "A legerősebb fekete csoporttal kezdd majd a munkát.", "en": "Begin the work with the strongest black group." }
+      ],
+      "keret": {
+        "hu": "Bardoni önismereti gyakorlat; a cél nem az önostorozás, hanem a tiszta látás és a tudatos fejlődés.",
+        "en": "A Bardon self-knowledge exercise; the aim is not self-flagellation but clear seeing and conscious growth."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-fekete-oldas",
+      "mester": "Franz Bardon",
+      "szint": "mester",
+      "sik": "lelek",
+      "elem": null,
+      "cim": { "hu": "Egy fekete vonás oldása (sűrítés/oldás)", "en": "Dissolving a black-mirror trait (condense/dissolve)" },
+      "cel": {
+        "hu": "Egyetlen negatív reakciót tudatosan kezelni: amikor feltámad, felismerni, oldani a felesleget, és helyette a megfelelő erényt sűríteni — hogy az érzés ne reflexből uralkodjon rajtad.",
+        "en": "Consciously handling a single negative reaction: when it rises, recognizing it, dissolving the excess, and condensing the matching virtue instead — so the feeling does not rule you as a reflex."
+      },
+      "modszer": [
+        { "hu": "Válassz egy vonást a fekete tükörből (pl. hirtelen harag).", "en": "Choose one trait from the black mirror (e.g. sudden anger)." },
+        { "hu": "Amikor a nap folyamán feltámad, állj meg egy lélegzetvételre, és nevezd meg: ez a Tűz feszülése bennem.", "en": "When it rises during the day, pause for one breath and name it: this is the tension of Fire in me." },
+        { "hu": "Kilégzésre engedd el, oldd a felesleget; belégzésre sűrítsd a nyugodt erőt (az ellenerényt).", "en": "On the out-breath release, dissolve the excess; on the in-breath condense the calm strength (the counter-virtue)." },
+        { "hu": "Este jegyezd fel, hányszor kaptad el reflex előtt — és nézd a trendet: idővel apadjon.", "en": "In the evening note how many times you caught it before the reflex — and watch the trend: over time it should diminish." }
+      ],
+      "keret": {
+        "hu": "Ez a Magus Napló lényege: nem elfojtás, hanem tudatos önuralom, amivel a fekete tükör idővel apad. Türelmet és állhatatosságot kíván.",
+        "en": "This is the essence of Magus Napló: not suppression but conscious self-mastery, by which the black mirror diminishes over time. It asks for patience and steadiness."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-hermesz-fenyoszlop",
+      "mester": "Hermész Triszmegisztosz",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": null,
+      "cim": { "hu": "Fényoszlop — ahogy fent, úgy lent", "en": "Pillar of light — as above, so below" },
+      "cel": {
+        "hu": "A hermészi megfelelés-elv átélése: egy képzelt fényoszloppal összekötni a fentit és a lentit, a fejtetőtől a talajig, és érezni az egységet.",
+        "en": "Experiencing the Hermetic principle of correspondence: with an imagined pillar of light connecting above and below, from the crown to the ground, and feeling the unity."
+      },
+      "modszer": [
+        { "hu": "Állj vagy ülj egyenesen, és néhány lélegzettel csendesedj el.", "en": "Stand or sit upright and settle with a few breaths." },
+        { "hu": "Képzelj egy tiszta fényoszlopot, amely fentről a fejtetődön át leszáll a talpadig, és a földbe gyökerezik.", "en": "Imagine a clear pillar of light descending from above through the crown to the soles and rooting into the ground." },
+        { "hu": "Érezd, ahogy a fent és a lent egyetlen tengelyen összeér benned.", "en": "Feel above and below meeting in you on a single axis." },
+        { "hu": "Néhány perc után engedd elhalványulni, és jegyezd fel az élményt.", "en": "After a few minutes let it fade and note the experience." }
+      ],
+      "keret": {
+        "hu": "A hermészi hagyomány szimbolikus gyakorlata; a megfelelés-elvet a tradíció saját tanításaként éljük át, belső gyümölcsei szerint mérve.",
+        "en": "A symbolic practice of the Hermetic tradition; we experience the principle of correspondence as the tradition's own teaching, measured by its inner fruits."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-ozirisz-merleg",
+      "mester": "Ozirisz",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": null,
+      "cim": { "hu": "Esti mérleg — a nap megmérése", "en": "Evening scale — weighing the day" },
+      "cel": {
+        "hu": "A nap végén őszintén mérlegre tenni a tetteidet, a Maat egyensúly-elve szerint: mi vitt közelebb az igazsághoz, mi távolított el — ítélet helyett tiszta látással.",
+        "en": "At the day's end honestly weighing your deeds by Maat's principle of balance: what brought you closer to truth, what pulled you away — with clear seeing rather than judgment."
+      },
+      "modszer": [
+        { "hu": "Ülj le este pár percre, és menj végig a napodon.", "en": "Sit down in the evening for a few minutes and go through your day." },
+        { "hu": "Kérdezd: hol cselekedtem egyenességgel? Hol tértem el, és miért?", "en": "Ask: where did I act with integrity? Where did I stray, and why?" },
+        { "hu": "Ne ostorozd magad — csak lásd tisztán, és tűzz ki egy apró javítást holnapra.", "en": "Do not flog yourself — just see clearly, and set one small correction for tomorrow." },
+        { "hu": "Jegyezd fel a mérleg egy sorát.", "en": "Note one line of the scale." }
+      ],
+      "keret": {
+        "hu": "Az egyiptomi hagyomány Maat-szimbolikáján nyugvó önvizsgálat; a mérleg belső kép, az őszinte önreflexió eszköze.",
+        "en": "A self-examination resting on the Maat symbolism of the Egyptian tradition; the scale is an inner image, a tool of honest self-reflection."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-ptah-sziv-nyelv",
+      "mester": "Ptah",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": null,
+      "cim": { "hu": "A szív és a nyelv — a tudatos szó", "en": "Heart and tongue — the conscious word" },
+      "cel": {
+        "hu": "A ptahi teremtés-kép szerint: előbb a szívben (szándék) megformálni, amit igazán akarsz, majd tiszta szóval kimondani — hogy a beszéded összhangban legyen a bensőddel.",
+        "en": "By the Ptah creation image: first forming in the heart (intention) what you truly want, then speaking it with a clear word — so your speech aligns with your inner being."
+      },
+      "modszer": [
+        { "hu": "Válassz egy szándékot, amit ma tisztán meg akarsz élni (pl. türelem).", "en": "Choose one intention you want to live clearly today (e.g. patience)." },
+        { "hu": "Formáld meg csendben a szívedben, érezd a súlyát.", "en": "Form it silently in your heart, feel its weight." },
+        { "hu": "Mondd ki egyszer, tiszta, egyszerű szóval, jelen időben.", "en": "Say it once, in a clear, simple word, in the present tense." },
+        { "hu": "Napközben figyeld, mennyire fedi a szavad a szándékod.", "en": "Through the day notice how well your words match your intention." }
+      ],
+      "keret": {
+        "hu": "Az egyiptomi teremtés-mítosz szív-és-nyelv képére épülő szándék-gyakorlat; a hangsúly a belső őszinteség és a beszéd összhangján van.",
+        "en": "An intention practice built on the heart-and-tongue image of the Egyptian creation myth; the emphasis is on the harmony of inner honesty and speech."
+      },
+      "etika": null
+    },
+    {
+      "id": "core-kashpirovsky-ellazulas",
+      "mester": "Anatolij Kashpirovsky",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": null,
+      "cim": { "hu": "Mély ellazulás (elengedés)", "en": "Deep relaxation (letting go)" },
+      "cel": {
+        "hu": "A test fokozatos, tudatos ellazítása fejtől lábig, hogy a felgyülemlett feszültség oldódjon és a figyelem elcsendesedjen.",
+        "en": "Gradually, consciously relaxing the body from head to toe, so accumulated tension dissolves and attention quiets."
+      },
+      "modszer": [
+        { "hu": "Feküdj kényelmesen, és vegyél néhány lassú lélegzetet.", "en": "Lie comfortably and take a few slow breaths." },
+        { "hu": "Menj végig a testeden fejtől lábig, és minden kilégzésre engedd el az adott terület feszültségét.", "en": "Move through your body head to toe, releasing the tension of each area on each out-breath." },
+        { "hu": "Maradj a nehéz, meleg, ellazult érzésben néhány percig.", "en": "Stay in the heavy, warm, relaxed feeling for a few minutes." },
+        { "hu": "Lassan térj vissza, és jegyezd fel, mennyire pihentél meg.", "en": "Return slowly and note how much you rested." }
+      ],
+      "keret": {
+        "hu": "Egyszerű, világszerte ismert ellazító gyakorlat (a progresszív és az autogén relaxáció rokona). A jó közérzet a pihenésből fakad.",
+        "en": "A simple, widely known relaxation exercise (a relative of progressive and autogenic relaxation). The good feeling comes from rest."
+      },
+      "etika": {
+        "hu": "Ez ellazítás, NEM orvosi kezelés és NEM gyógymód. Betegség esetén fordulj orvoshoz; ez a gyakorlat nem helyettesíti a szakszerű ellátást.",
+        "en": "This is relaxation, NOT a medical treatment and NOT a cure. For illness see a doctor; this practice does not replace professional care."
+      }
+    },
+    {
+      "id": "core-ignatenko-formula",
+      "mester": "Grigorij Ignatenko",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": null,
+      "cim": { "hu": "Önhangoló formula (pozitív jelen idő)", "en": "Self-attunement formula (positive present tense)" },
+      "cel": {
+        "hu": "Egy rövid, pozitív, jelen idejű mondattal ráhangolni magad egy kívánt belső minőségre (pl. nyugalom, összeszedettség), és nyugodt figyelemmel megismételni.",
+        "en": "Attuning yourself with a short, positive, present-tense sentence to a desired inner quality (e.g. calm, composure), repeated with quiet attention."
+      },
+      "modszer": [
+        { "hu": "Fogalmazz egy rövid, pozitív mondatot jelen időben (pl. nyugodt és éber vagyok).", "en": "Form a short, positive present-tense sentence (e.g. I am calm and alert)." },
+        { "hu": "Ülj ellazultan, és ismételd csendben, nyugodt, elhitt figyelemmel, néhány percig.", "en": "Sit relaxed and repeat it silently, with calm, believing attention, for a few minutes." },
+        { "hu": "Érezd a mondat minőségét a testedben, ne csak a szavakat.", "en": "Feel the quality of the sentence in your body, not just the words." },
+        { "hu": "Jegyezd fel, mit tapasztaltál utána.", "en": "Note what you experienced afterwards." }
+      ],
+      "keret": {
+        "hu": "Önszuggesztiós gyakorlat; a hatás a nyugodt figyelemből és az ismétlés önhangoló erejéből fakad, belső gyümölcsei szerint mérve.",
+        "en": "An auto-suggestion exercise; the effect comes from calm attention and the self-attuning power of repetition, measured by its inner fruits."
+      },
+      "etika": {
+        "hu": "Belső hangolásra való, nem mások befolyásolására és nem orvosi célra. Betegség esetén fordulj orvoshoz; ez a gyakorlat nem helyettesíti a szakszerű ellátást.",
+        "en": "It is for inner attunement, not for influencing others and not for medical purposes. For illness see a doctor; this practice does not replace professional care."
+      }
+    }
+  ]
+}
