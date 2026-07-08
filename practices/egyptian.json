@@ -1,0 +1,592 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-egyptian",
+ "nevek": {
+  "hu": "Egyiptomi mesterek",
+  "en": "Egyptian masters"
+ },
+ "gyakorlatok": [
+  {
+   "id": "egy-seven-principles-week",
+   "mester": "Hermész Triszmegisztosz",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A hét princípium hete",
+    "en": "The Seven-Principle Week"
+   },
+   "cel": {
+    "hu": "Egy héten át naponta egy hermetikus törvényen keresztül figyeled a saját életedet, hogy az elvont tanból megfigyeléssé, végül belső látássá váljon.",
+    "en": "For one week you observe your own life each day through a single hermetic law, so that abstract doctrine becomes observation and finally inner sight."
+   },
+   "modszer": [
+    {
+     "hu": "Minden reggel válassz egyet a hét törvényből (mentalizmus, megfelelés, rezgés, polaritás, ritmus, ok-okozat, nemzőelv), és idézd fel egy mondatban, mit állít.",
+     "en": "Each morning pick one of the seven laws (mentalism, correspondence, vibration, polarity, rhythm, cause and effect, gender) and recall in one sentence what it states."
+    },
+    {
+     "hu": "Aznap ezen az egy szemüvegen át nézd a történéseket: hol látod működni? Ne erőltesd, csak vedd észre a példákat.",
+     "en": "That day view events through this one lens: where do you see it operate? Don't force it, just notice the examples."
+    },
+    {
+     "hu": "Este jegyezz fel egyetlen konkrét helyzetet, amiben a nap törvénye megmutatkozott.",
+     "en": "In the evening record one concrete situation in which the day's law showed itself."
+    },
+    {
+     "hu": "A hetedik este olvasd vissza mind a hét bejegyzést egyben, és keresd a köztük futó mintázatot.",
+     "en": "On the seventh evening read all seven entries back together and look for the pattern running through them."
+    }
+   ],
+   "keret": {
+    "hu": "Ezek megfigyelési keretek, nem bizonyított természeti törvények: a hagyomány kínálta nézőpontok, amelyek értékét az adja, mennyivel tisztábban látod tőlük a saját életed.",
+    "en": "These are observational frames, not proven laws of nature: viewpoints the tradition offers, whose worth lies in how much more clearly they let you see your own life."
+   }
+  },
+  {
+   "id": "egy-emerald-solve-coagula",
+   "mester": "Hermész Triszmegisztosz",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Oldás és kötés egy élményen",
+    "en": "Dissolving and Binding on One Experience"
+   },
+   "cel": {
+    "hu": "A Smaragdtábla \"válaszd el a finomat a durvától\" sorát alkalmazod: egyetlen nehéz napi élményből leválasztod a lényeget a salakról, majd a tanulságot visszahozod a hétköznapjaidba.",
+    "en": "You apply the Emerald Tablet's line 'separate the subtle from the gross': from one difficult experience of the day you separate the essence from the dross, then bring the lesson back into ordinary life."
+   },
+   "modszer": [
+    {
+     "hu": "Idézz fel egy mai nehéz vagy zavaros élményt, és éld át még egyszer, tárgyilagosan.",
+     "en": "Recall one difficult or confusing experience from today and relive it once more, matter-of-factly."
+    },
+    {
+     "hu": "Oldás: kérdezd, mi ebben a puszta reakció, önvédelem vagy régi minta (a salak), és mi az egyetlen igaz mag alatta (a lényeg).",
+     "en": "Dissolving: ask what in it is mere reaction, self-defence or an old pattern (the dross), and what is the single true core beneath (the essence)."
+    },
+    {
+     "hu": "Fogalmazd meg a lényeget egyetlen tiszta mondatban.",
+     "en": "Phrase the essence in one clean sentence."
+    },
+    {
+     "hu": "Kötés: nevezz meg egy apró, kézzelfogható lépést, amivel ezt a tanulságot holnap már a gyakorlatba viszed.",
+     "en": "Binding: name one small, tangible step by which you carry this lesson into practice tomorrow."
+    }
+   ],
+   "keret": {
+    "hu": "Belső desztilláció ez, jelképes alkímia a saját tapasztalatodon: hatását abban méred, tisztább lesz-e tőle a látásod és a döntésed, nem külső csodában.",
+    "en": "This is inner distillation, symbolic alchemy on your own experience: measure it by whether your seeing and your choices grow clearer, not by any outward marvel."
+   }
+  },
+  {
+   "id": "egy-poimandres-ascent",
+   "mester": "Hermész Triszmegisztosz",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Belső felemelkedés a rétegeken át",
+    "en": "Inner Ascent Through the Layers"
+   },
+   "cel": {
+    "hu": "A Poimandrész-látomás nyomán kontemplatív utazást teszel a tudatod rétegein fölfelé egy belső csendpontig, majd gondosan visszatérsz, minden réteget megvilágosítva. Mindvégig a saját éber tudatodban maradsz.",
+    "en": "Following the Poimandres vision you take a contemplative journey upward through the layers of your awareness to an inner point of stillness, then return carefully, illumining each layer. You stay within your own waking consciousness throughout."
+   },
+   "modszer": [
+    {
+     "hu": "Nyugodt, biztonságos helyzetben ülj le; mondd ki a szándékot, hogy épségben és gazdagabban térsz vissza.",
+     "en": "Sit in a calm, safe setting; speak the intent that you will return whole and enriched."
+    },
+    {
+     "hu": "Emelkedj rétegről rétegre: tudatosítsd, majd engedd hátra a testérzeteidet, aztán a mai érzelmeidet, aztán a gondolataid zaját.",
+     "en": "Rise layer by layer: become aware of, then set behind you your bodily sensations, then today's emotions, then the noise of your thoughts."
+    },
+    {
+     "hu": "A csendben időzz egy belső fénypontnál, mint a nyugalom forrásánál, ameddig jólesik.",
+     "en": "In the stillness dwell at an inner point of light, as at a source of calm, for as long as it feels good."
+    },
+    {
+     "hu": "Ereszkedj vissza ugyanazon az úton, és minden rétegbe hozz valamit a nyugalomból: világosságot a gondolataidba, békét az érzelmeidbe, erőt a testedbe.",
+     "en": "Descend the same way, bringing something of the calm into each layer: clarity into your thoughts, peace into your emotions, strength into your body."
+    },
+    {
+     "hu": "Nyisd ki a szemed, mozdulj meg, és azonnal jegyezd le, amit tapasztaltál.",
+     "en": "Open your eyes, move, and record at once what you experienced."
+    }
+   ],
+   "keret": {
+    "hu": "Ez kontemplatív vizualizáció, nem \"testelhagyás\": a hagyomány gnózisnak nevezi, te pedig belső élményként éled meg, amelynek értékét a visszahozott nyugalom és tisztaság adja. Kimerülten vagy felkavartan ne végezd.",
+    "en": "This is contemplative visualization, not 'leaving the body': the tradition calls it gnosis, and you meet it as an inner experience whose worth is the calm and clarity you bring back. Do not do it when exhausted or upset."
+   },
+   "etika": {
+    "hu": "Nem orvosi és nem pszichológiai módszer; ha lelki nehézséget vagy friss gyászt hordozol, haladj lassan, és szükség esetén fordulj szakemberhez.",
+    "en": "Not a medical or psychological method; if you carry distress or fresh grief, go slowly, and consult a professional if needed."
+   }
+  },
+  {
+   "id": "egy-three-faces-day",
+   "mester": "Ré",
+   "szint": "kezdo",
+   "elem": "Ido",
+   "cim": {
+    "hu": "A Nap három arca a napodban",
+    "en": "The Sun's Three Faces in Your Day"
+   },
+   "cel": {
+    "hu": "A napodat egy teljes életívként éled meg: reggel friss kezdet, délben érett munka, este bölcs lezárás, hogy a napszak arcával együtt válts tempót és ne égj ki.",
+    "en": "You live your day as a whole life-arc: fresh beginning in the morning, mature work at noon, wise closure in the evening, so that you change pace with the face of the hour and do not burn out."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel (Khepri): kezdj tiszta lappal, és nevezd meg a nap egyetlen szándékát.",
+     "en": "Morning (Khepri): begin with a clean page and name the day's single intent."
+    },
+    {
+     "hu": "Délben (Ré): a teljes erő ideje, itt dolgozz és állj helyt, most ne kezdj lezárni.",
+     "en": "Noon (Ra): the hour of full power, work and stand firm here, do not start closing now."
+    },
+    {
+     "hu": "Este (Atum): fejezz be és engedj el, ne akarj még delelni, amikor már alkonyodik.",
+     "en": "Evening (Atum): complete and release, do not try to stand at noon when it is already dusk."
+    },
+    {
+     "hu": "Egy mondatban jegyezd fel, hol csúszott el a napszak és a tempód, hogy holnap jobban illeszkedjenek.",
+     "en": "Note in one sentence where the hour and your pace fell out of step, so tomorrow they fit better."
+    }
+   ],
+   "keret": {
+    "hu": "Egy ősi napszimbolika ritmusgyakorlattá alakítva: a haszna gyakorlati, az energiád és a napod jobb összehangolása, nem misztikus állítás.",
+    "en": "An ancient solar symbolism turned into a rhythm practice: its benefit is practical, better tuning your energy to your day, not a mystical claim."
+   }
+  },
+  {
+   "id": "egy-pharaoh-review",
+   "mester": "Ré",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Királyi szemle a belső királyságban",
+    "en": "Royal Review of the Inner Kingdom"
+   },
+   "cel": {
+    "hu": "Rövid napi szemlét tartasz a saját életed \"királysága\" fölött, ahol a szokásaid a tartományok és a szavaid a rendeleteid, hogy tudatosan alakítsd, ne csak elszenvedd.",
+    "en": "You hold a brief daily review over the 'kingdom' of your own life, where your habits are provinces and your words your decrees, so you shape it consciously rather than merely enduring it."
+   },
+   "modszer": [
+    {
+     "hu": "Délben vagy este ülj le két-három percre, egyenes háttal.",
+     "en": "At noon or evening sit for two or three minutes, back straight."
+    },
+    {
+     "hu": "Ismerd el, hol áll ma rend: mi működik, mi virágzik az életedben.",
+     "en": "Acknowledge where order stands today: what works, what flourishes in your life."
+    },
+    {
+     "hu": "Nevezd meg, hol tört be ma a káosz: a halogatott ügy, a szétdúlt tér, a kimondatlan szó.",
+     "en": "Name where chaos broke in today: the postponed matter, the disordered space, the unspoken word."
+    },
+    {
+     "hu": "Hozz egyetlen konkrét \"rendeletet\" mára: egy ügy lezárva, egy tér rendbe téve vagy egy határ kimondva, szelíden és önostorozás nélkül.",
+     "en": "Issue one concrete 'decree' for today: one matter closed, one space set in order, or one boundary spoken, gently and without self-scourging."
+    }
+   ],
+   "keret": {
+    "hu": "A \"fáraó-tudat\" itt önvezetési metafora, nem hatalmi póz: a belső királyság nem büntetőtábor, a mérce a tisztább rend, nem a több teljesítmény.",
+    "en": "'Pharaoh-consciousness' here is a self-leadership metaphor, not a power pose: the inner kingdom is no penal camp, and the measure is cleaner order, not more output."
+   },
+   "etika": {
+    "hu": "A szemle önmagadról szól, nem mások irányításáról; a \"rendeleteid\" csak a saját életedre vonatkozzanak, mások szabad akaratát tiszteletben tartva.",
+    "en": "The review is about yourself, not controlling others; let your 'decrees' apply only to your own life, honouring others' free will."
+   }
+  },
+  {
+   "id": "egy-ra-osiris-sleep",
+   "mester": "Ré",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Tudatos alászállás elalvás előtt",
+    "en": "Conscious Descent Before Sleep"
+   },
+   "cel": {
+    "hu": "Az elalvást szándékos alámerülésként éled meg a \"saját éjszakádba\", ahol a nappali éned a mélyebb éneddel találkozik, hogy az alvás megújító, tudatos átmenet legyen, ne puszta kikapcsolás.",
+    "en": "You meet falling asleep as a deliberate descent into 'your own night', where your day-self meets your deeper self, so that sleep becomes a renewing, conscious passage rather than a mere switching-off."
+   },
+   "modszer": [
+    {
+     "hu": "Az ágyban röviden vedd számba a napot, és ami befejezetlen, azt bízd az éjszakára ezzel a szándékkal: ezt reggelig leteszem.",
+     "en": "In bed briefly take stock of the day, and what is unfinished entrust to the night with this intent: I set this down until morning."
+    },
+    {
+     "hu": "Képzeld, ahogy a figyelmed lassan alámerül, mint a lenyugvó nap a nyugati láthatáron.",
+     "en": "Imagine your attention slowly sinking, like the setting sun at the western horizon."
+    },
+    {
+     "hu": "Engedd, hogy a nappali éned csendben találkozzon azzal, ami mélyebb és állandóbb benned; nem kell \"csinálni\" semmit, csak megengedni.",
+     "en": "Let your day-self quietly meet what is deeper and steadier in you; nothing must be 'done', only allowed."
+    },
+    {
+     "hu": "Aludj el ebben a képben, a megújulást az éjszakára bízva.",
+     "en": "Fall asleep in this image, entrusting the renewal to the night."
+    },
+    {
+     "hu": "Reggel, ha álmot hoztál, azonnal jegyezd fel, mielőtt elillan.",
+     "en": "In the morning, if you brought a dream, record it at once before it fades."
+    }
+   ],
+   "keret": {
+    "hu": "Ez egy elalvás-rítus és lezárás-gyakorlat a hagyomány éjszakai képére építve: a haszna a nyugodtabb elalvás és a napzárás, semmilyen konkrét eredményt nem ígér.",
+    "en": "This is a going-to-sleep rite and closing practice built on the tradition's night imagery: its benefit is calmer sleep and clean closure, and it promises no specific outcome."
+   },
+   "etika": {
+    "hu": "Ez egy nyugtató elalvás-rítus, nem alvászavar kezelése és nem orvosi módszer; tartós alvásproblémák esetén fordulj orvoshoz, a gyakorlat nem helyettesíti a szakszerű ellátást.",
+    "en": "This is a calming going-to-sleep rite, not a treatment for sleep disorders and not a medical method; for lasting sleep problems consult a doctor, as the practice does not replace professional care."
+   }
+  },
+  {
+   "id": "egy-scribe-writing-rite",
+   "mester": "Thot",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Az írnok rítusa a naplózás előtt",
+    "en": "The Scribe's Rite Before Journaling"
+   },
+   "cel": {
+    "hu": "Egyetlen lélegzetnyi szünettel és belső fogadalommal teszed szertartássá a naplóírást, hogy pontosan és őszintén jegyezz, és tudatosan válaszd meg, mit rögzítesz.",
+    "en": "With a single breath's pause and an inner vow you make journaling into a rite, so you record precisely and honestly, and consciously choose what you set down."
+   },
+   "modszer": [
+    {
+     "hu": "Mielőtt írni kezdesz, vegyél egy lassú lélegzetet, és mondd magadnak: írnokként írok, pontosan és igazul.",
+     "en": "Before you begin writing, take one slow breath and tell yourself: I write as a scribe, precisely and truly."
+    },
+    {
+     "hu": "Írj tárgyilagosan, az \"írnok hangján\": ami történt, ítélkezés és szépítés nélkül.",
+     "en": "Write matter-of-factly, in the 'scribe's voice': what happened, without judgment or embellishment."
+    },
+    {
+     "hu": "Válogass tudatosan: a feljegyzés méltó tárgya az igazság, ne csak a napi panasz gyűljön kőbe.",
+     "en": "Select consciously: the worthy object of the record is truth; don't let only the day's complaints be carved in stone."
+    },
+    {
+     "hu": "A végén emelj ki egyetlen mondatot, amit érdemes megőrizni.",
+     "en": "At the end, single out one sentence worth keeping."
+    }
+   ],
+   "keret": {
+    "hu": "Egyszerű figyelem- és őszinteséggyakorlat a naplóírás köré: a régi kultúra szemében az írás teremtő tett volt, itt a haszna a tisztább önismeret és a fegyelmezett feljegyzés.",
+    "en": "A simple attention-and-honesty practice around journaling: to the old culture writing was a creative act, and here its benefit is clearer self-knowledge and a disciplined record."
+   }
+  },
+  {
+   "id": "egy-neutral-witness",
+   "mester": "Thot",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A semleges tanú tartása",
+    "en": "Holding the Neutral Witness"
+   },
+   "cel": {
+    "hu": "Egy nehéz helyzetben az \"írnok\" tartását gyakorlod, aki nem ostoroz és nem magyaráz, csak tisztán látja és rögzíti, mi van, mert amit tisztán látsz, az már mozdulni tud.",
+    "en": "In a hard situation you practise the 'scribe's' stance, who neither scourges nor explains away but clearly sees and records what is, for what you see clearly can already move."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor egy helyzet felkavar, állj meg egy pillanatra, és vedd észre a két szokásos csapdát: az önostorozó és az önmentegető hangot.",
+     "en": "When a situation stirs you up, pause and notice the two usual traps: the self-scourging and the self-excusing voice."
+    },
+    {
+     "hu": "Válaszd helyettük a harmadik tartást: mondd ki magadnak tárgyilagosan, mi történik, minősítés nélkül.",
+     "en": "Choose instead the third stance: state to yourself matter-of-factly what is happening, without labelling."
+    },
+    {
+     "hu": "Maradj ennél a tiszta látásnál néhány lélegzeten át, mielőtt bármit tennél vagy mondanál.",
+     "en": "Stay with this clear seeing for a few breaths before doing or saying anything."
+    },
+    {
+     "hu": "Utólag jegyezd fel: mit láttál tisztábban, amint abbahagytad az ítélkezést.",
+     "en": "Afterwards note what you saw more clearly once you stopped judging."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a semleges önmegfigyelés gyakorlata, a Bardon-út legelső fegyelmének rokona: a tisztaság nem hideg, hanem kedves, és értékét a nyugodtabb, világosabb reagálásban méred.",
+    "en": "This is the practice of neutral self-observation, kin to the very first discipline of the Bardon path: clarity is not cold but kind, and its worth is measured in calmer, clearer response."
+   }
+  },
+  {
+   "id": "egy-moon-readback",
+   "mester": "Thot",
+   "szint": "halado",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Havi visszaolvasás az írnok szemével",
+    "en": "Monthly Read-Back With the Scribe's Eye"
+   },
+   "cel": {
+    "hu": "Havonta egyszer visszaolvasod a naplód elmúlt ciklusát, hogy meglásd a mintázatot, amely napról napra láthatatlan, de a hónap tükrében kirajzolódik.",
+    "en": "Once a month you re-read the past cycle of your journal to see the pattern invisible day by day but drawn out in the month's mirror."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy visszatérő időpontot, például teliholdkor vagy a hónap egy fix napján.",
+     "en": "Choose a recurring time, for instance at full moon or on a fixed day of the month."
+    },
+    {
+     "hu": "Olvasd végig az elmúlt ciklus bejegyzéseit egyben, nyugodtan, az írnok tárgyilagosságával.",
+     "en": "Read through the past cycle's entries in one sitting, calmly, with the scribe's objectivity."
+    },
+    {
+     "hu": "Keresd a visszatérő szálakat: milyen téma, hangulat vagy minta bukkan fel újra és újra?",
+     "en": "Look for recurring threads: what theme, mood or pattern surfaces again and again?"
+    },
+    {
+     "hu": "Írd le egy-két mondatban, mit mutat a hónap, amit a napokban nem láttál, és mit engednél el a következő ciklusra.",
+     "en": "Write in a sentence or two what the month shows that the days did not, and what you would release for the next cycle."
+    }
+   ],
+   "keret": {
+    "hu": "A napló nemcsak írva, olvasva is tanít: ez reflexiós gyakorlat, amelynek haszna a magadról szerzett tisztább rálátás, nem jóslat vagy előrejelzés.",
+    "en": "The diary teaches not only when written but when read: this is a reflective practice whose benefit is clearer perspective on yourself, not prophecy or prediction."
+   }
+  },
+  {
+   "id": "egy-restore-the-eye",
+   "mester": "Thot",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A szétszórt figyelem összegyűjtése",
+    "en": "Gathering Scattered Attention"
+   },
+   "cel": {
+    "hu": "Amikor a figyelmed száz felé szakadt, rövid gyakorlattal visszahívod a darabjait, és egyetlen dologra irányítod, teljes jelenléttel.",
+    "en": "When your attention has torn a hundred ways, a short practice calls its pieces back and turns it upon a single thing, with full presence."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor észreveszed, hogy szétszórt vagy, ülj le két percre, és hunyd le a szemed.",
+     "en": "When you notice you are scattered, sit for two minutes and close your eyes."
+    },
+    {
+     "hu": "Lélegzetről lélegzetre hívd vissza a figyelmed egy-egy darabját: a képernyőktől, az aggodalmaktól, a félbehagyott gondolatoktól.",
+     "en": "Breath by breath call back one piece of your attention: from the screens, the worries, the half-finished thoughts."
+    },
+    {
+     "hu": "Érezd, ahogy a figyelmed lassan újra egésszé áll össze.",
+     "en": "Feel your attention slowly become whole again."
+    },
+    {
+     "hu": "Nyisd ki a szemed, és nézz egyetlen dologra, teljes jelenléttel, mielőtt továbblépsz.",
+     "en": "Open your eyes and look at one single thing, with full presence, before moving on."
+    }
+   ],
+   "keret": {
+    "hu": "A \"gyógyult szem\" ősi képére épített összpontosítás-gyakorlat: a haszna a visszanyert jelenlét, egyszerű és azonnal ellenőrizhető a saját figyelmeden.",
+    "en": "A focusing practice built on the ancient image of the 'healed eye': its benefit is regained presence, simple and immediately checkable in your own attention."
+   }
+  },
+  {
+   "id": "egy-craftsman-work",
+   "mester": "Ptah",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A mesterember útja egy valódi munkán",
+    "en": "The Craftsman's Way on a Real Work"
+   },
+   "cel": {
+    "hu": "Egy hétköznapi feladatot gyakorlótereppé alakítasz: előbb a szívedben látod a kész művet, jelenléttel dolgozol, tiszteled az anyagot, és a végén lezárod, hogy a munka mesterséggé nemesüljön.",
+    "en": "You turn an everyday task into a practice ground: first seeing the finished work in your heart, working with presence, honouring the material, and closing at the end, so that labour is refined into craft."
+   },
+   "modszer": [
+    {
+     "hu": "Mielőtt hozzákezdesz, lásd és érezd a kész művet: mit fog szolgálni, milyen lesz.",
+     "en": "Before you begin, see and feel the finished work: what it will serve, how it will be."
+    },
+    {
+     "hu": "Adj neki egy nevet vagy egyetlen mondatot, és írd is le.",
+     "en": "Give it a name or a single sentence, and write it down."
+    },
+    {
+     "hu": "Dolgozz jelenléttel: minden mozdulat oda-adott figyelem; a kapkodás helyett a gond legyen a mérce.",
+     "en": "Work with presence: every movement is given attention; let care, not haste, be the measure."
+    },
+    {
+     "hu": "Tiszteld az anyag és a helyzet határait: ha a mű mást kér, mint a terved, hallgasd meg.",
+     "en": "Honour the limits of material and situation: if the work asks for something other than your plan, listen."
+    },
+    {
+     "hu": "Zárd egy egyszerű lezáró mozdulattal és a hála gesztusával a jól végzett munkáért.",
+     "en": "Close with one simple finishing gesture and a gesture of gratitude for work well done."
+    }
+   ],
+   "keret": {
+    "hu": "Jelenlét- és minőséggyakorlat a mindennapi munkában: a \"szent a jól végzett munkában\" itt a törődés és a lezárás megélését jelenti, nem természetfeletti hatást.",
+    "en": "A presence-and-quality practice in everyday work: 'the sacred in work well done' here means living care and closure, not any supernatural effect."
+   }
+  },
+  {
+   "id": "egy-anger-pause",
+   "mester": "Ptah",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "A harag-szünet Ptahhotep nyomán",
+    "en": "The Anger-Pause After Ptahhotep"
+   },
+   "cel": {
+    "hu": "A harag és a kimondott szó közé tudatos szünetet iktatsz, hogy a szíved lecsendesedjen, mielőtt megszólalsz, és ne sebet, hanem igazságot mondj ki.",
+    "en": "You place a conscious pause between anger and the spoken word, so your heart quiets before you speak, and you utter truth rather than a wound."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor harag önt el, ismerd fel a késztetést, hogy azonnal válaszolj, és állj meg egy pillanatra.",
+     "en": "When anger floods you, recognize the urge to answer at once, and pause for a moment."
+    },
+    {
+     "hu": "Vegyél néhány lassú lélegzetet, és várd meg, míg a szíved csendesedik; ha kell, halaszd későbbre a választ.",
+     "en": "Take a few slow breaths and wait until your heart quiets; if needed, postpone the reply."
+    },
+    {
+     "hu": "Amikor lecsillapodtál, kérdezd: mi az igazság, amit valóban ki akarok mondani, a méreg nélkül?",
+     "en": "Once calmer, ask: what is the truth I actually want to say, without the poison?"
+    },
+    {
+     "hu": "Csak ezután szólalj meg, tisztán és igazul; utólag jegyezd fel, mit hozott a szünet.",
+     "en": "Only then speak, clearly and truly; afterwards note what the pause brought."
+    }
+   ],
+   "keret": {
+    "hu": "Négy és fél ezer éves, józan önuralmi tanács: a szünet a bölcs első eszköze, és a haszna azonnal ellenőrizhető a kapcsolataidban.",
+    "en": "A four-and-a-half-thousand-year-old, level-headed counsel of self-mastery: the pause is the wise one's first tool, and its benefit is immediately checkable in your relationships."
+   },
+   "etika": {
+    "hu": "A szünet nem az érzés elfojtása és nem a másik manipulálása: a cél, hogy tiszteld a saját és a másik ember méltóságát, és igazat mondj, ne sebezz.",
+    "en": "The pause is neither suppressing the feeling nor manipulating the other: the aim is to honour your own and the other's dignity, and to speak truth rather than to wound."
+   }
+  },
+  {
+   "id": "egy-daily-maxim",
+   "mester": "Ptah",
+   "szint": "kezdo",
+   "cim": {
+    "hu": "A nap maximája",
+    "en": "The Maxim of the Day"
+   },
+   "cel": {
+    "hu": "Reggel kiválasztasz egy ősi bölcsességet (hallgatás, alázat, igaz beszéd, nyitott kéz, munka, barátság), és a nap kérdéseként hordod, este pedig megnézed, hol szólt hozzád.",
+    "en": "In the morning you pick one ancient piece of wisdom (listening, humility, true speech, the open hand, work, friendship) and carry it as the day's question, then in the evening see where it spoke to you."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel válaszd ki a nyolc maxima egyikét, és idézd fel egy mondatban.",
+     "en": "In the morning choose one of the eight maxims and recall it in a sentence."
+    },
+    {
+     "hu": "A nap folyamán vidd magaddal mint kérdést: hol kér ez tőlem ma valamit?",
+     "en": "Carry it through the day as a question: where does this ask something of me today?"
+    },
+    {
+     "hu": "Este idézd fel egy konkrét helyzetet, amiben megmutatkozott, és jegyezd fel egy mondatban.",
+     "en": "In the evening recall one concrete situation in which it showed itself, and note it in a sentence."
+    },
+    {
+     "hu": "Hetente nézd meg, melyik maxima kér tőled a legtöbbet, és annál időzz tovább.",
+     "en": "Weekly, see which maxim asks the most of you, and dwell there longer."
+    }
+   ],
+   "keret": {
+    "hu": "Egy ősi bölcsességkönyv napi reflexióvá alakítva: a haszna a figyelmesebb, igazabb hétköznap, és semmilyen eredményt nem ígér a saját elhatározásodon túl.",
+    "en": "An ancient book of wisdom turned into a daily reflection: its benefit is a more attentive, truer everyday, and it promises nothing beyond your own resolve."
+   }
+  },
+  {
+   "id": "egy-dismember-gather",
+   "mester": "Ozirisz",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Feldarabolás és összegyűjtés",
+    "en": "Dismembering and Gathering"
+   },
+   "cel": {
+    "hu": "Egy valódi életforduló idején az Ozirisz-mítosz ívét követve nevet adsz annak, aminek meg kell halnia benned, ítélet nélkül leltározod a darabjait, majd türelmes szeretettel új rendbe illeszted, és egy apró tettel megpecsételed.",
+    "en": "At a real life-turning you follow the arc of the Osiris myth: naming what must die in you, inventorying its pieces without judgment, then joining them into a new order with patient love, and sealing it with one small deed."
+   },
+   "modszer": [
+    {
+     "hu": "Nevezd meg pontosan, minek kell meghalnia benned, például egy régi szerep vagy önvédő minta, és adj méltóságot a búcsúnak.",
+     "en": "Name precisely what must die in you, for instance an old role or a self-protective pattern, and give the farewell dignity."
+    },
+    {
+     "hu": "Engedd, hogy darabjaira essen: lásd külön a szokásait, hiedelmeit, gesztusait, és csak leltározd, ne rendezgesd.",
+     "en": "Let it fall to pieces: see its habits, beliefs, gestures one by one, and only take inventory, do not tidy."
+    },
+    {
+     "hu": "Türelmes, ítéletmentes jóindulattal gyűjtsd új rendbe, ami szolgál; ami nem, azt engedd el.",
+     "en": "With patient, non-judging goodwill gather into a new order what serves; what does not, let go."
+    },
+    {
+     "hu": "Érezd az új forma első \"lélegzetét\", majd még aznap tégy egy kicsi, kézzelfogható lépést belőle.",
+     "en": "Feel the new form's first 'breath', then that same day take one small, tangible step from it."
+    }
+   ],
+   "keret": {
+    "hu": "Mély belső átalakulás-gyakorlat egy ősi mítosz nyelvén: jelképes halál és újjászületés a régi énednek, nem a szó szerinti értelemben; hetente legfeljebb egyszer, ráérősen végezd.",
+    "en": "A deep inner transformation practice in the language of an ancient myth: a symbolic death and rebirth of your old self, not in the literal sense; do it at most once a week, unhurriedly."
+   },
+   "etika": {
+    "hu": "A halál-újjászületés képei valódi gyászt is megérinthetnek; friss veszteség idején bánj magaddal különös gyengédséggel, és ha nehéz, kérj emberi támaszt vagy szakember segítségét. Nem orvosi vagy pszichológiai kezelés.",
+    "en": "Images of death and rebirth can touch real grief; in times of fresh loss treat yourself with particular tenderness, and if it is hard, seek human support or a professional's help. This is not medical or psychological treatment."
+   }
+  },
+  {
+   "id": "egy-morning-coming-forth",
+   "mester": "Ozirisz",
+   "szint": "kezdo",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Reggeli előjövetel",
+    "en": "The Morning Coming-Forth"
+   },
+   "cel": {
+    "hu": "Minden ébredést egy apró újjászületésként élsz meg: egy pillanatra tudatosítod, hogy ma újra \"előjöttél a nappalra\", hálát adsz, és megnevezel egy szándékot az új napra.",
+    "en": "You meet every waking as a small rebirth: for a moment you become aware that today you have 'come forth by day' again, give thanks, and name one intent for the new day."
+   },
+   "modszer": [
+    {
+     "hu": "Ébredés után, még mielőtt felkelnél, maradj egy pillanatra csendben.",
+     "en": "On waking, before you rise, stay quiet for a moment."
+    },
+    {
+     "hu": "Tudatosítsd: ma újra itt vagyok, egy új nap kezdődik.",
+     "en": "Become aware: today I am here again, a new day begins."
+    },
+    {
+     "hu": "Adj hálát egyetlen konkrét dologért, ami van.",
+     "en": "Give thanks for one concrete thing that is."
+    },
+    {
+     "hu": "Nevezz meg egyetlen szándékot az új napra, és vidd magaddal.",
+     "en": "Name one intent for the new day and carry it with you."
+    }
+   ],
+   "keret": {
+    "hu": "Egy rövid reggeli hála- és szándékgyakorlat a \"nappali előjövetel\" ősi képére építve: a haszna a nyugodtabb, tudatosabb kezdés, egyszerű és mindennap megélhető.",
+    "en": "A short morning gratitude-and-intent practice built on the ancient image of 'coming forth by day': its benefit is a calmer, more conscious start, simple and livable each day."
+   }
+  }
+ ]
+}

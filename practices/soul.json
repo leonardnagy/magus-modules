@@ -1,0 +1,474 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-soul",
+ "nevek": {
+  "hu": "Lélek-munka és tükrök",
+  "en": "Soul work & mirrors"
+ },
+ "gyakorlatok": [
+  {
+   "id": "soul-mirror-sort-elements-grades",
+   "mester": "Franz Bardon",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Tükör rendezése elemek és fokozatok szerint",
+    "en": "Sorting the mirror by element and grade"
+   },
+   "cel": {
+    "hu": "A már összeírt tulajdonságaidból térképet készítesz: minden vonást besorolsz a négy elem egyikéhez, majd három erősségi fokozatba, hogy lásd, hol áll az elemi egyensúlyod és hol érdemes kezdened.",
+    "en": "Turn an already-written trait list into a map: assign each trait to one of the four elements, then into three grades of strength, so you can see where your elemental balance stands and where it makes sense to begin."
+   },
+   "modszer": [
+    {
+     "hu": "Vedd elő a kész listádat, és minden vonás mellé írd oda a mozgatóelemet: akarat/hév = Tűz, gondolkodás = Levegő, érzés = Víz, szilárdság/tudatosság = Föld.",
+     "en": "Take your finished list and mark each trait with its driving element: will/heat = Fire, thinking = Air, feeling = Water, solidity/awareness = Earth."
+    },
+    {
+     "hu": "Ha egy vonás bizonytalan, kérdezd meg, mi hajtja igazából — a domináns késztetés dönt; ez első körben munkahipotézis, nem végső ítélet.",
+     "en": "If a trait is unclear, ask what really drives it — the dominant impulse decides; treat this first pass as a working hypothesis, not a verdict."
+    },
+    {
+     "hu": "Rendezd minden vonást három oszlopba: 1. a legerősebbek (gyakran, apró okra is), 2. a közepesek, 3. a ritkán felbukkanók.",
+     "en": "Sort every trait into three columns: 1. the strongest (frequent, on the slightest cue), 2. the medium ones, 3. those that surface only rarely."
+    },
+    {
+     "hu": "Nézd meg, melyik elem árnyoldala tolakszik az első oszlopba — ez a fő egyensúlyhiányod, és egyben a kezdőpontod.",
+     "en": "See which element's shadow side crowds into the first column — that is your main imbalance and your starting point."
+    }
+   ],
+   "keret": {
+    "hu": "Ez önismereti rendszerező eszköz a hagyomány elem-nyelvén; nem személyiségdiagnózis. Az értéke abban mérhető, mennyivel tisztábban látod a saját mintáidat utána.",
+    "en": "This is a self-knowledge sorting tool in the tradition's element-language, not a personality diagnosis. Its worth is measured by how much more clearly you see your own patterns afterward."
+   }
+  },
+  {
+   "id": "soul-impulse-guard-redirect",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Impulzusőrség és figyelem-átirányítás",
+    "en": "Impulse guard and attention redirection"
+   },
+   "cel": {
+    "hu": "Egyetlen kiválasztott hibán dolgozol nappal: elkapod az impulzust, mielőtt tetté válna, és tudatosan olyan helyzeteket keresel, amelyek az ellentétes erényt gyakoroltatják — az elfojtás helyett átalakítva a szokást.",
+    "en": "Work on one chosen fault during the day: catch the impulse before it becomes action, and deliberately seek situations that exercise the opposite virtue — reshaping the habit rather than suppressing it."
+   },
+   "modszer": [
+    {
+     "hu": "Válaszd ki a legerősebb fokozat egyetlen hibáját, és fogalmazd meg az ellentétes erényt, amely felé alakítod.",
+     "en": "Pick a single fault from the strongest grade and name the opposite virtue you are shaping it toward."
+    },
+    {
+     "hu": "Napközben állj őrt: amikor a hiba késztetése megmozdul, vedd észre, és tartsd vissza, mielőtt cselekvéssé válna.",
+     "en": "Stand guard through the day: when the fault's impulse stirs, notice it and hold it back before it becomes an action."
+    },
+    {
+     "hu": "Keress tudatosan olyan feladatokat, amelyek az ellentétes erényt kívánják meg — aki kapkod, vállaljon lassú, gondos munkát; aki halogat, végezzen azonnal befejezhető apró feladatokat.",
+     "en": "Deliberately take on tasks that call for the opposite virtue — if you rush, choose slow careful work; if you procrastinate, do small tasks you can finish at once."
+    },
+    {
+     "hu": "Este jegyezd fel a napló mellé, hány impulzust csíptél el, és hol veszítettél — ítélkezés nélkül, ahogy a tudós rögzít egy mérést.",
+     "en": "In the evening record beside your journal how many impulses you caught and where you lost — without judgement, the way a scientist logs a measurement."
+    }
+   ],
+   "keret": {
+    "hu": "Belső szokásátalakító gyakorlat, rokon a mai figyelem- és szokáskutatás módszereivel. Lassú munka; a mércéje nem a tökéletesség, hanem hogy a régi minta hetek alatt halványul-e.",
+    "en": "An inner habit-reshaping practice, akin to modern attention and habit work. It is slow; the measure is not perfection but whether the old pattern fades over weeks."
+   }
+  },
+  {
+   "id": "soul-consecrate-mirror-one-purpose",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Mágikus tükör egyetlen célra szentelése",
+    "en": "Dedicating a magic mirror to one purpose"
+   },
+   "cel": {
+    "hu": "Egy nyugodt, semleges felületet (síküveg vagy homorú tál) egyetlen, előre meghatározott célnak szentelsz, és képzelettel-akarattal ráviszed a kívánt minőséget — hogy a figyelmednek rögzített pontja és a szándékodnak hordozója legyen.",
+    "en": "Dedicate a calm, neutral surface (flat glass or a concave bowl) to a single predefined purpose, and with imagination and will impress the desired quality onto it — giving your attention a fixed anchor and your intention a carrier."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy tiszta, sík vagy homorú felületet, amely a te tulajdonod; a homorú forma a hagyomány szerint jobban gyűjti a ráirányított figyelmet.",
+     "en": "Choose a clean flat or concave surface that is yours alone; the concave form, tradition holds, gathers directed attention better."
+    },
+    {
+     "hu": "Előre döntsd el a tükör egyetlen célját — nyugalom, összpontosítás, egy adott elem minősége —, mert a cél határozza meg a töltést.",
+     "en": "Decide the mirror's single purpose in advance — calm, focus, the quality of one element — because the purpose determines the charge."
+    },
+    {
+     "hu": "Ülj le nyugodtan, és képzeld el, hogy a kívánt minőséget sűrítve a felületbe vetíted, határozott szándékkal rögzítve, mire szolgáljon.",
+     "en": "Sit quietly and imagine projecting the desired quality in condensed form into the surface, fixing with a firm intention what it is to serve."
+    },
+    {
+     "hu": "Egy tükör — egy cél: ne tölts ugyanarra a felületre később mást, és használaton kívül tartsd letakarva, tiszta kendő alatt.",
+     "en": "One mirror, one purpose: do not later load the same surface with something else, and keep it covered with a clean cloth when not in use."
+    }
+   ],
+   "keret": {
+    "hu": "A tradíció szerint minden erő a gyakorlóból ered, a tükör csak fókuszál és megtart — a felület önmagában semleges tárgy. A gyakorlat gyümölcse befelé mérhető: nyugalom, összeszedettség, a szándék tisztulása.",
+    "en": "In the tradition all force comes from the practitioner; the mirror only focuses and holds — the surface itself is a neutral object. Judge the fruit inwardly: calm, composure, a clarifying of intention."
+   },
+   "etika": {
+    "hu": "A tükör soha nem szolgálhat mások magánéletének kifürkészésére vagy befolyásolására; tiszteld mások szabad akaratát. Szigorúan személyes eszköz.",
+    "en": "A mirror must never serve to pry into or influence others' private lives; honour others' free will. It is a strictly personal instrument."
+   }
+  },
+  {
+   "id": "soul-impregnate-room-atmosphere",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Helyiség átitatása kívánt légkörrel",
+    "en": "Impregnating a room with a chosen atmosphere"
+   },
+   "cel": {
+    "hu": "Egy szobát tudatosan átitatsz egyetlen kívánt minőséggel — nyugalommal, összpontosítást segítő vagy pihentető hangulattal —, hogy a tér magától támogassa azt, amit ott tenni akarsz.",
+    "en": "Consciously saturate a room with one desired quality — calm, a focus-supporting or restful mood — so that the space itself supports what you mean to do there."
+   },
+   "modszer": [
+    {
+     "hu": "Nevezd meg pontosan az egyetlen minőséget, amelyet a térbe akarsz vinni, és fogalmazd meg egy rövid mondatban a célját és időtartamát.",
+     "en": "Name precisely the single quality you want to bring into the space, and state in one short sentence its purpose and duration."
+    },
+    {
+     "hu": "Állj vagy ülj a szoba közepén, csendesedj el a szokásos légzés- és gondolatnyugtatással.",
+     "en": "Stand or sit in the middle of the room and grow still with your usual breath and thought-quieting."
+    },
+    {
+     "hu": "Képzeld el, hogy a kívánt minőség finom közegként megtölti az egész teret a padlótól a mennyezetig, egyenletesen.",
+     "en": "Imagine the desired quality filling the whole space as a subtle medium, floor to ceiling, evenly."
+    },
+    {
+     "hu": "Zárd le határozott szándékkal, majd figyeld meg a következő napokban, hogyan érzed magad a térben — és újítsd meg időnként.",
+     "en": "Seal it with a firm intention, then over the coming days observe how you feel in the space — and renew it from time to time."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a szándékos figyelem és a tér hangulata együtt dolgozik; a hatás elsősorban belső élményként (a saját nyugalmadon, összeszedettségeden) mérhető, nem külső erőként. Nem ígér semmilyen fizikai vagy másokra kiterjedő eredményt.",
+    "en": "The tradition holds that focused attention and a space's mood work together; the effect is felt chiefly as an inner experience (your own calm, composure), not as an external force. It promises no physical result and no effect on other people."
+   },
+   "etika": {
+    "hu": "Csak a saját teredet vagy azt, amelyhez jogod van, itasd át; soha ne próbálj mások hangulatát vagy döntését befolyásolni. Tiszteld mások szabad akaratát.",
+    "en": "Only impregnate your own space or one you have the right to; never try to influence others' moods or choices. Honour others' free will."
+   }
+  },
+  {
+   "id": "soul-evening-neutral-observer",
+   "mester": "Franz Bardon",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Esti nap-visszajátszás semleges megfigyelőként",
+    "en": "Evening replay as a neutral observer"
+   },
+   "cel": {
+    "hu": "Minden este kívülről, tárgyilagosan végignézed a napodat — nem bíróként és nem védőügyvédként —, hogy lásd, hol reagáltál a régi minta szerint, majd rövid, őszinte bejegyzést írsz róla.",
+    "en": "Each evening review your day from the outside, matter-of-factly — neither as judge nor defence lawyer — to see where you reacted along the old pattern, then write a short honest entry about it."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj le este pár percre, és játszd le a napod jeleneteit úgy, mintha kívülállóként figyelnéd őket.",
+     "en": "Sit for a few minutes in the evening and replay the day's scenes as if watching them as an outsider."
+    },
+    {
+     "hu": "Ne ítélkezz és ne magyarázkodj — csak vedd észre, mit tettél, mit mondtál, hol mozdultál a megszokott mintád szerint.",
+     "en": "Do not pass sentence and do not make excuses — just notice what you did, what you said, where you moved along your habitual pattern."
+    },
+    {
+     "hu": "Írj néhány őszinte sort: mit gyakoroltál, meddig, milyen minőségben, és a kudarcokat is szépítés nélkül.",
+     "en": "Write a few honest lines: what you practised, for how long, at what quality, and the failures too, without softening."
+    },
+    {
+     "hu": "Zárd egyetlen apró dologgal, amin holnap változtatsz — a látás a mai, a változtatás a holnapi feladat.",
+     "en": "Close with one small thing to change tomorrow — seeing is today's task, changing is tomorrow's."
+    }
+   ],
+   "keret": {
+    "hu": "Ez tárgyilagos önmegfigyelési és naplózási gyakorlat, rokon a reflektív naplóvezetéssel. A rögzített kudarc nem szégyen, hanem adat; a napló a haladás egyetlen tárgyilagos tanúja.",
+    "en": "This is an objective self-observation and journaling practice, akin to reflective journaling. A recorded failure is not a shame but a data point; the journal is the only objective witness of progress."
+   }
+  },
+  {
+   "id": "soul-vow-of-silence",
+   "mester": "Franz Bardon",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "A gyakorlás csendben tartása",
+    "en": "Keeping the practice in silence"
+   },
+   "cel": {
+    "hu": "Elhatározod, hogy a belső gyakorlásodról nem beszélsz kívülállóknak — nem titokzatoskodásból, hanem hogy a figyelmed a munkán maradjon, ne a róla festett képen.",
+    "en": "Resolve not to talk about your inner practice to outsiders — not out of mystery-mongering, but to keep your attention on the work itself rather than on the image you paint of it."
+   },
+   "modszer": [
+    {
+     "hu": "Döntsd el tudatosan, hogy a gyakorlataidat magadnak tartod, és ezt írd is be a naplódba mint fogadalmat.",
+     "en": "Consciously decide to keep your practice to yourself, and note it in your journal as a vow."
+    },
+    {
+     "hu": "Amikor kísértést érzel megosztani egy eredményt, figyeld meg, kinek a tetszéséért tennéd — és állj meg egy pillanatra.",
+     "en": "When you feel the urge to share a result, notice whose approval you would be seeking — and pause for a moment."
+    },
+    {
+     "hu": "Ha valaki rákérdez, elég egy udvarias, semmitmondó válasz; a beszámoló helyét vegye át a naplóbejegyzés.",
+     "en": "If someone asks, a polite non-committal answer is enough; let a journal entry take the place of the account you would have given."
+    },
+    {
+     "hu": "Hetente nézd meg a naplóban, sikerült-e — és mit vettél észre magadon, amikor mégis beszélni akartál róla.",
+     "en": "Weekly, check in your journal whether you kept it — and what you noticed in yourself when you wanted to talk about it after all."
+    }
+   ],
+   "keret": {
+    "hu": "Ez önfegyelmi és figyelemvédő szokás, nem ezoterikus tilalom. A hagyomány szerint a beszéd szétszórja, amit a munka összegyűjtött; a gyümölcse a saját nyugalmad és összeszedettséged.",
+    "en": "This is a self-discipline and attention-guarding habit, not an esoteric prohibition. The tradition holds that talk scatters what the work has gathered; its fruit is your own calm and composure."
+   }
+  },
+  {
+   "id": "soul-mental-wandering-nearby",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Mentális vándorlás közeli, ismert helyre",
+    "en": "Mental wandering to a nearby known place"
+   },
+   "cel": {
+    "hu": "Nyugodt, kipihent állapotban a figyelmed súlypontját egy közeli, jól ismert helyre helyezed, megfigyeled a részleteket, szelíden visszatérsz — majd utólag összeveted a látottakat a valósággal.",
+    "en": "In a calm, rested state, shift the centre of your attention to a nearby, well-known place, observe the details, return gently — then afterward compare what you saw with reality."
+   },
+   "modszer": [
+    {
+     "hu": "Csak akkor gyakorolj, ha nyugodt, egészséges és kipihent vagy; félve, betegen vagy kimerülten halaszd el.",
+     "en": "Practise only when calm, healthy and rested; if fearful, ill or exhausted, postpone."
+    },
+    {
+     "hu": "Helyezd a tested kényelembe, zavartalan helyre, és rövid, néhány perces ülésekkel indíts.",
+     "en": "Settle your body comfortably in an undisturbed place, and begin with short sessions of a few minutes."
+    },
+    {
+     "hu": "Vidd a figyelmedet erőltetés nélkül egy közeli, ismerős helyre — a szomszéd szobába, egy ismerős sarokra —, és figyeld a fényt, a tárgyakat, a változásokat.",
+     "en": "Bring your attention without forcing to a nearby, familiar place — the next room, a known corner — and observe the light, the objects, what has changed."
+    },
+    {
+     "hu": "Minden alkalommal tudatosan és szelíden térj vissza, majd később nézd meg a helyet, és ellenőrizd, mi egyezett a megfigyelésből.",
+     "en": "Return consciously and gently every time, then later look at the place and check which of your observations matched."
+    }
+   ],
+   "keret": {
+    "hu": "A tradíció ezt a tudat áthelyezésének tekinti; mai kereten belül nyugodtan tekinthető élénk, irányított imaginációs és emlékezeti gyakorlatnak. A módszer szíve az őszinte utólagos ellenőrzés — enélkül önámítás. Nem állít bizonyított testen kívüli észlelést.",
+    "en": "The tradition treats this as a transfer of consciousness; within a modern frame it can be taken as vivid, directed imagination and memory practice. The heart of the method is honest after-the-fact verification — without it, it is self-deception. It asserts no proven perception outside the body."
+   },
+   "etika": {
+    "hu": "Soha nem irányulhat mások megfigyelésére, magánéletük megsértésére vagy kémkedésre — csak saját, ismert helyekre. Tiszteld mások szabad akaratát és magánszféráját.",
+    "en": "It must never be aimed at observing others, invading their privacy, or spying — only at your own known places. Honour others' free will and privacy."
+   }
+  },
+  {
+   "id": "soul-recognize-starve-larva",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Visszatérő érzelmi minta felismerése és kiéheztetése",
+    "en": "Recognizing and starving a recurring emotional pattern"
+   },
+   "cel": {
+    "hu": "Felismered azt a heves, ismétlődő érzelmet, amely látszólag magától talál meg és önmagát erősíti, majd nyugodt figyelem-elterelessel megvonod tőle a táplálékot — se el nem fojtod, se bele nem merülsz.",
+    "en": "Recognize the intense, recurring emotion that seems to find you on its own and feed itself, then withdraw its fuel through calm, redirected attention — neither suppressing it nor sinking into it."
+   },
+   "modszer": [
+    {
+     "hu": "Introspekcióval állapítsd meg, melyik érzelem tér vissza nálad menetrendszerűen, aránytalan hevességgel, mintha ő találna meg téged.",
+     "en": "Through introspection identify which emotion returns on schedule, with disproportionate intensity, as if it finds you rather than you finding it."
+    },
+    {
+     "hu": "Amikor jön az ismerős hullám, maradj nyugodt, és állapítsd meg tárgyilagosan: „ez az\" — a puszta felismerés már fél győzelem.",
+     "en": "When the familiar wave comes, stay calm and note matter-of-factly, \"there it is\" — mere recognition is already half the victory."
+    },
+    {
+     "hu": "Ne harcolj vele és ne rágódj rajta (a harc és a rágódás is figyelem, a figyelem pedig táplálék); fordítsd a figyelmed határozottan másra — egy gyakorlatra, testi munkára, semleges gondolatsorra.",
+     "en": "Do not fight it or dwell on it (fighting and dwelling are attention too, and attention is food); turn your attention firmly elsewhere — an exercise, physical work, a neutral train of thought."
+    },
+    {
+     "hu": "Naplózd hetek-hónapok alatt, hogyan ritkul és halványul a minta — a folyamat lassú, a mércéje a következetesség.",
+     "en": "Journal over weeks and months how the pattern grows rarer and fainter — the process is slow, and its measure is consistency."
+    }
+   ],
+   "keret": {
+    "hu": "A tradíció ezt egy önállósult gondolatformának, „lárvának\" nevezi; mai kereten belül úgy is érthető, mint egy önmegerősítő érzelmi-figyelmi hurok lebontása. Ha egy minta tartósan nyomaszt vagy meghaladja a mindennapi önsegítést, kérj szakembert.",
+    "en": "The tradition calls this an independent thought-form, a \"larva\"; within a modern frame it can also be read as dismantling a self-reinforcing emotion-attention loop. If a pattern is persistently distressing or beyond everyday self-help, seek a professional."
+   },
+   "etika": {
+    "hu": "Ez önmegfigyelési gyakorlat, nem terápia, és nem pótolja a szakszerű lelki gondozást. Súlyos szorongás, kényszeres vagy depresszív minta esetén fordulj szakemberhez.",
+    "en": "This is a self-observation practice, not therapy, and does not replace professional mental-health care. For severe anxiety, compulsive or depressive patterns, consult a qualified professional."
+   }
+  },
+  {
+   "id": "soul-pendulum-passive-contact",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Passzív ingakapcsolat és jegyzőkönyvezés",
+    "en": "Passive pendulum contact and record-keeping"
+   },
+   "cel": {
+    "hu": "Előre rögzített igen/nem jelekkel dolgozó ingával egyszerű passzív gyakorlatot végzel, hidegvérrel jegyzőkönyvezve a válaszokat — a hangsúly nem a jóslaton, hanem a csatorna tisztaságának és a saját nyugalmadnak a tanulásán van.",
+    "en": "Do a simple passive exercise with a pendulum on pre-agreed yes/no signals, coolly recording the answers — the emphasis is not on divination but on learning the cleanliness of the channel and your own composure."
+   },
+   "modszer": [
+    {
+     "hu": "Csendesedj el a szokásos légzés- és gondolatnyugtatással, és rögzítsd előre az inga igen/nem/bizonytalan jeleit.",
+     "en": "Grow still with your usual breath and thought-quieting, and fix in advance the pendulum's yes/no/uncertain signals."
+    },
+    {
+     "hu": "Tegyél fel néhány egyszerű, ellenőrizhető kérdést, és hagyd a mozgást magától kibontakozni, erőltetés nélkül.",
+     "en": "Ask a few simple, checkable questions and let the movement unfold on its own, without forcing."
+    },
+    {
+     "hu": "Jegyezz fel minden kérdést és választ tárgyilagosan, majd később ellenőrizd, ahol lehet, a valósággal.",
+     "en": "Record every question and answer matter-of-factly, then later verify against reality where you can."
+    },
+    {
+     "hu": "Zárd le nyugodtan, és a naplóban figyeld meg, mennyire volt következetes és nyugodt a saját közreműködésed.",
+     "en": "Close calmly, and in your journal observe how consistent and calm your own participation was."
+    }
+   ],
+   "keret": {
+    "hu": "Az inga mozgása a mai megértés szerint jórészt öntudatlan finommozgásokból (ideomotoros hatás) ered; a hagyomány ezt passzív érintkezésnek nevezi. A gyakorlat értéke az önmegfigyelésben és a nyugalom edzésében van, nem megbízható jövendölésben. Ne hozz fontos döntést az inga alapján.",
+    "en": "The pendulum's movement is, on the modern understanding, largely driven by unconscious micro-movements (the ideomotor effect); the tradition calls it passive contact. The value lies in self-observation and training composure, not in reliable prediction. Do not base important decisions on the pendulum."
+   },
+   "etika": {
+    "hu": "Ne használd mások megítélésére, egészségi vagy pénzügyi döntésekre; ez nem diagnózis és nem tanácsadás. Súlyos kérdésekben fordulj hozzáértő szakemberhez.",
+    "en": "Do not use it to judge others or for health or financial decisions; it is neither diagnosis nor counsel. For serious matters, consult a qualified professional."
+   }
+  },
+  {
+   "id": "soul-weigh-every-message",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Belső közlések mérlegre tétele",
+    "en": "Weighing inner communications"
+   },
+   "cel": {
+    "hu": "Kialakítasz egy egyszerű megkülönböztető rutint: bármi is érkezik belső élményként — hang, kép, sugallat —, az eszed és a lelkiismereted mérlegére teszed, mielőtt bármit elhinnél vagy tennél belőle.",
+    "en": "Build a simple discernment routine: whatever arrives as an inner experience — a voice, an image, a prompting — you place on the scales of reason and conscience before believing or acting on any of it."
+   },
+   "modszer": [
+    {
+     "hu": "Bármilyen belső közlésnél állj meg, és tedd fel három kérdést: igaz-e, ésszerű-e, összefér-e az etikámmal?",
+     "en": "At any inner communication, pause and ask three questions: is it true, is it sensible, is it compatible with my ethics?"
+    },
+    {
+     "hu": "Vesd el habozás nélkül, ami a józan ésszel vagy az erkölccsel ütközik — függetlenül attól, milyen „forrásból\" érkezni látszik.",
+     "en": "Reject without hesitation whatever collides with sound reason or morality — regardless of what \"source\" it seems to come from."
+    },
+    {
+     "hu": "Figyeld a jeleket: ami hízeleg, kiválasztottnak nevez, gyors hatalmat ígér, vak engedelmességet vagy imádatot követel, azt bizalmatlanul kezeld.",
+     "en": "Watch the signs: whatever flatters, calls you chosen, promises quick power, or demands blind obedience or worship, treat with distrust."
+    },
+    {
+     "hu": "Vezess erről is naplót, és a legjobb pajzsnak a nyugodt elmét és a kiegyensúlyozott jellemet tekintsd — a félelem az egyetlen tárva hagyott kapu.",
+     "en": "Keep a journal of this too, and regard a calm mind and balanced character as the best shield — fear is the only gate left truly open."
+    }
+   ],
+   "keret": {
+    "hu": "Ez kritikai gondolkodási és önvédelmi szokás, amelyet a hagyomány a láthatatlan világgal való érintkezésre fogalmaz meg, de bármely erős belső élményre alkalmazható. A magasabb közlés sosem kéri, hogy kikapcsold a gondolkodásodat.",
+    "en": "This is a critical-thinking and self-protection habit that the tradition frames for contact with the invisible world, but it applies to any strong inner experience. A higher communication never asks you to switch off your thinking."
+   },
+   "etika": {
+    "hu": "Ha a belső hangok tolakodóvá, ijesztővé vagy irányítóvá válnak, az nem szellemi rangjelzés — kérj szakembert. A gyakorlat nem helyettesíti a lelki gondozást.",
+    "en": "If inner voices become intrusive, frightening or controlling, that is no spiritual badge — seek a professional. This practice does not replace mental-health care."
+   }
+  },
+  {
+   "id": "soul-fixed-hour-rhythm-timekeeper",
+   "mester": "Franz Bardon",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Rögzített órák ritmusa és a napló mint időmérő",
+    "en": "Fixed-hour rhythm and the diary as timekeeper"
+   },
+   "cel": {
+    "hu": "Minden nap ugyanabban az órában gyakorolsz, hogy a ritmus a szövetségeseddé váljon, és havonta visszaolvasod a naplódat, hogy a fejlődés valódi sebességét ne a hangulatod, hanem a régebbi bejegyzések mutassák meg.",
+    "en": "Practise at the same hour every day so the rhythm becomes your ally, and reread your diary monthly so the true speed of your growth is shown by older entries rather than your mood."
+   },
+   "modszer": [
+    {
+     "hu": "Jelölj ki egy napi fix időpontot a gyakorlásra, és tartsd meg akkor is, ha látványos eredmény nincs.",
+     "en": "Set one fixed daily time for practice and keep it even when there is no spectacular result."
+    },
+    {
+     "hu": "Amikor türelmetlenség fog el, ismerd fel tűz-egyensúlyhibaként, és egyetlen lélegzettel térj vissza a jelenbe — csak ott tehetsz bármit.",
+     "en": "When impatience grips you, recognize it as a fire-imbalance, and return to the present with a single breath — only there can anything be done."
+    },
+    {
+     "hu": "Jegyezd fel a saját ciklusaidat: mikor mélyül a munka gyorsan, és mikor csak ülepszik a megszerzett — mindkettő a növekedéshez tartozik.",
+     "en": "Note your own cycles: when the work deepens quickly and when it merely settles — both belong to growth."
+    },
+    {
+     "hu": "Havonta olvasd vissza a naplót: nem a tegnapi, hanem a három hónappal ezelőtti bejegyzés mutatja a valódi haladást.",
+     "en": "Reread the diary monthly: it is not yesterday's but the three-month-old entry that reveals real progress."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a szokásépítés és a türelem gyakorlata a hagyomány idő-nyelvén; a rögzített időpont és a visszaolvasott napló ma is jól ismert eszközök a kitartó fejlődéshez. A mérce nem a naptár, hanem a megépített képesség stabilitása.",
+    "en": "This is habit-building and patience in the tradition's time-language; a fixed slot and a reread diary are well-known tools for steady growth today too. The measure is not the calendar but the stability of what you have built."
+   }
+  },
+  {
+   "id": "soul-meditation-on-the-one",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Materia Prima",
+   "cim": {
+    "hu": "Szemlélődés az Egyről",
+    "en": "Contemplation on the One"
+   },
+   "cel": {
+    "hu": "Nem technikát végzel, hanem csendes szemlélődésbe ülsz: a figyelmedet arra az osztatlan forrásra irányítod, amelyből a hagyomány szerint minden forma felmerül — nem hogy birtokba vedd, hanem hogy a gyakorlataid egy nagyobb egész köré rendeződjenek.",
+    "en": "You perform no technique but sit in quiet contemplation: turning your attention to the undivided source from which, in the tradition, all forms arise — not to possess it, but so your practice reorders around a greater whole."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj le nyugodtan, ahogy a légzésnél és a gondolatfegyelemnél tanultad, és engedd el a teljesítménykényszert — itt tájékozódsz, nem teljesítesz.",
+     "en": "Sit calmly, as you learned in breath work and thought discipline, and let go of any drive to perform — here you orient yourself, you do not achieve."
+    },
+    {
+     "hu": "Vegyél egy szemlélődő magot, és időzz vele: „minden forma egyetlen forrásból bomlik ki, és oda tér vissza\".",
+     "en": "Take a contemplative seed and dwell with it: \"every form unfolds from a single source and returns to it\"."
+    },
+    {
+     "hu": "Figyeld meg, hogy minden fogalmad és képed a forrás után születik — ő maga a fogalmaid előtt marad; ne várj látomást vagy jelenséget.",
+     "en": "Notice that every concept and image of yours is born after the source — it itself stays prior to your concepts; expect no vision or phenomenon."
+    },
+    {
+     "hu": "Zárd a szemlélődést alázattal: az eredetet nem birtokolni, csak szolgálni lehet — és épp ez a hódolat óvja meg a gyakorlót a hatalomvágy kísértéseitől.",
+     "en": "Close in humility: the origin cannot be possessed, only served — and it is this reverence that guards the practitioner against the temptations of the hunger for power."
+    }
+   ],
+   "keret": {
+    "hu": "A tradíció ezt az alkímia „első anyagához\", a megnyilvánulás gyökeréhez kapcsolja; mai kereten belül csendes, tárgy nélküli szemlélődő meditációként végezhető. A gyümölcse befelé mérhető: tágabb perspektíva és mélyebb tisztelet, nem különleges élmény.",
+    "en": "The tradition ties this to the alchemists' \"first matter,\" the root of manifestation; within a modern frame it can be done as a quiet, objectless contemplative meditation. Its fruit is measured inwardly — a wider perspective and deeper reverence, not a special experience."
+   }
+  }
+ ]
+}

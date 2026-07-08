@@ -1,0 +1,628 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-bardon-steps",
+ "nevek": {
+  "hu": "Bardon — a tíz lépés",
+  "en": "Bardon — the ten Steps"
+ },
+ "gyakorlatok": [
+  {
+   "id": "steps-autosuggestion-drowsy-gate",
+   "mester": "Franz Bardon",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Önszuggesztió a félálom kapujában",
+    "en": "Autosuggestion at the Drowsy Gate"
+   },
+   "cel": {
+    "hu": "Egyetlen jól megfogalmazott mondattal formálni egy szokást vagy belső hozzáállást, épp abban a szendergő állapotban, amikor a nappali éberség már elengedett.",
+    "en": "Shape a habit or inner attitude with one well-formed sentence, in the drowsy state where daytime alertness has already let go."
+   },
+   "modszer": [
+    {
+     "hu": "Fogalmazz egyetlen rövid, pozitív, jelen idejű mondatot arról, ami már megvalósult benned — ne azt mondd, mitől szabadulnál, hanem ami helyette van (pl. „nyugodt és kitartó vagyok”).",
+     "en": "Form one short, positive, present-tense sentence about what is already real in you — not what you would escape, but what stands in its place (e.g. 'I am calm and persevering')."
+    },
+    {
+     "hu": "Este, közvetlenül elalvás előtt ismételd halkan vagy gondolatban, nyugodt bizonyossággal, míg el nem alszol.",
+     "en": "At night, right before sleep, repeat it softly or in thought, with calm certainty, until you drift off."
+    },
+    {
+     "hu": "Reggel, még mielőtt teljesen felébrednél, vedd fel újra ugyanazt a mondatot néhányszor.",
+     "en": "In the morning, before you are fully awake, take up the same sentence again a few times."
+    },
+    {
+     "hu": "Ha segít, számold az ismétléseket egy gyöngysoron vagy csomózott zsinóron, hogy a folyamat elalvás közben se szakadjon meg.",
+     "en": "If it helps, count the repetitions on a string of beads or knots, so the flow continues even as sleep arrives."
+    },
+    {
+     "hu": "Jegyezd fel naponta a mondatot és a hatását — a változást hetek távlatában, a belső gyümölcsökből ítéld meg.",
+     "en": "Note the sentence and its effect daily — judge the change over weeks, by its inner fruits."
+    }
+   ],
+   "keret": {
+    "hu": "Nem parancs a valóságnak, hanem türelmes önnevelés: a mondat abban segít, hogy a figyelmed egy kívánt irányba rendeződjön. A hatást a saját tapasztalatod, nem külső ígéret méri.",
+    "en": "This is not a command to reality but patient self-education: the sentence helps your attention settle in a chosen direction. Its effect is measured by your own experience, not by any outside promise."
+   },
+   "etika": {
+    "hu": "Kizárólag önmagadon dolgozz vele. Az önszuggesztiót soha ne fordítsd más befolyásolására, és ha tartós szorongás vagy alvásprobléma jelentkezik, hagyd abba, és fordulj szakemberhez — ez nem terápia.",
+    "en": "Work only on yourself with this. Never turn autosuggestion to influencing others, and if lasting anxiety or sleep trouble appears, stop and consult a professional — this is not therapy."
+   }
+  },
+  {
+   "id": "steps-multi-sense-imagery",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Többérzékes belső kép",
+    "en": "Multi-Sense Inner Image"
+   },
+   "cel": {
+    "hu": "Egyetlen tárgyat vagy jelenetet egyszerre több érzékkel felidézni és élőn fenntartani, hogy a képzelet egységes, plasztikus eszközzé váljon.",
+    "en": "Evoke a single object or scene with several senses at once and hold it alive, so the imagination becomes a unified, plastic instrument."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egyszerű tárgyat, amely két-három érzéket kínál — egy zsebóra jó: számlap, ketyegés, a fém hűvös súlya a tenyérben.",
+     "en": "Choose a simple object offering two or three senses — a pocket watch works: dial, ticking, the cool weight of metal in the palm."
+    },
+    {
+     "hu": "Csukott szemmel idézd fel mindezt egyszerre, nem váltogatva: lásd, halld és érezd egyetlen élő képként.",
+     "en": "With closed eyes, evoke all of it at once, not alternating: see, hear and feel it as one living image."
+    },
+    {
+     "hu": "Ha a kép szétesik, ne bosszankodj — nyugodtan építsd újra, és folytasd.",
+     "en": "If the image falls apart, do not fret — calmly rebuild it and carry on."
+    },
+    {
+     "hu": "Ha a tárgyak engednek, bővítsd egész jelenetté: erdő, ahol susog a lomb, madár szól, gyanta illata száll, szellő a bőrödön.",
+     "en": "Once objects obey, expand into a whole scene: a forest where leaves rustle, a bird calls, resin drifts, a breeze on your skin."
+    },
+    {
+     "hu": "Gyakorold nyitott és csukott szemmel is; a naplóba csak a valóban zavartalan perceket írd be.",
+     "en": "Practise with eyes open and closed; enter in your diary only the genuinely undisturbed minutes."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a képzelet fegyelmezése, nem látomás: azt gyakorlod, hogy a figyelmed egy összetett belső képet stabilan megtartson. A hasznát a tartósság és a részletgazdagság mutatja, semmi több.",
+    "en": "This is the disciplining of imagination, not vision: you train attention to hold a complex inner image steadily. Its worth shows in duration and richness of detail, nothing more."
+   }
+  },
+  {
+   "id": "steps-motionless-body",
+   "mester": "Franz Bardon",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A test mozdulatlansága",
+    "en": "Stillness of the Body"
+   },
+   "cel": {
+    "hu": "Egy kényelmes ülő testhelyzetben teljesen mozdulatlanul megmaradni, hogy a test engedelmes, nyugodt eszközzé váljon, és a testi fegyelem visszahasson a figyelemre.",
+    "en": "Remain completely motionless in a comfortable seated position, so the body becomes an obedient, quiet instrument and its discipline feeds back into attention."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj egyenes háttal — egy szék tökéletes: zárt térdek, kezek a combon, váll ellazítva.",
+     "en": "Sit with an upright back — a chair is perfect: knees together, hands on the thighs, shoulders relaxed."
+    },
+    {
+     "hu": "Maradj teljesen mozdulatlanul: semmi fészkelődés, semmi rezdülés — se ujj, se szemhéj.",
+     "en": "Stay entirely still: no shifting, no flutter — not a finger, not an eyelid."
+    },
+    {
+     "hu": "Kezdd rövid idővel, és naponta növeld; a cél, hogy a kényelmetlenség fölé emelkedj, ne pedig legyőzd a testet.",
+     "en": "Begin with a short time and lengthen it daily; the aim is to rise above discomfort, not to conquer the body."
+    },
+    {
+     "hu": "A zsibbadás eleinte természetes; az éles fájdalom viszont jelzés — igazíts a testhelyzeten, és építkezz türelmesen.",
+     "en": "Numbness is natural at first; sharp pain, however, is a signal — adjust the position and build patiently."
+    },
+    {
+     "hu": "Vidd a tartást a napodba is: ülj egyenesen, mozdulj szándékkal, ne kapkodj.",
+     "en": "Carry the posture into your day as well: sit upright, move with intention, stop rushing."
+    }
+   ],
+   "keret": {
+    "hu": "Egyszerű testi fegyelem, amelynek megfigyelhető haszna, hogy aki nyugodtan ül, nyugodtabban is figyel. Nem verseny és nem önsanyargatás.",
+    "en": "A simple bodily discipline whose observable benefit is that one who sits calmly also attends more calmly. Not a contest, not self-mortification."
+   },
+   "etika": {
+    "hu": "Ez testi fegyelem, nem gyógymód, és nem helyettesíti az orvosi ellátást. A zsibbadás átmeneti; éles vagy tartós fájdalom, keringési panasz esetén igazíts a testhelyzeten vagy hagyd abba. Ismert gerinc-, ízületi vagy keringési panasz esetén előbb kérd ki orvos véleményét.",
+    "en": "This is bodily discipline, not a treatment, and does not replace medical care. Numbness is passing; with sharp or lasting pain or any circulatory discomfort, adjust the position or stop. If you have a known spinal, joint or circulatory condition, ask a doctor first."
+   }
+  },
+  {
+   "id": "steps-organ-breathing",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Szerv-légzés — az életerő irányítása",
+    "en": "Organ Breathing — Directing Vital Force"
+   },
+   "cel": {
+    "hu": "A belélegzett életerőt a képzelet vezetésével egyetlen kiválasztott szervbe vagy testrészbe irányítani, majd tudatosan újra szétoszlatni.",
+    "en": "With the guidance of imagination, lead inhaled vital force into a single chosen organ or body part, then consciously distribute it again."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy könnyen érezhető testrészt — kezdd a kezekkel vagy a gyomor tájékával.",
+     "en": "Choose a body part easy to feel — begin with the hands or the region of the stomach."
+    },
+    {
+     "hu": "Belégzéskor képzeld, hogy az életerő oda áramlik: érezd, ahogy a rész feltöltődik, felmelegszik, megerősödik.",
+     "en": "On the inhale, imagine vital force streaming there: feel that part charge, warm and strengthen."
+    },
+    {
+     "hu": "Néhány lélegzet után tudatosan engedd el: kilégzéssel oszlasd szét az erőt az egész testben, vagy add vissza a levegőnek.",
+     "en": "After a few breaths, consciously release it: with the exhale distribute the force through the whole body, or give it back to the air."
+    },
+    {
+     "hu": "Óvó szabály: a szívben és az agyban soha ne halmozz fel erőt — ezekkel csak röviden és gyengéden dolgozz.",
+     "en": "Safety rule: never accumulate force in the heart or the brain — work with these only briefly and gently."
+    },
+    {
+     "hu": "A cél a harmonikus, kiegyensúlyozott erősítés, nem a minél nagyobb töltés; a rendszeresség többet ér az erőltetésnél.",
+     "en": "The goal is harmonious, balanced strengthening, not the greatest possible charge; regularity is worth more than forcing."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány „életerőnek” nevezi azt, amit itt a figyelmeddel és a légzéseddel mozgatsz; a gyakorlat egy befelé forduló koncentráció, amelynek eredményét a testérzet és a nyugalom méri.",
+    "en": "The tradition calls 'vital force' what you here move with attention and breath; the practice is an inward concentration whose result is measured by bodily sensation and calm."
+   },
+   "etika": {
+    "hu": "Ez nem gyógymód és nem helyettesíti az orvosi ellátást. Ha bárhol tartós feszültség, nyomás vagy szédülés jelentkezik, rövidíts, lazíts, és panasz esetén fordulj orvoshoz.",
+    "en": "This is not a treatment and does not replace medical care. If lasting tension, pressure or dizziness appears anywhere, shorten and relax, and consult a doctor if symptoms persist."
+   }
+  },
+  {
+   "id": "steps-transference-of-consciousness",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A tudat áthelyezése",
+    "en": "Transference of Consciousness"
+   },
+   "cel": {
+    "hu": "A figyelem középpontját fegyelmezetten kiemelni a megszokott önnézőpontból, és egy tárgy, növény, állat vagy ember helyzetébe beleélni magad — a rugalmasság és a valódi megértés iskolája.",
+    "en": "Deliberately lift the center of attention out of your habitual self-viewpoint and enter, with disciplined empathy, the situation of an object, plant, animal or person — a school of flexibility and true understanding."
+   },
+   "modszer": [
+    {
+     "hu": "Tégy magad elé néhány ismerős tárgyat; válassz egyet, és képzeld, hogy te magad vagy az a tárgy — érezd a formáját mint saját alakodat.",
+     "en": "Place a few familiar objects before you; choose one and imagine that you yourself are that object — feel its shape as your own form."
+    },
+    {
+     "hu": "Szemléld a környezetet a tárgy nézőpontjából. Néhány perc után válts tárgyat.",
+     "en": "Behold the surroundings from the object's viewpoint. After a few minutes, change objects."
+    },
+    {
+     "hu": "Ha ez megy, helyezd a tudatodat egy növénybe, majd egy állatba — érezd belülről a fa nyugalmát, a madár fürgeségét.",
+     "en": "Once this works, transfer your awareness into a plant, then an animal — feel from within the tree's calm, the bird's quickness."
+    },
+    {
+     "hu": "Végül gyakorolj ismerős embereken: próbáld belülről érteni a másik helyzetét és indítékait.",
+     "en": "Finally practise with people you know: try to understand the other's situation and motives from within."
+    },
+    {
+     "hu": "Ha kizökkensz, térj vissza szelíden; minden ülést jegyezz fel: mibe helyezted a tudatod, mennyi ideig, milyen mélyen.",
+     "en": "When you slip out, return gently; record each session: what you transferred into, for how long, how deeply."
+    }
+   ],
+   "keret": {
+    "hu": "Ez fegyelmezett beleélés, nem elmeolvasás: azt a képzeleti pontosságot gyakorlod, amellyel jobban megértesz másokat. A gyümölcse az együttérzés és a nézőpontváltás könnyedsége.",
+    "en": "This is disciplined empathy, not mind-reading: you train the imaginative precision that helps you understand others better. Its fruit is compassion and ease of shifting viewpoint."
+   },
+   "etika": {
+    "hu": "Emberekbe való beleélést kizárólag megértés céljából végezz — soha kíváncsiskodásból, előny szerzéséből vagy más magánéletének kifürkészéséből. Tiszteld mások szabadságát.",
+    "en": "Enter into people only for the sake of understanding — never for curiosity, advantage, or prying into another's private life. Respect others' freedom."
+   }
+  },
+  {
+   "id": "steps-personal-ritual-gesture",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Saját rítus — a feltöltött gesztus",
+    "en": "A Personal Ritual — the Charged Gesture"
+   },
+   "cel": {
+    "hu": "Egy egyszerű, feltűnésmentes gesztushoz vagy ujjtartáshoz kötni egy belső állapotot, majd ismétléssel megerősíteni a kettő kapcsolatát, hogy a mozdulat idővel maga előhívja az állapotot.",
+    "en": "Bind an inner state to a simple, inconspicuous gesture or finger posture, then strengthen the link by repetition, so that in time the movement itself summons the state."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy célt, amelyre gyakran szükséged van — nyugalom, összeszedettség, tisztánlátás.",
+     "en": "Choose a purpose you often need — calm, composure, clarity."
+    },
+    {
+     "hu": "Alkoss hozzá egy egyszerű, bárhol elvégezhető gesztust vagy ujjtartást; önmagában semleges, az eszme adja az értelmét.",
+     "en": "Devise a simple gesture or finger posture you can do anywhere; it is neutral in itself, the idea gives it meaning."
+    },
+    {
+     "hu": "Valahányszor a kívánt állapot természetesen jelen van, végezd el a gesztust, és tudatosan kösd össze a kettőt.",
+     "en": "Whenever the desired state is naturally present, perform the gesture and consciously bind the two together."
+    },
+    {
+     "hu": "Ismételd sokszor és hűségesen; ne alkoss sok rítust — kettő-három, jól begyakorolt gesztus többet ér tucatnyi felszínesnél.",
+     "en": "Repeat it often and faithfully; do not make many rituals — two or three well-practised gestures are worth more than a dozen shallow ones."
+    },
+    {
+     "hu": "Tartsd őket a magad számára, és jegyezd fel a naplóba, hányszor és milyen állapottal gyakoroltad.",
+     "en": "Keep them to yourself, and note in your diary how many times and with what state you practised."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány „erő-sűrítésnek” nevezi; működése egyszerűen érthető a feltételes társítás lélektanával — a gesztus egy állapot előhívó jelévé válik. A hasznát a saját megfigyelésed méri.",
+    "en": "The tradition calls this 'condensing power'; its working is readily understood through the psychology of conditioned association — the gesture becomes a cue for a state. Its usefulness is measured by your own observation."
+   }
+  },
+  {
+   "id": "steps-body-center-point",
+   "mester": "Franz Bardon",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A testközéppont pontja — a tér csendje",
+    "en": "The Point at the Body's Center — Stillness of Space"
+   },
+   "cel": {
+    "hu": "Az éber figyelmet a test középpontjába vonni, egyetlen ponttá sűríteni, és onnan, a mozdulatlan tanú helyzetéből szemlélni önmagad és a világot.",
+    "en": "Draw waking attention into the center of the body, condense it to a single point, and from there — as the motionless witness — contemplate yourself and the world."
+   },
+   "modszer": [
+    {
+     "hu": "Vedd fel szokott testtartásodat, csendesítsd le a légzést, és időzz pár percig a gondolatok ürességében.",
+     "en": "Take your usual posture, let the breath quiet, and rest a few minutes in the emptiness of thought."
+    },
+    {
+     "hu": "Érezd a testedet egyetlen egésznek, majd kezdd befelé vonni az éber jelenléted a végtagokból a törzs, onnan a napfonat tája felé.",
+     "en": "Feel your body as one whole, then begin drawing your waking presence inward from the limbs toward the trunk, and from there toward the region of the solar plexus."
+    },
+    {
+     "hu": "Sűrítsd a tudatod egyetlen parányi, izzó pontba, és nyugodj benne.",
+     "en": "Condense your awareness into one tiny, glowing point, and rest in it."
+    },
+    {
+     "hu": "Innen nézve minden gondolat és érzés kívülről érkezőnek mutatkozik — te a mozdulatlan tanú maradsz.",
+     "en": "Seen from here, every thought and feeling shows itself as arriving from outside — you remain the motionless witness."
+    },
+    {
+     "hu": "Ülésről ülésre hosszabbítsd az időt, és gyakorold, hogy néhány lélegzet alatt bárhol be tudj lépni a pontba.",
+     "en": "Lengthen the time from session to session, and practise entering the point anywhere within a few breaths."
+    }
+   ],
+   "keret": {
+    "hu": "Egy koncentrációs és tanúságtétel-meditáció, amelynek „tér-mágia” nevet ad a hagyomány; a te tapasztalatod szintjén ez a decentrált, nyugodt éberség gyakorlása. A gyümölcse a belső csend és a rálátás.",
+    "en": "A concentration-and-witnessing meditation the tradition names 'space magic'; at the level of your experience it is the practice of a decentered, calm alertness. Its fruit is inner stillness and perspective."
+   }
+  },
+  {
+   "id": "steps-element-projection",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Elem kivetítése a térbe és tárgyba",
+    "en": "Projecting an Element into Space and an Object"
+   },
+   "cel": {
+    "hu": "Egy felhalmozott elemi minőséget a testből kifelé sugározni — egy szobába vagy egy tárgyba —, majd nyomtalanul feloldani, gyakorolva a felhalmozás és a teljes elengedés egyensúlyát.",
+    "en": "Radiate an accumulated elemental quality outward from the body — into a room or an object — then dissolve it without a trace, practising the balance of accumulation and complete release."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj nyugodt testtartásba, és lélegezd magadba a választott elemet — kezdd a tűzzel —, míg a minőségét félreérthetetlenül nem érzed (a tűznél meleg és feszítő tágulás).",
+     "en": "Sit in a calm posture and breathe in the chosen element — begin with fire — until its quality is unmistakable (with fire, warmth and straining expansion)."
+    },
+    {
+     "hu": "Amikor a telítettség eléri a határát, képzeld, hogy a napfonaton vagy az egész testfelületeden át a szobába bocsátod, és a tér maga válik meleggé vagy hűvössé.",
+     "en": "When saturation reaches its limit, imagine releasing it through the solar plexus or your whole body surface into the room, until the space itself becomes warm or cool."
+    },
+    {
+     "hu": "Ugyanígy tölthetsz egy egyszerű tárgyat egyetlen elemmel, világos és jó céllal.",
+     "en": "In the same way you may load a simple object with a single element, with a clear and good purpose."
+    },
+    {
+     "hu": "A gyakorlat végén MINDIG vond vissza vagy oldd fel az elemet fokozatosan és teljesen — feltöltve soha ne állj fel.",
+     "en": "At the end, ALWAYS withdraw or dissolve the element gradually and completely — never rise still charged."
+    },
+    {
+     "hu": "Kezdd megfigyelni, hogyan hordozzák az elemi minőségeket a helyek, évszakok és hangulatok, és mindent jegyezz a naplóba.",
+     "en": "Begin observing how places, seasons and moods carry elemental qualities, and record everything in your diary."
+    }
+   ],
+   "keret": {
+    "hu": "Az „elem” itt egy belső minőség (meleg-tágulás, hűvös-frissesség stb.), amelyet a képzeleteddel idézel és oszlatsz; a gyakorlat a felhalmozás és a teljes elengedés fegyelmét méri, nem külső fizikai hatást ígér.",
+    "en": "The 'element' here is an inner quality (warmth-expansion, coolness-freshness, etc.) you evoke and dissolve with imagination; the practice measures the discipline of accumulation and full release, and promises no outward physical effect."
+   },
+   "etika": {
+    "hu": "A hagyomány maga is kötelezővé teszi a teljes feloldást — a felgyülemlett, ki nem engedett elem feszültségként üthet vissza. Soha ne irányíts semmit másokra a tudtuk és javuk ellenére.",
+    "en": "The tradition itself makes complete dissolution mandatory — an accumulated, unreleased element can rebound as tension. Never direct anything at others against their knowledge and benefit."
+   }
+  },
+  {
+   "id": "steps-akasha-stillness",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Az ok nélküli csend — Akasha-időzés",
+    "en": "The Causeless Stillness — Dwelling in Akasha"
+   },
+   "cel": {
+    "hu": "Egy mindent átható, sötét-ibolya finomságként elképzelt „okozati” princípiumban éberen, félelem és elalvás nélkül időzni — a mélyebb meditatív csend előiskolája.",
+    "en": "Dwell awake, without fear or falling asleep, in a 'causal' principle imagined as an all-pervading, dark-violet subtlety — the preparatory school of a deeper meditative stillness."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj kényelmesen, és lélegezz nyugodtan az egész testeddel — a tüdőddel és minden pórusoddal.",
+     "en": "Sit comfortably and breathe calmly with your whole body — with the lungs and every pore."
+    },
+    {
+     "hu": "Minden belégzéssel képzeld, hogy a sötét-ibolya, mindent átható princípium tölti be a tested és a körülötted lévő teret.",
+     "en": "With each inhale, imagine the dark-violet, all-pervading principle filling your body and the space around you."
+    },
+    {
+     "hu": "Fontos: ezt NEM halmozod fel úgy, mint egy elemet — nem gyűjtesz, hanem beleoldódsz az ok nélküli csendbe.",
+     "en": "Important: you do NOT accumulate this the way you would an element — you do not gather, you dissolve into the causeless stillness."
+    },
+    {
+     "hu": "Maradj éberen, kényelmesen; ha elkalandozol, térj vissza szelíden a csendbe.",
+     "en": "Stay alert and at ease; when you wander, return gently to the stillness."
+    },
+    {
+     "hu": "Soha ne erőltesd és soha ne próbáld szerekkel siettetni — a mélység magától jön, ha az alap nyugodt. Jegyezd fel a csend mélységét (1–10).",
+     "en": "Never force it and never try to hasten it with any substance — depth comes of itself when the ground is calm. Note the depth of the stillness (1–10)."
+    }
+   ],
+   "keret": {
+    "hu": "Az „Akasha” a hagyomány szava egy okozati őselvre; itt egy nyugodt, tér- és időérzeten túli meditatív állapotot gyakorolsz. A tapasztalatot a saját nyugalmadból, nem paranormális állításból ítéld meg.",
+    "en": "'Akasha' is the tradition's word for a causal primordial principle; here you practise a calm meditative state beyond the sense of space and time. Judge the experience by your own calm, not by any paranormal claim."
+   },
+   "etika": {
+    "hu": "A transz felé mutató, mélyülő csendgyakorlat stabil idegrendszert kíván. Ha nyugtalanság, szorongás vagy elszakadás-érzés tartósan fennáll, hagyd abba, térj vissza az egyszerűbb gyakorlatokhoz, és szükség esetén kérj szakszerű segítséget.",
+    "en": "This deepening stillness practice, pointing toward trance, demands a stable nervous system. If restlessness, anxiety or a sense of detachment persists, stop, return to simpler exercises, and seek professional help if needed."
+   }
+  },
+  {
+   "id": "steps-elemental-creation-dissolution",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Materia Prima",
+   "cim": {
+    "hu": "Gondolatlény megalkotása és feloszlatása",
+    "en": "Creating and Dissolving a Thought-Being"
+   },
+   "cel": {
+    "hu": "Tudatosan megformálni egy egyetlen jóindulatú feladatra szánt gondolatformát („elementált”), előre kiszabott élettartammal, majd a feladat végeztével felelősen feloszlatni.",
+    "en": "Consciously shape a thought-form ('elemental') dedicated to a single benevolent task, with a lifespan set in advance, then responsibly dissolve it once the task is done."
+   },
+   "modszer": [
+    {
+     "hu": "Rögzítsd magadban és a naplódban a CÉLT: egyetlen, világos, jóindulatú feladat — ártó szándék soha.",
+     "en": "Fix in yourself and your diary the PURPOSE: one single, clear, benevolent task — never a harmful intent."
+    },
+    {
+     "hu": "Add meg a FORMÁT és a NEVET (a nevet csak te ismerd), és a plasztikus képzelettel formáld meg a lényt.",
+     "en": "Give it a FORM and a NAME (known to you alone), and shape the being with plastic imagination."
+    },
+    {
+     "hu": "Szabd meg előre az ÉLETTARTAMOT és a működés módját — mikor és hogyan hasson, mikor térjen vissza megújításra.",
+     "en": "Set in advance the LIFESPAN and the mode of working — when and how it acts, when it returns for renewal."
+    },
+    {
+     "hu": "Amikor a feladat teljesült vagy az idő lejárt, TE MAGAD oldd fel: a képzelettel oldd vissza abba a minőségbe, amelyből formáltad.",
+     "en": "When the task is fulfilled or the time is up, YOU YOURSELF dissolve it: with imagination release it back into the quality from which you shaped it."
+    },
+    {
+     "hu": "Tanuld meg felismerni a szándéktalanul, erős ismételt érzelmekből (félelem, harag) szülemlő „lárvákat” is: a fegyvered a figyelem és az érzelem megvonása, majd a tudatos szétoszlatás.",
+     "en": "Learn also to recognise 'larvae' born unintentionally from strong repeated emotions (fear, anger): your weapon is the withdrawal of attention and emotion, followed by conscious disintegration."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint minden erős, ismételt gondolat és érzelem „formát” ölt; ez a gyakorlat ezt teszi tudatossá és fegyelmezetté. Belső, önismereti munkaként a legőszintébb — arról szól, mit táplálsz a figyelmeddel.",
+    "en": "In the tradition every strong, repeated thought and emotion takes on 'form'; this practice makes that conscious and disciplined. As inner, self-knowledge work it is most honest — it is about what you feed with your attention."
+   },
+   "etika": {
+    "hu": "Soha ne formálj lényt ártásra vagy más befolyásolására — a hagyomány szerint a teremtett forma a teremtője jellemét hordozza, és a következmény hozzá tér vissza. Minden formát felelősen fel kell oldani; gazdátlan teremtményt hátrahagyni tilos.",
+    "en": "Never shape a being for harm or to influence others — the tradition holds that a created form carries its maker's character and the consequence returns to them. Every form must be responsibly dissolved; leaving a masterless creature behind is forbidden."
+   }
+  },
+  {
+   "id": "steps-reality-check-impressions",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A benyomások valóság-próbája",
+    "en": "The Reality-Check of Impressions"
+   },
+   "cel": {
+    "hu": "Az érzékenyülő belső észlelésnél megkülönböztetni a magad gyártotta képet, hangot vagy érzést a magától érkezőtől, és minden benyomást az ellenőrizhető valósággal összevetni — a józanság, mint munkavédelem.",
+    "en": "In a sensitising inner perception, distinguish the image, sound or feeling you manufacture from the one that arrives on its own, and test every impression against verifiable reality — sobriety as protective equipment."
+   },
+   "modszer": [
+    {
+     "hu": "Csendesedj el, és figyelj befelé egyetlen finom benyomásra — belső kép, hang vagy testérzet. Ne minősítsd, csak jegyezd meg.",
+     "en": "Grow still and attend inwardly to a single subtle impression — an inner image, sound or bodily sensation. Do not judge it, only note it."
+    },
+    {
+     "hu": "Kérdezd: a magam szava ez, vagy magától érkezett? A magától jövő rövid, világos és nem hízeleg; ami hosszan magyaráz és a vágyaidat visszhangozza, az szinte biztosan a sajátod.",
+     "en": "Ask: is this my own word, or did it arrive on its own? What comes on its own is brief, clear and does not flatter; what explains at length and echoes your wishes is almost certainly your own."
+    },
+    {
+     "hu": "Írj le MINDEN benyomást azonnal, dátummal.",
+     "en": "Write down EVERY impression at once, dated."
+    },
+    {
+     "hu": "Amint lehet, vesd össze az ellenőrizhető valósággal: menj oda, kérdezz rá, hasonlítsd össze.",
+     "en": "As soon as possible, test it against verifiable reality: go there, ask, compare."
+    },
+    {
+     "hu": "Amit ismételten igazolódik, arra építhetsz; amit nem, azt köszönd meg és engedd el. Az eltérést mérőműszerként kezeld, ne kudarcként.",
+     "en": "What is repeatedly confirmed you may build on; what is not, thank and let go. Treat a deviation as a measuring instrument, not a failure."
+    }
+   ],
+   "keret": {
+    "hu": "A legfontosabb belső fegyelmek egyike: a vágy képet fest, a félelem hangot ad, a remény jelentést told a semmire. A gyakorlat egésze az önámítás elleni módszeres védekezés — a józan kétely itt nem hitetlenség.",
+    "en": "One of the most important inner disciplines: desire paints images, fear lends a voice, hope reads meaning into nothing. The whole practice is a methodical defence against self-deception — sober doubt here is not unbelief."
+   },
+   "etika": {
+    "hu": "Ne használd a finomodó érzékenységet mások kifürkészésére, és semmilyen „belső üzenetet” ne fogadj el vezetőként fontos élethelyzetben ellenőrzés nélkül. Krízisben, döntésben mindig valós tanácshoz fordulj.",
+    "en": "Do not use the refining sensitivity to pry into others, and never accept any 'inner message' as a guide in an important life situation without verification. In crisis or major decisions, always turn to real-world counsel."
+   }
+  },
+  {
+   "id": "steps-mental-wandering-verified",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Mentális vándorlás ellenőrzéssel",
+    "en": "Mental Wandering with Verification"
+   },
+   "cel": {
+    "hu": "A figyelem középpontját a test megszokott nézőpontjából egy közeli, jól ismert helyre áthelyezni, ott megfigyelni a részleteket, nyugodtan visszatérni, majd a látottakat a valósággal összevetni.",
+    "en": "Shift the center of attention from the body's habitual viewpoint to a nearby, well-known place, observe the details there, return calmly, then compare what was seen with reality."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj kényelmesen, csukd be a szemed, és képzeld, hogy a tudatod néhány lépésre a testedtől, a szoba egy pontján áll; onnan lásd a bútorokat és a mozdulatlanul ülő testedet is.",
+     "en": "Sit comfortably, close your eyes, and imagine your awareness stands a few paces from your body, at a point in the room; from there see the furniture and your own motionless body too."
+    },
+    {
+     "hu": "Ha ez otthonossá vált, helyezd a tudatod egy jól ismert közeli helyre — a szomszéd szobába, egy barát konyhájába; ne emlékképet idézz, hanem figyeld a részleteket.",
+     "en": "Once this feels natural, place your awareness at a well-known nearby place — the next room, a friend's kitchen; do not summon a memory, but observe the details."
+    },
+    {
+     "hu": "Minden alkalommal tudatosan, sietség nélkül térj vissza a testedbe, és néhány lélegzettel érkezz meg teljesen.",
+     "en": "Each time, return to your body consciously and without haste, arriving fully with a few breaths."
+    },
+    {
+     "hu": "Amikor csak lehet, ELLENŐRIZD a látottakat: menj oda, kérdezz rá, vesd össze — ez választja el a valódi gyakorlatot az álmodozástól.",
+     "en": "Whenever possible, VERIFY what you saw: go there, ask, compare — this separates the real practice from daydreaming."
+    },
+    {
+     "hu": "A gyakori, rövid vándorlás többet ér a ritkánál és hosszúnál; messzebb csak akkor menj, ha a közeli helyeken már megbízhatóan észlelsz.",
+     "en": "Frequent short wanderings are worth more than rare long ones; go farther only when you already perceive reliably at nearby places."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány „testtől független” észlelésként írja le; a te szinteden ez egy erős vizualizációs és figyelem-áthelyezési gyakorlat, amelynek értékét épp az utólagos ellenőrzés adja. Az eltérés nem kudarc, hanem adat.",
+    "en": "The tradition describes this as perception 'independent of the body'; at your level it is a strong visualization and attention-shifting exercise whose value comes precisely from the later verification. A deviation is not failure but data."
+   },
+   "etika": {
+    "hu": "Csak nyugodt, kiegyensúlyozott állapotban gyakorold, és mindig nyugodtan térj vissza. Ne használd mások megfigyelésére vagy magánéletük kifürkészésére. Ha félelem vagy zavartság tartósan fennáll, hagyd abba, és kérj szakszerű segítséget.",
+    "en": "Practise only in a calm, balanced state, and always return calmly. Do not use it to observe others or pry into their private lives. If fear or confusion persists, stop and seek professional help."
+   }
+  },
+  {
+   "id": "steps-two-fluids-sensing",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A két fluidum érzete — elektromos és mágneses",
+    "en": "The Feel of the Two Fluids — Electric and Magnetic"
+   },
+   "cel": {
+    "hu": "Megkülönböztetni és tisztán megérezni a hagyomány két alapvető ható minőségét: a táguló, meleg „elektromos” és az összehúzó, hűvös „mágneses” érzetet — majd mindkettőt maradéktalanul feloldani.",
+    "en": "Distinguish and clearly feel the tradition's two fundamental active qualities: the expansive, warm 'electric' and the contracting, cool 'magnetic' sensation — then dissolve both without remainder."
+   },
+   "modszer": [
+    {
+     "hu": "Halmozd fel az elektromos minőséget a tűz-munkából ismerős módon: érezd, ahogy a tested — vagy egyetlen testrészed, például a jobb kezed — forró, feszítő, sugárzó érzettel telik meg.",
+     "en": "Accumulate the electric quality as familiar from fire work: feel your body — or a single part, say your right hand — filling with a hot, straining, radiant sensation."
+    },
+    {
+     "hu": "Tanuld meg pontosan az érzetét, majd oldd fel teljesen.",
+     "en": "Learn its feel precisely, then dissolve it completely."
+    },
+    {
+     "hu": "Halmozd fel ugyanígy a mágneses minőséget: érezd a hűvös, vonzó, összetartó sűrűsödést, ismerd meg az érzetét, és oldd fel.",
+     "en": "Accumulate the magnetic quality the same way: feel the cool, attracting, binding condensation, learn its feel, and dissolve it."
+    },
+    {
+     "hu": "Gyakorold a kettő tiszta megkülönböztetését; egy ülésen mindig csak egyikkel dolgozz, és teljes feloldással zárj.",
+     "en": "Practise the clean distinction between the two; in a session work with only one, and close with complete dissolution."
+    },
+    {
+     "hu": "Jegyezd fel, melyik minőség érződött, hol, milyen erősen — és hogy a feloldás teljes volt-e.",
+     "en": "Note which quality was felt, where, how strongly — and whether the dissolution was complete."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint minden hatás e két pólus játéka; a te tapasztalatod szintjén ez két jól elkülönülő testérzet (meleg-táguló, illetve hűvös-összehúzó) tudatos felidézése és elengedése. Nem fizikai elektromosságról vagy mágnesességről van szó.",
+    "en": "The tradition holds every effect to be a play of these two poles; at the level of your experience it is the conscious evocation and release of two distinct bodily sensations (warm-expansive and cool-contracting). This is not physical electricity or magnetism."
+   },
+   "etika": {
+    "hu": "A hagyomány e minőségeket mások „befolyásolására” is használhatónak mondja — ezt kizárólag nemes, beleegyezésen alapuló célra, más szabadságát tisztelve tedd, és soha ne más akarata ellenében. Zárj mindig teljes feloldással.",
+    "en": "The tradition says these qualities can also be used to 'influence' others — do so only for noble, consent-based ends, respecting others' freedom, and never against another's will. Always close with complete dissolution."
+   }
+  },
+  {
+   "id": "steps-four-divine-qualities",
+   "mester": "Franz Bardon",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Meditáció a négy isteni minőségen",
+    "en": "Meditation on the Four Divine Qualities"
+   },
+   "cel": {
+    "hu": "Négy alapminőségben — az erő, a bölcsesség, a mindent átölelő szeretet és a halhatatlan tudat érzetében — egyenként elmélyülni, majd engedni, hogy egyetlen osztatlan jelenlétté olvadjanak.",
+    "en": "Immerse yourself one by one in four fundamental qualities — the feeling of power, wisdom, all-embracing love and immortal consciousness — then let them melt into one undivided presence."
+   },
+   "modszer": [
+    {
+     "hu": "Egyszerre csak egy minőséggel dolgozz, és maradj nála hetekig, míg nem fogalom többé, hanem élmény.",
+     "en": "Work with one quality at a time, and stay with it for weeks, until it is no longer a concept but an experience."
+    },
+    {
+     "hu": "Az erő (tűz) minőségében merülj el a hordozó akarat érzetében — ne hatalmi képzelgésként, hanem csendes megtartó erőként.",
+     "en": "In the quality of power (fire), immerse yourself in the feeling of a carrying will — not as a fantasy of power, but as a quiet sustaining strength."
+    },
+    {
+     "hu": "A bölcsesség (levegő) minőségében időzz a tisztaság és világosság érzésében, míg a gondolkodásod maga válik derűssé; a szeretet (víz) minőségében engedd, hogy a válogatás nélküli jóindulat kiáradjon belőled minden élő felé.",
+     "en": "In the quality of wisdom (air), dwell in the feeling of clarity, until your thinking itself grows serene; in the quality of love (water), let an undiscriminating goodwill stream out of you toward every living thing."
+    },
+    {
+     "hu": "A halhatatlan tudat (föld/Éter) minőségében meditálj azon a csendes jelenléten, amely benned mindig ugyanaz marad — ez a legcsendesebb és a legmélyebb.",
+     "en": "In the quality of immortal consciousness (earth/Aether), meditate on the quiet presence in you that always stays the same — this is the quietest and the deepest."
+    },
+    {
+     "hu": "Amikor mind a négy eleven élményed, idézd fel őket egyetlen meditációban egymás után, és engedd, hogy határvonalaik feloldódjanak egyetlen jelenlétben.",
+     "en": "When all four are living experiences, call them up one after another in a single meditation, and let their boundaries dissolve into one presence."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt az „egyesülés” munkájának nevezi; a te tapasztalatod szintjén ez egy mély, értékorientált meditáció, amelyben nem oldódsz fel és nem tűnsz el — tudatos önmagad maradsz. A gyümölcse a jellem érése, nem egy kihirdethető állapot.",
+    "en": "The tradition calls this the work of 'union'; at the level of your experience it is a deep, value-oriented meditation in which you do not dissolve or vanish — you remain consciously yourself. Its fruit is the ripening of character, not an announceable state."
+   },
+   "etika": {
+    "hu": "A hagyomány itt „gondolatolvasásról” is szól — ilyesmit ne gyakorolj mások rovására: tiszteld mindenki szabadságát és magánéletét. Ezen a szinten a fő kísértés a kiválasztottság-érzés és a szellemi gőg; ellenszere az alázat és a csendes szolgálat.",
+    "en": "The tradition here also speaks of 'thought reading' — do not practise anything of the kind at others' expense: respect everyone's freedom and privacy. At this level the chief temptation is a sense of being chosen and spiritual pride; its antidote is humility and quiet service."
+   }
+  }
+ ]
+}

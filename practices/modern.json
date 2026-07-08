@@ -1,0 +1,488 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-modern",
+ "nevek": {
+  "hu": "Modern mesterek és a pajzs",
+  "en": "Modern masters & the shield"
+ },
+ "gyakorlatok": [
+  {
+   "id": "mod-induction-fingerprints",
+   "mester": "Kaspirovszkij",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Az indukció ujjlenyomatai",
+    "en": "The Fingerprints of Induction"
+   },
+   "cel": {
+    "hu": "Megtanulni felismerni azokat a lélektani eszközöket, amelyekkel a média, a reklám és a karizmatikus szónokok befolyásolják a figyelmet, hogy tudatosabban dönthess. A hagyomány szerint a felismerés önmagában véd.",
+    "en": "To learn to recognize the psychological devices by which media, advertising and charismatic speakers steer attention, so you can choose more consciously. The tradition holds that recognition alone protects."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz ki naponta egy tartalmat (hírfolyam, reklám, felszólalás), és nézd meg pusztán a formáját, ne a tartalmát.",
+     "en": "Each day pick one piece of content (feed, advert, speech) and look purely at its form, not its message."
+    },
+    {
+     "hu": "Keresd az ismétlést és a ritmust: ugyanaz az üzenet visszatér-e addig, míg ismerőssé kopik?",
+     "en": "Look for repetition and rhythm: does the same message return until it wears familiar?"
+    },
+    {
+     "hu": "Figyeld az érzelmi felpörgetést (félelem, felháborodás, sürgetés) és a társas bizonyítékot ('milliók már…').",
+     "en": "Watch for emotional revving (fear, outrage, urgency) and social proof ('millions already…')."
+    },
+    {
+     "hu": "Nevezd meg a tekintély-jelmezt: a cím, a köpeny, a stúdiófény nem azonos az igazsággal.",
+     "en": "Name the authority costume: title, coat, studio light are not the same as truth."
+    },
+    {
+     "hu": "Jegyezd fel a naplóba, mit vettél észre, és hogy megváltozott-e a hozzáállásod a tartalomhoz.",
+     "en": "Note in the journal what you spotted, and whether your stance toward the content changed."
+    }
+   ],
+   "keret": {
+    "hu": "Ezek a mintázatok a tömeglélektan jól dokumentált eszközei; a felismerésük higiénia, nem paranoia.",
+    "en": "These patterns are well-documented devices of mass psychology; recognizing them is hygiene, not paranoia."
+   },
+   "etika": {
+    "hu": "A cél a saját tisztánlátásod, nem mások leleplezése vagy megvádolása. A befolyásolás felismerése nem jogosít fel arra, hogy mások meggyőződését lekicsinyeld.",
+    "en": "The aim is your own clear sight, not exposing or accusing others. Recognizing influence does not entitle you to belittle others' convictions."
+   }
+  },
+  {
+   "id": "mod-critical-pause",
+   "mester": "Kaspirovszkij",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Ido",
+   "cim": {
+    "hu": "A kritikus szünet",
+    "en": "The Critical Pause"
+   },
+   "cel": {
+    "hu": "Egy egyszerű időbeli fék beépítése, amely megvéd az érzelmi csúcson hozott elhamarkodott döntésektől: hittől, vásárlástól, elköteleződéstől.",
+    "en": "To build in a simple temporal brake that guards against rash decisions made at an emotional peak: belief, purchase, commitment."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor egy üzenet erős érzelmi hullámot kelt benned, és azonnali cselekvésre sürget, ismerd fel ezt a pillanatot.",
+     "en": "When a message stirs a strong emotional wave and urges immediate action, recognize that moment."
+    },
+    {
+     "hu": "Adj magadnak egy éjszakát: halaszd a döntést másnapra, mielőtt elhinnél vagy megvennél bármit.",
+     "en": "Give yourself one night: postpone the decision to tomorrow before believing or buying anything."
+    },
+    {
+     "hu": "Tedd fel a kérdést: kinek az érdeke, hogy ezt most azonnal elhiggyem vagy megtegyem?",
+     "en": "Ask: whose interest is it that I believe or do this right now?"
+    },
+    {
+     "hu": "Másnap, higgadtan mérlegeld újra. Ami holnap is igaz, az ráért holnapig.",
+     "en": "The next day, weigh it again calmly. What is still true tomorrow could wait until tomorrow."
+    }
+   ],
+   "keret": {
+    "hu": "A sürgetés a befolyásolás egyik legrégibb fogása, mert a gyors döntés kikapcsolja a mérlegelést; a szünet visszaadja azt.",
+    "en": "Urgency is one of influence's oldest devices, because a fast decision switches off weighing; the pause restores it."
+   }
+  },
+  {
+   "id": "mod-own-scale",
+   "mester": "Kaspirovszkij",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A saját mérleg megtartása",
+    "en": "Keeping Your Own Scale"
+   },
+   "cel": {
+    "hu": "Kialakítani azt a belső tartást, amely nem ad ki a döntés jogát semmilyen tekintélynek — se gurunak, se képernyőnek, se tömegnek —, miközben nyitott marad. Az érett gyakorló ismérve nem a hitetlenség, hanem a mérleg birtoklása.",
+    "en": "To form the inner stance that hands the right to judge to no authority — not a guru, a screen, or a crowd — while staying open. The mature practitioner's mark is not disbelief but owning the scale."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor egy állítást hallasz, tartsd külön a kérdést: mit érzek iránta, és mi ennek a bizonyítéka?",
+     "en": "When you hear a claim, keep separate: what do I feel toward it, and what is its evidence?"
+    },
+    {
+     "hu": "Figyeld, mikor akarsz elhinni valamit azért, mert jólesik vagy mert a csoport is hiszi — ez a hízelgés és a nyomás kapuja.",
+     "en": "Notice when you want to believe something because it feels good or the group believes it — that is the gate of flattery and pressure."
+    },
+    {
+     "hu": "Engedd, hogy Thot semleges írnoka üljön benned akkor is, amikor a terem tapsol.",
+     "en": "Let Thoth's neutral scribe sit in you even when the hall applauds."
+    },
+    {
+     "hu": "Se ne hidd el vakon, se ne tagadd reflexből: tedd a mérlegre, és hagyd nyitva, amit még nem tapasztaltál.",
+     "en": "Neither believe blindly nor deny by reflex: put it on the scale, and leave open what you have not yet experienced."
+    }
+   ],
+   "keret": {
+    "hu": "Ez nem cinizmus és nem hiszékenység, hanem a kettő közötti éber középút, amelyet a hagyomány a szabadság feltételének tart.",
+    "en": "This is neither cynicism nor credulity, but the wakeful middle path between them, which the tradition holds to be the condition of freedom."
+   },
+   "etika": {
+    "hu": "A mérleg megtartása a saját döntéseidre vonatkozik, nem mások meggyőzésének fegyvere. Tiszteld mások jogát, hogy másként mérlegeljenek.",
+    "en": "Keeping the scale applies to your own decisions, not as a weapon to convert others. Respect others' right to weigh differently."
+   }
+  },
+  {
+   "id": "mod-treatment-boundary",
+   "mester": "Kaspirovszkij",
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "Az egészség kőkemény határvonala",
+    "en": "The Iron Boundary of Health"
+   },
+   "cel": {
+    "hu": "Egyértelmű belső szabályt rögzíteni: bármilyen belső vagy energetikai munka a kezelés MELLETT áll, sosem helyette. Aki a kezelés elhagyására bátorít, attól el kell fordulni, akármilyen meggyőző.",
+    "en": "To fix a clear inner rule: any inner or energetic work stands BESIDE treatment, never instead of it. Turn away from whoever encourages abandoning treatment, however convincing."
+   },
+   "modszer": [
+    {
+     "hu": "Mondd ki magadnak előre, nyugodt fejjel: betegség esetén az első lépés mindig az orvos.",
+     "en": "State to yourself in advance, with a calm head: in illness the first step is always the physician."
+    },
+    {
+     "hu": "Ha valaki — előadó, gyógyító, közösség — a kezelésed elhagyására vagy halogatására bátorít, tekintsd ezt vészjelnek.",
+     "en": "If anyone — a speaker, healer, or community — encourages you to abandon or postpone your treatment, treat it as a warning sign."
+    },
+    {
+     "hu": "A rendkívüli gyógyulás-ígéreteknél kérdezd meg, van-e mögötte orvosi igazolás, vagy csak tanúságtétel.",
+     "en": "With extraordinary healing promises, ask whether there is medical verification behind it, or only testimony."
+    },
+    {
+     "hu": "A belső nyugalmat és reményt használd a kezelésed támogatására: a nyugodt ember jobban tűri és segíti a gyógyulást.",
+     "en": "Use inner calm and hope to support your treatment: the calm person bears and aids healing better."
+    }
+   ],
+   "keret": {
+    "hu": "A tömegszuggesztió dokumentált kára jórészt abból állt, hogy egyesek a csodára várva halogatták a valódi kezelést; ez a határvonal élet kérdése, nem hité.",
+    "en": "Mass suggestion's documented harm consisted largely of people postponing real treatment while awaiting a miracle; this boundary is a question of life, not of faith."
+   },
+   "etika": {
+    "hu": "Semmilyen gyakorlat nem helyettesíti az orvosi és pszichológiai ellátást. Ez a szabály másokra is vonatkozik: soha ne bátoríts senkit a kezelése elhagyására, és tiszteld a szabad akaratát a döntésben.",
+    "en": "No practice replaces medical or psychological care. This rule extends to others: never encourage anyone to abandon their treatment, and respect their free will in the choice."
+   }
+  },
+  {
+   "id": "mod-golden-age-compass",
+   "mester": "Ignatenko",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Az Aranykor mint napi iránytű",
+    "en": "The Golden Age as Daily Compass"
+   },
+   "cel": {
+    "hu": "A Szeretet–Jóság–Fény hármasát nem jövőbeli jóslatként, hanem napi tettek iránytűjeként használni, hogy a nagy vízió a jelen apró cselekedeteiben öltsön testet.",
+    "en": "To use the triad of Love–Goodness–Light not as a future prophecy but as a compass for daily deeds, so the great vision takes form in the small acts of the present."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel tedd fel a Szeretet kérdését: ma, ebben a helyzetben mi a szeretet TETTE — nem az érzés, hanem a tett?",
+     "en": "In the morning ask the question of Love: today, in this situation, what is the DEED of love — not the feeling, but the deed?"
+    },
+    {
+     "hu": "Napközben a Jóság kérdése: hol tudok jóságot vinni oda, ahol hiány van belőle, látványosság nélkül?",
+     "en": "During the day, the question of Goodness: where can I carry goodness to where it is lacking, without display?"
+    },
+    {
+     "hu": "Este a Fény kérdése: mit hoztam ma világosságra — egy igazságot, egy tudást, egy elhallgatott dolgot?",
+     "en": "In the evening, the question of Light: what did I bring to light today — a truth, a knowledge, a thing left unspoken?"
+    },
+    {
+     "hu": "Jegyezd fel egy sorban a nap egyetlen konkrét tettét a hármas jegyében.",
+     "en": "Note in one line the day's single concrete deed in the sign of the triad."
+    }
+   ],
+   "keret": {
+    "hu": "A vízió itt nem várni való jövő, hanem gyakorlat: nem elhiszed, hanem csinálod, egy emberben, egy háztartásban kezdve.",
+    "en": "The vision here is not a future to await but a practice: you do not believe it, you do it, beginning in one person, one household."
+   },
+   "etika": {
+    "hu": "A jóság tettei mások szabadságát tisztelve történjenek; a jó szándék nem jogosít fel arra, hogy mások életébe kéretlenül beavatkozz.",
+    "en": "Let deeds of goodness respect others' freedom; good intent does not entitle you to intervene uninvited in others' lives."
+   }
+  },
+  {
+   "id": "mod-reserve-rotation",
+   "mester": "Ignatenko",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A tartalék-képességek forgó edzése",
+    "en": "The Rotating Training of Reserve Capacities"
+   },
+   "cel": {
+    "hu": "Az emberben szunnyadó tartalékokat — emlékezet, koncentráció, vizualizáció, energia-érzékelés — rendszeres, forgó heti rendben edzeni. A hagyomány szerint a 'fenomén' nem csodalény, hanem ember, aki kibontotta, amit a legtöbben sosem edzenek.",
+    "en": "To train the reserves dormant in a person — memory, concentration, visualization, energy sensing — in a regular, rotating weekly order. The tradition holds that the 'phenomenon' is no miracle-being but a human who unfolded what most never train."
+   },
+   "modszer": [
+    {
+     "hu": "Hétfőn és csütörtökön emlékezet: esti visszapörgetés (a nap eseményei visszafelé, képekben) és egy rövid lista megjegyzése.",
+     "en": "On Monday and Thursday, memory: the evening rewind (the day's events backwards, in images) and memorizing a short list."
+    },
+    {
+     "hu": "Kedden és pénteken koncentráció: egy tárgy, öt perc, az elkalandozásokat számolva.",
+     "en": "On Tuesday and Friday, concentration: one object, five minutes, counting the wanderings."
+    },
+    {
+     "hu": "Szerdán és szombaton vizualizáció: egy ismerős arc vagy tárgy felidézése minden érzékkel.",
+     "en": "On Wednesday and Saturday, visualization: recalling a familiar face or object with every sense."
+    },
+    {
+     "hu": "Vasárnap összegzés a naplóban: melyik tartalék mozdult a héten?",
+     "en": "On Sunday, a summary in the journal: which reserve moved this week?"
+    }
+   ],
+   "keret": {
+    "hu": "Ezek edzhető, hétköznapi képességek, amelyek gyakorlással mérhetően fejlődnek; a rendkívüli távoli-hatás állításokat hagyd a saját mérlegeden.",
+    "en": "These are trainable, everyday faculties that improve measurably with practice; leave the extraordinary distant-effect claims on your own scale."
+   }
+  },
+  {
+   "id": "mod-living-water",
+   "mester": "Ignatenko",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Az élő víz gyakorlata",
+    "en": "The Living Water Practice"
+   },
+   "cel": {
+    "hu": "A vizet a jelenlét és az öngondoskodás napi horgonyaként inni: egy tudatos szándékkal töltött pohár, amely a napi ritmusba köti a figyelmet. A hagyomány a vizet információ-hordozónak tekinti.",
+    "en": "To drink water as a daily anchor of presence and self-care: a glass filled with conscious intention that ties attention into the day's rhythm. The tradition regards water as an information-carrier."
+   },
+   "modszer": [
+    {
+     "hu": "Tölts egy pohár tiszta vizet, és fogd a két tenyered közé.",
+     "en": "Pour a glass of clean water and hold it between your two palms."
+    },
+    {
+     "hu": "Egy percig időzz a szándékban: egészség, világosság vagy nyugalom — amire ma szükséged van.",
+     "en": "Dwell a minute in the intention: health, clarity, or calm — whatever you need today."
+    },
+    {
+     "hu": "Mondj ki fölötte egy köszönetet vagy a napi formuládat.",
+     "en": "Speak over it a thanksgiving or your daily formula."
+    },
+    {
+     "hu": "Idd meg lassan, teljes jelenléttel, figyelve az ízre és az érzetre.",
+     "en": "Drink it slowly, with full presence, attending to taste and sensation."
+    }
+   ],
+   "keret": {
+    "hu": "Hogy a víz 'megjegyzi-e' a szándékot, azt hagyd a mérlegeden; amit biztosan tesz, az a te figyelmedet horgonyozza le a jelenben.",
+    "en": "Whether the water 'remembers' the intention, leave on your scale; what it certainly does is anchor your own attention in the present."
+   },
+   "etika": {
+    "hu": "Ez öngondoskodó jelenlét-gyakorlat, nem orvosi kezelés, és nem helyettesíti az orvosi ellátást. Betegség esetén az első lépés mindig az orvos. A víz maradjon tiszta, iható víz.",
+    "en": "This is a self-care presence practice, not medical treatment, and does not replace medical care. In illness the first step is always the physician. Keep the water clean, drinkable water."
+   }
+  },
+  {
+   "id": "mod-living-earth",
+   "mester": "Ignatenko",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Az élő Föld heti tette",
+    "en": "The Living Earth's Weekly Deed"
+   },
+   "cel": {
+    "hu": "Hetente egy tudatos, apró tettel megélni a Földdel való kapcsolatot: nem elvont környezetvédelemként, hanem konkrét, jelenléttel végzett energia-gyakorlatként. A kozmohumanista számára a Föld élő rendszer, amelynek sejtje vagy.",
+    "en": "To live the connection with the Earth through one conscious small deed a week: not as abstract environmentalism but as a concrete energy practice done with presence. For the cosmohumanist the Earth is a living system of which you are a cell."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz hetente egy konkrét tettet: szemetet felszedni, vizet megkímélni, egy fát megöntözni, egy helyet rendbe tenni.",
+     "en": "Choose one concrete deed a week: pick up litter, spare water, water a tree, set a place in order."
+    },
+    {
+     "hu": "Végezd teljes jelenléttel, ne kötelességből, hanem a kapcsolat tudatosításaként.",
+     "en": "Do it with full presence, not from duty, but as an awareness of connection."
+    },
+    {
+     "hu": "Figyeld, mit érzel közben és utána: a hely és te is megváltoztatok-e valamennyit.",
+     "en": "Notice what you feel during and after: whether the place and you both changed a little."
+    },
+    {
+     "hu": "Jegyezd fel a naplóban a heti tettet és a tapasztalatot.",
+     "en": "Note the weekly deed and the experience in the journal."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a tett akkor is értékes és valóságos, ha a mögötte álló metafizikát nem fogadod el; a gondoskodás gyümölcse a helyben és benned mérhető.",
+    "en": "This deed is valuable and real even if you do not accept the metaphysics behind it; the fruit of care is measurable in the place and in you."
+   }
+  },
+  {
+   "id": "mod-contact-reading",
+   "mester": "Mentalizmus",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A mikro-jelek olvasása",
+    "en": "Reading the Micro-Signals"
+   },
+   "cel": {
+    "hu": "Kifejleszteni azt a valódi, becsületes érzékenységet, amellyel az emberek akaratlan testi jelzéseit — feszülés, légzés-megtorpanás, tekintet-rebbenés — észreveszed. Ez a képesség Bardon érzékenység-munkájának rokona, és a 'gondolatolvasás' látszatának hétköznapi magja.",
+    "en": "To develop the real, honest sensitivity by which you notice people's involuntary bodily signals — tension, a catch in the breath, a flicker of the gaze. This faculty is kin to Bardon's sensitivity work, and the mundane kernel behind the appearance of 'mind-reading'."
+   },
+   "modszer": [
+    {
+     "hu": "Egy beszélgetésben figyeld a fordulópontokat: mikor torpan meg a légzés, mikor rebben a tekintet, mikor kap a hang egy árnyalatot.",
+     "en": "In a conversation watch the turning points: when the breath catches, when the gaze flickers, when the voice takes on a shade."
+    },
+    {
+     "hu": "Nézd, mit mond a kéz és a testtartás, amit a szó nem: hol feszül, hol enged.",
+     "en": "See what the hand and posture say that words do not: where they tense, where they release."
+    },
+    {
+     "hu": "Vezesd vissza a jelet a lehetséges érzelemre, de ne állítsd biztosnak: a jel nyom, nem bizonyíték.",
+     "en": "Trace the sign back to a possible emotion, but do not assert it as certain: the sign is a trace, not proof."
+    },
+    {
+     "hu": "Jegyezd fel a naplóba egy jelzést, amit ma észrevettél, amit korábban nem láttál volna.",
+     "en": "Note in the journal one signal you noticed today that you would not have seen before."
+    }
+   ],
+   "keret": {
+    "hu": "Ez valódi, átvihető és teljesen becsületes megfigyelő-készség; a világ tele van jelzéssel, a mester az, aki fogja őket.",
+    "en": "This is a real, transferable and perfectly honest observational skill; the world is full of signals, and the master is the one who catches them."
+   },
+   "etika": {
+    "hu": "A jelek olvasása mások megértésére és a saját éberségedre való, nem arra, hogy manipuláld vagy 'leolvasd' azt, aki nem tud a jeleiről. A rád bízott bizalommal ne élj vissza.",
+    "en": "Reading signs is for understanding others and your own alertness, not for manipulating or 'reading' one unaware of their signs. Do not abuse the trust placed in you."
+   }
+  },
+  {
+   "id": "mod-barnum-defense",
+   "mester": "Mentalizmus",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A Barnum-hatás és a hidegolvasás pajzsa",
+    "en": "The Shield Against the Barnum Effect and Cold Reading"
+   },
+   "cel": {
+    "hu": "Felismerni a jellemolvasás mechanizmusát, amellyel egy jós vagy ál-médium pontosnak tűnik: valójában a hallgató olvassa önmagát. A cél a megtéveszthetetlenség, különösen a sebezhető pillanatokban.",
+    "en": "To recognize the mechanism of 'character reading' by which a fortune-teller or fake medium seems accurate: in truth the listener reads themselves. The aim is to be unfoolable, especially in vulnerable moments."
+   },
+   "modszer": [
+    {
+     "hu": "Ismerd fel a kétélű állítást: 'erős vagy, de van benned egy sebezhető rész' — mindkét fele mindenkire igaz.",
+     "en": "Recognize the two-edged statement: 'you are strong, yet there is a vulnerable part in you' — both halves are true of everyone."
+    },
+    {
+     "hu": "Figyeld a halászást: a jós tág kijelentést dob be, a te reakciódat olvassa, majd úgy tesz, mintha ő tudta volna.",
+     "en": "Watch for fishing: the reader casts a broad claim, reads your reaction, then acts as if they knew it."
+    },
+    {
+     "hu": "Vedd észre a szelektív emlékezetet és a hízelgés kapuját: a tíz tévedést elfelejted, az egy találatot csodaként őrzöd; ami a hiúságnak jólesik, azt kritika nélkül beengeded.",
+     "en": "Notice selective memory and the gate of flattery: you forget the ten misses and treasure the one hit as a miracle; what pleases your vanity you admit without scrutiny."
+    },
+    {
+     "hu": "Tedd fel a kulcskérdést: tőlem tudja ezt, vagy tényleg tudja?",
+     "en": "Ask the key question: do they know this from me, or do they really know it?"
+    }
+   ],
+   "keret": {
+    "hu": "A Barnum- (Forer-) hatás jól dokumentált lélektani jelenség; a felismerése egyszerre tesz jobb kommunikátorrá és védettebbé a manipulációval szemben.",
+    "en": "The Barnum (Forer) effect is a well-documented psychological phenomenon; recognizing it makes you at once a better communicator and better guarded against manipulation."
+   },
+   "etika": {
+    "hu": "Ez a lecke a saját és szeretteid védelmére szolgál, legfőképp a gyászra vadászó ál-médiumokkal szemben; sosem arra, hogy magad csapj be másokat ezekkel az eszközökkel.",
+    "en": "This lesson serves the protection of yourself and your loved ones, above all against fake mediums preying on grief; never to deceive others with these devices yourself."
+   }
+  },
+  {
+   "id": "mod-honest-presentation",
+   "mester": "Mentalizmus",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Az igaz szó tálalása",
+    "en": "Serving the True Word"
+   },
+   "cel": {
+    "hu": "Megtanulni az előadás becsületes eszközeit — a keretezést, a csend erejét, a ritmust —, hogy a valódi tudásod és igaz szavad elérje az embert. A cél igazat mondani jól, nem ürességet csillogásba csomagolni.",
+    "en": "To learn presentation's honest tools — framing, the power of silence, rhythm — so your genuine knowledge and true word reach a person. The aim is to speak truth well, not to wrap emptiness in glitter."
+   },
+   "modszer": [
+    {
+     "hu": "Figyeld, hogy a keret teremti a jelentést: ahogyan bevezetsz valamit, meghatározza, hogyan élik meg — ez Ptah teremtő szava.",
+     "en": "Notice that the frame creates the meaning: how you introduce something determines how it is experienced — this is Ptah's creative word."
+    },
+    {
+     "hu": "Gyakorold a csend erejét: a kezdő betölti a csendet, a mester használja; a szünet a várakozás motorja.",
+     "en": "Practice the power of silence: the beginner fills the silence, the master uses it; the pause is the engine of anticipation."
+    },
+    {
+     "hu": "Építsd a ritmust: lassú felépítés, egyre feszesebb figyelem, egy tető, majd elengedés.",
+     "en": "Build the rhythm: slow build, ever-tighter attention, a peak, then release."
+    },
+    {
+     "hu": "Emlékezz a pajzs élére: a rendíthetetlen magabiztosság nem az igazság bizonyítéka, csak az érzelmi meggyőzés csatornája — magadnál is figyeld ezt.",
+     "en": "Remember the shield's edge: unshakable confidence is not evidence of truth, only the channel of emotional persuasion — watch for this in yourself too."
+    }
+   ],
+   "keret": {
+    "hu": "Ptahhotep szavával a szép beszéd a hallgatás és az igazság gyümölcse; ezt a művészetet arra tanuld, hogy igazat mondj, ne hogy megtévessz.",
+    "en": "In Ptahhotep's word, fine speech is the fruit of listening and of truth; learn this art to speak truth, not to deceive."
+   },
+   "etika": {
+    "hu": "Az előadás eszközeit etikusan használd: igaz szó tálalására, sosem mások megtévesztésére, kifosztására vagy hamis tekintély építésére.",
+    "en": "Use presentation's tools ethically: to serve a true word, never to deceive, exploit, or build false authority over others."
+   }
+  },
+  {
+   "id": "mod-simulation-boundary",
+   "mester": "Mentalizmus",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A szimuláció és a valódi mű határvonala",
+    "en": "The Boundary Between Simulation and the Genuine Work"
+   },
+   "cel": {
+    "hu": "Élesen látni a különbséget a percek alatt bemutatott 'csoda' (eszközzel dolgozó szimuláció) és a benne magában, évek alatt épülő valódi képesség között. E határ ismerete óvja meg a valódi utat a látványtól.",
+    "en": "To see sharply the difference between the 'miracle' shown in minutes (a simulation working with instruments) and the genuine faculty built within oneself over years. Knowing this boundary guards the real path from the spectacle."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor látványos képességet látsz, kérdezd: van-e mögötte hétköznapi csatorna? Egy valódi képességnek nincs, egy trükknek mindig van.",
+     "en": "When you see a spectacular ability, ask: is there a mundane channel behind it? A genuine faculty has none, a trick always has one."
+    },
+    {
+     "hu": "Ne tévesd össze a mutatványt az elért állapottal — se másban, se magadban: a valódi út mércéje nem a hatás, hanem a gyümölcs.",
+     "en": "Do not mistake the feat for the attained state — neither in others nor in yourself: the measure of the real path is not the effect but the fruit."
+    },
+    {
+     "hu": "Becsüld meg a valódi munka lassúságát: amikor látod, milyen könnyű színlelni a csodát, jobban érted, milyen értékes valóban kimunkálni.",
+     "en": "Honour the slowness of the real work: seeing how easy it is to simulate a miracle, you understand better how precious it is to truly forge it."
+    },
+    {
+     "hu": "Jegyezd fel a naplóba, hol különböztetted meg ma a látványt a valódi gyümölcstől.",
+     "en": "Note in the journal where today you distinguished the spectacle from the genuine fruit."
+    }
+   ],
+   "keret": {
+    "hu": "A trükk elkápráztat egy pillanatra; a kimunkált lélek egy életen át világít — a valódi mű mércéje a türelmesebb, tisztább, igazabb élet.",
+    "en": "The trick dazzles for a moment; the forged soul shines for a lifetime — the measure of the genuine work is a more patient, clearer, truer life."
+   }
+  }
+ ]
+}

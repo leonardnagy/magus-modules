@@ -30,9 +30,18 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
+Together these packs hold **102 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+
 | Pack | Raw link |
 |---|---|
-| Core practice pack (15 practices) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/core.json` |
+| Core practice pack (15) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/core.json` |
+| Built-in practices (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/seed.json` |
+| Bardon — the ten Steps (14) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/bardon-steps.json` |
+| The elements & vital energy (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/elements.json` |
+| Soul work & mirrors (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/soul.json` |
+| Egyptian masters (15) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/egyptian.json` |
+| Channeled masters (13) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/channeled.json` |
+| Modern masters & the shield (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/modern.json` |
 
 Pack format: `{ formatVersion, id, nevek{hu,en}, gyakorlatok:[…] }`, where each practice has
 `id, mester, szint (kezdo|halado|mester), sik (szellem|lelek|test|null),
