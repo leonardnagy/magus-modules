@@ -1,0 +1,397 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-rv-associative",
+ "nevek": {
+  "hu": "Asszociatív távérzékelés — bináris próbák",
+  "en": "Associative RV — binary trials"
+ },
+ "gyakorlatok": [
+  {
+   "id": "rvmp-settle",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Elcsendesedés a próba előtt",
+    "en": "Settling before a trial"
+   },
+   "cel": {
+    "hu": "Nyugodt, kipihent és jelenlévő állapotba kerülni, mielőtt egyetlen benyomást is lejegyeznél — nem transzba, csak csendbe.",
+    "en": "Arrive quiet, rested and present before you record a single impression — not a trance, just stillness."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj le kényelmesen, és indíts egy körülbelül ötperces időzítőt (vagy számolj lassan magadban).",
+     "en": "Sit comfortably and start a timer of about five minutes (or count slowly to yourself)."
+    },
+    {
+     "hu": "Az első percben csak a légzésedre figyelj, és hagyd, hogy magától lelassuljon.",
+     "en": "For the first minute follow only your breath and let it slow of its own accord."
+    },
+    {
+     "hu": "Engedd, hogy a nap zaja és a gondolatok lecsorogjanak rólad; ne kergesd őket el, csak ne tartsd meg.",
+     "en": "Let the day's noise and stray thoughts drain off; do not chase them away, simply do not hold them."
+    },
+    {
+     "hu": "Az utolsó szakaszban ellenőrizd, hogy csendes és jelenlévő vagy-e, tiszta térrel magad előtt.",
+     "en": "In the final stretch, check that you are quiet and present, with a clear space before you."
+    }
+   ],
+   "keret": {
+    "hu": "A gyümölcsét belül mérd — lecsendesült figyelem és jelenlét —, nem valamiféle megszerzett képességben. Egyszerű előkészítő elcsendesedés, semmi több.",
+    "en": "Measure its fruit inwardly — settled attention and presence — not in any acquired power. A simple preparatory quieting, nothing more."
+   }
+  },
+  {
+   "id": "rvmp-frame-question",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Semleges bináris kérdés megfogalmazása",
+    "en": "Framing a neutral binary question"
+   },
+   "cel": {
+    "hu": "Olyan kérdést állítani, aminek pontosan két kimenetele van, magától és hamarosan eldől, és semmi tét nem tapad hozzá.",
+    "en": "Set a question with exactly two outcomes that resolves on its own, soon, with no stake attached."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy eseményt, amely rövidesen magától eldől, akár ránézel, akár nem — például melyik kiegyensúlyozott, számodra közömbös csapat nyer, vagy holnap melegebb vagy hidegebb lesz-e a mainál.",
+     "en": "Pick an event that will soon resolve on its own whether or not you watch — such as which of two evenly matched teams you have no stake in wins, or whether tomorrow is warmer or colder than today."
+    },
+    {
+     "hu": "Ellenőrizd, hogy pontosan két, egyértelmű kimenetel van, és nincs harmadik lehetőség.",
+     "en": "Confirm there are exactly two clear outcomes and no third possibility."
+    },
+    {
+     "hu": "Tartsd a kérdést semlegesnek és alacsony téttel; a kimenetel ne érintse a pénztárcádat vagy más ember életét.",
+     "en": "Keep the question neutral and low-stakes; the outcome must touch neither your wallet nor another person's life."
+    },
+    {
+     "hu": "Írd le a kérdést és a két kimenetelt egyértelmű szavakkal, mielőtt bármi mást tennél.",
+     "en": "Write the question and its two outcomes in unambiguous words before doing anything else."
+    }
+   ],
+   "keret": {
+    "hu": "Ez kalibrációs játék a saját intuíciódhoz, nem a jövő ismerete. A gyümölcsét a becsületesen vezetett számadás mutatja meg, nem egyetlen kérdés.",
+    "en": "This is a calibration game for your own intuition, not knowledge of the future. Its fruit shows in an honestly kept tally, not in any single question."
+   },
+   "etika": {
+    "hu": "Maradj önmagadra irányulva: ne fogalmazz kérdést megnevezett másik ember magánéletéről, hollétéről vagy sorsáról a beleegyezése nélkül, és ne használd eltűnt emberek vagy áldozatok felkutatására. Semmi pénz, fogadás vagy nyereség, és semmi katasztrófa-jóslat, ami megrémítene vagy bizalmatlanná tenne másokkal szemben.",
+    "en": "Stay self-directed: never frame a question about a named person's private life, whereabouts or fate without their consent, and never use it to locate missing people or victims. No money, betting or profit, and no prophecy of disaster that would frighten you or turn you against others."
+   }
+  },
+  {
+   "id": "rvmp-build-deck",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Kiegyensúlyozott képpakli összeállítása",
+    "en": "Building a balanced image deck"
+   },
+   "cel": {
+    "hu": "Olyan képkészletet gyűjteni, amelyben egyik kép sem húzza magához a szemet a másiknál jobban, hogy a megfejtés a benyomásokon múljon.",
+    "en": "Assemble a set of images where no picture pulls the eye more than another, so decoding rests on impressions."
+   },
+   "modszer": [
+    {
+     "hu": "Gyűjts össze legalább egy tucat változatos képet, amelyek hangulatban és energiában hasonlók egymáshoz.",
+     "en": "Collect at least a dozen varied images that are similar to one another in mood and energy."
+    },
+    {
+     "hu": "Nyugodt tájképek jól működnek; kerüld a mozgástól, robbanó energiától vagy nyilvánvaló digitális hamisítástól uralt képeket.",
+     "en": "Calm landscapes work well; avoid pictures dominated by motion, bursts of energy, or obvious digital fakery."
+    },
+    {
+     "hu": "Dobd ki azt a képet, amelyik egyértelműen látványosabb a többinél — az torzítja a megfejtést.",
+     "en": "Discard any picture that is clearly more striking than the rest — it will skew the decode."
+    },
+    {
+     "hu": "Tárold a paklit úgy, hogy bármikor véletlenszerűen húzhass belőle kettőt.",
+     "en": "Store the deck so you can draw two from it at random whenever you like."
+    }
+   ],
+   "keret": {
+    "hu": "A kiegyensúlyozott pakli tisztességesebbé teszi a próbát önmagaddal szemben. A cél a becsületes önmegfigyelés feltételeit megteremteni, nem eredményt garantálni.",
+    "en": "A balanced deck keeps the trial fair to yourself. The aim is to set up honest self-observation, not to guarantee a result."
+   }
+  },
+  {
+   "id": "rvmp-bind-blind",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Két kép vak hozzákötése a válaszokhoz",
+    "en": "Binding two images to the answers, blind"
+   },
+   "cel": {
+    "hu": "A két húzott képet úgy párosítani a két válasszal, hogy a megfigyelés alatt valóban ne tudd, melyik kép melyik kimenetelhez tartozik.",
+    "en": "Pair the two drawn images with the two answers so that, during viewing, you genuinely do not know which image belongs to which outcome."
+   },
+   "modszer": [
+    {
+     "hu": "Adj a próbának egy hivatkozási számot, és jegyezd fel a naplódban a megfigyelés előtt.",
+     "en": "Give the trial a reference number and log it before viewing."
+    },
+    {
+     "hu": "Húzz két képet a pakliból, és zárd le őket külön-külön, felirat nélkül.",
+     "en": "Draw two images from the deck and seal each one separately, unlabelled."
+    },
+    {
+     "hu": "Egy érmefeldobás vagy egy segítő döntse el, melyik lezárt kép tartozik az A, és melyik a B válaszhoz — anélkül, hogy te látnád.",
+     "en": "Let a coin toss or a helper decide which sealed image goes to answer A and which to answer B — out of your sight."
+    },
+    {
+     "hu": "Ne nézd meg a párosítást; ez a vakság védi a próba becsületességét.",
+     "en": "Do not peek at the pairing; that blindness is what protects the trial's honesty."
+    }
+   ],
+   "keret": {
+    "hu": "A vak elrendezés a gyakorlat gerince: enélkül csak magadat áltatnád. A gyümölcse a fegyelmezett őszinteség, nem valamely bizonyított képesség.",
+    "en": "The blind setup is the backbone of the practice: without it you would only be fooling yourself. Its fruit is disciplined honesty, not any proven power."
+   }
+  },
+  {
+   "id": "rvmp-prepare-space",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Csendes, ingerszegény tér előkészítése",
+    "en": "Preparing a quiet, low-distraction space"
+   },
+   "cel": {
+    "hu": "Olyan környezetet teremteni, ahol semmi csillogó, mozgó vagy figyelemelterelő nem húzza el a szemet a próba alatt.",
+    "en": "Create a setting where nothing shiny, moving, or distracting pulls the eye during a trial."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz csendes helyiséget, és időzítsd a próbát arra, amikor kipihent és éber vagy.",
+     "en": "Choose a quiet room and time the trial for when you are rested and alert."
+    },
+    {
+     "hu": "Tegyél a látókörödön kívülre minden fényvisszaverő tárgyat, kijelzőt és mozgó dolgot.",
+     "en": "Move reflective objects, screens, and anything that moves out of your line of sight."
+    },
+    {
+     "hu": "Készíts elő üres papírt és tollat, hogy azonnal írhass, amikor a benyomások jönnek.",
+     "en": "Set out blank paper and a pen so you can write the moment impressions arrive."
+    },
+    {
+     "hu": "Menj végig egy rövid ellenőrző listán: kérdés kész, képek vakon lekötve, tér csendes, kimenetel-ellenőrzés eltervezve.",
+     "en": "Run a short checklist: question set, images bound blind, space quiet, outcome-check planned."
+    }
+   ],
+   "keret": {
+    "hu": "A rendezett tér segíti a nyugodt figyelmet — ennyi. A gyümölcsét a saját összeszedettségedben méred, nem a próba eredményében.",
+    "en": "An ordered space supports calm attention — that is all. Measure its fruit in your own composure, not in the trial's result."
+   }
+  },
+  {
+   "id": "rvmp-blind-view",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Vak megfigyelő ülés — érzékszervi benyomások",
+    "en": "Blind viewing session — sensory impressions"
+   },
+   "cel": {
+    "hu": "Ítélkezés és irányítás nélkül rögzíteni a felmerülő egyszerű érzékszervi benyomásokat, anélkül hogy megnevezéssel próbálkoznál.",
+    "en": "Record the plain sensory impressions that arise, without judging, steering, or trying to name the answer."
+   },
+   "modszer": [
+    {
+     "hu": "Indíts egy körülbelül tízperces időzítőt, és hagyd, hogy először egy gyors első jel kerüljön a papírra.",
+     "en": "Start a timer of about ten minutes and let a first quick mark land on the paper."
+    },
+    {
+     "hu": "Ezután jegyezz le egyszerű benyomásokat — formák, textúrák, hőmérséklet, súly, fény —, ahogy érkeznek.",
+     "en": "Then note plain impressions — shapes, textures, temperature, weight, light — as they come."
+    },
+    {
+     "hu": "Tartsd mozgásban a tollat, ne csukd be a szemed, és ne találgasd a választ; csak a rejtett képet írod le.",
+     "en": "Keep the pen moving, do not close your eyes, and do not guess the answer; you are only describing the hidden image."
+    },
+    {
+     "hu": "A közepe táján járd végig az érzékeidet egyenként, a végén pedig gyűjtsd össze az utolsó benyomásokat.",
+     "en": "Around the midpoint sweep the senses one by one, and near the end gather any last impressions."
+    }
+   ],
+   "keret": {
+    "hu": "Ezt a hagyomány saját modelljeként gyakorlod, nem megállapított tényként. A gyümölcsét a nyugodtabb, jelenlévőbb figyelemben méred, nem abban, hogy 'láttál' valamit.",
+    "en": "You practise this as the tradition's own model, not as established fact. Measure its fruit in steadier, more present attention, not in having 'seen' anything."
+   },
+   "etika": {
+    "hu": "A strukturált belső munka erős érzéseket kavarhat fel. Semmi itt nem diagnosztizál, kezel vagy helyettesít orvosi vagy pszichológiai ellátást. Ha parancsoló hangot kezdesz hallani, vagy bármilyen késztetést érzel, hogy ártsál magadnak vagy másnak, kezeld orvosi vészhelyzetként: állj le azonnal, és fordulj orvoshoz, krízisvonalhoz vagy a mentőkhöz. Nem gyerekeknek és nem krízisben lévőknek való; ha felkavar, tedd le, és kérj segítséget.",
+    "en": "Structured inner work can stir strong feelings. Nothing here diagnoses, treats, or replaces medical or psychological care. If you begin hearing a voice that commands you, or feel any urge to harm yourself or another, treat it as a medical emergency: stop at once and contact a doctor, a crisis line, or emergency services. This is not for children or anyone in crisis; if it unsettles you, set it down and seek support."
+   }
+  },
+  {
+   "id": "rvmp-decode-score",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Megfejtés és becsületes pontozás",
+    "en": "Decoding and honest scoring"
+   },
+   "cel": {
+    "hu": "Eldönteni, melyik képre hasonlítanak jobban a benyomásaid, leolvasni a hozzá kötött választ, majd a valódi kimenetel után egyetlen becsületes jelet feljegyezni.",
+    "en": "Decide which image your impressions resemble more, read off the answer it was bound to, then mark one honest result once the real outcome is known."
+   },
+   "modszer": [
+    {
+     "hu": "Fedd fel a két képet, és nyugodtan vesd össze mindkettőt a jegyzeteiddel.",
+     "en": "Reveal the two images and calmly compare each to your notes."
+    },
+    {
+     "hu": "Döntsd el, melyik képre illenek jobban a benyomásaid, és olvasd le a hozzá kötött választ — vagy jelöld bizonytalannak, ha az illeszkedés egyenlő.",
+     "en": "Decide which image the impressions fit better and read off its bound answer — or mark it unclear if the fit is even."
+    },
+    {
+     "hu": "Ne írd át a jegyzeteidet, hogy illeszkedjenek; hagyd őket úgy, ahogy jöttek.",
+     "en": "Do not rewrite your notes to fit; let them stand as they came."
+    },
+    {
+     "hu": "Amikor a valódi kimenetel ismertté válik, írj egyetlen jelet — találat vagy tévesztés — a folyó számadásodhoz.",
+     "en": "When the real outcome is known, write a single mark — hit or miss — to your running tally."
+    }
+   ],
+   "keret": {
+    "hu": "Egyetlen ülés, találat vagy tévesztés, semmit sem mond; csak a sok próbán át vezetett számadás jelent bármit. A gyümölcs a hízelgés nélküli önpontozás.",
+    "en": "A single session, hit or miss, tells you nothing; only a tally kept over many trials means anything. The fruit is self-scoring without flattery."
+   },
+   "etika": {
+    "hu": "Tartsd teljesen ki a pénzt, a fogadást és a piacokat — abban a pillanatban, ahogy tét kerül a pontozásba, a becsületesség meghal, és a gyakorlat pénzvesztő önámítássá válik.",
+    "en": "Keep money, betting and markets entirely out of it — the moment a stake enters the scoring, honesty dies and the practice becomes a way to lose money and fool yourself."
+   }
+  },
+  {
+   "id": "rvmp-journal-trial",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Próbanapló — benyomás, döntés, számadás",
+    "en": "Trial journal — impression, call, tally"
+   },
+   "cel": {
+    "hu": "Írásban megnevezni, milyen benyomások jöttek, milyen erősen érezted a döntést, és milyen húzást vettél észre a saját számadásod szépítésére.",
+    "en": "Name in writing what impressions came, how strongly you felt the call, and any pull you noticed to dress up your own tally."
+   },
+   "modszer": [
+    {
+     "hu": "Közvetlenül a próba után, még a kimenetel ismerete előtt írd le a benyomásokat a maguk szavaival, és hogy melyik képet választottad, miért.",
+     "en": "Right after the trial, before you know the outcome, write the impressions in their own words and which image you chose and why."
+    },
+    {
+     "hu": "Jegyezd fel, mennyire erősen érezted: valódi leolvasás, halvány hajlás, vagy erőltetett döntés volt.",
+     "en": "Note how strongly you felt it: a real read, a faint lean, or a forced call."
+    },
+    {
+     "hu": "A kimenetel megismerése után jegyezd fel a találatot vagy tévesztést, és írd le becsületesen a jelenlegi pontszámot.",
+     "en": "After you learn the outcome, record the hit or miss and write the current score honestly."
+    },
+    {
+     "hu": "Nevezd meg minden húzásodat, amellyel átformálnád a jegyzeteket, elmagyaráznád a tévesztést, vagy találatnak vennél egy homályos eredményt — ez a húzás megnevezése maga a gyakorlat.",
+     "en": "Name any pull to reshape the notes, explain away a miss, or claim a fuzzy result as a hit — naming that pull is the practice itself."
+    }
+   ],
+   "keret": {
+    "hu": "A napló a becsületes önpontozás tükre, nem a képességed bizonyítéka. A gyümölcsét abban méred, mennyire őszintén látod a saját elmédet.",
+    "en": "The journal is a mirror for honest self-scoring, not proof of a power. Measure its fruit in how honestly you see your own mind."
+   }
+  },
+  {
+   "id": "rvmp-discernment",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Megkülönböztetés — benyomás kontra vágy",
+    "en": "Discernment — impression versus wish"
+   },
+   "cel": {
+    "hu": "Gyakorolni a benyomás elválasztását a reménytől vagy a vágytól, hogy a döntéseidet ne a kimenetel iránti kötődés vezesse.",
+    "en": "Practise telling an impression apart from a hope or a wish, so attachment to the outcome does not drive your calls."
+   },
+   "modszer": [
+    {
+     "hu": "Nézz vissza néhány próbanaplóra, és jelöld meg azokat a jegyzeteket, amelyek inkább a vágyaidat tükrözik, mint egy semleges benyomást.",
+     "en": "Look back over several trial journals and flag notes that reflect your wishes more than a neutral impression."
+    },
+    {
+     "hu": "Vedd észre a türelmetlen kapkodást is: mikor erőltettél döntést, vagy hajszoltál egy szerencsés sorozatot.",
+     "en": "Notice grasping impatience too: where you forced a call or chased a lucky streak."
+    },
+    {
+     "hu": "A következő próbánál, amikor egy benyomás felmerül, tegyél fel egy csendes kérdést: ezt érzékelem, vagy ezt szeretném?",
+     "en": "In the next trial, when an impression arises, ask quietly: am I perceiving this, or wishing it?"
+    },
+    {
+     "hu": "Ha egy benyomás egyformán illik mindkét képre, jelöld a próbát bizonytalannak, ahelyett hogy döntést erőltetnél.",
+     "en": "If an impression fits both images equally, mark the trial unclear rather than forcing a call."
+    }
+   ],
+   "keret": {
+    "hu": "A megkülönböztetés lassan, alázatra tanítva érik, próbáról próbára. Belső gyümölcs — tisztább önismeret —, nem valóság- vagy képesség-állítás.",
+    "en": "Discernment ripens slowly and humbly, trial by trial. An inner fruit — clearer self-knowledge — not a claim about reality or ability."
+   },
+   "etika": {
+    "hu": "Ha a belső munka bármikor felkavar, vagy parancsoló hangokat hallasz, illetve késztetést érzel, hogy ártsál magadnak vagy másnak, kezeld orvosi vészhelyzetként: állj le, és fordulj orvoshoz, krízisvonalhoz vagy a mentőkhöz. Nem gyerekeknek és nem krízisben lévőknek való.",
+    "en": "If the inner work ever unsettles you, or you hear commanding voices or feel an urge to harm yourself or another, treat it as a medical emergency: stop and contact a doctor, a crisis line, or emergency services. This is not for children or anyone in crisis."
+   }
+  },
+  {
+   "id": "rvmp-keep-tally",
+   "mester": "Remote Viewing",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "A számadás vezetése sok próbán át",
+    "en": "Keeping the tally over many trials"
+   },
+   "cel": {
+    "hu": "Türelmesen gyűjteni egy pontszámot tucatnyi próbán keresztül, és a találati arányt a félúton húzódó becsületes alapvonalhoz mérni.",
+    "en": "Patiently gather a score across dozens of trials and measure your hit-rate against the honest halfway baseline."
+   },
+   "modszer": [
+    {
+     "hu": "Vezess egy egyszerű táblázatot: próba száma, döntés, kimenetel, találat vagy tévesztés.",
+     "en": "Keep a simple table: trial number, call, outcome, hit or miss."
+    },
+    {
+     "hu": "Emlékeztesd magad, hogy két kimenetelnél a vak találgatás hosszú távon a fele körül talál — ez az alapvonalad.",
+     "en": "Remind yourself that with two outcomes, blind guessing lands near half over a long run — that is your baseline."
+    },
+    {
+     "hu": "Ne olvass jelentést egy rövid szerencsés vagy szerencsétlen sorozatba; csak sok próba mondhat egyáltalán bármit.",
+     "en": "Read no meaning into a short lucky or unlucky streak; only many trials can say anything at all."
+    },
+    {
+     "hu": "Rendszeresen nézd meg a folyó találati arányod, és hasonlítsd nyugodtan a félúton húzódó vonalhoz, kötődés nélkül.",
+     "en": "Review your running hit-rate regularly and compare it calmly to the halfway line, without clinging."
+    }
+   ],
+   "keret": {
+    "hu": "A türelmesen vezetett számadás a gyakorlat valódi tárgya — nem a jövő ismerete, hanem a saját elméd gondos figyelése és az őszinte könyvelés. Tartsd az egészet könnyedén; bizonyosságot nem kínálunk.",
+    "en": "The patiently kept tally is the real subject of the practice — not knowledge of the future, but careful watching of your own mind and honest bookkeeping. Hold it all lightly; certainty is not on offer."
+   },
+   "etika": {
+    "hu": "Semmi lottószám, fogadás, kereskedés vagy pénzügyi döntés — ez önkalibrációs játék, nem kereseti mód. Ha egy forrás gazdagságot ígér az intuícióból, éppen attól kell elsétálnod.",
+    "en": "No lottery numbers, wagers, trading or financial decisions — this is a self-calibration game, not a way to earn. If a source promises riches from intuition, that is exactly the part to walk away from."
+   }
+  }
+ ]
+}

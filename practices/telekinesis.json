@@ -1,0 +1,430 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-telekinesis",
+ "nevek": {
+  "hu": "Telekinézis — a Kinesis-ösvény",
+  "en": "Telekinesis — the Kinesis path"
+ },
+ "gyakorlatok": [
+  {
+   "id": "tkp-settle-body",
+   "mester": "Telekinézis",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Elülepedés — a test lágyítása",
+    "en": "Settling — softening the body"
+   },
+   "cel": {
+    "hu": "Megtanulni laza, sietség nélküli éberségbe engedni a testet, hogy a görcsös erőlködés — a leggyakoribb kezdő hiba — feloldódjon még a gyakorlás előtt.",
+    "en": "To learn to drop the body into loose, unhurried alertness, dissolving the effortful straining that is the most common beginner mistake, before any practice begins."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj kényelmesen, gerinc egyenes, de nem merev; tedd a kezed az öledbe.",
+     "en": "Sit comfortably, spine upright but not rigid; rest your hands in your lap."
+    },
+    {
+     "hu": "Lassítsd le a légzésed anélkül, hogy erőltetnéd, és minden kilégzésnél engedd ellazulni a vállad és az állkapcsod.",
+     "en": "Let the breath slow without forcing it, and on each out-breath let the shoulders and jaw soften."
+    },
+    {
+     "hu": "Pásztázd végig a tested fejtől lefelé, és ahol feszülést találsz, gyengéden engedd el.",
+     "en": "Scan the body from head down, and wherever you find tension, gently release it."
+    },
+    {
+     "hu": "Ülj egy percig ebben a laza éberségben, majd földelj: érezd a talpad és az ülőcsontod súlyát.",
+     "en": "Rest a minute in this loose alertness, then ground: feel the weight of your feet and sit-bones."
+    }
+   ],
+   "keret": {
+    "hu": "Amit itt mérünk, az kizárólag belső: nyugodtabb test és kevésbé görcsös éberség. Ez felkészülés, nem teljesítmény, és semmilyen külső hatást nem ígér.",
+    "en": "What we measure here is inner only: a calmer body and less clenched alertness. This is preparation, not performance, and promises no outer effect."
+   }
+  },
+  {
+   "id": "tkp-attention-anchor",
+   "mester": "Telekinézis",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Figyelem-horgony — a visszatérés edzése",
+    "en": "Attention-anchor — training the return"
+   },
+   "cel": {
+    "hu": "Kinyújtani, meddig tud a figyelmed egyetlen dolgon megpihenni, és barátságossá tenni azt a mozdulatot, amellyel visszahozod, valahányszor elkalandozik.",
+    "en": "To lengthen how long attention can rest on one thing, and to make friendly the movement of bringing it back whenever it drifts."
+   },
+   "modszer": [
+    {
+     "hu": "Két percig csak vedd észre a légzésed — ne változtasd meg, csupán kísérd figyelemmel.",
+     "en": "For two minutes simply notice the breath — do not change it, just accompany it with attention."
+    },
+    {
+     "hu": "Ezután pihentesd a tekinteted egy gyertyalángon vagy egy ponton magad előtt, vagy ismételj csöndben egy egyszerű szót a légzés ritmusára.",
+     "en": "Then rest your gaze on a candle flame or a point in front of you, or silently repeat one simple word in rhythm with the breath."
+    },
+    {
+     "hu": "Amikor az elméd elkalandozik — és el fog —, szemrehányás nélkül hozd vissza a horgonyhoz; ez a visszatérés maga az edzés.",
+     "en": "When the mind wanders — and it will — bring it back to the anchor without scolding; that return is the training itself."
+    },
+    {
+     "hu": "Az utolsó szakaszban engedd el a horgonyt is, és csak legyél jelen.",
+     "en": "In the final stretch let even the anchor go and simply be present."
+    },
+    {
+     "hu": "Tarts nagyjából tíz percet, és állj meg, ha feszültséget érzel.",
+     "en": "Aim for about ten minutes, and stop if you feel strained."
+    }
+   ],
+   "keret": {
+    "hu": "Ez tisztán figyelemedzés. A gyümölcs, amit figyelünk, a tovább tartó fókusz és a szelídebb visszatérés — nem külső hatás, és nem is bizonyíték semmire.",
+    "en": "This is purely attention training. The fruit we watch for is focus that lasts longer and a gentler return — not an outer effect, and not proof of anything."
+   }
+  },
+  {
+   "id": "tkp-image-object",
+   "mester": "Telekinézis",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Képépítés — egy kicsi, semleges tárgy",
+    "en": "Image-building — one small, neutral object"
+   },
+   "cel": {
+    "hu": "Elevenebbé és állandóbbá tenni a belső képet, míg az érzékek szinte beszállnak — a képzelet mint befogadó belső műhely edzése.",
+    "en": "To make the inner image more vivid and steady until the senses almost join in — training imagination as a receptive inner workshop."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy kicsi, semleges, saját tárgyat — egy érmét, gombot vagy sima gyöngyöt.",
+     "en": "Choose a small, neutral object of your own — a coin, a button, or a smooth bead."
+    },
+    {
+     "hu": "Egy rövid ideig csak vedd szemügyre: körvonalát, színét, felületét, az apró árnyékokat, amelyeket vet.",
+     "en": "Spend a short while simply taking it in: its outline, colour, surface, and the tiny shadows it casts."
+    },
+    {
+     "hu": "Csukd be a szemed, és tartsd meg belül a mását, lassan forgatva, hogy sorra megérezd minden oldalát.",
+     "en": "Close your eyes and hold its likeness inwardly, turning it slowly so you sense each face in turn."
+    },
+    {
+     "hu": "Valahányszor a kép elmosódik, pillants rá újra a valódi tárgyra, hogy megszilárdítsd, majd folytasd.",
+     "en": "Whenever the picture dims, glance at the real object again to steady it, then carry on."
+    }
+   ],
+   "keret": {
+    "hu": "Ez képzeletedzés, nem külső hatás. A haladást a kép tisztasága és állandósága méri a naplódban — semmi több.",
+    "en": "This is imagination training, not an outer effect. Progress is measured by the image's clarity and steadiness in your diary — nothing more."
+   }
+  },
+  {
+   "id": "tkp-multisensory",
+   "mester": "Telekinézis",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Több érzék — a kép megelevenítése",
+    "en": "More senses — bringing the image alive"
+   },
+   "cel": {
+    "hu": "Elmélyíteni a belső képet azzal, hogy a látáson túl más érzékeket is beengedsz, míg az egész elképzelt tárgy élővé nem válik.",
+    "en": "To deepen the inner image by inviting senses beyond sight until the whole imagined object feels alive."
+   },
+   "modszer": [
+    {
+     "hu": "Idézd fel a már ismerős tárgyad tiszta belső képét.",
+     "en": "Call up a clear inner picture of your now-familiar object."
+    },
+    {
+     "hu": "Engedd be a súlyát a tenyeredben, a melegét vagy hűvösségét, a halk neszt, ahogy ujjad végigsimít a felületén.",
+     "en": "Invite in the weight resting in your palm, its warmth or coolness, the faint sound as a finger crosses its surface."
+    },
+    {
+     "hu": "Hagyd, hogy az elképzelt tárgy finoman lebegjen vagy forogjon az elmédben — semmi erőltetés, csak megfigyeled a belső képet.",
+     "en": "Let the imagined object drift or rotate gently in your mind — nothing forced, only watched as an inner picture."
+    },
+    {
+     "hu": "Ha a kép szertefoszlik, térj vissza egyetlen érzékhez, és onnan építsd fel újra.",
+     "en": "If the image falls apart, return to a single sense and rebuild from there."
+    }
+   ],
+   "keret": {
+    "hu": "A lebegés vagy forgás itt kizárólag belső, elképzelt esemény. Sosem állítjuk, hogy a valódi tárgy megmozdul — a gyümölcs az elevenebb, állandóbb belső érzék.",
+    "en": "The drifting or rotation here is an inner, imagined event only. We never claim the real object moves — the fruit is a livelier, steadier inner sense."
+   }
+  },
+  {
+   "id": "tkp-intent-hold",
+   "mester": "Telekinézis",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Csöndes szándék — megengedni, nem nyomni",
+    "en": "Steady intent — allowing, not pushing"
+   },
+   "cel": {
+    "hu": "Megtanulni egyetlen nyugodt célt tartani erőltetés és kételkedés nélkül — a szándék mint letisztult, gyengéden tartott irány.",
+    "en": "To learn to hold a single calm aim without straining or doubting — intent as a settled aim held lightly."
+   },
+   "modszer": [
+    {
+     "hu": "Kezdd néhány lassú lélegzettel, míg az elméd olyan nyugodt nem lesz, mint egy szélcsendes tó.",
+     "en": "Begin with a few slow breaths until the mind is as calm as a windless lake."
+    },
+    {
+     "hu": "Tarts egyetlen nyugodt szándékot: nem görcsölést, nem sürgetést, csupán egy célt, amelyet gyengéden tartasz.",
+     "en": "Hold a single calm intent: not straining, not hurrying, just an aim held lightly."
+    },
+    {
+     "hu": "Ha görcsbe rándul a nyomásba, lazíts, és térj vissza a megengedő tartáshoz.",
+     "en": "If it tightens into pressure, soften, and return to the allowing hold."
+    },
+    {
+     "hu": "A vége felé engedd el a szándékot is, és jegyezd fel, hol volt nyugodt és hol feszült.",
+     "en": "Toward the end, release even the intent, and note where it was calm and where it tensed."
+    }
+   ],
+   "keret": {
+    "hu": "A cél a belső stabilitás, nem külső eredmény. A különbség a megengedő és a nyomó szándék között az egyetlen dolog, amit valóban mérünk.",
+    "en": "The aim is inner steadiness, not an outer result. The difference between allowing and pushing intent is the only thing we actually measure."
+   }
+  },
+  {
+   "id": "tkp-inner-sanctuary",
+   "mester": "Telekinézis",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Belső menedék — a nyugalom biztonságos helye",
+    "en": "Inner sanctuary — a safe place of calm"
+   },
+   "cel": {
+    "hu": "Kiépíteni egy csöndes belső helyet, ahonnan a szándékot tartani lehet, és ahová bármikor visszatérhetsz elcsöndesedni.",
+    "en": "To build a quiet inner place from which intent can be held, and to which you can return to grow calm at any time."
+   },
+   "modszer": [
+    {
+     "hu": "Csöndesedj el néhány lassú lélegzettel, míg a belső zaj le nem ülepszik.",
+     "en": "Quiet down with a few slow breaths until the inner noise settles."
+    },
+    {
+     "hu": "Képzelj magad köré egy egyszerű, biztonságos helyet, amely csak a tiéd — hagyd, hogy a részletei maguktól alakuljanak.",
+     "en": "Picture a simple, safe place around you that is yours alone — let its details form on their own."
+    },
+    {
+     "hu": "Pihenj itt, és érezd, ahogy a nyugalom természetes háttérré válik.",
+     "en": "Rest here and feel the calm become a natural backdrop."
+    },
+    {
+     "hu": "Mielőtt befejezed, jegyezd meg, milyen érzés volt itt lenni, hogy máskor gyorsabban visszataláljon.",
+     "en": "Before finishing, remember how it felt to be here, so you can find your way back faster another time."
+    }
+   ],
+   "keret": {
+    "hu": "A menedék belső kép és hangulat, nem valóságos hely. Az egyetlen gyümölcs a könnyebben elérhető belső nyugalom.",
+    "en": "The sanctuary is an inner image and mood, not a real place. The only fruit is inner calm that becomes easier to reach."
+   }
+  },
+  {
+   "id": "tkp-let-go",
+   "mester": "Telekinézis",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Elengedés és megfigyelés — az igyekvés nélküli jelenlét",
+    "en": "Let go and observe — presence without striving"
+   },
+   "cel": {
+    "hu": "Megtanulni abbahagyni az igyekvést, és kíváncsi, ítélkezésmentes figyelemmel csak megfigyelni, ami belül és kívül történik.",
+    "en": "To learn to stop striving and simply observe, with curious, non-judging attention, whatever happens inwardly and outwardly."
+   },
+   "modszer": [
+    {
+     "hu": "Egy előző szakasz — figyelem, kép vagy szándék — után teljesen hagyj fel minden törekvéssel.",
+     "en": "After an earlier stretch — attention, image, or intent — drop all striving entirely."
+    },
+    {
+     "hu": "Egyszerűen figyelj, belül és kívül, minden elvárás nélkül, mintha egy ablakon néznél ki.",
+     "en": "Simply watch, inwardly and outwardly, with no expectation, as if looking out a window."
+    },
+    {
+     "hu": "Ha felbukkan egy egybeesés vagy jelentőségteljes időzítés, örülj neki és jegyezd fel — de sosem tekintsd bizonyítéknak.",
+     "en": "If a coincidence or meaningful timing appears, enjoy it and note it — but never treat it as proof."
+    },
+    {
+     "hu": "Zárd földeléssel: kezek az öledbe, néhány lassú lélegzet, majd őszinte feljegyzés.",
+     "en": "Close with grounding: hands in your lap, a few slow breaths, then an honest note."
+    }
+   ],
+   "keret": {
+    "hu": "Ha kívül semmi sem moccan, semmi baj nincs — a belső edzés az egyetlen, amit ígérünk. Az egybeesés élmény, nem adat.",
+    "en": "If nothing stirs outwardly, nothing is wrong — the inner training is the whole of what is promised. A coincidence is an experience, not data."
+   }
+  },
+  {
+   "id": "tkp-full-arc",
+   "mester": "Telekinézis",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Materia Prima",
+   "cim": {
+    "hu": "A teljes ülés íve — a három képesség együtt",
+    "en": "The full session arc — three faculties together"
+   },
+   "cel": {
+    "hu": "Egyetlen összefüggő ülésben összefűzni a figyelmet, a képzeletet és a szándékot, majd elengedni és őszintén rögzíteni a történteket.",
+    "en": "To weave attention, imagination, and intent into one connected session, then let go and honestly record what happened."
+   },
+   "modszer": [
+    {
+     "hu": "Ülepedj el és horgonyozd le a figyelmed a lélegzeten vagy egy ponton, míg az elme le nem nyugszik.",
+     "en": "Settle and anchor your attention on the breath or a point until the mind quiets."
+    },
+    {
+     "hu": "Építsd fel a választott tárgyad tiszta, több érzéket megmozgató belső képét.",
+     "en": "Build a clear, multi-sensory inner image of your chosen object."
+    },
+    {
+     "hu": "Tarts egyetlen nyugodt, megengedő szándékot, majd engedd el, és egyszerűen figyelj.",
+     "en": "Hold a single calm, allowing intent, then release it and simply observe."
+    },
+    {
+     "hu": "Földelj, és rögzítsd őszintén, mi történt a figyelmeddel, a képeiddel és a hangulatoddal — túlzás nélkül.",
+     "en": "Ground, and record honestly what happened in your attention, your images, and your mood — without exaggeration."
+    }
+   ],
+   "keret": {
+    "hu": "Néhány tiszta perc naponta többet ér egy frusztrált óránál. Ez az egész ülés kizárólag belső edzés; a külvilág mozgása nem a lényeg, és sosem ígérjük.",
+    "en": "A few clear minutes daily beat a frustrated hour. This whole session is inner training only; movement in the outer world is not the point, and is never promised."
+   },
+   "etika": {
+    "hu": "Ez nem gyerekeknek szól, és nem is válságban lévőknek. Ha kiégettnek, megszállottnak vagy rosszul érzed magad, állj meg és pihenj. Parancsoló hangokat hallani, vagy bármilyen késztetést érezni, hogy árts magadnak vagy másnak, orvosi vészhelyzet, nem gyakorlás — azonnal fordulj szakemberhez vagy a helyi mentőszolgálathoz. Itt semmi sem orvosi vagy pszichológiai kezelés.",
+    "en": "This is not for children, and not for anyone in crisis. If you feel burned out, obsessive, or unwell, stop and rest. Hearing commanding voices, or any urge to harm yourself or others, is a medical emergency, not a practice — contact a professional or your local emergency services at once. Nothing here is medical or psychological treatment."
+   }
+  },
+  {
+   "id": "tkp-presession-check",
+   "mester": "Telekinézis",
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "Ülés előtti önellenőrzés",
+    "en": "Pre-session self-check"
+   },
+   "cel": {
+    "hu": "Néhány őszinte kérdéssel megbizonyosodni arról, hogy a megfelelő állapotban és a megfelelő szándékkal ülsz le gyakorolni.",
+    "en": "To confirm with a few honest questions that you are sitting down to practise in the right state and with the right aim."
+   },
+   "modszer": [
+    {
+     "hu": "Kérdezd meg magadtól: kellően pihent és nyugodt vagyok-e — nem vagyok-e válságban?",
+     "en": "Ask yourself: am I rested and calm enough — am I not in crisis?"
+    },
+    {
+     "hu": "Ellenőrizd, hogy egy kicsi, semleges, saját tárgyat választottál — semmi kölcsönkért, semmi, ami másról szól.",
+     "en": "Check that you chose a small, neutral object of your own — nothing borrowed, nothing about another person."
+    },
+    {
+     "hu": "Tisztázd a célod: önmagad edzése, nem mások lenyűgözése vagy egy eredmény kikényszerítése.",
+     "en": "Clarify your aim: to train yourself, not to impress anyone or force a result."
+    },
+    {
+     "hu": "Tedd félre a telefonod és a zavaró tényezőket, és tervezd rövidre — megállsz, ha feszültséget érzel.",
+     "en": "Set aside your phone and distractions, and plan to keep it short — stopping if you feel strained."
+    }
+   ],
+   "keret": {
+    "hu": "Ez az ösvény inkább őszinteséget kér, mint tehetséget. Az önellenőrzés nem teszt, hanem a gyakorlás becsületes kerete.",
+    "en": "This path asks for honesty more than talent. The self-check is not a test but an honest frame for practising."
+   },
+   "etika": {
+    "hu": "Ez nem gyerekeknek szól, és nem is válságban lévőknek. Ha kiégettnek vagy rosszul érzed magad, ne gyakorolj — pihenj. Parancsoló hangok vagy bármilyen késztetés, hogy árts magadnak vagy másnak, orvosi vészhelyzet: azonnal fordulj szakemberhez vagy a mentőszolgálathoz.",
+    "en": "This is not for children, and not for anyone in crisis. If you feel burned out or unwell, do not practise — rest. Commanding voices, or any urge to harm yourself or others, are a medical emergency: contact a professional or emergency services at once."
+   }
+  },
+  {
+   "id": "tkp-journal-mirror",
+   "mester": "Telekinézis",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Ülés utáni napló és a gyakorló tükre",
+    "en": "Post-session diary and the practitioner's mirror"
+   },
+   "cel": {
+    "hu": "Őszintén rögzíteni, mi történt a figyelmeddel, a képeiddel és a szándékoddal, és észrevenni, melyik belső vonás mutatkozott meg ma a legerősebben.",
+    "en": "To honestly record what happened in your attention, images, and intent, and to notice which inner trait showed itself most strongly today."
+   },
+   "modszer": [
+    {
+     "hu": "Írd le, meddig tudott a figyelmed megpihenni, mielőtt elcsúszott, és hogyan hoztad vissza.",
+     "en": "Write how long your attention could rest before it slipped, and how you brought it back."
+    },
+    {
+     "hu": "Jegyezd fel, mennyire volt tiszta és állandó a belső képed, és mely érzékek segítettek.",
+     "en": "Note how clear and steady your inner image was, and which senses helped."
+    },
+    {
+     "hu": "Figyeld meg, hol feszült görcsbe a szándékod, és hol maradt nyugodt.",
+     "en": "Observe where your intent tensed into pushing, and where it stayed calm."
+    },
+    {
+     "hu": "Nevezd meg, melyik vonás mutatkozott meg ma a legerősebben — a tiszta, állhatatos figyelem, vagy valami, ami elvont: türelmetlenség, nyugtalanság, önkétely vagy a lenyűgözés vágya.",
+     "en": "Name which trait showed itself most today — clear, steady attention, or something that pulled you away: impatience, restlessness, self-doubt, or the craving to impress."
+    }
+   ],
+   "keret": {
+    "hu": "A napló az egyetlen becsületes mérce: hetek alatt valódi belső változást mutat benned. Rögzíts mindent túlzás nélkül, és sosem tekints egy belső benyomást bizonyítéknak.",
+    "en": "The diary is the only honest measure: over weeks it shows real inner change in you. Record everything without exaggeration, and never treat an inner impression as evidence."
+   }
+  },
+  {
+   "id": "tkp-discernment",
+   "mester": "Telekinézis",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Megkülönböztetés — a kerítések gyakorlása",
+    "en": "Discernment — practising the fences"
+   },
+   "cel": {
+    "hu": "Szilárdan tartani az ösvény etikai határait, és éberen megkülönböztetni a belső élményt a külvilágra vonatkozó állítástól.",
+    "en": "To hold the path's ethical boundaries firmly, and to discern clearly between an inner experience and a claim about the outer world."
+   },
+   "modszer": [
+    {
+     "hu": "Emlékeztesd magad: a gyakorlás kizárólag önmagadra irányul — sosem megnevezett személyre, a holmijára vagy a terére a beleegyezése nélkül.",
+     "en": "Remind yourself: practice is self-directed only — never aimed at a named person, their belongings, or their space without consent."
+    },
+    {
+     "hu": "Tartsd a rendkívüli állításokat hétköznapi csatornákban: ezek nem eszközök pénznyerésre, szerencsejátékra, eltűnt emberek vagy holttestek keresésére, vagy katasztrófák jóslására.",
+     "en": "Keep extraordinary claims in ordinary channels: these are not tools to win money, to gamble, to locate missing people or bodies, or to foretell disasters."
+    },
+    {
+     "hu": "Ha egy megérzés valósnak tűnik a külvilágban, ellenőrizd a szokásos módon, és ahol a biztonság a tét, a rendes úton fordulj az illetékesekhez.",
+     "en": "If a hunch seems to matter in the real world, verify it the normal way, and where safety is at stake, go to the proper authorities through the front door."
+    },
+    {
+     "hu": "Zárd egy csöndes elhatározással, hogy tiszteled a szabad akaratot, és sosem tekintesz egy belső benyomást bizonyítéknak.",
+     "en": "Close with a quiet resolve to honour free will, and never to treat an inner impression as evidence."
+    }
+   ],
+   "keret": {
+    "hu": "E vonalakon belül tartva a gyakorlat az marad, aminek lennie kell — a saját belső világod csöndes, alázatos tanulmányozása. Egybeeséseket feljegyezni szabad, bizonyítékként kezelni soha.",
+    "en": "Kept within these lines, the practice stays what it should be — a calm, humble study of your own inner world. Coincidences may be noted, never treated as proof."
+   },
+   "etika": {
+    "hu": "Kizárólag önmagadra irányul; ne olvass és ne befolyásolj másokat. Semmi szerencsejáték vagy haszonszerzés, semmi emberek vagy holttestek felkutatása, semmi katasztrófa-jóslás. Parancsoló hangokat hallani, vagy bármilyen késztetést érezni, hogy árts magadnak vagy másnak, orvosi vészhelyzet — azonnal fordulj szakemberhez vagy a helyi mentőszolgálathoz. Itt semmi sem orvosi vagy pszichológiai kezelés, és sosem szabad emiatt késleltetned a segítségkérést.",
+    "en": "Self-directed only; do not read or influence others. No gambling or profit, no locating people or bodies, no foretelling disasters. Hearing commanding voices, or any urge to harm yourself or others, is a medical emergency — contact a professional or your local emergency services at once. Nothing here is medical or psychological treatment, and you should never delay seeking help because of it."
+   }
+  }
+ ]
+}

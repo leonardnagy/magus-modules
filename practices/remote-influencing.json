@@ -1,0 +1,435 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-remote-influencing",
+ "nevek": {
+  "hu": "A szándék önmagunkra",
+  "en": "Intention turned inward"
+ },
+ "gyakorlatok": [
+  {
+   "id": "rip-choose-aim",
+   "mester": "Remote Influencing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Egyetlen belso cel kivalasztasa",
+    "en": "Choosing a single inner aim"
+   },
+   "cel": {
+    "hu": "Kivalasztani egyetlen, kizarolag onmagadra iranyulo belso allapotot vagy valtozast, amelyen dolgozol.",
+    "en": "To pick a single inner state or change in yourself — and only in yourself — to work with."
+   },
+   "modszer": [
+    {
+     "hu": "Ulj le csendben, es kerdezd meg: milyen belso allapotot szeretnek most megerositeni magamban?",
+     "en": "Sit quietly and ask: what inner state would I strengthen in myself now?"
+    },
+    {
+     "hu": "Fogalmazz meg egyetlen celt elso szemelyben (pl. nyugalom egy vizsga elott, otthonossag a sajat eletemben).",
+     "en": "Frame a single aim in the first person (e.g. calm before an exam, feeling at home in my own life)."
+    },
+    {
+     "hu": "Ellenorizd: valoban rolad szol-e, nem egy masik emberrol vagy kulso esemenyrol.",
+     "en": "Check that it is truly about you, not another person or an outer event."
+    },
+    {
+     "hu": "Ird le egy sorban, es tartsd meg a mai ulesre.",
+     "en": "Write it in one line and keep it for today's session."
+    }
+   ],
+   "keret": {
+    "hu": "A gyumolcs a szandek letisztulasa, nem egy kulso esemeny kikenyszeritese; belul merve, sohasem tenykent allitva.",
+    "en": "The fruit is a clarified intention, not a forced outer event; measured within, never asserted as fact."
+   },
+   "etika": {
+    "hu": "Kizarolag onmagadra iranyulhat — soha nem egy megnevezett masik ember akaratara, erzeseire vagy donteseire. Ez masok szabad akaratanak tisztelete.",
+    "en": "It may be directed strictly at yourself — never at a named other person's will, feelings or decisions. This is respect for others' free will."
+   }
+  },
+  {
+   "id": "rip-present-tense",
+   "mester": "Remote Influencing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Jelen ideju megfogalmazas",
+    "en": "Present-tense phrasing"
+   },
+   "cel": {
+    "hu": "Ugy megfogalmazni a celt, mintha mar most igaz volna — onszuggeszciokent, nem puszta akaraskent.",
+    "en": "To phrase the aim as if it were already true now — as self-suggestion, not bare willing."
+   },
+   "modszer": [
+    {
+     "hu": "Vedd a celod, es ird at ugy, mintha mar most igaz volna: „nyugodt es tiszta vagyok”.",
+     "en": "Take your aim and rewrite it as if already true: 'I am calm and clear'."
+    },
+    {
+     "hu": "Keruld a „szeretnek” es a „majd” szavakat — ezek elhalasztjak az allapotot.",
+     "en": "Avoid 'I want' and 'later' — they postpone the state."
+    },
+    {
+     "hu": "Mondd ki halkan nehanyszor, es figyeld, hol feszul vagy hol enged a tested.",
+     "en": "Say it softly a few times and notice where your body tightens or eases."
+    },
+    {
+     "hu": "Csiszold, amig egyszerre igaznak es nyugodtnak erzed.",
+     "en": "Refine it until it feels both true and calm."
+    }
+   ],
+   "keret": {
+    "hu": "A jelen ideju allitas melyebben fogan meg onszuggeszciokent — de semmilyen kulso eredmenyt nem kenyszerit ki.",
+    "en": "A present-tense statement takes root more deeply as self-suggestion — but it forces no outer result."
+   }
+  },
+  {
+   "id": "rip-felt-present",
+   "mester": "Remote Influencing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Az aterzett jelen — 10 perc",
+    "en": "The felt present — 10 minutes"
+   },
+   "cel": {
+    "hu": "Engedni, hogy a jelen ideju allitas testi, aterzett allapotta valjon.",
+    "en": "To let the present-tense statement become a bodily, felt state."
+   },
+   "modszer": [
+    {
+     "hu": "Ulj kenyelmesen, csukott szemmel, es allits 10 perces idozitot.",
+     "en": "Sit comfortably, eyes closed, and set a 10-minute timer."
+    },
+    {
+     "hu": "Idezd fel az „en ___ vagyok” allitasodat, es ne akard — engedd.",
+     "en": "Recall your 'I am ___' statement, and do not will it — allow it."
+    },
+    {
+     "hu": "Engedd, hogy az erzes testive valjon a mellkasodban es a legzesedben, teljessegbol.",
+     "en": "Let the feeling turn bodily in your chest and breath, from fullness."
+    },
+    {
+     "hu": "Ha elkalandozol, gyengeden terj vissza az erzeshez.",
+     "en": "When you wander, gently return to the feeling."
+    },
+    {
+     "hu": "A vegen ne kapaszkodj bele — keszulj elengedni.",
+     "en": "At the end do not clutch it — prepare to release."
+    }
+   ],
+   "keret": {
+    "hu": "A merce a belso nyugalom es a figyelem allandosaga, nem barmilyen kulso eredmeny.",
+    "en": "The measure is inner calm and steadiness of attention, not any outer result."
+   },
+   "etika": {
+    "hu": "Ez nem gyogymod, es nem helyettesiti vagy halasztja az orvosi vagy pszichologiai ellatast. Ha a befele fordulas kozben parancsolo hangokat hallasz, vagy kesztetest erzel, hogy arts magadnak vagy masnak, az orvosi veszhelyzet: fordulj azonnal szakemberhez, vagy hivd a surgossegi szolgalatot.",
+    "en": "This is not a cure and does not replace or delay medical or psychological care. If, while turning inward, you hear commanding voices or feel an urge to harm yourself or another, that is a medical emergency: turn at once to a professional, or call emergency services."
+   }
+  },
+  {
+   "id": "rip-fullness-not-lack",
+   "mester": "Remote Influencing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Teljessegbol, nem hianybol",
+    "en": "From fullness, not from lack"
+   },
+   "cel": {
+    "hu": "A mar-meglevo erzesebol epiteni az allapotot, feloldva a hiany suttogasat, hogy „meg nincs meg”.",
+    "en": "To build the state from a sense of already-having, dissolving the whisper of lack that 'it isn't here yet'."
+   },
+   "modszer": [
+    {
+     "hu": "Figyeld meg, hianykent vagy teljessegkent eled-e meg a celt.",
+     "en": "Notice whether you experience the aim as lack or as fullness."
+    },
+    {
+     "hu": "Ha hianyt erzel, tudatosan valts a mar-meglevo erzesere.",
+     "en": "If you feel lack, consciously shift to the sense of already-having."
+    },
+    {
+     "hu": "Idezz fel egy testi emleket, amikor ez az allapot valoban jelen volt.",
+     "en": "Recall a bodily memory of a time when this state was truly present."
+    },
+    {
+     "hu": "Maradj ennel a teljesseg-erzesnel nehany legzeten at.",
+     "en": "Stay with this sense of fullness for a few breaths."
+    }
+   ],
+   "keret": {
+    "hu": "A hianybol a teljessegbe valo valtas oldja a sovargast es a ragodast — belso gyumolcs, nem allitas.",
+    "en": "The shift from lack to fullness eases craving and rumination — an inner fruit, not a claim."
+   }
+  },
+  {
+   "id": "rip-session-sheet",
+   "mester": "Remote Influencing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A session-lap — 12 perc",
+    "en": "The session sheet — 12 minutes"
+   },
+   "cel": {
+    "hu": "Kezzelfoghatoan kivinni a papirra a kivant belso allapotot — szoban es rajzban.",
+    "en": "To externalize the desired inner state tangibly on paper — in words and drawing."
+   },
+   "modszer": [
+    {
+     "hu": "Vegy elo egy lapot, es allits 12 perces idozitot.",
+     "en": "Take out a sheet and set a 12-minute timer."
+    },
+    {
+     "hu": "Irj nehany rovid bekezdest a kivant belso allapotrol, jelen idoben, gazdag reszletekkel.",
+     "en": "Write a few short paragraphs about the desired inner state, in the present tense, richly detailed."
+    },
+    {
+     "hu": "Ha jolesik, rajzold is meg, es cimkezd fel a jeleneteket es az erzeseket.",
+     "en": "If it feels right, draw it too, and label the scenes and the feelings."
+    },
+    {
+     "hu": "Ne a szepsegre torekedj, hanem a figyelemre es az erzelmi toltetre.",
+     "en": "Aim not for beauty but for attention and emotional charge."
+    },
+    {
+     "hu": "Zard az „en ___ vagyok” azonosulassal.",
+     "en": "Close with the 'I am ___' identification."
+    }
+   ],
+   "keret": {
+    "hu": "A papirra vitt szandek tisztabb es tartosabb; maga a kezzelfoghato externalizacio a gyumolcs.",
+    "en": "An intention put on paper is clearer and more durable; the tangible externalization itself is the fruit."
+   }
+  },
+  {
+   "id": "rip-i-am",
+   "mester": "Remote Influencing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Az „en ___ vagyok” azonosulas",
+    "en": "The 'I am ___' identification"
+   },
+   "cel": {
+    "hu": "Egyetlen elso szemelyu, kimondott allitassal identitas-szinten onmagadhoz kotni a celt.",
+    "en": "To bind the aim to yourself at the level of identity with a single first-person, spoken statement."
+   },
+   "modszer": [
+    {
+     "hu": "Fogalmazz egyetlen rovid, elso szemelyu allitast: „nyugodt ember vagyok”.",
+     "en": "Form a single short first-person statement: 'I am a calm person'."
+    },
+    {
+     "hu": "Bizonyosodj meg, hogy kizarolag rolad szol, senki masrol.",
+     "en": "Make sure it is only about you, no one else."
+    },
+    {
+     "hu": "Mondd ki hangosan vagy halkan, egyszer, tisztan.",
+     "en": "Speak it aloud or softly, once, clearly."
+    },
+    {
+     "hu": "Engedd, hogy az allitas elüljon benned, mielott tovabblepsz.",
+     "en": "Let the statement settle in you before you move on."
+    }
+   ],
+   "keret": {
+    "hu": "Identitas-szintu onszuggesztio, amely csak rolad szol — nem allitas a kulvilagrol.",
+    "en": "Identity-level self-suggestion that is only about you — no claim about the outer world."
+   }
+  },
+  {
+   "id": "rip-release",
+   "mester": "Remote Influencing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A tudatos elengedes",
+    "en": "Conscious release"
+   },
+   "cel": {
+    "hu": "Felretenni a szandekot, es oldani a gorcsos, oranketi ellenorzest.",
+    "en": "To set the intention aside and loosen the anxious, hourly checking."
+   },
+   "modszer": [
+    {
+     "hu": "Tedd felre a lapod, es vegy nehany lassu levegot.",
+     "en": "Set your sheet aside and take a few slow breaths."
+    },
+    {
+     "hu": "Tudatosan engedd el a szandekot — nincs mit ellenorizni, nincs mit szorongatni.",
+     "en": "Consciously let the intention go — nothing to check, nothing to clutch."
+    },
+    {
+     "hu": "Ha visszater a „megtortent-e mar?” gondolat, engedd tovaszallni.",
+     "en": "When the 'has it happened yet?' thought returns, let it drift on."
+    },
+    {
+     "hu": "Terj vissza a testedhez es a napodhoz.",
+     "en": "Return to your body and your day."
+    }
+   ],
+   "keret": {
+    "hu": "Az elengedes nem kozony, hanem a szorongo ragodas oldasa; a nyugalomban merve, nem kulso jelben.",
+    "en": "Release is not indifference but the loosening of anxious rumination; measured in calm within, not in an outer sign."
+   }
+  },
+  {
+   "id": "rip-gratitude",
+   "mester": "Remote Influencing",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Hala-zaras",
+    "en": "The gratitude close"
+   },
+   "cel": {
+    "hu": "Halaval zarni a ritust, nem vegtelen sovargassal.",
+    "en": "To close the ritual with gratitude rather than endless craving."
+   },
+   "modszer": [
+    {
+     "hu": "Ulj egy percre csendben, a szandekot mar elengedve.",
+     "en": "Sit a minute in silence, the intention already released."
+    },
+    {
+     "hu": "Sorolj fel csendben harom dolgot, ami mar most jo az eletedben.",
+     "en": "Silently name three things that are already good in your life."
+    },
+    {
+     "hu": "Ha egy belso gyumolcsot eszleltel ma, mondj erte koszonetet.",
+     "en": "If you noticed an inner fruit today, give thanks for it."
+    },
+    {
+     "hu": "Zard egyetlen koszonettel, es terj vissza a napodhoz.",
+     "en": "Close with a single thank-you and return to your day."
+    }
+   ],
+   "keret": {
+    "hu": "A hala bizonyitottan jot tesz a kozerzetnek, es nyugalomba zarja a ritust — nem igeret semmilyen eredmenyre.",
+    "en": "Gratitude is proven to benefit well-being and closes the ritual in calm — not a promise of any outcome."
+   }
+  },
+  {
+   "id": "rip-daily-week",
+   "mester": "Remote Influencing",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Napi ismetles egy heten at",
+    "en": "Daily repetition across a week"
+   },
+   "cel": {
+    "hu": "Fegyelemkent es figyelem-edzeskent tartani a gyakorlatot egy rovid szakaszon at, csodavaras nelkul.",
+    "en": "To hold the practice as discipline and attention-training over a short stretch, without awaiting miracles."
+   },
+   "modszer": [
+    {
+     "hu": "Valassz egy hetet, es tuzz ki egy rovid napi idopontot az ulesre.",
+     "en": "Choose a week and set a short daily time for the session."
+    },
+    {
+     "hu": "Vegezd el minden nap: rovid aterzes, session-lap vagy csak az „en vagyok”, elengedes, hala.",
+     "en": "Do it each day: a brief felt-immersion, a session sheet or just the 'I am', release, gratitude."
+    },
+    {
+     "hu": "Ne szamold a napokat varazsszamkent — maga a rendszeresseg a gyakorlat.",
+     "en": "Do not count the days as a magic number — the regularity itself is the practice."
+    },
+    {
+     "hu": "A het vegen nezz vissza a belso jelekre, ne a kulso esemenyekre.",
+     "en": "At the week's end look back at the inner signs, not the outer events."
+    }
+   ],
+   "keret": {
+    "hu": "Fegyelem es figyelem-edzes, nem varazsszam; a gyumolcsoket belul mered.",
+    "en": "Discipline and attention-training, not a magic number; the fruits are measured within."
+   }
+  },
+  {
+   "id": "rip-journal",
+   "mester": "Remote Influencing",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Szandek-naplo",
+    "en": "The intention journal"
+   },
+   "cel": {
+    "hu": "Rogziteni minden ules szandekat, erzeset, elengedeset, belso gyumolcset es halajat — tenykent, nem igeretkent.",
+    "en": "To record each session's intention, feeling, release, inner fruit and gratitude — as fact, not as a promise."
+   },
+   "modszer": [
+    {
+     "hu": "Az ules utan ird le a mai onmagadra iranyulo, jelen ideju allitasodat.",
+     "en": "After the session, write today's self-directed, present-tense statement."
+    },
+    {
+     "hu": "Jegyezd fel, milyen testi erzet kiserte, es mennyire valt elove.",
+     "en": "Note what bodily sensation accompanied it, and how alive it became."
+    },
+    {
+     "hu": "Ertekeld egy skalan, mennyire sikerult elengedned a gorcsos ellenorzest.",
+     "en": "Rate on a scale how far you managed to release the anxious checking."
+    },
+    {
+     "hu": "Rogzits egy belso jelet tenykent (nem igeretkent), es egy halat.",
+     "en": "Record one inner sign as fact (not as a promise), and one gratitude."
+    }
+   ],
+   "keret": {
+    "hu": "A belso gyumolcsok becsuletes feljegyzese; semmit nem rogzitesz kulso eredmenykent.",
+    "en": "An honest record of inner fruits; nothing is set down as an outer result."
+   }
+  },
+  {
+   "id": "rip-discernment",
+   "mester": "Remote Influencing",
+   "szint": "mester",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Megkulonbozteto onellenorzes",
+    "en": "Discernment self-check"
+   },
+   "cel": {
+    "hu": "Ellenorizni az etikai hatarokat az ules elott es utan — a hatart es a biztonsagi halot egyarant.",
+    "en": "To check the ethical fences before and after practice — the boundary and the safety net alike."
+   },
+   "modszer": [
+    {
+     "hu": "Kerdezd meg: kizarolag onmagamra iranyult-e ez az ules, senki masra?",
+     "en": "Ask: was this session directed strictly at myself, at no one else?"
+    },
+    {
+     "hu": "Ellenorizd, hogy nem csuszott-e bele nyereseg-, joslat- vagy felelem-motivum.",
+     "en": "Check that no profit, prophecy or fear motive crept in."
+    },
+    {
+     "hu": "Emlekeztesd magad: a sikert belul mered, nem kulso esemenyekben vagy masok eleteben.",
+     "en": "Remind yourself: success is measured within, not in outer events or others' lives."
+    },
+    {
+     "hu": "Ha barmikor parancsolo hangokat hallasz, vagy kesztetest erzel, hogy arts, ez orvosi veszhelyzet — allj meg, es fordulj szakemberhez.",
+     "en": "If ever you hear commanding voices or feel an urge to harm, that is a medical emergency — stop, and turn to a professional."
+    }
+   ],
+   "keret": {
+    "hu": "A hatarok maga a gyakorlat integritasa; a becsuletessegben merve, nem kulso teljesitmenyben.",
+    "en": "The fences are the practice's very integrity; measured in honesty within, not in outer performance."
+   },
+   "etika": {
+    "hu": "Kizarolag onmagadra iranyul — soha nem masokra, nem szerencsejatekra vagy nyeresegre, nem eltunt szemelyek bemeresere, nem vegitelet-joslatra. Nem gyogymod, es nem halasztja az ellatast. Parancsolo hangok, vagy onmagad, illetve masok bantasanak kesztetese eseten ez orvosi veszhelyzet: azonnal szakemberhez, vagy a surgossegi szolgalathoz fordulj.",
+    "en": "Strictly self-directed — never toward others, never for gambling or gain, never for locating missing persons, never for doomsday prophecy. Not a cure, and it does not delay care. If commanding voices arise, or an urge to harm yourself or another, that is a medical emergency: turn at once to a professional, or to emergency services."
+   }
+  }
+ ]
+}
