@@ -21,6 +21,14 @@ Install: copy a module's **raw** link below and paste it in the app
 | Sathya Sai Baba — Love & Service | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/saibaba.love/module.json` |
 | Kashpirovsky — The Two Edges of Suggestion | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/kashpirovsky.suggestion/module.json` |
 | Mentalism — The Craft and the Shield | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/mentalism.craft/module.json` |
+| Remote Viewing — a Four-Stage School of Intuition | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.basics/module.json` |
+| Remote Viewing — the Discipline of Intuition (Advanced) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.advanced/module.json` |
+| Associative Remote Viewing — the Binary Intuition Trial | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.associative/module.json` |
+| Remote Viewing and Place — Intuitive Sensing of Location | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.place/module.json` |
+| The Remote-Viewing Journal — Blind Targets and the Inner Sanctuary | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.sanctuary/module.json` |
+| Intention Turned Inward — Reversed Remote Viewing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/remote.influencing/module.json` |
+| Mediumship and Discernment — Speaking with the Dead | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/mediumship.craft/module.json` |
+| Telekinesis — the Kinesis Path (Attention, Imagination, Intent) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/telekinesis.kinesis/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 

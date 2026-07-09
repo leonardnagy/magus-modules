@@ -1,0 +1,441 @@
+{
+ "formatVersion": 1,
+ "id": "rv.sanctuary",
+ "version": 1,
+ "nevek": {
+  "hu": "A távérzékelő napló — vak célpontok és a belső menedék",
+  "en": "The Remote-Viewing Journal — Blind Targets and the Inner Sanctuary"
+ },
+ "description": {
+  "hu": "A távérzékelés hagyományának becsületes, megkülönböztetés-központú tanulmánya — de csak a védhető magja: a strukturált érzékelés, a figyelem és az intuíció edzése, a vak célpontos naplózás és az őszinte önértékelés, valamint egy jóindulatú belső menedék felépítése. A hagyomány saját modelljeként mutatjuk be, amelyet a belső gyümölcsei mérnek, nem tényként, és semmilyen eredményt nem ígérünk. A forrás félelemkeltő, végítélet-jósló, felhalmozó és bizalmatlanságra uszító részeit elhagytuk; helyükön nyugodt földelés és médiahigiénia áll.",
+  "en": "An honest, discernment-centred study of the remote-viewing tradition — but only its defensible core: structured perception, the training of attention and intuition, blind-target journaling and honest self-scoring, and the building of a benign inner sanctuary. It is presented as the tradition's own model, measured by its inner fruits, never asserted as fact, and it promises no result. The source's fear-mongering, doomsday-prophecy, stockpiling and distrust-your-neighbours material is left out; in its place stand calm grounding and media hygiene."
+ },
+ "items": [
+  {
+   "id": "rvs-md-intro",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "Bevezető — mit tartunk meg, és mit hagyunk el",
+    "en": "Introduction — What We Keep and What We Leave Out"
+   },
+   "text": {
+    "hu": "Álljunk meg, mielőtt belekezdünk, mert ez a modul egy forrást **megrostál**. Az eredeti anyag egy fizetős tanfolyam a távérzékelésről, amely két nagyon különböző dolgot kevert össze: egyfelől egy **becsületes, edzhető belső gyakorlatot** — a figyelem, az érzékelés és az intuíció fegyelmezett művelését —, másfelől egy **félelemre épített világvége-elbeszélést** felhalmozásról, elköltözésről, a szomszédok iránti bizalmatlanságról és pontos katasztrófa-jóslatokról.\n\nEbből a modulból **csak a védhető mag** marad:\n\n— a **strukturált érzékelés** és a vak célpontos naplózás módszere,\n— a figyelem és az intuíció türelmes edzése,\n— az **őszinte önértékelés** — a találatok és tévedések becsületes mérlegelése,\n— és egy **jóindulatú belső menedék** felépítése: egy nyugodt, biztonságos benső hely, ahová bármikor visszavonulhatsz.\n\nAmit **tudatosan elhagyunk**: minden végítélet- és dátumjóslatot, a félelemből fakadó felhalmozást, a menekülési-elköltözési tervezgetést, a bizalmatlanság hangvételét, valamint minden olyan alkalmazást, amely mások megkárosítására, megtévesztésére vagy haszonszerzésre irányul. Ahol a forrás félelmet kelt, ott helyette **nyugodt földelés** és **médiahigiénia** áll.\n\nEz a hagyomány saját modellje szerinti belső gyakorlat — nem ténymegállapítás, és nem ígéret. A mércéje ugyanaz, mint a napló minden más útjáé: a **belső gyümölcs** — az élesebb figyelem, a türelem, az őszinteség és a belső nyugalom.",
+    "en": "Let us pause before we begin, for this module **sifts** a source. The original material is a paid course on remote viewing that mixed two very different things: on one side an **honest, trainable inner practice** — the disciplined cultivation of attention, perception and intuition — and on the other a **fear-built end-of-the-world narrative** about stockpiling, relocation, distrust of neighbours and precise disaster prophecies.\n\nFrom this module **only the defensible core** remains:\n\n— the method of **structured perception** and blind-target journaling,\n— the patient training of attention and intuition,\n— **honest self-scoring** — the fair weighing of hits and misses,\n— and the building of a **benign inner sanctuary**: a calm, safe inner place you may withdraw to at any time.\n\nWhat we **deliberately leave out**: all doomsday and date prophecy, fear-driven stockpiling, escape-and-relocation planning, the tone of distrust, and every application aimed at harming, deceiving or profiting from others. Where the source stokes fear, in its place stand **calm grounding** and **media hygiene**.\n\nThis is an inner practice according to the tradition's own model — not a statement of fact, and not a promise. Its measure is the same as that of every other path in the diary: the **inner fruit** — sharper attention, patience, honesty and inner calm."
+   }
+  },
+  {
+   "id": "rvs-md-frame",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "Az őszinte keret — a hagyomány modellje",
+    "en": "The Honest Frame — the Tradition's Model"
+   },
+   "text": {
+    "hu": "A távérzékelés a saját elbeszélése szerint egy **strukturált eljárás**, amellyel a gyakorló egy előre nem ismert — vak — célpontról próbál benyomásokat rögzíteni, egy semleges hivatkozási jel (egy kód vagy számsor) alapján, anélkül hogy tudná, mi az. A hagyomány azt **állítja**, hogy a fegyelmezett, csendes figyelem képes olyan finom benyomásokat felfogni, amelyeket a hétköznapi elme átugrik.\n\nFontos, hogy ezt pontosan a helyén kezeljük: ez a **hagyomány saját modellje**, nem bizonyított tény, és ez a modul sehol nem állítja, hogy a távérzékelés bizonyítottan működik. Nem ígér semmilyen eredményt.\n\nMi az, ami **valóban** és becsületesen edződik közben? Ezt tartjuk meg:\n\n— **A figyelem.** Percekig csendben, ítélet nélkül jelen lenni és rögzíteni: ez önmagában értékes koncentrációs gyakorlat, Bardon és Thot figyelem-munkájának rokona.\n\n— **Az érzékelés finomítása.** Megtanulsz különbséget tenni a **nyers benyomás** (egy szín, egy textúra, egy hőérzet) és az elme azonnali **magyarázata** között.\n\n— **A kalibráció.** A vak protokoll és az őszinte önértékelés miatt idővel visszajelzést kapsz: hol vagy pontos, hol téveszt az elméd. Ez a **megkülönböztetés iskolája**.\n\nÉppen a legkomolyabb gyakorlók ragaszkodnak a **vak** célponthoz és a szigorú önértékeléshez — mert tudják, milyen könnyen tölti ki az elme a hézagokat azzal, amit *látni akar*. Ez a beépített szerénység a módszer legbecsületesebb vonása, és ezt visszük tovább.",
+    "en": "Remote viewing, by its own account, is a **structured procedure** by which a practitioner tries to record impressions of a target they do not know in advance — a blind target — working from a neutral reference marker (a code or string of numbers), without knowing what it is. The tradition **claims** that disciplined, quiet attention can catch faint impressions the everyday mind skips over.\n\nIt matters that we place this exactly: this is the **tradition's own model**, not a proven fact, and nowhere does this module assert that remote viewing demonstrably works. It promises no result whatever.\n\nWhat, then, is **genuinely** and honestly trained along the way? This is what we keep:\n\n— **Attention.** To be present and record for minutes, in silence and without judgment: this is a valuable concentration exercise in itself, kin to the attention work of Bardon and Thoth.\n\n— **The refining of perception.** You learn to tell the **raw impression** (a colour, a texture, a sense of warmth) from the mind's instant **explanation** of it.\n\n— **Calibration.** Because of the blind protocol and honest self-scoring, over time you receive feedback: where you are accurate, where your mind misleads you. This is the **school of discernment**.\n\nIt is precisely the most serious practitioners who insist on the **blind** target and on strict self-scoring — because they know how easily the mind fills the gaps with what it *wants* to see. This built-in humility is the method's most honest feature, and it is what we carry forward."
+   }
+  },
+  {
+   "id": "rvs-md-method",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "A módszer és lépései",
+    "en": "The Method and Its Steps"
+   },
+   "text": {
+    "hu": "A vak célpontos ülés menete egyszerű, de a fegyelme teszi értékessé. Íme a lépések, saját szavainkkal:\n\n— **A jel.** Kapsz vagy magadnak adsz egy **semleges hivatkozást** — egy kódot vagy számsort —, amely egy előre eldöntött, de számodra ismeretlen célponthoz tartozik. A cél, hogy az elméd **ne tudjon** tippelni; így a benyomásokat nem a várakozás írja.\n\n— **Az üres lap.** Csendben, nyugodtan indulsz, minden előzetes kép nélkül. Nem találgatsz, nem elemzel — csak jelen vagy.\n\n— **A spontán jel (ideogram).** Hagyod, hogy a kezed egy gyors, ösztönös vonalat vessen a papírra. Ez nem jóslat; egy **indító mozdulat**, amely megnyitja az érzékelést.\n\n— **A nyers benyomások gyűjtése.** Kategóriánként rögzíted, ami feltűnik: színek, textúrák, hőérzetek, formák és méretek, hangok, mozgás, majd az **esztétikai és érzelmi lenyomat** — nyugodt, feszült, tág, nyomasztó. Egy-egy szó elég. Nem magyarázol.\n\n— **A magyarázat elkülönítése.** Amint az elméd rávágja, hogy ez egy híd vagy ez egy tó — az már **értelmezés**, nem érzékelés. Ezt a hagyomány külön jelöli (a régi szaknyelvben analitikus rávetítésnek hívják), és **félreteszi**, mert ez a leggyakoribb hibaforrás.\n\n— **Zárás és lelepleződés.** Lezárod az ülést, és csak **utána** nézed meg, mi volt a célpont.\n\n— **Az őszinte önértékelés.** Végigmész a jegyzeteden, és becsületesen jelölöd: mi illett, mi nem, mi volt puszta magyarázat. A tévedés éppolyan értékes adat, mint a találat — ez tanít meg a saját elméd szűrőire.\n\nA módszer szíve nem a csoda, hanem ez az utolsó lépés: a **becsületes mérleg**. Enélkül csak önáltatás; ezzel a figyelem és a megkülönböztetés komoly edzése.",
+    "en": "A blind-target session is simple in shape, but its discipline is what makes it worth doing. Here are the steps, in our own words:\n\n— **The marker.** You are given, or give yourself, a **neutral reference** — a code or string of numbers — belonging to a target decided in advance but unknown to you. The point is that your mind **cannot** guess; that way the impressions are not written by expectation.\n\n— **The blank page.** You begin quietly, calmly, with no prior image. You do not guess and do not analyse — you are simply present.\n\n— **The spontaneous mark (ideogram).** You let your hand throw a quick, instinctive stroke onto the paper. This is no prophecy; it is a **starting gesture** that opens perception.\n\n— **Gathering raw impressions.** Category by category you record what stands out: colours, textures, senses of temperature, shapes and sizes, sounds, movement, and then the **aesthetic and emotional imprint** — calm, tense, wide, oppressive. A single word is enough. You do not explain.\n\n— **Setting the explanation apart.** The moment your mind snaps that this is a bridge or this is a lake — that is already **interpretation**, not perception. The tradition marks this separately (in the old jargon it is called analytic overlay) and **sets it aside**, because it is the commonest source of error.\n\n— **Closing and reveal.** You close the session, and only **afterwards** look at what the target was.\n\n— **Honest self-scoring.** You go through your notes and mark, honestly: what fit, what did not, what was mere explanation. A miss is data as valuable as a hit — it is what teaches you your own mind's filters.\n\nThe heart of the method is not the miracle but this last step: the **honest reckoning**. Without it, this is only self-deception; with it, it is a serious training of attention and discernment."
+   }
+  },
+  {
+   "id": "rvs-md-sanctuary",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "A belső menedék",
+    "en": "The Inner Sanctuary"
+   },
+   "text": {
+    "hu": "A forrás sokat beszél egy menedékről, de ott ez fizikai helyet jelentett — elköltözést, felhalmozást, a világtól való elzárkózást. Ezt a részt **elhagyjuk**. Amit megtartunk, az a szó **belső** értelme: egy nyugodt, biztonságos hely a képzeletedben, ahová bármikor visszavonulhatsz, hogy elcsendesedj és földelődj.\n\nEz nem menekülés a valóság elől, és nem állítás semmilyen külső világról. Egyszerű, jól ismert **belső eszköz**: a képzelet és a testi elnyugvás összekapcsolása, amely segít a figyelmet összeszedni és az idegrendszert lenyugtatni — rokona a nyugodt légzésnek és a vezetett képzeletnek.\n\n**Hogyan építsd fel:**\n\n— **Válaszd vagy hagyd megjelenni a helyet.** Lehet valós emlék (egy csendes part, egy erdőszél, egy szoba) vagy tisztán képzelt. A lényeg, hogy **benned** biztonságos és nyugodt legyen.\n\n— **Töltsd meg érzékekkel.** Mit látsz, mit hallasz, milyen a levegő hőmérséklete, milyen illat, milyen a talaj a lábad alatt? Minél elevenebb, annál inkább megtart.\n\n— **Tedd állandóvá.** Ha többször visszatérsz ugyanoda, a hely megszilárdul, és egyre gyorsabban elér a nyugalom, ahogy belépsz.\n\n— **Használd földelésként.** Feszült perc, elárasztó hír vagy nyugtalan gondolatok közepette néhány lélegzetvételnyi visszatérés ide gyakran elég, hogy a figyelmed újra a jelenben legyen.\n\nA belső menedék így nem a világvégére készít fel, hanem a **mai naphoz** ad nyugodt középpontot — és ez a legbecsületesebb, legvédhetőbb formája annak, amit a forrás félreértett.",
+    "en": "The source speaks much of a sanctuary, but there it meant a physical place — relocation, stockpiling, sealing oneself off from the world. That part we **leave out**. What we keep is the word's **inner** meaning: a calm, safe place in your imagination that you may withdraw to at any time, to grow quiet and to ground yourself.\n\nThis is no flight from reality, and no claim about any outer world. It is a simple, well-known **inner tool**: the joining of imagination and bodily settling that helps gather attention and calm the nervous system — kin to quiet breathing and guided imagery.\n\n**How to build it:**\n\n— **Choose or let the place arise.** It may be a real memory (a quiet shore, the edge of a wood, a room) or purely imagined. What matters is that it is safe and calm **within you**.\n\n— **Fill it with the senses.** What do you see, what do you hear, what is the temperature of the air, what scent, what ground beneath your feet? The more vivid, the more it holds you.\n\n— **Make it constant.** If you return to the same place repeatedly, it sets, and calm reaches you ever faster as you step in.\n\n— **Use it as grounding.** In a tense minute, amid a flooding piece of news or restless thoughts, a few breaths' return here is often enough to bring your attention back into the present.\n\nThe inner sanctuary thus prepares you not for the end of the world but gives a calm centre for **this day** — and that is the most honest, most defensible form of what the source misunderstood."
+   }
+  },
+  {
+   "id": "rvs-md-ethics",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "Megkülönböztetés, etika és határok",
+    "en": "Discernment, Ethics and Boundaries"
+   },
+   "text": {
+    "hu": "Ez a modul legfontosabb lecke — a **határok**. A belső gyakorlat csak addig ártalmatlan, amíg tiszteletben tartja őket.\n\n— **Csak önmagadra irányítsd.** A gyakorlás önismeret és figyelem-edzés. Ne olvass rá egy **megnevezett** másik emberre a beleegyezése nélkül — se szeretteidre, se idegenekre. Ez Bardon etikájának magja: a szabad akaratot **sérthetetlennek** tekintjük.\n\n— **Ne keress eltűnt embereket, holttesteket, áldozatokat.** Ne küldj koordinátákat családoknak vagy hatóságoknak. Ez a jó szándék ellenére valódi kárt okoz: hamis reményt, téves nyomozati irányt, újratraumatizálást. Ez nem a te feladatod, és a módszer erre nem alkalmas.\n\n— **Semmi haszonszerzés.** Nincs szerencsejáték, tőzsde, fogadás vagy pszi-pénzkeresés. Aki ilyet ígér, az becsap — magát vagy téged.\n\n— **Nincs végítélet.** Nem jósolunk katasztrófa-dátumokat, nem halmozunk fel félelemből, nem költözünk pánikból, és nem tekintünk gyanakvással a szomszédainkra. A pontos dátumhoz kötött próféciák újra meg újra tévednek; a hozzájuk tapadó szorongás viszont valódi kárt tesz.\n\n— **Médiahigiénia a félelem helyett.** Ha egy videó vagy cikk azt állítja, hogy távérzékelők megerősítették a közelgő véget, kezeld **ellenőrizhetetlen félelemkeltésként**. Zárd be, lélegezz, térj vissza a belső menedékbe, és a mai valós feladataidhoz. A nyugalom is gyakorolható készség.\n\n**Orvosi biztonság — kérjük, olvasd el.** Ha a gyakorlás során **parancsoló hangokat** hallasz, vagy önmagad vagy mások bántásának késztetését érzed, az **nem** pszichikus üzenet és **nem** spirituális jel — ez **orvosi vészhelyzet**. Azonnal fordulj szakemberhez vagy a sürgősségi szolgálathoz. Ez a modul nem orvosi vagy pszichológiai tanács; sosem helyettesíti és nem késleltetheti az ellátást. Ha bármilyen egészségügyi kérdés merül fel, keress fel egy szakembert. Válságban lévő emberek és gyermekek számára ez a gyakorlat nem alkalmas.",
+    "en": "This is the module's most important lesson — the **boundaries**. The inner practice stays harmless only so long as it honours them.\n\n— **Direct it at yourself alone.** The practice is self-knowledge and attention training. Do not read a **named** other person without their consent — not loved ones, not strangers. This is the core of Bardon's ethics: free will is held **inviolable**.\n\n— **Do not search for missing people, bodies or victims.** Do not send coordinates to families or authorities. Despite good intentions this does real harm: false hope, misdirected investigations, re-traumatization. It is not your task, and the method is not fit for it.\n\n— **No gain-seeking.** No gambling, trading, betting or making money with psi. Anyone promising such is deceiving — themselves or you.\n\n— **No doomsday.** We prophesy no disaster dates, hoard nothing from fear, move nowhere in panic, and look on no neighbour with suspicion. Date-bound prophecies fail again and again; the dread that clings to them, however, does real harm.\n\n— **Media hygiene in place of fear.** If a video or article claims that remote viewers have confirmed a coming end, treat it as **unverifiable fear-mongering**. Close it, breathe, return to the inner sanctuary and to your real tasks for today. Calm, too, is a trainable skill.\n\n**Medical safety — please read.** If during practice you hear **commanding voices**, or feel an urge to harm yourself or others, this is **not** a psychic message and **not** a spiritual sign — it is a **medical emergency**. Turn at once to a professional or the emergency services. This module is not medical or psychological advice; it never replaces and must not delay care. For any health question, consult a professional. This practice is not suitable for children or for people in crisis."
+   }
+  },
+  {
+   "id": "rvs-timer-sanctuary",
+   "kind": "timer",
+   "nevek": {
+    "hu": "A belső menedék — 10 perc",
+    "en": "The Inner Sanctuary — 10 min"
+   },
+   "timer": {
+    "durationSeconds": 600,
+    "instructions": {
+     "hu": "Ülj vagy feküdj kényelmesen, csukott szemmel. Néhány nyugodt lélegzet után hagyd megjelenni a belső menedéked — a te biztonságos, csendes helyed. Töltsd meg érzékekkel: mit látsz, mit hallasz, milyen a levegő, az illat, a talaj a lábad alatt. Ne siettesd. A vége felé csak pihenj a hely nyugalmában, és jegyezd meg, hogyan érzed magad, hogy legközelebb gyorsabban visszatalálj ide.",
+     "en": "Sit or lie comfortably, eyes closed. After a few calm breaths, let your inner sanctuary arise — your safe, quiet place. Fill it with the senses: what you see, what you hear, the air, the scent, the ground beneath your feet. Do not rush. Toward the end simply rest in the place's calm, and note how you feel, so that next time you find your way back here faster."
+    },
+    "intervals": [
+     {
+      "atSecond": 120,
+      "label": {
+       "hu": "Töltsd meg érzékekkel",
+       "en": "Fill it with the senses"
+      }
+     },
+     {
+      "atSecond": 420,
+      "label": {
+       "hu": "Pihenj a nyugalomban",
+       "en": "Rest in the calm"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvs-timer-blindtarget",
+   "kind": "timer",
+   "nevek": {
+    "hu": "Vak célpontos ülés — 12 perc",
+    "en": "Blind-Target Session — 12 min"
+   },
+   "timer": {
+    "durationSeconds": 720,
+    "instructions": {
+     "hu": "Készíts papírt és tollat. Adj magadnak egy semleges hivatkozást (egy tetszőleges számsort) egy előre kiválasztott, de most nem nézett célponthoz — vagy kérj meg valakit, hogy készítsen ilyet. Csendesedj el, üres lappal. Vess egy gyors, ösztönös vonalat. Aztán rögzítsd kategóriánként a nyers benyomásokat: színek, textúrák, hőérzet, formák, hangok, majd az esztétikai-érzelmi lenyomat. Egy-egy szó elég. Amint az elméd magyarázni kezd, jelöld külön és tedd félre. Csak az ülés lezárása UTÁN nézd meg a célpontot, és értékeld őszintén.",
+     "en": "Have paper and pen ready. Give yourself a neutral reference (any string of numbers) for a target chosen in advance but not looked at now — or ask someone to prepare one. Grow quiet, with a blank page. Throw a quick, instinctive stroke. Then record the raw impressions category by category: colours, textures, temperature, shapes, sounds, then the aesthetic-emotional imprint. A single word is enough. The moment your mind starts to explain, mark it apart and set it aside. Only AFTER closing the session look at the target, and score honestly."
+    },
+    "intervals": [
+     {
+      "atSecond": 60,
+      "label": {
+       "hu": "Vess egy spontán vonalat",
+       "en": "Throw a spontaneous stroke"
+      }
+     },
+     {
+      "atSecond": 300,
+      "label": {
+       "hu": "Nyers benyomások — ne magyarázz",
+       "en": "Raw impressions — do not explain"
+      }
+     },
+     {
+      "atSecond": 600,
+      "label": {
+       "hu": "Zárd le, majd értékelj őszintén",
+       "en": "Close, then score honestly"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvs-timer-grounding",
+   "kind": "timer",
+   "nevek": {
+    "hu": "Földelés és médiahigiénia — 5 perc",
+    "en": "Grounding and Media Hygiene — 5 min"
+   },
+   "timer": {
+    "durationSeconds": 300,
+    "instructions": {
+     "hu": "Ez a gyakorlat a félelem helyett a nyugalmat edzi. Ha egy nyugtalanító hír vagy gondolat elárasztott, tedd le a telefont. Érezd a talajt a lábad alatt és a lélegzeted. Nevezz meg csendben öt dolgot, amit most, ebben a szobában látsz. Aztán térj vissza néhány lélegzetvételre a belső menedékedbe. A végén kérdezd meg magadtól: mi az egyetlen valós, mai dolog, amit most tehetek? A többi ellenőrizetlen zaj — elengedheted.",
+     "en": "This practice trains calm in place of fear. If an unsettling piece of news or thought has flooded you, put the phone down. Feel the ground beneath your feet and your breath. Silently name five things you can see right now, in this room. Then return for a few breaths to your inner sanctuary. At the end, ask yourself: what is the single real, present thing I can do today? The rest is unverified noise — you may let it go."
+    },
+    "intervals": [
+     {
+      "atSecond": 150,
+      "label": {
+       "hu": "Térj vissza a menedékbe",
+       "en": "Return to the sanctuary"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvs-checklist",
+   "kind": "checklist",
+   "nevek": {
+    "hu": "A becsületes gyakorlat ellenőrzőlistája",
+    "en": "The Honest-Practice Checklist"
+   },
+   "checklist": {
+    "items": [
+     {
+      "key": "rvs-c1",
+      "nevek": {
+       "hu": "A vak protokoll megértve — az elme ne tudjon előre tippelni",
+       "en": "The blind protocol understood — the mind cannot guess in advance"
+      }
+     },
+     {
+      "key": "rvs-c2",
+      "nevek": {
+       "hu": "A nyers benyomás és a magyarázat (rávetítés) szétválasztva",
+       "en": "Raw impression and explanation (overlay) kept apart"
+      }
+     },
+     {
+      "key": "rvs-c3",
+      "nevek": {
+       "hu": "Egy ülés lezárva és őszintén értékelve — a tévedés is adat",
+       "en": "A session closed and honestly scored — a miss is also data"
+      }
+     },
+     {
+      "key": "rvs-c4",
+      "nevek": {
+       "hu": "A belső menedék felépítve és legalább egyszer földelésként használva",
+       "en": "The inner sanctuary built and used at least once as grounding"
+      }
+     },
+     {
+      "key": "rvs-c5",
+      "nevek": {
+       "hu": "Az etikai határok elfogadva: csak önmagamra, beleegyezés nélkül senki másra",
+       "en": "The ethical boundaries accepted: only myself, no one else without consent"
+      }
+     },
+     {
+      "key": "rvs-c6",
+      "nevek": {
+       "hu": "A médiahigiénia gyakorolva egy félelemkeltő tartalommal szemben",
+       "en": "Media hygiene practised against one piece of fear-content"
+      }
+     },
+     {
+      "key": "rvs-c7",
+      "nevek": {
+       "hu": "Az orvosi biztonsági szabály rögzült: parancsoló hang vagy önbántás = vészhelyzet",
+       "en": "The medical-safety rule fixed: commanding voice or self-harm = emergency"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvs-aspektusok",
+   "kind": "aspektusPack",
+   "nevek": {
+    "hu": "Az érzékelés és a megkülönböztetés jellemvonásai",
+    "en": "Traits of Perception and Discernment"
+   },
+   "aspektusPack": [
+    {
+     "key": "rvs-asp-projection",
+     "elem": "viz",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Kivetítés",
+      "en": "Projection"
+     }
+    },
+    {
+     "key": "rvs-asp-doomdread",
+     "elem": "tuz",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Végítélet-szorongás",
+      "en": "Doomsday dread"
+     }
+    },
+    {
+     "key": "rvs-asp-overinterpret",
+     "elem": "levego",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Túlértelmezés",
+      "en": "Over-interpretation"
+     }
+    },
+    {
+     "key": "rvs-asp-credulity",
+     "elem": "fold",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Vak hiszékenység",
+      "en": "Blind credulity"
+     }
+    },
+    {
+     "key": "rvs-asp-attention",
+     "elem": "levego",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Csendes figyelem",
+      "en": "Quiet attention"
+     }
+    },
+    {
+     "key": "rvs-asp-honesty",
+     "elem": "eter",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Őszinte önértékelés",
+      "en": "Honest self-scoring"
+     }
+    },
+    {
+     "key": "rvs-asp-patience",
+     "elem": "fold",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Türelmes kalibráció",
+      "en": "Patient calibration"
+     }
+    },
+    {
+     "key": "rvs-asp-innercalm",
+     "elem": "viz",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Belső nyugalom",
+      "en": "Inner calm"
+     }
+    }
+   ]
+  },
+  {
+   "id": "rvs-journal",
+   "kind": "journalTemplate",
+   "nevek": {
+    "hu": "A vak célpont naplója",
+    "en": "The Blind-Target Journal"
+   },
+   "journalTemplate": {
+    "aspektusKeys": [
+     "rvs-asp-honesty"
+    ],
+    "prompts": {
+     "hu": "NYERS BENYOMÁSOK — Amit ma az ülésen kategóriánként rögzítettem (szín, textúra, hő, forma, hang, érzelmi lenyomat): ___\n\nMAGYARÁZAT — Ahol az elmém magyarázni kezdett (rávetítés), és külön jelöltem: ___\n\nLELEPLEZŐDÉS ÉS MÉRLEG — Mi volt a célpont, mi illett, mi nem, mi volt puszta tipp: ___\n\nMENEDÉK ÉS NYUGALOM — Hogyan éltem meg a belső menedéket, és hol segített ma földelni: ___\n\nHATÁR — Hol tartottam ma az etikai és médiahigiéniai határt: ___",
+     "en": "RAW IMPRESSIONS — What I recorded in today's session, category by category (colour, texture, warmth, shape, sound, emotional imprint): ___\n\nEXPLANATION — Where my mind began to explain (overlay), which I marked apart: ___\n\nREVEAL AND RECKONING — What the target was, what fit, what did not, what was mere guess: ___\n\nSANCTUARY AND CALM — How I experienced the inner sanctuary, and where it helped me ground today: ___\n\nBOUNDARY — Where I held the ethical and media-hygiene line today: ___"
+    }
+   }
+  },
+  {
+   "id": "rvs-quiz",
+   "kind": "quiz",
+   "nevek": {
+    "hu": "Megkülönböztető önellenőrzés",
+    "en": "Discernment Self-Check"
+   },
+   "quiz": {
+    "passThreshold": 3,
+    "questions": [
+     {
+      "id": "rvs-q1",
+      "prompt": {
+       "hu": "Mit állít ez a modul a vak célpontos gyakorlásról?",
+       "en": "What does this module claim about blind-target practice?"
+      },
+      "options": {
+       "hu": [
+        "Bizonyítottan működő pszichikus erő, amely katasztrófákat jelez előre",
+        "A hagyomány saját, strukturált belső gyakorlata, amelyet a belső gyümölcsei mérnek — figyelem, őszinteség, kalibráció —, nem bizonyított tény",
+        "Pénzkereseti módszer a tőzsdén és a szerencsejátékban",
+        "Módszer eltűnt emberek megtalálására"
+       ],
+       "en": [
+        "A proven psychic power that predicts disasters in advance",
+        "The tradition's own structured inner practice, measured by its inner fruits — attention, honesty, calibration — not a proven fact",
+        "A way to make money on the markets and in gambling",
+        "A method for finding missing people"
+       ]
+      },
+      "correctIndex": 1
+     },
+     {
+      "id": "rvs-q2",
+      "prompt": {
+       "hu": "Gyakorlás közben úgy érzed, egy megnevezett barátod magánügyéről kapsz benyomásokat. Mi a helyes?",
+       "en": "During practice you feel you are getting impressions about a named friend's private affairs. What is right?"
+      },
+      "options": {
+       "hu": [
+        "Rögzítem és elmondom neki, hátha segít",
+        "Nem irányítom megnevezett másikra a beleegyezése nélkül — a gyakorlás csak önmagamra irányul, tiszteletben tartva a szabad akaratot",
+        "Elküldöm a benyomásokat a hatóságoknak",
+        "Fogadok rá, hogy igazam lesz"
+       ],
+       "en": [
+        "Record it and tell them, in case it helps",
+        "I do not direct it at a named other without their consent — the practice is self-directed only, honouring free will",
+        "Send the impressions to the authorities",
+        "Bet that I will be proven right"
+       ]
+      },
+      "correctIndex": 1
+     },
+     {
+      "id": "rvs-q3",
+      "prompt": {
+       "hu": "Gyakorlás közben parancsoló hangot hallasz, amely arra biztat, hogy bánts valakit. Mi ez, és mit teszel?",
+       "en": "During practice you hear a commanding voice urging you to harm someone. What is it, and what do you do?"
+      },
+      "options": {
+       "hu": [
+        "Fontos pszichikus üzenet, amelyet követni kell",
+        "Orvosi vészhelyzet — azonnal szakemberhez vagy a sürgősségi szolgálathoz fordulok",
+        "A gyakorlás sikerének jele, folytatom",
+        "Egy szellem próbál kapcsolatba lépni"
+       ],
+       "en": [
+        "An important psychic message to be followed",
+        "A medical emergency — I turn at once to a professional or the emergency services",
+        "A sign of the practice succeeding; I continue",
+        "A spirit trying to make contact"
+       ]
+      },
+      "correctIndex": 1
+     },
+     {
+      "id": "rvs-q4",
+      "prompt": {
+       "hu": "Egy videó azt állítja, hogy távérzékelők megerősítettek egy pontos világvége-dátumot, és rettegést érzel. Mi a becsületes válasz?",
+       "en": "A video claims remote viewers have confirmed a precise doomsday date, and you feel dread. What is the honest response?"
+      },
+      "options": {
+       "hu": [
+        "Felhalmozok, elköltözöm, és senkiben sem bízom",
+        "Ellenőrizhetetlen félelemkeltésként kezelem: bezárom, földelődöm, és a mai valós feladataimra térek vissza",
+        "Terjesztem, hogy másokat is figyelmeztessek",
+        "Elhiszem, mert magabiztosan mondták"
+       ],
+       "en": [
+        "Stockpile, relocate, and trust no one",
+        "Treat it as unverifiable fear-mongering: close it, ground myself, and return to my real tasks for today",
+        "Spread it to warn others",
+        "Believe it, because it was said with confidence"
+       ]
+      },
+      "correctIndex": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvs-md-source",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "Forrás és nyilatkozat",
+    "en": "Source & Disclaimer"
+   },
+   "text": {
+    "hu": "*Tanulási segédlet a távérzékelés hagyománya nyomán, egy fizetős tanfolyam-átirat témáinak feldolgozásával. A szöveg eredeti összefoglaló és átértelmezés a saját szavainkkal — nem szó szerinti idézet, és nem veszi át a forrás megfogalmazásait, anekdotáit, megnevezett példáit vagy szkriptjeit. A módszer (strukturált érzékelés, vak célpont, önértékelés) általános, nem védett eljárás; itt kizárólag a jóindulatú, önismereti magját tartjuk meg.*\n\n*Becsületes keret: a távérzékelés rendkívüli állításait a hagyomány saját modelljeként mutatjuk be, nem tényként, és a modul semmilyen eredményt nem ígér. A mércéje a belső gyümölcs: figyelem, intuíció, kalibráció, őszinteség, belső nyugalom. A forrás végítélet-jósló, felhalmozó, elköltözésre és bizalmatlanságra buzdító, valamint haszonszerzésre irányuló tartalmát szándékosan elhagytuk. Ez nem orvosi és nem pszichológiai tanács, és sosem késleltetheti vagy helyettesítheti az ellátást. Parancsoló hangok vagy önbántás késztetése esetén azonnal fordulj szakemberhez vagy a sürgősségi szolgálathoz.*",
+    "en": "*A study aid after the remote-viewing tradition, working from the themes of a paid course transcript. The text is an original summary and reinterpretation in our own words — not a verbatim quotation, and it takes over none of the source's phrasings, anecdotes, named examples or scripts. The method (structured perception, blind target, self-scoring) is a general, unprotected procedure; here we keep only its benign, self-knowledge core.*\n\n*An honest frame: the extraordinary claims of remote viewing are presented as the tradition's own model, not as fact, and the module promises no result. Its measure is the inner fruit: attention, intuition, calibration, honesty, inner calm. The source's doomsday-prophecy, stockpiling, relocation-and-distrust and gain-seeking content has been deliberately left out. This is not medical or psychological advice, and it must never delay or replace care. In case of commanding voices or an urge toward self-harm, turn at once to a professional or the emergency services.*"
+   }
+  }
+ ]
+}

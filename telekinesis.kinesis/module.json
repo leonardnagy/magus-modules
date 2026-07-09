@@ -1,0 +1,251 @@
+{
+  "formatVersion": 1,
+  "id": "telekinesis.kinesis",
+  "version": 1,
+  "nevek": {
+    "hu": "Telekinézis — a Kinesis-ösvény (figyelem, képzelet, szándék)",
+    "en": "Telekinesis — the Kinesis Path (Attention, Imagination, Intent)"
+  },
+  "description": {
+    "hu": "Egy csöndes gyakorlósor három hétköznapi képesség edzésére: a figyelemé, a képzeleté és a szándéké. A tárgymozgatás a hagyomány saját állítása, sosem tény és sosem ígéret — amit valóban mérünk, az a belső gyümölcs: állhatatosabb figyelem, tisztább belső képek, őszinte önmegfigyelés.",
+    "en": "A calm training path for three ordinary faculties — attention, imagination, and steady intent. Moving matter is the tradition's own claim, never a fact and never a promise; what we actually measure are the inner fruits: steadier focus, clearer inner images, honest self-observation."
+  },
+  "items": [
+    {
+      "id": "tk-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Miről szól ez az ösvény",
+        "en": "What this path is"
+      },
+      "text": {
+        "hu": "Ez a modul három hétköznapi emberi képesség edzőterme: a *figyelemé*, a *képzeleté* és a *szándéké*. A hagyomány, amelyből merít, telekinézisnek nevezi magát, és arról beszél, hogy az elme mozgatni tudja az anyagot. Ezt az állítást itt pontosan ott hagyjuk, ahová tartozik – a hagyomány saját elbeszéléseként, **sosem tényként**. Amit valóban gyakorolsz, az szerény módon valós és megfigyelhető: megtanulod tovább tartani a fókuszod, elevenebben elképzelni a dolgokat, és nyugodt, kitartó célt tartani. Hogy a külvilágban megmozdul-e bármi, az nem a lényeg, és **sosem ígérjük**. A gyümölcsök, amelyeket figyelünk, belsők – állhatatosabb összpontosítás, tisztább belső képek, őszintébb önmegfigyelés és békésebb viszony a saját erőfeszítéseddel. Tekints minden ülésre egy magadon végzett kísérletként, amelyet őszintén rögzítesz a naplódban."
+        ,
+        "en": "This module is a training ground for three ordinary human faculties: *attention*, *imagination*, and *intent*. The tradition it borrows from calls itself telekinesis and speaks of moving matter with the mind. Here we keep that claim exactly where it belongs — as the tradition's own story, **never as a fact**. What you actually practise is real and modestly measurable: you learn to hold your focus longer, to picture things more vividly, and to hold a calm, steady aim. Whether anything moves in the outer world is not the point, and it is **never promised**. The fruits we watch for are inner ones — steadier concentration, clearer inner images, more honest self-observation, and a calmer relationship with your own effort. Treat every session as an experiment on yourself, written up honestly in your diary."
+      }
+    },
+    {
+      "id": "tk-model",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A becsületes modell: figyelem, képzelet, szándék",
+        "en": "The honest model: attention, imagination, intent"
+      },
+      "text": {
+        "hu": "A régi tanítás három összetevőt nevez meg, és úgy tartja, hogy amikor ezek egy irányba állnak, a gyakorló tudata – a hagyomány szerint – a szokásos hatókörén túlra terjed. Mi a *szerkezetet* kölcsönvesszük, a bizonyosságot elengedjük. A **figyelem** az a képesség, hogy egyetlen dolgon megpihenj anélkül, hogy elragadna a gondolatok árja – izomként edzhető, gyengéden, sosem erőltetve. A **képzelet** az a belső műhely, ahol olyan tiszta képet építesz, hogy az érzékeid szinte beszállnak. A **szándék** csöndes, letisztult cél: nem görcsölés és nem is kételkedés, csupán nyugodt tudása annak, hová irányulsz. A *kinesis* szó itt önuralmat jelent – a saját belső állapotod irányítását, nem hatalmat tárgyak vagy emberek fölött. A hagyomány külső hatásokat állít; mi ezeket sem meg nem erősítjük, sem nem tagadjuk. Csak azt mérjük, ami őszintén mérhető: tovább tartó figyelem, állhatatosabb képek, kevésbé ingadozó szándék, és hetek alatt egy napló, amely valódi belső változást mutat. Egybeesések és jelentőségteljes időzítések felbukkanhatnak – örülj nekik, jegyezd fel őket, de **sosem tekintsd bizonyítéknak**."
+        ,
+        "en": "The old teaching names three ingredients and holds that, once they align, the practitioner's awareness is said to extend outward past its everyday range. We borrow the *structure* and drop the certainty. **Attention** is the ability to rest on one thing without being dragged off by the stream of thoughts — trained like a muscle, gently, never by force. **Imagination** is the inner workshop where you build a picture so clear that your senses almost join in. **Intent** is a quiet, settled aim: not straining and not doubting, simply a calm knowing of what you are pointing at. The word *kinesis* here means self-mastery — the steering of your own inner state, not power over objects or people. The tradition claims outer effects; we neither confirm nor deny them. We measure only what can honestly be measured: attention that lasts longer, images that stay steadier, intent that wavers less, and, over weeks, a diary that shows real change in *you*. Coincidences and meaningful timings may appear — enjoy them, note them, but **never treat them as proof**."
+      }
+    },
+    {
+      "id": "tk-method",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az ülés menete lépésről lépésre",
+        "en": "The shape of a session, step by step"
+      },
+      "text": {
+        "hu": "Egy ülésnek egyszerű íve van. Először **ülepedj el** – ülj kényelmesen, hagyd lassulni a légzést, engedd ellazulni a vállad és az állkapcsod. A leggyakoribb kezdő hiba a görcsös erőlködés; a megfeszült test és elme bezárul, ezért inkább laza, sietség nélküli éberségre törekedj. Másodszor **horgonyozd le a figyelmed** – pihenj meg a légzésen, egy gyertyalángon, vagy egy ritmusra ismételt szón. Amikor az elme elkalandozik – és el fog –, hozd vissza szemrehányás nélkül. Harmadszor **építsd fel a képet** – válassz egy kicsi, semleges, saját tárgyat, és lásd a lelki szemeddel minden oldalról: a súlyát, tapintását, színét, ahogy a fény ráesik. Adj hozzá más érzékeket, míg a kép élővé nem válik. Negyedszer **állítsd be a szándékot** – tarts nyugodt, sietség nélküli célt, inkább *megengedve*, mint *nyomva*. Ötödször **engedd el és figyelj** – hagyd abba az igyekvést, és egyszerűen figyelj, belül és kívül, kíváncsian. Hatodszor **földelj és írj** – tedd a kezed az öledbe vagy a padlóra, végy néhány lassú lélegzetet, majd rögzítsd őszintén, mi történt a figyelmeddel, a képeiddel és a hangulatoddal. Néhány tiszta perc naponta többet ér egy frusztrált óránál. Ha kívül semmi sem moccan, semmi baj nincs: a belső edzés az egyetlen, amit ígérünk."
+        ,
+        "en": "A session has a simple shape. First, **settle** — sit comfortably, let the breath slow, let the shoulders and jaw soften. The most common beginner error is effortful straining; a clenched body and mind close everything down, so aim instead for loose, unhurried alertness. Second, **anchor your attention** — rest on the breath, on a candle flame, or on a single word repeated in rhythm. When the mind drifts, and it will, bring it back without scolding yourself. Third, **build the image** — pick one small, neutral object of your own and see it in the mind's eye from every side: its weight, texture, colour, the way light falls on it. Add other senses until the picture feels alive. Fourth, **set the intent** — hold a calm, unhurried aim, more *allowing* than *pushing*. Fifth, **let go and observe** — stop striving and simply watch, inwardly and outwardly, with curiosity. Sixth, **ground and write** — place your hands in your lap or on the floor, take a few slow breaths, then record honestly what happened in your attention, your images, and your mood. A few clear minutes daily beat a frustrated hour. If nothing stirs outwardly, nothing is wrong: the inner training is the whole of what is promised."
+      }
+    },
+    {
+      "id": "tk-ethics",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Megkülönböztetés, etika és biztonság",
+        "en": "Discernment, ethics, and safety"
+      },
+      "text": {
+        "hu": "Ez az ösvény inkább őszinteséget kér, mint tehetséget. Tartsd szilárdan ezeket a kerítéseket. **Csak önmagadra irányul.** A saját figyelmeden és a saját, választott semleges tárgyadon gyakorolj – **soha ne** irányítsd ezeket a gyakorlatokat megnevezett személyre, a holmijára vagy a terére a beleegyezése nélkül. A szabad akaratot nem a mi dolgunk felülírni. **Tartsd a rendkívüli állításokat hétköznapi csatornákban.** Ezek a gyakorlatok nem eszközök arra, hogy pénzt nyerj, kereskedj vagy szerencsejátékozz, eltűnt embereket vagy holttesteket keress, vagy katasztrófákat jósolj. Ha egy megérzés valaha valósnak tűnik a külvilágban, ellenőrizd a szokásos módon, és ahol a biztonság a tét, a rendes úton fordulj az illetékesekhez – **soha ne** tekints egy belső benyomást bizonyítéknak. **Ez nem gyerekeknek szól, és nem is válságban lévőknek.** Ha kiégettnek, megszállottnak vagy rosszul érzed magad, állj meg és pihenj – egy fáradt elmét hajszolni semmin sem segít. **Egyértelmű biztonsági határ:** parancsoló hangokat hallani, vagy bármilyen késztetést érezni, hogy árts magadnak vagy másnak, **orvosi vészhelyzet**, nem gyakorlás – azonnal fordulj szakemberhez vagy a helyi mentőszolgálathoz. **Itt semmi sem orvosi vagy pszichológiai kezelés**; nem diagnosztizál, nem gyógyít, és nem helyettesíti az ellátást, és sosem szabad emiatt késleltetned a segítségkérést. E vonalakon belül tartva a gyakorlat az marad, aminek lennie kell – a saját belső világod csöndes, alázatos tanulmányozása."
+        ,
+        "en": "This path asks for honesty more than talent. Keep these fences firm. **It is self-directed only.** Practise on your own attention and your own chosen neutral object — **never** aim these exercises at a named person, their belongings, or their space without consent. Free will is not ours to override. **Keep extraordinary claims in ordinary channels.** These practices are not a way to win money, to trade or gamble, to locate missing people or bodies, or to foretell disasters. If a hunch ever seems to matter in the real world, verify it the normal way, and where safety is at stake, go to the proper authorities through the front door — **never** treat an inner impression as evidence. **This is not for children, and not for anyone in crisis.** If you feel burned out, obsessive, or unwell, stop and rest — pushing a tired mind helps nothing. **A clear safety line:** hearing commanding voices, or any urge to harm yourself or others, is a **medical emergency**, not a practice — contact a professional or your local emergency services at once. **Nothing here is medical or psychological treatment**; it does not diagnose, cure, or replace care, and you should never delay seeking help because of it. Kept within these lines, the practice stays what it should be — a calm, humble study of your own inner world."
+      }
+    },
+    {
+      "id": "tk-timer-attention",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Figyelem-horgony gyakorlat",
+        "en": "Attention-anchor practice"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ülj kényelmesen, gerinc egyenes, váll ellazul. Vidd a figyelmed a légzésedre – ne változtasd meg, csak vedd észre. Amikor az elméd elkalandozik, gyengéden hozd vissza a lélegzethez; ez maga az edzés. A második szakaszban pihentesd a tekinteted egy gyertyalángon vagy egy ponton magad előtt, vagy ismételj csöndben egy egyszerű szót a légzés ritmusára. A záró szakaszban engedd el az eszközt is, és csak legyél jelen. Ne törekedj semmilyen külső hatásra – ez tisztán figyelemedzés.",
+          "en": "Sit comfortably, spine upright, shoulders soft. Bring your attention to your breath — do not change it, just notice it. When the mind wanders, gently return it to the breath; that return is the training itself. In the middle stretch, rest your gaze on a candle flame or a point in front of you, or silently repeat one simple word in rhythm with the breath. In the closing stretch, let even the anchor go and simply be present. Do not strive for any outer effect — this is purely attention training."
+        },
+        "intervals": [
+          { "atSecond": 120, "label": { "hu": "Ülepedés – csak a légzés", "en": "Settle — just the breath" } },
+          { "atSecond": 360, "label": { "hu": "Egyetlen horgony – láng, pont vagy szó", "en": "Single anchor — flame, point, or word" } },
+          { "atSecond": 540, "label": { "hu": "Engedd el – tiszta jelenlét", "en": "Let go — pure presence" } }
+        ]
+      }
+    },
+    {
+      "id": "tk-timer-imagination",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Képzelet-építő gyakorlat",
+        "en": "Imagination-building practice"
+      },
+      "timer": {
+        "durationSeconds": 480,
+        "instructions": {
+          "hu": "Válassz egy kicsi, semleges, saját tárgyat – mondjuk egy érmét, gombot vagy sima gyöngyöt. Egy rövid ideig csak vedd szemügyre: körvonalát, színét, felületét, az apró árnyékokat, amelyeket vet. Aztán csukd be a szemed, és próbáld belül megtartani a mását, lassan forgatva úgy, hogy sorra megérezd minden oldalát. Valahányszor a kép elmosódik, pillants rá újra a valódi tárgyra, hogy megszilárdítsd, majd folytasd. A második felében engedj be több érzéket: a tenyeredben nyugvó súlyt, a melegét vagy hűvösségét, a halk neszt, ahogy ujjad végigsimít a felületén. A vége felé hagyd, hogy az elképzelt tárgy finoman lebegjen vagy forogjon az elmédben – semmi erőltetés, csak megfigyeled a belső képet. Ez képzeletedzés, nem külső hatás.",
+          "en": "Choose a small, neutral object of your own — say a coin, a button, or a smooth bead. Spend a short while simply taking it in: its outline, its colour, its surface, the tiny shadows it casts. Then close your eyes and try to hold its likeness inwardly, turning it slowly so you sense each face in turn. Whenever the picture dims, glance at the real object again to steady it, then carry on. In the second half, invite more senses in: the weight resting in your palm, its warmth or coolness, the faint sound as a finger crosses its surface. Toward the end, let the imagined object drift or rotate gently in your mind — nothing forced, only watched as an inner picture. This is imagination training, not an outer effect."
+        },
+        "intervals": [
+          { "atSecond": 60, "label": { "hu": "Nézd meg – vésd be a részleteket", "en": "Look — take in the details" } },
+          { "atSecond": 240, "label": { "hu": "Építsd fel belül minden oldalról", "en": "Rebuild it inwardly, every side" } },
+          { "atSecond": 420, "label": { "hu": "Több érzék – tedd élővé", "en": "More senses — make it alive" } }
+        ]
+      }
+    },
+    {
+      "id": "tk-timer-intent",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Csöndes szándék és belső menedék",
+        "en": "Steady intent and inner sanctuary"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Kezdd néhány lassú lélegzettel, míg az elméd olyan nyugodt nem lesz, mint egy szélcsendes tó. Képzelj magad köré egy csöndes belső menedéket – egy biztonságos, egyszerű helyet, amely csak a tiéd. Innen tarts egyetlen nyugodt szándékot: nem görcsölést, nem sürgetést, csupán letisztult célt, amelyet gyengéden tartasz. Ha görcsbe rándul a nyomásba, lazíts, és térj vissza a megengedő tartáshoz. A záró szakaszban engedd el a szándékot is, és pihenj a csöndben. Végül tedd a kezed az öledbe, földelj, és jegyezd fel, hol volt nyugodt és hol feszült a szándékod. A cél a belső stabilitás, nem külső eredmény.",
+          "en": "Begin with a few slow breaths until the mind is as calm as a windless lake. Picture a quiet inner sanctuary around you — a safe, simple place that is yours alone. From here, hold a single calm intent: not straining, not hurrying, just a settled aim held lightly. If it tightens into pressure, soften, and return to the allowing hold. In the closing stretch, release even the intent and rest in the stillness. Finally, place your hands in your lap, ground, and note where your intent was calm and where it tensed. The aim is inner steadiness, not an outer result."
+        },
+        "intervals": [
+          { "atSecond": 120, "label": { "hu": "Elcsöndesedés – nyugodt tó", "en": "Quieting — the calm lake" } },
+          { "atSecond": 300, "label": { "hu": "Belső menedék – egyetlen nyugodt szándék", "en": "Inner sanctuary — one calm intent" } },
+          { "atSecond": 480, "label": { "hu": "Engedd el – pihenj a csöndben", "en": "Release — rest in the stillness" } }
+        ]
+      }
+    },
+    {
+      "id": "tk-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Ülés előtti önellenőrzés",
+        "en": "Pre-session self-check"
+      },
+      "checklist": {
+        "items": [
+          { "key": "tk-chk-rested", "nevek": { "hu": "Kellően pihent és nyugodt vagyok a gyakorláshoz – nem vagyok válságban.", "en": "I am rested and calm enough to practise — I am not in crisis." } },
+          { "key": "tk-chk-object", "nevek": { "hu": "Egy kicsi, semleges, saját tárgyat választottam – semmi kölcsönkért, semmi, ami másról szól.", "en": "I chose a small, neutral object of my own — nothing borrowed, nothing about another person." } },
+          { "key": "tk-chk-aim", "nevek": { "hu": "A célom az önmagam edzése, nem mások lenyűgözése vagy egy eredmény kikényszerítése.", "en": "My aim is to train myself, not to impress anyone or force a result." } },
+          { "key": "tk-chk-distraction", "nevek": { "hu": "A telefonom és a zavaró tényezők félre vannak téve az ülés idejére.", "en": "My phone and distractions are set aside for the session." } },
+          { "key": "tk-chk-short", "nevek": { "hu": "Rövidre fogom, és megállok, ha feszültséget érzek.", "en": "I will keep it short and stop if I feel strained." } },
+          { "key": "tk-chk-note", "nevek": { "hu": "Utána őszinte feljegyzést írok – történjék bármi, túlzás nélkül.", "en": "Afterwards I will write an honest note — whatever happened, without exaggeration." } }
+        ]
+      }
+    },
+    {
+      "id": "tk-aspektus",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A gyakorló tükre – jellemvonások elemek szerint",
+        "en": "The practitioner's mirror — traits by element"
+      },
+      "aspektusPack": [
+        { "key": "tk-asp-clear-focus", "elem": "levego", "tukor": "feher", "nevek": { "hu": "Tiszta, állhatatos figyelem – jelenlét egyetlen dolognál", "en": "Clear, steady attention — presence with one thing" } },
+        { "key": "tk-asp-warm-will", "elem": "tuz", "tukor": "feher", "nevek": { "hu": "Nyugodt, kitartó akarat – szándék erőltetés nélkül", "en": "Calm, enduring will — intent without forcing" } },
+        { "key": "tk-asp-vivid-sense", "elem": "viz", "tukor": "feher", "nevek": { "hu": "Eleven képzelet és fogékonyság – befogadó belső érzék", "en": "Vivid imagination and receptivity — a listening inner sense" } },
+        { "key": "tk-asp-patience", "elem": "fold", "tukor": "feher", "nevek": { "hu": "Türelem és állhatatos következetesség – lassú, becsületes haladás", "en": "Patience and grounded consistency — slow, honest progress" } },
+        { "key": "tk-asp-forcing", "elem": "tuz", "tukor": "fekete", "nevek": { "hu": "Türelmetlenség és erőltetés – görcsös igyekvés az eredményért", "en": "Impatience and forcing — straining after a result" } },
+        { "key": "tk-asp-restless", "elem": "levego", "tukor": "fekete", "nevek": { "hu": "Nyugtalanság és szórt figyelem – állandó elkalandozás", "en": "Restlessness and scattered attention — constant drifting" } },
+        { "key": "tk-asp-doubt", "elem": "viz", "tukor": "fekete", "nevek": { "hu": "Önkétely és görcsös ragaszkodás az eredményhez", "en": "Self-doubt and clinging attachment to outcomes" } },
+        { "key": "tk-asp-ego", "elem": "fold", "tukor": "fekete", "nevek": { "hu": "Hiúság és a lenyűgözés vágya – státusz és fitogtatás keresése", "en": "Vanity and the craving to impress — seeking status and display" } }
+      ]
+    },
+    {
+      "id": "tk-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Ülés utáni napló",
+        "en": "Post-session diary"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["tk-asp-clear-focus"],
+        "prompts": {
+          "hu": "Meddig tudott megpihenni a figyelmed, mielőtt elcsúszott, és hogyan hoztad vissza? Mennyire volt tiszta és állandó ma a belső képed – mely érzékek segítettek? Hol feszült görcsbe a szándékod, és hol maradt nyugodt? Mit figyeltél meg őszintén, belül és kívül, minden túlzás nélkül? A tükör melyik vonása mutatkozott meg ma a legerősebben – a tiszta figyelem, vagy valami, ami elvonta?",
+          "en": "How long could your attention rest before it slipped, and how did you bring it back? How clear and steady was your inner image today — which senses helped? Where did your intent tense into pushing, and where did it stay calm? What did you honestly observe, inwardly and outwardly, with no exaggeration? Which trait from the mirror showed itself most today — clear attention, or something that pulled you away?"
+        }
+      }
+    },
+    {
+      "id": "tk-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Megkülönböztető önteszt",
+        "en": "Discernment self-check"
+      },
+      "quiz": {
+        "passThreshold": 2,
+        "questions": [
+          {
+            "id": "tk-q1",
+            "prompt": {
+              "hu": "Mit edz valójában ez az ösvény?",
+              "en": "What does this path actually train?"
+            },
+            "options": {
+              "hu": [
+                "Bizonyított képességet arra, hogy elmével mozgassunk tárgyakat",
+                "A figyelmet, a képzeletet és a nyugodt szándékot – belső készségeket, amelyeket belső gyümölcseik mérnek",
+                "Egy módszert arra, hogy megjósoljuk a jövőt és pénzt nyerjünk"
+              ],
+              "en": [
+                "A proven ability to move objects with the mind",
+                "Attention, imagination, and calm intent — inner skills measured by their inner fruits",
+                "A way to foretell the future and win money"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "tk-q2",
+            "prompt": {
+              "hu": "Egy ismerősöd parancsoló hangokat hall, amelyek arra biztatják, hogy ártson magának. Mi a helyes lépés?",
+              "en": "Someone you know is hearing commanding voices urging them to harm themselves. What is the right step?"
+            },
+            "options": {
+              "hu": [
+                "Ez orvosi vészhelyzet – azonnal szakemberhez vagy a mentőszolgálathoz kell fordulni, nem gyakorláshoz",
+                "Több telekinézis-gyakorlással kell csatornázni az energiát",
+                "Meg kell várni, míg a válság magától elmúlik"
+              ],
+              "en": [
+                "This is a medical emergency — contact a professional or emergency services at once, not a practice",
+                "Channel the energy with more telekinesis practice",
+                "Wait for the crisis to pass on its own"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "tk-q3",
+            "prompt": {
+              "hu": "Használhatod-e ezeket a gyakorlatokat egy megnevezett személyen a beleegyezése nélkül, vagy eltűntek keresésére, illetve nyereményért?",
+              "en": "May you use these practices on a named person without consent, or to find missing people, or to win winnings?"
+            },
+            "options": {
+              "hu": [
+                "Igen, ha úgy gondolod, ártalmatlan és senki sem tud róla",
+                "Igen, ha a cél nemesnek tűnik",
+                "Nem – kizárólag önmagadra irányul; tiszteld a szabad akaratot, és a rendkívüli állítások hétköznapi csatornákban maradnak"
+              ],
+              "en": [
+                "Yes, if you think it is harmless and no one will know",
+                "Yes, if the goal seems noble",
+                "No — it is self-directed only; honour free will, and extraordinary claims stay in ordinary channels"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    }
+  ]
+}

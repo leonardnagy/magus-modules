@@ -1,0 +1,421 @@
+{
+  "formatVersion": 1,
+  "id": "rv.advanced",
+  "version": 1,
+  "nevek": {
+    "hu": "Távérzékelés — az intuíció fegyelme (haladó)",
+    "en": "Remote Viewing — the Discipline of Intuition (Advanced)"
+  },
+  "description": {
+    "hu": "A távérzékelés haladó, becsületes tanulmánya: nem ígért „erő”, hanem a hagyomány saját belső modellje — szerkezetes figyelem- és intuíciógyakorlat, amelyet a belső gyümölcsök és a kalibráció mérnek. A modul kiélezi a nyers benyomás és az elemző rávetítés közötti különbséget, tanít a vak és előretöltött célokról, az egyéni és a beleegyezésen alapuló csoportos gyakorlásról, valamint az egymásba ágyazásról. Szigorú határokkal: kizárólag önedzés — semmi haszonszerzés, eltűnt személy, bűnügy vagy jóslat.",
+    "en": "An honest study of advanced remote viewing: not a promised “power” but the tradition's own inner model — a structured exercise of attention and intuition, measured by inner fruits and calibration. The module sharpens the distinction between the raw impression and the analytical overlay, teaches blind versus front-loaded targets, solo and consent-based group practice, and nesting. With firm fences: self-training only — no profit, missing persons, crime cases or prophecy."
+  },
+  "items": [
+    {
+      "id": "rva-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető — a felismerés fegyelme",
+        "en": "Introduction — the Discipline of Recognition"
+      },
+      "text": {
+        "hu": "Ez a modul a *távérzékelés* haladó gyakorlatával foglalkozik — de mielőtt egyetlen ülésbe is belefognánk, tegyünk tisztává valamit. Amit itt tanulsz, azt a hagyomány **saját belső modelljeként** mutatjuk be: egy szerkezetes figyelem- és intuíciógyakorlatként, amelyet **a belső gyümölcsei mérnek** — élesedő figyelem, józanabb önmegfigyelés, és idővel a saját megérzéseid **kalibrálása**. Sehol nem állítjuk tényként, hogy elméddel távoli helyeket vagy jövőbeli eseményeket olvasol; és nem ígérünk semmilyen eredményt.\n\nA haladó szint lényege nem több „erő”, hanem több **fegyelem**. Egyetlen finom különbséget élesítünk ki a végletekig: a **nyers benyomás** és az **elemző rávetítés** közötti határt. Ez az egész módszer szíve — és egyben a becsületes önismeret iskolája is.\n\nA gyakorlat végig **önmagadra irányul**: saját figyelmedet, türelmedet és őszinteségedet edzed. Named senki mást nem „olvasol”, senkinek a szabad akaratát nem sérted. Ez Bardon etikájának egyenes következménye, és a modul minden során átível.",
+        "en": "This module works with the advanced practice of *remote viewing* — but before a single session, let us be clear about one thing. What you learn here is offered as **the tradition's own inner model**: a structured exercise of attention and intuition, **measured by its inner fruits** — sharpening focus, more honest self-observation, and, over time, the **calibration** of your own hunches. Nowhere do we assert as fact that your mind reads distant places or future events; and we promise no outcome.\n\nThe heart of the advanced level is not more “power” but more **discipline**. We sharpen a single subtle distinction to its finest edge: the boundary between the **raw impression** and the **analytical overlay**. That distinction is the core of the whole method — and a school of honest self-knowledge as well.\n\nThroughout, the practice stays **turned toward yourself**: you train your own attention, patience and honesty. You “read” no named other person and violate no one's free will. This follows directly from Bardon's ethics and runs through every part of the module."
+      }
+    },
+    {
+      "id": "rva-md-model",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A nyers benyomás és az elemző rávetítés",
+        "en": "The Raw Impression and the Analytical Overlay"
+      },
+      "text": {
+        "hu": "A hagyomány modellje szerint az első, futó benyomás — az a néhány másodperc, mielőtt az elme *megnevezné* a dolgot — az egyetlen adat, amivel dolgozunk. Ezt hívjuk **nyers benyomásnak**. Nem kép, nem történet, nem következtetés: puszta érzet. Hideg. Sima. Magas. Feszes. Mozgó.\n\nRöviddel ezután az elme közbelép. Fog egy benyomást, ráilleszti a saját múltbeli tapasztalataidat, mintázatait, és **nevet ad neki**: „ez egy márványszobor”, „ez egy tengerparti világítótorony”. A hagyomány ezt **elemző rávetítésnek** nevezi — angol rövidítéssel gyakran *AOL*. A rávetítés nem gonosz és nem szégyen; egyszerűen csak *nem a benyomás*. Az elme segíteni akar, ezért lezár és megnevez — de a megnevezéssel elveszted a nyers jelet.\n\nA fegyelem nem az, hogy elnyomd a rávetítést. Az elnyomás nem működik. A fegyelem az, hogy **észreveszed, külön feljegyzed, és továbbmész**. Amint egy teljes kép vagy egy név megjelenik — „ez nyilván egy X” —, azt röviden lejegyzed *mint rávetítést*, elengeded, és visszatérsz a nyers érzethez. Csak az ülés **teljes lezárása után** elemzel. Előtte nem döntesz semmiről. A jó ülésben sok rávetítés van, mind megjelölve — ez nem hiba, hanem a *megnevező elme lenyomata* a nyers adat mellett.\n\nEz a különbségtétel a modul valódi ajándéka. Akár „távolról” érkezik egy benyomás, akár nem, a nyers érzet és a ráugró magyarázat szétválasztása **önmagában** élesíti az önmegfigyelést és a józanságot.",
+        "en": "In the tradition's model, the first fleeting impression — those few seconds before the mind *names* the thing — is the only data we work with. We call this the **raw impression**. Not a picture, not a story, not a conclusion: bare sensation. Cold. Smooth. Tall. Taut. Moving.\n\nMoments later the mind steps in. It takes an impression, fits your own past experience and patterns onto it, and **gives it a name**: “it's a marble statue”, “it's a lighthouse on the shore”. The tradition calls this the **analytical overlay** — often abbreviated *AOL*. The overlay is neither evil nor shameful; it simply is *not the impression*. The mind wants to help, so it closes and names — but in naming, you lose the raw signal.\n\nThe discipline is not to suppress the overlay. Suppression does not work. The discipline is to **notice it, note it separately, and move on**. The instant a whole picture or a name appears — “this is obviously an X” — you briefly log it *as an overlay*, release it, and return to the raw sensation. You analyse only **after the session is fully closed**. Before that you decide nothing. A good session holds many overlays, all flagged — that is not failure but *an imprint of the naming mind* set beside the raw data.\n\nThis distinction is the module's real gift. Whether or not an impression truly arrives “from afar”, separating the raw sensation from the explanation that pounces on it **by itself** sharpens self-observation and sober clarity."
+      }
+    },
+    {
+      "id": "rva-md-method",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A módszer és lépései",
+        "en": "The Method and its Steps"
+      },
+      "text": {
+        "hu": "A haladó gyakorlatban elhagyjuk a merev sablonokat, és üres lapon dolgozunk — de a menet ugyanaz marad. Íme a becsületes önedzésre szabott váz.\n\n**Semleges címke (vak cél).** Adj a célnak egy tetszőleges, véletlen jelölést — néhány számjegyet vagy betűt —, és tedd azt egy borítékra vagy a lap tetejére. A lényeg nem a szám mágiája, hanem hogy **ne tudd, mi a cél**, amíg dolgozol. Ez tartja vakon az ülést (lásd a következő pontot). Ha írott utalást használsz, tartsd egyszerűnek és egyértelműnek, jelen időben.\n\n**Első jel.** A címke leírása után azonnal engedj egy gyors, ösztönös firkát a papírra — a benyomás első „kicsomagolása”. Ne rajzolj, ne szépítsd; legyen laza, gyors kézmozdulat, és egy szempillantás alatt kész.\n\n**Érzékek és leírók.** Ezután jegyezd le, ami jön: hőmérséklet, felület, szín, hang, íz, mozgás. Utána a *dimenziók* — nyitott vagy zárt, kint vagy bent, magas vagy lapos, kerek vagy szögletes. Itt a legerősebb a rávetítés kísértése; itt jelöld meg őket a legszorgalmasabban. Ha felbukkan egy érzelmi lenyomat — „ettől nyugtalan leszek” —, azt is írd le.\n\n**Vázlat.** Egyszerű, kezdetleges jelekkel: vonal, ív, gömb, mozgásirány nyíllal, hurok az élő dolgoknak. Nem művészet — térkép.\n\n**Csak a végén: elemzés és őszinte pontozás.** Amikor lezártad az ülést, akkor — és csak akkor — nézed át, mit gyűjtöttél, és nevezed meg. Utána **vesd össze a valós céllal** (fotóval, leírással), és pontozz becsületesen: mi talált, mi volt rávetítés, mi maradt homályos. A hosszú távú **kalibráció** ebből a becsületes visszajelzésből épül, nem az egyes ülések sikeréből.\n\n**Vak kontra előretöltött cél.** *Vak* ülésben nem tudod, mi a cél — így az elmédnek nincs mibe kapaszkodnia, a rávetítés gyengébb, a visszajelzés tisztább. *Előretöltött* ülésben előre ismered a célt; ilyenkor a rávetítés elszabadul, és sokkal nehezebb megkülönböztetni a nyers jelet a saját előzetes tudásodtól. Az őszinte önedzéshez a **vak cél** a mérce; az előretöltött legfeljebb a rávetítés-felismerés külön gyakorlata.\n\n**Egyedül és csoportban.** Egyedül dolgozva sosem tudod biztosan, hol csúszott be a tévedés — ezért fontos a naplózott, becsületes pontozás. Egy **közös beleegyezéssel** dolgozó kis kör tagjai külön-külön futtatják ugyanazt a vak célt, majd összevetik a jegyzeteket; ahol több független ülés *egybeesik*, ott érdemes közelebbről megnézni. Ez kalibrációs eszköz — nem a „biztos igazság” előállítója.\n\n**Egymásba ágyazás (nesting).** Ha egy ülés után egyetlen elem homályban maradt, ne kezdj mindent elölről: vedd külön azt az egy dolgot új, összpontosított célként, és futtass rá egy friss menetet — mintha egy nagyobb kép egyetlen részletére közelítenél rá. Így mélyülhetsz rétegről rétegre, végig önmagad edzésén belül.",
+        "en": "In the advanced practice we drop the rigid templates and work on a blank page — but the sequence stays the same. Here is the frame, fitted to honest self-training.\n\n**A neutral label (blind target).** Give the target an arbitrary, random tag — a few digits or letters — and put that on an envelope or the top of the page. The point is not the magic of the number but that you **do not know what the target is** while you work. This keeps the session blind (see below). If you use a written cue, keep it simple and unambiguous, in the present tense.\n\n**First mark.** Right after writing the label, allow a quick, instinctive scribble onto the paper — the first “unpacking” of the impression. Don't draw, don't beautify; let it be a loose, quick motion of the hand, done in a blink.\n\n**Senses and descriptors.** Then note what arrives: temperature, texture, colour, sound, taste, motion. After that the *dimensions* — open or enclosed, outside or inside, tall or flat, round or angular. Here the pull toward overlay is strongest; here flag them most diligently. If an emotional imprint surfaces — “this makes me uneasy” — write that too.\n\n**Sketch.** With simple, rudimentary marks: a line, an arc, a sphere, a direction of motion as an arrow, a loop for living things. Not art — a map.\n\n**Only at the end: analysis and honest scoring.** When you have closed the session, then — and only then — review what you gathered and name it. Afterward **compare it with the real target** (a photo, a description) and score honestly: what matched, what was overlay, what stayed vague. Long-term **calibration** is built from this honest feedback, not from the success of any single session.\n\n**Blind versus front-loaded targets.** In a *blind* session you don't know the target — so your mind has nothing to grab, the overlay is weaker, the feedback cleaner. In a *front-loaded* session you know the target in advance; then the overlay runs loose, and it is far harder to tell the raw signal from your own prior knowledge. For honest self-training the **blind target** is the standard; the front-loaded one is at most a separate drill in spotting overlay.\n\n**Solo and in a group.** Working alone you can never be certain where an error crept in — which is why journalled, honest scoring matters. In a small circle working **by mutual consent**, members each run the same blind target separately, then compare notes; where several independent sessions *converge*, it is worth a closer look. This is a calibration tool — not a producer of “certain truth”.\n\n**Nesting.** If after a session one element stayed unclear, don't start over: take that single thing as a new, focused target and run a fresh pass on it — like zooming in on a single detail of a larger scene. So you can deepen layer by layer, all within the training of yourself."
+      }
+    },
+    {
+      "id": "rva-md-ethics",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Etika, határok és józanság",
+        "en": "Ethics, Fences and Discernment"
+      },
+      "text": {
+        "hu": "A haladó gyakorlathoz haladó felelősség tartozik. Ez a modul szándékosan **elhagyja** a forrás több alkalmazását, mert azok vagy károsak, vagy sértik a szabad akaratot. A határok nem díszek — kérjük, tartsd be őket.\n\n**Csak önmagadra irányul; a szabad akarat sérthetetlen.** Ne „olvass” és ne célozz meg semmilyen **megnevezett élő embert** a beleegyezése nélkül. Csoportos gyakorlás csak **közös, tájékozott beleegyezéssel**. Ez Bardon etikájának a magja: a másik belső tere az övé.\n\n**Nincs haszonszerzés pszível.** Semmilyen szerencsejáték, fogadás, tőzsde, „keress pénzt megérzéssel”. A hagyomány ezt gyakran ígéri — mi elutasítjuk. A gyakorlat célja a belső edzés, nem a nyereség.\n\n**Nincs eltűnt személy, holttest, áldozat vagy bűnügy.** Ne keress és ne „lokalizálj” embereket, és **soha ne küldj** feltételezett helyszínt, koordinátát vagy nevet hozzátartozóknak vagy hatóságoknak. Ez valódi embereknek okozhat valódi kárt, és álbizonyítékkal terhelheti a nyomozást.\n\n**Nincs végítélet-jóslat, dátumprófécia, félelemből való felhalmozás vagy a szomszéd elleni gyanakvás.** Ezek a félelmet táplálják, nem a józanságot.\n\n**Orvosi és lelki figyelmeztetés.** Ez a gyakorlat nem diagnózis és nem kezelés. Semmilyen benyomás nem helyettesíti az orvosi ellátást — soha ne halaszd el és ne cseréld le miatta a szakszerű gondoskodást. És egy fontos csere a forrás tanácsához képest: ha a gyakorlás közben **parancsoló hangokat hallasz**, vagy késztetést érzel, hogy **árts magadnak vagy másnak**, az nem „pszichikus jel”, hanem **orvosi vészhelyzet**. Állj le, és fordulj azonnal szakemberhez vagy a sürgősségi ellátáshoz. Ha krízisben vagy, keresd a helyi segélyvonalat.\n\nAmi ezek után marad, az a modul védhető magja: szerkezetes észlelés, figyelem- és intuíciógyakorlat, naplózás, becsületes önpontozás és belső csend. Erre építünk — és csak erre.",
+        "en": "Advanced practice carries advanced responsibility. This module deliberately **drops** several of the source's applications, because they are either harmful or violate free will. The fences are not decoration — please keep them.\n\n**Self-directed only; free will is inviolable.** Do not “read” or target any **named living person** without their consent. Group practice only by **shared, informed consent**. This is the core of Bardon's ethics: another's inner space is their own.\n\n**No profit from psi.** No gambling, betting, trading, no “make money with intuition”. The tradition often promises this — we decline it. The aim of the practice is inner training, not gain.\n\n**No missing persons, bodies, victims or crime cases.** Do not search for or “locate” people, and **never send** a supposed location, coordinate or name to families or authorities. This can do real harm to real people and burden an investigation with false evidence.\n\n**No doomsday prophecy, date-prediction, fear-driven stockpiling or suspicion of your neighbour.** These feed fear, not clarity.\n\n**Medical and mental-health note.** This practice is not diagnosis or treatment. No impression replaces medical care — never delay or substitute professional care because of it. And one important replacement of the source's advice: if during practice you **hear commanding voices**, or feel an urge to **harm yourself or someone else**, that is not a “psychic signal” but a **medical emergency**. Stop, and contact a professional or emergency services at once. If you are in crisis, reach your local helpline.\n\nWhat remains after all this is the module's defensible core: structured perception, training of attention and intuition, journalling, honest self-scoring, and inner quiet. On that we build — and only on that."
+      }
+    },
+    {
+      "id": "rva-timer-session",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Vak ülés — 10 perc",
+        "en": "Blind Session — 10 min"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Készíts elő egy vak célt: adj neki semleges címkét, és ne nézd meg, mi az, amíg tart az ülés. Ülj le üres lappal. Írd fel a címkét, a dátumot és az időt. Engedd az első ösztönös jelet a papírra. Utána tartsd a lassú, egyenletes ütemet: hőmérséklet, felület, szín, hang, íz, mozgás — majd a dimenziók. Minden teljes képet vagy nevet jelölj meg mint rávetítést, emeld el a tollat egy-két lélegzetnyi időre, majd folytasd. A végén egyszerű vázlat. NE elemezz, amíg a jelző le nem áll — csak azután vesd össze a valós céllal, és pontozz becsületesen a naplóban.",
+          "en": "Prepare a blind target: give it a neutral label and do not look at what it is while the session runs. Sit with a blank page. Write the label, the date and the time. Let the first instinctive mark fall on the paper. Then hold a slow, even pace: temperature, texture, colour, sound, taste, motion — then the dimensions. Flag every whole picture or name as overlay, lift the pen for a breath or two, then continue. At the end, a simple sketch. Do NOT analyse until the timer stops — only then compare with the real target and score honestly in the journal."
+        },
+        "intervals": [
+          {
+            "atSecond": 60,
+            "label": {
+              "hu": "Első jel kész — indulnak az érzékek",
+              "en": "First mark done — senses begin"
+            }
+          },
+          {
+            "atSecond": 240,
+            "label": {
+              "hu": "Térj át a dimenziókra",
+              "en": "Move to the dimensions"
+            }
+          },
+          {
+            "atSecond": 420,
+            "label": {
+              "hu": "Egyszerű vázlat",
+              "en": "Simple sketch"
+            }
+          },
+          {
+            "atSecond": 540,
+            "label": {
+              "hu": "Zárd le — elemzés csak most jön",
+              "en": "Close it — analysis only now"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "rva-timer-impression",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Nyers benyomás — kalibráló ütem, 5 perc",
+        "en": "Raw Impression — Calibration Pace, 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Rövid gyakorlat egyetlen dologra: a nyers érzet és a megnevezés szétválasztására. Válassz egy vak célt vagy csak csukd be a szemed, és figyeld az első benyomásokat. Gyors ütemben írj egyszavas leírókat — hideg, sima, feszes, mozgó. Amint az elme nevet ad („ez egy X”), emeld el a tollat, jelöld meg rávetítésként, végy egy lélegzetet, és térj vissza a puszta érzethez. Nem a helyes válasz a cél, hanem a különbségtétel edzése.",
+          "en": "A short drill on one thing only: separating the raw sensation from the naming. Choose a blind target or simply close your eyes and watch the first impressions. At a quick pace, write one-word descriptors — cold, smooth, taut, moving. The instant the mind gives a name (“this is an X”), lift the pen, flag it as overlay, take a breath, and return to bare sensation. The aim is not the right answer but training the distinction itself."
+        },
+        "intervals": [
+          {
+            "atSecond": 150,
+            "label": {
+              "hu": "Figyeld: nyers jel vagy rávetítés?",
+              "en": "Watch: raw signal or overlay?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "rva-timer-nesting",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Egymásba ágyazás — mélyítő menet, 8 perc",
+        "en": "Nesting — Deepening Pass, 8 min"
+      },
+      "timer": {
+        "durationSeconds": 480,
+        "instructions": {
+          "hu": "Vegyél elő egy korábbi ülést, amelyben egyetlen elem homályban maradt. Tedd azt az egy dolgot új, összpontosított céllá — friss lap, új semleges címke. Ne kezdd elölről az egészet; csak erre az egy rétegre menj rá ugyanazzal a fegyelemmel: első jel, érzékek, dimenziók, a rávetítések megjelölve. A végén vesd össze, mit tett hozzá ez a mélyítő menet, és pontozd becsületesen. Ez a gyakorlat is önmagadra irányul.",
+          "en": "Take an earlier session in which a single element stayed unclear. Make that one thing a new, focused target — a fresh page, a new neutral label. Don't restart the whole thing; go only into this one layer with the same discipline: first mark, senses, dimensions, overlays flagged. At the end compare what this deepening pass added, and score it honestly. This exercise, too, is turned toward yourself."
+        },
+        "intervals": [
+          {
+            "atSecond": 240,
+            "label": {
+              "hu": "Maradj az egy rétegnél",
+              "en": "Stay with the one layer"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "rva-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Az ülés higiéniája",
+        "en": "Session Hygiene"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "rva-c1",
+            "nevek": {
+              "hu": "A cél vak volt — semleges címkével, ismeretlen tartalommal",
+              "en": "The target was blind — neutral label, contents unknown"
+            }
+          },
+          {
+            "key": "rva-c2",
+            "nevek": {
+              "hu": "Lassú, egyenletes ütemet tartottam, nem siettem a megnevezésre",
+              "en": "I held a slow, even pace and did not rush to name"
+            }
+          },
+          {
+            "key": "rva-c3",
+            "nevek": {
+              "hu": "Minden elemző rávetítést külön megjelöltem, ítélet nélkül",
+              "en": "I flagged every analytical overlay separately, without judgment"
+            }
+          },
+          {
+            "key": "rva-c4",
+            "nevek": {
+              "hu": "Csak az ülés lezárása után elemeztem",
+              "en": "I analysed only after closing the session"
+            }
+          },
+          {
+            "key": "rva-c5",
+            "nevek": {
+              "hu": "Becsületesen összevetettem a valós céllal és pontoztam",
+              "en": "I honestly compared with the real target and scored"
+            }
+          },
+          {
+            "key": "rva-c6",
+            "nevek": {
+              "hu": "A gyakorlat önmagamra irányult, beleegyezés nélkül senkit sem céloztam",
+              "en": "The practice stayed self-directed; I targeted no one without consent"
+            }
+          },
+          {
+            "key": "rva-c7",
+            "nevek": {
+              "hu": "Betartottam a határokat: se haszon, se eltűnt személy, se jóslat",
+              "en": "I kept the fences: no profit, no missing persons, no prophecy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "rva-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A felismerés fegyelmének jellemvonásai",
+        "en": "Traits of the Discipline of Recognition"
+      },
+      "aspektusPack": [
+        {
+          "key": "rva-asp-overlay",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Elemző rávetítés",
+            "en": "Analytical overlay"
+          }
+        },
+        {
+          "key": "rva-asp-naming",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "A megnevezés kényszere",
+            "en": "Compulsion to name"
+          }
+        },
+        {
+          "key": "rva-asp-pride",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Elbizakodott büszkeség",
+            "en": "Inflated pride"
+          }
+        },
+        {
+          "key": "rva-asp-wishful",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Vágyvezérelt képzelet",
+            "en": "Wishful imagination"
+          }
+        },
+        {
+          "key": "rva-asp-rawperception",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Nyers észlelés",
+            "en": "Raw perception"
+          }
+        },
+        {
+          "key": "rva-asp-equanimity",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Higgadt tárgyilagosság",
+            "en": "Calm objectivity"
+          }
+        },
+        {
+          "key": "rva-asp-honesty",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Őszinte önértékelés",
+            "en": "Honest self-scoring"
+          }
+        },
+        {
+          "key": "rva-asp-patience",
+          "elem": "ido",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Türelmes kalibráció",
+            "en": "Patient calibration"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rva-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Ülésnapló és önpontozás",
+        "en": "Session Log and Self-Scoring"
+      },
+      "journalTemplate": {
+        "aspektusKeys": [
+          "rva-asp-honesty"
+        ],
+        "prompts": {
+          "hu": "CÍMKE ÉS IDŐ — A vak cél semleges jelölése, dátum, idő: ___\n\nNYERS JELEK — A legerősebb érzetek, amelyek az ülésben jöttek (leírók, nem nevek): ___\n\nRÁVETÍTÉSEK — Milyen neveket, teljes képeket adott az elmém, és megjelöltem-e őket idejében: ___\n\nÖSSZEVETÉS — A valós céllal összevetve mi talált, mi volt rávetítés, mi maradt homályos: ___\n\nKALIBRÁCIÓ — Mit tanultam ma önmagamról (figyelem, türelem, őszinteség), a találgatáson túl: ___",
+          "en": "LABEL AND TIME — The neutral tag of the blind target, date, time: ___\n\nRAW SIGNALS — The strongest sensations that arrived in the session (descriptors, not names): ___\n\nOVERLAYS — What names or whole pictures my mind offered, and whether I flagged them in time: ___\n\nCOMPARISON — Against the real target, what matched, what was overlay, what stayed unclear: ___\n\nCALIBRATION — What I learned about myself today (attention, patience, honesty), beyond guessing right: ___"
+        }
+      }
+    },
+    {
+      "id": "rva-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Józansági önellenőrzés",
+        "en": "Discernment Self-Check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "rva-q1",
+            "prompt": {
+              "hu": "Mi az „elemző rávetítés” (AOL) a gyakorlatban?",
+              "en": "What is the “analytical overlay” (AOL) in practice?"
+            },
+            "options": {
+              "hu": [
+                "A cél valódi, megbízható azonosítása",
+                "Az elme sietős megnevezése és magyarázata, amit külön jelölünk és nem hiszünk el az ülés közben",
+                "Egy hiba, amit el kell nyomni és titkolni"
+              ],
+              "en": [
+                "The true, reliable identification of the target",
+                "The mind's hurried naming and explanation, which we flag separately and do not believe mid-session",
+                "An error to be suppressed and hidden"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "rva-q2",
+            "prompt": {
+              "hu": "Hogyan értjük becsületesen ezt a gyakorlatot?",
+              "en": "How do we honestly understand this practice?"
+            },
+            "options": {
+              "hu": [
+                "Bizonyított képességként, amely garantáltan távoli helyeket olvas",
+                "A hagyomány saját belső modelljeként: figyelem- és intuíciógyakorlat, amelyet a belső gyümölcsök és a kalibráció mérnek",
+                "Jövendőmondásként, amelyre pénzügyi döntést lehet alapozni"
+              ],
+              "en": [
+                "As a proven ability that reliably reads distant places",
+                "As the tradition's own inner model: an exercise of attention and intuition, measured by inner fruits and calibration",
+                "As fortune-telling on which one may base financial decisions"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "rva-q3",
+            "prompt": {
+              "hu": "Egy ismerős megkér, hogy „nézz rá” egy eltűnt emberre vagy a lottószámokra. Mit teszel?",
+              "en": "A friend asks you to “look at” a missing person or the lottery numbers. What do you do?"
+            },
+            "options": {
+              "hu": [
+                "Elvállalom, és elküldöm a benyomásokat a hatóságoknak vagy a hozzátartozóknak",
+                "Visszautasítom: ez a modul kizárólag önedzés — nincs haszonszerzés, nincs eltűnt személy, és tiszteletben tartom a beleegyezést",
+                "Megteszem, ha elég magabiztos vagyok a találataimban"
+              ],
+              "en": [
+                "I take it on and send my impressions to the authorities or the family",
+                "I decline: this module is self-training only — no profit, no missing persons, and I honour consent",
+                "I do it if I feel confident enough in my hits"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "rva-q4",
+            "prompt": {
+              "hu": "Gyakorlás közben parancsoló hangot hallasz, amely arra biztat, hogy árts magadnak. Mi ez, és mit teszel?",
+              "en": "During practice you hear a commanding voice urging you to harm yourself. What is it, and what do you do?"
+            },
+            "options": {
+              "hu": [
+                "Pszichikus jel, amit érdemes követni és értelmezni",
+                "Orvosi vészhelyzet: leállok, és azonnal szakemberhez vagy a sürgősségi ellátáshoz fordulok",
+                "A gyakorlat mélyülésének jele, folytatom az ülést"
+              ],
+              "en": [
+                "A psychic signal worth following and interpreting",
+                "A medical emergency: I stop and contact a professional or emergency services at once",
+                "A sign the practice is deepening; I continue the session"
+              ]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "rva-md-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Zárás — a gyümölcsökről és a forrásról",
+        "en": "Closing — on the Fruits and the Source"
+      },
+      "text": {
+        "hu": "A haladó távérzékelés e modulban nem a látványról szól, hanem a **fegyelemről**: arról, hogy meg tudod-e különböztetni a nyers benyomást a ráugró magyarázattól, és hogy **őszinte tudsz-e maradni** a saját találataiddal. Ha hetekig, egyenletesen gyakorlod, a hagyomány szerint a valódi hozadék belül mutatkozik: élesebb figyelem, higgadtabb önmegfigyelés, türelem, és idővel a saját megérzéseid finomabb kalibrálása. Ezeket a *belső gyümölcsöket* érdemes követni a naplóban — nem a látványos „telitalálatokat”.\n\nAz anyagot **saját szavainkkal, saját semleges példáinkkal** fogalmaztuk újra, a haladó gyakorlat módszerét tanítva, a forrás szövegének, hasonlatainak és eseteinek átvétele nélkül. A forrás több alkalmazását — a haszonszerzést, az eltűnt személyek és bűnügyek keresését, a végítélet-jóslatot, valamint a beleegyezés nélküli célzást — **szándékosan elhagytuk**, mert nem egyeztethetők össze sem a biztonsággal, sem Bardon etikájával.\n\nMaradj a védhető magnál: szerkezetes észlelés, becsületes önpontozás, csend és önismeret. Ez a fegyelem önmagában is méltó út.",
+        "en": "Advanced remote viewing in this module is not about spectacle but about **discipline**: whether you can tell the raw impression from the explanation that pounces on it, and whether you can **stay honest** about your own hits. Practised steadily over weeks, the tradition holds that the real yield shows up within: sharper attention, calmer self-observation, patience, and over time a finer calibration of your own hunches. It is these *inner fruits* that are worth tracking in the journal — not the flashy “direct hits”.\n\nThe material has been **re-worded in our own voice, with our own neutral examples**, teaching the method of the advanced practice without borrowing the source's text, its metaphors or its cases. Several of the source's applications — profit-seeking, searching for missing persons and crime cases, doomsday prophecy, and targeting without consent — have been **deliberately dropped**, as they cannot be reconciled with either safety or Bardon's ethics.\n\nStay with the defensible core: structured perception, honest self-scoring, quiet and self-knowledge. This discipline is a worthy path in itself."
+      }
+    }
+  ]
+}
