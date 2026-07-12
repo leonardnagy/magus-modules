@@ -1,0 +1,431 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-dispenza-newself",
+ "nevek": {
+  "hu": "Dispenza: Engedd el önmagad — gyakorlatok",
+  "en": "Dispenza: Breaking the Habit — practices"
+ },
+ "gyakorlatok": [
+  {
+   "id": "dnp-lecsendesites",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Lecsendesítés — a figyelem leválasztása",
+    "en": "Settling — Unhooking the Attention"
+   },
+   "cel": {
+    "hu": "Nyitott, tágas éberségbe érkezni azzal, hogy a figyelmet leválasztod a megszokott horgonyokról — a testről, a környezetről, az óráról. Ez a kapu, amelyen minden további dispenzai gyakorlat átlép.",
+    "en": "To arrive in an open, spacious wakefulness by unhooking attention from its usual anchors — body, surroundings, clock. This is the gate every further Dispenza practice crosses."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj kényelmesen, csukott szemmel, és néhány lassú légzéssel engedd el a nap sietségét.",
+     "en": "Sit comfortably with eyes closed and let a few slow breaths release the day's hurry."
+    },
+    {
+     "hu": "Vezesd a figyelmet lassan végig a testen, fejtetőtől lefelé — nem elemzed, csak érzékeled az egyes területeket.",
+     "en": "Guide attention slowly through the body, crown downward — not analyzing, simply sensing each region."
+    },
+    {
+     "hu": "Ezután érzékeld a testet körülvevő teret: a test körüli levegőt, a szoba tágasságát.",
+     "en": "Then sense the space surrounding the body: the air around it, the roominess of the room."
+    },
+    {
+     "hu": "Ha egy gondolat elvisz, ne dorgáld magad — térj vissza oda, ahol tartottál, és folytasd.",
+     "en": "When a thought carries you off, do not scold yourself — return to where you left off and continue."
+    },
+    {
+     "hu": "Az ülés végén pihenj pár percig a nyitott éberségben, cél és feladat nélkül.",
+     "en": "End the sit resting a few minutes in open wakefulness, without aim or task."
+    }
+   ],
+   "keret": {
+    "hu": "A cél nem üresség, hanem nyitott, tágas éberség. Tíz-tizenöt perc elegendő; a sietség itt önellentmondás.",
+    "en": "The aim is not blankness but open, spacious wakefulness. Ten to fifteen minutes is enough; hurry is a contradiction here."
+   }
+  },
+  {
+   "id": "dnp-regi-en-felismerese",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A régi én felismerése — egy betanult érzelem leltára",
+    "en": "Recognizing the Old Self — Inventory of One Memorized Emotion"
+   },
+   "cel": {
+    "hu": "Kiválasztani a régi én egyetlen vonását — egy betanult érzelmet, amelyet oldani akarsz —, és ítélet nélkül feltérképezni: mi táplálja, hol ül a testben, mi kapcsolja be.",
+    "en": "To choose a single trait of the old self — one memorized emotion you intend to dissolve — and map it without judgment: what feeds it, where it sits in the body, what switches it on."
+   },
+   "modszer": [
+    {
+     "hu": "Rövid lecsendesítés után idézd fel a nap egy pillanatát, amikor egy régi, ismerős érzelem magától felöltötte magát — sértettség, aggodalom, ingerültség.",
+     "en": "After a brief settling, recall a moment of the day when an old, familiar emotion put itself on by itself — resentment, worry, irritation."
+    },
+    {
+     "hu": "Figyeld meg, milyen gondolat táplálja: melyik mondat jár vele körbe-körbe a fejedben?",
+     "en": "Observe what thought feeds it: which sentence circles with it in your head?"
+    },
+    {
+     "hu": "Keresd meg a testben: hol ül — mellkas, gyomor, váll, torok? Milyen a feszültsége?",
+     "en": "Find it in the body: where does it sit — chest, stomach, shoulders, throat? What is its tension like?"
+    },
+    {
+     "hu": "Jegyezd fel, milyen helyzetek, hangok, személyek kapcsolják be — ezek a régi én ismerős ingerei.",
+     "en": "Note which situations, tones, or people switch it on — these are the old self's familiar cues."
+    },
+    {
+     "hu": "Zárd egyetlen tárgyilagos mondattal a naplóban: ez a vonás eddig hozzám tartozott. A megnevezés leltár, nem önostorozás.",
+     "en": "Close with one plain sentence in the diary: this trait has belonged to me. Naming is inventory, not self-flagellation."
+    }
+   ],
+   "keret": {
+    "hu": "Dispenza modelljében a személyiség nagyrészt ismétlés: a tegnap betanult érzelme, amelyet a test reggelente magától felölt. A felismerés az első mozdulat, amellyel a kör láthatóvá válik.",
+    "en": "In Dispenza's model the personality is largely repetition: yesterday's memorized emotion, which the body puts on by itself each morning. Recognition is the first movement that makes the loop visible."
+   },
+   "etika": {
+    "hu": "Ez önismereti gyakorlás, nem orvoslás; semmilyen kezelést nem helyettesít. Ha a megfigyelés tartósan felkavaró, szüneteltesd, és beszélj szakemberrel.",
+    "en": "This is self-knowledge practice, not medicine; it replaces no treatment. If the observing becomes persistently distressing, pause it and speak with a professional."
+   }
+  },
+  {
+   "id": "dnp-megadas",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Megadás — a régi vonás letétele",
+    "en": "Surrender — Setting Down the Old Trait"
+   },
+   "cel": {
+    "hu": "A csendes beismerés után elengedni a kiválasztott vonás fölötti görcsös irányítást: nem elfojtani, nem tovább elemezni, hanem letenni, mint egy régóta cipelt csomagot.",
+    "en": "After the quiet admission, to release the clenched control over the chosen trait: not suppressing it, not analyzing it further, but setting it down like a bag carried too long."
+   },
+   "modszer": [
+    {
+     "hu": "Lecsendesítés után hívd elő a kiválasztott régi vonást, és figyeld meg még egyszer röviden: hol ül, mi táplálja.",
+     "en": "After settling, call up the chosen old trait and observe it once more, briefly: where it sits, what feeds it."
+    },
+    {
+     "hu": "Ismerd be csendben, őszintén és röviden: ez a vonás eddig hozzám tartozott. Ennyi — a beismerés megtöri a titkosságot.",
+     "en": "Admit quietly, honestly and briefly: this trait has belonged to me. That is all — admission breaks the secrecy."
+    },
+    {
+     "hu": "Ezután engedd el a fogást. Ne told el, ne magyarázd tovább: képzeld el, hogy leteszed, ahogy egy nehéz táskát tesz le az ember az út végén.",
+     "en": "Then release the grip. Do not push it away, do not keep explaining: imagine setting it down as one sets down a heavy bag at the end of a road."
+    },
+    {
+     "hu": "Ha a vonás visszakéredzkedik, ne kezdj harcot — vedd észre, és tedd le újra, ugyanazzal a mozdulattal.",
+     "en": "If the trait asks to come back, start no fight — notice it and set it down again with the same movement."
+    },
+    {
+     "hu": "Az ülés végén időzz a letett teher utáni könnyebbségben, akár csak egy-két percig.",
+     "en": "End the sit dwelling in the lightness after the burden is down, even for just a minute or two."
+    }
+   ],
+   "keret": {
+    "hu": "A megadás nem vereség és nem közöny: az irányítás görcsének elengedése. Számíts rá, hogy a test eleinte visszakéri a megszokottat — ez a folyamat természete, nem kudarc.",
+    "en": "Surrender is neither defeat nor indifference: it is releasing the clench of control. Expect the body to ask for the familiar at first — that is the nature of the process, not failure."
+   },
+   "etika": {
+    "hu": "Nyugodt, hétköznapi állapotra tervezett munka. Akut lelki válságban — önveszélyes gondolatok, összeomlás, friss trauma — ne befelé fordulj, hanem kérj segítséget: orvos, pszichológus, krízisvonal.",
+    "en": "Work designed for calm, ordinary conditions. In an acute psychological crisis — thoughts of self-harm, collapse, fresh trauma — do not turn inward; reach out for help: a doctor, a psychologist, a crisis line."
+   }
+  },
+  {
+   "id": "dnp-nagyvonalu-jelen",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A nagyvonalú jelen — időzés a nyitott mostban",
+    "en": "The Generous Present — Dwelling in the Open Now"
+   },
+   "cel": {
+    "hu": "Megtanulni abban a pillanatban időzni, amely se nem a múlt emléke, se nem a jövő szorongása. Dispenza ezt a nyitott mostot tartja a változás egyetlen műhelyének — itt nem a régi én válaszol.",
+    "en": "To learn to dwell in the moment that is neither a memory of the past nor an anxiety about the future. Dispenza treats this open now as the only workshop of change — here the old self is not the one answering."
+   },
+   "modszer": [
+    {
+     "hu": "Lecsendesítés után figyeld meg, merre húz a figyelem magától: visszajátszásba vagy előre-pásztázásba?",
+     "en": "After settling, watch where attention pulls on its own: into replay, or into scanning ahead?"
+    },
+    {
+     "hu": "Valahányszor észreveszed a húzást, ne kövesd és ne is küzdj vele — csak térj vissza az ittlét egyszerű érzetéhez.",
+     "en": "Each time you notice the pull, neither follow it nor fight it — just return to the simple sense of being here."
+    },
+    {
+     "hu": "Engedd, hogy a most kitáguljon: nincs teendő, nincs szerep, nincs ki-vagyok-én kérdés — csak nyitott, éber jelenlét.",
+     "en": "Let the now widen: no task, no role, no question of who-am-I — only open, wakeful presence."
+    },
+    {
+     "hu": "Időzz itt öt-tíz percig; ha a régi érzelem felbukkan, hadd vonuljon át, mint felhő az égen.",
+     "en": "Dwell here five to ten minutes; if the old emotion surfaces, let it pass through like a cloud across the sky."
+    }
+   ],
+   "keret": {
+    "hu": "Dispenza saját modellje szerint a figyelem itt válik szabaddá a lehetőségek felé; ezt a modul munkahipotézisként kezeli, nem tantételként. A mérce a saját tapasztalat: több-e a jelenlét a napodban.",
+    "en": "In Dispenza's own model, attention becomes free toward possibility here; this pack treats that as a working hypothesis, not doctrine. The measure is your own experience: is there more presence in your day."
+   }
+  },
+  {
+   "id": "dnp-megfigyeles-emlekeztetes",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Megfigyelés és emlékeztetés — nem menni a reflex után",
+    "en": "Observe and Remind — Not Going Along with the Reflex"
+   },
+   "cel": {
+    "hu": "Napközben elkapni azt a pillanatot, amikor a betanult válasz indulna, és még a mozdulat előtt emlékeztetni magad: ez a régi én hangja lenne. Megfigyelni anélkül, hogy vele mennél.",
+    "en": "To catch, during the day, the moment the memorized response would launch, and to remind yourself before the movement completes: this would be the old self speaking. To observe without going along."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel idézd fel a ma követett régi vonást és ismerős ingereit: mely helyzetek, hangok szokták bekapcsolni.",
+     "en": "In the morning, recall the old trait you are tracking today and its familiar cues: which situations and tones tend to switch it on."
+    },
+    {
+     "hu": "Napközben, amikor egy ilyen inger megjelenik, figyeld az első belső mozdulatot — a felhorgadást, az összehúzódást, a kész mondatot.",
+     "en": "During the day, when such a cue appears, watch the first inner movement — the flare, the contraction, the ready-made sentence."
+    },
+    {
+     "hu": "Mondd ki magadban, még a válasz előtt: ez a régi én hangja lenne. Nem ítélet — helymeghatározás.",
+     "en": "Say inwardly, before the response: this would be the old self speaking. Not a judgment — a bearing taken."
+    },
+    {
+     "hu": "Ne fojtsd el és ne is add át magad neki: hagyd, hogy a hullám tetőzzön és lecsengjen, miközben te nézed.",
+     "en": "Neither suppress it nor hand yourself over: let the wave crest and subside while you watch."
+    },
+    {
+     "hu": "Este jegyezd fel, hányszor sikerült a reflex előtt észbe kapni — a szám nem osztályzat, hanem mérés.",
+     "en": "In the evening, note how many times you caught it before the reflex completed — the number is a measurement, not a grade."
+    }
+   ],
+   "keret": {
+    "hu": "A régi én legerősebb szövetségese az ismerős inger. Egyetlen napi észbekapás is valódi munka; a gyakorlat a párnán kezdődik, de a vizsgája a nap.",
+    "en": "The old self's strongest ally is the familiar cue. Even one catch a day is real work; the practice begins on the cushion, but its examination is the day."
+   }
+  },
+  {
+   "id": "dnp-atiranyitas",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Átirányítás — egy lélegzet, a szándék, egy csepp emelt érzés",
+    "en": "Redirection — One Breath, the Intention, a Drop of Elevated Feeling"
+   },
+   "cel": {
+    "hu": "A felismerés pillanatában a figyelmet a begyakorolt új válasz felé fordítani, hogy a nap ne a reflexé legyen, hanem a te választásodé.",
+    "en": "In the instant of recognition, to turn attention toward the rehearsed new response, so the day belongs not to the reflex but to your choosing."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor napközben elkaptad a régi választ az indulás előtt, vegyél egy tudatos, lassú lélegzetet — ez a váltó.",
+     "en": "When you have caught the old response before launch, take one deliberate, slow breath — this is the switch."
+    },
+    {
+     "hu": "Idézd fel a szándékodat egyetlen mondatban: ki az, akivé válok, és ő hogyan válaszolna most?",
+     "en": "Recall your intention in a single sentence: who is it I am becoming, and how would that person answer now?"
+    },
+    {
+     "hu": "Hívj mellé egy cseppet az emelt érzésből — hálát, csendes örömöt —, amelyet az üléseken gyakoroltál.",
+     "en": "Invite beside it a drop of the elevated feeling — gratitude, quiet joy — rehearsed in your sits."
+    },
+    {
+     "hu": "Ebből az állapotból válaszolj a helyzetre — vagy válaszd a tudatos csendet, ha az az új válasz.",
+     "en": "Answer the situation from this state — or choose deliberate silence, if that is the new response."
+    },
+    {
+     "hu": "Ne várd, hogy mindig sikerül; ahol a reflex győzött, azt is jegyezd fel este, harag nélkül.",
+     "en": "Do not expect to succeed every time; where the reflex won, note that too in the evening, without anger."
+    }
+   ],
+   "keret": {
+    "hu": "Az átirányítás nem színészkedés, hanem a meditációban begyakorolt válasz behívása éles helyzetben. Az ülés adja a mintát, a nap adja a terepet.",
+    "en": "Redirection is not acting; it is calling up the response rehearsed in meditation inside a live situation. The sit provides the pattern, the day provides the terrain."
+   }
+  },
+  {
+   "id": "dnp-uj-en-proba",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Teremtő ülés — az új én begyakorlása",
+    "en": "Creating Sit — Rehearsing the New Self"
+   },
+   "cel": {
+    "hu": "Tiszta szándékot emelt érzelemmel egyesíteni, és gondolatban elpróbálni az új én egy konkrét napját — ahogy egy zenész gyakorol előadás előtt.",
+    "en": "To join clear intention with elevated emotion and mentally rehearse one concrete day of the new self — the way a musician rehearses before a performance."
+   },
+   "modszer": [
+    {
+     "hu": "Lecsendesítés után fogalmazd meg tisztán a szándékot: ki az, akivé válsz? Egyetlen pontos, jelen idejű mondat.",
+     "en": "After settling, state the intention clearly: who is it you are becoming? One precise, present-tense sentence."
+    },
+    {
+     "hu": "Hívd mellé az emelt érzelmet — hálát, csendes örömöt —, mintha a változás már megtörtént volna. Hagyd, hogy a testben is érzéssé érjen.",
+     "en": "Invite the elevated emotion beside it — gratitude, quiet joy — as if the change had already occurred. Let it ripen into feeling in the body."
+    },
+    {
+     "hu": "Próbáld el gondolatban az új én egy konkrét napját, jelenetről jelenetre: hogyan ébred, hogyan felel a nehéz pillanatokra, hogyan zárja a napot.",
+     "en": "Mentally rehearse one concrete day of the new self, scene by scene: how it wakes, how it answers the hard moments, how it closes the day."
+    },
+    {
+     "hu": "Egy jelenetnél időzz el részletesen: pontosan az a helyzet, ahol a régi reflex szokott győzni — és most az új válasz érkezik.",
+     "en": "Linger on one scene in detail: precisely the situation where the old reflex tends to win — and now the new response arrives."
+    },
+    {
+     "hu": "Zárd az ülést a szándék és az érzés csendes együttállásában, sietség és bizonygatás nélkül.",
+     "en": "Close the sit in the quiet conjunction of intention and feeling, without hurry or self-persuasion."
+    }
+   ],
+   "keret": {
+    "hu": "A kettő együtt számít: szándék érzelem nélkül üres terv, érzelem szándék nélkül hangulat. Dispenza kvantummező-narratíváját a modul az ő munkamodelljeként kezeli — a mérce a belső gyümölcs: szokás, hangulat, jelenlét.",
+    "en": "The pair is what counts: intention without emotion is an empty plan, emotion without intention a mere mood. Dispenza's quantum-field narrative is treated here as his working model — the measure is inner fruit: habit, mood, presence."
+   },
+   "etika": {
+    "hu": "A szándék és a begyakorlás kizárólag a saját vonásaidra irányulhat. Más ember megváltoztatása vagy befolyásolása — akár jó szándékkal is — kívül esik ezen a gyakorlaton.",
+    "en": "Intention and rehearsal may aim only at your own traits. Changing or influencing another person — even benevolently — lies outside this practice."
+   }
+  },
+  {
+   "id": "dnp-uj-enkent-elni",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Élet az új énként — a nap mint vizsga",
+    "en": "Living as the New Self — the Day as Examination"
+   },
+   "cel": {
+    "hu": "Az ülésen begyakorolt új választ végigvinni egy egész hétköznapon, a reggeli rutintól az esti lezárásig, amíg a belső szándék és a külső viselkedés között elfogy a rés.",
+    "en": "To carry the new response rehearsed on the cushion through a whole ordinary day, from morning routine to evening close, until the gap between inner intention and outward conduct wears away."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel, még a rutin előtt, idézd fel az új én mondatát és egy leheletnyit az emelt érzésből — így ne a tegnap öltözzön fel elsőként.",
+     "en": "In the morning, before the routine, recall the new self's sentence and a breath of the elevated feeling — so that yesterday is not the first thing you put on."
+    },
+    {
+     "hu": "Jelölj ki két-három ismerős ingert a napban — egy hang, egy helyzet, egy bosszúság —, és tervezd meg előre, mit válaszol ott az új én.",
+     "en": "Mark two or three familiar cues in the day — a tone, a situation, an irritation — and plan in advance what the new self answers there."
+    },
+    {
+     "hu": "A kijelölt pontokon élj a megfigyelés-emlékeztetés-átirányítás hármasával, és cselekedj az új válasz szerint, akkor is, ha a test még a régit kéri.",
+     "en": "At the marked points, use the triad of observe, remind, redirect, and act on the new response even while the body still asks for the old one."
+    },
+    {
+     "hu": "Napközben egyszer-kétszer állj meg fél percre: van-e rés most a szándékom és a viselkedésem között? Ha van, ne ostorozd magad — csak zárd kisebbre.",
+     "en": "Once or twice in the day, stop for half a minute: is there a gap right now between my intention and my conduct? If so, no self-flogging — just close it a little."
+    },
+    {
+     "hu": "Este vesd össze a tervet a nappal: hol válaszolt már magától az új én, és hol kell holnap újra gyakorolni.",
+     "en": "In the evening, compare plan with day: where did the new self already answer on its own, and where does tomorrow need more rehearsal."
+    }
+   ],
+   "keret": {
+    "hu": "A cél az, amit Dispenza áttetszőségnek nevez: nem szerep, amelyet felveszel, hanem válasz, amely már magától érkezik — csak most már a te választásod szerint. A test hűséges, és eleinte a megszokottat kéri; ez nem kudarc, hanem a folyamat természete.",
+    "en": "The aim is what Dispenza calls transparency: not a role you put on, but a response that arrives on its own — only now, by your choosing. The body is loyal and at first asks for what it knows; that is not failure but the nature of the process."
+   }
+  },
+  {
+   "id": "dnp-esti-meres",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Esti mérés — hol győzött a reflex, hol az új válasz",
+    "en": "Evening Measurement — Where the Reflex Won, Where the New Response Did"
+   },
+   "cel": {
+    "hu": "A napot tárgyilagos naplóbejegyzéssel zárni: ítélet és ígéret nélkül rögzíteni, mit mértél ma a szokásban, a hangulatban és a jelenlétben.",
+    "en": "To close the day with a plain diary entry: recording without judgment or promises what you measured today in habit, in mood, and in presence."
+   },
+   "modszer": [
+    {
+     "hu": "Este ülj le a naplóval, és írd le: melyik régi vonás jelentkezett ma, és mi kapcsolta be?",
+     "en": "In the evening, sit with the diary and write: which old trait showed up today, and what switched it on?"
+    },
+    {
+     "hu": "Rögzítsd, sikerült-e a reflex előtt emlékeztetned magad — és ha igen, mire irányítottad át a figyelmet.",
+     "en": "Record whether you managed to remind yourself before the reflex completed — and if so, where you redirected attention."
+    },
+    {
+     "hu": "Keress egy pillanatot, amikor az új én válaszolt a régi helyett — akár egészen kicsit is —, és írd le tárgyilagosan.",
+     "en": "Find one moment when the new self answered in place of the old — however small — and describe it plainly."
+    },
+    {
+     "hu": "Zárd három rovattal: szokás — változott-e; hangulat — nyugodtabb-e; jelenlét — több volt-e. Egy-egy szó vagy jel elég.",
+     "en": "Close with three columns: habit — any change; mood — any steadier; presence — any more. A word or a mark per column is enough."
+    }
+   ],
+   "keret": {
+    "hu": "Aki este rögzíti, hol győzött a reflex és hol az új válasz, az nem hibázik — méréseket végez. Hetek távlatában ez a napló az egyetlen becsületes mérce: a belső gyümölcsök, nem az ígéretek.",
+    "en": "Whoever records in the evening where the reflex won and where the new response did is not failing — they are taking measurements. Over weeks this diary is the only honest yardstick: inner fruits, not promises."
+   },
+   "etika": {
+    "hu": "A mérce mindvégig belső: a saját naplód gyümölcsei, nem mások viselkedése. A napló nem ígér gyógyulást, és nem helyettesít kezelést.",
+    "en": "The measure remains inner throughout: the fruits in your own diary, not the behavior of others. The diary promises no cure and replaces no treatment."
+   }
+  },
+  {
+   "id": "dnp-fekete-tukor-hid",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Híd a fekete tükörhöz — a reflex elem szerint",
+    "en": "Bridge to the Black Mirror — the Reflex by Element"
+   },
+   "cel": {
+    "hu": "A dispenzai régi vonást a tükörmunka térképére helyezni: besorolni elem szerint a fekete tükörbe, majd napközben ugyanazzal az izommal figyelni és az új választ választani — két nyelv, egy kapu.",
+    "en": "To place the Dispenza old trait on the map of mirror work: file it by element in the black mirror, then through the day observe with the same muscle and choose the new response — two languages, one gate."
+   },
+   "modszer": [
+    {
+     "hu": "Vedd a most oldott régi vonást, és sorold be elem szerint: fellobbanó indulat — Tűz; visszajátszott sérelem — Víz; pörgő, kommentáló elme — Levegő; beragadt, ingervezérelt szokás — Föld.",
+     "en": "Take the old trait you are currently dissolving and file it by element: flaring temper — Fire; replayed hurt — Water; a spinning, commenting mind — Air; a stuck, cue-driven habit — Earth."
+    },
+    {
+     "hu": "Írd be fekete tükrös aspektusként a naplóba, és nevezd meg mellé a fehér tükrös párját — az erényt, amelyet az új én gyakorol helyette.",
+     "en": "Enter it in the diary as a black-mirror aspect, and name beside it its white-mirror counterpart — the virtue the new self rehearses in its place."
+    },
+    {
+     "hu": "Napközben, amikor a reflex indulna, figyeld meg bardoni tanúként, ítélet nélkül — ez ugyanaz a mozdulat, mint a dispenzai megfigyelés és emlékeztetés.",
+     "en": "During the day, when the reflex would launch, observe it as the Bardonian witness, without judgment — the same movement as Dispenza's observe and remind."
+    },
+    {
+     "hu": "A felismerés pillanatában válaszd a fehér tükrös új választ: egy lélegzet, a szándék, egy csepp emelt érzés — az átirányítás itt az erény tudatos táplálása.",
+     "en": "In the instant of recognition, choose the white-mirror new response: one breath, the intention, a drop of elevated feeling — redirection here is the deliberate feeding of the virtue."
+    },
+    {
+     "hu": "Este a tükör-leltárban jelöld, gyengült-e a fekete oldali vonás és erősödött-e a fehér párja — ugyanaz a mérés, két térképen.",
+     "en": "In the evening, mark in the mirror inventory whether the black-side trait weakened and its white counterpart strengthened — the same measurement on two maps."
+    }
+   ],
+   "keret": {
+    "hu": "Dispenza és Bardon ugyanarra a kapura mutat, két nyelven: a régi én a fekete tükör leltára más szótárral, a megadás és az új én begyakorlása pedig a vonás oldása és az ellentétes erény táplálása. Ugyanaz az izom, más térképek — a cél közös: hogy ne a reflex éljen helyetted.",
+    "en": "Dispenza and Bardon point at the same gate in two languages: the old self is the black-mirror inventory in another vocabulary, and surrender plus rehearsing the new self is dissolving the trait and feeding the opposite virtue. The same muscle, different maps — the aim is shared: that the reflex no longer lives your life for you."
+   },
+   "etika": {
+    "hu": "A tükörmunka és a begyakorlás egyaránt csak önmagadra irányulhat; mások vonásainak térképezése vagy formálása nem tartozik ide.",
+    "en": "Mirror work and rehearsal alike may aim only at yourself; mapping or shaping the traits of others has no place here."
+   }
+  }
+ ]
+}

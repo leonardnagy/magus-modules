@@ -1,0 +1,330 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-thinking",
+ "nevek": {
+  "hu": "Fejleszd a gondolkodásod — gyakorlatok",
+  "en": "Evolve Your Brain — practices"
+ },
+ "gyakorlatok": [
+  {
+   "id": "thp-calm-observer",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A nyugodt megfigyelő",
+    "en": "The Calm Observer"
+   },
+   "cel": {
+    "hu": "Megtanulni kívülről ránézni a saját gondolataidra — mint egy nyugodt kamera a jelenetre —, hogy a minta felismerése megelőzhesse a gépies lejátszást. Ez ugyanaz az izom, amelyet a Bardon I. lépés gondolatmegfigyelése (a gondolatok fürdője) edz: észreveszem a gondolatot, és nem kell vele mennem.",
+    "en": "To learn to look at your own thoughts from outside — like a calm camera on a scene — so that recognizing the pattern can come before replaying it on autopilot. It is the same muscle trained by the thought-observation of Bardon’s Step I (the bathing of thoughts): I notice the thought, and I do not have to go with it."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj le kényelmesen, egyenes háttal, csukd be a szemed, és ne irányíts semmit — csak figyelj.",
+     "en": "Sit comfortably, back straight, close your eyes, and steer nothing — only watch."
+    },
+    {
+     "hu": "Hagyd, hogy a gondolatok jöjjenek és menjenek, mint felhők az égen; ne kapaszkodj beléjük, ne folytasd őket.",
+     "en": "Let thoughts come and go like clouds in the sky; do not grab them, do not continue them."
+    },
+    {
+     "hu": "Amikor észreveszed, hogy elkaptál egyet és vele vitorlázol, ez maga a siker: nevezd meg csendben („gondolkodom”), és lépj vissza a néző helyére.",
+     "en": "When you notice you have caught one and are sailing with it, that noticing is the success itself: quietly name it (‘thinking’), and step back to the watcher’s seat."
+    },
+    {
+     "hu": "Kérdezd meg időnként: tényleg én választom ezt a gondolatot, vagy csak lejátszom?",
+     "en": "Ask from time to time: am I really choosing this thought, or just replaying it?"
+    },
+    {
+     "hu": "Zárd öt–tíz perc után; a cél nem az üres elme, hanem a tiszta, türelmes figyelem.",
+     "en": "Close after five to ten minutes; the aim is not an empty mind but clear, patient attention."
+    }
+   ],
+   "keret": {
+    "hu": "A kutatások szerint az agy egész életünkben képlékeny marad; a homloklebeny — a figyelem fókuszálója — edzhető, és az önmegfigyelés az első gyakorlata. Nem csodamódszer, hanem türelmes szoktatás.",
+    "en": "Research suggests the brain stays plastic throughout life; the frontal lobe — the focuser of attention — can be trained, and self-observation is its first exercise. Not a miracle method, but patient habituation."
+   },
+   "etika": {
+    "hu": "Ez gyakorlás, nem terápia. Ha tartósan sötét vagy önbántó gondolatminták térnek vissza, az nem gyengeség — kérj szakember segítségét; a megfigyelés nem helyettesíti a gondozást.",
+    "en": "This is practice, not therapy. If dark or self-harming thought-patterns keep returning, that is not weakness — seek help from a professional; observation is no substitute for care."
+   }
+  },
+  {
+   "id": "thp-loop-spotting",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A hurok felismerése",
+    "en": "Spotting the Loop"
+   },
+   "cel": {
+    "hu": "Tetten érni a gondolat–érzés–gondolat kört: a gondolat érzést kelt a testben, az érzés új gondolatot hív elő, és a kör forog. Amit felismersz, azt már nem muszáj gépiesen lejátszani.",
+    "en": "To catch the thought–feeling–thought loop in the act: a thought stirs a feeling in the body, the feeling calls up another thought, and the loop turns. What you recognize you no longer have to play out on autopilot."
+   },
+   "modszer": [
+    {
+     "hu": "Napközben, amikor egy ismerős rossz érzés (harag, aggódás, önmarcangolás) felerősödik, állj meg egy pillanatra.",
+     "en": "During the day, when a familiar bad feeling (anger, worry, self-reproach) swells, stop for a moment."
+    },
+    {
+     "hu": "Keresd meg a párját: milyen gondolat előzte meg az érzést, és milyen gondolat követi éppen?",
+     "en": "Find its pair: what thought preceded the feeling, and what thought is following it right now?"
+    },
+    {
+     "hu": "Nevezd meg a hurkot ítélkezés nélkül: „ez most a régi minta” — és máris kicsit kívülről nézed.",
+     "en": "Name the loop without judgement: ‘this is the old pattern’ — and already you are watching it from a small distance."
+    },
+    {
+     "hu": "Ne nyomd el az érzést; csak ne azonosulj vele. A kilépés a felismerés, nem az elfojtás.",
+     "en": "Do not suppress the feeling; just do not identify with it. The exit is recognition, not repression."
+    }
+   ],
+   "keret": {
+    "hu": "A könyv megfigyelése szerint minden gondolatnak kémiai lenyomata van, és a test hozzászokik az ismerős állapothoz — ezért érződik biztonságosnak az is, ami fáj. A kutatások erre az összefüggésre utalnak, nem ígérnek azonnali szabadulást.",
+    "en": "The book observes that every thought has a chemical signature, and the body grows used to the familiar state — which is why even what hurts can feel safe. Research points toward this link; it promises no instant release."
+   },
+   "etika": {
+    "hu": "Ha egy érzelmi hurok elviselhetetlenül erős vagy tartós, az nem edzés kérdése — ilyenkor szakember segítsége a helyes lépés.",
+    "en": "If an emotional loop is unbearably strong or persistent, that is not a matter of practice — the right step is help from a professional."
+   }
+  },
+  {
+   "id": "thp-conscious-pause",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "A tudatos szünet",
+    "en": "The Conscious Pause"
+   },
+   "cel": {
+    "hu": "A homloklebeny bevetése a mindennapokban: a reakció és a válasz közé egy rövid, tudatos szünetet iktatni, és magasabban gondolkodni, mint ahogy éppen érzel.",
+    "en": "To engage the frontal lobe in daily life: to insert a short, conscious pause between reaction and response, and to think higher than you currently feel."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz ki egy visszatérő ingert, amelyre eddig azonnal, gépiesen reagáltál (egy megjegyzés, egy értesítés, egy dugó).",
+     "en": "Pick one recurring trigger to which you have so far reacted instantly and mechanically (a remark, a notification, a traffic jam)."
+    },
+    {
+     "hu": "Amikor az inger megérkezik, végy egy lassú levegőt, és számolj el magadban háromig, mielőtt bármit tennél vagy mondanál.",
+     "en": "When the trigger arrives, take one slow breath and count to three inside before doing or saying anything."
+    },
+    {
+     "hu": "A szünetben kérdezd meg: mit választanék most, ha nem a megszokás döntene helyettem?",
+     "en": "In the pause, ask: what would I choose now if habit were not deciding for me?"
+    },
+    {
+     "hu": "Válaszolj ebből a helyről — akár csak egy fokkal nyugodtabban, mint eddig. A kis különbség is új utat épít.",
+     "en": "Respond from that place — even one degree calmer than before. Even the small difference builds a new road."
+    }
+   ],
+   "keret": {
+    "hu": "A könyv a homloklebenyt a fókuszált figyelem és a választás központjaként írja le: csendesíti a többi központ zaját. A kutatások szerint az ismételt tudatos választás idővel könnyebbé válik — de csak gyakorlással.",
+    "en": "The book describes the frontal lobe as the seat of focused attention and choice: it quiets the noise of the other centres. Research suggests repeated conscious choosing grows easier over time — but only with practice."
+   }
+  },
+  {
+   "id": "thp-daily-learning",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Napi egy új dolog",
+    "en": "One New Thing a Day"
+   },
+   "cel": {
+    "hu": "Naponta táplálni az agyat a változás két útján: tudással (amit megértesz) és tapasztalással (amit megélsz). A tudás megnyitja a kaput; a tapasztalás lakja be a szobát.",
+    "en": "To feed the brain daily along the two routes of change: knowledge (what you understand) and experience (what you live). Knowledge opens the door; experience moves into the room."
+   },
+   "modszer": [
+    {
+     "hu": "Minden nap tanulj meg egy új dolgot: olvass el egy gondolatot, egy összefüggést, egy fogalmat, és gondold végig a saját szavaiddal.",
+     "en": "Each day learn one new thing: read an idea, a connection, a concept, and think it through in your own words."
+    },
+    {
+     "hu": "Még aznap kösd tapasztaláshoz: próbáld ki, mondd el valakinek, alkalmazd egy helyzetben — vond be a testet és az érzékeket.",
+     "en": "That same day tie it to experience: try it out, tell someone, apply it in a situation — involve the body and the senses."
+    },
+    {
+     "hu": "Este idézd fel: mit értettem meg, és hol vált élővé? Ha csak „száraz” tudás maradt, tervezd meg, mikor éled meg.",
+     "en": "In the evening recall: what did I understand, and where did it come alive? If it stayed ‘dry’ knowledge, plan when you will live it."
+    },
+    {
+     "hu": "Ismételd másnap is: az új gondolat először halvány ösvény; a napi visszatérés teszi úttá.",
+     "en": "Repeat the next day too: a new thought is at first a faint trail; daily returning makes it a road."
+    }
+   ],
+   "keret": {
+    "hu": "A kutatások szerint a tanulás és a megélt tapasztalás új idegi kapcsolatokat épít, a nem használt utak pedig elhalványulnak. Nem a mennyiség számít, hanem a rendszeresség és az, hogy a tudás megélt legyen.",
+    "en": "Research suggests that learning and lived experience build new neural connections, while unused pathways fade. What counts is not quantity but regularity, and that knowledge becomes lived."
+   }
+  },
+  {
+   "id": "thp-mental-rehearsal",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Mentális főpróba",
+    "en": "The Mental Dress Rehearsal"
+   },
+   "cel": {
+    "hu": "Fejben, részletesen, újra és újra átvenni az új viselkedést vagy hozzáállást, mielőtt szükség lenne rá — így a belső ismétlés is utat épít az új mintának.",
+    "en": "To run through the new behaviour or attitude in the mind, in detail, again and again, before it is needed — so that inner repetition too builds a pathway for the new pattern."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy visszatérő helyzetet, amelyben eddig a régi minta indult be (feszült beszélgetés, halogatott feladat, önbírálat).",
+     "en": "Choose a recurring situation where the old pattern used to fire (a tense conversation, a postponed task, a bout of self-criticism)."
+    },
+    {
+     "hu": "Ülj le csendben, halkítsd le a környezetet, csukd be a szemed, és játszd le a jelenetet fejben — most úgy, ahogy szeretnéd.",
+     "en": "Sit quietly, turn down the surroundings, close your eyes, and play the scene in your mind — now the way you want it."
+    },
+    {
+     "hu": "Tedd részletessé: lásd magad nyugodtnak, halld a hangod, érezd a testtartásod. Nem hazudsz magadnak — az új választ gyakorlod.",
+     "en": "Make it detailed: see yourself calm, hear your voice, feel your posture. You are not lying to yourself — you are practising the new response."
+    },
+    {
+     "hu": "Vedd át többször, amíg természetesnek nem tűnik. Ha közben elveszíted az idő- és térérzéked, az jó jel: a fókusz átvette a vezetést.",
+     "en": "Run it several times, until it feels natural. If you lose your sense of time and space, that is a good sign: focus has taken the lead."
+    },
+    {
+     "hu": "Zárás: jegyezd fel, mikor lesz alkalmad a valóságban is kipróbálni — a főpróba a színpadért van.",
+     "en": "To close: note when you will have the chance to try it in reality — the dress rehearsal exists for the stage."
+    }
+   ],
+   "keret": {
+    "hu": "A kutatások szerint az agy sok szempontból hasonlóan reagál a jól elképzelt gyakorlásra, mint a valódira. Ez nem varázslat: a fejben ismételt minta könnyebben hívható elő, de a valós megélést nem pótolja.",
+    "en": "Research suggests the brain responds to well-imagined rehearsal in many ways as it does to the real thing. This is no magic: a pattern repeated in the mind is easier to call up, but it does not replace living it for real."
+   }
+  },
+  {
+   "id": "thp-live-it-out",
+   "mester": "Joe Dispenza",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Ki a pályára",
+    "en": "Onto the Field"
+   },
+   "cel": {
+    "hu": "A fejben gyakorolt új mintát valódi helyzetben megmutatni — előbb az elme, aztán az elme és a test együtt. A könyv határozott: a mentális gyakorlás megélés nélkül befejezetlen.",
+    "en": "To show the mentally rehearsed new pattern in a real situation — first the mind, then mind and body together. The book is firm: mental rehearsal without living it out is unfinished."
+   },
+   "modszer": [
+    {
+     "hu": "Vedd elő a mentális főpróbán begyakorolt jelenetet, és keresd meg (vagy teremtsd meg) az első valódi alkalmat.",
+     "en": "Take the scene you rehearsed mentally and find (or create) the first real occasion for it."
+    },
+    {
+     "hu": "Közvetlenül előtte idézd fel röviden a begyakorolt állapotot: a nyugodt hangot, a testtartást, az első mondatot.",
+     "en": "Right before it, briefly recall the rehearsed state: the calm voice, the posture, the opening sentence."
+    },
+    {
+     "hu": "A helyzetben engedd, hogy a test is tanuljon: figyelj arra, milyen érzés másképp csinálni — ez a mélyebb, tartósabb emlék.",
+     "en": "In the situation, let the body learn too: notice how it feels to do it differently — this is the deeper, longer-lasting memory."
+    },
+    {
+     "hu": "Utána értékelj röviden, ítélkezés nélkül: mi ment át a fejből a valóságba, és mi maradt még próbára?",
+     "en": "Afterwards review briefly, without judgement: what carried over from mind to reality, and what still needs rehearsal?"
+    }
+   ],
+   "keret": {
+    "hu": "A változás két útja — tudás és tapasztalás — itt ér össze: ahogy Arisztotelész mondta, azzá válunk, amit ismételten teszünk. A kutatások szerint a megélt ismétlés rögzíti legtartósabban az új mintát.",
+    "en": "The two routes of change — knowledge and experience — meet here: as Aristotle said, we become what we repeatedly do. Research suggests lived repetition fixes the new pattern most durably."
+   }
+  },
+  {
+   "id": "thp-break-routine",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Törd meg a megszokást",
+    "en": "Break the Routine"
+   },
+   "cel": {
+    "hu": "Naponta egy apró, szándékos eltéréssel fellazítani a megszokás kényelmét, és megtapasztalni: a gépies napirend nagy része nem választás, csak ismétlés.",
+    "en": "To loosen the comfort of routine with one small, deliberate deviation each day, and to experience that much of the mechanical daily round is not choice, only repetition."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz ki reggel egy apró rutint, és csináld ma szándékosan másképp: másik útvonal, másik kéz, másik sorrend, más reggeli.",
+     "en": "In the morning pick one small routine and do it deliberately differently today: another route, the other hand, another order, a different breakfast."
+    },
+    {
+     "hu": "Közben figyeld a belső ellenállást: a kis kényelmetlenség annak a jele, hogy egy bejáratott utat hagytál el.",
+     "en": "While doing it, watch the inner resistance: the small discomfort is the sign that you have left a well-worn path."
+    },
+    {
+     "hu": "Vedd észre, mennyivel éberebb vagy a szokatlanban — az újdonság felébreszti a figyelmet, amit a rutin elaltatott.",
+     "en": "Notice how much more awake you are in the unfamiliar — novelty rouses the attention that routine had lulled."
+    },
+    {
+     "hu": "Este jegyezd fel, mit törtél meg és mit vettél észre; másnap válassz másik apróságot.",
+     "en": "In the evening note what you broke and what you noticed; the next day choose another small thing."
+    }
+   ],
+   "keret": {
+    "hu": "A megszokás kényelme a régi idegi utak kitaposottsága. A kutatások szerint az újszerű, figyelmet kívánó cselekvés serkenti az agy alkalmazkodását — apró léptékben is.",
+    "en": "The comfort of routine is the well-trodden state of old neural paths. Research suggests novel, attention-demanding action stimulates the brain’s adaptation — even at a small scale."
+   }
+  },
+  {
+   "id": "thp-evening-review",
+   "mester": "Joe Dispenza",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Esti mintaszemle",
+    "en": "The Evening Pattern Review"
+   },
+   "cel": {
+    "hu": "Napzárásként ítélkezés nélkül átnézni a nap gondolati és érzelmi mintáit: mi indult be gépiesen, hol sikerült kilépni, és mit érdemes holnap másképp gyakorolni.",
+    "en": "To close the day by reviewing, without judgement, its thought and feeling patterns: what fired on autopilot, where you managed to step out, and what is worth practising differently tomorrow."
+   },
+   "modszer": [
+    {
+     "hu": "Este ülj le öt percre, és pörgesd végig a napot, mint egy nyugodt néző a felvételt — tényszerűen, ítélet nélkül.",
+     "en": "In the evening sit for five minutes and run through the day like a calm viewer watching the footage — factually, without verdicts."
+    },
+    {
+     "hu": "Keresd meg a nap egy-két pillanatát, amikor egy régi minta indult be: mi történt, milyen gondolat és érzés pörgött fel?",
+     "en": "Find one or two moments when an old pattern fired: what happened, what thought and feeling spun up?"
+    },
+    {
+     "hu": "Keresd meg azt is, ahol sikerült észrevenni, szünetet tartani vagy átkeretezni — a kis győzelem is győzelem, nevezd meg.",
+     "en": "Also find where you managed to notice, pause, or reframe — a small win is still a win; name it."
+    },
+    {
+     "hu": "Válassz egy mintát, amelyet holnap tudatosan másképp játszol le, és képzeld el röviden az új választ.",
+     "en": "Choose one pattern to play differently tomorrow, on purpose, and briefly picture the new response."
+    },
+    {
+     "hu": "Zárd hálával vagy egyszerű nyugtázással: ma is néztem, tanultam — a szemle nem önostorozás.",
+     "en": "Close with gratitude or a simple acknowledgement: today too I watched and learned — the review is not self-flagellation."
+    }
+   ],
+   "keret": {
+    "hu": "Az esti visszatekintés a megfigyelést teszi rendszeressé: amit naponta észreveszel, azt egyre korábban veszed észre napközben is. A kutatások a rendszeres önreflexió hasznára utalnak — türelmes, fokozatos eszköz ez, nem gyorsjavítás.",
+    "en": "The evening look-back makes observation regular: what you notice daily, you begin to notice earlier and earlier during the day itself. Research points toward the value of regular self-reflection — a patient, gradual tool, not a quick fix."
+   },
+   "etika": {
+    "hu": "A szemle célja a tanulás, nem az önítélet. Ha az esti visszanézés rendszeresen sötét, szorongó vagy önbántó mintákba fut, kérj szakember segítségét — ez gondozást kíván, nem több gyakorlást.",
+    "en": "The purpose of the review is learning, not self-judgement. If the evening look-back keeps running into dark, anxious, or self-harming patterns, seek help from a professional — that calls for care, not more practice."
+   }
+  }
+ ]
+}

@@ -45,7 +45,7 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
-Together these packs hold **186 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+Together these packs hold **249 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
 
 | Pack | Raw link |
 |---|---|
@@ -65,6 +65,13 @@ Together these packs hold **186 practices** (installed packs de-duplicate by id,
 | Intention turned inward (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/remote-influencing.json` |
 | Mediumship & discernment (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/mediumship.json` |
 | Telekinesis — the Kinesis path (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/telekinesis.json` |
+| Silva Mind Control — practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/silva-mindcontrol.json` |
+| Silva You the Healer — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/silva-healing.json` |
+| Dispenza: The Placebo — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/dispenza-placebo.json` |
+| Dispenza: Breaking the Habit — practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/dispenza-newself.json` |
+| Dispenza: Becoming Supernatural — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/dispenza-supernatural.json` |
+| Arion's Counsel — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/arion-answers.json` |
+| Evolve Your Brain — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/thinking-school.json` |
 
 Pack format: `{ formatVersion, id, nevek{hu,en}, gyakorlatok:[…] }`, where each practice has
 `id, mester, szint (kezdo|halado|mester), sik (szellem|lelek|test|null),

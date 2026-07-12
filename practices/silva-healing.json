@@ -1,0 +1,391 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-silva-healing",
+ "nevek": {
+  "hu": "Silva Gyógyíthatsz — gyakorlatok",
+  "en": "Silva You the Healer — practices"
+ },
+ "gyakorlatok": [
+  {
+   "id": "shp-reggeli-visszaszamlalas",
+   "mester": "José Silva",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Reggeli visszaszámlálásos ellazulás",
+    "en": "Morning countdown relaxation"
+   },
+   "cel": {
+    "hu": "Ébredés után, amikor az elme még közel van a nyugalomhoz, mély ellazulást tanulni a lassú visszaszámlálással — ez a hagyomány minden további gyakorlatának alapja.",
+    "en": "After waking, while the mind is still close to rest, to learn deep relaxation through the slow countdown — the foundation of every further practice in this tradition."
+   },
+   "modszer": [
+    {
+     "hu": "Ébredés után helyezkedj el kényelmesen — ha kell, kelj fel előbb rövid időre, aztán térj vissza. Hunyd le a szemed, és csukott szemhéjad mögött tekints enyhén, körülbelül húsz fokkal a vízszintes fölé.",
+     "en": "After waking, settle comfortably — rise briefly first if you need to, then return. Close your eyes and, behind closed lids, look gently upward, about twenty degrees above the horizontal."
+    },
+    {
+     "hu": "Végy néhány mély lélegzetet, és minden kilégzésnél engedd el a tested feszültségét, fejtől a lábujjakig.",
+     "en": "Take a few deep breaths, and on each exhale release the tension of the body, from head to toes."
+    },
+    {
+     "hu": "Számolj lassan, gondolatban visszafelé 100-tól 1-ig, számonként körülbelül egy másodperc szünettel — a visszaszámlálás nem altatás, hanem elmélyítés.",
+     "en": "Count slowly and mentally backward from 100 to 1, pausing about a second per number — the countdown is not sleep, it is deepening."
+    },
+    {
+     "hu": "A mélyponton mondd el gondolatban, saját szavaiddal a nyugodt szándékodat — például hogy testedet és elmédet derűben, rendben kívánod tartani.",
+     "en": "At the deep point, state your calm intention mentally, in your own words — for instance that you wish to keep your body and mind in serenity and good order."
+    },
+    {
+     "hu": "Zárásként számolj fölfelé 1-től 5-ig azzal a gondolattal, hogy az 5-nél éberen és felfrissülve nyitod ki a szemed — nyisd ki, és erősítsd meg.",
+     "en": "To close, count upward from 1 to 5 with the thought that at 5 you will open your eyes alert and refreshed — open them, and affirm it."
+    }
+   ],
+   "keret": {
+    "hu": "Támogató belső gyakorlat, amelyet kizárólag a gyümölcsein mérsz: nyugodtabb vagy-e, több-e a reményed, jobb-e a hangulatod, kitartóbb vagy-e a mindennapjaidban. Nem gyógymód és nem ígéret — a rendszeres relaxáció megfigyelhetően csökkentheti a feszültséget, minden ezen túli állítás a hagyomány hite, nem tény.",
+    "en": "A supportive inner practice, measured solely by its fruits: whether you are calmer, more hopeful, in better mood, steadier in your daily life. It is not a cure and not a promise — regular relaxation can observably ease tension; any claim beyond that is the tradition's faith, not fact."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-bekes-belso-helyszin",
+   "mester": "José Silva",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A békés belső helyszín — a nyugalom horgonya",
+    "en": "The peaceful inner scene — the anchor of calm"
+   },
+   "cel": {
+    "hu": "Felépíteni és begyakorolni egy jól ismert, szeretett belső helyszínt, amely a mély ellazulás horgonyává válik, és amelyhez bármikor visszatérhetsz.",
+    "en": "To build and rehearse a well-known, beloved inner scene that becomes the anchor of deep relaxation, a place you can return to at any time."
+   },
+   "modszer": [
+    {
+     "hu": "Ellazult állapotban — a visszaszámlálás mélypontján — idézz fel egy békés helyet, amelyet jól ismersz és szeretsz: valós vagy emlékből épült helyszínt.",
+     "en": "In the relaxed state — at the deep point of the countdown — recall a peaceful place you know well and love: a real place or one built from memory."
+    },
+    {
+     "hu": "Járd be lassan: figyeld a fényeit, hangjait, illatait, a levegő hőmérsékletét — minden nap egészítsd ki egy-két új részlettel.",
+     "en": "Walk through it slowly: notice its light, its sounds, its scents, the temperature of the air — add a detail or two each day."
+    },
+    {
+     "hu": "Időzz ott nyugodtan, sietség nélkül, és hagyd, hogy a hely békéje átjárjon.",
+     "en": "Linger there calmly, without hurry, and let the peace of the place fill you."
+    },
+    {
+     "hu": "Mielőtt fölfelé számolnál, mondd ki gondolatban, hogy ide bármikor visszatérhetsz, amikor nyugalomra van szükséged.",
+     "en": "Before counting upward, say in thought that you may return here whenever you need calm."
+    }
+   ],
+   "keret": {
+    "hu": "Támogató gyakorlat, nem gyógymód: a belső helyszín a nyugalom művelésének eszköze. Értékét belső gyümölcsei adják — nyugalom, remény, jobb hangulat, kitartás —, és semmilyen gyógyulási ígéret nem tartozik hozzá.",
+    "en": "A supportive practice, not a cure: the inner scene is a tool for cultivating calm. Its worth lies in inner fruits — calm, hope, better mood, steadiness — and no promise of healing attaches to it."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-belso-kepernyo",
+   "mester": "José Silva",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A belső képernyő — a képzelet munkafelülete",
+    "en": "The mental screen — the working surface of imagination"
+   },
+   "cel": {
+    "hu": "Megtanulni a hagyomány munkafelületét: egy nagy, világos belső felületet, amelyen a képeket fegyelmezetten, szelíden vezeted — a képzelet tudatos irányításának alapkészségét.",
+    "en": "To learn the working surface of the tradition: a large, bright inner surface on which you guide images with discipline and gentleness — the basic skill of conscious imagination."
+   },
+   "modszer": [
+    {
+     "hu": "Lazulj el a visszaszámlálással, majd képzelj magad elé, kissé a szemmagasság fölé egy nagy, világos felületet — ez a belső képernyőd.",
+     "en": "Relax with the countdown, then imagine a large, bright surface in front of you, slightly above eye level — this is your mental screen."
+    },
+    {
+     "hu": "Helyezz rá egyszerű, semleges képet — egy gyümölcsöt, egy poharat, egy falevelet —, és tartsd ott nyugodtan, amíg el nem halványul.",
+     "en": "Place a simple, neutral image on it — a fruit, a glass, a leaf — and hold it there calmly until it fades."
+    },
+    {
+     "hu": "Gyakorold a váltást: engedd el az egyik képet, és hívj elő egy másikat — mindig szelíden, erőltetés nélkül.",
+     "en": "Practice the change: release one image and call up another — always gently, without forcing."
+    },
+    {
+     "hu": "Zárd a gyakorlatot fölfelé számolással, és jegyezd fel, milyen élesek és mennyire engedelmesek voltak a képeid.",
+     "en": "Close with the upward count, and note how sharp and how obedient your images were."
+    }
+   ],
+   "keret": {
+    "hu": "Képzeletfegyelmet művelő, támogató gyakorlat — nem gyógymód és nem jóslás. A belső képernyő nem mutat meg semmit a testedről vagy másokéról; amit rajta látsz, a saját képzeleted munkája. Értékét a nyugalom és a képfegyelem gyümölcsei adják.",
+    "en": "A supportive practice of image discipline — not a cure and not divination. The mental screen reveals nothing about your body or anyone else's; what you see on it is the work of your own imagination. Its worth lies in the fruits of calm and disciplined imagery."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis — a belső képernyővel soha ne diagnosztizálj, se magadat, se mást. Kizárólag a szakszerű ellátás mellett gyakorolj, sosem helyette; panasz esetén először orvoshoz fordulj, vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt, gyógyszert csak kezelőorvosoddal egyeztetve módosíts, és más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis — never diagnose with the mental screen, neither yourself nor anyone else. Practice only alongside professional care, never instead of it; see a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-harom-kep",
+   "mester": "José Silva",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "A három kép — támogató gyógyító képzelet",
+    "en": "The three images — supportive healing visualization"
+   },
+   "cel": {
+    "hu": "A belső képernyőn három egymást követő képpel művelni a belső állapotot: a jelen szelíd tudomásulvételét, a jobbulás reményét és a derűs teljesség képét — a gyógyulást kísérő belső munkaként.",
+    "en": "To cultivate the inner state with three successive images on the mental screen: gentle acknowledgment of the present, the hope of improvement, and the image of serene wholeness — as inner work that accompanies recovery."
+   },
+   "modszer": [
+    {
+     "hu": "Lazulj el a visszaszámlálással, és nyisd meg a belső képernyőt.",
+     "en": "Relax with the countdown and open the mental screen."
+    },
+    {
+     "hu": "Első kép: vedd tudomásul a jelen állapotot szelíden, félelemkeltés nélkül — ne időzz rajta sokáig.",
+     "en": "First image: acknowledge the present state gently, without stirring fear — do not linger on it long."
+    },
+    {
+     "hu": "Második kép: jelenítsd meg a jobbulást, az erősödő rendet — a magad egyszerű, derűs jelképeivel.",
+     "en": "Second image: show improvement, order gaining strength — in your own simple, serene symbols."
+    },
+    {
+     "hu": "Harmadik kép: lásd önmagadat derűsen, elevenen, teljességben — ennél a képnél időzz a legtovább, és mindig csak előre haladj a képeken.",
+     "en": "Third image: see yourself serene, alive, whole — linger longest on this image, and always move only forward through the images."
+    },
+    {
+     "hu": "Zárd hálával, majd számolj fölfelé 1-től 5-ig, és fordulj a nap teendői felé.",
+     "en": "Close with gratitude, then count upward from 1 to 5 and turn toward the tasks of the day."
+    }
+   ],
+   "keret": {
+    "hu": "Támogató képzeletgyakorlat, amely a belső állapotodat műveli: nyugalmat, reményt, együttműködést a saját gyógyulásoddal. Nem gyógymód: azt, hogy a képzelet közvetlenül gyógyítana, ez a gyakorlat nem állítja tényként — a hatását kizárólag belső gyümölcsein mérd, és a gyógyítást hagyd az orvostudományra.",
+    "en": "A supportive imagery practice that cultivates your inner state: calm, hope, cooperation with your own recovery. It is not a cure: this practice does not assert as fact that imagination heals directly — measure its effect solely by inner fruits, and leave healing to medicine."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panaszt soha ne a gyakorlással kezelj: először orvoshoz fordulj, és vizsgálatot vagy kezelést soha, egyetlen napot se halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts — akkor is, ha jobban érzed magad. Más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. Never treat a complaint with practice alone: see a doctor first, and never delay an examination or treatment for the sake of practice, not by a single day. Change medication only in agreement with your treating physician — even when you feel better. Never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-stresszoldas",
+   "mester": "José Silva",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Napközbeni stresszoldó ellazulás",
+    "en": "Midday stress-release relaxation"
+   },
+   "cel": {
+    "hu": "A nap közepén, feszült helyzetek után rövid ellazulással visszatérni a nyugalomhoz: elengedni a test feszültségét, és összeszedetten folytatni a napot.",
+    "en": "In the middle of the day, after tense situations, to return to calm with a short relaxation: releasing the body tension and continuing the day collected."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj le néhány percre zavartalan helyen, hunyd le a szemed, és tekints enyhén fölfelé a csukott szemhéj mögött.",
+     "en": "Sit down for a few minutes in an undisturbed place, close your eyes, and look gently upward behind closed lids."
+    },
+    {
+     "hu": "Végy három mély lélegzetet, és minden kilégzésnél engedd lazábbra a vállad, az állkapcsod, a kezed.",
+     "en": "Take three deep breaths, and on each exhale let your shoulders, jaw, and hands loosen."
+    },
+    {
+     "hu": "Számolj visszafelé 10-től 1-ig, lassan, és minden számnál süllyedj kicsit mélyebbre a nyugalomba — ha van időd, időzz egy pillanatra a békés belső helyszíneden.",
+     "en": "Count backward from 10 to 1, slowly, sinking a little deeper into calm at each number — if there is time, linger a moment in your peaceful inner scene."
+    },
+    {
+     "hu": "Számolj fölfelé 1-től 5-ig, nyisd ki a szemed frissen, és térj vissza a teendőidhez.",
+     "en": "Count upward from 1 to 5, open your eyes refreshed, and return to your tasks."
+    }
+   ],
+   "keret": {
+    "hu": "Egyszerű, támogató stresszkezelő gyakorlat — a rendszeres relaxáció megfigyelhetően enyhítheti a feszültséget és javíthatja a közérzetet, ennél többet nem ígér. Gyümölcsein mérd: nyugodtabb kéz, tisztább fej, több erő a nap hátralévő részéhez.",
+    "en": "A simple, supportive stress-management practice — regular relaxation can observably ease tension and improve well-being, and it promises nothing more. Measure it by its fruits: a steadier hand, a clearer head, more strength for the rest of the day."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Tartós vagy erős stressz, szorongás, testi panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. With lasting or severe stress, anxiety, or any physical complaint, see a doctor first, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-esti-lecsendesedes",
+   "mester": "José Silva",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Esti lecsendesedés — elengedés és átadás az alvásnak",
+    "en": "Evening settling — release and surrender to sleep"
+   },
+   "cel": {
+    "hu": "Elalvás előtt elengedni a nap feszültségét, ítélkezés nélkül áttekinteni a napot, és nyugodt zárómondattal átadni magad az alvásnak.",
+    "en": "Before sleep, to release the tension of the day, review the day without judgment, and surrender to sleep with a calm closing sentence."
+   },
+   "modszer": [
+    {
+     "hu": "Lefekvés után hunyd le a szemed, végy néhány mély lélegzetet, és minden kilégzésnél engedd el a nap terhét.",
+     "en": "After lying down, close your eyes, take a few deep breaths, and release the burden of the day on each exhale."
+    },
+    {
+     "hu": "Tekintsd át röviden a napot ítélkezés nélkül — mi történt, mi sikerült, mi maradt el —, aztán engedd el a képeket.",
+     "en": "Review the day briefly without judgment — what happened, what went well, what was left undone — then let the images go."
+    },
+    {
+     "hu": "Mondj gondolatban egy nyugodt zárómondatot a holnapi ébredésről — például hogy reggel frissen, kiegyensúlyozottan ébredsz.",
+     "en": "Say a calm closing sentence in thought about waking tomorrow — for instance that you will wake refreshed and balanced."
+    },
+    {
+     "hu": "Hagyd, hogy a légzésed lelassuljon, és engedd át magad az alvásnak — itt nincs fölfelé számolás.",
+     "en": "Let your breathing slow and give yourself over to sleep — there is no upward count here."
+    }
+   ],
+   "keret": {
+    "hu": "Támogató esti gyakorlat a nap lezárására és a nyugodt elalvásra — nem gyógymód és nem alvásterápia. Gyümölcsein mérd: könnyebb elalvás, csendesebb elme, szelídebb reggel.",
+    "en": "A supportive evening practice for closing the day and settling into sleep — not a cure and not sleep therapy. Measure it by its fruits: easier falling asleep, a quieter mind, a gentler morning."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Tartós alvászavarral vagy bármilyen panasszal először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Altatót vagy bármilyen gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. With lasting sleep problems or any complaint, see a doctor first, and never delay an examination or treatment for the sake of practice. Change sleep medication or any medication only in agreement with your physician. Never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-joakarat-szeretett-fele",
+   "mester": "José Silva",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Jóakarat a szeretted felé — jelenlét, nem kezelés",
+    "en": "Goodwill toward a loved one — presence, not treatment"
+   },
+   "cel": {
+    "hu": "Ha szeretted beteg: a saját nyugalmadat művelni, hogy mellette teherbíró és derűs maradhass, és ellazult állapotban csendes jóakaratot küldeni felé — úgy, ahogy egy imádság vagy egy jó gondolat száll valaki felé.",
+    "en": "When a loved one is ill: to cultivate your own calm so you can stay resilient and serene beside them, and in the relaxed state to send them quiet goodwill — the way a prayer or a kind thought goes out to someone."
+   },
+   "modszer": [
+    {
+     "hu": "Lazulj el a visszaszámlálással a saját gyakorlásodban — ez a munka a tiéd, nem az övé.",
+     "en": "Relax with the countdown in your own practice — this work is yours, not theirs."
+    },
+    {
+     "hu": "Idézd fel szeretted arcát derűsen, és fogalmazz felé egyszerű, csendes kívánságot: hogy jól legyen.",
+     "en": "Recall your loved one face serenely, and form a simple, quiet wish toward them: that they be well."
+    },
+    {
+     "hu": "Ne diagnosztizáld, ne kezeld, ne dolgozz rajta — se tudtával, se tudta nélkül. Csak a jó szándék szálljon felé; útja, döntései és teste nem a te képzeleted alá tartoznak.",
+     "en": "Do not diagnose them, do not treat them, do not work on them — neither with their knowledge nor without it. Let only the kind intention travel; their path, their choices, and their body are not governed by your imagination."
+    },
+    {
+     "hu": "A gyakorlaton kívül szolgáld őt kézzelfoghatóan: hallgasd meg, kísérd el a vizsgálatra, segíts a gyógyszereit rendben tartani, ülj mellette csendben.",
+     "en": "Outside the practice, serve them tangibly: listen, accompany them to appointments, help keep their medications in order, sit quietly beside them."
+    },
+    {
+     "hu": "Viselj gondot a magad lelkére is — pihenj, beszélj valakivel, kérj segítséget; a kísérő akkor tud kísérni, ha maga is áll a lábán.",
+     "en": "Care for your own soul as well — rest, talk to someone, ask for help; a companion can only accompany if they themselves remain standing."
+    }
+   ],
+   "keret": {
+    "hu": "Ez szeretet belső formában — nem beavatkozás és nem terápia. Soha ne ígérj gyógyulást, és soha ne sugalld, hogy a betegséget a gondolkodása okozta volna: az a teher kegyetlen és igaztalan. A gyakorlat gyümölcse a te nyugalmad és teherbírásod — a gyógyítás az orvosaié.",
+    "en": "This is love in inner form — not intervention and not therapy. Never promise healing, and never suggest that their illness was caused by their thinking: that burden is cruel and untrue. The fruit of this practice is your own calm and resilience — the healing belongs to their doctors."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett van helye, sosem helyette. Más emberen soha ne dolgozz a képzeleteddel — feléje csak jelenlét és jóakarat irányulhat. Soha ne beszéld le szerettedet vizsgálatról, gyógyszerről vagy kezelésről, és ellátást soha ne halasszatok a gyakorlás miatt; gyógyszert kizárólag a kezelőorvossal egyeztetve szabad módosítani.",
+    "en": "Not medical treatment and not a diagnosis; it has its place only alongside professional care, never instead of it. Never work on another person with your imagination — toward them only presence and goodwill may flow. Never talk a loved one out of an examination, a medication, or a treatment, and never let care be delayed for the sake of practice; medication may be changed only in agreement with the treating physician."
+   }
+  },
+  {
+   "id": "shp-rovidulo-visszaszamlalas",
+   "mester": "José Silva",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A rövidülő visszaszámlálás — a mélység begyakorlása",
+    "en": "The shortening countdown — training the depth"
+   },
+   "cel": {
+    "hu": "Hetek türelmes gyakorlásával fokozatosan rövidíteni a visszaszámlálást — 100-tól, majd 50-től, 25-től, 10-től, végül 5-től 1-ig —, hogy a mély ellazulás egyre kevesebb lépésből, megbízhatóan elérhető legyen.",
+    "en": "Over weeks of patient practice, to gradually shorten the countdown — from 100, then from 50, 25, 10, finally from 5 to 1 — so that deep relaxation becomes reliably reachable in fewer and fewer steps."
+   },
+   "modszer": [
+    {
+     "hu": "Gyakorold a reggeli ellazulást 100-tól 1-ig számolva, amíg a mélypont érzete ismerőssé és megbízhatóvá nem válik.",
+     "en": "Practice the morning relaxation counting from 100 to 1 until the feel of the deep point becomes familiar and reliable."
+    },
+    {
+     "hu": "Ezután térj át 50-re, majd hetek múltán 25-re, 10-re, végül 5-re — mindig csak akkor rövidíts, ha a mélység nem sekélyesedik.",
+     "en": "Then move to 50, and over the weeks to 25, to 10, finally to 5 — shorten only when the depth does not grow shallow."
+    },
+    {
+     "hu": "Minden szakaszban tartsd meg a teljes keretet: szemhéj mögötti enyhe fölfelé tekintés, elengedés kilégzésnél, békés belső helyszín, fölfelé számolás a végén.",
+     "en": "At every stage keep the full frame: the gentle upward gaze behind closed lids, release on the exhale, the peaceful inner scene, the upward count at the end."
+    },
+    {
+     "hu": "Naplódban jegyezd fel, melyik hossz milyen mélységet adott — a rövidítés üteme a tapasztalatodhoz igazodjon, ne a türelmetlenségedhez.",
+     "en": "Record in your diary what depth each length gave — let the pace of shortening follow your experience, not your impatience."
+    }
+   ],
+   "keret": {
+    "hu": "Készséggyakorlás, nem verseny és nem gyógymód: a cél a nyugalom megbízható elérése, nem a sebesség. Gyümölcsein mérd — azon, hogy a hétköznapjaidban könnyebben találsz-e vissza a nyugalomhoz.",
+    "en": "Skill training, not a race and not a cure: the goal is reliable access to calm, not speed. Measure it by its fruits — whether in daily life you find your way back to calm more easily."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
+    "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+   }
+  },
+  {
+   "id": "shp-gyumolcsok-naploja",
+   "mester": "José Silva",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A gyümölcsök naplója — őszinte mérés",
+    "en": "The diary of fruits — honest measurement"
+   },
+   "cel": {
+    "hu": "Naponta, őszintén feljegyezni a gyakorlás belső gyümölcseit és a hiányukat is — nyugalom, remény, hangulat, kitartás a kezelés és a teendők mellett —, hogy a módszert a saját tapasztalatod mérje, ne a hit vagy a vágy.",
+    "en": "To record daily and honestly the inner fruits of practice and their absence alike — calm, hope, mood, steadiness in treatment and duties — so that your own experience measures the method, not belief or desire."
+   },
+   "modszer": [
+    {
+     "hu": "A napi gyakorlás után jegyezd fel röviden: milyen mély volt az ellazulás, milyen képekkel dolgoztál, és mit hagytak benned.",
+     "en": "After the daily practice, note briefly: how deep the relaxation was, what images you worked with, and what they left in you."
+    },
+    {
+     "hu": "Írd le a nap belső gyümölcseit — nyugalom, remény, jobb hangulat, több erő — és őszintén azt is, ami elmaradt.",
+     "en": "Write down the inner fruits of the day — calm, hope, better mood, more strength — and honestly, what failed to appear."
+    },
+    {
+     "hu": "Ellenőrizd írásban az orvosi rendet: gyógyszer bevéve, időpont megtartva, semmi sem halasztva a gyakorlás miatt.",
+     "en": "Check the medical order in writing: medication taken, appointments kept, nothing postponed for the sake of practice."
+    },
+    {
+     "hu": "Hetente olvasd vissza a bejegyzéseket, és józanul mérlegelj: ha a gyakorlás szorongást, kényszeres méricskélést vagy az ellátástól való eltávolodást hozna, tedd le, és beszélj orvosoddal vagy pszichológussal.",
+     "en": "Reread the entries weekly and weigh them soberly: if practice were to bring anxiety, compulsive self-monitoring, or drift away from care, set it down and speak with your doctor or a psychologist."
+    }
+   ],
+   "keret": {
+    "hu": "A napló a módszer becsületességének őre: modellként gyakorolsz, és a gyümölcsökről beszélsz — sem magadnak, sem másnak nem állítod tényként, hogy a képzelet gyógyít. A visszavonulás, ha kell, nem kudarc, hanem józanság.",
+    "en": "The diary guards the honesty of the method: you practice it as a model and speak of its fruits — asserting to no one, not even yourself, that imagination heals as a matter of fact. Withdrawing, if needed, is not failure but sobriety."
+   },
+   "etika": {
+    "hu": "Nem orvosi kezelés és nem diagnózis; a gyakorlás kizárólag a szakszerű ellátás mellett folyhat, sosem helyette. Panasz esetén először orvoshoz fordulj, vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt, gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts — akkor is, ha jobban érzed magad. Más emberen soha ne dolgozz a képzeleteddel, és beteg embert soha ne terhelj a módszer hirdetésével vagy bűntudatkeltéssel.",
+    "en": "Not medical treatment and not a diagnosis; practice may proceed only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, and change medication only in agreement with your treating physician — even when you feel better. Never work on another person with your imagination, and never burden a sick person with preaching the method or with guilt."
+   }
+  }
+ ]
+}
