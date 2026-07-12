@@ -1,0 +1,410 @@
+{
+  "formatVersion": 1,
+  "id": "astral.basics",
+  "version": 1,
+  "nevek": {
+    "hu": "Asztrális kivetülés — alapok és térkép",
+    "en": "Astral Projection — Foundations and the Map"
+  },
+  "description": {
+    "hu": "Az asztrális kivetülés hagyományának alapjai és térképe: álom, tudatos álom és kivetülés megkülönböztetése, a három módszercsalád, reális elvárások és ütem, a félelem kapuja a CALM-lépésekkel, az alváskímélő biztonsági keretek és az őszinte naplózás. A tanítás a hagyomány saját modelljeként jelenik meg, párhuzamos józan lencsével — belső gyümölcsökkel mérve, ígéretek nélkül.",
+    "en": "Foundations and the map of the astral projection tradition: telling dreams, lucid dreams and projection apart, the three method families, realistic expectations and pace, the gate of fear with the CALM steps, sleep-protecting safety fences and honest journaling. The teaching is presented as the tradition's own model with a parallel sober lens — measured by inner fruits, promising nothing."
+  },
+  "items": [
+    {
+      "id": "apb-bevezetes",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Mi ez a gyakorlat? — őszinte keret",
+        "en": "What This Practice Is — an Honest Frame"
+      },
+      "text": {
+        "hu": "Ezzel a modullal nyílik az asztrális kör. **Amit a hagyomány tanít:** számos iskola gyakorlói évszázadok óta művelik azt az állapotot, amelyben a figyelem mintha kiemelkedne az alvó testből és utazna — a hagyomány ezt asztrális kivetülésnek vagy testen kívüli élménynek nevezi, és a belső valóság saját térképeként kezeli. **Egy párhuzamos, józan lencse:** ugyanezek az élmények leírhatók úgy is, mint az alvás határán születő, szokatlanul eleven hipnagóg és tudatos-álom állapotok. A két lencse egyben egyetért: az élmények maguk valódi élmények, és gyakorlással művelhetők. Ez a modul egyik lencse elhitetését sem kéri tőled — gyakorlást, megfigyelést és őszinte naplózást kér. **A haladás mércéje** nem bizonyíték és nem ígéret, hanem a belső gyümölcs: tisztuló álomemlékezet, gyakoribb éberség az álomban, mélyülő pihentség, nyugodtabb viszony a saját elméddel. Semmi sincs itt garantálva, és semmi sem pótolja az orvosi vagy lélektani ellátást: ha a gyakorlat szorongást kavar fel, állj meg, és fordulj szakemberhez. A gyakorlat nem terápia.",
+        "en": "This module opens the astral cycle. **What the tradition teaches:** for centuries, practitioners of many schools have cultivated a state in which attention seems to rise out of the sleeping body and travel — the tradition calls this astral projection or an out-of-body experience, and treats it as its own map of inner reality. **A parallel, sober lens:** the same experiences can be described as unusually vivid hypnagogic and lucid-dream states arising on the border of sleep. On one point both lenses agree: the experiences themselves are real experiences, and they can be trained. This module never asks you to believe either lens — it asks you to practise, observe and journal honestly. **Progress is measured** not by proofs or promises but by inner fruits: clearer dream recall, more frequent lucidity within dreams, deeper restfulness, a calmer relationship with your own mind. Nothing here is guaranteed, and nothing here replaces medical or psychological care: if the practice ever stirs up distress, pause and turn to a professional. The practice is not therapy."
+      }
+    },
+    {
+      "id": "apb-terkep",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A térkép: álom, tudatos álom, kivetülés",
+        "en": "The Map: Dream, Lucid Dream, Projection"
+      },
+      "text": {
+        "hu": "**Három élmény, háromféle éberség.** A közönséges *álom* úgy pereg, mint egy film: benne vagy, de nem tudsz róla, az irányítás és az emlékezet gyenge. A *tudatos álom* abban a pillanatban kezdődik, amikor álom közben észreveszed, hogy álmodsz: az éberség, az irányítás és az emlékezet kiélesedik, a díszlet viszont laza marad — a részletek észrevétlenül átrendeződnek, amint a figyelmed máshová vándorol. Amit a hagyomány *kivetülésnek* nevez, azt szándékosan idézik elő: jellemzően a testtől való elválás érzetével indul, környezete pedig szilárdnak és tartósnak hat, inkább az ébrenléthez hasonlít. **A hagyomány hely-térképe:** egy közeli sáv, amely a fizikai világot tükrözi; tágas, rétegzett asztrális tartományok; és egy mentális vagy álomsík, ahol a képzelet azonnal formál mindent. Figyelemre méltó, hogy maga a hagyomány is óva int: a kezdők élményeit többnyire a képzelet színezi, ezért minden élményt kérdőre kell vonni, nem készpénznek venni. **A józan lencse** ugyanezt a térképet az alváshatár-állapotok különböző elevenségű és stabilitású sávjaiként olvassa. **Egy gyakorlati törvényben mindkét lencse osztozik:** az erős érzelem — félelem vagy vad izgalom — azonnal lezárja az állapotot, és visszatérsz a hétköznapi ébrenlétbe. A nyugalom itt nem díszítés, hanem maga a jármű.",
+        "en": "**Three experiences, three kinds of awareness.** An ordinary *dream* plays like a film: you are inside it without knowing it, and control and memory are weak. A *lucid dream* begins the moment you notice, mid-dream, that you are dreaming: awareness, control and memory sharpen, while the scenery stays loose — details quietly rearrange themselves whenever your attention wanders elsewhere. What the tradition calls *projection* is brought about deliberately: it typically opens with a felt separation from the body, and its surroundings feel solid and lasting, closer to waking life. **The tradition's map of places:** a near zone mirroring the physical world; vast, layered astral regions; and a mental or dream plane where imagination shapes everything instantly. Notably, the tradition itself warns that beginner experiences are mostly coloured by imagination, and urges questioning every experience rather than taking it at face value. **The sober lens** reads the same map as bands of sleep-boundary states of differing vividness and stability. **One practical law both lenses share:** strong emotion — fear or wild excitement — closes the state at once and returns you to ordinary waking. Calm is not decoration here; it is the vehicle itself."
+      }
+    },
+    {
+      "id": "apb-modszerek",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A három módszercsalád és a reális ütem",
+        "en": "The Three Method Families and a Realistic Pace"
+      },
+      "text": {
+        "hu": "Minden megközelítés egyetlen feltételen nyugszik: a test alszik, miközben a figyelem egy szála ébren marad. **1. Közvetett család** — egy közönséges álomban ébredsz rá, hogy álmodsz, és onnan lépsz tovább. Alapozása a mindennapi álomnapló és a napközbeni valóság-ellenőrzés: naponta többször nyugodtan megkérdezed magadtól, hogy álmodsz-e éppen, és tényleg megvizsgálod a környezeted. **2. Félig közvetett család (ébredésre épülő)** — néhány óra alvás után röviden felébredsz, mozdulatlan maradsz, majd visszaengeded magad az alvás felé, miközben finoman váltogatod az elképzelt mozgás, kép és hang köreit, és figyeled a sodródó határállapotot. **3. Közvetlen család** — teljes ébrenlétből lazítod el a testet fokozatosan, gyakran lassú légzéssel és feszítés-elengedés körökkel, míg a test elalszik és csak a figyelem marad. Mindhárom ugyanarra a talapzatra épül: ellazulás, légzés, alváshigiénia, álomnapló, türelmes követés. **Reális ütem:** ez maraton, nem sprint — hetekben és hónapokban gondolkodj, a gyümölcsöket mérd, ne a kilépések számát. Jó ritmus az egy nap gyakorlás, egy nap pihenés; a naplóban őszintén rögzítsd a próbákat, és egyszerre mindig csak egy apró dolgon javíts. **Szilárd biztonsági megjegyzés:** a félig közvetett család megszakítja az alvást. Nem való neked, ha alvászavarral vagy epilepsziával élsz, vagy ha másnap kipihenten kell vezetned vagy dolgoznod. Az egészséges alvás minden technikánál előrébb való — és mindez nem orvosi tanács.",
+        "en": "Every approach rests on a single condition: the body asleep while one thread of attention stays awake. **1. The indirect family** — you realise inside an ordinary dream that you are dreaming, and continue from there. Its groundwork is a daily dream journal plus daytime reality checks: several times a day you calmly ask yourself whether you are dreaming right now, and genuinely examine your surroundings. **2. The semi-direct family (built on waking)** — after a few hours of sleep you wake briefly, stay still, then let yourself drift back toward sleep while gently cycling imagined movement, imagery and sound, watching for the drifting boundary state. **3. The direct family** — from full waking you relax the body step by step, often with slow breathing and tense-and-release rounds, until the body falls asleep and attention alone remains. All three stand on the same base: relaxation, breath, sleep hygiene, dream journal, patient tracking. **A realistic pace:** this is a marathon, not a sprint — think in weeks and months, and measure fruits, not exit counts. A good rhythm is one day of practice, one day of rest; record attempts honestly in the diary and improve only one small thing at a time. **A firm safety note:** the semi-direct family interrupts sleep. It is not for you if you live with a sleep disorder or epilepsy, or if you must drive or work rested the next day. Healthy sleep outranks every technique — and none of this is medical advice."
+      }
+    },
+    {
+      "id": "apb-felelem",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A félelem kapuja — az alvási paralízis és a CALM",
+        "en": "The Gate of Fear — Sleep Paralysis and CALM"
+      },
+      "text": {
+        "hu": "A félelem ennek az egész körnek a fő kapuja — nem a technika hibája, hanem természetes reakció valami ismeretlenre. A klasszikus aggodalmak — *mi van, ha nem tudok visszatérni*, *mi van, ha valami elfoglalja a testem*, *mi van, ha bántódásom esik* — mindkét lencse alatt szertefoszlanak: ezek a saját alvó elméd állapotai, maguktól véget érnek, és a gyakorlati nehézség épp a bennük maradás, nem a szabadulás. Az erős érzelem azonnal felébreszt. **Az alvási paralízis, egyszerűen:** álmodó alvás közben a test természetes módon lekapcsolja az izmait. Néha az elme pár pillanattal a kapcsoló feloldása előtt ébred — ébren fekszel, rövid ideig nem tudsz mozdulni, olykor nyomásérzettel vagy a szobába átcsorduló álomképekkel. Az orvostudomány jól ismeri ezt az állapotot: gyakori, ártalmatlan, és pillanatokon belül magától elmúlik. Lezárásához változtass a légzésed ritmusán, vagy mozdítsd meg a lábujjadat, a nyelvedet — az apró mozdulatok felébresztik a testet. Ha az epizódok gyakoriak és megterhelők, vagy az alvásod tartósan rossz, fordulj orvoshoz; ez öngondoskodás, nem kudarc. **CALM — négy lépés, valahányszor félelem támad (ágyban vagy nappal):** **C** — *Catch, elkapod:* észreveszed és némán megnevezed, ami történik — ez félelem, ez paralízis, ez egy kép. **A** — *Accept, elfogadod:* egy egészséges idegrendszer normális reakciója; semmi sem romlott el. **L** — *Loosen, meglazítod:* megnyújtod a kilégzést, elpuhítod az állkapcsot, a vállat, a hasat. **M** — *Meet, szelíden fogadod:* meleg, baráti figyelmet fordítasz önmagad felé — és a furcsa kép felé is, ha van —, ahogy egy megijedt gyerek felé fordulnál. A így fogadott félelem elveszíti a töltését; a leküzdeni akart félelem nő.",
+        "en": "Fear is the main gate of this whole cycle — not a fault in technique, but a natural reaction to something unknown. The classic worries — *what if I cannot return*, *what if something occupies my body*, *what if I am harmed* — dissolve under both lenses: these are states of your own sleeping mind, they end by themselves, and the practical difficulty is staying in them, not escaping them. Strong emotion wakes you at once. **Sleep paralysis, plainly:** during dreaming sleep the body naturally switches its muscles off. Occasionally the mind wakes a few moments before the switch releases — you lie awake, briefly unable to move, sometimes with a feeling of pressure or with dream imagery spilling into the room. Medicine knows this state well: it is common, harmless, and passes by itself within moments. To end it, change the rhythm of your breathing, or move a toe or your tongue — small movements wake the body. If episodes are frequent and distressing, or your sleep stays poor, see a doctor; that is self-care, not failure. **CALM — four steps whenever fear rises (in bed or by day):** **C** — *Catch it:* notice and silently name what is happening — this is fear, this is paralysis, this is an image. **A** — *Accept it:* a normal reaction of a healthy nervous system; nothing has gone wrong. **L** — *Loosen:* lengthen the exhale, soften the jaw, shoulders and belly. **M** — *Meet it kindly:* turn a warm, friendly attention toward yourself — and toward the strange image, if there is one — as you would toward a frightened child. Fear met this way loses its charge; fear fought grows."
+      }
+    },
+    {
+      "id": "apb-etika",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Etika, mértéktartás, biztonság",
+        "en": "Ethics, Restraint, Safety"
+      },
+      "text": {
+        "hu": "**Csak belső felfedezés.** Bármelyik lencsét használod, minden élményt belső élményként kezelj. Semmit, amit ezekben az állapotokban látsz vagy hallasz, ne tekints ellenőrizhető információnak a külső világról, és soha ne alapozz rá való életbeli — orvosi, pénzügyi, kapcsolati — döntést. **Élő emberek:** ezekben az állapotokban ne próbálj élő embereket felkeresni, megfigyelni vagy befolyásolni; a beleegyezés és az önmérséklet itt is ugyanúgy érvényes, mint ébren. **Gyász:** a hagyományok elhunyt szeretteinkkel való találkozásokról beszélnek. Ha ilyen élmény jön, fogadd belső vigaszként, és a gyümölcsével mérd — békét adjon, ne bizonyítékot. A mély gyász élő emberi támaszt érdemel, és ahol súlyosan nyom, szakmai segítséget. **Előbb az alvás és az egészség:** a pihentető alvás a gyakorlat talapzata; ha a gyakorlás rontja az alvásod, hangulatod vagy nappali működésed, szüneteltesd, és tartós gond esetén fordulj orvoshoz. **Őszinte napló:** egyszerű szavakkal írd le, mi történt, jelöld külön, mit éreztél és mit feltételeztél, és hetente nézd át. A gyakorlat nem terápia, és betegséget nem gyógyít; a nyugodt figyelem iskolája.",
+        "en": "**Inner exploration only.** Whichever lens you use, treat every experience as inner experience. Do not regard anything seen or heard in these states as verifiable information about the outer world, and never base real-world decisions — medical, financial, relational — on it. **Living people:** in these states, do not attempt to visit, observe or influence living people; consent and restraint apply here exactly as they do awake. **Grief:** the traditions speak of meetings with departed loved ones. If such an experience comes, receive it as inner consolation and measure it by its fruit — let it give peace, not proof. Deep grief deserves living human support and, where it weighs heavily, professional help. **Sleep and health first:** restful sleep is the foundation of the practice; if practising worsens your sleep, mood or daytime functioning, pause it, and see a doctor if trouble persists. **An honest diary:** describe in plain words what happened, mark separately what you felt and what you assumed, and review weekly. The practice is not therapy and cures no illness; it is a school of calm attention."
+      }
+    },
+    {
+      "id": "apb-idozito-elalvas",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Elalvás-gyakorlat — lazító visszaszámlálás",
+        "en": "Falling-Asleep Practice — Relaxing Countdown"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Feküdj le kényelmesen, csukott szemmel, a kezed pihenjen. Lélegezz lassan, kényelmesen, erőltetés nélkül, és kezdj némán visszaszámolni száztól — kilégzésenként egy szám. A számolásnak csak mellékszerep jut; a hangsúly mindvégig a puhuláson van: minden kilégzéssel engedd nehezebbé válni az arcot, a vállat, a hasat, a lábakat. Elveszett a szám? Kezdd újra száztól — nem számít. Amikor már a számolás is erőfeszítés, ejtsd el, és pihenj puha, szavak nélküli képekben — sodródó felhők, tompa fény. Ha elalszol, a gyakorlat sikerült.",
+          "en": "Lie down comfortably, eyes closed, hands at rest. Breathe slowly, comfortably, without forcing, and begin counting silently backwards from one hundred — one number per exhale. The counting plays only a side role; the emphasis stays on the softening throughout: with every exhale let the face, shoulders, belly and legs grow heavier. Lost the number? Start again from one hundred — it does not matter. When even counting feels like effort, drop it and rest in soft, wordless imagery — drifting clouds, dim light. If you fall asleep, the practice has succeeded."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Egy szám — egy kilégzés",
+              "en": "One number — one exhale"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "A lazulás a lényeg, nem a számolás",
+              "en": "The softening matters, not the counting"
+            }
+          },
+          {
+            "atSecond": 780,
+            "label": {
+              "hu": "Engedd el a számokat is — sodródj",
+              "en": "Let the numbers go too — drift"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "apb-idozito-csend",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Csendesítő gyakorlat félelem idejére",
+        "en": "Settling Practice for Times of Fear"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ez a gyakorlat azokra a pillanatokra készít fel, amikor félelem vagy nyugtalanság támad — gyakorold most, nyugalomban, hogy kéznél legyen, amikor kell. Ülj vagy feküdj le. *Elkapod:* némán megnevezed, ami jelen van — ez most félelem, ez feszültség, ez egy kép. *Elfogadod:* kimondod magadban, hogy ez egy normális hullám, semmi sem romlott el. *Meglazítod:* négy ütemre belélegzel, hatra kilélegzel — a légzés maradjon puha és kényelmes, sose erőltesd; ha megszédülsz vagy kellemetlen, térj vissza a természetes légzéshez —; elpuhítod az állkapcsot, a vállat, a hasat. *Szelíden fogadod:* a mellkasodra teszed a tenyered, és meleg, baráti figyelemmel tartod önmagad, ahogy egy megijedt gyereket tartanál. Maradj a hosszú kilégzésnél, míg a hullám lecsendesül. Ha az ilyen szorongás a gyakorlaton kívül is gyakran látogat, vidd szakemberhez — az erő, nem vereség.",
+          "en": "This practice prepares you for the moments when fear or unease rises — practise it now, in calm, so it is at hand when needed. Sit or lie down. *Catch it:* silently name what is present — this is fear now, this is tension, this is an image. *Accept it:* tell yourself this is a normal wave, nothing has gone wrong. *Loosen:* breathe in for four counts, out for six — keep the breath soft and comfortable, never forced; if you feel dizzy or uneasy, return to natural breathing —; soften the jaw, the shoulders, the belly. *Meet it kindly:* rest a palm on your chest and hold yourself in warm, friendly attention, as you would hold a frightened child. Stay with the long exhale until the wave settles. If distress like this often visits you outside practice too, take it to a professional — that is strength, not defeat."
+        },
+        "intervals": [
+          {
+            "atSecond": 90,
+            "label": {
+              "hu": "C + A — nevezd meg és engedd ott lenni",
+              "en": "C + A — name it and let it be there"
+            }
+          },
+          {
+            "atSecond": 270,
+            "label": {
+              "hu": "L — hosszú kilégzés, puha váll",
+              "en": "L — long exhale, soft shoulders"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "M — meleg figyelem önmagad felé",
+              "en": "M — warm attention toward yourself"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "apb-ellenorzo",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Heti alapozó lista",
+        "en": "Weekly Foundations Checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Rögzített, kíméletes lefekvési idő — az alvásom védve van",
+              "en": "A fixed, gentle bedtime — my sleep is protected"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Álomnapló és toll karnyújtásnyira az ágytól",
+              "en": "Dream journal and pen within reach of the bed"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Ébredéskor mozdulatlan maradok, és azonnal lejegyzem az álomfoszlányokat",
+              "en": "On waking I stay still and note dream fragments at once"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Napközben többször nyugodtan megkérdezem: álmodom-e most? — és tényleg megvizsgálom",
+              "en": "Several times a day I calmly ask: am I dreaming now? — and genuinely check"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Este 10–15 perc lazítás (elalvás-gyakorlat), képernyő nélkül",
+              "en": "In the evening, 10–15 minutes of relaxation (falling-asleep practice), no screens"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Egy nap gyakorlás, egy nap pihenés — erőltetés nélkül",
+              "en": "One day of practice, one day of rest — no forcing"
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Heti őszinte átnézés: pihentet-e az alvásom? Ha nem, szüneteltetem a gyakorlatot",
+              "en": "Weekly honest review: is my sleep restful? If not, I pause the practice"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "apb-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A kezdő felfedező aspektusai",
+        "en": "Aspects of the Beginning Explorer"
+      },
+      "aspektusPack": [
+        {
+          "key": "apb-asp-turelmetlenseg",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Türelmetlenség — eredményhajszolás, amely megfeszít és épp a célt teszi elérhetetlenné",
+            "en": "Impatience — chasing results until tension makes the very goal unreachable"
+          }
+        },
+        {
+          "key": "apb-asp-riadt-kepzelet",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Riadt képzelet — a félelem, amely rémképeket fest, majd bizonyítéknak veszi őket",
+            "en": "Fear-fed imagination — dread that paints frightening images, then takes them for proof"
+          }
+        },
+        {
+          "key": "apb-asp-onaltatas",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Önáltatás — a belső élmények kinyilatkoztatásként, külső bizonyítékként való kezelése",
+            "en": "Self-deception — treating inner experiences as revelation or outer proof"
+          }
+        },
+        {
+          "key": "apb-asp-alvasrongalas",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Alvásrongálás — az egészséges alvás feláldozása a gyakorlat kedvéért",
+            "en": "Sleep-wrecking — sacrificing healthy sleep for the sake of the practice"
+          }
+        },
+        {
+          "key": "apb-asp-nyugodt-kivancsisag",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Nyugodt kíváncsiság — ítélkezés nélküli, nyitott figyelem a szokatlan felé",
+            "en": "Calm curiosity — open, non-judging attention toward the unfamiliar"
+          }
+        },
+        {
+          "key": "apb-asp-jozan-itelet",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Józan ítélet — az élmény és az értelmezés szétválasztása, őszinte mérlegelés",
+            "en": "Sober discernment — separating experience from interpretation, weighing honestly"
+          }
+        },
+        {
+          "key": "apb-asp-szelid-kitartas",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Szelíd kitartás — egyenletes, erőltetés nélküli hűség a gyakorlathoz",
+            "en": "Gentle persistence — steady, unforced faithfulness to the practice"
+          }
+        },
+        {
+          "key": "apb-asp-ongondoskodas",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Öngondoskodó szelídség — türelem és kedvesség önmagam felé, a pihenést is beleértve",
+            "en": "Self-kind care — patience and kindness toward myself, rest included"
+          }
+        }
+      ]
+    },
+    {
+      "id": "apb-naplo",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Éjszakai gyakorlat — őszinte napló",
+        "en": "Night Practice — Honest Journal"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["apb-asp-jozan-itelet"],
+        "prompts": {
+          "hu": "Az éjszakai gyakorlat egyszerű szavakkal: mit csináltam, mi történt, mit éreztem a testemben? — Megjelent-e félelem vagy nyugtalanság, és hogyan mentek a CALM lépései? — Melyik lencsén át olvasom ma az élményt, és mit mondana róla a másik lencse? — A gyümölcsök: milyen a héten az álomemlékezetem, a pihentségem, a nappali nyugalmam? — Egy apró dolog, amit legközelebb másképp teszek.",
+          "en": "Tonight's practice in plain words: what did I do, what happened, what did I feel in my body? — Did fear or unease appear, and how did the CALM steps go? — Through which lens am I reading the experience today, and what would the other lens say about it? — The fruits: how are my dream recall, my restfulness and my daytime calm this week? — One small thing I will do differently next time."
+        }
+      }
+    },
+    {
+      "id": "apb-kviz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Józanság-próba",
+        "en": "Discernment Self-Check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mit ígérhet őszintén ez a gyakorlat?",
+              "en": "What can this practice honestly promise?"
+            },
+            "options": {
+              "hu": [
+                "Hogy heteken belül igazolhatóan a testemen kívül utazom",
+                "Hogy másképp elérhetetlen, valós információkat gyűjthetek a világról",
+                "Gyakorolható belső gyümölcsöket — jobb álomemlékezet, több éberség, mélyebb nyugalom —, külső garancia nélkül",
+                "Hogy nehéz időszakban kiváltja a terápiát vagy az orvosi ellátást"
+              ],
+              "en": [
+                "That within weeks I will verifiably travel outside my body",
+                "That I can gather otherwise unreachable real-world information",
+                "Trainable inner fruits — better dream recall, more lucidity, deeper calm — with no outer guarantee",
+                "That in hard times it can replace therapy or medical care"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Hogyan érdemes az alvási paralízist érteni?",
+              "en": "How is sleep paralysis best understood?"
+            },
+            "options": {
+              "hu": [
+                "Ismert, ártalmatlan, átmeneti alvásjelenségként — és ha az alvászavar tartós, orvoshoz fordulok",
+                "Bizonyítékként arra, hogy idegen jelenlét lépett a szobába",
+                "Veszélyjelzésként, hogy a gyakorlat kárt tett a testemben",
+                "Olyan élményként, amelyet minden éjjel ki kell erőltetni, bármibe kerül a pihenésem"
+              ],
+              "en": [
+                "As a known, harmless, transient sleep phenomenon — and if sleep trouble persists, I see a doctor",
+                "As evidence that a foreign presence has entered the room",
+                "As a danger sign that the practice has damaged my body",
+                "As an experience to force every night, whatever it costs my rest"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Kinek nem való az alvásmegszakításra épülő (ébredéses) technika?",
+              "en": "Who should leave the interrupted-sleep (wake-based) techniques alone?"
+            },
+            "options": {
+              "hu": [
+                "Senkinek — a megszakított alvás mindenkinek ártalmatlan",
+                "Annak, aki alvászavarral vagy epilepsziával él, és annak, akinek másnap kipihenten kell vezetnie vagy dolgoznia",
+                "Csak annak, aki nem szereti az ébresztőórákat",
+                "Csak a teljesen kezdőknek — később már semmilyen kockázata nincs"
+              ],
+              "en": [
+                "Nobody — broken sleep is harmless for everyone",
+                "Anyone living with a sleep disorder or epilepsy, and anyone who must drive or work rested the next day",
+                "Only people who dislike alarm clocks",
+                "Only complete beginners — later it carries no risk at all"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q4",
+            "prompt": {
+              "hu": "Élénk éjszakai élményben egy távoli barátnál jártál. Mi az őszinte következő lépés?",
+              "en": "In a vivid night experience you visited a distant friend. What is the honest next step?"
+            },
+            "options": {
+              "hu": [
+                "Felhívom, és bizonygatom, hogy a látogatás valóban megtörtént",
+                "Döntést alapozok arra, amit ott láttam",
+                "Belső élményként naplózom, feljegyzem a gyümölcseit, és nem vonok le való életbeli következtetést",
+                "Addig ismétlem a látogatást, míg befolyásolni tudom, mit tesz"
+              ],
+              "en": [
+                "Call them and insist the visit really happened",
+                "Base a decision on what I saw there",
+                "Journal it as inner experience, note its fruits, and draw no real-world conclusions",
+                "Repeat the visit until I can influence what they do"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    }
+  ]
+}

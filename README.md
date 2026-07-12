@@ -36,6 +36,11 @@ Install: copy a module's **raw** link below and paste it in the app
 | Joe Dispenza — Becoming Supernatural | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.supernatural/module.json` |
 | Master Arion's Answers — Living Questions of the Bardon Path | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/arion.answers/module.json` |
 | Develop Your Thinking — the School of Thought (Evolve Your Brain) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/thinking.school/module.json` |
+| Astral Projection — Foundations and the Map | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.basics/module.json` |
+| The Indirect Path — Waking Inside the Dream | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.indirect/module.json` |
+| The Dawn Gate — a staged waking practice | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.sid/module.json` |
+| The Direct Method — Crossing the Threshold Awake | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.direct/module.json` |
+| Astral Explorations — Guides, Jumps and Memory | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.explorations/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 

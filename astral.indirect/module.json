@@ -1,0 +1,410 @@
+{
+  "formatVersion": 1,
+  "id": "astral.indirect",
+  "version": 1,
+  "nevek": {
+    "hu": "Az indirekt út — álomból ébredni",
+    "en": "The Indirect Path — Waking Inside the Dream"
+  },
+  "description": {
+    "hu": "Az álmokon át vezető szelíd út: valóság-ellenőrzések, álomnapló-fegyelem, esti lecsendesedés, alváshigiénia — és az éber álom elmélyítése. A hagyomány saját belső térképe szerint tanítva, józan kerettel: a gyümölcs az álomfelidézés, a tudatosság és a pihentető alvás.",
+    "en": "The gentle route through dreams: reality checks, dream-journal discipline, evening settling, sleep hygiene — and deepening the lucid state. Taught as the tradition's own inner map, with a sober frame: the fruits are dream recall, awareness and restful sleep."
+  },
+  "items": [
+    {
+      "id": "api-bevezetes",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Miért az álmokon át?",
+        "en": "Why through dreams?"
+      },
+      "text": {
+        "hu": "Az úgynevezett *indirekt út* nem különleges technikákkal kezdődik, hanem valami egészen hétköznapival: az álmaidra fordított figyelemmel. Minden éjjel több álmot élsz át — akkor is, ha reggelre semmi sem marad belőlük. A hagyomány úgy tartja, hogy az álom kapu: ha az álom *közben* ráébredsz, hogy álmodsz, az álom éber álommá válik, és onnan a belső tapasztalás tovább mélyíthető — a hagyomány nyelvén ez a „kilépés” előszobája.\n\nUgyanerre a jelenségre létezik egy másik, józan olvasat is: az éber álom és a hipnagóg (elalvás körüli) képvilág *valóságos, jól dokumentált tudatállapotok* — az alváskutatás is ismeri őket. Hogy „utazás”-e, az a hagyomány saját értelmezése; ezt a modul nem állítja tényként, és nem is ígér semmilyen élményt.\n\nAmit mérni érdemes, az a **belső gyümölcs**: javul-e az álomfelidézésed, nő-e az éber jelenléted napközben, pihentetőbb-e az alvásod, mélyül-e a belső tapasztalásod. Ha ezek gyarapodnak, a gyakorlat működik — függetlenül attól, melyik olvasatot tartod közelebb magadhoz.",
+        "en": "The so-called *indirect path* does not begin with exotic techniques but with something entirely ordinary: attention paid to your dreams. You live through several dreams every night — even when nothing remains of them by morning. The tradition holds that the dream is a doorway: if you realize *during* the dream that you are dreaming, it becomes a lucid dream, and from there the inner experience can be deepened further — in the tradition's language, the antechamber of the „exit”.\n\nThere is also a second, sober reading of the very same phenomenon: lucid dreams and hypnagogic (sleep-onset) imagery are *real, well-documented states of consciousness*, familiar to sleep research as well. Whether they constitute „travel” is the tradition's own interpretation; this module does not assert it as fact and promises no particular experience.\n\nWhat is worth measuring is the **inner fruit**: does your dream recall improve, does your waking presence grow, is your sleep more restful, does your inner experience deepen? If these increase, the practice is working — whichever reading you hold closer."
+      }
+    },
+    {
+      "id": "api-terkep",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A térkép: álom, éberség, mélyülés",
+        "en": "The map: dream, lucidity, deepening"
+      },
+      "text": {
+        "hu": "A közönséges álmot úgy nézed, mint egy filmet: sodor magával, és nem kérdezel rá. Az éber álom abban a pillanatban születik, amikor a felismerés átüt: *ez álom*. Ettől kezdve nem néző vagy, hanem tudatos résztvevő. A hagyomány szerint innen a tapasztalás tovább vihető egy teljesebb belső élménybe; a józan lencse szerint egy különösen tiszta tudatállapotban vagy. Mindkét olvasatban ugyanaz a munka vezet ide.\n\nA kulcs a **mélytudati beágyazás**. A felismerés nem a nappali, elemző eszeden múlik — alvás közben az nem elérhető. A mélyebb elme viszont arra figyel, amivel érzelmileg és ismétlődően foglalkozol. Ezért nem elég este egyszer kimondani, hogy éber akarsz lenni: napközben kell újra és újra, *átérzett* pillanatokkal jelezned, hogy ez fontos neked. A szokás, amit ébren begyakorolsz, előbb-utóbb megjelenik az álmaidban is.\n\nSzámolj a **belső gátakkal** is: régi félelmek, öngyengítő hiedelmek („nekem úgysem megy”, „türelmetlen vagyok”) csendben dolgoznak a háttérben. Nem kell harcolni velük — elég észrevenni és naplóba írni őket, és hagyni, hogy a rendszeres, szelíd gyakorlás lassan átírja a mintát. Ha súlyos, régi seb kerül elő, azt ne itt dolgozd fel: az szakember dolga. Ez a gyakorlat *nem terápia*.",
+        "en": "You watch an ordinary dream the way you watch a film: it carries you along and you never question it. The lucid dream is born the moment recognition breaks through: *this is a dream*. From then on you are no longer a spectator but a conscious participant. In the tradition's view the experience can be carried further into a fuller inner event; through the sober lens you are in an unusually clear state of consciousness. In both readings, the same work leads here.\n\nThe key is **embedding in the deeper mind**. The recognition does not depend on your daytime analytical intellect — that is offline while you sleep. The deeper mind, however, attends to what you dwell on with feeling and repetition. So it is not enough to say once at night that you wish to be lucid: throughout the day, again and again, with *felt* moments, you signal that this matters to you. A habit rehearsed while awake sooner or later appears in your dreams.\n\nAccount for **inner blocks** too: old fears and self-weakening beliefs („I never manage these things”, „I am too impatient”) work quietly in the background. There is no need to fight them — noticing them and writing them into your journal is enough, letting steady, gentle practice slowly rewrite the pattern. If a heavy old wound surfaces, do not process it here: that belongs to a professional. This practice is *not therapy*."
+      }
+    },
+    {
+      "id": "api-modszer",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A módszer lépésről lépésre",
+        "en": "The method step by step"
+      },
+      "text": {
+        "hu": "**1. Valóság-ellenőrzés — érzéssel.** Naponta többször állj meg egy pillanatra. Nézd meg a kezed, számold meg az ujjaidat, és kérdezd meg komolyan: *álmodom most?* Told meg a folytonosság-kérdéssel is: *összefügg-e az elmúlt órám — honnan jöttem, mit csináltam?* Ébren a válasz magától értetődő; álomban a kéz gyakran furcsa (elmosódik, több ujj van rajta), és az előzmények nem állnak össze — ez a törés ébreszt rá, hogy álmodsz. Tartalék-próba: fogd be az orrod, és próbálj lélegezni — ébren nem megy, álomban mintha mégis áramolna a levegő. A lényeg: **ne gépiesen** csináld. Minden ellenőrzéshez köss egy lélegzetnyi valódi jelenlétet — nézz körül, érezd, hol vagy, akár egy csepp hálát is. Az átérzett pillanatot jegyzi meg a mélyebb elme, az üres rutint nem. Külön akkor ellenőrizz, ha valami *furcsa* történik — álomban éppen a furcsaságok tűnnek természetesnek.\n\n**2. Álomnapló — az app Álomnaplójába.** Ébredés után maradj egy percig mozdulatlan, csukott szemmel. Először az *érzést* keresd, amivel ébredtél — a hangulat tovább őrzi az álmot, mint a képek. Aztán írj le bármit az app Álomnaplójába: egy szót, egy foszlányt, akár csak azt, hogy „semmire sem emlékszem”. Maga a mozdulat tanítja a felidézést. Hetek alatt kirajzolódnak a visszatérő helyszíneid és alakjaid — ezek lesznek a személyes jelzőid: elalvás előtt döntsd el, hogy ha legközelebb ott jársz, ellenőrzöl.\n\n**3. Este: lecsendesedés.** Az esti időzített gyakorlatban szándékot ültetsz el, elképzelt tájba merülsz, és a kilégzésekre lassan visszaszámolsz — nem a számolás a lényeg, hanem az elengedés. Ha közben elalszol: pontosan ez a dolga.\n\n**4. Alap: az alváshigiénia.** Kialvatlanul nincs miből ébernek lenni. A lista külön tételben.",
+        "en": "**1. Reality checks — with feeling.** Several times a day, stop for a moment. Look at your hands, count your fingers, and ask in earnest: *am I dreaming right now?* Add the continuity question: *does my last hour hold together — where did I come from, what was I doing?* Awake, the answer is self-evident; in a dream the hand is often strange (blurred, extra fingers) and the backstory does not add up — that break is what wakes you to the fact you are dreaming. Backup test: pinch your nose shut and try to breathe — awake it is impossible, in a dream air somehow seems to flow. The essential point: **never do it mechanically**. Tie each check to a breath of genuine presence — look around, feel where you are, even a drop of gratitude. The deeper mind records the felt moment, not the empty routine. Check especially when something *odd* happens — in dreams it is precisely the oddities that feel natural.\n\n**2. Dream journal — into the app's Dream Journal.** After waking, stay still for a minute with eyes closed. First reach for the *feeling* you woke with — the mood preserves the dream longer than the images do. Then write anything into the app's Dream Journal: one word, one fragment, even just „I remember nothing”. The gesture itself trains recall. Over weeks your recurring places and figures emerge — these become your personal cues: before sleep, decide that next time you find yourself there, you will check.\n\n**3. Evening: settling down.** In the evening timed practice you plant an intention, sink into an imagined landscape, and count slowly downward on the exhalations — the point is not the counting but the letting go. If you fall asleep during it: that is exactly its job.\n\n**4. Foundation: sleep hygiene.** Sleep-deprived, there is nothing to be lucid with. The list is a separate item."
+      }
+    },
+    {
+      "id": "api-melyites",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Ha felébredsz az álomban",
+        "en": "When you wake inside the dream"
+      },
+      "text": {
+        "hu": "**Először mindig stabilizálj.** A friss éberség törékeny: vagy visszasodor az álom, vagy felébredsz. Ne rohanj sehová. Állj meg, nézd meg a kezed, dörzsöld össze a tenyered, nézz körül lassan, és nyugodtan mondd ki magadban a szándékot: tisztaságot, éberséget kérsz. Csak akkor lépj tovább, amikor a jelenléted olyan szilárd, mint ébren.\n\n**Aztán választhatsz.** Az éber álom önmagában is teljes értékű terep: kreativitás, belső kérdések, szelíd önismereti munka. Nem kötelező „továbbmenni”. Ha a hagyomány útját követve mélyíteni szeretnéd, három klasszikus fogás létezik — mindhárom a *határozott, nyugodt szándékon* múlik: hagyhatod a jelenetet elhalványulni, miközben szilárdan tartod, hová szeretnél érkezni; átléphetsz egy **kapun** — az álombeli tájban talált ajtón vagy átjárón —, tiszta, előre megfogalmazott szándékkal arról, hová vezessen; vagy a figyelmedet az ágyban pihenő testedre fordíthatod, és onnan, ismerős pontról folytathatod. Bármelyiket választod, józanul kezeld: bárhogy is értelmezed, **belső tapasztalás** marad.\n\n**Hibakeresés.** Ha hetekig nincs éber álmod, semmi sem romlott el — a tempó azon múlik, milyen viszonyban voltál eddig az álmaiddal. Akinek évek óta van álomnaplója, gyorsabban jut el ide; aki most kezd figyelni, annak hónapok is kellhetnek, és a gyakoriság embere válogatja. Ne görcsölj rá erre az egy útra: a napi ellenőrzések és a napló akkor is dolgoznak, ha látványos élmény még nincs. A frusztráció jelzés — olyankor lazíts a szorításon, ne fokozd.",
+        "en": "**Always stabilize first.** Fresh lucidity is fragile: either the dream sweeps you back or you wake up. Do not rush anywhere. Stop, look at your hands, rub your palms together, look around slowly, and calmly state your intention inwardly: you ask for clarity and wakefulness. Move on only when your presence feels as solid as it does awake.\n\n**Then you may choose.** The lucid dream is a complete arena in itself: creativity, inner questions, gentle self-knowledge work. There is no obligation to „go further”. If, following the tradition's route, you wish to deepen it, three classic moves exist — all three rest on *firm, calm intention*: you may let the scene fade while holding steadily where you wish to arrive; you may step through a **gateway** — a door or passage found in the dream landscape — with a clear, pre-formed intention of where it should lead; or you may turn your attention to your body resting in bed and continue from that familiar point. Whichever you choose, hold it soberly: however you interpret it, it remains an **inner experience**.\n\n**Troubleshooting.** If weeks pass without a lucid dream, nothing is broken — the pace depends on the relationship you have had with your dreams so far. Someone with years of dream journaling arrives faster; someone only now beginning to pay attention may need months, and frequency varies from person to person. Do not clench around this one route: the daily checks and the journal keep working even before any striking experience. Frustration is a signal — loosen your grip then, do not tighten it."
+      }
+    },
+    {
+      "id": "api-etika",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Biztonság, józanság, etika",
+        "en": "Safety, sobriety, ethics"
+      },
+      "text": {
+        "hu": "**Alvási paralízis.** Elalvás vagy ébredés határán előfordulhat, hogy percekig nem tudsz mozdulni, esetleg nyomást vagy képeket észlelsz. Ez orvosilag jól ismert, **ártalmatlan és átmeneti** alvásjelenség: a REM-alvás természetes izomlazulása ér át néhány pillanatra az ébrenlétbe. Ha megtörténik: lélegezz lassan, ne küzdj, mozdíts meg egy ujjat vagy lábujjat — magától elmúlik. Ha alvászavarod tartós vagy szorongást okoz, fordulj orvoshoz.\n\n**Az alvás szent.** Ennek a modulnak a gyakorlatai nem kívánják megtörni az alvásodat. Ha máshol megszakított alvásra épülő fogásokkal találkozol (hajnali ébredés, visszaalvás), tudd: az ilyesmi **nem való** annak, akinek alvászavara vagy epilepsziája van, aki gyógyszert szed alvásra, vagy akinek másnap kipihenten kell vezetnie, dolgoznia. Az egészséges alvás mindig előbbre való bármilyen gyakorlatnál. Ez nem orvosi tanács — kétség esetén kérdezd meg az orvosodat.\n\n**Szelídség.** Ha az álmaidban félelem, gyász vagy régi fájdalom bukkan fel, bánj magaddal kíméletesen. Nyomasztó, tolakodó élményeknél tarts szünetet, és ha a teher nem enged, kérj szakszerű segítséget. Ez a gyakorlat önismereti munka, **nem terápia** és nem annak pótléka.\n\n**Józan határok.** Az álomban vagy éber álomban tapasztaltak *belső képek*: ne kezeld őket a külvilágról szerzett, ellenőrizhető értesülésként, és soha ne alapozz rájuk valós döntést — egészségit, anyagit, emberit. Élő személyekkel való „kapcsolatfelvételt” vagy befolyásolást ne célozz: a munka terepe a saját belső világod. A mérce mindvégig ugyanaz: pihentebb, éberebb, önmagát tisztábban látó ember válik-e belőled.",
+        "en": "**Sleep paralysis.** On the edge of falling asleep or waking, you may find yourself unable to move for a minute or two, perhaps sensing pressure or imagery. This is a medically well-known, **harmless and transient** sleep phenomenon: the natural muscle relaxation of REM sleep briefly overlapping wakefulness. If it happens: breathe slowly, do not struggle, wiggle a finger or a toe — it passes by itself. If sleep problems persist or cause anxiety, see a doctor.\n\n**Sleep is sacred.** The practices of this module do not ask you to break your sleep. If elsewhere you meet techniques built on interrupted sleep (early waking, returning to bed), know this: such things are **not for** anyone with a sleep disorder or epilepsy, anyone on sleep medication, or anyone who must drive or work rested the next day. Healthy sleep always outranks any practice. This is not medical advice — when in doubt, ask your doctor.\n\n**Gentleness.** If fear, grief or old pain surfaces in your dreams, treat yourself kindly. With distressing or intrusive experiences, pause the practice, and if the weight does not lift, seek professional help. This practice is self-knowledge work, **not therapy** and no substitute for it.\n\n**Sober boundaries.** What you experience in dreams or lucid dreams consists of *inner images*: do not treat them as verifiable information about the outer world, and never base a real-world decision on them — medical, financial or personal. Do not aim at „contacting” or influencing living people: the field of this work is your own inner world. The measure remains the same throughout: are you becoming a more rested, more awake person who sees themselves more clearly?"
+      }
+    },
+    {
+      "id": "api-timer-esti",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Esti lecsendesedés — 10 perc",
+        "en": "Evening settling — 10 minutes"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Már ágyban, lekapcsolt fények mellett indítsd. Feküdj kényelmesen, hunyd le a szemed. Először fogalmazd meg csendben, egyszerűen a szándékod: *ma éjjel észreveszem, hogy álmodom.* Ne erőltesd — ültesd el, mint egy magot. Aztán képzelj el egy nyugodt tájat, és lépj bele minden érzékeddel: a talaj a lábad alatt, a hangok, a levegő a bőrödön. Közben minden kilégzésre számolj lassan visszafelé 100-tól, és minden számmal engedd nehezebbé, puhábbá a tested. Nem baj, ha elveszted a számolást — a cél nem a nulla, hanem az elengedés. A légzést soha ne erőltesd: maradjon puha és természetes, és ha megszédülnél vagy kellemetlen lenne, hagyd el a számolást, lélegezz egyszerűen tovább. Ha elalszol közben, a gyakorlat elvégezte a dolgát.",
+          "en": "Start it already in bed, lights off. Lie comfortably, close your eyes. First state your intention silently and simply: *tonight I will notice that I am dreaming.* Do not force it — plant it like a seed. Then imagine a calm landscape and step into it with every sense: the ground under your feet, the sounds, the air on your skin. Meanwhile, on each exhalation, count slowly backward from 100, and with each number let your body grow heavier, softer. Losing count is fine — the goal is not zero but letting go. Never force the breath: keep it soft and natural, and if you feel dizzy or uncomfortable, drop the counting and simply breathe. If you fall asleep during it, the practice has done its job."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "A szándék elültetve — merülj a tájba",
+              "en": "Intention planted — sink into the landscape"
+            }
+          },
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "Számolás a kilégzésekre, egyre lassabban",
+              "en": "Counting on the exhalations, ever slower"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "Engedd el a számokat is — csak pihenj",
+              "en": "Let go of the numbers too — just rest"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "api-timer-horgony",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Valóság-ellenőrző horgony — 5 perc",
+        "en": "Reality-check anchor — 5 minutes"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Napközbeni gyakorlat: itt tanulod meg *átérzetten* csinálni az ellenőrzést, hogy aztán napközben már egy-egy lélegzetnyi idő elég legyen. Ülj vagy állj nyugodtan. Emeld fel a kezed, nézd meg figyelmesen, számold meg az ujjaidat. Kérdezd meg komolyan: *álmodom most?* Ellenőrizd a folytonosságot is: honnan jöttél, mit csináltál egy órája — összefügg? Aztán tedd hozzá, ami a legfontosabb: nézz körül, érezd a helyet, a testedet, egy pillanatnyi hálát azért, hogy itt vagy. Ismételd lassan, többször, mindig érzéssel — a mélyebb elme az átélt pillanatot jegyzi meg. Zárásként döntsd el, mikor ellenőrzöl ma legközelebb: valami furcsánál, egy ajtón átlépve, a telefonod felvételekor.",
+          "en": "A daytime practice: here you learn to do the check *with feeling*, so that later a single breath's pause is enough during the day. Sit or stand calmly. Raise your hand, look at it attentively, count your fingers. Ask in earnest: *am I dreaming right now?* Check continuity too: where did you come from, what were you doing an hour ago — does it hold together? Then add what matters most: look around, feel the place, your body, a moment of gratitude for being here. Repeat slowly, several times, always with feeling — the deeper mind records the lived moment. To close, decide when you will next check today: at something odd, stepping through a door, picking up your phone."
+        },
+        "intervals": [
+          {
+            "atSecond": 60,
+            "label": {
+              "hu": "Kéz, ujjak, a kérdés — lassan",
+              "en": "Hand, fingers, the question — slowly"
+            }
+          },
+          {
+            "atSecond": 180,
+            "label": {
+              "hu": "Jelenlét és hála — ez rögzíti a szokást",
+              "en": "Presence and gratitude — this sets the habit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "api-lista",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Napi és esti fegyelem",
+        "en": "Daily and evening discipline"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "api-c1",
+            "nevek": {
+              "hu": "Rendszeres, elegendő alvás — ma is időben fekszem le",
+              "en": "Regular, sufficient sleep — I go to bed on time today"
+            }
+          },
+          {
+            "key": "api-c2",
+            "nevek": {
+              "hu": "Lefekvés előtt egy órával tompított, meleg fény, kevesebb képernyő",
+              "en": "Dimmed, warm light and less screen time in the hour before bed"
+            }
+          },
+          {
+            "key": "api-c3",
+            "nevek": {
+              "hu": "Este nincs alkohol és nehéz étel",
+              "en": "No alcohol or heavy food in the evening"
+            }
+          },
+          {
+            "key": "api-c4",
+            "nevek": {
+              "hu": "Csendes, sötét hálószoba — zavaró fények, hangok kizárva",
+              "en": "Quiet, dark bedroom — disturbing lights and sounds shut out"
+            }
+          },
+          {
+            "key": "api-c5",
+            "nevek": {
+              "hu": "Reggel mozdulatlanul időzöm egy percet, és az app Álomnaplójába írok — akár egyetlen szót",
+              "en": "In the morning I linger still for a minute and write into the app's Dream Journal — even a single word"
+            }
+          },
+          {
+            "key": "api-c6",
+            "nevek": {
+              "hu": "Napközben többször átérzett valóság-ellenőrzést végzek",
+              "en": "Several felt reality checks through the day"
+            }
+          },
+          {
+            "key": "api-c7",
+            "nevek": {
+              "hu": "Este elvégzem a lecsendesedő meditációt, elültetett szándékkal",
+              "en": "In the evening I do the settling meditation with the intention planted"
+            }
+          },
+          {
+            "key": "api-c8",
+            "nevek": {
+              "hu": "Hetente őszintén áttekintem: mit mutatnak a belső gyümölcsök?",
+              "en": "Weekly I review honestly: what do the inner fruits show?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "api-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "Az álommunka aspektusai",
+        "en": "Aspects of dreamwork"
+      },
+      "aspektusPack": [
+        {
+          "key": "api-asp-alomfigyelem",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Álomfigyelem — az álmaimat megbecsülöm és lejegyzem",
+            "en": "Dream attentiveness — I honour and record my dreams"
+          }
+        },
+        {
+          "key": "api-asp-alomelhanyagolas",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Álom-elhanyagolás — reggelre elhessegetem, ami éjjel történt",
+            "en": "Dream neglect — by morning I brush aside what happened at night"
+          }
+        },
+        {
+          "key": "api-asp-eber-jelenlet",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Éber jelenlét — napközben is észreveszem, hol vagyok és mit teszek",
+            "en": "Wakeful presence — even by day I notice where I am and what I do"
+          }
+        },
+        {
+          "key": "api-asp-szetszort-automatizmus",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Szétszórt automatizmus — gépiesen sodródom a napjaimon át",
+            "en": "Scattered autopilot — I drift through my days mechanically"
+          }
+        },
+        {
+          "key": "api-asp-turelmes-kovetkezetesseg",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Türelmes következetesség — kis lépésekkel, naponta építkezem",
+            "en": "Patient consistency — I build daily, in small steps"
+          }
+        },
+        {
+          "key": "api-asp-turelmetlen-eroltetes",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Türelmetlen erőltetés — azonnali élményt követelek, és frusztrálódom",
+            "en": "Impatient forcing — I demand instant experiences and grow frustrated"
+          }
+        },
+        {
+          "key": "api-asp-jozan-onvizsgalat",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Józan önvizsgálat — a belső élményeimet őszintén, mérték szerint ítélem meg",
+            "en": "Sober self-review — I judge my inner experiences honestly, by their measure"
+          }
+        },
+        {
+          "key": "api-asp-vagyvezerelt-onamitas",
+          "elem": "eter",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Vágyvezérelt önámítás — azt látom bele az élménybe, amit látni akarok",
+            "en": "Wishful self-deception — I read into the experience what I want to see"
+          }
+        }
+      ]
+    },
+    {
+      "id": "api-naplo",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Heti őszinte áttekintés",
+        "en": "Weekly honest review"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["api-asp-jozan-onvizsgalat"],
+        "prompts": {
+          "hu": "Hány reggel írtam az Álomnaplóba ezen a héten, és változott-e, mennyit idézek fel? — Hányszor végeztem átérzett valóság-ellenőrzést, és volt-e pillanat, amikor tényleg elbizonytalanodtam a válaszban? — Milyen visszatérő helyszín vagy alak rajzolódik ki az álmaimban? — Pihentetőbb-e az alvásom, mint a gyakorlat kezdete előtt? — Volt-e olyan élményem, amit hajlamos lennék többnek látni, mint ami — és mit mond erről a józan önvizsgálat? — Mit igazít ez a jövő hét gyakorlásán?",
+          "en": "How many mornings did I write in the Dream Journal this week, and has the amount I recall changed? — How many felt reality checks did I do, and was there a moment when the answer genuinely wavered? — What recurring place or figure is emerging in my dreams? — Is my sleep more restful than before I began? — Was there an experience I am tempted to see as more than it was — and what does sober self-review say about it? — What does this adjust in next week's practice?"
+        }
+      }
+    },
+    {
+      "id": "api-kviz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Józanság-próba",
+        "en": "Discernment check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mit állít ez a modul az éber álomról és a hagyomány „kilépés”-tapasztalatáról?",
+              "en": "What does this module claim about lucid dreams and the tradition's „exit” experience?"
+            },
+            "options": {
+              "hu": [
+                "Bizonyított tény, hogy ilyenkor a tudat elhagyja a testet",
+                "Aki elég kitartó, annak garantáltan része lesz benne",
+                "Valós belső tudatállapotok; az „utazás” a hagyomány saját értelmezése, a mérce pedig a belső gyümölcs",
+                "Csupán értéktelen képzelgés, amivel kár foglalkozni"
+              ],
+              "en": [
+                "It is proven fact that consciousness leaves the body in these states",
+                "Anyone persistent enough is guaranteed the experience",
+                "They are real inner states of consciousness; „travel” is the tradition's own interpretation, and the measure is the inner fruit",
+                "They are worthless fantasy, not worth any attention"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Ébredés határán percekig nem tudsz mozdulni, és nyomást érzel. Mi a helyes hozzáállás?",
+              "en": "On the edge of waking you cannot move for a minute or two and feel pressure. What is the right attitude?"
+            },
+            "options": {
+              "hu": [
+                "Ez veszélyes állapot — azonnal abba kell hagyni mindenféle gyakorlást",
+                "Ismert, ártalmatlan, átmeneti alvásjelenség: lassú légzés, egy ujj megmozdítása — magától elmúlik; tartós alvászavarral orvoshoz fordulok",
+                "Ez a bizonyíték, hogy a kilépés megtörtént, és bátran tovább kell erőltetni",
+                "Küzdeni kell ellene teljes erővel, amíg meg nem szűnik"
+              ],
+              "en": [
+                "It is a dangerous condition — all practice must stop immediately",
+                "A known, harmless, transient sleep phenomenon: slow breathing, wiggling one finger — it passes by itself; with persistent sleep problems I see a doctor",
+                "It is proof the exit has happened, and I should push harder",
+                "It must be fought with full force until it stops"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Kinek nem valók a megszakított alvásra épülő fogások?",
+              "en": "For whom are interrupted-sleep techniques not suitable?"
+            },
+            "options": {
+              "hu": [
+                "Annak, akinek alvászavara vagy epilepsziája van, gyógyszert szed alvásra, vagy másnap kipihenten kell vezetnie, dolgoznia",
+                "Senkinek sem árthatnak, mindenki nyugodtan kipróbálhatja őket",
+                "Csak a kezdőknek — a haladóknál már nincs kockázat",
+                "Annak, aki túl sokat alszik, mert őt túlságosan felpörgetnék"
+              ],
+              "en": [
+                "Anyone with a sleep disorder or epilepsy, on sleep medication, or who must drive or work rested the next day",
+                "They can harm no one — anyone may safely try them",
+                "Only beginners — for the advanced there is no risk",
+                "People who sleep too much, since it would over-energize them"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q4",
+            "prompt": {
+              "hu": "Éber álmodban úgy tűnt, fontos értesülést kaptál egy élő ismerősödről. Hogyan kezeled?",
+              "en": "In a lucid dream you seemed to receive important information about a living acquaintance. How do you handle it?"
+            },
+            "options": {
+              "hu": [
+                "Azonnal cselekszem a látottak alapján — az ilyen üzenet nem véletlen",
+                "Megpróbálom legközelebb álmomban felkeresni és befolyásolni az illetőt",
+                "Belső képként jegyzem le a naplómba; nem kezelem ellenőrizhető tényként, és nem alapozok rá valós döntést",
+                "Elmondom neki, hogy pontosan tudom, mi történik vele"
+              ],
+              "en": [
+                "I act on it at once — such a message is no accident",
+                "Next time I try to visit and influence that person in my dream",
+                "I record it in my journal as an inner image; I do not treat it as verifiable fact and base no real-world decision on it",
+                "I tell them I know exactly what is happening to them"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    }
+  ]
+}

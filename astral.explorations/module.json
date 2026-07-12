@@ -1,0 +1,463 @@
+{
+  "formatVersion": 1,
+  "id": "astral.explorations",
+  "version": 1,
+  "nevek": {
+    "hu": "Asztrális felfedezések — vezetők, ugrások, emlékezet",
+    "en": "Astral Explorations — Guides, Jumps and Memory"
+  },
+  "description": {
+    "hu": "Mit tegyünk a belső élményen belül? Ez a modul a hagyomány válaszát tanulja becsületes kerettel: találkozás a belső vezetőkkel, a kvantumugrás-vizualizáció, a nem-fizikai emlékezet erősítése és a napi gyakorlat ritmusa. A hagyomány a tudat testen kívüli utazásáról beszél; egy ugyanilyen becsületes párhuzamos lencse élénk hipnagóg és éber-tudatos állapotokat lát. A gyakorlatot belső gyümölcsei mérik — álomfelidézés, tisztaság, pihentség, a belső élmény mélysége —, sohasem szó szerinti tényként állítjuk, és sohasem ígérjük. A benyomások belső élmények: nem ellenőrzött információk, és soha nem alapjai valós döntéseknek. Nem orvosi tanács és nem terápia.",
+    "en": "What do we do within the inner experience? This module studies the tradition's answer with an honest frame: meeting the inner guides, the quantum-jump visualization, strengthening non-physical memory, and the rhythm of daily practice. The tradition speaks of consciousness travelling beyond the body; an equally honest parallel lens sees vivid hypnagogic and lucid states of consciousness. The practice is measured by its inner fruits — dream recall, clarity, restfulness, the depth of inner experience — never asserted as literal fact, never promised. Impressions are inner experience: not verified information, and never a basis for real decisions. Not medical advice and not therapy."
+  },
+  "items": [
+    {
+      "id": "ape-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezetés — a felfedező becsületes állása",
+        "en": "Introduction — the Explorer's Honest Stance"
+      },
+      "text": {
+        "hu": "Az előző lépések a küszöbig vezettek: ellazulás, légzés, az elalvás és ébrenlét határának megismerése. Ez a modul arról szól, ami a küszöbön *túl* következik — mit tegyünk magán a belső élményen belül. Négy témát tanulunk: a belső vezetőkkel való találkozást, a kvantumugrás-vizualizációt, a nem-fizikai emlékezet erősítését és a napi gyakorlat ritmusát.\n\n**Két becsületes lencse.** A hagyomány saját modellje szerint a tudat kilép a fizikai testből, és nem-fizikai tájakat jár be, ahol vezetőkkel találkozhat és tapasztalatokat gyűjthet. Egy ugyanilyen becsületes, párhuzamos lencse ugyanezeket az élményeket a tudat élénk hipnagóg és éber-tudatos (lucid) állapotaiként írja le — rendkívül eleven belső eseményekként, amelyeket az elme a küszöbállapotban teremt. E modul egyik lencsét sem bizonyítja és egyiket sem gúnyolja. Mindkettőben közös, ami számunkra a lényeg: az élmény *belső* természetű, és megérdemli a figyelmes, fegyelmezett művelést.\n\n**Mivel mérünk?** Nem azzal, hogy „tényleg jártál-e odaát” — ezt senki sem tudja bizonyítani, és mi nem is állítjuk. A gyakorlatot a gyümölcsei mérik: javul-e az álomfelidézésed, nő-e az éberséged a küszöbállapotokban, pihentebben ébredsz-e, mélyül-e a belső élményeid gazdagsága, és szelídebb, rendezettebb lettél-e a nappali életedben. Ha ezek a gyümölcsök érnek, a gyakorlat működik — függetlenül attól, melyik lencsén át nézed.\n\n**Egy ígéret, amit nem teszünk.** Semmit sem garantálunk: sem élményt, sem találkozást, sem időpontot. A türelmetlen hajszolás épp azt az ellazult állapotot rombolja, amelyből az élmények születnek. A módszer lassú, és éppen ezért biztonságos.",
+        "en": "The earlier steps led you to the threshold: relaxation, breath, learning the border between falling asleep and staying aware. This module is about what comes *beyond* the threshold — what to do within the inner experience itself. We study four themes: meeting the inner guides, the quantum-jump visualization, strengthening non-physical memory, and the rhythm of daily practice.\n\n**Two honest lenses.** In the tradition's own model, consciousness steps out of the physical body and travels non-physical landscapes, where it may meet guides and gather experience. An equally honest, parallel lens describes the same experiences as vivid hypnagogic and lucid states of consciousness — intensely alive inner events that the mind creates at the threshold state. This module proves neither lens and mocks neither. What both share is what matters to us: the experience is *inner* in nature, and it deserves attentive, disciplined cultivation.\n\n**How do we measure?** Not by whether you „really travelled” — nobody can prove that, and we do not claim it. The practice is measured by its fruits: does your dream recall improve, does your awareness in threshold states grow, do you wake more rested, does the richness of your inner experience deepen, and have you become gentler and more ordered in your daily life? If these fruits ripen, the practice is working — whichever lens you look through.\n\n**One promise we do not make.** We guarantee nothing: no experience, no meeting, no timetable. Impatient chasing destroys the very relaxed state from which the experiences arise. The method is slow, and precisely for that reason it is safe."
+      }
+    },
+    {
+      "id": "ape-md-map",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A térkép — vezetők és a gyakorlat öt szintje",
+        "en": "The Map — Guides and the Five Stages of Practice"
+      },
+      "text": {
+        "hu": "**Kik a vezetők?** A hagyomány úgy tartja, hogy a gyakorlót segítő, nem-fizikai alakok kísérik, akik a belső utazások során személyesen is megjelenhetnek — sokféle képben: ismerős vagy ismeretlen alakként, olykor csupán jelenlétként vagy fényjelenségként —, a „közlés” pedig lehet szó, kép vagy szavak nélküli megértés. A párhuzamos becsületes lencse ugyanezeket az alakokat *belső figuráknak* látja: a saját mélyebb tudásod, emlékeid és értékeid megszemélyesítőinek — ahogyan az álmok is arcokat adnak annak, amit belül hordozunk. Mindkét lencsében igaz: a találkozás élményként valódi és megrendítő lehet, a kapott „tanács” pedig ugyanúgy mérlegelésre szorul, mint bármely saját gondolatod. A vezető szava nem parancs, nem jóslat és nem bizonyíték — hanem anyag az elmélkedéshez.\n\n**Mit várj egy találkozástól?** A hagyomány tapasztalata szerint az ilyen alakok ritkán adnak kész válaszokat; inkább utalásokat, képeket, egy-egy mondatot, amelyen hetekig rágódhatsz. Éppen ez a jó bennük: nem elveszik a munkát, hanem elindítják. Ami kész receptet, sürgetést vagy engedelmességet követel, azt tedd félre — arról a biztonsági fejezet szól.\n\n**A gyakorlat öt szintje.** A mélymeditációs út jellemzően szakaszokban érik, és segít tudni, hol tartasz:\n\n1. **Éber elengedés** — megtanulsz ellazulva ébren maradni, miközben a test elalszik. Eleinte újra és újra elalszol; ez nem kudarc, hanem a szint természete.\n2. **Mélyebbre süllyedés** — már nem alszol el, de „fent lebegsz” és unatkozol. A feladat itt nem a várakozás, hanem az engedés: mélyebbre ereszkedni.\n3. **Küszöbjelenségek** — hangfoszlányok, élénk képek, lebegés- vagy rezgésszerű érzetek jelenhetnek meg. Egyik sem kötelező, egyik sem cél önmagában; jelzések, hogy mélyen jársz.\n4. **Az átlépés** — az élmény önálló jelenetté válik: a hagyomány ezt a testtől való elválásként írja le, a párhuzamos lencse teljesen elevenné vált belső színtérként.\n5. **Nyugodt irányítás** — megtanulod az élményen belül megőrizni a higgadtságodat, stabilizálni a jelenetet és követni az előre eltervezett szándékodat.\n\nA szintek bejárása jellemzően több tucat gyakorlást kér, heteken-hónapokon át. A rendszeresség többet ér, mint a hosszú, ritka nekifutások — de az egészséges alvás mindig előbbre való a gyakorlatnál.",
+        "en": "**Who are the guides?** The tradition holds that helper figures accompany the practitioner, and that during inner journeys they may appear in person — in many guises: a familiar or unfamiliar figure, sometimes a mere presence or a play of light — and the „message” may be a word, an image or a wordless understanding. The parallel honest lens sees these same figures as *inner figures*: personifications of your own deeper knowledge, memories and values — just as dreams give faces to what we carry within. In both lenses one thing is true: the meeting can be real and moving as an experience, and the „counsel” received needs weighing exactly like any thought of your own. A guide's word is not a command, not a prophecy and not evidence — it is material for reflection.\n\n**What to expect from a meeting?** In the tradition's experience such figures rarely hand over finished answers; rather hints, images, a single sentence you may chew on for weeks. That is precisely their value: they do not take the work away, they set it in motion. Whatever demands ready recipes, urgency or obedience, set aside — the safety chapter deals with that.\n\n**The five stages of practice.** The deep-meditation route tends to ripen in stages, and it helps to know where you stand:\n\n1. **Aware letting-go** — you learn to stay aware while relaxed as the body falls asleep. At first you will fall asleep again and again; this is not failure but the nature of the stage.\n2. **Sinking deeper** — you no longer fall asleep, but you „hover” awake and grow bored. The task here is not waiting but allowing: to sink deeper.\n3. **Threshold phenomena** — fragments of sound, vivid images, sensations of floating or vibration may appear. None is obligatory, none is a goal in itself; they are signs that you are deep.\n4. **The crossing** — the experience becomes a scene of its own: the tradition describes this as separating from the body, the parallel lens as an inner stage become fully alive.\n5. **Calm command** — you learn to keep your composure within the experience, to stabilize the scene and to follow the intention you planned in advance.\n\nWalking these stages typically asks for dozens of sessions across weeks and months. Regularity is worth more than long, rare attempts — but healthy sleep always outranks the practice."
+      }
+    },
+    {
+      "id": "ape-md-method",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A módszer — szándék, út, kérdés, visszatérés",
+        "en": "The Method — Intention, Journey, Question, Return"
+      },
+      "text": {
+        "hu": "**1. Szándék.** Minden a szándékkal kezdődik, és annak nem gondolatnak, hanem *érzésnek* kell lennie. Napközben többször idézd fel: „szeretnék találkozni a belső vezetőmmel” — és időzz el annál, milyen *érzés* lenne. A felszínes, fejben mondott kívánság nem ér le a mélyebb rétegekig; az átérzett igen.\n\n**2. A küszöb elérése.** Három út vezet a mély küszöbállapotba: *álomból* — ha egy álomban felismered, hogy álmodsz, és onnan fordulsz a szándékod felé; *ébredésből* — amikor alvásból ébredve, még félálomban, mozdulatlanul újraéleszted a szándékot; és *mélyellazulásból* — hosszú, türelmes meditációval engeded a testet elaludni, míg a figyelem ébren marad. Bármelyik úton jársz, a cél ugyanaz: mélyen ellazult test, csendes, de éber elme.\n\n**3. Stabilizálás — mindig ez az első.** Amikor az élmény jelenetté válik, ne rohanj. Előbb szilárdítsd meg: nézd meg a kezedet, érints meg felületeket, mondj magadban egy magad választotta, rövid, nyugodt kulcsmondatot, amely élesebb, tisztább figyelmet kér, és távolodj el a kiindulóponttól. Stabil figyelem nélkül az élmény ködös marad, és utólag alig emlékszel rá.\n\n**4. A szándék megújítása és az átjárók.** Idézd fel újra a szándékodat. Ha a jelenet magától átalakul vagy elsodor valahová, engedd. Ha semmi sem történik, keress *átjárót*: egy ajtót, egy boltívet, egy függönyt — a jelenet bármely küszöbszerű elemét —, és lépj át rajta a szándékoddal. A belső színtér szereti a jelképes kapukat.\n\n**5. A találkozás.** Ha egy alak megjelenik, a legfontosabb kérdésedet tedd fel *először* — az élmények gyakran váratlanul érnek véget. Kérdezz nyitottan: „mit érdemes most látnom?” A választ ne fogadd parancsként; jegyezd meg, és ébredés után mérlegeld.\n\n**6. Visszatérés és napló.** Az élmény után azonnal írj: előbb kulcsszavakat, aztán részleteket. Ami nincs leírva, órákon belül elpárolog.\n\n**A nem-fizikai emlékezet erősítése.** A belső élmények felidézése edzhető izom. Este, elalvás előtt mondd ki csendben: „emlékezni fogok”. Ébredéskor *ne mozdulj* — maradj abban a testhelyzetben, és halászd vissza az utolsó képet, onnan visszafelé a többit. Előbb kulcsszavakat rögzíts, utána mesélj. Néhány hét alatt a felidézett anyag megsokszorozódik — ez a modul egyik legmérhetőbb gyümölcse.\n\n**A kvantumugrás-vizualizáció.** A hagyomány „kvantumugrásnak” nevezi azt a gyakorlatot, amelyben felváltva éled át a *jelenlegi önmagadat* és azt az önmagadat, *aki már könnyedén gyakorol* — mindkét oldalon kimondasz egy-egy rövid mondatot arról, amit érzel —, majd a két érzetet egyszerre tartod, míg össze nem simulnak. A becsületes lencse itt egyszerű és erős: ez mentális próba és önkép-munka — a „kvantum” szó a hagyomány metaforája, nem fizika. Nem a világegyetemet programozod át, hanem a saját hozzáállásodat: a kételkedő belső hangot cseréled türelmes, képes-vagyok-rá hangra. A gyümölcse mérhető: kitartóbb gyakorlás, szelídebb önbeszéd. **Minden ülést jegyezz fel az alkalmazás Kvantumugrás naplójában** — dátum, a két oldal érzetei, az összesimulás foka. Így hetek múltán látod a saját ívedet.",
+        "en": "**1. Intention.** Everything begins with intention, and it must be a *feeling*, not a thought. Several times during the day, recall it: „I wish to meet my inner guide” — and dwell on how it would *feel*. A surface wish spoken in the head does not reach the deeper layers; a felt one does.\n\n**2. Reaching the threshold.** Three routes lead to the deep threshold state: *from a dream* — when you recognize within a dream that you are dreaming, and turn from there toward your intention; *from awakening* — when, waking from sleep and still half-dreaming, you revive the intention without moving; and *from deep relaxation* — a long, patient meditation in which you let the body fall asleep while attention stays awake. Whichever route you take, the aim is the same: a deeply relaxed body, a quiet but alert mind.\n\n**3. Stabilize — always first.** When the experience becomes a scene, do not rush. Steady it first: look at your hands, touch surfaces, say inwardly a short calm key-phrase of your own choosing, one that asks for sharper, clearer attention, and move away from your starting point. Without stable attention the experience stays foggy, and afterwards you barely remember it.\n\n**4. Renewing the intention, and gateways.** Recall your intention again. If the scene transforms by itself or carries you somewhere, allow it. If nothing happens, look for a *gateway*: a door, an archway, a curtain — any threshold-like feature of the scene — and step through it carrying your intention. The inner stage loves symbolic gates.\n\n**5. The meeting.** If a figure appears, ask your most important question *first* — these experiences often end without warning. Ask openly: „what is worth seeing now?” Do not receive the answer as a command; note it, and weigh it after waking.\n\n**6. Return and journal.** Write immediately after the experience: keywords first, details after. What is not written down evaporates within hours.\n\n**Strengthening non-physical memory.** Recall of inner experience is a trainable muscle. In the evening, before sleep, say quietly: „I will remember.” On waking, *do not move* — stay in the same position and fish back the last image, then the rest, working backwards. Fix keywords first, narrate afterwards. Within a few weeks the recalled material multiplies — one of this module's most measurable fruits.\n\n**The quantum-jump visualization.** The tradition calls „quantum jumping” the exercise in which you alternately inhabit your *present self* and the self *who already practises with ease* — on each side speaking one short sentence about what you feel — then hold both sensations at once until they settle into one. The honest lens here is simple and strong: this is mental rehearsal and self-image work — the word „quantum” is the tradition's metaphor, not physics. You are not reprogramming the universe but your own attitude: exchanging the doubting inner voice for a patient, capable one. Its fruit is measurable: steadier practice, kinder self-talk. **Log every session in the app's Quantum Jumping journal** — the date, the felt sense of both sides, the degree of merging. Over the weeks you will see your own arc."
+      }
+    },
+    {
+      "id": "ape-timer-guide",
+      "kind": "timer",
+      "nevek": {
+        "hu": "A belső találkozás — 15 perc",
+        "en": "The Inner Meeting — 15 min"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Feküdj vagy ülj kényelmesen, kipihenten. Néhány lassú légzéssel engedd elnehezülni a testet, és idézd fel átérzett szándékodat: találkozni a belső vezetőddel. Engedd a testet egyre mélyebbre süllyedni, míg a figyelem csendes és éber marad. Amikor kép vagy jelenet dereng fel, előbb stabilizáld: nézd meg a kezed, érints meg valamit, mondd magadban a magad választotta nyugodt kulcsmondatot. Aztán újítsd meg a szándékot, és ha kell, lépj át egy jelképes kapun. Ha alak jelenik meg, a legfontosabb kérdésedet tedd fel először, és figyelj ítélkezés nélkül. A végén köszönd meg — bármi történt vagy nem történt —, térj vissza, és azonnal írj kulcsszavakat. Ami jön: belső élmény, nem ellenőrzött információ.",
+          "en": "Lie or sit comfortably, well rested. With a few slow breaths let the body grow heavy, and recall your felt intention: to meet your inner guide. Let the body sink deeper and deeper while attention stays quiet and alert. When an image or scene glimmers up, stabilize first: look at your hands, touch something, say inwardly your own calm key-phrase. Then renew the intention, and if needed, step through a symbolic gate. If a figure appears, ask your most important question first, and listen without judging. At the end give thanks — whatever did or did not happen —, return, and write keywords at once. Whatever comes is inner experience, not verified information."
+        },
+        "intervals": [
+          {
+            "atSecond": 180,
+            "label": {
+              "hu": "Süllyedés — a test alszik, a figyelem ébren",
+              "en": "Sinking — the body sleeps, attention stays awake"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "Stabilizálás, szándék, találkozás",
+              "en": "Stabilize, intend, meet"
+            }
+          },
+          {
+            "atSecond": 780,
+            "label": {
+              "hu": "Hála és visszatérés — készülj a naplóra",
+              "en": "Thanks and return — prepare to journal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ape-timer-jump",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Kvantumugrás-vizualizáció — 12 perc",
+        "en": "Quantum-Jump Visualization — 12 min"
+      },
+      "timer": {
+        "durationSeconds": 720,
+        "instructions": {
+          "hu": "Ülj kényelmesen, csukd be a szemed, és lélegezz lassan. Először érezd át a *jelenlegi* önmagadat: hogyan viszonyulsz ma a gyakorlathoz, milyen kételyek, milyen érzések élnek benned — és mondj ki róla egy rövid mondatot. Aztán válts: érezd át azt az önmagadat, aki már *könnyedén és örömmel gyakorol* — hogyan gondolkodik, hogyan éli a napjait, milyen nyugalom van benne — és mondj ki erről is egy mondatot. Járj át többször a két oldal között, majd tartsd mindkettőt egyszerre, és figyeld, összesimulnak-e. Ez mentális próba és önkép-munka — nem fizika és nem varázslat; a gyümölcse a kitartóbb gyakorlás és a szelídebb önbeszéd. A végén nyújtózz, és **jegyezd fel az ülést az alkalmazás Kvantumugrás naplójában**: mit éreztél a két oldalon, és mennyire simultak össze.",
+          "en": "Sit comfortably, close your eyes, breathe slowly. First feel your *present* self: how you relate to the practice today, what doubts and feelings live in you — and speak one short sentence about it. Then switch: feel the self who already *practises with ease and joy* — how that one thinks, how their days go, what calm they carry — and speak one sentence about that too. Cross between the two sides several times, then hold both at once and watch whether they settle into one. This is mental rehearsal and self-image work — not physics and not magic; its fruit is steadier practice and kinder self-talk. At the end stretch, and **log the session in the app's Quantum Jumping journal**: what you felt on each side, and how far they merged."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "A jelenlegi önmagad — mondd ki",
+              "en": "Your present self — speak it"
+            }
+          },
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "A gyakorlott önmagad — mondd ki",
+              "en": "Your practised self — speak it"
+            }
+          },
+          {
+            "atSecond": 540,
+            "label": {
+              "hu": "Tartsd mindkettőt — engedd összesimulni",
+              "en": "Hold both — let them merge"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ape-timer-recall",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Reggeli felidézés — 8 perc",
+        "en": "Morning Recall — 8 min"
+      },
+      "timer": {
+        "durationSeconds": 480,
+        "instructions": {
+          "hu": "Ébredés után indítsd el ezt az időzítőt, és *ne mozdulj* — maradj pontosan abban a testhelyzetben, amelyben ébredtél. Csukott szemmel halászd vissza az utolsó képet, hangulatot vagy szófoszlányt, és onnan haladj visszafelé: mi volt előtte, és azelőtt? Ne magyarázd és ne szépítsd — csak gyűjts. Amikor összeállt néhány töredék, ismételj el magadban három-öt kulcsszót, amíg biztosan megvannak. Az idő végén nyúlj a naplóért, és írd le előbb a kulcsszavakat, aztán a részleteket. Ha semmi sem jön: az is gyakorlás — a puszta csendes keresgélés edzi a felidézést. Este segít az elalvás előtti csendes mondat: „emlékezni fogok”.",
+          "en": "Start this timer upon waking, and *do not move* — stay in the exact position in which you woke. With eyes closed, fish back the last image, mood or scrap of words, and work backwards from there: what came before it, and before that? Do not explain and do not embellish — just gather. When a few fragments have assembled, repeat three to five keywords inwardly until they are secure. When the time ends, reach for the journal and write the keywords first, the details after. If nothing comes: that too is training — the quiet searching itself strengthens recall. In the evening, the silent sentence before sleep helps: „I will remember.”"
+        },
+        "intervals": [
+          {
+            "atSecond": 240,
+            "label": {
+              "hu": "Kulcsszavak — rögzítsd, mielőtt elillan",
+              "en": "Keywords — fix them before they fade"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ape-md-deepen",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Ritmus, elakadások, türelem",
+        "en": "Rhythm, Plateaus and Patience"
+      },
+      "text": {
+        "hu": "**A napi ritmus.** A hagyomány nem hősies éjszakai rohamokra épít, hanem csendes napi ritmusra. Egy jól bevált nap így néz ki: *reggel* néhány perc mozdulatlan felidézés és napló, majd rövid ülő meditáció — csendes figyelem vagy egyetlen ismételt mondat —, és ha jólesik, pár perc figyelem-vezette „energiakörzés”: a figyelmedet lassan végigvezeted a fejtetőtől a talpadig, majd vissza, és *érzed*, nem csak elképzeled, ahogy a melegség vándorol. *Napközben* egy-egy pillanatnyi átérzett szándék. *Este* a csendes mondat: „emlékezni fogok” — és alvás. A hosszabb küszöbgyakorlatokat hetente néhányszor, kipihent napokon iktasd be, sohasem az alvás rovására.\n\n**Gyakori elakadások.** *Mindig elalszom* — természetes első szakasz; próbáld a gyakorlatot a reggeli ébredés utáni, félálomból induló változattal, amikor az elme frissebb. *Ébren lebegek és unatkozom* — a második szint jele; ilyenkor ne várj, hanem engedd magad mélyebbre süllyedni, akár azzal, hogy szándékosan megengeded az elalvás közeledtét. *Frusztrált vagyok* — tarts szünetet; az erőlködő, megkeményedett figyelem a legrosszabb talaj ennek a munkának. A haladást a gyümölcsökkel mérd, ne az élmények számával: a felidézés, a nyugalom és a pihentség csendben nő akkor is, amikor „semmi sem történik”.\n\n**A gyakorlat önmagában érték.** Ezt a művészetet nem lehet másoktól ellesni; belülről érik, sok-sok üléssel, és közben mellékesen a legértékesebbet kapod: megismered a saját elalvásod, éberséged és figyelmed finomszerkezetét. Engedd el az eredmények méricskélését: az ellazult, békés állapot önmagában megéri az idődet. A rendszeresség itt is úgy működik, mint a testedzésben — sok kis alkalom heteken át többet ér, mint ritka nagy nekifutások. És olvass kíváncsi, de bíráló szemmel: ezen a területen az állítások gyakran ütköznek egymással, a bizonyíték pedig kevés; a kíváncsiság és az egészséges kétely együtt a legjobb útitárs.",
+        "en": "**The daily rhythm.** The tradition builds not on heroic night raids but on a quiet daily rhythm. A well-worn day looks like this: *morning* — a few minutes of motionless recall and journaling, then a short seated meditation — silent attention or a single repeated sentence — and, if it feels good, a few minutes of attention-led „energy circulation”: you lead your attention slowly from the crown to the soles and back, and *feel*, not merely picture, the warmth travelling. *During the day* — a moment of felt intention here and there. *Evening* — the quiet sentence „I will remember” — and sleep. Schedule the longer threshold practices a few times a week, on rested days, never at the cost of sleep.\n\n**Common plateaus.** *I always fall asleep* — the natural first stage; try the variant that starts from the half-dream state just after morning waking, when the mind is fresher. *I hover awake and get bored* — the sign of the second stage; do not wait, allow yourself to sink deeper, even by deliberately permitting the approach of sleep. *I am frustrated* — take a break; strained, hardened attention is the worst soil for this work. Measure progress by the fruits, not by the count of experiences: recall, calm and restfulness grow quietly even when „nothing happens”.\n\n**The practice is its own reward.** This art cannot be copied from anyone else; it ripens from within, across many sessions, and along the way you receive the most valuable thing as a side effect: you come to know the fine structure of your own falling-asleep, wakefulness and attention. Let go of measuring outcomes: the relaxed, peaceful state is worth your time in itself. Regularity works here as in physical training — many small sessions across weeks outweigh rare grand attempts. And read with a curious but critical eye: in this field claims often clash and evidence is thin; curiosity paired with healthy doubt is the best travelling companion."
+      }
+    },
+    {
+      "id": "ape-md-ethics",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Etika és biztonság — a kerítések",
+        "en": "Ethics and Safety — the Fences"
+      },
+      "text": {
+        "hu": "**A benyomás belső élmény — soha nem információ.** Bármilyen elevennek tűnik egy találkozás vagy egy „közlés”, az belső élmény marad: nem ellenőrzött tudás a világról, a jövőről vagy más emberekről. Soha ne alapozz rá valós döntést — sem egészségügyit, sem pénzügyit, sem kapcsolatit. Az élményben kapott „tanács” akkor sem bizonyíték, ha összefüggőnek és bölcsnek hangzik; anyag az elmélkedéshez, semmi több. Ha egy belső alak parancsol, sürget, engedelmességet vagy titkolózást követel — tedd félre, és ha nyomasztó, beszélj róla szakemberrel.\n\n**Élő embereket nem keresünk fel és nem befolyásolunk.** A gyakorlat önmagadra irányul. Nem „látogatunk meg” élő embereket, nem próbálunk hatni rájuk, és nem gyűjtünk róluk „információt” — sem kíváncsiságból, sem szeretetből, sem haragból. Ami a belső színpadon róluk megjelenik, az a *te* képed róluk, nem ők maguk.\n\n**Ha elhunyt szeretteddel keresnél találkozást** — a vágy maga a szeretet nyelve, és nincs benne semmi szégyellnivaló. De légy gyengéd magadhoz: ez a gyakorlat nem ígér találkozást, és a friss, nyers gyász nem a küszöbgyakorlatok ideje. Ha jön egy szelíd, vigasztaló belső élmény, fogadd hálával — élményként, nem bizonyítékként. Ha a gyász elsöprő, vagy a gyakorlat felszakítja, állj meg, és fordulj emberi támaszhoz: gyásztámogatáshoz, segítő szakemberhez. A gyakorlat nem terápia, és nem helyettesíti a gyász gondozását.\n\n**Az alvási paralízis nem veszélyes.** A küszöbön előfordulhat, hogy ébren vagy, de a tested még „ki van kapcsolva” — esetleg nyomást érzel vagy zajokat, alakokat észlelsz. Ez ismert, ártalmatlan és átmeneti alvásjelenség: az izmok az álomalvás alatt természetes módon bénítottak, és néha az éberség előbb tér vissza, mint a mozgás. Ne küzdj: lélegezz lassan, mozdítsd meg egy ujjadat vagy a lábujjadat, és várd ki — magától elmúlik, jellemzően másodpercek alatt. Ha alvászavaraid tartósak, fordulj orvoshoz.\n\n**A megszakított alvásos technikák nem valók mindenkinek.** Az ébredésből induló gyakorlat csak kipihent embernek való, alkalmanként. Nem való annak, aki alvászavarral vagy epilepsziával él, és annak sem, akinek másnap kipihenten kell vezetnie vagy dolgoznia. Az egészséges alvás mindig előbbre való a gyakorlatnál — ez nem áhítat kérdése, hanem józanságé. Ez a modul nem orvosi tanács.\n\n**Mikor kérj segítséget?** Ha a gyakorlat szorongást szít, tolakodó élmények térnek vissza, parancsoló hangokat hallasz, vagy a belső és a külső határa a nappalaidban is elmosódik — állj le, és fordulj szakemberhez. Ez nem kudarc, hanem a felfedező érettsége.\n\n*Ez a modul önálló, eredeti tananyag: a hagyomány módszereit saját szavainkkal, becsületes kerettel tanítja. Egyetlen tanfolyamhoz, szolgáltatáshoz vagy közösséghez sem kötődik, és semmit sem árul.*",
+        "en": "**An impression is inner experience — never information.** However vivid a meeting or a „message” may seem, it remains inner experience: not verified knowledge about the world, the future or other people. Never base a real decision on it — medical, financial or relational. „Counsel” received in an experience is not evidence even when it sounds coherent and wise; it is material for reflection, nothing more. If an inner figure commands, urges, demands obedience or secrecy — set it aside, and if it weighs on you, speak with a professional.\n\n**We do not visit or influence living people.** The practice is self-directed. We do not „call on” living people, do not try to affect them, and do not gather „information” about them — not out of curiosity, love or anger. Whatever appears about them on the inner stage is *your* image of them, not they themselves.\n\n**If you long to meet a departed loved one** — the longing itself is the language of love, and there is nothing to be ashamed of. But be gentle with yourself: this practice promises no meeting, and fresh, raw grief is not the season for threshold work. If a mild, consoling inner experience comes, receive it with gratitude — as experience, not as proof. If grief is overwhelming, or the practice tears it open, stop and turn to human support: grief care, a helping professional. The practice is not therapy and does not replace the care of grief.\n\n**Sleep paralysis is not dangerous.** At the threshold it can happen that you are awake but the body is still „switched off” — perhaps with a feeling of pressure, or noises and shapes. This is a known, harmless, transient sleep phenomenon: the muscles are naturally immobilized during dream sleep, and sometimes wakefulness returns before movement does. Do not fight it: breathe slowly, wiggle a finger or a toe, and wait it out — it passes by itself, typically within seconds. If sleep problems persist, see a doctor.\n\n**Interrupted-sleep techniques are not for everyone.** The practice that starts from awakening is only for well-rested people, and only occasionally. It is not for those living with a sleep disorder or epilepsy, nor for anyone who must drive or work rested the next day. Healthy sleep always outranks the practice — this is not a matter of devotion but of sober sense. This module is not medical advice.\n\n**When to seek help?** If the practice stirs anxiety, intrusive experiences keep returning, you hear commanding voices, or the border of inner and outer blurs into your daytime — stop, and turn to a professional. That is not failure; it is the explorer's maturity.\n\n*This module is an independent, original study text: it teaches the tradition's methods in our own words, within an honest frame. It is tied to no course, service or community, and sells nothing.*"
+      }
+    },
+    {
+      "id": "ape-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "A biztonságos felfedező fogadalmai",
+        "en": "The Safe Explorer's Commitments"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "ape-c1",
+            "nevek": {
+              "hu": "Értem: minden benyomás belső élmény — nem ellenőrzött információ",
+              "en": "I understand: every impression is inner experience — not verified information"
+            }
+          },
+          {
+            "key": "ape-c2",
+            "nevek": {
+              "hu": "Valós döntést (egészség, pénz, kapcsolat) soha nem alapozok belső élményre",
+              "en": "I never base a real decision (health, money, relationships) on an inner experience"
+            }
+          },
+          {
+            "key": "ape-c3",
+            "nevek": {
+              "hu": "Élő embert nem keresek fel és nem próbálok befolyásolni — a gyakorlat önmagamra irányul",
+              "en": "I do not visit or try to influence living people — the practice is self-directed"
+            }
+          },
+          {
+            "key": "ape-c4",
+            "nevek": {
+              "hu": "Az egészséges alvás előbbre való a gyakorlatnál; megszakított alvással csak kipihenten, alvászavar és epilepszia nélkül kísérletezem",
+              "en": "Healthy sleep outranks the practice; I try interrupted-sleep work only well rested, with no sleep disorder or epilepsy"
+            }
+          },
+          {
+            "key": "ape-c5",
+            "nevek": {
+              "hu": "Tudom: az alvási paralízis ártalmatlan és átmeneti — lassú légzés, egy ujj mozdítása, kivárás; tartós alvásgond esetén orvos",
+              "en": "I know: sleep paralysis is harmless and transient — slow breath, wiggle a finger, wait; persistent sleep trouble means a doctor"
+            }
+          },
+          {
+            "key": "ape-c6",
+            "nevek": {
+              "hu": "Elhunyt szerettem felé gyengéd vagyok: nem erőltetek találkozást, és elsöprő gyászban emberi támaszt keresek",
+              "en": "I am gentle about a departed loved one: I force no meeting, and in overwhelming grief I seek human support"
+            }
+          },
+          {
+            "key": "ape-c7",
+            "nevek": {
+              "hu": "Az élmény után azonnal naplózom — a haladást a gyümölcsökkel mérem, nem az élmények számával",
+              "en": "I journal immediately after the experience — I measure progress by fruits, not by the count of experiences"
+            }
+          },
+          {
+            "key": "ape-c8",
+            "nevek": {
+              "hu": "Szorongás, tolakodó élmény vagy parancsoló hang esetén megállok és szakemberhez fordulok — a gyakorlat nem terápia",
+              "en": "With anxiety, intrusive experiences or commanding voices I stop and turn to a professional — the practice is not therapy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ape-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A felfedező jellemvonásai",
+        "en": "Traits of the Explorer"
+      },
+      "aspektusPack": [
+        {
+          "key": "ape-asp-literalism",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "A látomás tényként kezelése",
+            "en": "Taking visions as facts"
+          }
+        },
+        {
+          "key": "ape-asp-oracle",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Döntések kiszervezése benyomásokra",
+            "en": "Outsourcing decisions to impressions"
+          }
+        },
+        {
+          "key": "ape-asp-sleeploss",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Az egészséges alvás feláldozása",
+            "en": "Sacrificing healthy sleep"
+          }
+        },
+        {
+          "key": "ape-asp-forcing",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Erőltetés és frusztráció",
+            "en": "Forcing and frustration"
+          }
+        },
+        {
+          "key": "ape-asp-recall",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Hűséges belső emlékezet",
+            "en": "Faithful inner recall"
+          }
+        },
+        {
+          "key": "ape-asp-rhythm",
+          "elem": "ido",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Egyenletes napi ritmus",
+            "en": "Steady daily rhythm"
+          }
+        },
+        {
+          "key": "ape-asp-discernment",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Józan megkülönböztetés",
+            "en": "Sober discernment"
+          }
+        },
+        {
+          "key": "ape-asp-gentleness",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Gyengédség a félelemmel és a gyásszal",
+            "en": "Gentleness with fear and grief"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ape-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "A felfedező naplója",
+        "en": "The Explorer's Journal"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["ape-asp-discernment"],
+        "prompts": {
+          "hu": "GYAKORLAT — Melyik úton indultam ma (álomból, ébredésből, mélyellazulásból, kvantumugrás, reggeli felidézés)? ___\n\nÁLLAPOT — Milyen mély volt az ellazulás, és meddig maradt éber a figyelem? ___\n\nBENYOMÁS — Milyen kép, alak, hang vagy jelenet támadt? (Írd le ítélet és magyarázat nélkül.) ___\n\nTALÁLKOZÁS — Ha alak jelent meg: mit kérdeztem, mit „válaszolt”? Mindkét lencsén át nézve mit jelenthet nekem? ___\n\nMEGKÜLÖNBÖZTETÉS — Hordozott-e a benyomás vágyat, félelmet, parancsot vagy jóslatot? Mit teszek félre, és mit tartok meg elmélkedésre? ___\n\nGYÜMÖLCS — Javult-e az álomfelidézésem, a nyugalmam, a pihentségem? ___\n\nBIZTONSÁG — Sértetlen maradt-e az alvásom, és minden a béke felé vitt-e? (Ha nem — mit változtatok, kihez fordulok?) ___",
+          "en": "PRACTICE — Which route did I take today (from a dream, from awakening, from deep relaxation, quantum jump, morning recall)? ___\n\nSTATE — How deep was the relaxation, and how long did attention stay awake? ___\n\nIMPRESSION — What image, figure, sound or scene arose? (Describe it without judgment or explanation.) ___\n\nMEETING — If a figure appeared: what did I ask, what did it „answer”? Seen through both lenses, what might it mean for me? ___\n\nDISCERNMENT — Did the impression carry desire, fear, command or prophecy? What do I set aside, and what do I keep for reflection? ___\n\nFRUIT — Has my dream recall, my calm, my restfulness improved? ___\n\nSAFETY — Did my sleep stay intact, and did everything lead toward peace? (If not — what do I change, whom do I turn to?) ___"
+        }
+      }
+    },
+    {
+      "id": "ape-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "A felfedező önellenőrzése",
+        "en": "The Explorer's Self-Check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "ape-q1",
+            "prompt": {
+              "hu": "Egy belső élményben a „vezetőd” azt tanácsolja, hogy mondd fel a munkádat. Mi a helyes hozzáállás?",
+              "en": "In an inner experience your „guide” advises you to quit your job. What is the right attitude?"
+            },
+            "options": {
+              "hu": [
+                "Követem, hiszen a vezetők többet látnak, mint én",
+                "Előbb kikérdezem a vezetőt, és ha jól válaszol, engedelmeskedem",
+                "Belső élményként jegyzem fel — elmélkedésre való anyag, de valós döntést soha nem alapozok rá",
+                "Addig ismétlem a gyakorlatot, amíg a tanács megerősítést nyer"
+              ],
+              "en": [
+                "I follow it, since guides see more than I do",
+                "I first test the guide, and if it answers well, I obey",
+                "I note it as inner experience — material for reflection, but I never base a real decision on it",
+                "I repeat the practice until the advice is confirmed"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "ape-q2",
+            "prompt": {
+              "hu": "Ébredéskor nem tudsz megmozdulni, nyomást érzel, és alakokat látsz a szobában. Mi történik?",
+              "en": "On waking you cannot move, feel pressure, and see shapes in the room. What is happening?"
+            },
+            "options": {
+              "hu": [
+                "Ismert, ártalmatlan, átmeneti alvásjelenség — lassan lélegzem, megmozdítom egy ujjamat, kivárom; ha az alvásgondom tartós, orvoshoz fordulok",
+                "Egy lény támadása, amely ellen küzdenem kell",
+                "Annak bizonyítéka, hogy a tudatom valóban elhagyta a testet",
+                "Veszélyes állapot, amely maradandó kárt okozhat"
+              ],
+              "en": [
+                "A known, harmless, transient sleep phenomenon — I breathe slowly, wiggle a finger, wait it out; if sleep trouble persists, I see a doctor",
+                "An attack by an entity that I must fight off",
+                "Proof that my consciousness has truly left the body",
+                "A dangerous state that can cause lasting harm"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "ape-q3",
+            "prompt": {
+              "hu": "Kinek nem való az ébredésből induló, megszakított alvásos gyakorlat?",
+              "en": "For whom is the interrupted-sleep practice that starts from awakening not suitable?"
+            },
+            "options": {
+              "hu": [
+                "Senkinek sem árt, mert természetes módszer",
+                "Annak, aki alvászavarral vagy epilepsziával él, vagy másnap kipihenten kell vezetnie — az egészséges alvás mindig előbbre való",
+                "Csak annak, aki fél a sötétben",
+                "Annak, aki már tud álomból indulni, mert neki felesleges"
+              ],
+              "en": [
+                "It harms no one, because it is a natural method",
+                "Anyone living with a sleep disorder or epilepsy, or who must drive rested the next day — healthy sleep always comes first",
+                "Only those who are afraid of the dark",
+                "Those who can already start from a dream, since they do not need it"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "ape-q4",
+            "prompt": {
+              "hu": "Elhunyt szerettedet szeretnéd „meglátogatni”, de a gyász még friss és nyers. Mit tanít a modul?",
+              "en": "You long to „visit” a departed loved one, but the grief is still fresh and raw. What does the module teach?"
+            },
+            "options": {
+              "hu": [
+                "Minél előbb próbálkozom, annál valószínűbb a találkozás",
+                "A vágy szégyellnivaló gyengeség, el kell fojtani",
+                "A gyakorlat garantálja a találkozást, ha elég erős a szándék",
+                "Gyengéd vagyok magamhoz: a nyers gyász nem a küszöbgyakorlat ideje; a vigasztaló élmény ajándék, nem bizonyíték — elsöprő gyászban emberi támaszt keresek"
+              ],
+              "en": [
+                "The sooner I try, the likelier the meeting",
+                "The longing is a shameful weakness to be suppressed",
+                "The practice guarantees a meeting if the intention is strong enough",
+                "I am gentle with myself: raw grief is not the season for threshold work; a consoling experience is a gift, not proof — in overwhelming grief I seek human support"
+              ]
+            },
+            "correctIndex": 3
+          },
+          {
+            "id": "ape-q5",
+            "prompt": {
+              "hu": "Mi a kvantumugrás-vizualizáció becsületes leírása?",
+              "en": "What is the honest description of the quantum-jump visualization?"
+            },
+            "options": {
+              "hu": [
+                "Fizikai módszer, amellyel párhuzamos idővonalra lépek át",
+                "Mentális próba és önkép-munka: a kételkedő belső hangot cserélem türelmesre — gyümölcse a kitartóbb gyakorlás, és minden ülést naplózok",
+                "Technika, amellyel más emberek valóságát változtatom meg",
+                "Bizonyíték arra, hogy a kvantummechanika a tudatunkra is érvényes"
+              ],
+              "en": [
+                "A physical method for crossing into a parallel timeline",
+                "Mental rehearsal and self-image work: I exchange the doubting inner voice for a patient one — its fruit is steadier practice, and I log every session",
+                "A technique for changing other people's reality",
+                "Proof that quantum mechanics applies to our consciousness"
+              ]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    }
+  ]
+}
