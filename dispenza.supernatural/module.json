@@ -1,0 +1,466 @@
+{
+  "formatVersion": 1,
+  "id": "dispenza.supernatural",
+  "version": 1,
+  "nevek": {
+    "hu": "Joe Dispenza — Válj természetfelettivé",
+    "en": "Joe Dispenza — Becoming Supernatural"
+  },
+  "description": {
+    "hu": "Gyakorlatsor Joe Dispenza „Válj természetfelettivé!” című könyve nyomán, saját szavainkkal újramesélve: gerinc menti lágy légzés, az energiaközpontok megáldása, szívkoherencia, a tágas jelen pillanat és a belső próba. A kvantummezős magyarázatot munkamodellként kezeljük, a gyakorlást a belső gyümölcsök — nyugalom, energia, jelenlét, nyitott szív — mérik. Nem orvosi tanács.",
+    "en": "A practice cycle inspired by Joe Dispenza’s Becoming Supernatural, retold in our own words: gentle breath up the spine, blessing of the energy centers, heart coherence, the generous present moment and mental rehearsal. The quantum-field narrative is treated as a working model, and practice is measured by its inner fruits — calm, energy, presence, an open heart. Not medical advice."
+  },
+  "items": [
+    {
+      "id": "ds-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezetés és őszinte keret",
+        "en": "Introduction and honest framing"
+      },
+      "text": {
+        "hu": "*„Hétköznapi emberek is képesek nem hétköznapi dolgokra.” — Joe Dispenza*\n\n**Miről szól ez a modul?** Joe Dispenza tanításának magja egyszerű: amíg nap mint nap ugyanazokat a gondolatokat gondoljuk és ugyanazokat az érzelmeket ismételjük, a testünk a múlt lenyomatait éli újra — kiszámíthatóak maradunk. A változás ott kezdődik, ahol kilépünk ebből a körből: a jelen pillanatban, amikor a figyelmünket és az érzéseinket tudatosan magunk választjuk meg, ahelyett hogy a környezet vagy a megszokás választaná meg helyettünk. A modul gyakorlatai — a lágy gerinc menti légzés, az energiaközpontok megáldása, a szívkoherencia és a tágas jelenben időzés — mind ezt a kilépést szolgálják.\n\n**Őszinte keret.** Dispenza a tapasztalatait a kvantummező, a frekvenciák és az energia nyelvén írja le. Ez az ő saját értelmezési modellje: ihlető térkép, nem bizonyított tényállítás. Ebben a naplóban munkahipotézisként kezeljük. Nem azt kérdezzük, igaz-e a fizika nyelvén, hanem azt, hogy a gyakorlás milyen belső gyümölcsöket terem: több nyugalmat, több energiát, tisztább jelenlétet, nyitottabb szívet. Ezeket jegyezzük a naplóban — és semmilyen eredményt nem ígérünk előre. Ami megtörténik, azt a saját tapasztalatod hitelesíti, nem a szavak.",
+        "en": "*“Ordinary people, too, are capable of extraordinary things.” — Joe Dispenza*\n\n**What is this module about?** The core of Joe Dispenza’s teaching is simple: as long as we think the same thoughts and repeat the same emotions every day, the body keeps reliving imprints of the past — we stay predictable. Change begins where we step out of that loop: in the present moment, when attention and feeling are chosen consciously instead of being chosen for us by environment and habit. The practices in this module — gentle breath up the spine, blessing the energy centers, heart coherence and resting in the generous present — all serve that stepping-out.\n\n**Honest framing.** Dispenza describes his experiences in the language of the quantum field, frequencies and energy. That is his own interpretive model: an inspiring map, not an established statement of fact. In this diary we treat it as a working hypothesis. We do not ask whether it is true in the language of physics; we ask what inner fruits the practice bears: more calm, more energy, clearer presence, a more open heart. Those are what we record here — and no outcome is ever promised in advance. Whatever happens is validated by your own experience, not by words."
+      }
+    },
+    {
+      "id": "ds-kozpontok",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az energiaközpontok — a hagyomány térképe",
+        "en": "The energy centers — the tradition’s map"
+      },
+      "text": {
+        "hu": "Dispenza — a jógahagyományokkal összhangban — a testet nyolc központ térképén írja le. Fontos: ez a figyelem térképe, nem anatómiai tankönyv. Minden központhoz a modelljében mirigyek, idegfonatok, jellegzetes érzelmek és egy-egy saját ‘kis elme’ tartozik.\n\nAz **első három** a túlélés központja: a gát tájéka (életerő, teremtőerő), a köldök mögötti tér (emésztés, feldolgozás) és a gyomorszáj (akarat, erő — de itt raktározódik a harag és a stressz is). A legtöbb ember energiája itt reked meg, mert a mindennapi gondolkodás-érzés körforgás ezeket járatja. A **negyedik** a szív, a mellkas közepén: a modell szerint híd az alsó, testi és a felső központok között — itt békülnek ki az ellentétek, innen fakad a hála, az együttérzés, az összetartozás. Az **ötödik** a torok (kifejezés, igazmondás), a **hatodik és hetedik** a fejben lakik (belső látás, felsőbb rend), a **nyolcadik** pedig a fej fölött lebegő jelkép: kapcsolat a nálunk nagyobb egésszel.\n\nAz áldás gyakorlata ennyi: központról központra haladva a figyelem előbb megpihen a központban, majd a körülötte lévő térben, miközben jóindulatú, emelkedett érzést — hálát, szeretetet — viszünk oda. Elültetjük a szándékot, aztán elengedjük. Nem erőlködünk, nem vizualizálunk görcsösen: bízunk benne, hogy ami bennünk rendez, az tudja a dolgát.",
+        "en": "In line with the yogic traditions, Dispenza maps the body as eight centers. Important: this is a map of attention, not an anatomy textbook. In his model each center has its glands, nerve plexuses, characteristic emotions and its own little ‘mini-mind’.\n\nThe **first three** are survival centers: the perineal area (life force, creative power), the space behind the navel (digestion, processing) and the solar plexus (will and drive — but also where anger and stress are stored). Most people’s energy gets stuck here, because the daily loop of thinking and feeling keeps running these circuits. The **fourth** is the heart, in the middle of the chest: in the model it is the bridge between the lower, bodily centers and the higher ones — where opposites reconcile, the source of gratitude, compassion and belonging. The **fifth** is the throat (expression, truthfulness), the **sixth and seventh** live in the head (inner seeing, higher order), and the **eighth** is a symbol hovering above the head: connection with the whole that is greater than us.\n\nThe blessing practice is just this: moving center by center, attention first rests in the center, then in the space around it, while we bring a kind, elevated feeling — gratitude, love — to each. We plant the intention, then let it go. No straining, no forced visualizing: we trust that whatever orders things within us knows its work."
+      }
+    },
+    {
+      "id": "ds-legzes-tan",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A gerinc menti légzés — lágyan",
+        "en": "The breath up the spine — gently"
+      },
+      "text": {
+        "hu": "Ez a légzés arra való, hogy a testben megrekedt, régi érzelmi energiát — a modell képével — felszabadítsd, és hagyd a gerinc mentén lassan, magától felfelé áramlani, ahogy a meleg emelkedik a hűvösben. A gyakorlat menete:\n\n1. Ülj egyenes, de nem merev gerinccel. Néhány percig csak figyeld a természetes légzést.\n2. Lassú orrbelégzés közben engedd a figyelmed lágyan felfelé siklani a gerinc mentén: keresztcsont, derék, hát, nyak, fejtető. Közben **nagyon enyhén** — mintha csak jeleznéd, nem szorítanád — emeld meg a gátizmot és az alhasat.\n3. A fejtetőnél a figyelem egy pillanatra megpihen; ha kényelmes, a lélegzet is megállhat egy rövid, feszültségmentes pillanatra.\n4. Aztán engedj el mindent, és lassan, hosszan lélegezz ki. Ez egy kör. Néhány kör után térj vissza a természetes légzéshez, és csak figyelj.\n\n**A kulcsszó a lágyság.** Olyan ez, mint a tekintet felemelése, nem mint a súlyemelés. A gyakorlat ereje a figyelem irányában van, nem az izomerőben — az erőltetés éppen a stresszválaszt kapcsolná be, amiből ki akarunk lépni. Őszintén jelezzük: Dispenza eredeti technikája ennél erőteljesebb izommunkával és hosszabb légzetvisszatartással dolgozik; ez a modul tudatosan a szelíd változatot tanítja, mert naplós, kísérő nélküli gyakorláshoz ezt tartjuk felelősnek.\n\n**Biztonság:** ha szédülsz, bizsergés kellemetlenné válik, vagy bármi rossz érzés támad, azonnal hagyd abba, és lélegezz normálisan. Várandósság, szív- és keringési betegség, magas vérnyomás vagy epilepszia esetén ezt a gyakorlatot — különösen a légzetvisszatartást — csak kezelőorvosod jóváhagyásával végezd. Ez nem orvosi kezelés, és nem helyettesít semmilyen kezelést.",
+        "en": "This breath is meant — in the model’s image — to free old emotional energy stored in the body and let it rise slowly along the spine of its own accord, the way warmth rises through cool air. The practice:\n\n1. Sit with a straight but not rigid spine. For a few minutes just watch the natural breath.\n2. On a slow nasal inhale, let attention glide upward along the spine: sacrum, lower back, mid back, neck, crown. As it rises, **very lightly** — as if merely signalling, not squeezing — lift the pelvic floor and lower belly.\n3. At the crown, attention rests for a moment; if comfortable, the breath may also pause for a short, tension-free moment.\n4. Then release everything and exhale slowly and long. That is one round. After a few rounds, return to natural breathing and simply observe.\n\n**The key word is gentleness.** It is like lifting the gaze, not like lifting weights. The power of the practice lies in the direction of attention, not in muscular force — straining would switch on the very stress response we are stepping out of. In honesty: Dispenza’s original technique works with stronger muscular effort and longer breath-holds; this module deliberately teaches the gentle variant, which we consider the responsible form for unguided, diary-based practice.\n\n**Safety:** if you feel dizzy, if tingling becomes unpleasant, or anything feels wrong, stop at once and breathe normally. If you are pregnant, or have a heart or circulatory condition, high blood pressure or epilepsy, do this practice — especially any breath-holding — only with your doctor’s approval. This is not medical treatment and replaces no treatment."
+      }
+    },
+    {
+      "id": "ds-sziv-tan",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Szívkoherencia és belső próba",
+        "en": "Heart coherence and mental rehearsal"
+      },
+      "text": {
+        "hu": "A szívkoherencia gyakorlata két elemet kapcsol össze: a lassú, ritmikus légzést és az őszinte, emelkedett érzelmet.\n\n**A gyakorlat:** helyezd a figyelmed a mellkasod közepére. Lélegezz lassan és egyenletesen — nagyjából öt másodperc be, öt ki —, mintha a levegő magán a szívtájékon áramolna át. Amikor a ritmus megnyugodott, hívj elő egy őszinte, emelkedett érzést: hálát valamiért, ami már a tiéd; törődést valakiért, akit szeretsz; csendes örömöt. A hála a legkönnyebb kapu, mert a hála teste már megkapta, amiért hálás. Ha a figyelem elkalandozik, kedvesen tereld vissza a mellkas és a lélegzet ritmusához.\n\n**A tágas jelen.** A gyakorlás egy részében ne akarj semmit: se múltat, se tervet, se célt. Csak időzz a nyitott, bőkezű mostban — Dispenza szerint minden újnak ez a szülőszobája. Mi annyit mondunk: itt pihen meg a legmélyebben az idegrendszer.\n\n**Belső próba.** A gyakorlás végén, még az emelkedett érzésben, próbáld el belül azt az embert, akivé válni gyakorolsz: hogyan lélegzik, hogyan válaszol, hogyan visel el egy nehéz pillanatot. A világos szándék és az emelkedett érzés összekapcsolása Dispenza módszerének a szíve. Hogy ez a mezőt hangolja-e át vagy az idegrendszert — döntse el a tapasztalat; a naplóban a gyümölcsöket mérjük.",
+        "en": "The heart-coherence practice joins two elements: slow, rhythmic breathing and a sincere, elevated emotion.\n\n**The practice:** place your attention in the middle of the chest. Breathe slowly and evenly — roughly five seconds in, five out — as if the air were flowing through the heart area itself. Once the rhythm has settled, call up a sincere elevated feeling: gratitude for something already yours; care for someone you love; quiet joy. Gratitude is the easiest gateway, because the body of gratitude has already received what it gives thanks for. When attention wanders, guide it back kindly to the chest and the rhythm of the breath.\n\n**The generous present.** For part of the practice, want nothing: no past, no plan, no goal. Just rest in the open, generous now — for Dispenza this is the birthplace of everything new. We say simply: this is where the nervous system rests most deeply.\n\n**Mental rehearsal.** At the end, still within the elevated feeling, rehearse inwardly the person you are practising to become: how they breathe, how they answer, how they carry a hard moment. Joining clear intention with elevated emotion is the heart of Dispenza’s method. Whether it retunes a field or the nervous system — let experience decide; in the diary we measure the fruits."
+      }
+    },
+    {
+      "id": "ds-etika",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Etika, mérték és orvosi megjegyzés",
+        "en": "Ethics, measure and medical note"
+      },
+      "text": {
+        "hu": "**Nem orvosi tanács.** Ez a modul szemlélődő gyakorlatokat tanít, nem gyógymódot. Semmilyen betegség kezelését nem ígéri és nem helyettesíti. Soha ne hagyj abba gyógyszert vagy kezelést egy könyv vagy egy gyakorlat reményében — az ilyen döntés kizárólag orvosoddal közös. A könyv gyógyulástörténetei ihlető elbeszélések, nem receptek és nem ígéretek.\n\n**A légzés biztonsága.** Minden légzőgyakorlatot lágyan végzünk, sosem erőltetve. Ha szédülsz, rosszul érzed magad, vagy bármilyen kellemetlen testérzés jelentkezik, azonnal hagyd abba, és lélegezz normálisan. Várandósság, szív- vagy keringési betegség, magas vérnyomás vagy epilepszia esetén légzőgyakorlatot — különösen légzetvisszatartást — csak kezelőorvosod jóváhagyásával végezz.\n\n**Válság esetén** — ha önmagadra vagy másra veszélyt jelentő gondolataid vannak, vagy összeroppansz a teher alatt — a meditáció nem a válasz: fordulj azonnal szakemberhez, orvoshoz, krízisvonalhoz.\n\n**A gyakorlás etikája.** Ne használd a gyakorlást arra, hogy valódi problémák — konfliktus, gyász, kötelesség — elől emelkedj el: a szemlélődés érleli a cselekvést, nem kiváltja. Maradj mértéktartó: a napi rendszeres, szelíd gyakorlás többet ér, mint a ritka, hosszú erőltetés. És maradj józan a beszédben is: a tapasztalataid a tieid — ne tényként hirdesd, amit belül éltél át, és ne ígérj másnak olyat, amit a magad naplója sem igazolt még. A mérce mindvégig ugyanaz: nyugodtabb, erősebb, jelenvalóbb és nyitottabb szívű lettél-e.",
+        "en": "**Not medical advice.** This module teaches contemplative practices, not a cure. It promises no treatment of any illness and replaces none. Never stop a medication or a treatment on the hope offered by a book or a practice — such decisions belong with your doctor alone. The healing stories in the book are inspiring narratives, not prescriptions and not promises.\n\n**Breath safety.** Every breathing practice here is done gently, never forced. If you feel dizzy, unwell, or notice any unpleasant bodily sensation, stop at once and breathe normally. If you are pregnant, or live with a heart or circulatory condition, high blood pressure or epilepsy, do breathing practices — especially any breath-holding — only with your doctor’s approval.\n\n**In a crisis** — if you have thoughts of harming yourself or others, or feel you are breaking under the load — meditation is not the answer: turn immediately to a professional, a doctor, a crisis line.\n\n**The ethics of practice.** Do not use practice to float above real problems — conflict, grief, duty: contemplation ripens action, it does not replace it. Keep proportion: regular, gentle daily practice is worth more than rare, long bouts of straining. And stay sober in speech: your experiences are yours — do not proclaim as fact what you lived inwardly, and do not promise others what your own diary has not yet confirmed. The measure remains the same throughout: have you become calmer, stronger, more present, more open-hearted."
+      }
+    },
+    {
+      "id": "ds-timer-legzes",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Gyakorlat: gerinc menti légzés (10 perc)",
+        "en": "Practice: breath up the spine (10 min)"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ülj egyenes, laza gerinccel. Az első két percben csak kísérd a természetes légzést. Utána: lassú orrbelégzés közben engedd a figyelmed lágyan felfelé siklani a gerinc mentén — keresztcsont, derék, hát, nyak, fejtető —, közben egészen enyhén emeld meg a gátizmot és az alhasat. A fejtetőnél pihenjen meg a figyelem, majd engedj el mindent és lassan lélegezz ki. Körönként haladj, sietség nélkül. BIZTONSÁG: mindig lágyan, sosem erőltetve — ha szédülsz vagy rosszul érzed magad, azonnal állj le és lélegezz normálisan; várandósság, szív- vagy keringési betegség, magas vérnyomás, epilepszia esetén csak orvosi jóváhagyással gyakorold.",
+          "en": "Sit with a straight, easy spine. For the first two minutes simply follow the natural breath. Then: on a slow nasal inhale let attention glide gently upward along the spine — sacrum, lower back, mid back, neck, crown — while very lightly lifting the pelvic floor and lower belly. Let attention rest at the crown, then release everything and exhale slowly. Move round by round, without hurry. SAFETY: always gently, never forced — if you feel dizzy or unwell, stop at once and breathe normally; if pregnant, or living with a heart or circulatory condition, high blood pressure or epilepsy, practise only with your doctor’s approval."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Kezdd a gerinc menti köröket — lágyan",
+              "en": "Begin the rounds up the spine — gently"
+            }
+          },
+          {
+            "atSecond": 420,
+            "label": {
+              "hu": "Utolsó körök — semmit se erőltess",
+              "en": "Last rounds — force nothing"
+            }
+          },
+          {
+            "atSecond": 510,
+            "label": {
+              "hu": "Engedd el — természetes légzés, csendes figyelem",
+              "en": "Let go — natural breath, quiet awareness"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ds-timer-aldas",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Gyakorlat: az energiaközpontok megáldása (15 perc)",
+        "en": "Practice: blessing the energy centers (15 min)"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Ülj vagy feküdj kényelmesen, csukott szemmel. Először csendesedj el, lassítsd a légzést. Majd központról központra haladva pihentesd a figyelmed előbb magában a központban, aztán a körülötte lévő térben — és vigyél oda egy jóindulatú, emelkedett érzést: hálát, gyengédséget, áldást. Nem elemzel, nem vizualizálsz görcsösen: elülteted a szándékot, és elengeded. Ha elkalandozol, kedvesen térj vissza. A végén pihenj meg az egész test és a körülötte lévő tér tudatában.",
+          "en": "Sit or lie comfortably, eyes closed. First grow quiet and slow the breath. Then, moving center by center, rest your attention first in the center itself, then in the space around it — and bring a kind, elevated feeling there: gratitude, tenderness, blessing. No analysing, no strained visualising: plant the intention and let it go. When you wander, return kindly. At the end, rest in awareness of the whole body and the space around it."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "1. központ — a gát tájéka",
+              "en": "1st center — the perineal area"
+            }
+          },
+          {
+            "atSecond": 210,
+            "label": {
+              "hu": "2. központ — a köldök mögött",
+              "en": "2nd center — behind the navel"
+            }
+          },
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "3. központ — a gyomorszáj",
+              "en": "3rd center — the solar plexus"
+            }
+          },
+          {
+            "atSecond": 390,
+            "label": {
+              "hu": "4. központ — a szív, a mellkas közepe",
+              "en": "4th center — the heart, mid-chest"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "5. központ — a torok",
+              "en": "5th center — the throat"
+            }
+          },
+          {
+            "atSecond": 570,
+            "label": {
+              "hu": "6. központ — a fej belseje",
+              "en": "6th center — within the head"
+            }
+          },
+          {
+            "atSecond": 660,
+            "label": {
+              "hu": "7. központ — a fejtető",
+              "en": "7th center — the crown"
+            }
+          },
+          {
+            "atSecond": 750,
+            "label": {
+              "hu": "8. központ — a tér a fejed fölött",
+              "en": "8th center — the space above your head"
+            }
+          },
+          {
+            "atSecond": 840,
+            "label": {
+              "hu": "Az egész test — pihenj a teljességben",
+              "en": "The whole body — rest in wholeness"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ds-timer-sziv",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Gyakorlat: szívkoherencia és a tágas jelen (10 perc)",
+        "en": "Practice: heart coherence and the generous present (10 min)"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ülj kényelmesen, és helyezd a figyelmed a mellkasod közepére. Lélegezz lassan és egyenletesen — körülbelül öt másodperc be, öt ki —, mintha a levegő a szívtájékon áramolna át. Amikor a ritmus megnyugodott, hívj elő egy őszinte emelkedett érzést: hálát, törődést, csendes örömöt — és időzz benne. Aztán engedj el minden célt, és pihenj a nyitott jelenben. A végén, még az érzésben, próbáld el belül azt, akivé válni gyakorolsz. A légzés végig könnyű és kényelmes marad — semmi visszatartás, semmi erőltetés.",
+          "en": "Sit comfortably and place your attention in the middle of the chest. Breathe slowly and evenly — about five seconds in, five out — as if the air were flowing through the heart area. When the rhythm has settled, call up a sincere elevated feeling: gratitude, care, quiet joy — and dwell in it. Then release every goal and rest in the open present. At the end, still within the feeling, inwardly rehearse the person you are practising to become. The breath stays light and comfortable throughout — no holding, no forcing."
+        },
+        "intervals": [
+          {
+            "atSecond": 60,
+            "label": {
+              "hu": "Lassú, egyenletes szívlégzés",
+              "en": "Slow, even heart-breathing"
+            }
+          },
+          {
+            "atSecond": 210,
+            "label": {
+              "hu": "Emelkedett érzés — hála, törődés, öröm",
+              "en": "Elevated feeling — gratitude, care, joy"
+            }
+          },
+          {
+            "atSecond": 390,
+            "label": {
+              "hu": "Engedj el minden célt — időzz a tágas jelenben",
+              "en": "Release every goal — rest in the generous present"
+            }
+          },
+          {
+            "atSecond": 510,
+            "label": {
+              "hu": "Belső próba — akivé válni gyakorolsz",
+              "en": "Mental rehearsal — the one you are becoming"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ds-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Napi gyakorlási ellenőrzőlista",
+        "en": "Daily practice checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Csendes, zavartalan helyet és időt választottam",
+              "en": "I chose a quiet, undisturbed place and time"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "A gerincem egyenes volt, a testem kényelmes",
+              "en": "My spine was straight, my body at ease"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "A légzés végig lágy maradt — semmit sem erőltettem",
+              "en": "The breath stayed gentle throughout — I forced nothing"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Az emelkedett érzés őszinte volt, nem megjátszott",
+              "en": "The elevated feeling was sincere, not performed"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Elkalandozó figyelmemet kedvesen visszatereltem",
+              "en": "When attention wandered, I guided it back kindly"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Utána megfigyeltem a belső gyümölcsöket: nyugalom, energia, jelenlét, nyitott szív",
+              "en": "Afterwards I observed the inner fruits: calm, energy, presence, open heart"
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Naplóbejegyzést írtam a mai gyakorlásról",
+              "en": "I wrote a diary entry about today’s practice"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ds-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "Aspektusok — a gyakorlás tükrei",
+        "en": "Aspects — mirrors of the practice"
+      },
+      "aspektusPack": [
+        {
+          "key": "ds-asp-jelenlet",
+          "elem": "ido",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Jelenlét — a tágas mostban időzés",
+            "en": "Presence — dwelling in the generous now"
+          }
+        },
+        {
+          "key": "ds-asp-hala",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Hála és emelkedett érzés",
+            "en": "Gratitude and elevated feeling"
+          }
+        },
+        {
+          "key": "ds-asp-szivnyitas",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Nyitott szív — melegség önmagam és mások felé",
+            "en": "Open heart — warmth toward myself and others"
+          }
+        },
+        {
+          "key": "ds-asp-nyugalom",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Testi nyugalom, rendezett energia",
+            "en": "Bodily calm, ordered energy"
+          }
+        },
+        {
+          "key": "ds-asp-multkorok",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Múltba ragadt gondolat-érzés körök",
+            "en": "Thought-feeling loops stuck in the past"
+          }
+        },
+        {
+          "key": "ds-asp-eroltetes",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Erőltetés — akarattal kikényszerített gyakorlás",
+            "en": "Straining — practice forced by willpower"
+          }
+        },
+        {
+          "key": "ds-asp-turelmetlenseg",
+          "elem": "ido",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Türelmetlen eredményvárás",
+            "en": "Impatient chasing of results"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ds-naplo",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Naplósablon — a belső gyümölcsök mérése",
+        "en": "Journal template — measuring the inner fruits"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["ds-asp-jelenlet"],
+        "prompts": {
+          "hu": "Melyik gyakorlatot végeztem ma, és mennyi ideig? — Mennyire maradt lágy a légzés (1–5), és volt-e bármi kellemetlen testérzet? — Milyen emelkedett érzés jött el, és mennyire volt őszinte? — A belső gyümölcsök ma (1–5): nyugalom, energia, jelenlét, a szív nyitottsága. — Hová vándorolt leggyakrabban a figyelmem? — Mit igazítok holnap: időpont, hossz, testtartás, hozzáállás?",
+          "en": "Which practice did I do today, and for how long? — How gentle did the breath stay (1–5), and was there any unpleasant bodily sensation? — What elevated feeling arrived, and how sincere was it? — Today’s inner fruits (1–5): calm, energy, presence, openness of heart. — Where did my attention wander most often? — What will I adjust tomorrow: time, length, posture, attitude?"
+        }
+      }
+    },
+    {
+      "id": "ds-kviz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Kvíz — a keret és a biztonság",
+        "en": "Quiz — framing and safety"
+      },
+      "quiz": {
+        "passThreshold": 2,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Hogyan kezeli ez a modul Dispenza kvantummezős magyarázatát?",
+              "en": "How does this module treat Dispenza’s quantum-field explanation?"
+            },
+            "options": {
+              "hu": [
+                "Bizonyított tudományos tényként, amelyet nem szabad megkérdőjelezni",
+                "Munkamodellként, amelynek értékét a gyakorlás belső gyümölcsei mérik",
+                "Babonaként, amelyet teljesen figyelmen kívül hagyunk",
+                "Orvosi kezelési protokollként"
+              ],
+              "en": [
+                "As proven scientific fact that must not be questioned",
+                "As a working model whose value is measured by the inner fruits of practice",
+                "As superstition to be ignored entirely",
+                "As a medical treatment protocol"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Mi a helyes hozzáállás a gerinc menti légzéshez?",
+              "en": "What is the right attitude to the breath up the spine?"
+            },
+            "options": {
+              "hu": [
+                "Minél erősebben szorítok, annál hatásosabb",
+                "A szédülés jó jel: azt jelenti, működik",
+                "Lágyan, erőltetés nélkül végzem, és szédülés vagy rosszullét esetén azonnal abbahagyom",
+                "Betegség esetén is nyugodtan végezhető, orvosi jóváhagyás nélkül"
+              ],
+              "en": [
+                "The harder I squeeze, the more effective it is",
+                "Dizziness is a good sign: it means it is working",
+                "I practise gently, without forcing, and stop at once if dizzy or unwell",
+                "It is fine to practise with any illness, without a doctor’s approval"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mit kapcsol össze a szívkoherencia gyakorlata?",
+              "en": "What does the heart-coherence practice join together?"
+            },
+            "options": {
+              "hu": [
+                "A lassú, ritmikus légzést és az őszinte, emelkedett érzelmet",
+                "A gyors légzést és az erős akaratot",
+                "A múlt elemzését és a jövő tervezését",
+                "A koffeint és a koncentrációt"
+              ],
+              "en": [
+                "Slow, rhythmic breathing and a sincere, elevated emotion",
+                "Fast breathing and strong willpower",
+                "Analysing the past and planning the future",
+                "Caffeine and concentration"
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    }
+  ]
+}

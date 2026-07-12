@@ -29,6 +29,13 @@ Install: copy a module's **raw** link below and paste it in the app
 | Intention Turned Inward — Reversed Remote Viewing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/remote.influencing/module.json` |
 | Mediumship and Discernment — Speaking with the Dead | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/mediumship.craft/module.json` |
 | Telekinesis — the Kinesis Path (Attention, Imagination, Intent) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/telekinesis.kinesis/module.json` |
+| José Silva — Mind Control: the School of the Alpha Level | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/silva.mindcontrol/module.json` |
+| Silva — You the Healer: the School of Healing Imagination | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/silva.healing/module.json` |
+| Joe Dispenza — You Are the Placebo | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.placebo/module.json` |
+| Joe Dispenza — Breaking the Habit of Being Yourself | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.newself/module.json` |
+| Joe Dispenza — Becoming Supernatural | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.supernatural/module.json` |
+| Master Arion's Answers — Living Questions of the Bardon Path | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/arion.answers/module.json` |
+| Develop Your Thinking — the School of Thought (Evolve Your Brain) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/thinking.school/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 

@@ -1,0 +1,476 @@
+{
+  "formatVersion": 1,
+  "id": "dispenza.placebo",
+  "version": 1,
+  "nevek": {
+    "hu": "Joe Dispenza — A placebo te magad légy",
+    "en": "Joe Dispenza — You Are the Placebo"
+  },
+  "description": {
+    "hu": "Gyakorlati modul Joe Dispenza hiedelem-átalakító meditációs módszeréhez: mentális próba, emelkedett érzelem és tiszta szándék párosítása. A modul Dispenza saját modelljeként mutatja be a tanítást, és a belső gyümölcsökkel — hangulat, szokások, szemlélet — méri a haladást. Nem orvosi kezelés, és nem helyettesíti azt.",
+    "en": "A practical module on Joe Dispenza’s belief-change meditation method: mental rehearsal and elevated emotion paired with clear intention. The teaching is presented as Dispenza’s own model, and progress is measured by inner fruits — mood, habits, outlook. This is not medical treatment and never replaces it."
+  },
+  "items": [
+    {
+      "id": "dp-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Ki Joe Dispenza, és mit ígér ez a modul?",
+        "en": "Who Is Joe Dispenza, and What Does This Module Promise?"
+      },
+      "text": {
+        "hu": "„Mindig is mi magunk voltunk a placebo.” — Joe Dispenza\n\nJoe Dispenza kiropraktőr, előadó és író, aki a placebohatás gondolatát fordította meg: ha az emberek egy hatóanyag nélküli tablettától is képesek jobban lenni pusztán azért, mert hisznek benne, akkor — érvel ő — a hit és a várakozás belső állapota önmagában is formálhatja a testet. Könyve, „A placebo te magad légy”, erre a modellre épít: meditációval, mentális próbával és érzelmi átállítással tanítja az olvasót arra, hogy régi, önkorlátozó hiedelmeit új létállapotra cserélje.\n\n**Őszinte keret.** Ebben a modulban Dispenza tanítását az ő saját modelljeként mutatjuk be, nem bizonyított tényként. A könyvben szereplő gyógyulástörténetek és workshop-beszámolók a hagyomány állításai — inspirálóak lehetnek, de nem tekintjük őket bizonyítéknak. A gyakorlat értékét itt kizárólag belső gyümölcsökkel mérjük: nyugodtabb lettél-e, változtak-e a szokásaid, derűsebb-e a szemléleted, kitartóbb vagy-e a mindennapi fegyelmedben.\n\n**Orvosi korlát — ez nem alku tárgya.** Ez a gyakorlat nem orvosi kezelés, nem diagnózis és nem terápia. Soha ne hagyd abba és ne módosítsd a gyógyszereidet vagy a kezelésedet, kizárólag orvosoddal egyeztetve. A meditáció a gondozás mellett használható, soha nem helyette. Semmilyen gyógyulási eredményt nem ígérünk — csak egy fegyelmezett belső munkát, amelynek gyümölcseit te magad figyelheted meg a naplódban.",
+        "en": "„We ourselves have always been the placebo.” — Joe Dispenza\n\nJoe Dispenza is a chiropractor, lecturer and author who turned the idea of the placebo effect around: if people can improve after taking a pill with no active ingredient simply because they believe in it, then — he argues — the inner state of belief and expectation can itself shape the body. His book, You Are the Placebo, builds on this model: through meditation, mental rehearsal and emotional re-conditioning, he teaches the reader to exchange old, self-limiting beliefs for a new state of being.\n\n**Honest framing.** In this module Dispenza’s teaching is presented as his own model, not as established fact. The healing stories and workshop reports in the book are the tradition’s claims — they may inspire, but we do not treat them as proof. Here the value of the practice is measured only by inner fruits: whether you become calmer, whether your habits shift, whether your outlook brightens, whether your daily discipline deepens.\n\n**Medical fence — non-negotiable.** This practice is not medical treatment, diagnosis or therapy. Never stop or alter your medication or treatment except in consultation with your doctor. Meditation may be used alongside medical care, never instead of it. No healing outcome is promised — only a disciplined inner work whose fruits you can observe for yourself in your diary."
+      }
+    },
+    {
+      "id": "dp-model",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A modell: gondolatból hiedelem, hiedelemből percepció",
+        "en": "The Model: From Thought to Belief to Perception"
+      },
+      "text": {
+        "hu": "Dispenza modelljében a belső világ rétegesen épül fel. Egy gondolat, amelyet újra és újra elgondolunk és átérzünk, idővel **attitűddé** rögzül. Amikor több rokon attitűd hosszú időn át együtt jár, a modell szerint **hiedelem** szilárdul belőlük; a megcsontosodott hiedelmek összessége pedig **percepcióvá** válik — azzá a többnyire tudattalan szűrővé, amelyen át a világot és önmagunkat látjuk. Ezért nem elég egy hiedelmet észérvekkel megcáfolni: a modell szerint a testet is át kell hangolni, mert a test — sokéves ismétlés után — maga vált a tudatalatti elmévé.\n\nEbből következik a módszer két kulcsfogalma. Az első a **mentális próba**: ha egy cselekvést vagy állapotot képzeletben, összeszedett figyelemmel gyakorolunk, az idegrendszer a modell szerint úgy kezd hangolódni, mintha valóban gyakorolnánk — így a változás belül kezdődhet, még mielőtt a külső körülmények változnának. A második az **emelkedett érzelem és a tiszta szándék párosítása**: egy világosan megfogalmazott új döntés önmagában csak gondolat; a modell szerint akkor válik a test számára is „valóságos” tapasztalattá, ha hálával, lelkesedéssel, szeretettel — tehát felemelt érzelmi állapottal — éljük át.\n\nFontos józanul látni: ez Dispenza értelmezési kerete, amely tudományos fogalmakat — agyhullámok, gének, kvantummező — a saját tanítása nyelveként használ. A gyakorlónak nem kell elfogadnia a magyarázatot ahhoz, hogy a gyakorlatból hasznot merítsen. Amit mérni tudsz, az a saját tapasztalatod: figyelmed minősége, érzelmi alaphangod, döntéseid és szokásaid lassú átrendeződése.",
+        "en": "In Dispenza’s model the inner world is built in layers. A thought that is thought and felt again and again hardens over time into an **attitude**. When several kindred attitudes travel together long enough, the model holds, a **belief** solidifies out of them; and the sum of one’s hardened beliefs becomes a **perception** — the largely unconscious filter through which we see the world and ourselves. This is why refuting a belief with arguments alone is not enough: according to the model, the body must also be re-tuned, because after years of repetition the body itself has become the subconscious mind.\n\nTwo key concepts of the method follow from this. The first is **mental rehearsal**: when we practise an action or a state in imagination with gathered attention, the nervous system — so the model claims — begins to tune itself as if we were truly practising, so change can begin within before outer circumstances change. The second is the **pairing of elevated emotion with clear intention**: a clearly formulated new decision is, by itself, only a thought; the model holds that it becomes a lived experience for the body only when it is felt with gratitude, enthusiasm, love — an uplifted emotional state.\n\nIt is important to stay sober here: this is Dispenza’s interpretive framework, which uses scientific vocabulary — brainwaves, genes, the quantum field — as the language of his own teaching. The practitioner need not accept the explanation in order to benefit from the exercise. What you can measure is your own experience: the quality of your attention, your emotional baseline, and the slow reordering of your decisions and habits."
+      }
+    },
+    {
+      "id": "dp-method",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A meditáció módszere lépésről lépésre",
+        "en": "The Meditation Method Step by Step"
+      },
+      "text": {
+        "hu": "A gyakorlat három szakaszból áll, és Dispenza szerint naponta érdemes végezni, lehetőleg ugyanabban az időben.\n\n**Előkészület.** A legalkalmasabb időpont közvetlenül ébredés után vagy lefekvés előtt, amikor az elme természetes módon lassabb, befelé fordulóbb állapotban van. Válassz csendes, zavartalan helyet — ne az ágyat —, ülj egyenes gerinccel, kapcsold ki a telefont, viselj kényelmes ruhát. A test lazuljon el, de a figyelem maradjon éber.\n\n**1. szakasz — nyitott fókusz (kb. 10–15 perc).** Csukott szemmel a figyelmedet nem tárgyakra, hanem a **térre** irányítod: előbb a tested egyes részei által elfoglalt térre, majd a tested körüli térre, végül a helyiség és az egész tér tágasságára. Mivel a tér nem „valami”, amin gondolkodni lehet, az elme fokozatosan elcsendesedik, és tágabb, nyugodtabb állapotba kerül.\n\n**2. szakasz — a jelen pillanat (kb. 10–15 perc).** Engedd el a nevedet, a szerepeidet, a teendőidet, a múltat és a várható jövőt, és időzz el egyszerű, tiszta tudatosságként a jelenben. Amikor a figyelem visszatér ismerős emberekhez, gondokhoz vagy a testhez, csak vedd észre — ítélkezés nélkül —, és tereld vissza a nyitott jelenlétbe: türelmesen, de határozottan, ahányszor csak szükséges.\n\n**3. szakasz — hiedelemváltás (kb. 20–30 perc).** Idézd fel az előre kiválasztott régi hiedelmet, és tedd fel a kérdést: akarom-e még ezt hinni? Ha nem, hozz olyan határozott belső döntést, amelynek ereje emlékezetes élménnyé teszi a pillanatot. Majd fogalmazd meg az új hiedelmet, és éld át — mentális próbaként — milyen lenne már most így élni: milyen döntéseket hoznál, hogyan viselkednél, mit éreznél. Párosítsd a tiszta szándékot emelkedett érzelemmel, végül zárd hálával, mintha a változás már elkezdődött volna, és jegyezd le a tapasztalatot a naplódba.",
+        "en": "The practice has three stages, and Dispenza recommends doing it daily, ideally at the same time.\n\n**Preparation.** The best times are right after waking or just before sleep, when the mind is naturally in a slower, more inward state. Choose a quiet, undisturbed place — not your bed —, sit with an upright spine, switch off the phone, wear comfortable clothes. Let the body relax while the attention stays alert.\n\n**Stage 1 — open focus (about 10–15 minutes).** With closed eyes, direct your attention not at objects but at **space**: first the space occupied by parts of your body, then the space around your body, finally the spaciousness of the room and of space itself. Because space is not a thing one can think about, the mind gradually grows quiet and settles into a wider, calmer state.\n\n**Stage 2 — the present moment (about 10–15 minutes).** Release your name, your roles, your tasks, the past and the expected future, and rest as simple, clear awareness in the present. Whenever attention drifts back to familiar people, problems or the body, simply notice it — without judgement — and guide it back into open presence: patiently but firmly, as many times as it takes.\n\n**Stage 3 — belief change (about 20–30 minutes).** Bring up the old belief you chose in advance and ask: do I still want to believe this? If not, make an inner decision so firm that its intensity turns the moment into a memorable experience. Then formulate the new belief and live it as a mental rehearsal: what decisions would you make, how would you act, what would you feel if you already lived this way. Pair the clear intention with an elevated emotion, close with gratitude as if the change had already begun, and record the experience in your diary."
+      }
+    },
+    {
+      "id": "dp-gyakorlat",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Egy hiedelem átírása a gyakorlatban",
+        "en": "Rewriting a Belief in Practice"
+      },
+      "text": {
+        "hu": "A meditáció előtt papírmunka vár rád — ez adja a gyakorlat gerincét.\n\n**1. Válaszd ki a régi hiedelmet.** Fogj egy lapot, és húzd ketté egy függőleges vonallal. A bal oldalra írd fel azt az egy-két önkorlátozó hiedelmet vagy percepciót, amelyet le akarsz cserélni. Ilyen lehet például: „az élet küzdelem”, „én már nem tudok megváltozni”, „nem vagyok elég jó”. Légy pontos: minél konkrétabb a régi mondat, annál világosabb a munka.\n\n**2. Fogalmazd meg az újat.** A jobb oldalra írd fel, mit akarsz ehelyett hinni és észlelni — és azt is, milyen **érzés** volna már ebben élni. Az új mondat legyen tömör, jelen idejű és belülről fakadó; ne külső eredményt ígérjen, hanem létállapotot fogalmazzon meg.\n\n**3. Dolgozz naponta.** A meditáció 3. szakaszában ezzel a lappal dolgozol: régi hiedelem — döntés — új hiedelem — átélt érzelem — hála. Kezdőknek Dispenza fokozatos felépítést ajánl: az első héten csak a nyitott fókuszt gyakorold, a másodikon vedd hozzá a jelen pillanatot, a harmadiktól a teljes folyamatot.\n\n**4. Mérj belső gyümölcsökkel.** Ne azt figyeld, „megtörtént-e a csoda”, hanem azt, ami valóban megfigyelhető: nyugodtabban ébredsz-e, ritkábban ragadnak el a régi érzelmi körök, könnyebben tartod-e a napi fegyelmet, derűsebben nézel-e az emberekre. Ezeket jegyezd a naplódba minden gyakorlás után. Ha egészségi állapotot érintő hiedelmen dolgozol, a keret változatlan: a gyakorlat a kezelésed **mellett** fut, soha nem helyette, és minden gyógyszert pontosan úgy szedsz tovább, ahogy orvosod rendelte.",
+        "en": "Before the meditation there is paperwork — it forms the backbone of the practice.\n\n**1. Choose the old belief.** Take a sheet of paper and divide it with a vertical line. On the left, write the one or two self-limiting beliefs or perceptions you want to replace. For example: life is a struggle; I can no longer change; I am not good enough. Be precise: the more concrete the old sentence, the clearer the work.\n\n**2. Formulate the new one.** On the right, write what you want to believe and perceive instead — and also what it would **feel** like to live in it already. The new sentence should be short, present-tense and inwardly sourced; it should describe a state of being, not promise an external outcome.\n\n**3. Work daily.** In stage 3 of the meditation you work with this sheet: old belief — decision — new belief — felt emotion — gratitude. For beginners Dispenza recommends a gradual build-up: in the first week practise only the open focus, in the second add the present moment, from the third do the whole process.\n\n**4. Measure by inner fruits.** Do not watch for a miracle; watch what is actually observable: do you wake calmer, do the old emotional loops seize you less often, is your daily discipline easier to keep, do you look at people with more warmth. Note these in your diary after every session. If you work on a health-related belief, the frame does not change: the practice runs **alongside** your treatment, never instead of it, and you keep taking every medication exactly as your doctor prescribed."
+      }
+    },
+    {
+      "id": "dp-etika",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Etika, józanság és orvosi korlát",
+        "en": "Ethics, Sobriety and the Medical Fence"
+      },
+      "text": {
+        "hu": "**A modell nem tény, hanem tanítás.** Dispenza rendszere ihletett, de vitatott értelmezési keret. A könyv esettörténetei — a workshopokon leírt gyógyulások és rendkívüli élmények — a hagyomány saját állításai, nem független bizonyítékok. Ez nem ok az elutasításra, de ok az alázatra: gyakorolj nyitott elmével és kritikus ítélőképességgel egyszerre.\n\n**Ne ígérj magadnak kimenetelt.** Aki a gyakorlathoz gyógyulási határidőt vagy garantált eredményt köt, csalódásra és önvádra készíti fel magát — ha pedig elmarad a remélt fordulat, könnyen a „nem hittem eléggé” mérgező következtetésébe fut. A helyes mérce mindig a belső gyümölcs: a hangulat, a szokások, a szemlélet és a kitartás lassú érése. Ezek fölött van hatalmad; a többit engedd el.\n\n**Orvosi korlát, harmadszor és nyomatékkal.** Ez a modul nem orvosi kezelés. Semmilyen gyakorlat, döntés vagy „új hiedelem” nem indokolja, hogy gyógyszert hagyj el, adagot módosíts, kezelést szakíts meg vagy vizsgálatot halassz el — ilyen lépésről kizárólag orvosoddal együtt dönthetsz. A meditáció a gondozás kiegészítője, soha nem helyettesítője. Ha a gyakorlás alatt testi tünetet, erős szorongást vagy nyomasztó élményt tapasztalsz, szüneteltesd a gyakorlatot, és fordulj szakemberhez.\n\n**Bardoni szemmel.** A mágikus napló hagyományában a hiedelemmunka az introspekció rokona: a fekete tükör őszinte feltárása nélkül az új hiedelem csak máz a régi szerkezeten. Előbb ismerd meg, mit hiszel valójában — aztán dönts arról, mit akarsz hinni.",
+        "en": "**The model is a teaching, not a fact.** Dispenza’s system is an inspired but contested interpretive framework. The case stories in the book — the healings and extraordinary experiences described at workshops — are the tradition’s own claims, not independent proof. This is no reason to dismiss the practice, but it is a reason for humility: practise with an open mind and a critical judgement at the same time.\n\n**Promise yourself no outcome.** Whoever ties the practice to a healing deadline or a guaranteed result prepares themselves for disappointment and self-blame — and if the hoped-for turn does not come, slides easily into the toxic conclusion of not having believed hard enough. The right measure is always the inner fruit: the slow ripening of mood, habits, outlook and perseverance. Over these you have power; release the rest.\n\n**The medical fence, a third time and with emphasis.** This module is not medical treatment. No exercise, decision or new belief ever justifies stopping a medication, changing a dose, interrupting a treatment or postponing an examination — such steps are decided only together with your doctor. Meditation complements care; it never replaces it. If during practice you notice physical symptoms, strong anxiety or distressing experiences, pause the practice and consult a professional.\n\n**Through Bardonian eyes.** In the tradition of the magical diary, belief-work is kin to introspection: without the honest exploration of the black mirror, a new belief is only varnish on the old structure. First learn what you actually believe — then decide what you want to believe."
+      }
+    },
+    {
+      "id": "dp-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Felkészülési lista a meditációhoz",
+        "en": "Preparation Checklist for the Meditation"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Csendes, zavartalan helyet választottam — nem az ágyat",
+              "en": "I chose a quiet, undisturbed place — not my bed"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Időpontot rögzítettem: ébredés után vagy lefekvés előtt",
+              "en": "I fixed a time: right after waking or before sleep"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Telefon és számítógép kikapcsolva, kényelmes ruha, víz kéznél",
+              "en": "Phone and computer off, comfortable clothes, water at hand"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Egyenes gerinccel ülök; a test laza, a figyelem éber",
+              "en": "I sit with an upright spine; body relaxed, attention alert"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "A kettéosztott lapon felírtam a régi és az új hiedelmet",
+              "en": "On my divided sheet I wrote the old and the new belief"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Az új hiedelemhez tartozó érzést is megfogalmaztam",
+              "en": "I also named the feeling that belongs to the new belief"
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "Tudomásul vettem: ez nem orvosi kezelés — minden gyógyszert és kezelést változatlanul folytatok, módosítás csak orvosommal",
+              "en": "I acknowledge: this is not medical treatment — I continue all medication and treatment unchanged; changes only with my doctor"
+            }
+          },
+          {
+            "key": "c8",
+            "nevek": {
+              "hu": "A gyakorlás után naplóbejegyzést írok a belső gyümölcsökről",
+              "en": "After practice I will write a diary entry on the inner fruits"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "dp-timer-fokusz",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Nyitott fókusz — a tér érzékelése",
+        "en": "Open Focus — Sensing Space"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Ülj egyenes gerinccel, csukd be a szemed, végy néhány lassú, mély lélegzetet. A figyelmedet ne tárgyakra irányítsd, hanem a térre: előbb a tested egyes részei által elfoglalt térre, majd a tested körüli térre, végül a helyiség és a tér egészének tágasságára. Ha a figyelem elkalandozik, ítélkezés nélkül tereld vissza. Ez figyelemgyakorlat, nem orvosi kezelés — a gondozásod mellett használd, soha nem helyette.",
+          "en": "Sit with an upright spine, close your eyes, take a few slow, deep breaths. Direct your attention not at objects but at space: first the space occupied by parts of your body, then the space around your body, finally the spaciousness of the room and of space as a whole. When attention wanders, guide it back without judgement. This is an attention exercise, not medical treatment — use it alongside your care, never instead of it."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Érzékeld a tested részei által elfoglalt teret",
+              "en": "Sense the space occupied by parts of your body"
+            }
+          },
+          {
+            "atSecond": 360,
+            "label": {
+              "hu": "Tágítsd a figyelmet a tested körüli térre",
+              "en": "Widen attention to the space around your body"
+            }
+          },
+          {
+            "atSecond": 600,
+            "label": {
+              "hu": "Nyugodj meg a tér egészének tágasságában",
+              "en": "Rest in the spaciousness of space itself"
+            }
+          },
+          {
+            "atSecond": 840,
+            "label": {
+              "hu": "Lassan térj vissza, nyisd ki a szemed",
+              "en": "Return slowly and open your eyes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "dp-timer-hiedelem",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Hiedelemváltó meditáció — teljes folyamat",
+        "en": "Belief-Change Meditation — Full Process"
+      },
+      "timer": {
+        "durationSeconds": 2400,
+        "instructions": {
+          "hu": "Készítsd elő a kettéosztott lapot a régi és az új hiedelemmel. A folyamat: nyitott fókusz — jelen pillanat — döntés a régi hiedelemről — az új hiedelem átélése tiszta szándékkal és emelkedett érzelemmel — hála — visszatérés. Ne kimenetelt várj: a mércéd a belső gyümölcs, amit utána a naplódba jegyzel. Ez a gyakorlat nem orvosi kezelés; gyógyszert, kezelést soha ne hagyj el és ne módosíts, kizárólag orvosoddal egyeztetve — a meditáció a gondozásod mellett fut, nem helyette.",
+          "en": "Prepare your divided sheet with the old and the new belief. The process: open focus — present moment — decision about the old belief — living the new belief with clear intention and elevated emotion — gratitude — return. Expect no outcome: your measure is the inner fruit, which you record in your diary afterwards. This practice is not medical treatment; never stop or alter medication or treatment except in consultation with your doctor — the meditation runs alongside your care, not instead of it."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Nyitott fókusz: figyelem a térre",
+              "en": "Open focus: attention on space"
+            }
+          },
+          {
+            "atSecond": 720,
+            "label": {
+              "hu": "Jelen pillanat: engedd el a szerepeket, a múltat és a jövőt",
+              "en": "Present moment: release roles, past and future"
+            }
+          },
+          {
+            "atSecond": 1320,
+            "label": {
+              "hu": "Régi hiedelem: akarod-e még hinni? Hozz határozott döntést",
+              "en": "Old belief: do you still want it? Make a firm decision"
+            }
+          },
+          {
+            "atSecond": 1740,
+            "label": {
+              "hu": "Új hiedelem: éld át emelkedett érzelemmel, tiszta szándékkal",
+              "en": "New belief: live it with elevated emotion and clear intention"
+            }
+          },
+          {
+            "atSecond": 2160,
+            "label": {
+              "hu": "Hála és visszatérés — utána naplóbejegyzés",
+              "en": "Gratitude and return — then write your diary entry"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "dp-timer-proba",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Mentális próba — a holnapi nap begyakorlása",
+        "en": "Mental Rehearsal — Practising Tomorrow"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Rövid gyakorlat a nap végére vagy elejére. Csukott szemmel válassz egy közelgő helyzetet, amelyben az új hiedelmed szerint akarsz jelen lenni. Játszd le képzeletben, összeszedett figyelemmel: hogyan lépsz be, hogyan döntesz, hogyan érzel. A cél nem a külső eredmény irányítása, hanem a belső hozzáállás begyakorlása. Nem orvosi gyakorlat — a kezelésed mellett, soha nem helyette.",
+          "en": "A short practice for the end or start of the day. With closed eyes, choose an upcoming situation in which you want to be present according to your new belief. Play it through in imagination with gathered attention: how you enter, how you decide, how you feel. The aim is not to control the external result but to rehearse the inner stance. Not a medical exercise — alongside your treatment, never instead of it."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Csendesedj el, idézd fel az új hiedelmed",
+              "en": "Settle and recall your new belief"
+            }
+          },
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "Játszd le a helyzetet az új létállapotból",
+              "en": "Play the situation from the new state of being"
+            }
+          },
+          {
+            "atSecond": 510,
+            "label": {
+              "hu": "Zárd hálával, majd térj vissza",
+              "en": "Close with gratitude, then return"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "dp-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A hiedelemmunka aspektusai",
+        "en": "Aspects of Belief-Work"
+      },
+      "aspektusPack": [
+        {
+          "key": "dp-asp-onkorlatozo",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Önkorlátozó hiedelmek — a „nem lehet” automatikus mondatai",
+            "en": "Self-limiting beliefs — the automatic sentences of impossibility"
+          }
+        },
+        {
+          "key": "dp-asp-erzelmi-fuggoseg",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Érzelmi függőség — ragaszkodás a megszokott rossz érzésekhez",
+            "en": "Emotional addiction — clinging to familiar bad feelings"
+          }
+        },
+        {
+          "key": "dp-asp-testi-ellenallas",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "A test ellenállása — halogatás, kifogás, elkalandozás gyakorlás közben",
+            "en": "Bodily resistance — procrastination, excuses, drifting during practice"
+          }
+        },
+        {
+          "key": "dp-asp-jovoszorongas",
+          "elem": "ido",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Időszorongás — a múlt rágása és a kiszámítható jövő görcsös várása",
+            "en": "Time anxiety — chewing the past and bracing for a predictable future"
+          }
+        },
+        {
+          "key": "dp-asp-tiszta-szandek",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Tiszta szándék — világos, határozott belső döntés",
+            "en": "Clear intention — a lucid, firm inner decision"
+          }
+        },
+        {
+          "key": "dp-asp-emelkedett-erzelem",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Emelkedett érzelem — hála, derű, szeretet a gyakorlásban",
+            "en": "Elevated emotion — gratitude, serenity, love in practice"
+          }
+        },
+        {
+          "key": "dp-asp-jelenlet",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Jelenlét — tiszta tudatosságként nyugodni a mostban",
+            "en": "Presence — resting as clear awareness in the now"
+          }
+        },
+        {
+          "key": "dp-asp-onmegfigyeles",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Önmegfigyelés — a gondolatok és hiedelmek józan észlelése",
+            "en": "Self-observation — sober noticing of thoughts and beliefs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dp-naplo",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Napló a belső gyümölcsökről",
+        "en": "Diary of Inner Fruits"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["dp-asp-jelenlet", "dp-asp-emelkedett-erzelem", "dp-asp-onmegfigyeles"],
+        "prompts": {
+          "hu": "Melyik hiedelmen dolgoztam ma, és milyen mély volt a döntésem? Mennyire sikerült a jelenben maradnom — hányszor kalandozott el a figyelmem, és milyen könnyen tért vissza? Milyen érzelmi állapotban keltem fel a meditációból, és különbözött-e attól, ahogyan leültem? Milyen belső gyümölcsöt figyeltem meg ma: hangulat, szokások, szemlélet, kitartás? (A gyakorlat a kezelésem mellett fut; gyógyszert, kezelést csak orvosommal módosítok.)",
+          "en": "Which belief did I work on today, and how deep was my decision? How well did I stay in the present — how often did attention wander, and how easily did it return? In what emotional state did I rise from the meditation, and did it differ from how I sat down? What inner fruit did I observe today: mood, habits, outlook, perseverance? (The practice runs alongside my treatment; I change medication or treatment only with my doctor.)"
+        }
+      }
+    },
+    {
+      "id": "dp-kviz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Önellenőrzés — józan keretek",
+        "en": "Self-Check — Sober Frames"
+      },
+      "quiz": {
+        "passThreshold": 2,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mit ígér ez a modul a gyakorlónak?",
+              "en": "What does this module promise the practitioner?"
+            },
+            "options": {
+              "hu": [
+                "Garantált gyógyulást, ha elég erősen hiszek",
+                "Fegyelmezett belső munkát, amelynek eredményét a belső gyümölcsök — hangulat, szokások, szemlélet — mutatják",
+                "Hogy a betegségek a hiedelmeim hibájából alakulnak ki",
+                "Hogy három hét után minden külső körülmény megváltozik"
+              ],
+              "en": [
+                "Guaranteed healing if I believe hard enough",
+                "A disciplined inner work whose results show in inner fruits — mood, habits, outlook",
+                "That illnesses arise through the fault of my beliefs",
+                "That after three weeks every external circumstance will change"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Mi a helyes viszony a gyakorlat és az orvosi kezelés között?",
+              "en": "What is the right relationship between the practice and medical treatment?"
+            },
+            "options": {
+              "hu": [
+                "Ha jól haladok a meditációval, fokozatosan elhagyhatom a gyógyszereimet",
+                "A meditáció kiváltja az orvosi vizsgálatokat",
+                "A gyakorlat a kezelés mellett fut; gyógyszert vagy kezelést kizárólag orvosommal egyeztetve módosítok",
+                "Elég az orvost utólag tájékoztatni, ha már csökkentettem az adagot"
+              ],
+              "en": [
+                "If the meditation goes well, I can gradually drop my medication",
+                "Meditation replaces medical examinations",
+                "The practice runs alongside treatment; I change medication or treatment only in consultation with my doctor",
+                "It is enough to inform the doctor afterwards, once I have already reduced the dose"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Hogyan tekintsünk a könyvben szereplő gyógyulástörténetekre?",
+              "en": "How should we regard the healing stories in the book?"
+            },
+            "options": {
+              "hu": [
+                "Tudományosan igazolt bizonyítékok, amelyek garantálják a módszer hatását",
+                "A hagyomány saját állításai: inspirálhatnak, de nem bizonyítékok — a saját mércém a belső gyümölcs",
+                "Jogi értelemben kötelező érvényű ígéretek",
+                "Jelentéktelenek, ezért az egész módszer értéktelen"
+              ],
+              "en": [
+                "Scientifically proven evidence guaranteeing the method works",
+                "The tradition’s own claims: they may inspire, but they are not proof — my own measure is the inner fruit",
+                "Legally binding promises",
+                "Meaningless, so the whole method is worthless"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q4",
+            "prompt": {
+              "hu": "Mi a hiedelemváltó meditáció két fő összetevője Dispenza modelljében?",
+              "en": "What are the two main ingredients of the belief-change meditation in Dispenza’s model?"
+            },
+            "options": {
+              "hu": [
+                "Tiszta szándék és emelkedett érzelem párosítása",
+                "Hangos ismételgetés és akaraterő",
+                "Külső megerősítés és mások meggyőzése",
+                "Böjt és virrasztás"
+              ],
+              "en": [
+                "The pairing of clear intention and elevated emotion",
+                "Loud repetition and willpower",
+                "External validation and convincing others",
+                "Fasting and vigils"
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    }
+  ]
+}

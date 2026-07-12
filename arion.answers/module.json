@@ -1,0 +1,393 @@
+{
+  "formatVersion": 1,
+  "id": "arion.answers",
+  "version": 1,
+  "nevek": {
+    "hu": "Arion mester válaszai — a Bardon-út élő kérdései",
+    "en": "Master Arion’s Answers — Living Questions of the Bardon Path"
+  },
+  "description": {
+    "hu": "Az ötvenes évek elején, Prágában, Franz Bardon tanítványi körében kérdések és válaszok gyűltek össze a hermetikus út gyakorlatáról. Ez a modul nem másolja a szöveget: a visszatérő tanácsok szellemét desztillálja — helyes gyakorlás, türelem, gyakori kezdő hibák, a tanítókkal és jelenségekkel szembeni éber megkülönböztetés. A hagyomány kijelentései a saját hangján szólnak; mércéjük a belső gyümölcs, nem a külső bizonyíték.",
+    "en": "In early-1950s Prague, within Franz Bardon’s circle of students, questions and answers about the practice of the hermetic path were collected. This module does not copy that text: it distils the spirit of its recurring counsel — right practice, patience, common beginner mistakes, and alert discernment toward teachers and phenomena. The tradition’s statements speak in their own voice; their measure is inner fruit, not outer proof."
+  },
+  "items": [
+    {
+      "id": "ar-bevezeto",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Ki volt Arion? — a forrás és a becsületes keret",
+        "en": "Who Was Arion? — the Source and the Honest Frame"
+      },
+      "text": {
+        "hu": "„Fokról-fokra haladva a legmagasabb ideáig.” — Arion\n\nA kézirat az ötvenes évek elején, Prágában született, Franz Bardon tanítványi körében — még azelőtt, hogy Bardon tankönyvei nyomtatásban megjelentek volna. A tanítványok kérdéseket tettek fel a mentális, asztrális és anyagi sík működéséről, a válaszokat pedig a hagyomány **Arion mesternek**, Bardon szellemi nevének tulajdonítja. Dieter Rüggeberg kiadó évtizedekkel később tette közzé, kifejezetten azzal a céllal, hogy az egyéni meditációs munkát ösztönözze — nem azért, hogy dogmát adjon.\n\n**Becsületes keret.** Ami ebben az anyagban metafizikai állítás — fluidumok, elemi lények, az Akasha működése —, az a hagyomány saját belső térképe, nem külsőleg bizonyított tény. A hermetikus út mércéje mindig ugyanaz: mit érlel benned a gyakorlás? Nyugodtabb, rendezettebb, jóságosabb lettél-e? Ha igen, a térkép jól szolgál. Ha a tanítás szorongást, függést vagy gőgöt táplál, a térképet félre kell tenni — bármilyen tekintély áll is mögötte.",
+        "en": "“Advancing step by step, up to the highest ideal.” — Arion\n\nThe manuscript was born in early-1950s Prague, within Franz Bardon’s circle of students — before Bardon’s own textbooks had even appeared in print. Students posed questions about the workings of the mental, astral, and physical planes, and the tradition attributes the answers to **Master Arion**, Bardon’s spiritual name. The publisher Dieter Rüggeberg released it decades later, expressly to encourage individual meditative work — not to hand down dogma.\n\n**The honest frame.** Whatever is metaphysical in this material — fluids, elemental beings, the workings of the Akasha — is the tradition’s own inner map, not externally proven fact. The measure of the hermetic path is always the same: what does the practice ripen in you? Have you become calmer, more ordered, kinder? If so, the map is serving well. If a teaching feeds anxiety, dependence, or pride, the map must be set aside — whatever authority stands behind it."
+      }
+    },
+    {
+      "id": "ar-helyes-gyakorlas",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A visszatérő tanács: hogyan gyakorolj",
+        "en": "The Recurring Counsel: How to Practise"
+      },
+      "text": {
+        "hu": "Ha a kérdések és válaszok sokféleségét egyetlen fonalra fűzzük, mindig ugyanaz a tanács tér vissza: **az alap a jellem kiegyensúlyozása**, nem a képességek gyűjtése. A hagyomány nyelvén az elemek egyensúlya; a hétköznapok nyelvén: ismerd a saját indulataidat, szokásaidat, gyengéidet, és dolgozz rajtuk naponta.\n\nA gyakorlás rendje egyszerű és szigorú:\n\n- **Naponta, keveset, pontosan.** Egy rövid, teljes figyelemmel végzett gyakorlat többet ér, mint egy hosszú, szétszórt.\n- **Önvizsgálat folyamatosan.** Az introspekció nem egyszeri leltár, hanem életforma: minden nap egy fény és egy árnyék feljegyzése.\n- **Fokozatosan építs.** Előbb a gondolat megfigyelése, aztán az egy-pontú összpontosítás, aztán az elmélyülés — lépcsőt kihagyni nem lehet.\n- **Négy pillér tartja a munkát:** tudni, merni, akarni, hallgatni. A negyedik a legnehezebb: a gyakorlásról nem beszélünk fűnek-fának — a csend őrzi az erőt és a józanságot.\n\nA napló ehhez nem díszlet, hanem műszer: ami nincs leírva, az elmosódik.",
+        "en": "If the variety of questions and answers is drawn onto a single thread, the same counsel always returns: **the foundation is the balancing of character**, not the collecting of abilities. In the tradition’s language, the equilibrium of the elements; in everyday language: know your own impulses, habits, and weaknesses, and work on them daily.\n\nThe order of practice is simple and strict:\n\n- **Daily, briefly, exactly.** One short exercise done with full attention is worth more than a long, scattered one.\n- **Introspection is continuous.** Self-examination is not a one-time inventory but a way of life: note one light and one shadow every day.\n- **Build gradually.** First the observation of thought, then one-pointed concentration, then absorption — no step can be skipped.\n- **Four pillars carry the work:** to know, to dare, to will, to keep silent. The fourth is the hardest: we do not talk about our practice to everyone — silence guards both power and sobriety.\n\nThe diary is not decoration here but an instrument: what is not written down blurs away."
+      }
+    },
+    {
+      "id": "ar-turelem",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A lassú út — türelem mint módszer",
+        "en": "The Slow Path — Patience as Method"
+      },
+      "text": {
+        "hu": "A tanítványok kérdései mögött gyakran ugyanaz a türelmetlenség lüktet: mikor látok már valamit? A válaszok szelleme mindig lehűti ezt a lázat. A fejlődés a hagyomány szerint úgy érik, mint a gyümölcs — és ami erőltetve, idő előtt szakad le, az éretlen és kesernyés.\n\nA hagyomány kifejezetten óv a rövidebb utaktól: az izgatószerekkel, kábítószerekkel kikényszerített »látás« szerinte nem fejlődés, hanem sérülés — az érzékek eltompulnak, a józan ítélőképesség károsodik. Még a saját legendás képeire is árcédulát tesz: aki a mesebeli fiatalító elixírrel éveket vásárolna vissza, az a hagyomány képe szerint cserébe mindazt odaadná, amit hosszú évek munkája érlelt benne. A kép tanulsága gyakorlati: **minden rövidítésnek ára van, és az ár mindig nagyobb, mint a nyereség.**\n\nA türelem itt nem tétlen várakozás, hanem módszer: az egyenletes ritmus. A mindennap elvégzett kis munka olyan, mint a csepp a kövön — nem látványos, de egyedül ez hagy nyomot.",
+        "en": "Behind the students’ questions the same impatience often pulses: when will I finally see something? The spirit of the answers always cools this fever. Development, the tradition says, ripens like fruit — and what is torn off early, by force, is unripe and bitter.\n\nThe tradition explicitly warns against shortcuts: a »seeing« forced by stimulants or drugs is, in its view, not development but injury — the senses dull, sober judgement is damaged. It even puts a price tag on its own legendary images: whoever would buy back years with the fabled elixir of youth would, in the tradition’s image, give up in exchange everything that long years of work had ripened in them. The lesson of the image is practical: **every shortcut has a price, and the price is always greater than the gain.**\n\nPatience here is not idle waiting but a method: the even rhythm. The small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark."
+      }
+    },
+    {
+      "id": "ar-kezdo-hibak",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Amin a kezdők elakadnak — gyakori hibák",
+        "en": "Where Beginners Get Stuck — Common Mistakes"
+      },
+      "text": {
+        "hu": "A kérdésekből kirajzolódik egy térkép azokról a helyekről, ahol az út elején járók újra és újra elakadnak:\n\n- **Jelenséghajszolás.** Aki látomást, hangot, különleges élményt vár, az a mellékterméket nézi célnak. A hagyomány szerint a képességek maguktól, mellékesen érnek be — aki hajszolja őket, épp az alapmunkát hanyagolja el.\n- **Egyoldalú fejlődés.** Ha valaki egyetlen képességet edz, és a jellem többi területét parlagon hagyja, a hagyomány szerint az egyensúlytalanság az egészségét és az ítélőképességét is aláássa. A mérce mindig az egész ember.\n- **Passzivitás és médiumkodás.** A saját akarat feladása — bármilyen lénynek, erőnek vagy embernek — a hagyomány szemében a legveszélyesebb út. A gyakorló mindig éber és kormányon marad; ami az akaratod megkerülésével jön, annak nem nyitsz ajtót.\n- **Elmélet gyakorlat nélkül.** A könyvek gyűjtése nem gyakorlás. Egyetlen elvégzett introspekció többet tanít, mint tíz elolvasott fejezet.\n- **Fecsegés.** Aki a gyakorlásáról beszél, dicsekszik vagy vitázik, az szétszórja, amit gyűjtött — és hiúságot nevel oda, ahol józanságra volna szükség.",
+        "en": "From the questions a map emerges of the places where those at the start of the path get stuck again and again:\n\n- **Chasing phenomena.** Whoever waits for visions, voices, special experiences is treating a by-product as the goal. In the tradition’s view, abilities ripen on their own, incidentally — whoever chases them neglects precisely the foundational work.\n- **One-sided development.** If someone trains a single ability and leaves the rest of the character fallow, the tradition holds that the imbalance undermines health and judgement alike. The measure is always the whole person.\n- **Passivity and mediumship.** Surrendering one’s own will — to any being, force, or person — is in the tradition’s eyes the most dangerous road. The practitioner stays awake and at the helm; whatever arrives by bypassing your will, you do not open the door to.\n- **Theory without practice.** Collecting books is not practising. One completed self-examination teaches more than ten chapters read.\n- **Chatter.** Whoever talks about their practice, boasts, or debates scatters what was gathered — and grows vanity where sobriety is needed."
+      }
+    },
+    {
+      "id": "ar-megkulonboztetes",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Tanítók, jelenségek, mérce — a megkülönböztetés leckéje",
+        "en": "Teachers, Phenomena, and the Scale — the Lesson of Discernment"
+      },
+      "text": {
+        "hu": "A hagyomány maga mondja ki a legfontosabb határt: a tanító fényt gyújthat a tanítvány gondolkodásában, utat mutathat — de **a jellem átformálását nem végezheti el helyette**; az a munka átruházhatatlanul a tanítványé marad. Aki ennél többet ígér, az többet ígér, mint amit a hagyomány szerint bárki adhat.\n\nA magyar kiadás előszava külön figyelmeztet a Bardon nevével kereskedőkre: beavatást árulnak néhány nap alatt, mesterfokot rohamtempóban, kegyelmet pénzért kimérve. A hagyomány válasza józan: az út egyéni, csendes, és senki másra át nem ruházható; ami hangos, sürgető és fizetős, az már ezzel elárulta magát.\n\n**Kerítés, amely nem alku tárgya:** semmilyen tanító, cím, hagyomány vagy jelenség — még ez a modul sem — nem írhatja felül a saját lelkiismeretedet, mérlegedet és etikádat. A valódi vezető sosem kér vak engedelmességet, sosem árusít kegyelmet, és sosem szigetel el azoktól, akik szeretnek. Minden tanítást, élményt és tanácsot ugyanazon a mérlegen mérj: alázatosabbá, szabadabbá, felelősebbé tesz-e. Ami függést épít, attól fordulj el — akárki mondja.",
+        "en": "The tradition itself names the most important boundary: a teacher may kindle light in the student’s thinking and point out the way — but **cannot do the remaking of character in the student’s place**; that work remains, untransferably, the student’s own. Whoever promises more is promising more than, by the tradition’s own account, anyone can give.\n\nThe foreword to the Hungarian edition adds its own warning about those trading on Bardon’s name: initiation sold in a few days, mastery at forced pace, grace doled out for money. The tradition’s reply is sober: the path is individual, quiet, and transferable to no one; whatever is loud, urgent, and priced has already betrayed itself.\n\n**A fence that is not negotiable:** no teacher, title, tradition, or phenomenon — not even this module — may override your own conscience, your own scale, your own ethics. A genuine guide never asks for blind obedience, never sells grace, and never isolates you from those who love you. Weigh every teaching, experience, and counsel on the same scale: does it make you humbler, freer, more responsible? Whatever builds dependence, turn away from — whoever says it."
+      }
+    },
+    {
+      "id": "ar-test-es-gondoskodas",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A test tisztelete — és ami nem a gyakorlás dolga",
+        "en": "Respect for the Body — and What Practice Is Not For"
+      },
+      "text": {
+        "hu": "A kérdések jelentős része a testről szól: táplálkozás, légzés, alvás, betegség, gyógymódok. A hagyomány szemlélete itt a maga korának és térképének nyelvén beszél — elemekről, fluidumokról, harmóniáról. Ami ebből ma is arany: a test nem akadály, hanem a munka hordozója; a rendszeres élet, a mértékletes, változatos étkezés, az elegendő alvás és a ritmus a gyakorlás valódi alapozása.\n\n**Ez a kerítés szilárd és nem mozdul:** a hagyomány betegségekről és gyógyításról szóló fejtegetései történeti-szimbolikus szövegek, nem orvosi útmutatások. A szellemi gyakorlás **soha nem helyettesíti** az orvosi vagy pszichológiai ellátást. Ha beteg vagy, orvoshoz fordulsz; ha a lelked szenved — szorongás, nyomott hangulat, nem múló kimerültség, ijesztő élmények —, szakemberhez fordulsz, és ez nem az út kudarca, hanem a józanság győzelme. A gyakorlás kísérheti és támogathatja a gyógyulást, de kezelni nem kezel semmit. Aki az ellenkezőjét állítja, azzal szemben épp a megkülönböztetés leckéjét alkalmazd.",
+        "en": "A large share of the questions concerns the body: food, breath, sleep, illness, cures. Here the tradition speaks in the language of its own era and its own map — elements, fluids, harmony. What remains gold in it today: the body is not an obstacle but the carrier of the work; a regular life, moderate and varied eating, enough sleep, and rhythm are the real groundwork of practice.\n\n**This fence is firm and does not move:** the tradition’s discussions of illness and healing are historical-symbolic texts, not medical guidance. Spiritual practice **never replaces** medical or psychological care. If you are ill, you see a doctor; if your soul is suffering — anxiety, low mood, unrelenting exhaustion, frightening experiences — you see a professional, and that is not the path failing but sobriety winning. Practice may accompany and support healing, but it treats nothing. Toward anyone who claims otherwise, apply precisely the lesson of discernment."
+      }
+    },
+    {
+      "id": "ar-timer-napi-fegyelem",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Napi fegyelem — gondolatmegfigyelő ülés",
+        "en": "Daily Discipline — Thought-Observation Sit"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ülj egyenes gerinccel, csukott vagy félig csukott szemmel. Tíz percen át egyetlen feladatod van: figyeld a gondolataidat anélkül, hogy bármelyiket követnéd vagy elűznéd. Úgy nézd őket, ahogy a folyó partjáról nézed a sodródó leveleket. Ha észreveszed, hogy elragadott egy gondolat, jegyezd meg nyugodtan: elragadott — és térj vissza a partra. Nem a gondolattalanság a cél, hanem az éber, ítélkezés nélküli megfigyelés. A hagyomány szerint ez minden további munka kapuja.",
+          "en": "Sit with a straight spine, eyes closed or half-closed. For ten minutes you have a single task: watch your thoughts without following or chasing away any of them. Look at them the way you watch drifting leaves from a riverbank. When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but alert observation without judgement. In the tradition’s view, this is the gate to all further work."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "A test elcsendesült — most csak figyelj",
+              "en": "The body has settled — now simply watch"
+            }
+          },
+          {
+            "atSecond": 360,
+            "label": {
+              "hu": "Engedd el a kommentárt is — csak a puszta látás",
+              "en": "Let go of the commentary too — bare seeing only"
+            }
+          },
+          {
+            "atSecond": 540,
+            "label": {
+              "hu": "Utolsó perc — mély csend, éber jelenlét",
+              "en": "Final minute — deep quiet, awake presence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ar-timer-turelem",
+      "kind": "timer",
+      "nevek": {
+        "hu": "A türelem ülése — egy tárgy, egy figyelem",
+        "en": "The Patience Sit — One Object, One Attention"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Válassz egyetlen egyszerű tárgyat — egy követ, egy gyertyalángot, vagy csak a légzésed ritmusát. Tizenöt percen át maradj nála, gyengéden, erőlködés nélkül. Ez az ülés nem teljesítmény, hanem a türelem gyakorlása: minden alkalommal, amikor a figyelmed elvándorol és visszahozod, egy szemernyi állhatatosságot építettél. A visszatérés maga a gyakorlat — nem hiba, hanem ismétlés. Ne várj élményt; a hagyomány szerint épp az élményvárás a leggyakoribb akadály. Ülj úgy, mint aki gyümölcsfát ültetett: a dolgod az öntözés, nem az érlelés.",
+          "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath. Stay with it for fifteen minutes, gently, without strain. This sit is not a performance but the practice of patience: every time your attention wanders and you bring it back, you have built a grain of steadiness. The returning is itself the practice — not a mistake but a repetition. Expect no experience; in the tradition’s view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening."
+        },
+        "intervals": [
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "Harmada megvan — a visszatérés maga a munka",
+              "en": "A third done — the returning is the work itself"
+            }
+          },
+          {
+            "atSecond": 600,
+            "label": {
+              "hu": "Kétharmad — engedd, hogy a figyelem magától nyugodjon",
+              "en": "Two thirds — let the attention settle on its own"
+            }
+          },
+          {
+            "atSecond": 840,
+            "label": {
+              "hu": "Utolsó perc — maradj a tárgynál, csendben",
+              "en": "Final minute — stay with the object, quietly"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ar-napi-lista",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "A tanítvány napja — napi ellenőrzőlista",
+        "en": "The Student’s Day — Daily Checklist"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Reggel egyetlen világos szándékot fogalmaztam meg a napra",
+              "en": "In the morning I set one clear intention for the day"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Elvégeztem a napi gyakorlatot — röviden, de sietség nélkül",
+              "en": "I did the daily exercise — brief, but unhurried"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Feljegyeztem egy fényt és egy árnyékot magamról (introspekció)",
+              "en": "I noted one light and one shadow about myself (introspection)"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Ma nem hajszoltam jelenséget — a jellemmunkát néztem célnak",
+              "en": "Today I chased no phenomena — I kept character work as the goal"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Hallgattam a gyakorlásomról — se dicsekvés, se vita",
+              "en": "I kept silence about my practice — no boasting, no debating"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Este visszanéztem a napra, és köszönettel zártam le",
+              "en": "In the evening I reviewed the day and closed it with gratitude"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "ar-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "Az út tükre — Arion-aspektusok",
+        "en": "Mirror of the Path — Arion Aspects"
+      },
+      "aspektusPack": [
+        {
+          "key": "ar-asp-turelmetlenseg",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Türelmetlenség — éretlen gyümölcsöt tép",
+            "en": "Impatience — tears the fruit unripe"
+          }
+        },
+        {
+          "key": "ar-asp-jelenseghajszolas",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Jelenséghajszolás — a mellékterméket nézi célnak",
+            "en": "Chasing phenomena — mistakes the by-product for the goal"
+          }
+        },
+        {
+          "key": "ar-asp-tekintelyfugges",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Tekintélyfüggés — másra bízza a saját mérlegét",
+            "en": "Authority-dependence — hands its own scale to another"
+          }
+        },
+        {
+          "key": "ar-asp-fecseges",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Fecsegés — szétszórja, amit a csend gyűjtött",
+            "en": "Chatter — scatters what silence gathered"
+          }
+        },
+        {
+          "key": "ar-asp-allhatatossag",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Állhatatosság — csepp a kövön, minden nap",
+            "en": "Steadiness — the drop on the stone, every day"
+          }
+        },
+        {
+          "key": "ar-asp-alazat",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Alázat — a haladást csendben méri, nem hirdeti",
+            "en": "Humility — measures progress quietly, does not proclaim it"
+          }
+        },
+        {
+          "key": "ar-asp-megkulonboztetes",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Megkülönböztetés — mindent a saját mérlegén mér",
+            "en": "Discernment — weighs everything on its own scale"
+          }
+        },
+        {
+          "key": "ar-asp-csend",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Csend — a negyedik pillér: tudni hallgatni",
+            "en": "Silence — the fourth pillar: knowing how to keep still"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ar-naplo",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Az élő kérdés — napi naplósablon",
+        "en": "The Living Question — Daily Journal Template"
+      },
+      "journalTemplate": {
+        "aspektusKeys": ["ar-asp-allhatatossag", "ar-asp-jelenseghajszolas"],
+        "prompts": {
+          "hu": "Melyik kérdés él ma bennem az útról — és mit tettem ma azért, hogy a válasz gyakorlat legyen, ne csak gondolat? Hol kerestem ma rövidítést vagy látványt, és mi volt mögötte? Írj le egy apró, tanú nélküli bizonyítékot a mai állhatatosságodra. Végül: ha Arion válaszainak szellemében kérdezhetnék tőlem egyet ma este, mi lenne az — és mit felelnék becsületesen?",
+          "en": "Which question about the path is alive in me today — and what did I do today so the answer became practice, not just thought? Where did I look for a shortcut or a spectacle today, and what was underneath it? Write down one small, unwitnessed proof of today’s steadiness. Finally: if, in the spirit of Arion’s answers, one question could be asked of me tonight, what would it be — and how would I answer honestly?"
+        }
+      }
+    },
+    {
+      "id": "ar-kviz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "A tanítvány mérlege — ellenőrző kvíz",
+        "en": "The Student’s Scale — Review Quiz"
+      },
+      "quiz": {
+        "passThreshold": 2,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mi a haladás alapja a Bardon-út visszatérő tanácsa szerint?",
+              "en": "According to the recurring counsel of the Bardon path, what is the foundation of progress?"
+            },
+            "options": {
+              "hu": [
+                "Minél több rendkívüli élmény és képesség összegyűjtése",
+                "A jellem napi, türelmes kiegyensúlyozása — a képességek melléktermékek",
+                "Egy erős mester megtalálása, aki elvégzi helyettünk a munkát",
+                "A minél hosszabb, minél megerőltetőbb gyakorlatok"
+              ],
+              "en": [
+                "Collecting as many extraordinary experiences and abilities as possible",
+                "The daily, patient balancing of character — abilities are by-products",
+                "Finding a powerful master who does the work in our place",
+                "Exercises as long and as strenuous as possible"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Mit tehet meg egy tanító a hagyomány saját tanítása szerint — és mit nem?",
+              "en": "By the tradition’s own teaching, what can a teacher do — and what not?"
+            },
+            "options": {
+              "hu": [
+                "Beavatással átveheti a tanítvány jellemének formálását",
+                "Fényt gyújthat a gondolkodásban és utat mutathat — de a jellem munkája átruházhatatlanul a tanítványé",
+                "Pénzért gyorsíthatja a fejlődést, ha elég magas fokozatú",
+                "Mindent megtehet, ezért vak engedelmesség jár neki"
+              ],
+              "en": [
+                "Through initiation, take over the shaping of the student’s character",
+                "Kindle light in the thinking and point out the way — but the work on character belongs untransferably to the student",
+                "Speed up development for money, if of high enough degree",
+                "Do anything, and therefore deserves blind obedience"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mi a szellemi gyakorlás helyes viszonya az orvosi és pszichológiai ellátáshoz?",
+              "en": "What is the right relationship between spiritual practice and medical or psychological care?"
+            },
+            "options": {
+              "hu": [
+                "A gyakorlás előrehaladott fokon kiváltja az orvosi kezelést",
+                "A gyakorlás kísérheti és támogathatja a gyógyulást, de soha nem helyettesíti a szakszerű ellátást",
+                "Betegség idején a gyakorlást meg kell duplázni orvos helyett",
+                "Csak a be nem avatottaknak van szükségük orvosra"
+              ],
+              "en": [
+                "At an advanced stage, practice replaces medical treatment",
+                "Practice may accompany and support healing, but it never replaces professional care",
+                "In illness, practice should be doubled instead of seeing a doctor",
+                "Only the uninitiated need doctors"
+              ]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    }
+  ]
+}

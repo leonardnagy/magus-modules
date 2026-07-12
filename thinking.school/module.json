@@ -1,0 +1,369 @@
+{
+  "formatVersion": 1,
+  "id": "thinking.school",
+  "version": 1,
+  "nevek": {
+    "hu": "Fejleszd a gondolkodásod — a gondolat iskolája",
+    "en": "Develop Your Thinking — the School of Thought"
+  },
+  "description": {
+    "hu": "Rövid gyakorlósor Dr. Joe Dispenza *Fejleszd a gondolkodásod* című könyve nyomán, saját szavakkal újratanítva: a gondolataink megfigyelése, az érzelmi megszokás felismerése, a homloklebeny bevetése és a mentális gyakorlás. Hídat képez a Bardon-féle gondolatmegfigyeléshez (I. lépés). Nem terápia.",
+    "en": "A short practice set inspired by Dr. Joe Dispenza’s book *Evolve Your Brain*, re-taught in original words: watching our thoughts, noticing emotional habit, engaging the frontal lobe, and mental rehearsal. It bridges to Bardon’s thought-observation (Step I). This is not therapy."
+  },
+  "items": [
+    {
+      "id": "th-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Miről szól ez a modul",
+        "en": "What this module is"
+      },
+      "text": {
+        "hu": "> „Ez a könyv az agyad, a gondolkodásod fejlesztéséről szól.” — Joe Dispenza\n\nEz a modul **Dr. Joe Dispenza** *Fejleszd a gondolkodásod* (eredeti címén *Evolve Your Brain*) című könyvének gondolatait tanítja újra — a saját szavainkkal, tömören. A könyv központi állítása egyszerű: az agy nem befejezett, merev szerkezet, hanem egész életünkben alakítható. A **kutatások szerint** a tanulás és a megélt tapasztalás új idegi kapcsolatokat épít, a régieket pedig el lehet engedni.\n\nA modul négy készséget gyakoroltat:\n\n- **megfigyelés** — észrevenni, mit gondolunk éppen;\n- **az érzelmi megszokás felismerése** — miért ragadunk ismerős érzésekbe;\n- **a homloklebeny bevetése** — tudatosan választani a reakció helyett;\n- **mentális gyakorlás** — fejben átvenni, majd megélni az új mintát.\n\nA könyv saját kerete óvatos: a tudomány *utal* ezekre az összefüggésekre, nem csodát ígér. Így közelítünk mi is — türelmesen, túlzások nélkül.\n\n> **Fontos:** ez a modul nem terápia és nem orvosi tanács. Ha tartósan sötét, szorongó vagy magadat bántó gondolatminták térnek vissza, ez nem gyengeség — kérj **szakember** segítségét. A megfigyelés jó első lépés, de nem helyettesíti a gondozást.",
+        "en": "> “This book is about developing your brain, your thinking.” — Joe Dispenza\n\nThis module re-teaches ideas from **Dr. Joe Dispenza’s** book *Evolve Your Brain* — in our own words, kept brief. Its central claim is simple: the brain is not a finished, rigid device but something we can reshape throughout life. **Research suggests** that learning and lived experience build new neural connections, and that old ones can be let go.\n\nThe module trains four skills:\n\n- **observation** — noticing what we are thinking right now;\n- **spotting emotional habit** — why we cling to familiar feelings;\n- **engaging the frontal lobe** — choosing consciously instead of reacting;\n- **mental rehearsal** — running the new pattern in the mind, then living it.\n\nThe book’s own framing is modest: science *points toward* these links, it does not promise miracles. We take the same tone here — patient, without overclaiming.\n\n> **Important:** this module is not therapy or medical advice. If dark, anxious, or self-harming thought-patterns keep returning, that is not a weakness — please seek help from a **professional**. Observation is a good first step, but it is no substitute for care."
+      }
+    },
+    {
+      "id": "th-plastic",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A képlékeny agy: tudás és tapasztalás",
+        "en": "The plastic brain: knowledge and experience"
+      },
+      "text": {
+        "hu": "Sokáig úgy hitték, hogy az agy huzalozása a felnőttkorra lezárul. Az utóbbi évtizedek kutatásai szerint ez nem igaz: az agy **képlékeny** marad, új kapcsolatokat épít, és a nem használt utakat elhalványítja. Amikor azt mondjuk, *meggondoltam magam*, az szó szerint is történik valami az idegsejtek szintjén.\n\nA könyv két úton írja le a változást:\n\n- **tudás** — amit megértünk, elolvasunk, végiggondolunk (értelmi, „száraz” emlék);\n- **tapasztalás** — amit testtel-érzékekkel megélünk (mélyebb, tartósabb emlék).\n\nA tudás megnyitja a kaput; a tapasztalás lakja be a szobát. Egy új gondolat először csak halvány ösvény. Ha újra és újra végigmegyünk rajta — átgondoljuk, majd **megéljük** —, az ösvényből út lesz. Ezért nem elég egyszer felismerni valamit: a felismerést gyakorolni kell, amíg természetessé nem válik.\n\nEnnek a modulnak minden lépése ezt a kettőt köti össze: előbb megérteni, aztán a gyakorlatban élővé tenni.",
+        "en": "For a long time people believed the brain’s wiring was fixed by adulthood. Recent decades of research suggest otherwise: the brain stays **plastic**, builds new connections, and lets unused pathways fade. When we say *I changed my mind*, something literal happens at the level of the nerve cells too.\n\nThe book describes change along two routes:\n\n- **knowledge** — what we understand, read, think through (an intellectual, ‘dry’ memory);\n- **experience** — what we live through with body and senses (a deeper, longer-lasting memory).\n\nKnowledge opens the door; experience moves into the room. A new thought is at first only a faint trail. Walk it again and again — think it, then **live it** — and the trail becomes a road. This is why noticing something once is not enough: the insight has to be practised until it becomes natural.\n\nEvery step in this module joins these two: first understand, then make it alive in practice."
+      }
+    },
+    {
+      "id": "th-emotional-habit",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az érzelmi megszokás",
+        "en": "Emotional habit"
+      },
+      "text": {
+        "hu": "A könyv egyik legfontosabb megfigyelése: **minden gondolatnak van kémiai lenyomata**. Egy gondolat érzést kelt a testben, az érzés pedig új gondolatot hív elő — és a kör forog tovább. Idővel a test hozzászokik az ismerős vegyi állapothoz, és *kéri* is azt.\n\nEzért ragadunk bele néha olyan érzésekbe, amelyek nem is jók nekünk — a harag, az aggódás, az önmarcangolás. Nem azért, mert kellemesek, hanem mert **ismerősek**. Az ismerősség biztonságérzetet ad, még akkor is, ha fáj. Ilyenkor nem mi gondolkodunk, hanem a megszokás gondolkodik helyettünk.\n\nEzt a könyv *érzelmi megszokásnak* (eredetiben érzelmi függőségnek) nevezi. A jó hír: egy szokást fel lehet ismerni, és amit felismerünk, azt már nem muszáj gépiesen lejátszani.\n\nA kilépés nem az érzés elnyomása. Inkább annyi: **észreveszem**, hogy megint ugyanaz a hurok pörög, megnevezem, és nem azonosulok vele. „Ez most a régi minta” — és máris kicsit kívülről nézem.\n\n> Ha egy érzelmi hurok elviselhetetlenül erős vagy tartós, az nem edzés kérdése — ilyenkor szakember segítsége a helyes lépés.",
+        "en": "One of the book’s key observations: **every thought has a chemical signature**. A thought stirs a feeling in the body, the feeling calls up another thought — and the loop turns on. Over time the body grows used to the familiar chemical state, and even *asks* for it.\n\nThis is why we sometimes get stuck in feelings that are not good for us — anger, worry, self-reproach. Not because they are pleasant, but because they are **familiar**. Familiarity feels safe, even when it hurts. In those moments we are not thinking; the habit is thinking for us.\n\nThe book calls this *emotional habit* (in the original, emotional addiction). The good news: a habit can be recognised, and what we recognise we no longer have to play out on autopilot.\n\nStepping out is not about suppressing the feeling. It is more like this: **I notice** the same loop spinning again, I name it, and I do not identify with it. “This is the old pattern” — and already I am watching it from a small distance.\n\n> If an emotional loop is unbearably strong or persistent, that is not a matter of practice — the right step is help from a professional."
+      }
+    },
+    {
+      "id": "th-frontal-observe",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A homloklebeny és az önmegfigyelés",
+        "en": "The frontal lobe and self-observation"
+      },
+      "text": {
+        "hu": "Ha meg akarjuk szakítani a gondolat–érzés–gondolat kört, a kapu a **homloklebeny** (a homlokunk mögötti, legfejlettebb agyterület). A könyv szerint ez az „igazi én” otthona: ő fókuszálja a figyelmet, csendesíti a többi központ zaját, és lehetővé teszi, hogy **magasabban gondolkodjunk, mint ahogy éppen érzünk**.\n\nA homloklebeny bevetésének első és legfontosabb gyakorlata a **megfigyelés**. Ahogy a könyv írja: az önváltoztatás első lépése magának a mintának a felismerése. Nézzük magunkat úgy, mint egy nyugodt kamera a jelenetet: mit gondolok most? milyen reakció indul bennem? tényleg én választom ezt, vagy csak lejátszom?\n\nNem elemzés ez, és nem ítélkezés. Csak tiszta, türelmes figyelem. Meglepő, milyen sokat elárul rólunk pusztán az, ha egy percre lelassulunk és ránézünk a saját gondolatainkra.\n\n**Híd a Bardon-gyakorláshoz.** Az app I. lépésének gondolatmegfigyelése (a „gondolatok fürdője”) pontosan ugyanezt az izmot edzi. Ott leülsz, és hagyod, hogy a gondolatok elvonuljanak előtted, mint egy külső szemlélő — nem kapaszkodsz beléjük, nem folytatod őket. Dispenza megfigyelése és Bardon gondolatnézése ugyanaz a mozdulat: **észreveszem a gondolatot, és nem kell vele mennem.** Aki az egyikben erősödik, a másikban is erősödik. Előbb csak nézni tanulunk; később már választani is — melyik gondolatot tápláljuk, és melyiket engedjük tovább.",
+        "en": "To break the thought–feeling–thought loop, the gateway is the **frontal lobe** (the most developed brain region, just behind the forehead). The book calls it the home of the ‘true self’: it focuses attention, quiets the noise of the other centres, and lets us **think higher than we currently feel**.\n\nThe first and most important practice for engaging the frontal lobe is **observation**. As the book puts it: the first step of self-change is recognising the pattern itself. Watch yourself like a calm camera on a scene: what am I thinking now? what reaction is rising in me? am I really choosing this, or just replaying it?\n\nThis is not analysis, and not judgement. Only clear, patient attention. It is surprising how much we learn about ourselves simply by slowing down for a minute and looking at our own thoughts.\n\n**Bridge to the Bardon practice.** The thought-observation of the app’s Step I (the ‘bathing of thoughts’) trains exactly this same muscle. There you sit and let thoughts pass before you like an outside onlooker — you do not grab them, you do not continue them. Dispenza’s observation and Bardon’s thought-watching are the same move: **I notice the thought, and I do not have to go with it.** Whoever grows stronger in one grows stronger in the other. First we only learn to watch; later we also choose — which thought to feed, and which to let pass."
+      }
+    },
+    {
+      "id": "th-rehearsal",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A mentális gyakorlás",
+        "en": "Mental rehearsal"
+      },
+      "text": {
+        "hu": "Ha a régi mintát felismertük, jöhet az új. A könyv leírja a **mentális gyakorlás** művészetét: fejben, részletesen, újra és újra átvenni azt a viselkedést vagy hozzáállást, amivé válni szeretnénk. A kutatások szerint az agy sok szempontból hasonlóan reagál a jól elképzelt gyakorlásra, mint a valódira — a belső ismétlés is épít idegi utat.\n\nA gyakorlás kulcsa egy csendes, fókuszált állapot: leülsz, elhalkítod a környezetet, és belül dolgozol. Sokan elveszítik közben az idő- és térérzéküket — jele annak, hogy a homloklebeny valóban átvette a vezetést.\n\nEgy egyszerű, hétköznapi forma az **átkeretezés** (reframing): fogsz egy visszatérő helyzetet, amelyben eddig a régi minta indult be, és fejben lejátszod másképp — nyugodtan, ahogy szeretnéd. Nem hazudsz magadnak, csak gyakorolod az új választ, mielőtt szükség lenne rá.\n\nDe a fejben gyakorlás önmagában kevés. A könyv határozott: a mentális gyakorlás után **meg is kell élni** — ki kell menni az élet „pályájára”, és ott, valódi helyzetben megmutatni az új mintát. Előbb az elme, aztán az elme és a test együtt. Ahogy Arisztotelész mondta: azzá válunk, amit ismételten teszünk.",
+        "en": "Once we have recognised the old pattern, the new one can come. The book describes the art of **mental rehearsal**: running through, in the mind and in detail, again and again, the behaviour or attitude we want to become. Research suggests the brain responds to well-imagined rehearsal in many ways as it does to the real thing — inner repetition also builds a neural pathway.\n\nThe key to rehearsal is a quiet, focused state: you sit, turn down the surroundings, and work inside. Many lose their sense of time and space in the process — a sign that the frontal lobe has truly taken the lead.\n\nA simple, everyday form is **reframing**: take a recurring situation where the old pattern used to fire, and play it out differently in your mind — calmly, the way you would want. You are not lying to yourself; you are practising the new response before it is needed.\n\nBut rehearsing in the mind alone is not enough. The book is firm: after mental rehearsal you must also **live it** — step onto the ‘field’ of life and show the new pattern there, in a real situation. First the mind, then mind and body together. As Aristotle said: we become what we repeatedly do."
+      }
+    },
+    {
+      "id": "th-timer-observe",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Megfigyelő ülés",
+        "en": "Observation sitting"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Ülj kényelmesen, egyenes háttal, és csukd be a szemed. Nem irányítasz semmit — csak megfigyelsz. Hagyd, hogy a gondolatok jöjjenek és menjenek, mint felhők az égen. Ha észreveszed, hogy elkaptad az egyiket és „vitorlázol” vele, ez maga a siker: csendben megnevezed („gondolkodom”), és visszalépsz a néző helyére. A cél nem az üres elme, hanem a tiszta figyelem. Ez ugyanaz a mozdulat, mint a Bardon I. lépés gondolatmegfigyelése.",
+          "en": "Sit comfortably, back straight, and close your eyes. You are not steering anything — only observing. Let thoughts come and go like clouds in the sky. If you notice you have caught one and are ‘sailing’ with it, that noticing is the success itself: you quietly name it (“thinking”), and step back to the watcher’s seat. The aim is not an empty mind but clear attention. This is the same move as the thought-observation of Bardon’s Step I."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Elcsendesedés — csak nézd, ahogy jönnek",
+              "en": "Settle — just watch them arrive"
+            }
+          },
+          {
+            "atSecond": 360,
+            "label": {
+              "hu": "Vedd észre, ha ismerős hurokba kerültél",
+              "en": "Notice if you slipped into a familiar loop"
+            }
+          },
+          {
+            "atSecond": 540,
+            "label": {
+              "hu": "Válassz egy gondolatot, amit tovább engedsz",
+              "en": "Choose one thought to let pass"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "th-timer-rehearsal",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Mentális gyakorlás",
+        "en": "Mental rehearsal"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Válassz egy visszatérő helyzetet, amelyben eddig a régi minta indult be (egy feszült beszélgetés, egy halogatott feladat, egy önbírálat). Csukd be a szemed, halkítsd le a környezetet, és játszd le a jelenetet fejben — de most úgy, ahogy szeretnéd. Lásd magad nyugodtnak és tisztának; halld a hangod, érezd a testtartásod. Vedd át többször, részletesen, amíg természetesnek nem tűnik. A gyakorlás után keresd az alkalmat, hogy a valóságban is megéld.",
+          "en": "Choose a recurring situation where the old pattern used to fire (a tense conversation, a postponed task, a bout of self-criticism). Close your eyes, turn down the surroundings, and play the scene in your mind — but now the way you want it. See yourself calm and clear; hear your voice, feel your posture. Run it several times, in detail, until it feels natural. After rehearsing, look for the chance to live it out in reality too."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Válaszd ki a jelenetet és a régi mintát",
+              "en": "Pick the scene and the old pattern"
+            }
+          },
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "Játszd le részletesen az új választ",
+              "en": "Play the new response in detail"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "Éld át késznek — érezd, hogy már megy",
+              "en": "Feel it as done — sense that it works"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "th-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "Napi gondolkodási szokások",
+        "en": "Daily thinking habits"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "th-c1",
+            "nevek": {
+              "hu": "Ma legalább egyszer megfigyeltem, mit gondolok éppen",
+              "en": "Today I observed, at least once, what I was thinking"
+            }
+          },
+          {
+            "key": "th-c2",
+            "nevek": {
+              "hu": "Elkaptam egy ismerős érzelmi hurkot és megneveztem",
+              "en": "I caught a familiar emotional loop and named it"
+            }
+          },
+          {
+            "key": "th-c3",
+            "nevek": {
+              "hu": "Egy reakció helyett tudatosan választottam",
+              "en": "I chose consciously instead of reacting"
+            }
+          },
+          {
+            "key": "th-c4",
+            "nevek": {
+              "hu": "Fejben átkereteztem egy helyzetet",
+              "en": "I reframed a situation in my mind"
+            }
+          },
+          {
+            "key": "th-c5",
+            "nevek": {
+              "hu": "Egy új mintát a valóságban is megéltem",
+              "en": "I lived a new pattern out in reality"
+            }
+          },
+          {
+            "key": "th-c6",
+            "nevek": {
+              "hu": "Nem ítélkeztem magam felett a régi minták miatt",
+              "en": "I did not judge myself for the old patterns"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "th-asp-pack",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A gondolkodás aspektusai",
+        "en": "Aspects of thinking"
+      },
+      "aspektusPack": [
+        {
+          "key": "th-asp-automatic",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Gépies, ismétlődő gondolatok",
+            "en": "Automatic, looping thoughts"
+          }
+        },
+        {
+          "key": "th-asp-craving",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Ragaszkodás ismerős érzésekhez",
+            "en": "Clinging to familiar feelings"
+          }
+        },
+        {
+          "key": "th-asp-inertia",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "A megszokás kényelme, tehetetlenség",
+            "en": "Comfort of routine, inertia"
+          }
+        },
+        {
+          "key": "th-asp-reactivity",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Türelmetlen, azonnali reakció",
+            "en": "Impatient, instant reaction"
+          }
+        },
+        {
+          "key": "th-asp-focused-will",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Fókuszált akarat és választás",
+            "en": "Focused will and choice"
+          }
+        },
+        {
+          "key": "th-asp-awareness",
+          "elem": "eter",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Éber önmegfigyelés",
+            "en": "Alert self-observation"
+          }
+        },
+        {
+          "key": "th-asp-clarity",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Tiszta, átkeretezett gondolkodás",
+            "en": "Clear, reframed thinking"
+          }
+        }
+      ]
+    },
+    {
+      "id": "th-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Átkeretező napló",
+        "en": "Reframing journal"
+      },
+      "journalTemplate": {
+        "aspektusKeys": [
+          "th-asp-automatic",
+          "th-asp-clarity"
+        ],
+        "prompts": {
+          "hu": "Válassz egy mai pillanatot, amikor egy régi gondolati minta indult be.\n\n- **Mi történt?** Írd le tényszerűen, ítélkezés nélkül a helyzetet.\n- **Milyen gondolat és érzés indult el?** Melyik ismerős hurok volt ez?\n- **Észrevetted-e menet közben?** Ha igen, mi segített kilépni a néző helyére?\n- **Hogyan keretezted át?** Milyen nyugodtabb, tisztább választ gyakoroltál el helyette?\n- **Meg tudtad-e élni a valóságban is?** Ha még nem, mikor lesz rá alkalom?",
+          "en": "Choose a moment today when an old thought-pattern fired.\n\n- **What happened?** Describe the situation factually, without judgement.\n- **What thought and feeling started?** Which familiar loop was it?\n- **Did you notice it in the moment?** If so, what helped you step back to the watcher’s seat?\n- **How did you reframe it?** What calmer, clearer response did you rehearse instead?\n- **Could you live it out in reality?** If not yet, when will the chance come?"
+        }
+      }
+    },
+    {
+      "id": "th-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Ellenőrizd magad",
+        "en": "Check yourself"
+      },
+      "quiz": {
+        "passThreshold": 2,
+        "questions": [
+          {
+            "id": "th-q1",
+            "prompt": {
+              "hu": "A könyv szerint miért ragadunk bele néha kellemetlen érzésekbe (harag, aggódás)?",
+              "en": "According to the book, why do we sometimes get stuck in unpleasant feelings (anger, worry)?"
+            },
+            "options": {
+              "hu": [
+                "Mert valójában élvezzük a szenvedést",
+                "Mert ismerősek, és az ismerősség biztonságérzetet ad — a test megszokta a kémiai állapotot",
+                "Mert az agy felnőttkorra megváltoztathatatlan"
+              ],
+              "en": [
+                "Because we truly enjoy suffering",
+                "Because they are familiar, and familiarity feels safe — the body is used to the chemical state",
+                "Because the brain is unchangeable by adulthood"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "th-q2",
+            "prompt": {
+              "hu": "Mi a homloklebeny bevetésének első, legfontosabb lépése?",
+              "en": "What is the first, most important step in engaging the frontal lobe?"
+            },
+            "options": {
+              "hu": [
+                "Az érzés erőteljes elnyomása",
+                "A gondolat azonnali kiváltása egy pozitív mondattal",
+                "A megfigyelés — észrevenni, mit gondolunk és milyen minta indul be"
+              ],
+              "en": [
+                "Forcefully suppressing the feeling",
+                "Instantly replacing the thought with a positive phrase",
+                "Observation — noticing what we think and which pattern is firing"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "th-q3",
+            "prompt": {
+              "hu": "A mentális gyakorlás után mi a könyv szerint az elengedhetetlen záró lépés?",
+              "en": "After mental rehearsal, what does the book say is the essential final step?"
+            },
+            "options": {
+              "hu": [
+                "Megélni a valóságban — kimenni az élet „pályájára” és megmutatni az új mintát",
+                "Örökre a fejben tartani, hogy senki ne lássa",
+                "Megvárni, amíg magától megváltozik minden"
+              ],
+              "en": [
+                "Living it out in reality — stepping onto life’s ‘field’ and showing the new pattern",
+                "Keeping it forever in the mind so no one sees it",
+                "Waiting until everything changes on its own"
+              ]
+            },
+            "correctIndex": 0
+          }
+        ]
+      }
+    }
+  ]
+}
