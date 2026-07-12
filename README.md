@@ -39,6 +39,18 @@ Install: copy a module's **raw** link below and paste it in the app
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
+## Quote packs (Idézetek és titkok)
+
+Downloadable quote collections for the Quotes & Secrets tool
+(Quotes & Secrets → ⋯ → Install quote pack → paste a link or scan a QR).
+Entries merge by id — re-installing never duplicates. All content is our own
+distillation ("… nyomán") or fresh renderings of public-domain sources.
+
+| Pack | Raw link |
+|---|---|
+| Hermetikus bölcsességek (21) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/hermetika.json` |
+| A mesterek bölcsessége (20) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/mesterek.json` |
+
 ## Practice packs (Gyakorlat-tár)
 
 Downloadable packs of example practices for the in-app Practice Library
