@@ -1,0 +1,420 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-astral-direct",
+  "nevek": {
+    "hu": "A direkt módszer — gyakorlatok",
+    "en": "The direct method — practices"
+  },
+  "gyakorlatok": [
+    {
+      "id": "apdp-elokeszulet",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Előkészület és átnyújtás",
+        "en": "Preparation and stretching through"
+      },
+      "cel": {
+        "hu": "Zavartalan teret és ellazult, puha testet készíteni, amelyből az elmélyülés egyáltalán elindulhat — a nyugtalan elme és a merev test nem tud elengedni.",
+        "en": "To prepare an undisturbed space and a loosened, soft body from which the descent can begin at all — a restless mind and a stiff body cannot let go."
+      },
+      "modszer": [
+        {
+          "hu": "Ébreszd fel magad szelíden: mosdó, hideg víz az arcra; mély alvóként pár perc séta vagy olvasás.",
+          "en": "Wake yourself gently: bathroom, cold water on the face; as a deep sleeper, a few minutes of walking or reading."
+        },
+        {
+          "hu": "Rendezd a teret: értesítések ki, ajtó csukva, teendők félretéve — semmi és senki ne zavarjon.",
+          "en": "Settle the space: notifications off, door closed, obligations set aside — nothing and nobody should disturb you."
+        },
+        {
+          "hu": "Nyújtsd át a nyakat, vállakat, hátat, és lazítsd el az állkapcsot; vedd le az ékszereket és az órát.",
+          "en": "Stretch the neck, shoulders and back through, and loosen the jaw; remove jewellery and watch."
+        },
+        {
+          "hu": "Készíts félig ülő, párnákkal megtámasztott helyet — lehetőleg ne a megszokott ágyadban —, és tedd kézhez a naplót.",
+          "en": "Prepare a half-sitting position propped with pillows — preferably not your usual bed — and put the journal within reach."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány nyelvén így tisztul meg az út a kapuig; józan lencsén egyszerűen eltávolítod a feszültséget és a merevséget, amely később megtörné az elmélyülést. A gyümölcs belül mérhető: nyugodtabb, zavartalanabb ülések.",
+        "en": "In the tradition's language this clears the road to the gate; through the sober lens you are simply removing the tension and stiffness that would later break the descent. The fruit is measured within: calmer, less disturbed sessions."
+      },
+      "etika": {
+        "hu": "Ha éjjel ébreszted magad a gyakorlathoz: aludj eleget előtte, és tervezz alvást utánra. A megszakított alvással való kísérletezés nem való annak, akinek alvászavara van, aki epilepsziával él, aki altatót szed, vagy akinek másnap kipihenten kell vezetnie vagy dolgoznia. Az egészséges alvás mindig előbbre való a gyakorlatnál — ez nem orvosi tanács; tartós alvásgonddal orvoshoz fordulj, ne gyakorlathoz.",
+        "en": "If you wake yourself at night for the practice: sleep enough beforehand and plan sleep for afterwards. Experimenting with interrupted sleep is not for anyone with a sleep disorder, anyone living with epilepsy, anyone on sleep medication, or anyone who must drive or work rested the next day. Healthy sleep always comes before the practice — this is not medical advice; with persistent sleep trouble see a doctor, not a technique."
+      }
+    },
+    {
+      "id": "apdp-energiakor",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "Energiakör — fény a légzéssel",
+        "en": "The energy round — light with the breath"
+      },
+      "cel": {
+        "hu": "A testtudat felélénkítése a gyakorlás előtt: a légzéssel kísért, testben érzett áramlás előkészíti a figyelmet a belső érzetekre.",
+        "en": "To enliven body awareness before the practice: the breath-borne flow felt in the body prepares attention for inner sensations."
+      },
+      "modszer": [
+        {
+          "hu": "Ülj megtámasztva, csukott szemmel; lélegezz orron át, a természetes ütemedben.",
+          "en": "Sit propped up, eyes closed; breathe through the nose at your natural pace."
+        },
+        {
+          "hu": "Belégzésre képzelj fényt, amely a fejtetőn át végigárad a testen.",
+          "en": "On the inhale picture light streaming in from above the crown, down through the body."
+        },
+        {
+          "hu": "Köröztesd az érzetet a testben — a hangsúly nem a látványon, hanem a testben érzett áramláson van.",
+          "en": "Circle the sensation through the body — the emphasis is not on the imagery but on the flow felt in the body."
+        },
+        {
+          "hu": "Néhány perc elég az élénkítéshez; utána engedd el a képet, és térj át a következő lépésre.",
+          "en": "A few minutes suffice to enliven; then release the image and move to the next step."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány energiagyakorlatnak nevezi; józan lencsén a testtudat finomhangolása. Egyik olvasat sem tényállítás — a mérce az, mennyire elevenen érzed belülről a tested.",
+        "en": "The tradition calls it energy work; through the sober lens it is a fine-tuning of body awareness. Neither reading is a claim of fact — the measure is how vividly you feel your body from within."
+      },
+      "etika": {
+        "hu": "A légzés végig lágy és természetes marad — soha ne erőltesd, ne tartsd vissza, ne hiperventilálj. Ha szédülés, bizsergés vagy rossz érzés jelentkezik, térj vissza a normál légzéshez, és hagyd abba.",
+        "en": "The breathing stays soft and natural throughout — never force it, never hold it, never hyperventilate. If you feel dizzy, tingly or unwell, return to normal breathing and stop."
+      }
+    },
+    {
+      "id": "apdp-feszites-elengedes",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "test",
+      "cim": {
+        "hu": "Feszítés–elengedés",
+        "en": "Tense and release"
+      },
+      "cel": {
+        "hu": "Megjegyezni az elengedés pillanatának érzetét, hogy később feszítés nélkül is újra tudd teremteni — ez a test elaltatásának kulcsa.",
+        "en": "To memorise the felt moment of release so you can later recreate it without tensing — the key to letting the body fall asleep."
+      },
+      "modszer": [
+        {
+          "hu": "Belégzéssel feszítsd meg az egész tested néhány másodpercre, majd kilégzéssel engedd el teljesen; ismételd négyszer-ötször.",
+          "en": "Inhale and tense the whole body for a few seconds, then release completely on the exhale; repeat four or five times."
+        },
+        {
+          "hu": "A figyelmed az elengedés utáni érzeten nyugodjon — ezt jegyezd meg.",
+          "en": "Rest your attention on the sensation after the release — this is what you memorise."
+        },
+        {
+          "hu": "Kísérheted csendes belső mondatokkal — a karom most elernyed —, vagy azzal, hogy a feszes területbe lélegzel, és kilégzéssel oldod.",
+          "en": "You may accompany it with quiet inner phrases — my arm now softens — or by breathing into a tense area and dissolving it on the exhale."
+        },
+        {
+          "hu": "Utána maradj tökéletesen mozdulatlan: a viszketést hagyd válasz nélkül elvonulni; nyelni és lélegezni szabad.",
+          "en": "Then remain perfectly still: let any itch pass unanswered; swallowing and breathing are free."
+        }
+      ],
+      "keret": {
+        "hu": "A mozdulatlanság jelzi a testnek, hogy alhat, miközben te megfigyelő maradsz. A haladást azon mérd, milyen gyorsan nehezedik és puhul el a test — nem ígéreteken.",
+        "en": "Stillness tells the body it may sleep while you remain an observer. Measure progress by how quickly the body grows heavy and soft — not by promises."
+      },
+      "etika": {
+        "hu": "A légzés kényelmes és erőltetés nélküli marad; ha szédülnél vagy rosszul éreznéd magad, térj vissza a természetes légzéshez, és hagyd abba.",
+        "en": "The breathing stays comfortable and unforced; if you feel dizzy or unwell, return to natural breathing and stop."
+      }
+    },
+    {
+      "id": "apdp-cel-szandek",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Levego",
+      "cim": {
+        "hu": "Cél és szándék — aztán elengedés",
+        "en": "Goal and intention — then letting go"
+      },
+      "cel": {
+        "hu": "Előre eldönteni, mit tennél a küszöbön túl, elültetni a csendes szándékot az éberségre, majd elengedni a kimenetelt — mert a görcsös akarás a leggyakoribb akadály.",
+        "en": "To decide in advance what you would do beyond the threshold, plant a quiet intention to stay aware, then release the outcome — for clenched wanting is the most common obstacle."
+      },
+      "modszer": [
+        {
+          "hu": "Fogalmazd meg előre a célt, egyszerűen — például: nyugodtan körülnézek, majd visszatérek és lejegyzem.",
+          "en": "Phrase the goal in advance, simply — for instance: I will look around calmly, then return and write it down."
+        },
+        {
+          "hu": "Ültess el egy csendes, erős szándékot az éberségre — ahogy fontos reggel előtt az ember magától felébred a vekker előtt.",
+          "en": "Plant a quiet, strong intention to stay aware — the way one wakes by oneself before the alarm on an important morning."
+        },
+        {
+          "hu": "Engedd el a kimenetelt: nem kikényszeríteni akarsz, hanem hagyni megtörténni.",
+          "en": "Release the outcome: you are not forcing anything out, you are letting it happen."
+        },
+        {
+          "hu": "Találd meg az örömöt magában a gyakorlásban, az elmélyülés békéjében — eredmény nélkül is.",
+          "en": "Find joy in the practice itself, in the peace of the descent — even without results."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány szerint a szándék kormányozza az átkelést; józan lencsén az előre elültetett szándék alakítja, mit tesz az elme a küszöbön. Egyik olvasat sem ígéret — a gyümölcs a nyugodtabb, éberebb ülés.",
+        "en": "In the tradition's language the intention steers the crossing; through the sober lens a pre-planted intention shapes what the mind does at the threshold. Neither reading is a promise — the fruit is a calmer, more aware session."
+      },
+      "etika": {
+        "hu": "A célt soha ne irányítsd élő emberekre — meglátogatásukra, megfigyelésükre vagy befolyásolásukra —, és ne tűzz ki ellenőrizhető információ szerzését: a modul nem állítja, hogy az élmény ilyet adhat, és valós döntést nem szabad rá alapozni.",
+        "en": "Never aim the goal at living people — visiting, watching or influencing them — and never set the obtaining of verifiable information as a goal: this practice does not claim the experience can yield such things, and no real-world decision may be based on it."
+      }
+    },
+    {
+      "id": "apdp-kilegzes-sullyedes",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Elengedés kilégzésről kilégzésre",
+        "en": "Release, exhale by exhale"
+      },
+      "cel": {
+        "hu": "A lágy, természetes légzés ritmusára rétegről rétegre mélyíteni az ellazulást, míg a test elnehezül és magától alszik el.",
+        "en": "To deepen the relaxation layer by layer on the rhythm of soft, natural breathing, until the body grows heavy and falls asleep on its own."
+      },
+      "modszer": [
+        {
+          "hu": "Feküdj vagy dőlj hátra kényelmesen; lélegezz orron át, a megszokott ütemedben, a kilégzést engedd valamivel hosszabbra a belégzésnél.",
+          "en": "Lie down or recline comfortably; breathe through the nose at your ordinary pace, letting the exhale run a little longer than the inhale."
+        },
+        {
+          "hu": "Minden kilégzéssel hagyd a tested egy árnyalattal nehezebbé és puhábbá válni.",
+          "en": "With every exhale, let the body grow a shade heavier and softer."
+        },
+        {
+          "hu": "A figyelmed az ellazuláson nyugszik, ne a légzésen — a légzés csak a ritmust adja.",
+          "en": "Your attention rests on the relaxing, not on the breath — the breath only sets the rhythm."
+        },
+        {
+          "hu": "Ha egy gondolat elvisz, térj vissza szelíden az elengedéshez.",
+          "en": "When a thought carries you off, return gently to the release."
+        }
+      ],
+      "keret": {
+        "hu": "Ez az elmélyülés járműve: a hagyományban az alámerülés a küszöb felé, józan lencsén az elalvás határsávjába való tudatos ereszkedés. A mérce a rétegről rétegre puhuló test és a nyugodtabb elalvás.",
+        "en": "This is the vehicle of the descent: in the tradition, the sinking toward the threshold; through the sober lens, a conscious easing into the borderland of sleep. The measure is the layer-by-layer softening body and a calmer sleep onset."
+      },
+      "etika": {
+        "hu": "A légzés végig lágy és természetes marad — soha ne erőltesd, ne tartsd vissza, ne hiperventilálj. Ha szédülés, bizsergés vagy rossz érzés jelentkezik, térj vissza a normál légzéshez, és hagyd abba a gyakorlatot.",
+        "en": "The breathing stays soft and natural throughout — never force it, never hold it, never hyperventilate. If you feel dizzy, tingly or unwell, return to normal breathing and stop the practice."
+      }
+    },
+    {
+      "id": "apdp-ejszakai-ablak",
+      "mester": "Asztrális hagyomány",
+      "szint": "halado",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Az éjszakai ablak",
+        "en": "The night window"
+      },
+      "cel": {
+        "hu": "A hagyomány szerinti legkedvezőbb időzítés gyengéd kipróbálása: néhány óra alvás után, amikor a test fáradt, az elme viszont kipihent és csendes — az alvás épsége mindenek előtt.",
+        "en": "To try, gently, the timing the tradition holds most favourable: after a few hours of sleep, when the body is tired but the mind is rested and quiet — with the integrity of sleep before all else."
+      },
+      "modszer": [
+        {
+          "hu": "Aludj eleget előtte, és tervezz alvást utánra is; néhány óra alvás után ébreszd magad szelíden.",
+          "en": "Sleep enough beforehand and plan sleep for afterwards; after a few hours of sleep, wake yourself gently."
+        },
+        {
+          "hu": "Gyakorolj félig ülő, megtámasztott helyzetben, lehetőleg ne a megszokott ágyadban — a hálóhely az alvásé maradjon.",
+          "en": "Practise in a propped, half-sitting position, preferably not in your usual bed — let the sleeping place remain sleep's own."
+        },
+        {
+          "hu": "Ha a gyakorlat fáradttá vagy ingerlékennyé tesz, ritkítsd, vagy tedd nappalra, kipihenten — lassabb, de biztonságosabb út.",
+          "en": "If the practice leaves you tired or irritable, thin it out or move it to daytime, well rested — a slower but safer road."
+        },
+        {
+          "hu": "A mérce maga az alvásod: ha pihentebben ébredsz, jó úton jársz; ha romlik, állj meg.",
+          "en": "The measure is your sleep itself: waking more rested means the road is good; if sleep worsens, stop."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány kapunyitó ablaknak tartja; józan lencsén ilyenkor a test álomközeli, az elme viszont már kipihent — kedvező sáv az éber elmélyüléshez. Egyik olvasat sem ígér semmit.",
+        "en": "The tradition regards it as a window when the gate opens; through the sober lens the body is near dreaming while the mind is already rested — a favourable band for aware deepening. Neither reading promises anything."
+      },
+      "etika": {
+        "hu": "A megszakított alvással járó kísérletezés nem való annak, akinek alvászavara van, aki epilepsziával él, aki gyógyszert szed az alvására, vagy akinek másnap kipihenten kell vezetnie vagy dolgoznia. Az egészséges alvás mindig előbbre való a gyakorlatnál — semmilyen belső kaland nem ér annyit, mint a rendezett alvás. Ez nem orvosi tanács; ha az alvásoddal tartós gond van, orvoshoz fordulj, ne gyakorlathoz.",
+        "en": "Experimenting with interrupted sleep is not for anyone with a sleep disorder, anyone living with epilepsy, anyone on sleep medication, or anyone who must drive or work rested the next day. Healthy sleep always comes before the practice — no inner adventure is worth more than ordered sleep. This is not medical advice; if your sleep is persistently troubled, see a doctor, not a technique."
+      }
+    },
+    {
+      "id": "apdp-mely-csend",
+      "mester": "Asztrális hagyomány",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Alvó test, éber elme — a mély csend",
+        "en": "Body asleep, mind aware — the deep quiet"
+      },
+      "cel": {
+        "hu": "Megtartani az éberség vékony, csendes sávját, miközben a test elalszik és a külvilág érzékelése elhalványul — az egyensúly, amelyre az egész módszer épül.",
+        "en": "To hold the thin, quiet band of awareness while the body falls asleep and the outer world fades — the balance the whole method rests on."
+      },
+      "modszer": [
+        {
+          "hu": "Maradj teljesen mozdulatlan; csukott szemhéj mögött a tekintet középen nyugodjon, ne forduljon fel alvó helyzetbe.",
+          "en": "Remain completely still; behind closed lids keep the gaze centred rather than rolled up into the sleeping position."
+        },
+        {
+          "hu": "A gondolatokat ne fojtsd el — csak ne sződd tovább őket: megfigyelő maradsz, kommentár nélkül; a szavakba öntött gondolkodás az, ami visszahúz.",
+          "en": "Do not suppress thoughts — simply stop weaving them onward: you remain an observer, without commentary; it is thinking in words that pulls you back up."
+        },
+        {
+          "hu": "Hagyd elhalványulni a testtudatot: elmosódik, hol és hogyan fekszenek a végtagjaid, a szoba hangjai távolodnak — ez a mély csend.",
+          "en": "Let the body-sense fade: where and how your limbs lie blurs, the sounds of the room recede — this is the deep quiet."
+        },
+        {
+          "hu": "A rövid ki-be szunnyadás nem hiba, hanem a jó hely jele. Ha elalszol: több éberség kell; ha üresen virrasztasz: több elengedés.",
+          "en": "Brief dips in and out of dozing are not a fault but the very sign of the right place. If you fall asleep: more awareness is needed; if you keep an empty vigil: more letting go."
+        },
+        {
+          "hu": "Ülésről ülésre mindig csak egy dolgon változtass, különben nem tudod, mi segített.",
+          "en": "Between sessions change only one thing at a time, or you will not know what helped."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyományban ez a kapu előszobája; józan lencsén a mély hipnagóg sáv, ahová minden elalvó ember leereszkedik — te éberen tanulod kísérni. Egyik olvasat sem tényállítás; a gyümölcs a belső élmény mélyülő rendje.",
+        "en": "In the tradition this is the antechamber of the gate; through the sober lens, the deep hypnagogic band every sleeper descends into — you are learning to accompany it awake. Neither reading is a claim of fact; the fruit is the deepening order of inner experience."
+      },
+      "etika": {
+        "hu": "Előfordulhat, hogy percekre nem tudod mozdítani a tested, miközben éber vagy. Ez orvosilag jól ismert, ártalmatlan, magától múló alvásjelenség — nem veszélyes, nem jelez betegséget, és nem ragadhatsz benne. Lélegezz lassan, engedd el a küzdelmet, és felenged. Ha gyakran, félelemmel vagy rossz alvással társulva jelentkezik, beszélj orvossal.",
+        "en": "You may find, for a few minutes, that you cannot move your body while remaining aware. This is a medically well-known, harmless, self-resolving sleep phenomenon — not dangerous, signalling no illness, and you cannot get stuck in it. Breathe slowly, drop the struggle, and it dissolves. If it comes often, with fear, or together with poor sleep, talk to a doctor."
+      }
+    },
+    {
+      "id": "apdp-kuszobjelensegek",
+      "mester": "Asztrális hagyomány",
+      "szint": "halado",
+      "sik": "szellem",
+      "cim": {
+        "hu": "Küszöbjelenségek — hangok, fények, vibráció",
+        "en": "Threshold phenomena — sounds, lights, vibrations"
+      },
+      "cel": {
+        "hu": "Nyugalommal és józansággal fogadni a határsáv erős belső érzékleteit — mert az ijedtség és a túláradó izgalom azonnal kioltja az állapotot, a hajszolásuk pedig fölösleges.",
+        "en": "To meet the strong inner perceptions of the borderland with calm and sobriety — for fright and flooding excitement extinguish the state at once, and chasing them is needless."
+      },
+      "modszer": [
+        {
+          "hu": "Ha zúgás, csengés, beszédfoszlány, fény, lebegés-, forgás- vagy zuhanásérzet, esetleg testen végigfutó vibráció jelenik meg: maradj nyugodt, és hagyd kibontakozni.",
+          "en": "If rushing or ringing sounds, snatches of speech, lights, sensations of floating, spinning or falling, or waves of vibration through the body appear: stay calm and let them unfold."
+        },
+        {
+          "hu": "Ne hajszold őket: sokaknál gyengék vagy hiányoznak, és a gyakorlat nélkülük is mélyül.",
+          "en": "Do not chase them: in many people they are faint or absent, and the practice deepens without them."
+        },
+        {
+          "hu": "Ha a mély csendben semmi sem jelentkezik, hívj érzetet képzelt mozgással: idézd fel teljes testérzettel egy hinta lengését, egy kötélen kúszás húzását, egy lassú emelkedést — nem látványként, hanem mozgásérzetként.",
+          "en": "If the deep quiet holds nothing at all, invite sensation with imagined movement: recall, with full body-feel, the sway of a swing, the pull of climbing a rope, a slow rising — not as a picture but as felt motion."
+        },
+        {
+          "hu": "Amit tapasztalsz, ne kezeld sem bizonyítéknak, sem veszélynek — esemény, amelyet nyugodtan kísérsz.",
+          "en": "Treat whatever you experience as neither proof nor danger — an event you calmly accompany."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a küszöb jeleiként olvassa és dolgozik velük; a józan lencse ugyanezeket az elalvó idegrendszer jól ismert hipnagóg jelenségeiként írja le. Egyik olvasat sem tesz kevésbé valóságossá egy élményt — de egyik sem bizonyíték semmire.",
+        "en": "The tradition reads them as signs of the threshold and works with them; the sober lens describes the very same events as well-known hypnagogic phenomena of a nervous system entering sleep. Neither reading makes an experience less real — and neither is proof of anything."
+      },
+      "etika": {
+        "hu": "A jelenségek ártalmatlanok — az ide tartozó mozdulatlanság-élmény is orvosilag jól ismert, magától múló alvásjelenség. Bánj magaddal gyengéden: bármikor megállhatsz, kinyithatod a szemed, felkapcsolhatod a lámpát; a gyakorlat holnap is itt lesz. Ha az élmények nyomasztóvá válnak, vagy tolakodó képek, szorongás, alvásromlás kíséri őket, tedd le a gyakorlatot, és fordulj szakemberhez — ez nem kudarc, hanem a gyakorló józansága.",
+        "en": "The phenomena are harmless — the immobility that belongs here is likewise a medically well-known, self-resolving sleep event. Be gentle with yourself: you may stop at any time, open your eyes, switch on the light; the practice will still be here tomorrow. If the experiences become distressing, or intrusive images, anxiety or worsening sleep accompany them, set the practice down and turn to a professional — that is not failure but a practitioner's sobriety."
+      }
+    },
+    {
+      "id": "apdp-atlepes-stabilizalas",
+      "mester": "Asztrális hagyomány",
+      "szint": "mester",
+      "sik": "szellem",
+      "cim": {
+        "hu": "Átlépés, stabilizálás, visszatérés",
+        "en": "Crossing, stabilising, returning"
+      },
+      "cel": {
+        "hu": "A megnyíló élményt egyetlen nyugodt belső mozdulattal fogadni, élesen tartani, röviden bejárni, majd fegyelmezetten visszatérni — a mohó kalandozás vége szinte mindig öntudatlan álom és elfelejtett élmény.",
+        "en": "To receive the opening experience with a single calm inner motion, keep it sharp, explore briefly, and return with discipline — greedy wandering almost always ends in unconscious dreaming and a forgotten experience."
+      },
+      "modszer": [
+        {
+          "hu": "A mély csendből egyetlen nyugodt, határozott belső mozdulattal kelj fel — nem a fizikai testtel, hanem a képzelt-érzett testtel.",
+          "en": "From the deep quiet, stand up with a single calm, decisive inner motion — not with the physical body but with the imagined-felt one."
+        },
+        {
+          "hu": "Első dolgod az élesítés: nézd meg a kezed vagy egy tárgyat közelről, és csendes elhatározással kérj tisztaságot.",
+          "en": "Your first task is sharpening: look closely at your hands or an object and, with quiet resolve, ask for clarity."
+        },
+        {
+          "hu": "Ismételd meg a stabilizálást minden színváltásnál, különben az éberség lecsúszik, és az élmény álomba mosódik.",
+          "en": "Repeat the stabilising at every change of scene, or awareness slips and the experience blurs into ordinary dreaming."
+        },
+        {
+          "hu": "Eleinte maradj rövid ideig — akár egyetlen percig —, aztán térj vissza, és azonnal jegyezz.",
+          "en": "Keep it short at first — even a single minute — then return and write at once."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány nyelvén kiléptél; józan lencsén élénk, tudatos belső jelenetben állsz. A modul nem állítja tényként, hogy bármi elhagyja a testet — mindkét olvasatban ugyanaz a munka, és a gyümölcsöt belül mérjük: hosszabb, tisztább, rendezettebb élmény.",
+        "en": "In the tradition's language you have stepped out; through the sober lens you stand inside a vivid, lucid inner scene. This practice does not assert as fact that anything leaves the body — in both readings the work is the same, and the fruit is measured within: longer, clearer, more ordered experience."
+      },
+      "etika": {
+        "hu": "A belső élmény belső marad: nem ellenőrizhető külső hírforrás, és valós — orvosi, pénzügyi, kapcsolati — döntést soha ne alapozz rá. Élő embereket ne látogass, ne figyelj meg és ne próbálj befolyásolni így; aki megjelenik, azt tekintsd a saját lelked alakjának. Ha elhunyt szeretted jelenik meg, fogadhatod békével, de a gyász munkáját a nappali élet hordozza. Ha az élmények felkavaróvá válnak, bánj magaddal gyengéden, és szükség esetén fordulj szakemberhez.",
+        "en": "Inner experience stays inner: it is no verifiable source of outside news, and never base a real-world decision — medical, financial, relational — on it. Do not visit, watch or attempt to influence living people this way; whoever appears, regard them as a figure of your own soul. If a departed loved one appears, you may receive it with peace, but the work of grief belongs to daytime life. If the experiences become stirring, be gentle with yourself and, when needed, turn to a professional."
+      }
+    },
+    {
+      "id": "apdp-kuszobnaplo",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Küszöbnapló — józan lejegyzés",
+        "en": "The threshold journal — sober recording"
+      },
+      "cel": {
+        "hu": "Hidat építeni a belső élmény és a nappali emlékezet között: a rendszeres, hű lejegyzés magát a felidézést erősíti, és ez az egész út józan mércéje.",
+        "en": "To build a bridge between inner experience and daytime memory: regular, faithful recording strengthens recall itself, and it is the sober measure of the whole path."
+      },
+      "modszer": [
+        {
+          "hu": "Minden gyakorlás után írj: előbb csak a fő pontokat, vázlatosan, utána a részleteket — fordított sorrendben a részletek kiszorítják az egészet.",
+          "en": "Write after every session: first only the main points in outline, the details after — in the reverse order the details crowd out the whole."
+        },
+        {
+          "hu": "Kérdezd végig: mikor és milyen állapotban kezdtem; meddig maradtam éber, hol vesztettem el a fonalat; milyen mélyre jutottam — halványuló testtudat, mély csend, jelenségek; hogyan reagáltam rájuk?",
+          "en": "Ask through: when did I start and in what state; how long did I stay aware, where did I lose the thread; how deep did I go — fading body-sense, deep quiet, phenomena; how did I respond?"
+        },
+        {
+          "hu": "Rögzíts hűen, túlzás és felfújás nélkül — a józan lejegyzés maga is gyakorlat.",
+          "en": "Record faithfully, without embellishment or inflation — sober recording is itself a practice."
+        },
+        {
+          "hu": "Zárd a józan mércével: pihentebb, derűsebb, tisztább lettél-e a nappali életedben? Válassz egyetlen dolgot, amin legközelebb változtatsz.",
+          "en": "Close with the sober measure: are you more rested, brighter, clearer in your daytime life? Choose one single thing to change next time."
+        }
+      ],
+      "keret": {
+        "hu": "A gyakorlat a gyümölcseiről ismerszik meg — nyugodtabb elalvás, gazdagabb álomfelidézés, gyakoribb éberség, pihentebb ébredés. Ha ezek gyarapodnak, az út működik, függetlenül attól, melyik lencsén át nézed; a napló az, ami ezt láthatóvá teszi.",
+        "en": "The practice is known by its fruits — calmer sleep onset, richer dream recall, more frequent lucidity, waking more rested. If these grow, the road is working, whichever lens you view it through; the journal is what makes this visible."
+      },
+      "etika": {
+        "hu": "Amit lejegyzel, belső képként kezeld, ne hírként: az élményekre valós döntést nem alapozunk, és az önáltatás — az élmények bizonyítéknak és jóslatnak vétele — ellen éppen a hű lejegyzés véd.",
+        "en": "Treat what you record as inner imagery, not news: no real-world decision is based on the experiences, and faithful recording is the very guard against self-deception — taking experiences for proof and prophecy."
+      }
+    }
+  ]
+}

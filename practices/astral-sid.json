@@ -1,0 +1,344 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-astral-sid",
+  "nevek": {
+    "hu": "A hajnali kapu — gyakorlatok",
+    "en": "The dawn gate — practices"
+  },
+  "gyakorlatok": [
+    {
+      "id": "apsp-esti-elokeszulet",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "Esti előkészület — csendes ülés a kapu előtt",
+        "en": "Evening preparation — a quiet sit before the gate"
+      },
+      "cel": {
+        "hu": "A hajnali munka megalapozása lefekvés előtt: lecsendesedés, a terv nyugodt áttekintése és a szándék kimondása.",
+        "en": "To ground the dawn work before sleep: settling down, calmly reviewing the plan, and stating the intention."
+      },
+      "modszer": [
+        {
+          "hu": "Ülj vagy dőlj hátra kényelmesen, csukott szemmel, és néhány percig csak a légzést figyeld — szelíden, erőltetés nélkül, hagyva, hogy a nap elnehezüljön és leülepedjen.",
+          "en": "Sit or recline comfortably with closed eyes and for a few minutes simply watch the breath — gently, without forcing, letting the day grow heavy and settle."
+        },
+        {
+          "hu": "Tekintsd át nyugodtan a hajnali tervet: szelíd ébredés, rövid felkelés, vissza az ágyba, mozdulatlanság, a belső kör.",
+          "en": "Calmly review the dawn plan: a gentle wake, a brief rising, back to bed, stillness, the inner cycle."
+        },
+        {
+          "hu": "Egyszer, lassan, képzeletben járd végig a kör négy állomását.",
+          "en": "Once, slowly, walk the four stations of the cycle in imagination."
+        },
+        {
+          "hu": "Fogalmazd meg a szándékot — ha felébredek, mozdulatlan maradok és elindítom a kört —, majd engedd el az egészet, és aludj el rendesen.",
+          "en": "Shape the intention — when I wake, I stay still and begin the cycle — then release everything and fall asleep normally."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány szerint az este kimondott szándék hídként ível át az éjszakán, és a küszöbön éberséggé érik. Józan lencsével nézve az elalvás előtti csendes próba az emlékezést és a reggeli összeszedettséget készíti elő. Egyik olvasatot sem állítjuk tényként: a gyakorlatot belső gyümölcsei mérik — nyugodtabb elalvás, tisztább hajnali jelenlét.",
+        "en": "The tradition holds that an intention stated in the evening arches over the night like a bridge and ripens into wakefulness on the threshold. Through a sober lens, the quiet rehearsal before sleep prepares recall and morning composure. Neither reading is asserted as fact: the practice is measured by its inner fruits — a calmer falling asleep, a clearer presence at dawn."
+      },
+      "etika": {
+        "hu": "A légzés maradjon szelíd és természetes; ha szédülést, feszülést vagy nyugtalanságot éreznél, hagyd el a légzésfigyelést, és térj vissza az egyszerű, csendes üléshez.",
+        "en": "Keep the breathing gentle and natural; if you feel light-headed, strained, or restless, drop the breath-watching and return to simple, quiet sitting."
+      }
+    },
+    {
+      "id": "apsp-probafutam",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "cim": {
+        "hu": "Próbafutam — a belső kör begyakorlása éberen",
+        "en": "Rehearsal run — practising the cycle while awake"
+      },
+      "cel": {
+        "hu": "A négy állomás sorrendjének bevésése napközben, teljes éberségben, hogy hajnalban gondolkodás nélkül elinduljon.",
+        "en": "To engrave the sequence of the four stations by day, fully awake, so that at dawn it starts without deliberation."
+      },
+      "modszer": [
+        {
+          "hu": "Napközben vagy kora este feküdj le kényelmesen, csukd be a szemed, és az első percben csendesedj el.",
+          "en": "By day or in the early evening, lie down comfortably, close your eyes, and grow quiet during the first minute."
+        },
+        {
+          "hu": "Járd végig lassítva az első állomást: a kiválás érzete — felülés, kigördülés vagy felemelkedés érzetként, egyetlen izom megmozdítása nélkül.",
+          "en": "Walk the first station in slow motion: the feel of separation — sitting up, rolling out, or floating up as felt sense, without moving a single muscle."
+        },
+        {
+          "hu": "Lépj tovább: képek a szemhéj mögötti sötétben, majd hangok befelé hallgatva, végül egy ismerős mozdulat érzete.",
+          "en": "Step onward: images in the darkness behind the eyelids, then sounds heard inward, finally the felt sense of a familiar movement."
+        },
+        {
+          "hu": "Ismételd a kört összesen négyszer; itt nem történést várunk — a sorrendet véssük be.",
+          "en": "Repeat the cycle four times in all; here we expect nothing to happen — we are engraving the sequence."
+        },
+        {
+          "hu": "Minden állomásnak adj teljes, összeszedett figyelmet, majd egyszerűen, kommentár nélkül lépj a következőre.",
+          "en": "Give each station complete, gathered attention, then simply step to the next, without commentary."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány úgy tartja, hogy az éber próba a belső érzékeket hangolja a küszöbre. Józan lencsével: a képzeleti próba mozgás- és sorrend-emlékezetet épít, ahogy a zenész is némán gyakorolja a futamot. Egyik olvasat sem tényállítás — a gyümölcs méri: hajnalban a kör magától, akadás nélkül indul-e.",
+        "en": "The tradition holds that rehearsing awake tunes the inner senses to the threshold. Through a sober lens, imagined rehearsal builds memory of movement and sequence, as a musician silently practises a passage. Neither reading is asserted as fact — the fruit is the measure: whether at dawn the cycle starts by itself, without stumbling."
+      }
+    },
+    {
+      "id": "apsp-hajnali-protokoll",
+      "mester": "Asztrális hagyomány",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Ido",
+      "cim": {
+        "hu": "A hajnali kapu — a lépcsőzetes protokoll",
+        "en": "The dawn gate — the staged protocol"
+      },
+      "cel": {
+        "hu": "A hajnali átmenet megnyitása: korai ébredés, rövid ébrenlét, visszatérés az ágyba, majd a kör indítása az elalvás peremén.",
+        "en": "To open the dawn transition: an early wake, brief wakefulness, a return to bed, then starting the cycle on the very edge of sleep."
+      },
+      "modszer": [
+        {
+          "hu": "Négy-hat óra alvás után ébredj szelíden — csak olyan reggelen, amikor kialhatod magad, és semmi sem sürget.",
+          "en": "After four to six hours of sleep, wake gently — only on a morning when you can sleep in and nothing presses on you."
+        },
+        {
+          "hu": "Kelj fel röviden: mosdó, néhány lépés. Aki könnyen ébred, tartsa ezt a legrövidebbre; aki mélyen alszik, ébressze fel magát alaposabban — járkáljon, olvasson pár percet.",
+          "en": "Get up briefly: bathroom, a few steps. If you wake easily, keep this as short as possible; if you sleep deeply, wake yourself more thoroughly — walk around, read a few minutes."
+        },
+        {
+          "hu": "Gondoskodj csendről, sötétről, kikapcsolt eszközökről, majd feküdj vissza kényelmesen; ha szeretnéd, néhány lassú, nyugodt lélegzettel járasd körbe a figyelmet a testeden.",
+          "en": "Ensure silence, darkness, and devices off, then lie back down comfortably; if you wish, let a few slow, calm breaths carry your attention around the body."
+        },
+        {
+          "hu": "Elalvás előtt egyszer, képzeletben futtasd végig a belső kört, majd engedd el, és aludj el.",
+          "en": "Before falling asleep, run through the inner cycle once in imagination, then release it and fall asleep."
+        },
+        {
+          "hu": "Ébredéskor ne mozdulj, ne változtass a légzéseden — és azonnal kezdd a kört.",
+          "en": "On waking, do not move and do not change your breathing — and begin the cycle at once."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány az ébredés átmenetét kapunak olvassa, amelyen az éber figyelem tudatosan léphet át egy finomabb hordozóban. Egy párhuzamos, józan lencse: az éjszaka második, álomgazdag felében az elalvás-ébredés határán élénk hipnagóg és hipnopomp állapotok nyílnak. Egyik olvasatot sem állítjuk tényként, és semmit sem ígérünk — a mérce a belső gyümölcs: álomfelidézés, éberség, pihentető alvás, mélység.",
+        "en": "The tradition reads the transition of waking as a gate through which wakeful attention may step consciously in a subtler vehicle. A parallel, sober lens: in the dream-rich second half of the night, vivid hypnagogic and hypnopompic states open at the border of sleeping and waking. Neither reading is asserted as fact, and nothing is promised — the measure is inner fruit: dream recall, lucidity, restful sleep, depth."
+      },
+      "etika": {
+        "hu": "Ez a gyakorlat megszakított alvással dolgozik, ezért szilárd korlátok kellenek. Ne végezd, ha alvászavarral élsz, epilepsziád van, vagy másnap kipihenten kell vezetned, dolgoznod, felelősséget viselned. Hetente legfeljebb egy-két szabad reggelt szánj rá; ha nappali fáradtság, ingerlékenység vagy romló alvás jelentkezik, tedd félre — semmilyen belső élmény nem ér annyit, mint az egészséges alvás. A légzés maradjon szelíd, és hagyd el, ha éberré tesz vagy szédülést éreznél. Ez nem orvosi tanács; tartós alvásproblémával fordulj orvoshoz.",
+        "en": "This practice works with interrupted sleep, so it needs firm fences. Do not practise it if you live with a sleep disorder, have epilepsy, or must drive, work, or carry responsibility well-rested the next day. Give it at most one or two freely shaped mornings a week; if daytime tiredness, irritability, or worsening sleep appears, set it aside — no inner experience is worth as much as healthy sleep. Keep any breathing gentle, and drop it if it makes you alert or light-headed. This is not medical advice; for persistent sleep problems, see a doctor."
+      }
+    },
+    {
+      "id": "apsp-belso-kor",
+      "mester": "Asztrális hagyomány",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Eter",
+      "cim": {
+        "hu": "A belső kör — négy állomás a küszöbön",
+        "en": "The inner cycle — four stations on the threshold"
+      },
+      "cel": {
+        "hu": "Az ébredés utáni rövid, egy-két perces ablak megművelése: rövid belső technikák nyugodt köre, mozdulatlanul.",
+        "en": "To work the short window of a minute or two after waking: a calm circle of brief inner techniques, motionless."
+      },
+      "modszer": [
+        {
+          "hu": "Mozdulatlanul, változatlan légzéssel kezdd: idézd fel — érzetként, nem képként —, hogy felülsz, kigördülsz vagy felemelkedsz az ágyból; mint amikor hajózás után este még ringat a hullámzás.",
+          "en": "Begin motionless, breathing unchanged: recall — as felt sense, not as picture — that you sit up, roll out, or float up from the bed; like still being rocked by the waves in the evening after a day on a boat."
+        },
+        {
+          "hu": "Fordítsd a teljes figyelmet a szemhéj mögötti sötétre: gyülekeznek-e minták, színek, arcok, tájak? Ha egy jelenet kibontakozik és benne találod magad, állj fel benne — az ülve-fekve bámészkodás szétfoszlatja.",
+          "en": "Turn full attention to the darkness behind the eyelids: are patterns, colours, faces, landscapes gathering? If a scene unfolds and you find yourself inside it, stand up within it — gazing from a seated or lying position dissolves it."
+        },
+        {
+          "hu": "Hallgass befelé, egyszerre egy hangra: a szoba ismerős zajait sorold külsőnek és lépj tovább; ami nem lehet a szobából — zsongás, beszéd, zene —, azon időzz, és hagyd erősödni.",
+          "en": "Listen inward, one sound at a time: file the familiar noises of the room as outer and move on; whatever cannot be of the room — humming, speech, music — dwell on it and let it grow."
+        },
+        {
+          "hu": "Idézz fel érzetként egy jól ismert mozdulatot — úszást, hintázást, létramászást. Egy kör: körülbelül öt másodperc állomásonként.",
+          "en": "Recall a well-known movement as felt sense — swimming, swinging, climbing a ladder. One cycle: about five seconds per station."
+        },
+        {
+          "hu": "Ha semmi sem történik, ismételd a kört legfeljebb négyszer — a kiválás-érzetet csak az első körben —, azután engedd el, és aludj vissza; ha nehezen jön az álom, számolj lassan visszafelé egy nagyobb számtól.",
+          "en": "If nothing happens, repeat the cycle up to four times — using the separation-feel only in the first round — then let go and fall back asleep; if sleep is slow to come, count slowly backwards from a larger number."
+        }
+      ],
+      "keret": {
+        "hu": "Három jó kimenet lehetséges: valami belső kibontakozik és végigvisz; egyszerre egy élénk belső jelenetben találod magad; vagy — leggyakrabban — semmi sem történik, és mélyebb alvással folytatod. Mindhárom rendben van. A hagyomány tudatos kilépésként olvassa, a józan lencse az éber álommal rokon, élénk határállapotként — egyiket sem állítjuk tényként. A küszöb gondolat-érzékeny: a csendes, nyugodt várakozás dolgozik, nem a lázas akarás; a mérce a belső gyümölcs.",
+        "en": "Three good outcomes are possible: something inner unfolds and carries you through; you find yourself at once inside a vivid inner scene; or — most often — nothing happens and you continue with deeper sleep. All three are in order. The tradition reads it as a conscious exit; the sober lens as a vivid borderland state closely related to lucid dreaming — neither is asserted as fact. The threshold is thought-responsive: quiet, calm expectancy does the work, not feverish willing; the measure is inner fruit."
+      },
+      "etika": {
+        "hu": "Az egészséges alvás előbbre való minden élménynél: ha négy kör után sincs semmi, a visszaalvás nem kudarc, hanem jó kimenet. Ez az elem megszakított alvásra épül — alvászavarral vagy epilepsziával élőknek nem való, és nem orvosi tanács; romló alvásnál tedd félre, tartós alvásproblémával fordulj orvoshoz.",
+        "en": "Healthy sleep comes before any experience: if four cycles bring nothing, falling back asleep is not failure but a good outcome. This element rests on interrupted sleep — it is not for people with sleep disorders or epilepsy, and it is not medical advice; set it aside if sleep worsens, and see a doctor for persistent sleep problems."
+      }
+    },
+    {
+      "id": "apsp-ismeros-mozdulat",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "Ismerős mozdulat — a mozgásérzet nappali művelése",
+        "en": "A familiar movement — cultivating felt motion by day"
+      },
+      "cel": {
+        "hu": "Egy jól ismert mozgás érzetszintű, testi emlékének kiművelése napközben, hogy a hajnali körben hűen felidézhető legyen.",
+        "en": "To cultivate the felt, body-level memory of a well-known movement by day, so it can be recalled faithfully in the dawn cycle."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz egy jól ismert, ritmikus mozgást: úszást, hintázást, létramászást.",
+          "en": "Choose a well-known, rhythmic movement: swimming, swinging, climbing a ladder."
+        },
+        {
+          "hu": "Ha lehet, végezd el a valódi mozdulatot csukott szemmel, és figyeld meg az érzet rétegeit — súly, lendület, ritmus, irány.",
+          "en": "If possible, perform the real movement with closed eyes and observe the layers of the sensation — weight, momentum, rhythm, direction."
+        },
+        {
+          "hu": "Azután feküdj vagy ülj le, és idézd fel a mozgást tisztán érzetként, kép nélkül — ahogy a hajózás után este még ringat a hullámzás emléke.",
+          "en": "Then lie or sit down and recall the movement purely as felt sense, without picture — the way the memory of the waves still rocks you in the evening after a boat trip."
+        },
+        {
+          "hu": "Gyakorold rövid szakaszokban, naponta néhány percig, nyugodt figyelemmel, erőltetés nélkül.",
+          "en": "Practise in short stretches, a few minutes a day, with calm attention and no forcing."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a mozgás átélt érzetét a három belső érzék egyikének tartja, amely a küszöbön hídként szolgál. Józan lencsével a mozgásképzelet jól ismert gyakorlási forma: a testszintű emlék annál hívebben idéződik fel, minél figyelmesebben lett megélve. Egyik olvasat sem tényállítás — a gyümölcs méri: élénkül-e a felidézés a hajnali körben.",
+        "en": "The tradition counts the felt sense of movement among the three inner senses, serving as a bridge on the threshold. Through a sober lens, movement imagery is a well-known form of practice: the body-level memory recalls the more faithfully, the more attentively it was lived. Neither reading is asserted as fact — the fruit is the measure: whether recall grows more vivid in the dawn cycle."
+      }
+    },
+    {
+      "id": "apsp-megszilardas",
+      "mester": "Asztrális hagyomány",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Megszilárdítás — érintés, két kéz, nyugodt szándék",
+        "en": "Steadying — touch, two hands, calm intention"
+      },
+      "cel": {
+        "hu": "A kibontakozó belső élmény tisztítása és megszilárdítása: éber, lehorgonyzott jelenlét az álomszerű sodródás helyett.",
+        "en": "To clear and steady the unfolding inner experience: wakeful, anchored presence instead of dreamlike drift."
+      },
+      "modszer": [
+        {
+          "hu": "Ha az élmény kibontakozik, először ne a látást keresd — az gyakran késve érkezik; a tapintás és a mozgásérzet dolgozik előbb.",
+          "en": "If the experience unfolds, do not reach for vision first — it often arrives late; touch and the sense of movement work sooner."
+        },
+        {
+          "hu": "Tapintsd meg, ami közel van, és figyeld a két kezed érzetét.",
+          "en": "Feel whatever is near, and attend to the sense of your two hands."
+        },
+        {
+          "hu": "Hordozz egyszerű, nyugodt szándékot — saját szavaiddal —, hogy az élmény tisztuljon és szilárduljon; nem a szó varázsol, a mögé tett csendes szándék dolgozik.",
+          "en": "Carry a simple, calm intention — in your own words — that the experience grow clear and steady; the word casts no spell, the quiet intention behind it does the work."
+        },
+        {
+          "hu": "Maradj érintésben a környezettel — amit körülvesz, tapintsd, fogd meg —, mert lehorgonyzott figyelem híján az élénk állapot gyorsan álomszerű sodródásba csúszik.",
+          "en": "Stay in touch with the surroundings — whatever is around you, feel it, take hold of it — because without anchored attention the vivid state slides quickly into dreamlike drift."
+        },
+        {
+          "hu": "Az első időkben tartsd rövidre az élményt — akár egyetlen percre —, és utána azonnal jegyezd le: egy becsületesen leírt tapasztalat többet ér öt összemosódott töredéknél.",
+          "en": "In the early period keep the experience short — even a single minute — and write it down immediately afterwards: one honestly recorded experience is worth more than five blurred fragments."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány itt a finomabb hordozó érzékelésének megszilárdításáról beszél; a józan lencse az éberség megtartásáról egy élénk, könnyen szétfolyó határállapotban. Egyik olvasatot sem állítjuk tényként — a mérce a tisztuló élmény és a becsületes, jól felidézett beszámoló.",
+        "en": "The tradition speaks here of steadying the perception of the subtler vehicle; the sober lens of holding lucidity in a vivid, easily dissolving borderland state. Neither reading is asserted as fact — the measure is the clearing experience and the honest, well-recalled report."
+      },
+      "etika": {
+        "hu": "A belső tapasztalás belső marad: ne kezeld ellenőrizhető külső információk forrásának, és soha ne alapozz rá valós — orvosi, anyagi, emberi — döntést. Élő embereket belső gyakorlatban felkeresni vagy befolyásolni tilos: mások fölött a képzeletben sincs jogunk.",
+        "en": "Inner experience stays inner: do not treat it as a source of verifiable outer information, and never base real-world decisions — medical, financial, human — on it. Visiting or influencing living people in inner practice is off limits: we hold no rights over others, even in imagination."
+      }
+    },
+    {
+      "id": "apsp-kuszob-nyugalma",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Viz",
+      "cim": {
+        "hu": "A küszöb nyugalma — ha a test még nem mozdul",
+        "en": "Calm on the threshold — when the body does not yet move"
+      },
+      "cel": {
+        "hu": "Az alvási bénulás józan felismerése és szelíd elengedése: nyugalom a küszöbön, félelem helyett.",
+        "en": "To recognize sleep paralysis soberly and release it gently: calm on the threshold instead of fear."
+      },
+      "modszer": [
+        {
+          "hu": "Ha ébren vagy, de a tested még nem mozdul — akár nyomásérzettel, zúgással, élénk képekkel —, először nevezd meg magadban: ez orvosilag jól ismert, ártalmatlan és múló alvásjelenség.",
+          "en": "If you are awake but the body does not yet move — perhaps with a sense of pressure, humming, vivid images — first name it to yourself: this is a medically well-known, harmless, and transient sleep phenomenon."
+        },
+        {
+          "hu": "Ne küzdj ellene: lélegezz lassan és nyugodtan.",
+          "en": "Do not fight it: breathe slowly and calmly."
+        },
+        {
+          "hu": "Mozgasd meg egy ujjad vagy a lábfejed — az állapot magától felenged.",
+          "en": "Wiggle a finger or a toe — the state releases by itself."
+        },
+        {
+          "hu": "Utána jegyezd le tényszerűen, mit tapasztaltál — szépítés és riogatás nélkül.",
+          "en": "Afterwards, record factually what you experienced — without embellishment and without alarmism."
+        }
+      ],
+      "keret": {
+        "hu": "Az orvosi kép itt egyszerű: az alvás természetes izomernyedtsége néhány másodperccel túléri az ébredést — ennyi történik. A hagyomány ugyanezt a küszöb ártalmatlan kísérőjének ismeri, nem veszélynek. A gyakorlat gyümölcse maga a nyugodt, józan viszony a küszöbhöz: ami tegnap rémítő volt, ma megnevezhető és elengedhető.",
+        "en": "The medical picture here is simple: the natural muscle release of sleep outlasts the waking by a few seconds — that is all that happens. The tradition knows the same as a harmless companion of the threshold, not a danger. The fruit of the practice is the calm, sober relationship to the threshold itself: what was frightening yesterday can be named and released today."
+      },
+      "etika": {
+        "hu": "Ha az állapot gyakran visszatér és megterhel, orvos tud segíteni. Ha a gyakorlat körül félelem, gyász vagy nyomasztó élmény gyülekezik, lassíts vagy állj meg; tartós szorongásnál, betolakodó élményeknél fordulj szakemberhez. Ez a gyakorlat nem terápia, nem orvosi tanács, és nem helyettesít gyógykezelést.",
+        "en": "If the state returns often and burdens you, a doctor can help. If fear, grief, or distressing experience gathers around the practice, slow down or stop; with lasting anxiety or intrusive experiences, turn to a professional. This practice is not therapy, not medical advice, and replaces no treatment."
+      }
+    },
+    {
+      "id": "apsp-hajnali-naplo",
+      "mester": "Asztrális hagyomány",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "cim": {
+        "hu": "Hajnali napló — vázlat előbb, részlet utána",
+        "en": "The dawn journal — outline first, details after"
+      },
+      "cel": {
+        "hu": "A hajnali tapasztalatok becsületes, azonnali rögzítése és a gyümölcsök hetekben mért, józan követése.",
+        "en": "To record the dawn experiences honestly and at once, and to track the fruits soberly, measured in weeks."
+      },
+      "modszer": [
+        {
+          "hu": "Ébredés után azonnal írj: előbb vázlatpontok a nagy eseményekről, csak utána a részletek — fordítva a vége felejtődik el.",
+          "en": "Write immediately after waking: bullet points of the main events first, details only afterwards — the other way round, the ending gets forgotten."
+        },
+        {
+          "hu": "Rögzítsd tényszerűen: melyik állomás hozott bármit — kiválás-érzet, kép, hang, mozdulat —, és mi maradt üres; vissza tudtál-e aludni könnyen.",
+          "en": "Record factually: which station brought anything — separation-feel, image, sound, movement — and which stayed empty; whether you could fall back asleep easily."
+        },
+        {
+          "hu": "Jegyezd fel a nappali frissességet és a becsületesen mérhető gyümölcsöket: álomfelidézés, éberség, pihentség, a belső élet mélysége.",
+          "en": "Note your daytime freshness and the honestly measurable fruits: dream recall, lucidity, restedness, the depth of inner life."
+        },
+        {
+          "hu": "Hetente egyszer nézd át a bejegyzéseket: hol csúszott önáltatás vagy erőltetés a beszámolókba, és mit igazítasz a következő alkalomra.",
+          "en": "Once a week, review the entries: where self-deception or forcing slipped into the reports, and what you will adjust for next time."
+        }
+      ],
+      "keret": {
+        "hu": "Az élményt élményként jegyezzük le, értelmezését nyitva hagyjuk — a hagyomány olvasata és a józan lencse egymás mellett élhet a lapokon, tényként egyik sem. A gyümölcsöket hetekben mérjük, nem reggelekben: pihentebb alvás, tisztuló emlékezet, mélyülő belső élet — és józanabb hétköznapok.",
+        "en": "We record the experience as experience and leave its reading open — the reading of the tradition and the sober lens can live side by side on the page, neither as fact. The fruits are measured in weeks, not in mornings: more restful sleep, clearing recall, a deepening inner life — and more sober ordinary days."
+      },
+      "etika": {
+        "hu": "Bánj magaddal szelíden: ha a bejegyzések körül félelem, gyász vagy nyomasztó élmény jelentkezik, lassíts vagy állj meg, és tartós szorongásnál fordulj szakemberhez. Ha a napló romló alvásról vagy nappali fáradtságról tanúskodik, tedd félre a hajnali gyakorlatot — az egészséges alvás mindennél előbbre való.",
+        "en": "Be gentle with yourself: if fear, grief, or distressing experience gathers around the entries, slow down or stop, and with lasting anxiety turn to a professional. If the journal shows worsening sleep or daytime tiredness, set the dawn practice aside — healthy sleep comes before everything."
+      }
+    }
+  ]
+}

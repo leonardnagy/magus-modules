@@ -55,6 +55,7 @@ distillation ("… nyomán") or fresh renderings of public-domain sources.
 |---|---|
 | Hermetikus bölcsességek (21) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/hermetika.json` |
 | A mesterek bölcsessége (20) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/mesterek.json` |
+| Asztrális bölcsességek (16) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/asztral.json` |
 
 ## Practice packs (Gyakorlat-tár)
 
@@ -62,7 +63,7 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
-Together these packs hold **249 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+Together these packs hold **294 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
 
 | Pack | Raw link |
 |---|---|
@@ -89,6 +90,11 @@ Together these packs hold **249 practices** (installed packs de-duplicate by id,
 | Dispenza: Becoming Supernatural — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/dispenza-supernatural.json` |
 | Arion's Counsel — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/arion-answers.json` |
 | Evolve Your Brain — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/thinking-school.json` |
+| Astral foundations — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-basics.json` |
+| The indirect path — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-indirect.json` |
+| The dawn gate — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-sid.json` |
+| The direct method — practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-direct.json` |
+| Astral explorations — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-explorations.json` |
 
 Pack format: `{ formatVersion, id, nevek{hu,en}, gyakorlatok:[…] }`, where each practice has
 `id, mester, szint (kezdo|halado|mester), sik (szellem|lelek|test|null),
