@@ -392,6 +392,88 @@
     "hu": "Semmi lottószám, fogadás, kereskedés vagy pénzügyi döntés — ez önkalibrációs játék, nem kereseti mód. Ha egy forrás gazdagságot ígér az intuícióból, éppen attól kell elsétálnod.",
     "en": "No lottery numbers, wagers, trading or financial decisions — this is a self-calibration game, not a way to earn. If a source promises riches from intuition, that is exactly the part to walk away from."
    }
+  },
+  {
+   "id": "rvmp-ket-targy",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Két tárgy a két kézben — megfejtés-segéd",
+    "en": "Two objects, two hands — a decoding aid"
+   },
+   "cel": {
+    "hu": "A megfejtést testi horgonyra fordítani: a két kimenethez rendelt tárgyak közül a test válasza mutatja meg, melyik felé húz a benyomás.",
+    "en": "Translating the decode into a bodily anchor: with an object bound to each outcome, the body’s answer shows which way the impression pulls."
+   },
+   "modszer": [
+    {
+     "hu": "Rendelj a két kimenethez egy-egy semleges, egyforma tárgyat (két kavics, két gyümölcs), és jegyezd meg, melyik melyik.",
+     "en": "Assign each outcome a neutral, identical-feeling object (two pebbles, two fruits) and note which is which."
+    },
+    {
+     "hu": "A vak ülés után fogd őket a két kezedbe, és csendben idézd fel a benyomásaidat.",
+     "en": "After the blind session hold one in each hand and quietly recall your impressions."
+    },
+    {
+     "hu": "Figyeld a tested: melyik kéz felé húz a figyelem, melyik tárgy érződik élőbbnek? Ne gondolkodj — hallgasd.",
+     "en": "Watch the body: toward which hand does attention pull, which object feels more alive? Do not think — listen."
+    },
+    {
+     "hu": "Dönts, írd le, majd a kimenet eldőltével pontozd becsületesen a próbanaplóban.",
+     "en": "Decide, record it, and when the outcome resolves, score it honestly in the trial journal."
+    }
+   ],
+   "keret": {
+    "hu": "A tárgy horgony, nem jóslat: a kimondhatatlan testérzetet fordítja két tapintható pontra. A mérce a hosszú távú, becsületes találati arány.",
+    "en": "The object is an anchor, not an oracle: it translates felt-sense into two touchable points. The measure is the long-run, honestly kept hit rate."
+   },
+   "etika": {
+    "hu": "Kalibrációs játék — pénz, fogadás és piac nélkül. Ne használd megnevezett másokról szóló kérdésekre a beleegyezésük nélkül.",
+    "en": "A calibration game — no money, betting or markets. Do not use it on questions about named others without their consent."
+   }
+  },
+  {
+   "id": "rvmp-elo-proba",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Élő próba tét nélkül — sport, időjárás, hétköznap",
+    "en": "A live trial without stakes — sport, weather, daily life"
+   },
+   "cel": {
+    "hu": "A bináris próbát valódi, magától eldőlő eseményhez kötni — tét nélkül —, hogy a kalibráció élesben is mérhető legyen.",
+    "en": "Binding the binary trial to a real, self-resolving event — without stakes — so calibration can be measured live."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy közeli, pontosan két kimenetelű eseményt (melyik csapat nyer; esik-e holnap délben), amelyhez semmi anyagi érdeked nem fűződik.",
+     "en": "Pick a near, exactly-two-outcome event (which team wins; will it rain at noon tomorrow) in which you hold no financial interest."
+    },
+    {
+     "hu": "Kösd vakon a két képet a két kimenethez, és tartsd meg a szokásos ülést.",
+     "en": "Blind-bind the two images to the outcomes and hold your usual session."
+    },
+    {
+     "hu": "Fejtsd meg, írd le a döntést — majd várd meg, míg az esemény magától eldől.",
+     "en": "Decode, record the decision — then wait for the event to resolve on its own."
+    },
+    {
+     "hu": "Pontozz becsületesen, és nézd a sorozatot, ne az egyes találatot: 50% a véletlen alapvonala.",
+     "en": "Score honestly and watch the series, not the single hit: 50% is chance’s baseline."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány tétre is alkalmazta — itt szándékosan tét nélkül gyakorlod: a készség a kalibrációban érik, nem a kockázatban. Semmilyen bizonyított előnyt nem ígér.",
+    "en": "The tradition also applied this to wagers — here you practise it deliberately without stakes: the skill ripens in calibration, not in risk. No proven edge is promised."
+   },
+   "etika": {
+    "hu": "Pénz és fogadás nélkül. A szerencsejáték matematikáját semmi nem függeszti fel; soha ne kockáztass fájó pénzt.",
+    "en": "No money, no betting. Nothing suspends the mathematics of gambling; never risk money whose loss would hurt."
+   }
   }
  ]
 }

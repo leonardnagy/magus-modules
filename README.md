@@ -63,7 +63,7 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
-Together these packs hold **294 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+Together these packs hold **296 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
 
 | Pack | Raw link |
 |---|---|
@@ -77,7 +77,7 @@ Together these packs hold **294 practices** (installed packs de-duplicate by id,
 | Modern masters & the shield (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/modern.json` |
 | Remote Viewing — core practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-basics.json` |
 | Remote Viewing — advanced practices (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-advanced.json` |
-| Associative RV — binary trials (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-associative.json` |
+| Associative RV — binary trials (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-associative.json` |
 | Remote Viewing & place (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-place.json` |
 | Blind targets & the inner sanctuary (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-sanctuary.json` |
 | Intention turned inward (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/remote-influencing.json` |

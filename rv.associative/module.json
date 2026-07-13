@@ -1,232 +1,421 @@
 {
-  "formatVersion": 1,
-  "id": "rv.associative",
-  "version": 1,
-  "nevek": {
-    "hu": "Asszociatív távérzékelés — a bináris intuíció-próba",
-    "en": "Associative Remote Viewing — the Binary Intuition Trial"
+ "formatVersion": 1,
+ "id": "rv.associative",
+ "version": 1,
+ "nevek": {
+  "hu": "Asszociatív távérzékelés — a bináris intuíció-próba",
+  "en": "Associative Remote Viewing — the Binary Intuition Trial"
+ },
+ "description": {
+  "hu": "Egy önállóan játszható kalibrációs játék a bináris intuícióhoz. Az asszociatív távérzékelés hagyományában két különböző képet kötnek két lehetséges kimenetelhez; te vakon figyelsz, majd megfejted, melyik képre hasonlítanak a benyomásaid. Itt becsületesen keretezve: belső figyelem- és intuíció-gyakorlat, amelyet sok próbán át pontozol — soha nem pénzkeresési mód, és soha nem mások helyett jósolsz. Semmilyen gyakorlat nem helyettesíti az orvosi ellátást.",
+  "en": "A self-run calibration game for binary intuition. In the associative branch of the remote-viewing tradition, two distinct images are bound to two possible outcomes; you observe blind, then decode which image your impressions resemble. Framed honestly here as an inner attention-and-intuition practice you score over many trials — never a way to make money, never a way to predict for others. No practice replaces medical care."
+ },
+ "items": [
+  {
+   "id": "rvm-md-intro",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "Bevezető — a becsületes kalibrációs játék",
+    "en": "Introduction — the Honest Calibration Game"
+   },
+   "text": {
+    "hu": "Üdv. Ez a modul egyetlen szűk, önmagában megálló gyakorlatot tanít, amely a távérzékelés úgynevezett **asszociatív** ágából ered — itt azonban átépítve, **nyugodt kalibrációs játékká** a saját intuíciód számára.\n\nAz alapötlet egyszerű. Előre felállítasz egy kérdést, amelynek pontosan **két** lehetséges válasza van. Kiválasztasz két különböző képet, és — a tudtodon kívül — az egyik kép az első válaszhoz, a másik a második válaszhoz kötődik. Ezután leülsz, és **vakon** leírsz minden benyomást, ami feltámad benned, anélkül hogy tudnád, melyik kép melyik válaszhoz tartozik. Utána összeveted a jegyzeteidet a két képpel, eldöntöd, melyikre hasonlítanak jobban a benyomásaid, és leolvasod azt a választ, amelyhez az a kép kötve volt.\n\nVégül megnézed, mi történt valójában, és egyetlen becsületes jelet írsz le: **találat vagy tévesztés**. Sok próbán át ezekből a jelekből **pontszám** lesz — és éppen ez a türelmesen vezetett pontszám a modul valódi tárgya. **Nem a jövő ismeretét tanulod. Azt tanulod, hogy figyeld gondosan a saját elmédet, és vezess őszinte számadást.**",
+    "en": "Welcome. This module teaches one narrow, self-contained exercise drawn from the so-called **associative** branch of the remote-viewing tradition — rebuilt here as a **calm calibration game** for your own intuition.\n\nThe idea is simple. In advance you frame a question with exactly **two** possible answers. You choose two different images, and — outside your awareness — one image is tied to the first answer and the other to the second. You then sit down and, **blind**, describe whatever impressions arise, without knowing which image belongs to which answer. Afterwards you compare your notes to the two images, decide which one your impressions resemble more, and read off the answer that image was bound to.\n\nThen you check what actually happened, and you write down a single honest mark: **hit or miss**. Over many trials those marks become a **score** — and that patiently kept score is the real subject of this module. **You are not learning to know the future. You are learning to watch your own mind carefully and to keep an honest tally.**"
+   }
   },
-  "description": {
-    "hu": "Egy önállóan játszható kalibrációs játék a bináris intuícióhoz. Az asszociatív távérzékelés hagyományában két különböző képet kötnek két lehetséges kimenetelhez; te vakon figyelsz, majd megfejted, melyik képre hasonlítanak a benyomásaid. Itt becsületesen keretezve: belső figyelem- és intuíció-gyakorlat, amelyet sok próbán át pontozol — soha nem pénzkeresési mód, és soha nem mások helyett jósolsz. Semmilyen gyakorlat nem helyettesíti az orvosi ellátást.",
-    "en": "A self-run calibration game for binary intuition. In the associative branch of the remote-viewing tradition, two distinct images are bound to two possible outcomes; you observe blind, then decode which image your impressions resemble. Framed honestly here as an inner attention-and-intuition practice you score over many trials — never a way to make money, never a way to predict for others. No practice replaces medical care."
+  {
+   "id": "rvm-md-frame",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "A hagyomány saját modellje — becsületes keret",
+    "en": "The Tradition's Own Model — an Honest Frame"
+   },
+   "text": {
+    "hu": "Minden hagyomány, amely ezt a gyakorlatot tanítja, nagy állításokat tesz — azt, hogy egy gyakorlott megfigyelő benyomásokat gyűjthet egy rejtett célpontról, még olyanról is, amely egy még el nem dőlt eseményhez kötődik. **Ebben a modulban ezeket az állításokat a hagyomány saját modelljeként mutatjuk be, nem megállapított tényként.**\n\nNem ígérjük, hogy a módszer működik, és arra kérünk, te se ígérd ezt magadnak. Kezeld pontosan úgy, ahogyan bármelyik fegyelmezett belső gyakorlatot a Bardon-szellemben: valami, amit gyakorolsz, megfigyelsz, és a **belső gyümölcsei** szerint mérsz — nyugodtabb figyelem, becsületesebb viszony a saját megérzéseiddel, és a lassú, alázatra tanító visszajelzés egy időben vezetett pontszámból.\n\nA tisztességes viszonyítás számít. Két lehetséges válasznál a vak találgatás hosszú távon a **fele körül** talál. Ez a félúton húzódó vonal a becsületes alapvonalad. Egy rövid szerencsés sorozat semmit sem bizonyít; csak sok próba — hízelgés nélkül pontozva — mondhat egyáltalán bármit. Tartsd az egészet könnyedén. A kíváncsiság és a számadás a lényeg — bizonyosságot nem kínálunk.",
+    "en": "Every tradition that teaches this practice makes large claims — that a trained observer can gather impressions about a hidden target, even one tied to an event that has not yet resolved. **In this module those claims are presented as the tradition's own model, not as established fact.**\n\nWe make no promise that the method works, and we ask you to make none to yourself. Treat it exactly as you would any disciplined inner exercise in the Bardon spirit: something you practise, observe, and measure by its **inner fruits** — steadier attention, a more honest relationship with your own hunches, and the slow, humbling feedback of a score kept over time.\n\nA fair reference point matters. With two possible answers, blind guessing lands near **half** right over a long run. That halfway line is your honest baseline. A short lucky streak proves nothing; only a large number of trials, scored without flattering yourself, can say anything at all. Hold the whole thing lightly. Curiosity and record-keeping are the point — certainty is not on offer."
+   }
   },
-  "items": [
-    {
-      "id": "rvm-md-intro",
-      "kind": "markdown",
-      "nevek": { "hu": "Bevezető — a becsületes kalibrációs játék", "en": "Introduction — the Honest Calibration Game" },
-      "text": {
-        "hu": "Üdv. Ez a modul egyetlen szűk, önmagában megálló gyakorlatot tanít, amely a távérzékelés úgynevezett **asszociatív** ágából ered — itt azonban átépítve, **nyugodt kalibrációs játékká** a saját intuíciód számára.\n\nAz alapötlet egyszerű. Előre felállítasz egy kérdést, amelynek pontosan **két** lehetséges válasza van. Kiválasztasz két különböző képet, és — a tudtodon kívül — az egyik kép az első válaszhoz, a másik a második válaszhoz kötődik. Ezután leülsz, és **vakon** leírsz minden benyomást, ami feltámad benned, anélkül hogy tudnád, melyik kép melyik válaszhoz tartozik. Utána összeveted a jegyzeteidet a két képpel, eldöntöd, melyikre hasonlítanak jobban a benyomásaid, és leolvasod azt a választ, amelyhez az a kép kötve volt.\n\nVégül megnézed, mi történt valójában, és egyetlen becsületes jelet írsz le: **találat vagy tévesztés**. Sok próbán át ezekből a jelekből **pontszám** lesz — és éppen ez a türelmesen vezetett pontszám a modul valódi tárgya. **Nem a jövő ismeretét tanulod. Azt tanulod, hogy figyeld gondosan a saját elmédet, és vezess őszinte számadást.**",
-        "en": "Welcome. This module teaches one narrow, self-contained exercise drawn from the so-called **associative** branch of the remote-viewing tradition — rebuilt here as a **calm calibration game** for your own intuition.\n\nThe idea is simple. In advance you frame a question with exactly **two** possible answers. You choose two different images, and — outside your awareness — one image is tied to the first answer and the other to the second. You then sit down and, **blind**, describe whatever impressions arise, without knowing which image belongs to which answer. Afterwards you compare your notes to the two images, decide which one your impressions resemble more, and read off the answer that image was bound to.\n\nThen you check what actually happened, and you write down a single honest mark: **hit or miss**. Over many trials those marks become a **score** — and that patiently kept score is the real subject of this module. **You are not learning to know the future. You are learning to watch your own mind carefully and to keep an honest tally.**"
+  {
+   "id": "rvm-md-method",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "A módszer, lépésről lépésre",
+    "en": "The Method, Step by Step"
+   },
+   "text": {
+    "hu": "Íme a gyakorlat, lépésről lépésre.\n\n**1. Fogalmazz meg egy bináris kérdést.** Válassz valamit, aminek pontosan két kimenetele van, és amely magától, hamarosan eldől, akár ránézel, akár nem — például melyik nyer két, hozzád nem kötődő, kiegyensúlyozott csapat közül egy meccsen, vagy holnap a legmagasabb hőmérséklet a mai fölött vagy alatt lesz-e. Tartsd semlegesnek és alacsony téttel.\n\n**2. Köss két képet a két válaszhoz — vakon.** Gyűjts egy paklinyi változatos képet, amelyek **hangulatban és energiában hasonlók** — nyugodt tájképek jól működnek; kerüld a mozgástól, energiarobbanástól vagy nyilvánvaló digitális hamisítástól uralt képeket, mert a szem ezekre húz, függetlenül a választól. Keverd meg, húzz kettőt, és — anélkül hogy látnád, melyik melyik — az egyik az A válaszhoz, a másik a B-hez kötődjön. Egyszerű mód: számozd meg a próbát, zárd le külön-külön a képeket, és egy érme vagy egy segítő állítsa be a párosítást, hogy valóban ne ismerd.\n\n**3. Figyelj vakon.** Ülj csendes, ingerszegény térben, kipihenten és éberen. Üres papíron hagyd, hogy előbb egy gyors első jel, majd egyszerű **érzékszervi benyomások** jöjjenek — formák, textúrák, hőmérsékletek, súlyok, fény —, és egyszerűen rögzítsd őket, ahogy érkeznek, ítélkezés és irányítás nélkül. A rejtett képet írod le, nem a választ találgatod.\n\n**4. Fejtsd meg.** Ha végeztél, fedd fel a két képet. Nyugodtan vesd össze a jegyzeteidet mindkettővel. Döntsd el, melyik képre hasonlítanak jobban a benyomásaid, és olvasd le a hozzá kötött választ. Ha a jegyzeteid egyformán illenek mindkettőre, jelöld a próbát **bizonytalannak**, ahelyett hogy erőltetnél egy döntést.\n\n**5. Pontozz becsületesen.** Várd meg a valódi kimenetelt, majd írj egyetlen jelet: találat vagy tévesztés. Add hozzá a folyó számadásodhoz. **A tucatnyi próbán át vezetett számadás az egyetlen eredmény, amely bármit is jelent** — egyetlen ülés, találat vagy tévesztés, semmit sem mond.",
+    "en": "Here is the exercise, step by step.\n\n**1. Frame a binary question.** Choose something with exactly two outcomes that will resolve on its own, soon, whether or not you look — for example, which of two evenly matched teams you have no stake in wins a match, or whether tomorrow's high temperature is above or below today's. Keep it neutral and low-stakes.\n\n**2. Bind two images to the two answers — blind.** Gather a deck of varied images that are similar in **mood and energy** — calm landscapes work well; avoid pictures dominated by motion, blasts of energy, or obvious digital fakery, since the eye is pulled to those regardless of the answer. Shuffle, draw two, and — without seeing which is which — have one tied to answer A and the other to answer B. A simple way: number the trial, seal each image separately, and let a coin or a helper set the pairing so you genuinely do not know it.\n\n**3. View blind.** Sit in a quiet, low-distraction space when you are rested and alert. On blank paper, let a first quick mark come, then plain **sensory impressions** — shapes, textures, temperatures, weights, light — and simply record them as they arrive, without judging or steering. You are describing the hidden image, not guessing the answer.\n\n**4. Decode.** When you are done, reveal the two images. Calmly compare your notes to each. Decide which image your impressions resemble more, and read off the answer that image was bound to. If your notes fit both equally, mark the trial **unclear** rather than forcing a call.\n\n**5. Score honestly.** Wait for the real outcome, then write one mark: hit or miss. Add it to your running tally. **The tally, kept over dozens of trials, is the only result that means anything** — a single session, hit or miss, tells you nothing."
+   }
+  },
+  {
+   "id": "rvm-md-tapinthato",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "A tapintható döntés-segéd — két tárgy a két kézben",
+    "en": "The Tactile Decoding Aid — Two Objects, Two Hands"
+   },
+   "text": {
+    "hu": "A megfejtés legnehezebb pillanata az, amikor a nyers benyomásokat össze kell vetned a két hozzákötött képpel. A hagyomány itt egy egyszerű, testi segédeszközt kínál: adj a két kimenetnek egy-egy **semleges, egyforma súlyú tárgyat** — például két kavicsot vagy két gyümölcsöt —, és jelöld meg magadban, melyik tárgy melyik kimenethez tartozik.\n\nA megfejtéskor fogd az egyiket az egyik, a másikat a másik kezedbe. Csendben idézd fel az ülés benyomásait — a textúrákat, a színeket, a mozgást —, és **figyeld a tested válaszát**: melyik kéz felé húz a figyelem? Melyik tárgy érződik „élőbbnek”, melegebbnek, hangsúlyosabbnak? Nem gondolkodsz — hallgatod a testet.\n\nA döntés után tedd le mindkét tárgyat, írd le a választásod, és zárd le az ülést. A tárgy nem mágikus: **horgony**, amely a kimondhatatlan testérzetet két tapintható pontra fordítja le. A mérce változatlan: a becsületes találati napló, sok próbán át.",
+    "en": "The hardest moment of decoding is matching your raw impressions against the two bound images. Here the tradition offers a simple, bodily aid: give each outcome a **neutral object of equal weight** — two pebbles, two fruits — and note inwardly which object belongs to which outcome.\n\nWhen decoding, hold one in each hand. Quietly recall the session’s impressions — textures, colours, motion — and **listen to the body’s answer**: toward which hand does attention pull? Which object feels ‘more alive’, warmer, more emphasized? You are not thinking — you are listening to the body.\n\nAfter deciding, set both objects down, record your choice, and close the session. The object is not magical: it is an **anchor** that translates an unspeakable felt-sense into two touchable points. The measure stays the same: the honestly kept hit-rate journal, across many trials."
+   }
+  },
+  {
+   "id": "rvm-md-ethics",
+   "kind": "markdown",
+   "nevek": {
+    "hu": "Kerítés és megkülönböztetés — a szilárd határok",
+    "en": "Fences and Discernment — the Firm Boundaries"
+   },
+   "text": {
+    "hu": "Néhány szilárd határ teszi biztonságossá, hogy megtartsd ezt a gyakorlatot.\n\n**A pénz maradjon ki belőle.** Ez kalibrációs játék, nem fogadási, kereskedési, piaci vagy nyereséget termelő módszer. Semmi lottószám, semmi fogadás, semmi pénzügyi döntés — abban a pillanatban, ahogy tét kerül bele, a becsületes pontozás meghal, és a gyakorlat pénzvesztő önámítássá válik. Ha egy forrás gazdagságot ígér az intuícióból, épp az a rész, amelytől el kell sétálnod.\n\n**Maradj önmagadra irányulva, és tiszteld a szabad akaratot.** Csak olyan kérdéseket figyelj, amelyek a tieid. Ne irányítsd a gyakorlatot egy megnevezett másik személyre, a magánéletére vagy a hollétére a világos beleegyezése nélkül. Ne használd eltűnt emberek, holttestek vagy bűncselekmények áldozatainak felkutatására, és soha ne küldj tippeket családoknak vagy hatóságoknak — ez valódi kárt okoz, és akadályozza a valódi segítséget.\n\n**Semmi végzet-jóslat.** Ne használd katasztrófák dátumainak rögzítésére, önmagad megrémítésére, vagy hogy bizalmatlanná válj a körülötted lévők iránt. Ez félelem, meglátásnak öltöztetve.\n\n**Az egészség az első — mindig.** Itt semmi nem diagnosztizál, kezel vagy helyettesít orvosi vagy pszichológiai ellátást, és soha nem szabad késleltetnie azt. A strukturált belső munka erős érzéseket kavarhat fel. Ha parancsoló hangokat kezdesz hallani, vagy bármilyen késztetést érzel, hogy ártsál magadnak vagy másnak, kezeld **orvosi vészhelyzetként**: azonnal állj le, és fordulj orvoshoz, krízisvonalhoz vagy a mentőkhöz. Ez a modul nem gyerekeknek és nem krízisben lévőknek való. Ha a gyakorlat valaha felkavar, a helyes lépés az, hogy leteszed, és segítséget kérsz.\n\n**Egy becsületes szó a tétről.** A hagyomány ezt a módszert fogadásokra is alkalmazta — ez a modul szándékosan tét nélkül tanítja, mert a készség a kalibrációban érik, nem a kockázatban. Ha felnőttként valaha mégis tétet fontolgatsz: tudd, hogy a módszer semmilyen bizonyított előnyt nem ígér, a szerencsejáték matematikáját semmi nem függeszti fel, és az egyetlen igazságod a hosszú távú, becsületes találati arányod. Soha ne kockáztass olyan pénzt, amelynek elvesztése fájna — és a gyakorlás maradjon gyakorlás.",
+    "en": "A few firm boundaries make this practice safe to keep.\n\n**Keep money out of it.** This is a calibration game, not a method for betting, trading, markets, or profit. No lottery numbers, no wagers, no financial decisions — the moment stakes enter, honest scoring dies and the exercise turns into a way to lose money and fool yourself. If a source promises riches from intuition, that is exactly the part to walk away from.\n\n**Stay self-directed, and honour free will.** View only questions that are yours to ask. Do not aim the practice at a specific named person, their private life, or their whereabouts without their clear consent. Do not use it to locate missing people, bodies, or victims of crime, and never send guesses to families or authorities — that causes real harm and interferes with real help.\n\n**No prophecy of doom.** Do not use this to fix dates on disasters, frighten yourself, or grow to distrust the people around you. That is fear dressed as insight.\n\n**Health comes first — always.** Nothing here diagnoses, treats, or replaces medical or psychological care, and it must never delay it. Structured inner work can stir strong feelings. If you begin hearing voices that command you, or you feel any urge to harm yourself or another person, treat it as a **medical emergency**: stop at once and contact a doctor, a crisis line, or emergency services. This module is not for children or for anyone in crisis. If the practice ever unsettles you, the right move is to set it down and seek support.\n\n**An honest word about stakes.** The tradition has also applied this method to wagers — this module deliberately teaches it without stakes, because the skill ripens in calibration, not in risk. If, as an adult, you ever weigh a stake anyway: know that the method promises no proven edge, nothing suspends the mathematics of gambling, and your only truth is your long-run, honestly kept hit rate. Never risk money whose loss would hurt — and let practice remain practice."
+   }
+  },
+  {
+   "id": "rvm-timer-settle",
+   "kind": "timer",
+   "nevek": {
+    "hu": "Elcsendesedés a próba előtt",
+    "en": "Settling Before a Trial"
+   },
+   "timer": {
+    "durationSeconds": 300,
+    "instructions": {
+     "hu": "Rövid elcsendesedés a próba előtt. Ülj kényelmesen, hagyd, hogy a légzésed lelassuljon, és engedd, hogy a nap zaja lecsorogjon rólad. Nem transzba akarsz merülni — csak csendessé, kipihentté és jelenlévővé válni, tiszta térrel magad előtt, ahol semmi csillogó vagy mozgó nem húzza el a szemedet.",
+     "en": "A short settling before a trial. Sit comfortably, let your breathing slow, and let the day's noise drain off. You are not trying to enter a trance — just to become quiet, rested, and present, with a clear space in front of you and nothing shiny or moving to pull your eye."
+    },
+    "intervals": [
+     {
+      "atSecond": 60,
+      "label": {
+       "hu": "Hagyd elülni a légzést",
+       "en": "Let the breath settle"
       }
+     },
+     {
+      "atSecond": 240,
+      "label": {
+       "hu": "Csendes és jelenlévő",
+       "en": "Quiet and present"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvm-timer-session",
+   "kind": "timer",
+   "nevek": {
+    "hu": "Vak megfigyelő ülés",
+    "en": "Blind Viewing Session"
+   },
+   "timer": {
+    "durationSeconds": 600,
+    "instructions": {
+     "hu": "A vak megfigyelő ülésed. Üres papíron hagyd, hogy előbb egy gyors első jel jöjjön, majd rögzíts egyszerű érzékszervi benyomásokat — formák, textúrák, hőmérséklet, súly, fény —, ahogy érkeznek. Tartsd mozgásban a tollat, ne csukd be a szemed, és ne próbáld megnevezni a választ. Csak a rejtett képet írod le. Figyeld meg és jegyezd le; az ítélet később jön.",
+     "en": "Your blind viewing session. On blank paper, let a first quick mark come, then record plain sensory impressions — shapes, textures, temperature, weight, light — as they arrive. Keep the pen moving, do not close your eyes, and do not try to name the answer. You are only describing the hidden image. Observe and note it down; judgement comes later."
+    },
+    "intervals": [
+     {
+      "atSecond": 60,
+      "label": {
+       "hu": "Első jel, első benyomás",
+       "en": "First mark, first impression"
+      }
+     },
+     {
+      "atSecond": 300,
+      "label": {
+       "hu": "Járd végig az érzékeket — textúra, hőmérséklet, súly",
+       "en": "Sweep the senses — texture, temperature, weight"
+      }
+     },
+     {
+      "atSecond": 540,
+      "label": {
+       "hu": "Gyűjtsd össze az utolsó benyomásokat",
+       "en": "Gather any last impressions"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvm-timer-decode",
+   "kind": "timer",
+   "nevek": {
+    "hu": "Megfejtés és becsületes pontozás",
+    "en": "Decode and Honest Scoring"
+   },
+   "timer": {
+    "durationSeconds": 300,
+    "instructions": {
+     "hu": "Most fedd fel a két képet, és nyugodtan vesd össze őket a jegyzeteiddel. Melyikre hasonlítanak jobban a benyomásaid? Olvasd le a hozzá kötött választ — vagy jelöld a próbát bizonytalannak, ha az illeszkedés egyenlő. Ne írd át a jegyzeteidet, hogy illeszkedjenek; hagyd őket úgy, ahogy jöttek. Amikor a valódi kimenetel ismert lesz, adj hozzá egyetlen jelet a számadásodhoz.",
+     "en": "Now reveal the two images and compare them calmly to your notes. Which one do your impressions resemble more? Read off the answer it was bound to — or mark the trial unclear if the fit is even. Do not rewrite your notes to fit; let them stand as they came. When the real outcome is known, add one mark to your tally."
+    },
+    "intervals": [
+     {
+      "atSecond": 120,
+      "label": {
+       "hu": "Illeszd a jegyzeteket mindkét képhez",
+       "en": "Match notes to each image"
+      }
+     },
+     {
+      "atSecond": 240,
+      "label": {
+       "hu": "Dönts, vagy jelöld bizonytalannak",
+       "en": "Decide, or mark it unclear"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvm-checklist-setup",
+   "kind": "checklist",
+   "nevek": {
+    "hu": "Próba-előkészítő lista",
+    "en": "Trial Setup Checklist"
+   },
+   "checklist": {
+    "items": [
+     {
+      "key": "rvm-chk-question",
+      "nevek": {
+       "hu": "Megfogalmaztam egy semleges, alacsony téttel bíró kérdést, pontosan két kimenetellel, amely magától eldől.",
+       "en": "I have framed a neutral, low-stakes question with exactly two outcomes that will resolve on its own."
+      }
+     },
+     {
+      "key": "rvm-chk-images",
+      "nevek": {
+       "hu": "Van két változatos képem, hangulatban és energiában hasonló, erős mozgás vagy digitális hamisítás nélkül.",
+       "en": "I have two varied images, similar in mood and energy, with no strong motion or digital fakery."
+      }
+     },
+     {
+      "key": "rvm-chk-blind",
+      "nevek": {
+       "hu": "A két kép a látókörömön kívül kötődik a két válaszhoz, így valóban nem tudom, melyik melyik.",
+       "en": "The two images are bound to the two answers out of my sight, so I genuinely do not know which is which."
+      }
+     },
+     {
+      "key": "rvm-chk-log",
+      "nevek": {
+       "hu": "A megfigyelés előtt naplóztam a próbát egy hivatkozási számmal.",
+       "en": "I have logged the trial with a reference number before viewing."
+      }
+     },
+     {
+      "key": "rvm-chk-space",
+      "nevek": {
+       "hu": "A terem csendes, és minden fényvisszaverő tárgy, kijelző, valamint minden mozgó vagy figyelemelterelő dolog a látókörömön kívül van.",
+       "en": "My space is quiet, with reflective objects, screens, and anything that moves or catches the eye kept out of my line of sight."
+      }
+     },
+     {
+      "key": "rvm-chk-check",
+      "nevek": {
+       "hu": "Előre eldöntöttem, hogyan és mikor ellenőrzöm a valódi kimenetelt, és jegyzek egyetlen becsületes jelet.",
+       "en": "I have decided in advance how and when I will check the real outcome and score one honest mark."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "rvm-aspektus-traits",
+   "kind": "aspektusPack",
+   "nevek": {
+    "hu": "A megfigyelő belső vonásai",
+    "en": "The Viewer's Inner Traits"
+   },
+   "aspektusPack": [
+    {
+     "key": "rvm-asp-patience",
+     "elem": "fold",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Türelmes állhatatosság — a pontszámot sok próbán át gyűjtöd",
+      "en": "Patient steadiness — gathering a score slowly over many trials"
+     }
     },
     {
-      "id": "rvm-md-frame",
-      "kind": "markdown",
-      "nevek": { "hu": "A hagyomány saját modellje — becsületes keret", "en": "The Tradition's Own Model — an Honest Frame" },
-      "text": {
-        "hu": "Minden hagyomány, amely ezt a gyakorlatot tanítja, nagy állításokat tesz — azt, hogy egy gyakorlott megfigyelő benyomásokat gyűjthet egy rejtett célpontról, még olyanról is, amely egy még el nem dőlt eseményhez kötődik. **Ebben a modulban ezeket az állításokat a hagyomány saját modelljeként mutatjuk be, nem megállapított tényként.**\n\nNem ígérjük, hogy a módszer működik, és arra kérünk, te se ígérd ezt magadnak. Kezeld pontosan úgy, ahogyan bármelyik fegyelmezett belső gyakorlatot a Bardon-szellemben: valami, amit gyakorolsz, megfigyelsz, és a **belső gyümölcsei** szerint mérsz — nyugodtabb figyelem, becsületesebb viszony a saját megérzéseiddel, és a lassú, alázatra tanító visszajelzés egy időben vezetett pontszámból.\n\nA tisztességes viszonyítás számít. Két lehetséges válasznál a vak találgatás hosszú távon a **fele körül** talál. Ez a félúton húzódó vonal a becsületes alapvonalad. Egy rövid szerencsés sorozat semmit sem bizonyít; csak sok próba — hízelgés nélkül pontozva — mondhat egyáltalán bármit. Tartsd az egészet könnyedén. A kíváncsiság és a számadás a lényeg — bizonyosságot nem kínálunk.",
-        "en": "Every tradition that teaches this practice makes large claims — that a trained observer can gather impressions about a hidden target, even one tied to an event that has not yet resolved. **In this module those claims are presented as the tradition's own model, not as established fact.**\n\nWe make no promise that the method works, and we ask you to make none to yourself. Treat it exactly as you would any disciplined inner exercise in the Bardon spirit: something you practise, observe, and measure by its **inner fruits** — steadier attention, a more honest relationship with your own hunches, and the slow, humbling feedback of a score kept over time.\n\nA fair reference point matters. With two possible answers, blind guessing lands near **half** right over a long run. That halfway line is your honest baseline. A short lucky streak proves nothing; only a large number of trials, scored without flattering yourself, can say anything at all. Hold the whole thing lightly. Curiosity and record-keeping are the point — certainty is not on offer."
-      }
+     "key": "rvm-asp-honesty",
+     "elem": "viz",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Becsületes önpontozás — nem szépíted a találatot",
+      "en": "Honest self-scoring — not dressing up the result"
+     }
     },
     {
-      "id": "rvm-md-method",
-      "kind": "markdown",
-      "nevek": { "hu": "A módszer, lépésről lépésre", "en": "The Method, Step by Step" },
-      "text": {
-        "hu": "Íme a gyakorlat, lépésről lépésre.\n\n**1. Fogalmazz meg egy bináris kérdést.** Válassz valamit, aminek pontosan két kimenetele van, és amely magától, hamarosan eldől, akár ránézel, akár nem — például melyik nyer két, hozzád nem kötődő, kiegyensúlyozott csapat közül egy meccsen, vagy holnap a legmagasabb hőmérséklet a mai fölött vagy alatt lesz-e. Tartsd semlegesnek és alacsony téttel.\n\n**2. Köss két képet a két válaszhoz — vakon.** Gyűjts egy paklinyi változatos képet, amelyek **hangulatban és energiában hasonlók** — nyugodt tájképek jól működnek; kerüld a mozgástól, energiarobbanástól vagy nyilvánvaló digitális hamisítástól uralt képeket, mert a szem ezekre húz, függetlenül a választól. Keverd meg, húzz kettőt, és — anélkül hogy látnád, melyik melyik — az egyik az A válaszhoz, a másik a B-hez kötődjön. Egyszerű mód: számozd meg a próbát, zárd le külön-külön a képeket, és egy érme vagy egy segítő állítsa be a párosítást, hogy valóban ne ismerd.\n\n**3. Figyelj vakon.** Ülj csendes, ingerszegény térben, kipihenten és éberen. Üres papíron hagyd, hogy előbb egy gyors első jel, majd egyszerű **érzékszervi benyomások** jöjjenek — formák, textúrák, hőmérsékletek, súlyok, fény —, és egyszerűen rögzítsd őket, ahogy érkeznek, ítélkezés és irányítás nélkül. A rejtett képet írod le, nem a választ találgatod.\n\n**4. Fejtsd meg.** Ha végeztél, fedd fel a két képet. Nyugodtan vesd össze a jegyzeteidet mindkettővel. Döntsd el, melyik képre hasonlítanak jobban a benyomásaid, és olvasd le a hozzá kötött választ. Ha a jegyzeteid egyformán illenek mindkettőre, jelöld a próbát **bizonytalannak**, ahelyett hogy erőltetnél egy döntést.\n\n**5. Pontozz becsületesen.** Várd meg a valódi kimenetelt, majd írj egyetlen jelet: találat vagy tévesztés. Add hozzá a folyó számadásodhoz. **A tucatnyi próbán át vezetett számadás az egyetlen eredmény, amely bármit is jelent** — egyetlen ülés, találat vagy tévesztés, semmit sem mond.",
-        "en": "Here is the exercise, step by step.\n\n**1. Frame a binary question.** Choose something with exactly two outcomes that will resolve on its own, soon, whether or not you look — for example, which of two evenly matched teams you have no stake in wins a match, or whether tomorrow's high temperature is above or below today's. Keep it neutral and low-stakes.\n\n**2. Bind two images to the two answers — blind.** Gather a deck of varied images that are similar in **mood and energy** — calm landscapes work well; avoid pictures dominated by motion, blasts of energy, or obvious digital fakery, since the eye is pulled to those regardless of the answer. Shuffle, draw two, and — without seeing which is which — have one tied to answer A and the other to answer B. A simple way: number the trial, seal each image separately, and let a coin or a helper set the pairing so you genuinely do not know it.\n\n**3. View blind.** Sit in a quiet, low-distraction space when you are rested and alert. On blank paper, let a first quick mark come, then plain **sensory impressions** — shapes, textures, temperatures, weights, light — and simply record them as they arrive, without judging or steering. You are describing the hidden image, not guessing the answer.\n\n**4. Decode.** When you are done, reveal the two images. Calmly compare your notes to each. Decide which image your impressions resemble more, and read off the answer that image was bound to. If your notes fit both equally, mark the trial **unclear** rather than forcing a call.\n\n**5. Score honestly.** Wait for the real outcome, then write one mark: hit or miss. Add it to your running tally. **The tally, kept over dozens of trials, is the only result that means anything** — a single session, hit or miss, tells you nothing."
-      }
+     "key": "rvm-asp-nonattachment",
+     "elem": "levego",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Ragaszkodás-mentesség — nem kötődsz a kimenetelhez",
+      "en": "Non-attachment — not clinging to the outcome"
+     }
     },
     {
-      "id": "rvm-md-ethics",
-      "kind": "markdown",
-      "nevek": { "hu": "Kerítés és megkülönböztetés — a szilárd határok", "en": "Fences and Discernment — the Firm Boundaries" },
-      "text": {
-        "hu": "Néhány szilárd határ teszi biztonságossá, hogy megtartsd ezt a gyakorlatot.\n\n**A pénz maradjon ki belőle.** Ez kalibrációs játék, nem fogadási, kereskedési, piaci vagy nyereséget termelő módszer. Semmi lottószám, semmi fogadás, semmi pénzügyi döntés — abban a pillanatban, ahogy tét kerül bele, a becsületes pontozás meghal, és a gyakorlat pénzvesztő önámítássá válik. Ha egy forrás gazdagságot ígér az intuícióból, épp az a rész, amelytől el kell sétálnod.\n\n**Maradj önmagadra irányulva, és tiszteld a szabad akaratot.** Csak olyan kérdéseket figyelj, amelyek a tieid. Ne irányítsd a gyakorlatot egy megnevezett másik személyre, a magánéletére vagy a hollétére a világos beleegyezése nélkül. Ne használd eltűnt emberek, holttestek vagy bűncselekmények áldozatainak felkutatására, és soha ne küldj tippeket családoknak vagy hatóságoknak — ez valódi kárt okoz, és akadályozza a valódi segítséget.\n\n**Semmi végzet-jóslat.** Ne használd katasztrófák dátumainak rögzítésére, önmagad megrémítésére, vagy hogy bizalmatlanná válj a körülötted lévők iránt. Ez félelem, meglátásnak öltöztetve.\n\n**Az egészség az első — mindig.** Itt semmi nem diagnosztizál, kezel vagy helyettesít orvosi vagy pszichológiai ellátást, és soha nem szabad késleltetnie azt. A strukturált belső munka erős érzéseket kavarhat fel. Ha parancsoló hangokat kezdesz hallani, vagy bármilyen késztetést érzel, hogy ártsál magadnak vagy másnak, kezeld **orvosi vészhelyzetként**: azonnal állj le, és fordulj orvoshoz, krízisvonalhoz vagy a mentőkhöz. Ez a modul nem gyerekeknek és nem krízisben lévőknek való. Ha a gyakorlat valaha felkavar, a helyes lépés az, hogy leteszed, és segítséget kérsz.",
-        "en": "A few firm boundaries make this practice safe to keep.\n\n**Keep money out of it.** This is a calibration game, not a method for betting, trading, markets, or profit. No lottery numbers, no wagers, no financial decisions — the moment stakes enter, honest scoring dies and the exercise turns into a way to lose money and fool yourself. If a source promises riches from intuition, that is exactly the part to walk away from.\n\n**Stay self-directed, and honour free will.** View only questions that are yours to ask. Do not aim the practice at a specific named person, their private life, or their whereabouts without their clear consent. Do not use it to locate missing people, bodies, or victims of crime, and never send guesses to families or authorities — that causes real harm and interferes with real help.\n\n**No prophecy of doom.** Do not use this to fix dates on disasters, frighten yourself, or grow to distrust the people around you. That is fear dressed as insight.\n\n**Health comes first — always.** Nothing here diagnoses, treats, or replaces medical or psychological care, and it must never delay it. Structured inner work can stir strong feelings. If you begin hearing voices that command you, or you feel any urge to harm yourself or another person, treat it as a **medical emergency**: stop at once and contact a doctor, a crisis line, or emergency services. This module is not for children or for anyone in crisis. If the practice ever unsettles you, the right move is to set it down and seek support."
-      }
+     "key": "rvm-asp-presence",
+     "elem": "ido",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Jelenlévő figyelem — a pillanatban észlelsz és lejegyzel",
+      "en": "Present-moment attention — noticing and noting in the now"
+     }
     },
     {
-      "id": "rvm-timer-settle",
-      "kind": "timer",
-      "nevek": { "hu": "Elcsendesedés a próba előtt", "en": "Settling Before a Trial" },
-      "timer": {
-        "durationSeconds": 300,
-        "instructions": {
-          "hu": "Rövid elcsendesedés a próba előtt. Ülj kényelmesen, hagyd, hogy a légzésed lelassuljon, és engedd, hogy a nap zaja lecsorogjon rólad. Nem transzba akarsz merülni — csak csendessé, kipihentté és jelenlévővé válni, tiszta térrel magad előtt, ahol semmi csillogó vagy mozgó nem húzza el a szemedet.",
-          "en": "A short settling before a trial. Sit comfortably, let your breathing slow, and let the day's noise drain off. You are not trying to enter a trance — just to become quiet, rested, and present, with a clear space in front of you and nothing shiny or moving to pull your eye."
-        },
-        "intervals": [
-          { "atSecond": 60, "label": { "hu": "Hagyd elülni a légzést", "en": "Let the breath settle" } },
-          { "atSecond": 240, "label": { "hu": "Csendes és jelenlévő", "en": "Quiet and present" } }
-        ]
-      }
+     "key": "rvm-asp-discernment",
+     "elem": "eter",
+     "tukor": "feher",
+     "nevek": {
+      "hu": "Megkülönböztetés — elválasztod a benyomást a vágytól",
+      "en": "Discernment — telling impression apart from wish"
+     }
     },
     {
-      "id": "rvm-timer-session",
-      "kind": "timer",
-      "nevek": { "hu": "Vak megfigyelő ülés", "en": "Blind Viewing Session" },
-      "timer": {
-        "durationSeconds": 600,
-        "instructions": {
-          "hu": "A vak megfigyelő ülésed. Üres papíron hagyd, hogy előbb egy gyors első jel jöjjön, majd rögzíts egyszerű érzékszervi benyomásokat — formák, textúrák, hőmérséklet, súly, fény —, ahogy érkeznek. Tartsd mozgásban a tollat, ne csukd be a szemed, és ne próbáld megnevezni a választ. Csak a rejtett képet írod le. Figyeld meg és jegyezd le; az ítélet később jön.",
-          "en": "Your blind viewing session. On blank paper, let a first quick mark come, then record plain sensory impressions — shapes, textures, temperature, weight, light — as they arrive. Keep the pen moving, do not close your eyes, and do not try to name the answer. You are only describing the hidden image. Observe and note it down; judgement comes later."
-        },
-        "intervals": [
-          { "atSecond": 60, "label": { "hu": "Első jel, első benyomás", "en": "First mark, first impression" } },
-          { "atSecond": 300, "label": { "hu": "Járd végig az érzékeket — textúra, hőmérséklet, súly", "en": "Sweep the senses — texture, temperature, weight" } },
-          { "atSecond": 540, "label": { "hu": "Gyűjtsd össze az utolsó benyomásokat", "en": "Gather any last impressions" } }
-        ]
-      }
+     "key": "rvm-asp-wishful",
+     "elem": "tuz",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Vágyvezérelt látás — a reményeidet olvasod a jegyzetekbe",
+      "en": "Wishful seeing — reading your hopes into the notes"
+     }
     },
     {
-      "id": "rvm-timer-decode",
-      "kind": "timer",
-      "nevek": { "hu": "Megfejtés és becsületes pontozás", "en": "Decode and Honest Scoring" },
-      "timer": {
-        "durationSeconds": 300,
-        "instructions": {
-          "hu": "Most fedd fel a két képet, és nyugodtan vesd össze őket a jegyzeteiddel. Melyikre hasonlítanak jobban a benyomásaid? Olvasd le a hozzá kötött választ — vagy jelöld a próbát bizonytalannak, ha az illeszkedés egyenlő. Ne írd át a jegyzeteidet, hogy illeszkedjenek; hagyd őket úgy, ahogy jöttek. Amikor a valódi kimenetel ismert lesz, adj hozzá egyetlen jelet a számadásodhoz.",
-          "en": "Now reveal the two images and compare them calmly to your notes. Which one do your impressions resemble more? Read off the answer it was bound to — or mark the trial unclear if the fit is even. Do not rewrite your notes to fit; let them stand as they came. When the real outcome is known, add one mark to your tally."
-        },
-        "intervals": [
-          { "atSecond": 120, "label": { "hu": "Illeszd a jegyzeteket mindkét képhez", "en": "Match notes to each image" } },
-          { "atSecond": 240, "label": { "hu": "Dönts, vagy jelöld bizonytalannak", "en": "Decide, or mark it unclear" } }
-        ]
-      }
+     "key": "rvm-asp-grasping",
+     "elem": "levego",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Türelmetlen kapkodás — döntést erőltetsz, sorozatot hajszolsz",
+      "en": "Grasping impatience — forcing a call, chasing a streak"
+     }
     },
     {
-      "id": "rvm-checklist-setup",
-      "kind": "checklist",
-      "nevek": { "hu": "Próba-előkészítő lista", "en": "Trial Setup Checklist" },
-      "checklist": {
-        "items": [
-          { "key": "rvm-chk-question", "nevek": { "hu": "Megfogalmaztam egy semleges, alacsony téttel bíró kérdést, pontosan két kimenetellel, amely magától eldől.", "en": "I have framed a neutral, low-stakes question with exactly two outcomes that will resolve on its own." } },
-          { "key": "rvm-chk-images", "nevek": { "hu": "Van két változatos képem, hangulatban és energiában hasonló, erős mozgás vagy digitális hamisítás nélkül.", "en": "I have two varied images, similar in mood and energy, with no strong motion or digital fakery." } },
-          { "key": "rvm-chk-blind", "nevek": { "hu": "A két kép a látókörömön kívül kötődik a két válaszhoz, így valóban nem tudom, melyik melyik.", "en": "The two images are bound to the two answers out of my sight, so I genuinely do not know which is which." } },
-          { "key": "rvm-chk-log", "nevek": { "hu": "A megfigyelés előtt naplóztam a próbát egy hivatkozási számmal.", "en": "I have logged the trial with a reference number before viewing." } },
-          { "key": "rvm-chk-space", "nevek": { "hu": "A terem csendes, és minden fényvisszaverő tárgy, kijelző, valamint minden mozgó vagy figyelemelterelő dolog a látókörömön kívül van.", "en": "My space is quiet, with reflective objects, screens, and anything that moves or catches the eye kept out of my line of sight." } },
-          { "key": "rvm-chk-check", "nevek": { "hu": "Előre eldöntöttem, hogyan és mikor ellenőrzöm a valódi kimenetelt, és jegyzek egyetlen becsületes jelet.", "en": "I have decided in advance how and when I will check the real outcome and score one honest mark." } }
-        ]
-      }
-    },
-    {
-      "id": "rvm-aspektus-traits",
-      "kind": "aspektusPack",
-      "nevek": { "hu": "A megfigyelő belső vonásai", "en": "The Viewer's Inner Traits" },
-      "aspektusPack": [
-        { "key": "rvm-asp-patience", "elem": "fold", "tukor": "feher", "nevek": { "hu": "Türelmes állhatatosság — a pontszámot sok próbán át gyűjtöd", "en": "Patient steadiness — gathering a score slowly over many trials" } },
-        { "key": "rvm-asp-honesty", "elem": "viz", "tukor": "feher", "nevek": { "hu": "Becsületes önpontozás — nem szépíted a találatot", "en": "Honest self-scoring — not dressing up the result" } },
-        { "key": "rvm-asp-nonattachment", "elem": "levego", "tukor": "feher", "nevek": { "hu": "Ragaszkodás-mentesség — nem kötődsz a kimenetelhez", "en": "Non-attachment — not clinging to the outcome" } },
-        { "key": "rvm-asp-presence", "elem": "ido", "tukor": "feher", "nevek": { "hu": "Jelenlévő figyelem — a pillanatban észlelsz és lejegyzel", "en": "Present-moment attention — noticing and noting in the now" } },
-        { "key": "rvm-asp-discernment", "elem": "eter", "tukor": "feher", "nevek": { "hu": "Megkülönböztetés — elválasztod a benyomást a vágytól", "en": "Discernment — telling impression apart from wish" } },
-        { "key": "rvm-asp-wishful", "elem": "tuz", "tukor": "fekete", "nevek": { "hu": "Vágyvezérelt látás — a reményeidet olvasod a jegyzetekbe", "en": "Wishful seeing — reading your hopes into the notes" } },
-        { "key": "rvm-asp-grasping", "elem": "levego", "tukor": "fekete", "nevek": { "hu": "Türelmetlen kapkodás — döntést erőltetsz, sorozatot hajszolsz", "en": "Grasping impatience — forcing a call, chasing a streak" } },
-        { "key": "rvm-asp-selfdeception", "elem": "viz", "tukor": "fekete", "nevek": { "hu": "Önhízelgő számadás — felnagyítod a találatot, mented a tévesztést", "en": "Self-flattering tally — inflating hits, excusing misses" } }
-      ]
-    },
-    {
-      "id": "rvm-journal-trial",
-      "kind": "journalTemplate",
-      "nevek": { "hu": "Próbanapló — benyomás, döntés, pontszám", "en": "Trial Journal — Impression, Call, Score" },
-      "journalTemplate": {
-        "aspektusKeys": ["rvm-asp-honesty"],
-        "prompts": {
-          "hu": "A próba után, mielőtt tudnád a kimenetelt: milyen benyomások jöttek valójában, a maguk szavaival? Melyik képet választottad, és miért? Jegyezd fel, mennyire erősen érezted — valódi leolvasás, halvány hajlás, vagy erőltetett döntés.\n\nMiután megtudod a kimenetelt: találat vagy tévesztés? Add hozzá a folyó számadásodhoz, és írd le becsületesen a jelenlegi pontszámot. Észrevettél-e bármi húzást, hogy átformáld a jegyzeteidet, elmagyarázd a tévesztést, vagy találatnak nyilváníts egy homályos eredményt? Ennek a húzásnak a megnevezése maga a gyakorlat. Mit mond a találati arányod az eddigi próbákon át — és hogyan viszonyul a félúton húzódó alapvonalhoz?",
-          "en": "After a trial, before you know the outcome: what impressions actually came, in their own words? Which image did you choose, and why? Note how strongly you felt it — a real read, a faint lean, or a forced call.\n\nAfter you learn the outcome: hit or miss? Add it to your running tally, and write the current score honestly. Did you notice any pull to reshape your notes, to explain away a miss, or to claim a fuzzy result as a hit? Naming that pull is the practice. What is your hit-rate telling you over the trials so far — and how does it sit against the halfway baseline?"
-        }
-      }
-    },
-    {
-      "id": "rvm-quiz-discernment",
-      "kind": "quiz",
-      "nevek": { "hu": "Megkülönböztető önellenőrzés", "en": "Discernment Self-Check" },
-      "quiz": {
-        "passThreshold": 3,
-        "questions": [
-          {
-            "id": "q1",
-            "prompt": {
-              "hu": "Sok próbán át a találati arányod a fele körül marad. Mi ennek a becsületes olvasata?",
-              "en": "Over many trials your hit-rate sits close to half. What is the honest way to read that?"
-            },
-            "options": {
-              "hu": [
-                "Bizonyítja, hogy a módszer valódi, és jobban kellene bíznod benne",
-                "Ez a várható alapvonal egy kétkimenetelű találgatásnál — a viszonyítási vonal, amelyhez mindent mérsz",
-                "Azt jelenti, hogy a következő néhány próba már találat lesz, mert esedékes"
-              ],
-              "en": [
-                "It proves the method is real and you should trust it more",
-                "It is the expected baseline for a two-outcome guess — the reference line you measure everything against",
-                "It means the next few trials are due to be hits"
-              ]
-            },
-            "correctIndex": 1
-          },
-          {
-            "id": "q2",
-            "prompt": {
-              "hu": "Erős megérzés érkezik, és kísértést érzel, hogy fogadj vele vagy lottószámot válassz. Mit tanácsol ez a modul?",
-              "en": "A strong hunch arrives and you are tempted to place a bet or pick lottery numbers with it. What does this module advise?"
-            },
-            "options": {
-              "hu": [
-                "Tartsd teljesen ki a pénzt, a fogadást és a piacokat — ez önkalibrációs játék, nem kereseti mód",
-                "Tegyél fel egy kis összeget, hogy teszteld, megtérül-e a megérzés",
-                "Bízz az erős megérzésben, mert az erő pontosságot jelent"
-              ],
-              "en": [
-                "Keep money, betting and markets entirely out of it — this is a self-calibration game, not a way to earn",
-                "Stake a small amount to test whether the hunch pays",
-                "Trust a strong hunch, since strength means accuracy"
-              ]
-            },
-            "correctIndex": 0
-          },
-          {
-            "id": "q3",
-            "prompt": {
-              "hu": "A gyakorlat közben vagy után parancsoló hangot kezdesz hallani, vagy késztetést érzel, hogy ártsál magadnak vagy másnak. A helyes válasz:",
-              "en": "During or after practice you begin hearing a voice commanding you, or feel an urge to harm yourself or someone else. The right response is:"
-            },
-            "options": {
-              "hu": [
-                "Kezeld pszichikus jelként, és próbáld megfejteni az üzenetét",
-                "Kezeld orvosi vészhelyzetként — állj le, és fordulj orvoshoz, krízisvonalhoz vagy a mentőkhöz",
-                "Folytasd; az erős belső élmények a munka részei"
-              ],
-              "en": [
-                "Treat it as a psychic signal and try to decode its message",
-                "Treat it as a medical emergency — stop and contact a doctor, a crisis line, or emergency services",
-                "Keep going; strong inner experiences are part of the work"
-              ]
-            },
-            "correctIndex": 1
-          },
-          {
-            "id": "q4",
-            "prompt": {
-              "hu": "Kíváncsi vagy egy megnevezett személy magánéletére vagy hollétére, aki nem egyezett bele. Mi a megkülönböztető döntés?",
-              "en": "You are curious to view the private life or whereabouts of a specific named person who has not agreed to it. What is the discerning choice?"
-            },
-            "options": {
-              "hu": [
-                "Csendben tedd meg, hiszen csak te fogod tudni",
-                "Tartsd a gyakorlatot önmagadra irányulva, és tiszteld a szabad akaratát — ne célozz megnevezett személyt beleegyezés nélkül",
-                "Rendben van, amíg soha nem mondod el neki"
-              ],
-              "en": [
-                "Go ahead quietly, since only you will know",
-                "Keep the practice self-directed and honour their free will — do not target a named person without consent",
-                "It is fine as long as you never tell them"
-              ]
-            },
-            "correctIndex": 1
-          }
-        ]
-      }
+     "key": "rvm-asp-selfdeception",
+     "elem": "viz",
+     "tukor": "fekete",
+     "nevek": {
+      "hu": "Önhízelgő számadás — felnagyítod a találatot, mented a tévesztést",
+      "en": "Self-flattering tally — inflating hits, excusing misses"
+     }
     }
-  ]
+   ]
+  },
+  {
+   "id": "rvm-journal-trial",
+   "kind": "journalTemplate",
+   "nevek": {
+    "hu": "Próbanapló — benyomás, döntés, pontszám",
+    "en": "Trial Journal — Impression, Call, Score"
+   },
+   "journalTemplate": {
+    "aspektusKeys": [
+     "rvm-asp-honesty"
+    ],
+    "prompts": {
+     "hu": "A próba után, mielőtt tudnád a kimenetelt: milyen benyomások jöttek valójában, a maguk szavaival? Melyik képet választottad, és miért? Jegyezd fel, mennyire erősen érezted — valódi leolvasás, halvány hajlás, vagy erőltetett döntés.\n\nMiután megtudod a kimenetelt: találat vagy tévesztés? Add hozzá a folyó számadásodhoz, és írd le becsületesen a jelenlegi pontszámot. Észrevettél-e bármi húzást, hogy átformáld a jegyzeteidet, elmagyarázd a tévesztést, vagy találatnak nyilváníts egy homályos eredményt? Ennek a húzásnak a megnevezése maga a gyakorlat. Mit mond a találati arányod az eddigi próbákon át — és hogyan viszonyul a félúton húzódó alapvonalhoz?",
+     "en": "After a trial, before you know the outcome: what impressions actually came, in their own words? Which image did you choose, and why? Note how strongly you felt it — a real read, a faint lean, or a forced call.\n\nAfter you learn the outcome: hit or miss? Add it to your running tally, and write the current score honestly. Did you notice any pull to reshape your notes, to explain away a miss, or to claim a fuzzy result as a hit? Naming that pull is the practice. What is your hit-rate telling you over the trials so far — and how does it sit against the halfway baseline?"
+    }
+   }
+  },
+  {
+   "id": "rvm-quiz-discernment",
+   "kind": "quiz",
+   "nevek": {
+    "hu": "Megkülönböztető önellenőrzés",
+    "en": "Discernment Self-Check"
+   },
+   "quiz": {
+    "passThreshold": 3,
+    "questions": [
+     {
+      "id": "q1",
+      "prompt": {
+       "hu": "Sok próbán át a találati arányod a fele körül marad. Mi ennek a becsületes olvasata?",
+       "en": "Over many trials your hit-rate sits close to half. What is the honest way to read that?"
+      },
+      "options": {
+       "hu": [
+        "Bizonyítja, hogy a módszer valódi, és jobban kellene bíznod benne",
+        "Ez a várható alapvonal egy kétkimenetelű találgatásnál — a viszonyítási vonal, amelyhez mindent mérsz",
+        "Azt jelenti, hogy a következő néhány próba már találat lesz, mert esedékes"
+       ],
+       "en": [
+        "It proves the method is real and you should trust it more",
+        "It is the expected baseline for a two-outcome guess — the reference line you measure everything against",
+        "It means the next few trials are due to be hits"
+       ]
+      },
+      "correctIndex": 1
+     },
+     {
+      "id": "q2",
+      "prompt": {
+       "hu": "Erős megérzés érkezik, és kísértést érzel, hogy fogadj vele vagy lottószámot válassz. Mit tanácsol ez a modul?",
+       "en": "A strong hunch arrives and you are tempted to place a bet or pick lottery numbers with it. What does this module advise?"
+      },
+      "options": {
+       "hu": [
+        "Tartsd teljesen ki a pénzt, a fogadást és a piacokat — ez önkalibrációs játék, nem kereseti mód",
+        "Tegyél fel egy kis összeget, hogy teszteld, megtérül-e a megérzés",
+        "Bízz az erős megérzésben, mert az erő pontosságot jelent"
+       ],
+       "en": [
+        "Keep money, betting and markets entirely out of it — this is a self-calibration game, not a way to earn",
+        "Stake a small amount to test whether the hunch pays",
+        "Trust a strong hunch, since strength means accuracy"
+       ]
+      },
+      "correctIndex": 0
+     },
+     {
+      "id": "q3",
+      "prompt": {
+       "hu": "A gyakorlat közben vagy után parancsoló hangot kezdesz hallani, vagy késztetést érzel, hogy ártsál magadnak vagy másnak. A helyes válasz:",
+       "en": "During or after practice you begin hearing a voice commanding you, or feel an urge to harm yourself or someone else. The right response is:"
+      },
+      "options": {
+       "hu": [
+        "Kezeld pszichikus jelként, és próbáld megfejteni az üzenetét",
+        "Kezeld orvosi vészhelyzetként — állj le, és fordulj orvoshoz, krízisvonalhoz vagy a mentőkhöz",
+        "Folytasd; az erős belső élmények a munka részei"
+       ],
+       "en": [
+        "Treat it as a psychic signal and try to decode its message",
+        "Treat it as a medical emergency — stop and contact a doctor, a crisis line, or emergency services",
+        "Keep going; strong inner experiences are part of the work"
+       ]
+      },
+      "correctIndex": 1
+     },
+     {
+      "id": "q4",
+      "prompt": {
+       "hu": "Kíváncsi vagy egy megnevezett személy magánéletére vagy hollétére, aki nem egyezett bele. Mi a megkülönböztető döntés?",
+       "en": "You are curious to view the private life or whereabouts of a specific named person who has not agreed to it. What is the discerning choice?"
+      },
+      "options": {
+       "hu": [
+        "Csendben tedd meg, hiszen csak te fogod tudni",
+        "Tartsd a gyakorlatot önmagadra irányulva, és tiszteld a szabad akaratát — ne célozz megnevezett személyt beleegyezés nélkül",
+        "Rendben van, amíg soha nem mondod el neki"
+       ],
+       "en": [
+        "Go ahead quietly, since only you will know",
+        "Keep the practice self-directed and honour their free will — do not target a named person without consent",
+        "It is fine as long as you never tell them"
+       ]
+      },
+      "correctIndex": 1
+     }
+    ]
+   }
+  }
+ ]
 }
