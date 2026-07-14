@@ -49,7 +49,8 @@
    "etika": {
     "hu": "A cél a saját tisztánlátásod, nem mások leleplezése vagy megvádolása. A befolyásolás felismerése nem jogosít fel arra, hogy mások meggyőződését lekicsinyeld.",
     "en": "The aim is your own clear sight, not exposing or accusing others. Recognizing influence does not entitle you to belittle others' convictions."
-   }
+   },
+   "sorszam": 1
   },
   {
    "id": "mod-critical-pause",
@@ -86,7 +87,8 @@
    "keret": {
     "hu": "A sürgetés a befolyásolás egyik legrégibb fogása, mert a gyors döntés kikapcsolja a mérlegelést; a szünet visszaadja azt.",
     "en": "Urgency is one of influence's oldest devices, because a fast decision switches off weighing; the pause restores it."
-   }
+   },
+   "sorszam": 2
   },
   {
    "id": "mod-own-scale",
@@ -126,7 +128,8 @@
    "etika": {
     "hu": "A mérleg megtartása a saját döntéseidre vonatkozik, nem mások meggyőzésének fegyvere. Tiszteld mások jogát, hogy másként mérlegeljenek.",
     "en": "Keeping the scale applies to your own decisions, not as a weapon to convert others. Respect others' right to weigh differently."
-   }
+   },
+   "sorszam": 3
   },
   {
    "id": "mod-treatment-boundary",
@@ -166,7 +169,8 @@
    "etika": {
     "hu": "Semmilyen gyakorlat nem helyettesíti az orvosi és pszichológiai ellátást. Ez a szabály másokra is vonatkozik: soha ne bátoríts senkit a kezelése elhagyására, és tiszteld a szabad akaratát a döntésben.",
     "en": "No practice replaces medical or psychological care. This rule extends to others: never encourage anyone to abandon their treatment, and respect their free will in the choice."
-   }
+   },
+   "sorszam": 4
   },
   {
    "id": "mod-golden-age-compass",
@@ -207,7 +211,8 @@
    "etika": {
     "hu": "A jóság tettei mások szabadságát tisztelve történjenek; a jó szándék nem jogosít fel arra, hogy mások életébe kéretlenül beavatkozz.",
     "en": "Let deeds of goodness respect others' freedom; good intent does not entitle you to intervene uninvited in others' lives."
-   }
+   },
+   "sorszam": 5
   },
   {
    "id": "mod-reserve-rotation",
@@ -244,7 +249,8 @@
    "keret": {
     "hu": "Ezek edzhető, hétköznapi képességek, amelyek gyakorlással mérhetően fejlődnek; a rendkívüli távoli-hatás állításokat hagyd a saját mérlegeden.",
     "en": "These are trainable, everyday faculties that improve measurably with practice; leave the extraordinary distant-effect claims on your own scale."
-   }
+   },
+   "sorszam": 6
   },
   {
    "id": "mod-living-water",
@@ -285,7 +291,8 @@
    "etika": {
     "hu": "Ez öngondoskodó jelenlét-gyakorlat, nem orvosi kezelés, és nem helyettesíti az orvosi ellátást. Betegség esetén az első lépés mindig az orvos. A víz maradjon tiszta, iható víz.",
     "en": "This is a self-care presence practice, not medical treatment, and does not replace medical care. In illness the first step is always the physician. Keep the water clean, drinkable water."
-   }
+   },
+   "sorszam": 7
   },
   {
    "id": "mod-living-earth",
@@ -322,7 +329,8 @@
    "keret": {
     "hu": "Ez a tett akkor is értékes és valóságos, ha a mögötte álló metafizikát nem fogadod el; a gondoskodás gyümölcse a helyben és benned mérhető.",
     "en": "This deed is valuable and real even if you do not accept the metaphysics behind it; the fruit of care is measurable in the place and in you."
-   }
+   },
+   "sorszam": 8
   },
   {
    "id": "mod-contact-reading",
@@ -363,7 +371,8 @@
    "etika": {
     "hu": "A jelek olvasása mások megértésére és a saját éberségedre való, nem arra, hogy manipuláld vagy 'leolvasd' azt, aki nem tud a jeleiről. A rád bízott bizalommal ne élj vissza.",
     "en": "Reading signs is for understanding others and your own alertness, not for manipulating or 'reading' one unaware of their signs. Do not abuse the trust placed in you."
-   }
+   },
+   "sorszam": 9
   },
   {
    "id": "mod-barnum-defense",
@@ -404,7 +413,8 @@
    "etika": {
     "hu": "Ez a lecke a saját és szeretteid védelmére szolgál, legfőképp a gyászra vadászó ál-médiumokkal szemben; sosem arra, hogy magad csapj be másokat ezekkel az eszközökkel.",
     "en": "This lesson serves the protection of yourself and your loved ones, above all against fake mediums preying on grief; never to deceive others with these devices yourself."
-   }
+   },
+   "sorszam": 10
   },
   {
    "id": "mod-honest-presentation",
@@ -445,7 +455,8 @@
    "etika": {
     "hu": "Az előadás eszközeit etikusan használd: igaz szó tálalására, sosem mások megtévesztésére, kifosztására vagy hamis tekintély építésére.",
     "en": "Use presentation's tools ethically: to serve a true word, never to deceive, exploit, or build false authority over others."
-   }
+   },
+   "sorszam": 11
   },
   {
    "id": "mod-simulation-boundary",
@@ -482,7 +493,8 @@
    "keret": {
     "hu": "A trükk elkápráztat egy pillanatra; a kimunkált lélek egy életen át világít — a valódi mű mércéje a türelmesebb, tisztább, igazabb élet.",
     "en": "The trick dazzles for a moment; the forged soul shines for a lifetime — the measure of the genuine work is a more patient, clearer, truer life."
-   }
+   },
+   "sorszam": 12
   }
  ]
 }

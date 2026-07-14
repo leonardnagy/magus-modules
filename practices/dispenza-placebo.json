@@ -49,7 +49,8 @@
    "etika": {
     "hu": "Figyelemgyakorlat, nem orvosi kezelés. Gyógyszert vagy kezelést soha ne hagyj el és ne módosíts, kizárólag orvosoddal egyeztetve — a gyakorlat a gondozásod mellett fut, soha nem helyette.",
     "en": "An attention exercise, not medical treatment. Never stop or alter medication or treatment except in consultation with your doctor — the practice runs alongside your care, never instead of it."
-   }
+   },
+   "sorszam": 1
   },
   {
    "id": "dpp-jelen-pillanat",
@@ -90,7 +91,8 @@
    "etika": {
     "hu": "Nem orvosi kezelés és nem terápia. Ha a gyakorlás alatt erős szorongást vagy nyomasztó élményt tapasztalsz, szüneteltesd, és fordulj szakemberhez; gyógyszert csak orvosoddal módosíts.",
     "en": "Not medical treatment or therapy. If strong anxiety or distressing experiences arise during practice, pause and consult a professional; change medication only with your doctor."
-   }
+   },
+   "sorszam": 2
   },
   {
    "id": "dpp-kettevalasztott-lap",
@@ -135,7 +137,8 @@
    "etika": {
     "hu": "Ha egészségi állapotot érintő hiedelmen dolgozol, a keret változatlan: a gyakorlat a kezelésed mellett fut, soha nem helyette, és minden gyógyszert pontosan úgy szedsz tovább, ahogy orvosod rendelte.",
     "en": "If you work on a health-related belief, the frame does not change: the practice runs alongside your treatment, never instead of it, and you keep taking every medication exactly as your doctor prescribed."
-   }
+   },
+   "sorszam": 3
   },
   {
    "id": "dpp-hiedelem-dontes",
@@ -180,7 +183,8 @@
    "etika": {
     "hu": "Semmilyen döntés vagy új hiedelem nem indokolja, hogy gyógyszert hagyj el, adagot módosíts vagy vizsgálatot halassz el — ilyen lépésről kizárólag orvosoddal együtt dönthetsz. Ne ígérj magadnak kimenetelt: az elmaradt fordulatból soha ne következtess arra, hogy nem hittél eléggé.",
     "en": "No decision or new belief ever justifies stopping a medication, changing a dose or postponing an examination — such steps are decided only together with your doctor. Promise yourself no outcome: never conclude from a hoped-for turn that failed to come that you did not believe hard enough."
-   }
+   },
+   "sorszam": 4
   },
   {
    "id": "dpp-emelkedett-erzelem",
@@ -225,7 +229,8 @@
    "etika": {
     "hu": "Az érzelmi munka nem terápia és nem orvosi kezelés; a gondozásod mellett használd, soha nem helyette. Ha nyomasztó érzések törnek fel, szüneteltesd a gyakorlatot, és fordulj szakemberhez.",
     "en": "Emotional work is neither therapy nor medical treatment; use it alongside your care, never instead of it. If distressing feelings surface, pause the practice and consult a professional."
-   }
+   },
+   "sorszam": 5
   },
   {
    "id": "dpp-mentalis-proba",
@@ -270,7 +275,8 @@
    "etika": {
     "hu": "Nem orvosi gyakorlat — a kezelésed mellett, soha nem helyette. A próba belső hozzáállást formál; egészségi döntést soha ne alapozz rá orvosi egyeztetés nélkül.",
     "en": "Not a medical exercise — alongside your treatment, never instead of it. Rehearsal shapes an inner stance; never base a health decision on it without consulting your doctor."
-   }
+   },
+   "sorszam": 6
   },
   {
    "id": "dpp-elolegezett-hala",
@@ -315,7 +321,8 @@
    "etika": {
     "hu": "A hála nem alku és nem fizetség egy kimenetelért — ne köss hozzá gyógyulási határidőt, mert az csalódásra és önvádra készít fel. Nem orvosi kezelés; gyógyszert, kezelést csak orvosoddal módosíts.",
     "en": "Gratitude is not a bargain or a payment for an outcome — tie no healing deadline to it, for that prepares disappointment and self-blame. Not medical treatment; change medication or treatment only with your doctor."
-   }
+   },
+   "sorszam": 7
   },
   {
    "id": "dpp-teljes-meditacio",
@@ -359,7 +366,8 @@
    "etika": {
     "hu": "Nem orvosi kezelés, nem diagnózis és nem terápia; semmilyen gyógyulási eredményt nem ígér. Gyógyszert vagy kezelést soha ne hagyj el és ne módosíts, kizárólag orvosoddal egyeztetve — a meditáció a gondozásod mellett fut, soha nem helyette. Testi tünet, erős szorongás vagy nyomasztó élmény esetén szüneteltesd, és fordulj szakemberhez.",
     "en": "Not medical treatment, diagnosis or therapy; it promises no healing outcome. Never stop or alter medication or treatment except in consultation with your doctor — the meditation runs alongside your care, never instead of it. If physical symptoms, strong anxiety or distressing experiences arise, pause and consult a professional."
-   }
+   },
+   "sorszam": 8
   },
   {
    "id": "dpp-hiedelem-naplo",
@@ -404,7 +412,8 @@
    "etika": {
     "hu": "A napló egészségi tüneteket nem diagnosztizál és kezelést nem helyettesít. A gyakorlat a kezelésed mellett fut; gyógyszert vagy kezelést kizárólag orvosoddal egyeztetve módosíts — és a testi tüneteket mindig orvosnak mutasd meg, ne a naplóban próbáld értelmezni.",
     "en": "The diary diagnoses no symptoms and replaces no treatment. The practice runs alongside your care; change medication or treatment only in consultation with your doctor — and always show physical symptoms to a doctor rather than trying to interpret them in the diary."
-   }
+   },
+   "sorszam": 9
   }
  ]
 }

@@ -45,7 +45,8 @@
    "etika": {
     "hu": "Légzőgyakorlat, nem orvosi kezelés. Ha légzési vagy keringési panaszod van, előbb kérdezd meg az orvosod.",
     "en": "A breathing exercise, not a medical treatment. If you have breathing or circulatory issues, ask your doctor first."
-   }
+   },
+   "sorszam": 1
   },
   {
    "id": "core-tudatossag",
@@ -83,7 +84,8 @@
     "hu": "Bevált jelenlét- és figyelem-edzés; a mindennapi éberség alapja.",
     "en": "Well-established presence and attention training; the base of everyday alertness."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 2
   },
   {
    "id": "core-koncentracio-egy",
@@ -121,7 +123,8 @@
     "hu": "Klasszikus, bevált koncentráció-edzés — semmi rendkívüli állítás.",
     "en": "Classic, well-established concentration training — no extraordinary claim."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 3
   },
   {
    "id": "core-uresseg",
@@ -159,7 +162,8 @@
     "hu": "Elmélyült ellazulás- és figyelemgyakorlat; a belső csend edzése. Türelmet kíván.",
     "en": "A deep relaxation and attention exercise; training inner silence. It asks for patience."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 4
   },
   {
    "id": "core-tuz-erzes",
@@ -197,7 +201,8 @@
     "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
     "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 5
   },
   {
    "id": "core-viz-erzes",
@@ -235,7 +240,8 @@
     "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
     "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 6
   },
   {
    "id": "core-levego-erzes",
@@ -273,7 +279,8 @@
     "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
     "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 7
   },
   {
    "id": "core-fold-erzes",
@@ -311,7 +318,8 @@
     "hu": "Belső érzet- és képzelet-edzés a bardoni elemtan szerint; az elemek itt tapasztalati minőségek, amelyeket megtanulunk tudatosan kezelni.",
     "en": "Inner sensation and imagination training in Bardon's element theory; the elements here are experiential qualities we learn to handle consciously."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 8
   },
   {
    "id": "core-tukor-osszeallitas",
@@ -349,7 +357,8 @@
     "hu": "Bardoni önismereti gyakorlat; a cél nem az önostorozás, hanem a tiszta látás és a tudatos fejlődés.",
     "en": "A Bardon self-knowledge exercise; the aim is not self-flagellation but clear seeing and conscious growth."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 9
   },
   {
    "id": "core-fekete-oldas",
@@ -387,7 +396,8 @@
     "hu": "Ez a Magus Napló lényege: nem elfojtás, hanem tudatos önuralom, amivel a fekete tükör idővel apad. Türelmet és állhatatosságot kíván.",
     "en": "This is the essence of Magus Napló: not suppression but conscious self-mastery, by which the black mirror diminishes over time. It asks for patience and steadiness."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 10
   },
   {
    "id": "core-hermesz-fenyoszlop",
@@ -425,7 +435,8 @@
     "hu": "A hermészi hagyomány szimbolikus gyakorlata; a megfelelés-elvet a tradíció saját tanításaként éljük át, belső gyümölcsei szerint mérve.",
     "en": "A symbolic practice of the Hermetic tradition; we experience the principle of correspondence as the tradition's own teaching, measured by its inner fruits."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 11
   },
   {
    "id": "core-ozirisz-merleg",
@@ -463,7 +474,8 @@
     "hu": "Az egyiptomi hagyomány Maat-szimbolikáján nyugvó önvizsgálat; a mérleg belső kép, az őszinte önreflexió eszköze.",
     "en": "A self-examination resting on the Maat symbolism of the Egyptian tradition; the scale is an inner image, a tool of honest self-reflection."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 12
   },
   {
    "id": "core-ptah-sziv-nyelv",
@@ -501,7 +513,8 @@
     "hu": "Az egyiptomi teremtés-mítosz szív-és-nyelv képére épülő szándék-gyakorlat; a hangsúly a belső őszinteség és a beszéd összhangján van.",
     "en": "An intention practice built on the heart-and-tongue image of the Egyptian creation myth; the emphasis is on the harmony of inner honesty and speech."
    },
-   "etika": null
+   "etika": null,
+   "sorszam": 13
   },
   {
    "id": "core-kashpirovsky-ellazulas",
@@ -542,7 +555,8 @@
    "etika": {
     "hu": "Ez ellazítás, NEM orvosi kezelés és NEM gyógymód. Betegség esetén fordulj orvoshoz; ez a gyakorlat nem helyettesíti a szakszerű ellátást.",
     "en": "This is relaxation, NOT a medical treatment and NOT a cure. For illness see a doctor; this practice does not replace professional care."
-   }
+   },
+   "sorszam": 14
   },
   {
    "id": "core-ignatenko-formula",
@@ -583,7 +597,8 @@
    "etika": {
     "hu": "Belső hangolásra való, nem mások befolyásolására és nem orvosi célra. Betegség esetén fordulj orvoshoz; ez a gyakorlat nem helyettesíti a szakszerű ellátást.",
     "en": "It is for inner attunement, not for influencing others and not for medical purposes. For illness see a doctor; this practice does not replace professional care."
-   }
+   },
+   "sorszam": 15
   }
  ]
 }

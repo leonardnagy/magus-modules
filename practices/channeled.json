@@ -49,7 +49,8 @@
    "etika": {
     "hu": "Ha a gyakorlat mély, régi érzéseket hoz fel, lassíts és bánj magaddal gyengéden; nem terápia, és nehéz lelki állapotban nem helyettesíti a szakember segítségét.",
     "en": "If the practice surfaces deep old feelings, slow down and treat yourself gently; it is not therapy and, in real distress, does not replace professional help."
-   }
+   },
+   "sorszam": 1
   },
   {
    "id": "chan-frequency-shift",
@@ -90,7 +91,8 @@
    "keret": {
     "hu": "A párhuzamos valóságok és a másodpercenkénti váltás a hagyomány saját állítása; itt munkamodellként használjuk, amelynek értékét nem az igazságtartalma, hanem a benned kiváltott tisztább állapot és bátrabb cselekvés adja.",
     "en": "Parallel realities and per-second shifting are the tradition's own claim; here we use it as a working model whose worth lies not in its literal truth but in the clearer state and braver action it evokes in you."
-   }
+   },
+   "sorszam": 2
   },
   {
    "id": "chan-permission-slip",
@@ -130,7 +132,8 @@
    "keret": {
     "hu": "A hagyomány szerint az eszköznek önmagában nincs ereje — a cédula pszichológiai híd, amely a saját hitedet mozgósítja; ennyiben becsületes és ártalmatlan önsegítő technika.",
     "en": "According to the tradition the tool has no power in itself — the slip is a psychological bridge that mobilizes your own belief; in that sense it is an honest and harmless self-help technique."
-   }
+   },
+   "sorszam": 3
   },
   {
    "id": "chan-fermentation-rot",
@@ -175,7 +178,8 @@
    "etika": {
     "hu": "Ha a szétesés élménye tartós reménytelenségbe, mély gyászba vagy önveszélyes gondolatokba fordul, ez már nem gyakorlat kérdése — fordulj szakemberhez.",
     "en": "If the experience of falling apart turns into lasting hopelessness, deep grief or thoughts of self-harm, this is no longer a matter of practice — consult a professional."
-   }
+   },
+   "sorszam": 4
   },
   {
    "id": "chan-distillation-essence",
@@ -212,7 +216,8 @@
    "keret": {
     "hu": "Ez egy strukturált napló-módszer az önreflexióhoz; „az érzelem egy hiedelem lenyomata” a hagyomány munkahipotézise, amelyet a saját tapasztalatodon mérj le.",
     "en": "This is a structured journaling method for self-reflection; 'emotion is the imprint of a belief' is the tradition's working hypothesis, to be tested against your own experience."
-   }
+   },
+   "sorszam": 5
   },
   {
    "id": "chan-coagulation-deed",
@@ -249,7 +254,8 @@
    "keret": {
     "hu": "„A test a pecsét: amit a test megtesz, azt a tudat elhiszi” — ez a szokásépítés józan lélektana, becsületes önformáló gyakorlat, nem varázslat.",
     "en": "'The body is the seal: what the body does, the mind believes' — this is the sound psychology of habit-building, an honest self-forming practice, not magic."
-   }
+   },
+   "sorszam": 6
   },
   {
    "id": "chan-spell-crafting",
@@ -266,24 +272,32 @@
    },
    "modszer": [
     {
-     "hu": "Fogalmazd meg a szándékot pontosan, pozitívan, jelen időben, és tisztítsd meg a teret és önmagad (például néhány mély lélegzettel vagy egy rövid csenddel).",
-     "en": "State the intention precisely, positively, in the present tense, and purify the space and yourself (for example with a few deep breaths or a short silence)."
+     "hu": "1. Tiszta szándék: fogalmazd meg pontosan, pozitívan, jelen időben — „ez most történik” vagy „…vagyok”. A homályos szándék homályos eredményt szül.",
+     "en": "1. Clear intent: state it precisely, positively, in the present tense — „this is happening now” or „I am…”. Vague intent breeds vague results."
     },
     {
-     "hu": "Válassz neked jelentéssel bíró jelképeket — szín, hang, mozdulat, tárgy, geometria —, majd vidd bele a szándékot szóval, képpel és átélt érzelemmel.",
-     "en": "Choose symbols meaningful to you — colour, sound, gesture, object, geometry — then bring the intention into them with word, image and felt emotion."
+     "hu": "2. Energetikai alap: tisztítsd meg a teret és önmagad — néhány mély lélegzettel, egy Chi-gömbbel, vagy a Lila Lánggal. Tiszta edénybe kerül a mű.",
+     "en": "2. Energetic base: purify the space and yourself — with a few deep breaths, a Chi ball, or the Violet Flame. The work belongs in a clean vessel."
     },
     {
-     "hu": "Zárd le egy határozott pecséttel: egy kimondott mondattal vagy egy mozdulattal, amely lezártnak nyilvánítja a művet.",
-     "en": "Close with a decisive seal: a spoken sentence or a gesture that declares the work complete."
+     "hu": "3. Jelképes elemek: válassz neked jelentéssel bíró hordozókat — szín, hang, mozdulat, tárgy, geometria (a piramis-forma rendezett erőt ad).",
+     "en": "3. Symbolic elements: choose carriers that mean something TO YOU — colour, sound, gesture, object, geometry (a pyramid form lends ordered power)."
     },
     {
-     "hu": "Adj magadnak belső engedélyt, hogy a szándék dolgozhasson, majd engedd el a kimenetelt — ne ellenőrizgesd, „működik-e már”.",
-     "en": "Give yourself inner permission for the intention to work, then release the outcome — do not keep checking 'whether it works yet'."
+     "hu": "4. Programozás: vidd bele a szándékot az energiába szóval, képpel és átélt érzelemmel — érezd, milyen MÁR megvalósulva. Az érzelem az üzemanyag.",
+     "en": "4. Programming: carry the intent into the energy with word, image and felt emotion — feel it as ALREADY fulfilled. Emotion is the fuel."
     },
     {
-     "hu": "Jegyezd fel a szándékot, az eszközöket, a pecsétet és a dátumot a naplódba, és idővel figyeld, mi hogyan érett be.",
-     "en": "Record the intention, the instruments, the seal and the date in your journal, and in time watch what ripened and how."
+     "hu": "5. Lezárás és pecsét: zárd le egy határozott aktussal — kimondott mondattal vagy mozdulattal, amely késznek nyilvánítja a művet, a legfőbb jó szerint.",
+     "en": "5. Closing and seal: close with a decisive act — a spoken sentence or gesture that declares the work done, according to the highest good."
+    },
+    {
+     "hu": "6. Engedélyezés: adj magadnak belső engedélyt, hogy a szándék dolgozhasson — enélkül a legszebb szertartás is üres marad.",
+     "en": "6. Permission: give yourself inner permission for the intent to work — without it even the finest ceremony stays empty."
+    },
+    {
+     "hu": "7. Engedés: ne erőltesd, ne ellenőrizgesd, „működik-e már”; kövesd a legnagyobb lelkesedésed, és jegyezd fel a naplódba (szándék, eszközök, pecsét, dátum).",
+     "en": "7. Allowing: do not force it or check „whether it works yet”; follow your highest excitement, and record it in your journal (intent, tools, seal, date)."
     }
    ],
    "keret": {
@@ -293,7 +307,8 @@
    "etika": {
     "hu": "A szándék soha ne mások befolyásolására vagy akaratának felülírására irányuljon — csak a saját életedre és fejlődésedre; tiszteld mindenki szabad akaratát.",
     "en": "The intention must never aim to influence others or override their will — only your own life and growth; honour everyone's free will."
-   }
+   },
+   "sorszam": 7
   },
   {
    "id": "chan-violet-flame",
@@ -338,7 +353,8 @@
    "etika": {
     "hu": "Ez nem terápia, és nem helyettesíti a szakszerű ellátást; ha a felszínre kerülő anyag túl nehéz, lassíts, és kérj szakmai segítséget. A gyakorlatot csak magadon végezd, mások „megtisztítása” az engedélyük nélkül nem tiszteli a szabad akaratukat.",
     "en": "This is not therapy and does not replace professional care; if the material that surfaces is too heavy, slow down and seek professional help. Do the practice only on yourself — 'clearing' others without their consent does not honour their free will."
-   }
+   },
+   "sorszam": 8
   },
   {
    "id": "chan-decree-rhythm",
@@ -379,7 +395,8 @@
    "keret": {
     "hu": "A ritmikus, átélt ismétlés összpontosít és megnyugtat; a szöveg „szentségénél” fontosabb a ritmus, az átélés és a figyelem — a hatását a saját közérzeteden mérd.",
     "en": "Rhythmic, felt repetition focuses and calms; more than the 'sanctity' of the text, what matters is rhythm, feeling and attention — measure its effect on your own sense of well-being."
-   }
+   },
+   "sorszam": 9
   },
   {
    "id": "chan-jyoti-light",
@@ -424,7 +441,8 @@
    "etika": {
     "hu": "Ez nem gyógyítás és nem helyettesíti a szakszerű ellátást. A fény kiárasztása másokra a saját jóindulatod belső gyakorlata: nem küldesz senkire semmit az akarata ellenére, és nem avatkozol be senki testi vagy lelki állapotába — tiszteld mindenki szabad akaratát.",
     "en": "This is not healing and does not replace professional care. Radiating the light to others is an inner practice of your own goodwill: you send nothing onto anyone against their will and do not intervene in anyone's bodily or mental state — honour everyone's free will."
-   }
+   },
+   "sorszam": 10
   },
   {
    "id": "chan-seva-service",
@@ -465,7 +483,8 @@
    "etika": {
     "hu": "A szolgálat tiszteljen mindenkit: kérdezz rá, mire van valóban szüksége a másiknak, ne kényszeríts rá segítséget, és ne lépd túl a saját határaidat. A jótékonyság nem helyettesíti a szükséghelyzetben lévők szakszerű ellátását.",
     "en": "Let service respect everyone: ask what the other truly needs, do not force help on anyone, and do not overstep your own limits. Charity does not replace proper professional care for those in real need."
-   }
+   },
+   "sorszam": 11
   },
   {
    "id": "chan-namasmarana",
@@ -502,7 +521,8 @@
    "keret": {
     "hu": "Ez egy egyszerű koncentrációs és megnyugtató gyakorlat, amely minden hagyományban rokon technikákkal bír; nem igényel hitvallást, és a hatását a saját elmecsended jelzi.",
     "en": "This is a simple concentration and calming practice with kindred techniques in every tradition; it requires no creed, and its effect is shown by your own quieting mind."
-   }
+   },
+   "sorszam": 12
   },
   {
    "id": "chan-greet-the-light",
@@ -543,7 +563,8 @@
    "etika": {
     "hu": "A méltóság köszöntése nem jelenti a bántó viselkedés eltűrését: tartsd meg a határaidat, és védd magad ott, ahol szükséges — a másik szabad akaratának tisztelete a saját biztonságod feladása nélkül érvényes.",
     "en": "Greeting someone's dignity does not mean tolerating harmful behaviour: keep your boundaries and protect yourself where needed — honouring another's free will holds without surrendering your own safety."
-   }
+   },
+   "sorszam": 13
   }
  ]
 }

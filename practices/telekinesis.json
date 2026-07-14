@@ -7,424 +7,1356 @@
  },
  "gyakorlatok": [
   {
-   "id": "tkp-settle-body",
-   "mester": "Telekinézis",
    "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Koncentráció a légzés horgonyán",
+    "en": "Concentration on the anchor of breath"
+   },
+   "cel": {
+    "hu": "Stabil, ellazult figyelem építése, amely nem feszül, hanem nyugodtan kitart.",
+    "en": "Build steady, relaxed attention that does not strain but calmly endures."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj csendben, és tereld a teljes figyelmed a be- és kilégzésre; ne szabályozd, csak figyeld.",
+     "en": "Sit quietly and bring full attention to the in- and out-breath; do not control it, only observe."
+    },
+    {
+     "hu": "Valahányszor elkalandozik az elméd, ítélkezés nélkül, gyengéden hozd vissza a lélegzethez.",
+     "en": "Each time the mind wanders, gently return it to the breath without judgement."
+    },
+    {
+     "hu": "Adj a figyelemnek egy halk belső szót — például most vagy csend —, és a légzés ütemére ismételd.",
+     "en": "Give attention a soft inner word — such as now or calm — repeated in rhythm with the breath."
+    },
+    {
+     "hu": "Kitartás-edzésként számolj visszafelé százról; ha elveszíted a fonalat, kezdd elölről, nyugodtan.",
+     "en": "As an endurance drill count backwards from a hundred; if you lose track, calmly start again."
+    },
+    {
+     "hu": "Napi tíz percet szánj rá, és a nap közben is figyelj jelenléttel egy-egy hétköznapi mozdulatra.",
+     "en": "Give it ten minutes a day, and during the day also attend with presence to ordinary actions."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez a nyugodt figyelem meditatív alapgyakorlat, nem varázslat. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This calm attention is a meditative foundation, not magic. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 1,
+   "mester": "Telekinézis",
+   "id": "tk-koncentracio-legzes"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Lángnézés — a nyugvó tekintet edzése",
+    "en": "Flame-gazing — training the resting gaze"
+   },
+   "cel": {
+    "hu": "A tekintet és az elme mozdulatlanságát erősíteni egyetlen fénypontra irányítva.",
+    "en": "Strengthen stillness of gaze and mind by resting on a single point of light."
+   },
+   "modszer": [
+    {
+     "hu": "Helyezz egy gyertyát szemmagasságba, biztonságos, huzatmentes helyre, és gyújtsd meg.",
+     "en": "Place a candle at eye level in a safe, draught-free spot, and light it."
+    },
+    {
+     "hu": "Nézd a lángot pislogás nélkül, ameddig kényelmes; hagyd, hogy a figyelmed a fénybe olvadjon.",
+     "en": "Watch the flame without blinking as long as is comfortable; let attention melt into the light."
+    },
+    {
+     "hu": "Amikor a szemed könnyezni kezd, hunyd le, és idézd fel belül a láng utóképét.",
+     "en": "When the eyes water, close them and recall the flame’s afterimage within."
+    },
+    {
+     "hu": "Ismételd néhány cikluson át, majd fújd el a lángot, és zárd le a gyakorlatot csendben.",
+     "en": "Repeat for a few cycles, then blow the flame out and close the practice in silence."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A gyertya itt csak figyelem-horgony; nem a tűz meggyújtásáról vagy irányításáról szól. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The candle here is only a focus-anchor; it is not about lighting or steering fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Tűzbiztonság: soha ne hagyd őrizetlenül a lángot, tarts távol minden gyúlékony anyagot, legyen kéznél víz, és jól szellőző helyen dolgozz.",
+    "en": "Fire safety: never leave the flame unattended, keep all flammables away, keep water at hand, and work in a well-ventilated place."
+   },
+   "sorszam": 2,
+   "mester": "Telekinézis",
+   "id": "tk-gyertyanezes-trataka"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Belső látás — tárgy és többérzék felidézése",
+    "en": "Inner sight — object and multisensory recall"
+   },
+   "cel": {
+    "hu": "Élénk, részletgazdag belső képet építeni, amely stabilan megmarad.",
+    "en": "Build a vivid, detailed inner image that stays stable."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy egyszerű tárgyat — tollat, kulcsot, kavicsot —, és nézd egy percig figyelmesen.",
+     "en": "Choose a simple object — a feather, key or pebble — and study it for a minute."
+    },
+    {
+     "hu": "Hunyd le a szemed, és idézd fel minden szögből: formáját, súlyát, színét, felületét.",
+     "en": "Close your eyes and recall it from every angle: shape, weight, colour, texture."
+    },
+    {
+     "hu": "Vond be az összes érzéket — például egy citrom hűvös héját, illatát, savas ízét képzeld el.",
+     "en": "Engage every sense — imagine, say, a lemon’s cool skin, its scent, its sour taste."
+    },
+    {
+     "hu": "Ha a kép elhalványul, nyisd ki a szemed, frissítsd, majd folytasd; naponta gyakorold.",
+     "en": "If the image fades, open your eyes, refresh it, then continue; practise daily."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A képzelet itt belső edzőterep, nem a valóság feletti hatalom. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Imagination here is an inner training ground, not power over reality. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 3,
+   "mester": "Telekinézis",
+   "id": "tk-kepzelet-vizualizacio"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Formaformálás, fényjáték és mentális kivetítés",
+    "en": "Shape-shaping, light-play and mental projection"
+   },
+   "cel": {
+    "hu": "Rugalmasan tartani és átalakítani a belső képeket, hogy az energia áramlását könnyen elképzeld.",
+    "en": "Hold and transform inner images fluidly, so energy flow becomes easy to picture."
+   },
+   "modszer": [
+    {
+     "hu": "Képzelj el egy kockát, majd formáld gömbbé, gúlává, csővé; olvaszd, majd fagyaszd újra.",
+     "en": "Picture a cube, then morph it to a sphere, pyramid, tube; melt it, then freeze it again."
+    },
+    {
+     "hu": "Idézz fel egy fénygömböt a tenyered között; váltogasd a színét, lüktetését, méretét.",
+     "en": "Recall a ball of light between your palms; vary its colour, pulse and size."
+    },
+    {
+     "hu": "Válassz egy valós tárgyat a szobában, és a képzeletedben lásd, ahogy megrezdül vagy fordul.",
+     "en": "Choose a real object in the room and, in imagination, see it quiver or turn."
+    },
+    {
+     "hu": "Ne erőltess semmit; csak megfigyelőként engedd, hogy a belső mozdulat élénk és tiszta legyen.",
+     "en": "Force nothing; as an observer simply let the inner motion be vivid and clear."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez mentális próba: a képzeletben történik, nem a tárgy fizikai mozgatásának ígérete. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a mental rehearsal: it happens in imagination, not a promise to move the object. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 4,
+   "mester": "Telekinézis",
+   "id": "tk-kepzelet-formalas"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Mély belső csend",
+    "en": "Deep inner silence"
+   },
+   "cel": {
+    "hu": "Eljutni a szavak nélküli, tiszta jelenlét állapotába, ahol az elme csendes tóként nyugszik.",
+    "en": "Reach wordless, clear presence where the mind rests like a still lake."
+   },
+   "modszer": [
+    {
+     "hu": "Egyenes gerinccel ülj, csukott szemmel; kövesd a légzést, engedd ellazulni a vállad és állkapcsod.",
+     "en": "Sit with straight spine, eyes closed; follow the breath, let shoulders and jaw soften."
+    },
+    {
+     "hu": "Nézd a gondolataidat, ahogy elhaladnak, mint felhők; ne üldözd, ne is harcolj velük.",
+     "en": "Watch thoughts pass like clouds; neither chase nor fight them."
+    },
+    {
+     "hu": "Pihentesd a figyelmed egyetlen ponton — halk szón vagy a homlok mögötti fénypontján.",
+     "en": "Rest attention on one point — a soft word or a point of light behind the forehead."
+    },
+    {
+     "hu": "Végül engedd el a szót, a képet, magát a törekvést is, és maradj a puszta jelenlétben.",
+     "en": "Finally release the word, the image, even the effort itself, and remain in bare presence."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A csend itt önmagában a cél és az út: a belső elcsendesülés gyümölcsét figyeljük. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Silence here is both goal and path: we watch the fruit of inner quieting. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 5,
+   "mester": "Telekinézis",
+   "id": "tk-meditativ-csend"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Érzelmi tudatosság és energia-egyensúly",
+    "en": "Emotional awareness and energy balance"
+   },
+   "cel": {
+    "hu": "Megfigyelni és megnevezni az érzelmeket, hogy velük dolgozz, ne ellenük.",
+    "en": "Observe and name emotions so you work with them, not against them."
+   },
+   "modszer": [
+    {
+     "hu": "Napi háromszor — reggel, délben, este — kérdezd meg csendben: most mit érzek valójában?",
+     "en": "Three times a day — morning, noon, night — ask quietly: what am I actually feeling now?"
+    },
+    {
+     "hu": "Nevezd meg az érzést ítélkezés nélkül, és figyeld, hol helyezkedik el a testedben.",
+     "en": "Name the feeling without judgement and notice where it sits in the body."
+    },
+    {
+     "hu": "Lélegezz abba a pontba, és minden kilégzésnél képzeld el, hogy az a hely ellágyul.",
+     "en": "Breathe into that spot and, on each out-breath, imagine that place softening."
+    },
+    {
+     "hu": "Zárásként földelj: állj mezítláb, képzelj gyökereket, vagy engedd, hogy a víz lemossa a felesleget.",
+     "en": "Close by grounding: stand barefoot, imagine roots, or let water rinse away the excess."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az érzelmet energiának tekintjük, amelyet megfigyelünk — ez érzelmi önismereti gyakorlat. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Emotion is treated as energy to be observed — this is emotional self-knowledge practice. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Nem gyógykezelés és nem pótolja a lelki segítséget; tartós szorongásnál keress szakembert.",
+    "en": "Not medical treatment and no substitute for mental-health support; for lasting anxiety seek a professional."
+   },
+   "sorszam": 6,
+   "mester": "Telekinézis",
+   "id": "tk-erzelmi-egyensuly"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Hit, megerősítések és belső összhang",
+    "en": "Belief, affirmations and inner alignment"
+   },
+   "cel": {
+    "hu": "Feltárni és gyengéden átírni a gátló belső meggyőződéseket, hogy ne fojtsák el a figyelmet.",
+    "en": "Surface and gently rewrite blocking inner beliefs so they do not stifle attention."
+   },
+   "modszer": [
+    {
+     "hu": "Figyeld meg, milyen halk kételkedő mondatok kísérik a gyakorlásod, és írd le őket.",
+     "en": "Notice the quiet doubting sentences that accompany your practice, and write them down."
+    },
+    {
+     "hu": "Fogalmazz meg néhány rövid, jelen idejű megerősítést — például: az elmém nyugodt és erős.",
+     "en": "Form a few short, present-tense affirmations — for example: my mind is calm and strong."
+    },
+    {
+     "hu": "Meditáció közben vagy elalvás előtt ismételd őket, és érezd is a jelentésüket, ne csak mondd.",
+     "en": "Repeat them during meditation or before sleep, and feel their meaning, do not only say it."
+    },
+    {
+     "hu": "Ha visszatér a kétely, ne ítéld el; térj vissza a lélegzethez és a megerősítéshez.",
+     "en": "When doubt returns, do not condemn it; return to the breath and the affirmation."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A megerősítések a hozzáállást hangolják; a belső összhangot, nem külső eredményt mérjük. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Affirmations tune attitude; we measure inner alignment, not an outer result. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 7,
+   "mester": "Telekinézis",
+   "id": "tk-affirmacio-hit"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Energianapló és tudatosság-követés",
+    "en": "Energy journal and awareness tracking"
+   },
+   "cel": {
+    "hu": "Napi feljegyzésekkel feltérképezni az energia, érzelem és figyelem mintázatait.",
+    "en": "Map the patterns of energy, emotion and focus through daily notes."
+   },
+   "modszer": [
+    {
+     "hu": "Minden nap írj néhány őszinte sort: milyen az érzelmi állapotod, a tested, a figyelmed?",
+     "en": "Each day write a few honest lines: how is your emotional state, your body, your focus?"
+    },
+    {
+     "hu": "Jegyezd fel, gyakoroltál-e, milyen technikával, és éreztél-e finom jelet — meleget, bizsergést.",
+     "en": "Note whether you practised, with what technique, and any subtle sign — warmth, tingling."
+    },
+    {
+     "hu": "Hetente olvasd vissza a bejegyzéseket, és keresd a visszatérő mintázatokat.",
+     "en": "Read back your entries weekly and look for recurring patterns."
+    },
+    {
+     "hu": "Ne írj hosszan; a rendszeresség és az őszinteség fontosabb a mennyiségnél.",
+     "en": "Do not write at length; regularity and honesty matter more than volume."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A napló önmegfigyelő tükör; a belső fejlődés követésére szolgál, nem teljesítménymérésre. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The journal is a self-observing mirror; it tracks inner growth, not performance. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 8,
+   "mester": "Telekinézis",
+   "id": "tk-energia-naplo"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Energiapajzs és tisztítás",
+    "en": "Energy shield and cleansing"
+   },
+   "cel": {
+    "hu": "Szándékos képzelettel megerősíteni a saját belső határt, és elengedni, ami nem a tiéd.",
+    "en": "Firm your inner boundary through deliberate imagination, and release what is not yours."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj csendben, és képzelj magad köré egy fénylő buborékot; válaszd a színét szabadon.",
+     "en": "Sit quietly and imagine a bubble of light around you; choose its colour freely."
+    },
+    {
+     "hu": "Mondd magadban, hogy csak a jó szándékú, tiszta energia lép be ebbe a térbe.",
+     "en": "Say inwardly that only well-meaning, clear energy may enter this space."
+    },
+    {
+     "hu": "Földelj: képzelj gyökereket a talpadból a földbe, és engedd le a felesleget.",
+     "en": "Ground: imagine roots from your soles into the earth and let excess drain away."
+    },
+    {
+     "hu": "Tisztíts hanggal, tudatos zuhannyal vagy szellőztetéssel, és zárd le nyugodt légzéssel.",
+     "en": "Cleanse with sound, a conscious shower or airing the room, and close with calm breathing."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez fókuszált képzelet és határhúzás gyakorlata, nem védekezés valós veszély ellen. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a practice of focused imagination and boundary-setting, not defence against a real threat. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 9,
+   "mester": "Telekinézis",
+   "id": "tk-vedopajzs-tisztitas"
+  },
+  {
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A harmadik szem és a belső érzékelés",
+    "en": "The third eye and inner perception"
+   },
+   "cel": {
+    "hu": "Finomítani a szemöldökök közötti figyelmet, és a látáson túli érzékelést gyakorolni.",
+    "en": "Refine attention between the brows and practise perception beyond sight."
+   },
+   "modszer": [
+    {
+     "hu": "Naponta néhány percig tereld a figyelmed a szemöldökök közé; lélegezz lágyan.",
+     "en": "For a few minutes daily bring attention to the space between the brows; breathe softly."
+    },
+    {
+     "hu": "Képzelj oda mély indigó vagy ibolya fényt, amely tágul és betölti a homlokod.",
+     "en": "Imagine a deep indigo or violet light there, expanding to fill the forehead."
+    },
+    {
+     "hu": "Tompa fényben nézz nyugodtan a saját szemedbe egy tükörben, ítélkezés nélkül.",
+     "en": "In dim light look calmly into your own eyes in a mirror, without judgement."
+    },
+    {
+     "hu": "Egy tárgynál — gyertyánál, kristálynál — válts a nézésről a ráérzésre: mit sugároz?",
+     "en": "With an object — a candle, a crystal — shift from looking to sensing: what does it radiate?"
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A belső látást szubjektív érzékelésként kezeljük; a felmerülő képek nem külső tények. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Inner sight is treated as subjective perception; any images that arise are not outward facts. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 10,
+   "mester": "Telekinézis",
+   "id": "tk-harmadik-szem"
+  },
+  {
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Aura és csakrák — az energia irányítása",
+    "en": "Aura and chakras — directing energy"
+   },
+   "cel": {
+    "hu": "Kiegyensúlyozni a fő energiaközpontokat, hogy a figyelem tisztán és rendezetten áramoljon.",
+    "en": "Balance the main energy centres so attention flows clearly and in an ordered way."
+   },
+   "modszer": [
+    {
+     "hu": "Meditálva képzeld el egyenként a csakrákat forgó fénykerekekként, és lélegezz beléjük.",
+     "en": "In meditation picture each chakra as a spinning wheel of light and breathe into it."
+    },
+    {
+     "hu": "Figyelj a napfonat, a harmadik szem és a korona központjára — a szándék, a látás és a kapcsolat helyeire.",
+     "en": "Attend to the solar plexus, third eye and crown centres — of intention, sight and connection."
+    },
+    {
+     "hu": "Erősítsd az aurád földeléssel: mezítlábas séta, fénypajzs vagy hang- és vízfürdő.",
+     "en": "Strengthen the aura with grounding: barefoot walking, a shield of light, or a bath of sound or water."
+    },
+    {
+     "hu": "Zárd le nyugodt megerősítéssel, például: az energiám tiszta, nyugodt szándékkal áramlik.",
+     "en": "Close with a calm affirmation, such as: my energy is clear and flows with quiet intention."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az aurát és a csakrákat a hagyomány belső térképeként használjuk, nem mért fizikai valóságként. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Aura and chakras are used as the tradition’s inner map, not as measured physical reality. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 11,
+   "mester": "Telekinézis",
+   "id": "tk-aura-csakra"
+  },
+  {
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Kapcsolódás az egyetemes energiához",
+    "en": "Connecting with universal energy"
+   },
+   "cel": {
+    "hu": "A jelenlét és a nyitottság érzését elmélyíteni, hogy a gyakorlás ne erőlködés, hanem áramlás legyen.",
+    "en": "Deepen a sense of presence and openness so practice becomes flow rather than straining."
+   },
+   "modszer": [
+    {
+     "hu": "Lassíts, lélegezz, érezd a teret magad körül és magadban, és engedd elülni a belső zajt.",
+     "en": "Slow down, breathe, feel the space around and within you, and let inner noise settle."
+    },
+    {
+     "hu": "Mondd csendben, hogy megnyílsz az élet éltető áramlására, és hagyd, hogy átjárjon.",
+     "en": "Say quietly that you open to the flow of life, and let it move through you."
+    },
+    {
+     "hu": "Képzelj a fejed fölé meleg, aranyló fényt, amely a koronán át betölti a tested.",
+     "en": "Imagine a warm golden light above your head pouring in through the crown to fill the body."
+    },
+    {
+     "hu": "Gyakorlás közben ne told a szándékot, hanem engedd, hogy az áramlás vezessen.",
+     "en": "During practice do not push the intention but let the flow lead."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az egyetemes energia itt élményszerű metafora a kapcsolódásra; nem bizonyított külső erő. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Universal energy here is an experiential metaphor for connection; not a proven external force. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 12,
+   "mester": "Telekinézis",
+   "id": "tk-egyetemes-energia"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "Az energia érzékelése a kézben",
+    "en": "Sensing energy in the hands"
+   },
+   "cel": {
+    "hu": "Megismerni, milyen érzet kíséri a saját, figyelemmel felébresztett belső áramlást.",
+    "en": "Learn what sensation accompanies your own attention-awakened inner flow."
+   },
+   "modszer": [
+    {
+     "hu": "Dörzsöld össze a tenyered, hogy érzékenyebbé váljon, majd lassan húzd szét őket.",
+     "en": "Rub your palms together to sensitise them, then slowly draw them apart."
+    },
+    {
+     "hu": "Figyelj a tenyerek közötti térre; keress meleget, bizsergést, nyomást vagy hűvös fuvallatot.",
+     "en": "Attend to the space between the palms; look for warmth, tingling, pressure or a cool draught."
+    },
+    {
+     "hu": "Közelítsd és távolítsd a kezed, és figyeld, változik-e az érzet — mintha ellenállna a tér.",
+     "en": "Move the hands closer and apart and notice whether the sensation changes — as if the space resists."
+    },
+    {
+     "hu": "Ha eleinte semmit sem érzel, ne aggódj; az érzékenység türelemmel épül.",
+     "en": "If at first you feel nothing, do not worry; sensitivity builds with patience."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A jelzések szubjektív testérzetek; a lényeg a figyelem finomodása, nem a jelenség bizonyítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The signals are subjective bodily sensations; the point is refined attention, not proving a phenomenon. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 13,
+   "mester": "Telekinézis",
+   "id": "tk-energia-erzekeles"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Pszi-gömb — energia formálása szándékkal",
+    "en": "Psi ball — shaping energy with intention"
+   },
+   "cel": {
+    "hu": "Gyakorolni az energia érzékelését, összpontosítását és szándékkal való formálását a tenyerek között.",
+    "en": "Practise sensing, concentrating and intentionally shaping energy between the palms."
+   },
+   "modszer": [
+    {
+     "hu": "Ellazult ülésben dörzsöld össze, majd húzd szét a tenyered, és figyelj a köztes térre.",
+     "en": "Relaxed and seated, rub then part the palms and attend to the space between."
+    },
+    {
+     "hu": "Belégzésnél képzeld, hogy energia gyűlik a mellkasodban vagy a napfonatodban.",
+     "en": "On the in-breath imagine energy gathering in the chest or solar plexus."
+    },
+    {
+     "hu": "Kilégzésnél küldd ezt gyengéden a tenyeredbe, és formálj belőle egy lüktető fénygömböt.",
+     "en": "On the out-breath send it gently to the palms and form a pulsing ball of light."
+    },
+    {
+     "hu": "Játssz a méretével — tömörítsd, tágítsd —, és tölts bele egy szándékot, például nyugalmat.",
+     "en": "Play with its size — compress, expand — and fill it with an intention, such as calm."
+    },
+    {
+     "hu": "Zárásként tudatosan engedd el: szívd vissza, vagy oszlasd fel a térben.",
+     "en": "To close, release it consciously: reabsorb it or let it disperse into the space."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A pszi-gömb az energiaérzet formálásának belső gyakorlata; a súly- vagy nyomásérzet szubjektív. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The psi ball is an inner practice of shaping an energy-sensation; any felt weight or pressure is subjective. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 14,
+   "mester": "Telekinézis",
+   "id": "tk-pszi-gomb"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Pszi-kerék — a figyelem megfigyelése munka közben",
+    "en": "Psi wheel — observing focus at work"
+   },
+   "cel": {
+    "hu": "Finom, csendes visszajelzést kapni a figyelem és a nyugalom állapotáról egy könnyű jelzőn.",
+    "en": "Get subtle, quiet feedback on the state of focus and calm through a light indicator."
+   },
+   "modszer": [
+    {
+     "hu": "Hajts egy kis papírt vagy fóliát négyágú alakzattá, és egyensúlyozd egy tű vagy ceruza hegyére.",
+     "en": "Fold a small paper or foil into a four-pointed shape and balance it on a needle or pencil tip."
+    },
+    {
+     "hu": "Zárd ki a hőt és a huzatot: fedd le pohárral, és tartsd távol a leheleted.",
+     "en": "Exclude heat and draught: cover it with a glass and keep your breath away."
+    },
+    {
+     "hu": "Ülj nyugodtan, ne erőltess; lágy tekintettel és csendes elmével pihentesd rajta a figyelmed.",
+     "en": "Sit calmly and do not strain; with soft gaze and quiet mind rest attention on it."
+    },
+    {
+     "hu": "Ha megrezdül vagy fordul, ne izgulj fel; maradj jelen, és jegyezd fel, milyen belső állapot kísérte.",
+     "en": "If it quivers or turns, do not get excited; stay present and note the inner state that accompanied it."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A fedett kerék kizárja a huzatot és a hőt, hogy a figyelmet edzd; a mozgás nem az elme anyagmozgató erejének bizonyítéka. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The covered wheel excludes draught and heat so you train focus; any motion is not proof of a mind moving matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 15,
+   "mester": "Telekinézis",
+   "id": "tk-pszi-kerek"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Tolás és húzás — kísérleti figyelemgyakorlat",
+    "en": "Pushing and pulling — an experimental focus drill"
+   },
+   "cel": {
+    "hu": "Megfigyelni a belső érzeteket, miközben egy könnyű tárgyra irányítod a nyugodt szándékot.",
+    "en": "Observe inner sensations while directing calm intention at a light object."
+   },
+   "modszer": [
+    {
+     "hu": "Tegyél egy könnyű, kis súrlódású tárgyat — fóliát, ceruzát — sima, stabil felületre, huzatmentes szobában.",
+     "en": "Place a light, low-friction object — foil, a pencil — on a smooth, stable surface in a draught-free room."
+    },
+    {
+     "hu": "Tolásnál képzeld, hogy egy lágy hullám indul a napfonatodból a tárgy felé; csak billenést várj, ne repülést.",
+     "en": "For pushing, imagine a soft wave moving from the solar plexus toward the object; expect a tilt, not flight."
+    },
+    {
+     "hu": "Húzásnál képzelj egy szálat a szívedtől a tárgyig, és minden kilégzésnél gyengéden vond befelé.",
+     "en": "For pulling, imagine a thread from the heart to the object and gently reel it in on each out-breath."
+    },
+    {
+     "hu": "Figyeld a hőmérséklet-, bizsergés- vagy nyomásérzetet a kezedben, és maradj érzelmileg nyugodt.",
+     "en": "Notice temperature, tingling or pressure in the hands, and stay emotionally calm."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Kísérleti önmegfigyelés: a belső jelzések a lényegesek, nem a tárgy megmozdítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Experimental self-observation: the inner signals are what matter, not moving the object. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 16,
+   "mester": "Telekinézis",
+   "id": "tk-tolas-huzas"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Első lebegtetési kísérlet",
+    "en": "First levitation attempt"
+   },
+   "cel": {
+    "hu": "Az emelkedő, könnyű energia irányításának gyakorlása minden eredményvárás nélkül.",
+    "en": "Practise directing a rising, light energy without any expectation of result."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz nagyon könnyű tárgyat — papírzsebkendőt, fóliagolyót, tollpihét —, és tedd jól látható helyre.",
+     "en": "Choose a very light object — a tissue, foil ball, feather — and set it where it is clearly visible."
+    },
+    {
+     "hu": "Földelj és nyugodj meg, majd hangold a hangulatod egy derűs, hálás, könnyű állapot felé.",
+     "en": "Ground and settle, then tune your mood toward a bright, thankful, light state."
+    },
+    {
+     "hu": "Lágy tekintettel képzelj a tárgy köré meleg, felfelé áramló fénymezőt.",
+     "en": "With soft gaze imagine a warm, upward-flowing field of light around the object."
+    },
+    {
+     "hu": "Tartsd a csendes szándékot, hogy a tárgy könnyű és megtartott, és csak figyelj, ne erőltess.",
+     "en": "Hold the quiet intention that the object is light and supported, and simply observe without forcing."
+    },
+    {
+     "hu": "Néhány perc után engedd el a törekvést, és zárd hálával, akármi történt.",
+     "en": "After a few minutes release the effort and close with gratitude, whatever happened."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Nem állítjuk, hogy a gyakorlat felemel bármit; a felfelé irányuló figyelem és a belső könnyűség a mérték. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. We do not claim the practice lifts anything; upward-directed attention and inner lightness are the measure. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 17,
+   "mester": "Telekinézis",
+   "id": "tk-elso-lebegtetes"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Meleg és hideg érzet gondolattal",
+    "en": "Warmth and cold by thought"
+   },
+   "cel": {
+    "hu": "Megtapasztalni, hogyan hangolja a figyelem és a képzelet a testérzetet a tenyérben.",
+    "en": "Experience how attention and imagination tune bodily sensation in the palm."
+   },
+   "modszer": [
+    {
+     "hu": "Tartsd a tenyered egymás felé; belégzésnél képzelj aranyló lángot a napfonatodban.",
+     "en": "Hold your palms facing each other; on the in-breath imagine a golden flame in the solar plexus."
+    },
+    {
+     "hu": "Vezesd ezt a meleget a karodon át a tenyeredbe, és figyeld, felmelegszik-e az érzet.",
+     "en": "Lead that warmth along the arm into the palm and notice whether the sensation warms."
+    },
+    {
+     "hu": "Hűtéshez képzelj egy jégdarabot a középpontodban, amely hűvös, tiszta érzetet küld a kezedbe.",
+     "en": "For cooling, imagine a block of ice at your centre sending a cool, clean feeling to the hands."
+    },
+    {
+     "hu": "Támogasd színképpel — melegnél vörös vagy arany, hidegnél kék vagy ezüst —, és ne erőltess.",
+     "en": "Support it with colour imagery — red or gold for heat, blue or silver for cold — and do not strain."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez a saját testérzet befelé figyelt hangolása; nem a levegő valódi hőmérsékletének mérhető megváltoztatása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is inner-attended tuning of your own bodily sensation; not a measurable change of the air’s real temperature. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 18,
+   "mester": "Telekinézis",
+   "id": "tk-ho-hideg"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Kanálhajlítás — figyelem és hit gyakorlata",
+    "en": "Spoon bending — a practice of focus and belief"
+   },
+   "cel": {
+    "hu": "Szembenézni a belső gátakkal, és a figyelem, a nyugalom és a türelem állapotát edzeni.",
+    "en": "Meet inner blocks and train a state of focus, calm and patience."
+   },
+   "modszer": [
+    {
+     "hu": "Fogj egy egyszerű fémkanalat, lehetőleg vékonyabbat, és ismerkedj a tapintásával, a hőmérsékletével.",
+     "en": "Take a simple metal spoon, preferably a thinner one, and get to know its feel and temperature."
+    },
+    {
+     "hu": "Lélegezz mélyen, lazítsd el a tested, és képzeld, hogy a figyelmed összeolvad a fémmel.",
+     "en": "Breathe deeply, relax the body and imagine attention merging with the metal."
+    },
+    {
+     "hu": "Tartsd a csendes szándékot, hogy a kanál engedékeny, és lásd magad előtt már meghajolva.",
+     "en": "Hold the quiet intention that the spoon is yielding, and picture it already bent."
+    },
+    {
+     "hu": "Ha enged, kövesd a mozdulatot; ha nem, ne feszülj — a gyakorlat a belső oldódásról szól.",
+     "en": "If it gives, follow the motion; if not, do not tense — the practice is about inner loosening."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A hangsúly a belső figyelmen és a kételyek oldásán van; a hajlítás mindig fizikai kézmunka, nem puszta gondolat. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The emphasis is on inner focus and loosening doubt; any bending is always physical handwork, not thought alone. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Bánj óvatosan az éles vagy törő fémmel, hogy ne sérülj meg.",
+    "en": "Handle sharp or snapping metal carefully so you do not get hurt."
+   },
+   "sorszam": 19,
+   "mester": "Telekinézis",
+   "id": "tk-kanalhajlitas"
+  },
+  {
+   "szint": "mester",
+   "sik": "test",
+   "cim": {
+    "hu": "Haladó tárgykapcsolat — energetikai összeolvadás",
+    "en": "Advanced object contact — energetic merging"
+   },
+   "cel": {
+    "hu": "A finom, csendes jelenlét elmélyítése, amelyben a tárgytól való elkülönülés érzete oldódik.",
+    "en": "Deepen the subtle, quiet presence in which the felt separation from the object softens."
+   },
+   "modszer": [
+    {
+     "hu": "Tegyél elé egy szilárd tárgyat — kavicsot, érmét, pohár vizet —, és csukott szemmel érezd belülről.",
+     "en": "Set a solid object before you — a pebble, coin, glass of water — and with eyes closed sense it from within."
+    },
+    {
+     "hu": "Lélegezz vele együtt, és minden lélegzettel képzeld lágyabbnak a határt közted és a tárgy között.",
+     "en": "Breathe with it, and with each breath imagine the boundary between you and it softening."
+    },
+    {
+     "hu": "Ne lökj és ne húzz; képzelj inkább egy áramlás-irányt, mint egy patakot, amely elgördít egy kavicsot.",
+     "en": "Neither push nor pull; imagine instead a direction of flow, like a stream nudging a pebble."
+    },
+    {
+     "hu": "Rétegezd a figyelmed három lágy hullámban: az első oldja a teret, a második hangol, a harmadik visz.",
+     "en": "Layer attention in three soft waves: the first softens the space, the second attunes, the third carries."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A haladó gyakorlat a csendesebb, mélyebb jelenlétről szól; semmit sem állítunk anyag valós megmozdításáról. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The advanced practice is about quieter, deeper presence; we assert nothing about really moving matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 20,
+   "mester": "Telekinézis",
+   "id": "tk-halado-targy-osszeolvadas"
+  },
+  {
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A Kinesis fogalma és az irányítás logikája",
+    "en": "The concept of Kinesis and the logic of control"
+   },
+   "cel": {
+    "hu": "Megismerni a közös belső ritmust: előbb érzékelés és ráhangolódás, majd nyugodt szándék, végül a törekvés elengedése.",
+    "en": "Come to know the shared inner rhythm: first sensing and attuning, then a calm intention, and finally letting the striving go."
+   },
+   "modszer": [
+    {
+     "hu": "Válaszd ki, mihez kapcsolódsz — tárgyhoz vagy elemhez —, és először csak érzékeld a jelenlétét.",
+     "en": "Choose what you connect with — object or element — and first only sense its presence."
+    },
+    {
+     "hu": "Engedd, hogy a figyelmed minden erőltetés nélkül, lágyan találkozzon a jelenlétével.",
+     "en": "Let your attention meet its presence softly, without any forcing."
+    },
+    {
+     "hu": "Tarts egy tiszta belső képet arról a lágy mozdulatról, amelyet elképzelsz.",
+     "en": "Hold a clear inner picture of the gentle motion you imagine."
+    },
+    {
+     "hu": "Végül engedd el a törekvést, és maradj nyitott, elfogadó jelenlétben — ez a gyakorlat magja.",
+     "en": "Finally let go of the striving and remain in open, accepting presence — this is the core of the practice."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A Kinesist együttműködő figyelemgyakorlatnak tekintjük, nem az anyag feletti hatalomnak. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Kinesis is treated as a cooperative attention practice, not power over matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 21,
+   "mester": "Telekinézis",
+   "id": "tk-kinesis-logika"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "Biokinézis — a testkép és önazonosság hangolása",
+    "en": "Biokinesis — tuning body-image and self-identity"
+   },
+   "cel": {
+    "hu": "A testhez fűződő belső viszony és önkép átformálása vizualizációval és megerősítéssel.",
+    "en": "Reshape the inner relationship to the body and the self-image through visualisation and affirmation."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egyetlen konkrét célt, ne akarj mindent egyszerre megváltoztatni.",
+     "en": "Choose a single specific focus; do not try to change everything at once."
+    },
+    {
+     "hu": "Mély ellazulásban idézd fel élénken a kívánt állapotot, mintha máris valóság lenne.",
+     "en": "In deep relaxation vividly recall the desired state as if it were already so."
+    },
+    {
+     "hu": "Használj jelen idejű megerősítést, és érezd hozzá a hála és biztonság érzetét.",
+     "en": "Use present-tense affirmation and feel the accompanying sense of gratitude and safety."
+    },
+    {
+     "hu": "Támogasd hétköznapi gondoskodással — testtartás, mozgás, pihenés —, és kövesd a naplódban.",
+     "en": "Support it with ordinary care — posture, movement, rest — and track it in your journal."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ezt önképet és önazonosságot alakító belső gyakorlatnak tekintjük; a hagyomány testre gyakorolt hatás-modellje nem bizonyított. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is treated as an inner practice of self-image and identity; the tradition’s claim of bodily change is unproven. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Nem orvosi eljárás és nem pótolja az egészségügyi ellátást; testi cél esetén se hagyd el az orvosi tanácsot, és fogadd el a tested adottságait.",
+    "en": "Not a medical procedure and no substitute for healthcare; for any bodily aim do not skip medical advice, and accept your body’s given nature."
+   },
+   "sorszam": 22,
+   "mester": "Telekinézis",
+   "id": "tk-biokinezis"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Pirokinézis — a tűz érzékelése",
+    "en": "Pyrokinesis — sensing fire"
+   },
+   "cel": {
+    "hu": "Ráhangolódni a láng ritmusára és a saját belső melegre, nyugodt, tisztelettudó jelenléttel.",
+    "en": "Attune to the rhythm of the flame and your own inner warmth, with calm, respectful presence."
+   },
+   "modszer": [
+    {
+     "hu": "Dörzsöld meg a tenyered, majd tartsd egy gyertyaláng közelébe — de nem túl közel —, és érezd a meleget.",
+     "en": "Rub your palms, then hold them near a candle flame — but not too close — and feel the warmth."
+    },
+    {
+     "hu": "Figyeld egyszerre a kezed melegét és a láng mozgását, ahogy a légzésedre reagálni látszik.",
+     "en": "Attend at once to the warmth of the hands and the flame’s motion as it seems to answer your breath."
+    },
+    {
+     "hu": "Képzeld, hogy a láng finoman megrezdül, elhajlik — halk belső jelzésként, nem parancsként.",
+     "en": "Imagine the flame subtly quivering or leaning — as a quiet inner cue, not a command."
+    },
+    {
+     "hu": "Maradj földelt és nyugodt; ha melegséget vagy fáradtságot érzel, pihenj meg.",
+     "en": "Stay grounded and calm; if you feel heat or fatigue, rest."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez figyelem- és képzeletgyakorlat a láng mellett; nem állítjuk, hogy az elme mozgatja vagy gyújtja a tüzet. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is an attention and imagination practice beside a flame; we do not claim the mind moves or lights fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Tűzbiztonság: soha ne hagyd őrizetlenül a lángot, tarts távol gyúlékony anyagot, legyen kéznél víz, jól szellőzz, és figyelem-, nem tűzgyújtási gyakorlatként végezd.",
+    "en": "Fire safety: never leave the flame unattended, keep flammables away, keep water at hand, ventilate well, and treat it as attention training, not fire-starting."
+   },
+   "sorszam": 23,
+   "mester": "Telekinézis",
+   "id": "tk-pirokinezis-tuz-erzes"
+  },
+  {
+   "szint": "mester",
+   "sik": "test",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Pirokinézis — gyertya elcsendesítése és élénkítése",
+    "en": "Pyrokinesis — quieting and enlivening a candle"
+   },
+   "cel": {
+    "hu": "Elmélyíteni a figyelmet és a láng iránti tiszteletet finom, csendes kísérletekben.",
+    "en": "Deepen focus and respect for the flame in subtle, quiet experiments."
+   },
+   "modszer": [
+    {
+     "hu": "Gyújts gyertyát fél méterre, huzatmentes, nyugodt térben, és eleinte csak figyeld a lángot.",
+     "en": "Light a candle half a metre away in a calm, draught-free space, and at first only watch the flame."
+    },
+    {
+     "hu": "Csendesítéshez képzeld, hogy a láng összébb húzódik és halványul, és kilégzésnél hűvös nyugalmat irányíts felé.",
+     "en": "To quiet it, imagine the flame drawing in and dimming, and on the out-breath direct cool calm toward it."
+    },
+    {
+     "hu": "Élénkítéshez képzeld a kanóc körüli fényt erősödni; tartsd a képet nyugodtan, ne sóváran.",
+     "en": "To enliven it, imagine the light around the wick strengthening; hold the image calmly, not cravingly."
+    },
+    {
+     "hu": "Bármi történik, maradj csendes és megfigyelő, majd fújd el a lángot, és jegyezd fel a hangulatod.",
+     "en": "Whatever happens, stay quiet and observing, then blow out the flame and note your mood."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A lángot légáramlat és hő könnyen mozgatja; ez a gyakorlat a figyelem edzése, nem az elme tűzgyújtó erejének állítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. A flame is easily moved by air and heat; this practice trains attention, not any claim of mind starting fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Tűzbiztonság: soha ne hagyd őrizetlenül a lángot, tarts távol gyúlékony anyagot, legyen kéznél víz, és jól szellőzz.",
+    "en": "Fire safety: never leave the flame unattended, keep flammables away, keep water at hand, and ventilate well."
+   },
+   "sorszam": 24,
+   "mester": "Telekinézis",
+   "id": "tk-pirokinezis-gyertya"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Hidrokinézis — meditációk a víz áramlásán",
+    "en": "Hydrokinesis — meditations on water flow"
+   },
+   "cel": {
+    "hu": "A belső áramlás és nyugalom megtapasztalása a víz jelenlétében, kapcsolódásként, nem parancsként.",
+    "en": "Experience inner flow and calm in the presence of water, as connection rather than command."
+   },
+   "modszer": [
+    {
+     "hu": "Tegyél egy tál vagy pohár vizet magad elé csendes térben, és lélegezz mélyen.",
+     "en": "Set a bowl or glass of water before you in a quiet space and breathe deeply."
+    },
+    {
+     "hu": "Képzeld az elméd nyugodt tó tükrének; ha gondolat jön, engedd elülni, mint egy fodrot.",
+     "en": "Imagine the mind as a calm lake’s surface; if a thought comes, let it settle like a ripple."
+    },
+    {
+     "hu": "Vidd a figyelmed a vízre, és lágy tekintettel érezd a jelenlétét, hűvösségét, súlyát.",
+     "en": "Bring attention to the water and, with soft gaze, feel its presence, coolness, weight."
+    },
+    {
+     "hu": "Egy másik körben képzeld magad folyónak, amelynek árama a gerinceden és a kezeden át folyik.",
+     "en": "In another round imagine yourself a river whose current flows through your spine and hands."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A hidrokinézist itt a víz jelenlétében végzett áramlás-meditációként műveljük; egy fodrozódás is lehet légmozgás vagy rezgés. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Hydrokinesis here is a flow-meditation in water’s presence; even a ripple may be air movement or vibration. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 25,
+   "mester": "Telekinézis",
+   "id": "tk-hidrokinezis"
+  },
+  {
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Aerokinézis — kísérletek a levegő mozgásával",
+    "en": "Aerokinesis — experiments with moving air"
+   },
+   "cel": {
+    "hu": "A láthatatlan levegő finom jelenlétére ráhangolódni, és a lélegzet ritmusával eggyé válni.",
+    "en": "Attune to the subtle presence of invisible air and become one with the rhythm of breath."
+   },
+   "modszer": [
+    {
+     "hu": "Menj ki egy szélcsendes napon; állj vagy ülj csendben, és érezd a levegőt a bőrödön.",
+     "en": "Go outside on a still day; stand or sit quietly and feel the air on your skin."
+    },
+    {
+     "hu": "Minden kilégzésnél képzeld, hogy a figyelmed kitágul a körülötted lévő levegőbe.",
+     "en": "On each out-breath imagine attention expanding into the air around you."
+    },
+    {
+     "hu": "Emeld ki lassan a kezed, és képzelj egy suttogásnyi fuvallatot, amely a lélegzeteddel egy mozdulat.",
+     "en": "Slowly raise your hands and imagine a whisper-soft breeze that is one motion with your breath."
+    },
+    {
+     "hu": "Ne a látványra figyelj, hanem az érzetre; maradj oldott, és ne várj erős eredményt.",
+     "en": "Attend to sensation rather than sight; stay loose and expect no strong result."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A levegőt szüntelen légmozgás járja át; ezt jelenlét- és érzékelésgyakorlatnak tekintjük, nem szél feletti hatalomnak. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Air is filled with constant currents; this is treated as a presence and sensitivity practice, not power over wind. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 26,
+   "mester": "Telekinézis",
+   "id": "tk-aerokinezis"
+  },
+  {
+   "szint": "halado",
    "sik": "test",
    "elem": "Fold",
    "cim": {
-    "hu": "Elülepedés — a test lágyítása",
-    "en": "Settling — softening the body"
+    "hu": "Terrakinézis — a föld érzékelése és a földelés",
+    "en": "Terrakinesis — sensing the earth and grounding"
    },
    "cel": {
-    "hu": "Megtanulni laza, sietség nélküli éberségbe engedni a testet, hogy a görcsös erőlködés — a leggyakoribb kezdő hiba — feloldódjon még a gyakorlás előtt.",
-    "en": "To learn to drop the body into loose, unhurried alertness, dissolving the effortful straining that is the most common beginner mistake, before any practice begins."
+    "hu": "Mély, türelmes földeléssel kapcsolódni a talajhoz, és a szilárd nyugalmat gyakorolni.",
+    "en": "Connect to the ground through deep, patient grounding, and practise solid calm."
    },
    "modszer": [
     {
-     "hu": "Ülj kényelmesen, gerinc egyenes, de nem merev; tedd a kezed az öledbe.",
-     "en": "Sit comfortably, spine upright but not rigid; rest your hands in your lap."
+     "hu": "Ülj le a földre, ha lehet mezítláb, csendes természeti helyen, és lélegezz lassan.",
+     "en": "Sit on the ground, barefoot if you can, in a quiet natural spot, and breathe slowly."
     },
     {
-     "hu": "Lassítsd le a légzésed anélkül, hogy erőltetnéd, és minden kilégzésnél engedd ellazulni a vállad és az állkapcsod.",
-     "en": "Let the breath slow without forcing it, and on each out-breath let the shoulders and jaw soften."
+     "hu": "Kilégzésnél képzeld, hogy gyökerek nyúlnak a gerincedből és a talpadból a földbe.",
+     "en": "On the out-breath imagine roots reaching from your spine and soles into the earth."
     },
     {
-     "hu": "Pásztázd végig a tested fejtől lefelé, és ahol feszülést találsz, gyengéden engedd el.",
-     "en": "Scan the body from head down, and wherever you find tension, gently release it."
+     "hu": "Tedd a kezed a talajra, és csak hallgatózz; érezd a csend alatti mozdulatlan jelenlétet.",
+     "en": "Place your hands on the ground and simply listen; feel the still presence beneath the silence."
     },
     {
-     "hu": "Ülj egy percig ebben a laza éberségben, majd földelj: érezd a talpad és az ülőcsontod súlyát.",
-     "en": "Rest a minute in this loose alertness, then ground: feel the weight of your feet and sit-bones."
+     "hu": "Ha kővel dolgozol, tartsd a tenyeredben, érezd a súlyát, és képzelj felé egy lágy, meleg figyelmet.",
+     "en": "If working with a stone, hold it, feel its weight, and imagine a soft, warm attention toward it."
     }
    ],
    "keret": {
-    "hu": "Amit itt mérünk, az kizárólag belső: nyugodtabb test és kevésbé görcsös éberség. Ez felkészülés, nem teljesítmény, és semmilyen külső hatást nem ígér.",
-    "en": "What we measure here is inner only: a calmer body and less clenched alertness. This is preparation, not performance, and promises no outer effect."
-   }
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A terrakinézist itt főként földelő, türelmet érlelő gyakorlatként műveljük; a belső szilárdság a mérték. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Terrakinesis here is mainly a grounding, patience-ripening practice; inner steadiness is the measure. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 27,
+   "mester": "Telekinézis",
+   "id": "tk-terrakinezis"
   },
   {
-   "id": "tkp-attention-anchor",
-   "mester": "Telekinézis",
-   "szint": "kezdo",
-   "sik": "szellem",
-   "elem": "Levego",
-   "cim": {
-    "hu": "Figyelem-horgony — a visszatérés edzése",
-    "en": "Attention-anchor — training the return"
-   },
-   "cel": {
-    "hu": "Kinyújtani, meddig tud a figyelmed egyetlen dolgon megpihenni, és barátságossá tenni azt a mozdulatot, amellyel visszahozod, valahányszor elkalandozik.",
-    "en": "To lengthen how long attention can rest on one thing, and to make friendly the movement of bringing it back whenever it drifts."
-   },
-   "modszer": [
-    {
-     "hu": "Két percig csak vedd észre a légzésed — ne változtasd meg, csupán kísérd figyelemmel.",
-     "en": "For two minutes simply notice the breath — do not change it, just accompany it with attention."
-    },
-    {
-     "hu": "Ezután pihentesd a tekinteted egy gyertyalángon vagy egy ponton magad előtt, vagy ismételj csöndben egy egyszerű szót a légzés ritmusára.",
-     "en": "Then rest your gaze on a candle flame or a point in front of you, or silently repeat one simple word in rhythm with the breath."
-    },
-    {
-     "hu": "Amikor az elméd elkalandozik — és el fog —, szemrehányás nélkül hozd vissza a horgonyhoz; ez a visszatérés maga az edzés.",
-     "en": "When the mind wanders — and it will — bring it back to the anchor without scolding; that return is the training itself."
-    },
-    {
-     "hu": "Az utolsó szakaszban engedd el a horgonyt is, és csak legyél jelen.",
-     "en": "In the final stretch let even the anchor go and simply be present."
-    },
-    {
-     "hu": "Tarts nagyjából tíz percet, és állj meg, ha feszültséget érzel.",
-     "en": "Aim for about ten minutes, and stop if you feel strained."
-    }
-   ],
-   "keret": {
-    "hu": "Ez tisztán figyelemedzés. A gyümölcs, amit figyelünk, a tovább tartó fókusz és a szelídebb visszatérés — nem külső hatás, és nem is bizonyíték semmire.",
-    "en": "This is purely attention training. The fruit we watch for is focus that lasts longer and a gentler return — not an outer effect, and not proof of anything."
-   }
-  },
-  {
-   "id": "tkp-image-object",
-   "mester": "Telekinézis",
-   "szint": "kezdo",
-   "sik": "lelek",
-   "elem": "Viz",
-   "cim": {
-    "hu": "Képépítés — egy kicsi, semleges tárgy",
-    "en": "Image-building — one small, neutral object"
-   },
-   "cel": {
-    "hu": "Elevenebbé és állandóbbá tenni a belső képet, míg az érzékek szinte beszállnak — a képzelet mint befogadó belső műhely edzése.",
-    "en": "To make the inner image more vivid and steady until the senses almost join in — training imagination as a receptive inner workshop."
-   },
-   "modszer": [
-    {
-     "hu": "Válassz egy kicsi, semleges, saját tárgyat — egy érmét, gombot vagy sima gyöngyöt.",
-     "en": "Choose a small, neutral object of your own — a coin, a button, or a smooth bead."
-    },
-    {
-     "hu": "Egy rövid ideig csak vedd szemügyre: körvonalát, színét, felületét, az apró árnyékokat, amelyeket vet.",
-     "en": "Spend a short while simply taking it in: its outline, colour, surface, and the tiny shadows it casts."
-    },
-    {
-     "hu": "Csukd be a szemed, és tartsd meg belül a mását, lassan forgatva, hogy sorra megérezd minden oldalát.",
-     "en": "Close your eyes and hold its likeness inwardly, turning it slowly so you sense each face in turn."
-    },
-    {
-     "hu": "Valahányszor a kép elmosódik, pillants rá újra a valódi tárgyra, hogy megszilárdítsd, majd folytasd.",
-     "en": "Whenever the picture dims, glance at the real object again to steady it, then carry on."
-    }
-   ],
-   "keret": {
-    "hu": "Ez képzeletedzés, nem külső hatás. A haladást a kép tisztasága és állandósága méri a naplódban — semmi több.",
-    "en": "This is imagination training, not an outer effect. Progress is measured by the image's clarity and steadiness in your diary — nothing more."
-   }
-  },
-  {
-   "id": "tkp-multisensory",
-   "mester": "Telekinézis",
    "szint": "halado",
-   "sik": "lelek",
-   "elem": "Viz",
-   "cim": {
-    "hu": "Több érzék — a kép megelevenítése",
-    "en": "More senses — bringing the image alive"
-   },
-   "cel": {
-    "hu": "Elmélyíteni a belső képet azzal, hogy a látáson túl más érzékeket is beengedsz, míg az egész elképzelt tárgy élővé nem válik.",
-    "en": "To deepen the inner image by inviting senses beyond sight until the whole imagined object feels alive."
-   },
-   "modszer": [
-    {
-     "hu": "Idézd fel a már ismerős tárgyad tiszta belső képét.",
-     "en": "Call up a clear inner picture of your now-familiar object."
-    },
-    {
-     "hu": "Engedd be a súlyát a tenyeredben, a melegét vagy hűvösségét, a halk neszt, ahogy ujjad végigsimít a felületén.",
-     "en": "Invite in the weight resting in your palm, its warmth or coolness, the faint sound as a finger crosses its surface."
-    },
-    {
-     "hu": "Hagyd, hogy az elképzelt tárgy finoman lebegjen vagy forogjon az elmédben — semmi erőltetés, csak megfigyeled a belső képet.",
-     "en": "Let the imagined object drift or rotate gently in your mind — nothing forced, only watched as an inner picture."
-    },
-    {
-     "hu": "Ha a kép szertefoszlik, térj vissza egyetlen érzékhez, és onnan építsd fel újra.",
-     "en": "If the image falls apart, return to a single sense and rebuild from there."
-    }
-   ],
-   "keret": {
-    "hu": "A lebegés vagy forgás itt kizárólag belső, elképzelt esemény. Sosem állítjuk, hogy a valódi tárgy megmozdul — a gyümölcs az elevenebb, állandóbb belső érzék.",
-    "en": "The drifting or rotation here is an inner, imagined event only. We never claim the real object moves — the fruit is a livelier, steadier inner sense."
-   }
-  },
-  {
-   "id": "tkp-intent-hold",
-   "mester": "Telekinézis",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Tuz",
-   "cim": {
-    "hu": "Csöndes szándék — megengedni, nem nyomni",
-    "en": "Steady intent — allowing, not pushing"
-   },
-   "cel": {
-    "hu": "Megtanulni egyetlen nyugodt célt tartani erőltetés és kételkedés nélkül — a szándék mint letisztult, gyengéden tartott irány.",
-    "en": "To learn to hold a single calm aim without straining or doubting — intent as a settled aim held lightly."
-   },
-   "modszer": [
-    {
-     "hu": "Kezdd néhány lassú lélegzettel, míg az elméd olyan nyugodt nem lesz, mint egy szélcsendes tó.",
-     "en": "Begin with a few slow breaths until the mind is as calm as a windless lake."
-    },
-    {
-     "hu": "Tarts egyetlen nyugodt szándékot: nem görcsölést, nem sürgetést, csupán egy célt, amelyet gyengéden tartasz.",
-     "en": "Hold a single calm intent: not straining, not hurrying, just an aim held lightly."
-    },
-    {
-     "hu": "Ha görcsbe rándul a nyomásba, lazíts, és térj vissza a megengedő tartáshoz.",
-     "en": "If it tightens into pressure, soften, and return to the allowing hold."
-    },
-    {
-     "hu": "A vége felé engedd el a szándékot is, és jegyezd fel, hol volt nyugodt és hol feszült.",
-     "en": "Toward the end, release even the intent, and note where it was calm and where it tensed."
-    }
-   ],
-   "keret": {
-    "hu": "A cél a belső stabilitás, nem külső eredmény. A különbség a megengedő és a nyomó szándék között az egyetlen dolog, amit valóban mérünk.",
-    "en": "The aim is inner steadiness, not an outer result. The difference between allowing and pushing intent is the only thing we actually measure."
-   }
-  },
-  {
-   "id": "tkp-inner-sanctuary",
-   "mester": "Telekinézis",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Eter",
-   "cim": {
-    "hu": "Belső menedék — a nyugalom biztonságos helye",
-    "en": "Inner sanctuary — a safe place of calm"
-   },
-   "cel": {
-    "hu": "Kiépíteni egy csöndes belső helyet, ahonnan a szándékot tartani lehet, és ahová bármikor visszatérhetsz elcsöndesedni.",
-    "en": "To build a quiet inner place from which intent can be held, and to which you can return to grow calm at any time."
-   },
-   "modszer": [
-    {
-     "hu": "Csöndesedj el néhány lassú lélegzettel, míg a belső zaj le nem ülepszik.",
-     "en": "Quiet down with a few slow breaths until the inner noise settles."
-    },
-    {
-     "hu": "Képzelj magad köré egy egyszerű, biztonságos helyet, amely csak a tiéd — hagyd, hogy a részletei maguktól alakuljanak.",
-     "en": "Picture a simple, safe place around you that is yours alone — let its details form on their own."
-    },
-    {
-     "hu": "Pihenj itt, és érezd, ahogy a nyugalom természetes háttérré válik.",
-     "en": "Rest here and feel the calm become a natural backdrop."
-    },
-    {
-     "hu": "Mielőtt befejezed, jegyezd meg, milyen érzés volt itt lenni, hogy máskor gyorsabban visszataláljon.",
-     "en": "Before finishing, remember how it felt to be here, so you can find your way back faster another time."
-    }
-   ],
-   "keret": {
-    "hu": "A menedék belső kép és hangulat, nem valóságos hely. Az egyetlen gyümölcs a könnyebben elérhető belső nyugalom.",
-    "en": "The sanctuary is an inner image and mood, not a real place. The only fruit is inner calm that becomes easier to reach."
-   }
-  },
-  {
-   "id": "tkp-let-go",
-   "mester": "Telekinézis",
-   "szint": "mester",
-   "sik": "szellem",
-   "elem": "Eter",
-   "cim": {
-    "hu": "Elengedés és megfigyelés — az igyekvés nélküli jelenlét",
-    "en": "Let go and observe — presence without striving"
-   },
-   "cel": {
-    "hu": "Megtanulni abbahagyni az igyekvést, és kíváncsi, ítélkezésmentes figyelemmel csak megfigyelni, ami belül és kívül történik.",
-    "en": "To learn to stop striving and simply observe, with curious, non-judging attention, whatever happens inwardly and outwardly."
-   },
-   "modszer": [
-    {
-     "hu": "Egy előző szakasz — figyelem, kép vagy szándék — után teljesen hagyj fel minden törekvéssel.",
-     "en": "After an earlier stretch — attention, image, or intent — drop all striving entirely."
-    },
-    {
-     "hu": "Egyszerűen figyelj, belül és kívül, minden elvárás nélkül, mintha egy ablakon néznél ki.",
-     "en": "Simply watch, inwardly and outwardly, with no expectation, as if looking out a window."
-    },
-    {
-     "hu": "Ha felbukkan egy egybeesés vagy jelentőségteljes időzítés, örülj neki és jegyezd fel — de sosem tekintsd bizonyítéknak.",
-     "en": "If a coincidence or meaningful timing appears, enjoy it and note it — but never treat it as proof."
-    },
-    {
-     "hu": "Zárd földeléssel: kezek az öledbe, néhány lassú lélegzet, majd őszinte feljegyzés.",
-     "en": "Close with grounding: hands in your lap, a few slow breaths, then an honest note."
-    }
-   ],
-   "keret": {
-    "hu": "Ha kívül semmi sem moccan, semmi baj nincs — a belső edzés az egyetlen, amit ígérünk. Az egybeesés élmény, nem adat.",
-    "en": "If nothing stirs outwardly, nothing is wrong — the inner training is the whole of what is promised. A coincidence is an experience, not data."
-   }
-  },
-  {
-   "id": "tkp-full-arc",
-   "mester": "Telekinézis",
-   "szint": "mester",
-   "sik": "szellem",
-   "elem": "Materia Prima",
-   "cim": {
-    "hu": "A teljes ülés íve — a három képesség együtt",
-    "en": "The full session arc — three faculties together"
-   },
-   "cel": {
-    "hu": "Egyetlen összefüggő ülésben összefűzni a figyelmet, a képzeletet és a szándékot, majd elengedni és őszintén rögzíteni a történteket.",
-    "en": "To weave attention, imagination, and intent into one connected session, then let go and honestly record what happened."
-   },
-   "modszer": [
-    {
-     "hu": "Ülepedj el és horgonyozd le a figyelmed a lélegzeten vagy egy ponton, míg az elme le nem nyugszik.",
-     "en": "Settle and anchor your attention on the breath or a point until the mind quiets."
-    },
-    {
-     "hu": "Építsd fel a választott tárgyad tiszta, több érzéket megmozgató belső képét.",
-     "en": "Build a clear, multi-sensory inner image of your chosen object."
-    },
-    {
-     "hu": "Tarts egyetlen nyugodt, megengedő szándékot, majd engedd el, és egyszerűen figyelj.",
-     "en": "Hold a single calm, allowing intent, then release it and simply observe."
-    },
-    {
-     "hu": "Földelj, és rögzítsd őszintén, mi történt a figyelmeddel, a képeiddel és a hangulatoddal — túlzás nélkül.",
-     "en": "Ground, and record honestly what happened in your attention, your images, and your mood — without exaggeration."
-    }
-   ],
-   "keret": {
-    "hu": "Néhány tiszta perc naponta többet ér egy frusztrált óránál. Ez az egész ülés kizárólag belső edzés; a külvilág mozgása nem a lényeg, és sosem ígérjük.",
-    "en": "A few clear minutes daily beat a frustrated hour. This whole session is inner training only; movement in the outer world is not the point, and is never promised."
-   },
-   "etika": {
-    "hu": "Ez nem gyerekeknek szól, és nem is válságban lévőknek. Ha kiégettnek, megszállottnak vagy rosszul érzed magad, állj meg és pihenj. Parancsoló hangokat hallani, vagy bármilyen késztetést érezni, hogy árts magadnak vagy másnak, orvosi vészhelyzet, nem gyakorlás — azonnal fordulj szakemberhez vagy a helyi mentőszolgálathoz. Itt semmi sem orvosi vagy pszichológiai kezelés.",
-    "en": "This is not for children, and not for anyone in crisis. If you feel burned out, obsessive, or unwell, stop and rest. Hearing commanding voices, or any urge to harm yourself or others, is a medical emergency, not a practice — contact a professional or your local emergency services at once. Nothing here is medical or psychological treatment."
-   }
-  },
-  {
-   "id": "tkp-presession-check",
-   "mester": "Telekinézis",
-   "szint": "kezdo",
    "sik": "test",
    "cim": {
-    "hu": "Ülés előtti önellenőrzés",
-    "en": "Pre-session self-check"
+    "hu": "Elektrokinézis — ráhangolódás a saját belső árameinkre",
+    "en": "Electrokinesis — attuning to our own inner currents"
    },
    "cel": {
-    "hu": "Néhány őszinte kérdéssel megbizonyosodni arról, hogy a megfelelő állapotban és a megfelelő szándékkal ülsz le gyakorolni.",
-    "en": "To confirm with a few honest questions that you are sitting down to practise in the right state and with the right aim."
+    "hu": "Felébreszteni a figyelmet a testben és a környezetben zajló finom, elektromosnak érzett rezgésekre.",
+    "en": "Awaken attention to the subtle vibrations, felt as electric, in the body and surroundings."
    },
    "modszer": [
     {
-     "hu": "Kérdezd meg magadtól: kellően pihent és nyugodt vagyok-e — nem vagyok-e válságban?",
-     "en": "Ask yourself: am I rested and calm enough — am I not in crisis?"
+     "hu": "Ülj egy biztonságos, alacsony feszültségű forrás — bekapcsolt lámpa vagy telefon — közelébe, de ne érintsd.",
+     "en": "Sit near a safe, low-voltage source — a lamp or phone that is on — but do not touch it."
     },
     {
-     "hu": "Ellenőrizd, hogy egy kicsi, semleges, saját tárgyat választottál — semmi kölcsönkért, semmi, ami másról szól.",
-     "en": "Check that you chose a small, neutral object of your own — nothing borrowed, nothing about another person."
+     "hu": "Figyelj a saját testedre: a szívverésre, az ujjbegyek lüktetésére, a tenyerek statikus érzetére.",
+     "en": "Attend to your own body: the heartbeat, the pulsing fingertips, the static feel of the palms."
     },
     {
-     "hu": "Tisztázd a célod: önmagad edzése, nem mások lenyűgözése vagy egy eredmény kikényszerítése.",
-     "en": "Clarify your aim: to train yourself, not to impress anyone or force a result."
+     "hu": "Dörzsöld össze, majd tartsd kissé szét a kezed, és képzelj közéjük finom, bizsergő feszültséget.",
+     "en": "Rub then hold the hands slightly apart and imagine a fine, tingling tension between them."
     },
     {
-     "hu": "Tedd félre a telefonod és a zavaró tényezőket, és tervezd rövidre — megállsz, ha feszültséget érzel.",
-     "en": "Set aside your phone and distractions, and plan to keep it short — stopping if you feel strained."
+     "hu": "Tartsd a nyugodt szándékot, hogy ráhangolódsz az áramlásra, és figyeld a belső jelzéseket.",
+     "en": "Hold the calm intention of attuning to the flow, and observe the inner signals."
     }
    ],
    "keret": {
-    "hu": "Ez az ösvény inkább őszinteséget kér, mint tehetséget. Az önellenőrzés nem teszt, hanem a gyakorlás becsületes kerete.",
-    "en": "This path asks for honesty more than talent. The self-check is not a test but an honest frame for practising."
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Kizárólag biztonságos, alacsony feszültségű környezetben; ez érzékelésgyakorlat, nem elektromosság irányítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Only in a safe, low-voltage setting; this is a sensitivity practice, not control of electricity. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
    },
    "etika": {
-    "hu": "Ez nem gyerekeknek szól, és nem is válságban lévőknek. Ha kiégettnek vagy rosszul érzed magad, ne gyakorolj — pihenj. Parancsoló hangok vagy bármilyen késztetés, hogy árts magadnak vagy másnak, orvosi vészhelyzet: azonnal fordulj szakemberhez vagy a mentőszolgálathoz.",
-    "en": "This is not for children, and not for anyone in crisis. If you feel burned out or unwell, do not practise — rest. Commanding voices, or any urge to harm yourself or others, are a medical emergency: contact a professional or emergency services at once."
-   }
+    "hu": "Soha ne dolgozz konnektorokkal, csupasz vezetékkel vagy magas feszültséggel; az áram valódi veszély.",
+    "en": "Never work with sockets, bare wires or high voltage; electricity is a real hazard."
+   },
+   "sorszam": 28,
+   "mester": "Telekinézis",
+   "id": "tk-elektrokinezis"
   },
   {
-   "id": "tkp-journal-mirror",
-   "mester": "Telekinézis",
-   "szint": "kezdo",
-   "sik": "lelek",
+   "szint": "halado",
+   "sik": "test",
    "cim": {
-    "hu": "Ülés utáni napló és a gyakorló tükre",
-    "en": "Post-session diary and the practitioner's mirror"
+    "hu": "Magnetokinézis — kapcsolat mágneses tárgyakkal",
+    "en": "Magnetokinesis — connecting with magnetic objects"
    },
    "cel": {
-    "hu": "Őszintén rögzíteni, mi történt a figyelmeddel, a képeiddel és a szándékoddal, és észrevenni, melyik belső vonás mutatkozott meg ma a legerősebben.",
-    "en": "To honestly record what happened in your attention, images, and intent, and to notice which inner trait showed itself most strongly today."
+    "hu": "A polaritás és vonzás nyugodt megérzését gyakorolni egy fémtárgy jelenlétében.",
+    "en": "Practise the calm felt-sense of polarity and pull in the presence of a metal object."
    },
    "modszer": [
     {
-     "hu": "Írd le, meddig tudott a figyelmed megpihenni, mielőtt elcsúszott, és hogyan hoztad vissza.",
-     "en": "Write how long your attention could rest before it slipped, and how you brought it back."
+     "hu": "Tegyél egy kis fémtárgyat — gemkapcsot, szöget, alátétet — sima felületre, és földeld a tested.",
+     "en": "Place a small metal object — a paper clip, nail, washer — on a smooth surface and ground yourself."
     },
     {
-     "hu": "Jegyezd fel, mennyire volt tiszta és állandó a belső képed, és mely érzékek segítettek.",
-     "en": "Note how clear and steady your inner image was, and which senses helped."
+     "hu": "Tartsd fölé a tenyered, és figyelj a tárgy belső állapotára: súlyára, sűrűségére, mozdulatlanságára.",
+     "en": "Hold your palms above it and attend to its inner state: weight, density, stillness."
     },
     {
-     "hu": "Figyeld meg, hol feszült görcsbe a szándékod, és hol maradt nyugodt.",
-     "en": "Observe where your intent tensed into pushing, and where it stayed calm."
+     "hu": "Képzelj egy összekötő szálat a tenyeredtől a tárgyig, amely nem tol és nem húz, csak összeköt.",
+     "en": "Imagine a connecting thread from palm to object that neither pushes nor pulls, only links."
     },
     {
-     "hu": "Nevezd meg, melyik vonás mutatkozott meg ma a legerősebben — a tiszta, állhatatos figyelem, vagy valami, ami elvont: türelmetlenség, nyugtalanság, önkétely vagy a lenyűgözés vágya.",
-     "en": "Name which trait showed itself most today — clear, steady attention, or something that pulled you away: impatience, restlessness, self-doubt, or the craving to impress."
+     "hu": "Egy valódi mágnest a kezedben tartva figyeld, hogyan reagál rá az energiaérzeted.",
+     "en": "Holding a real magnet, notice how your energy-sensation responds to it."
     }
    ],
    "keret": {
-    "hu": "A napló az egyetlen becsületes mérce: hetek alatt valódi belső változást mutat benned. Rögzíts mindent túlzás nélkül, és sosem tekints egy belső benyomást bizonyítéknak.",
-    "en": "The diary is the only honest measure: over weeks it shows real inner change in you. Record everything without exaggeration, and never treat an inner impression as evidence."
-   }
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A magnetokinézist a polaritásra való ráérzés belső gyakorlatának tekintjük; a felmerülő jelzések szubjektívek. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Magnetokinesis is treated as an inner practice of sensing polarity; any signals that arise are subjective. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 29,
+   "mester": "Telekinézis",
+   "id": "tk-magnetokinezis"
   },
   {
-   "id": "tkp-discernment",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Holdmunka és napenergia",
+    "en": "Lunar work and solar energy"
+   },
+   "cel": {
+    "hu": "A hold ciklusaira és a nap erejére hangolódva mélyíteni az érzelmi ritmust és a belső egyensúlyt.",
+    "en": "Attuning to the moon’s cycles and the sun’s force, deepen emotional rhythm and inner balance."
+   },
+   "modszer": [
+    {
+     "hu": "Holdas gyakorlathoz állj a holdfényben, és képzelj ezüst fényszálakat a mellkasodba és a kezedbe.",
+     "en": "For lunar practice stand in moonlight and imagine silver threads of light into chest and hands."
+    },
+    {
+     "hu": "Fordítsd a tenyered felfelé, és képzeld, hogy nyugalmat és mélységet fogadsz, mint egy dagály.",
+     "en": "Turn your palms up and imagine receiving calm and depth, like a tide."
+    },
+    {
+     "hu": "Napos gyakorlathoz fordulj a fény felé csukott szemmel, és képzelj aranyló fényt a középpontodba.",
+     "en": "For solar practice face the light with closed eyes and imagine golden light into your centre."
+    },
+    {
+     "hu": "Hold energiáját a befelé forduló csendhez, a napét a tiszta, cselekvő lendülethez társítsd.",
+     "en": "Pair lunar energy with inward calm, solar energy with clear, active drive."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A hold és a nap itt természetes ritmusok, amelyekre ráhangolódunk; nem befolyásoljuk az égitesteket. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Moon and sun here are natural rhythms we attune to; we do not influence the celestial bodies. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Sose nézz közvetlenül a napba; csukott szemmel, a bőrödön érezve dolgozz a fénnyel.",
+    "en": "Never look directly at the sun; work with its light through closed eyes, felt on the skin."
+   },
+   "sorszam": 30,
    "mester": "Telekinézis",
+   "id": "tk-lunar-szolar"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Napi fejlődési rutin",
+    "en": "Daily development routine"
+   },
+   "cel": {
+    "hu": "Rövid, következetes napi lépésekbe rendezni a figyelem, energia és önmegfigyelés gyakorlását.",
+    "en": "Order the practice of focus, energy and self-observation into short, consistent daily steps."
+   },
+   "modszer": [
+    {
+     "hu": "Ébredés után ülj fel, végy három mély lélegzetet, és hangold magad nyugodt szándékkal a napra.",
+     "en": "On waking, sit up, take three deep breaths and set a calm intention for the day."
+    },
+    {
+     "hu": "Tölts öt-tíz percet csendes meditációval, majd rövid energiaérzékeléssel a tenyeredben.",
+     "en": "Spend five to ten minutes in quiet meditation, then brief energy-sensing in the palms."
+    },
+    {
+     "hu": "Válassz egyetlen fő gyakorlatot a napra, és inkább a kapcsolódásra figyelj, mint a látványra.",
+     "en": "Choose a single core exercise for the day and attend to connection rather than spectacle."
+    },
+    {
+     "hu": "Este röviden naplózz és földelj, és minden hetedik napon pihenj, hogy az energia beépülhessen.",
+     "en": "In the evening journal briefly and ground, and every seventh day rest so energy can integrate."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A rutin a rendszeresség és a belső egyensúly kerete; a minőség fontosabb az időtartamnál. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The routine is a frame for regularity and inner balance; quality matters more than duration. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 31,
+   "mester": "Telekinézis",
+   "id": "tk-napi-rutin"
+  },
+  {
    "szint": "halado",
    "sik": "szellem",
    "cim": {
-    "hu": "Megkülönböztetés — a kerítések gyakorlása",
-    "en": "Discernment — practising the fences"
+    "hu": "Elemazonosítás — melyik irány áll közel hozzád",
+    "en": "Element identification — which direction feels near"
    },
    "cel": {
-    "hu": "Szilárdan tartani az ösvény etikai határait, és éberen megkülönböztetni a belső élményt a külvilágra vonatkozó állítástól.",
-    "en": "To hold the path's ethical boundaries firmly, and to discern clearly between an inner experience and a claim about the outer world."
+    "hu": "Megfigyeléssel és rövid próbákkal feltérképezni, melyik elemi gyakorlat rezonál veled a legjobban.",
+    "en": "Through observation and short trials, map which elemental practice resonates most with you."
    },
    "modszer": [
     {
-     "hu": "Emlékeztesd magad: a gyakorlás kizárólag önmagadra irányul — sosem megnevezett személyre, a holmijára vagy a terére a beleegyezése nélkül.",
-     "en": "Remind yourself: practice is self-directed only — never aimed at a named person, their belongings, or their space without consent."
+     "hu": "Figyeld a hétköznapokban, mihez vonzódsz: lánghoz, vízhez, szélhez, földhöz, elektromossághoz.",
+     "en": "Notice in daily life what draws you: flame, water, wind, earth, electricity."
     },
     {
-     "hu": "Tartsd a rendkívüli állításokat hétköznapi csatornákban: ezek nem eszközök pénznyerésre, szerencsejátékra, eltűnt emberek vagy holttestek keresésére, vagy katasztrófák jóslására.",
-     "en": "Keep extraordinary claims in ordinary channels: these are not tools to win money, to gamble, to locate missing people or bodies, or to foretell disasters."
+     "hu": "Próbáld ki röviden mindegyiket — gyertya, tál víz, tollpihe, kő, kis eszköz —, és csak érezd.",
+     "en": "Try each briefly — candle, bowl of water, feather, stone, small device — and simply feel."
     },
     {
-     "hu": "Ha egy megérzés valósnak tűnik a külvilágban, ellenőrizd a szokásos módon, és ahol a biztonság a tét, a rendes úton fordulj az illetékesekhez.",
-     "en": "If a hunch seems to matter in the real world, verify it the normal way, and where safety is at stake, go to the proper authorities through the front door."
+     "hu": "Kérdezd magadtól: melyiknél mélyül a figyelmed, hol jön könnyebben a nyugalom és az áramlás?",
+     "en": "Ask yourself: with which does focus deepen, where do calm and flow come more easily?"
     },
     {
-     "hu": "Zárd egy csöndes elhatározással, hogy tiszteled a szabad akaratot, és sosem tekintesz egy belső benyomást bizonyítéknak.",
-     "en": "Close with a quiet resolve to honour free will, and never to treat an inner impression as evidence."
+     "hu": "Kezdj a legközelebbivel, de tudd, hogy idővel a többi is fejleszthető.",
+     "en": "Begin with the nearest one, knowing the others can be developed in time."
     }
    ],
    "keret": {
-    "hu": "E vonalakon belül tartva a gyakorlat az marad, aminek lennie kell — a saját belső világod csöndes, alázatos tanulmányozása. Egybeeséseket feljegyezni szabad, bizonyítékként kezelni soha.",
-    "en": "Kept within these lines, the practice stays what it should be — a calm, humble study of your own inner world. Coincidences may be noted, never treated as proof."
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az elemi hajlam itt önismereti irányjelző, nem született, rögzített képesség. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Elemental leaning here is a self-knowledge signpost, not an innate, fixed ability. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 32,
+   "mester": "Telekinézis",
+   "id": "tk-elem-azonositas"
+  },
+  {
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Csoportos és távoli kísérlet",
+    "en": "Group and remote experiment"
+   },
+   "cel": {
+    "hu": "Megtapasztalni a közös, támogató figyelem élményét, és összevetni a résztvevők jegyzeteit.",
+    "en": "Experience the shared, supportive attention and compare participants’ notes."
+   },
+   "modszer": [
+    {
+     "hu": "Alkoss két-öt fős, beleegyező csoportot; állapodjatok meg egy közös, egyszerű gyakorlatban.",
+     "en": "Form a consenting group of two to five; agree on one shared, simple exercise."
+    },
+    {
+     "hu": "Gyakoroljatok csendben ugyanabban az időben tíz-tizenöt percig, majd osszátok meg az élményeket.",
+     "en": "Practise in silence at the same time for ten to fifteen minutes, then share experiences."
+    },
+    {
+     "hu": "Távoli körben egy küldő figyel egy jelzőre, a többiek máshol, ugyanakkor meditálnak és jegyzetelnek.",
+     "en": "In a remote round one sender attends to an indicator while others, elsewhere, meditate and note at the same time."
+    },
+    {
+     "hu": "Utána vessétek össze a feljegyzéseket, és keressetek egybeeséseket ítélkezés és versengés nélkül.",
+     "en": "Afterwards compare the notes and look for coincidences, without judgement or competition."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ezt megosztott figyelemgyakorlatnak tekintjük; az egybeesések nem távhatás bizonyítékai. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is treated as a shared attention practice; coincidences are not proof of action at a distance. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
    },
    "etika": {
-    "hu": "Kizárólag önmagadra irányul; ne olvass és ne befolyásolj másokat. Semmi szerencsejáték vagy haszonszerzés, semmi emberek vagy holttestek felkutatása, semmi katasztrófa-jóslás. Parancsoló hangokat hallani, vagy bármilyen késztetést érezni, hogy árts magadnak vagy másnak, orvosi vészhelyzet — azonnal fordulj szakemberhez vagy a helyi mentőszolgálathoz. Itt semmi sem orvosi vagy pszichológiai kezelés, és sosem szabad emiatt késleltetned a segítségkérést.",
-    "en": "Self-directed only; do not read or influence others. No gambling or profit, no locating people or bodies, no foretelling disasters. Hearing commanding voices, or any urge to harm yourself or others, is a medical emergency — contact a professional or your local emergency services at once. Nothing here is medical or psychological treatment, and you should never delay seeking help because of it."
-   }
+    "hu": "Csak beleegyező résztvevőkkel; sosem irányítsd meg nevesített, be nem egyező személyt vagy a tulajdonát. Nem használható haszonszerzésre, mások befolyásolására vagy eltűnt személyek keresésére.",
+    "en": "Only with consenting participants; never target a named, non-consenting person or their property. Not for profit, for influencing others, or for locating missing people."
+   },
+   "sorszam": 33,
+   "mester": "Telekinézis",
+   "id": "tk-csoport-tavoli"
+  },
+  {
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Erős érzelem átalakítása áramlássá",
+    "en": "Transforming strong emotion into flow"
+   },
+   "cel": {
+    "hu": "Egy heves érzelmet nem elfojtani, hanem megfigyelni és nyugodt, testesült áramlássá alakítani.",
+    "en": "Not suppress a strong emotion but observe it and turn it into calm, embodied flow."
+   },
+   "modszer": [
+    {
+     "hu": "Nevezd meg, mit érzel, és keresd meg, hol lakik a testedben — meleg-e, hideg-e, nyomás vagy súly.",
+     "en": "Name what you feel and find where it lives in the body — warm or cold, pressure or weight."
+    },
+    {
+     "hu": "Csukott szemmel lélegezz; ne erőltess nyugalmat, csak adj formát és mozgást az érzésnek.",
+     "en": "With eyes closed breathe; do not force calm, only give the feeling shape and motion."
+    },
+    {
+     "hu": "Tégy elé egy könnyű tárgyat, és engedd, hogy a figyelmed a lélegzeteden át felé áramoljon.",
+     "en": "Set a light object before you and let attention flow toward it through the breath."
+    },
+    {
+     "hu": "Zárásként mindig földelj: tenyeret a mellkasra vagy a padlóra, lassú légzés, és köszönd meg az élményt.",
+     "en": "Always close by grounding: palm on chest or floor, slow breathing, and thank the experience."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez egy önszabályozó, földelő gyakorlat erős érzelemre; nem a válság megoldása és nem pszichés erő állítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a self-regulating, grounding practice for strong emotion; not a solution to crisis nor a claim of psychic power. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "etika": {
+    "hu": "Nyugalmat, nem félelmet keltő gyakorlat, és nem pótolja a szakszerű segítséget. Ha válságban vagy — például önveszélyes gondolatok jönnek —, ne késleltesd az ellátást: fordulj azonnal bizalmi személyhez vagy krízisvonalhoz.",
+    "en": "A calm-not-fear practice, and no substitute for professional help. If you are in crisis — for example self-harm thoughts arise — do not delay care: reach out at once to a trusted person or a crisis line."
+   },
+   "sorszam": 34,
+   "mester": "Telekinézis",
+   "id": "tk-erzelmi-krizis-atalakitas"
+  },
+  {
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Elme- és álomnapló",
+    "en": "Mind journal and dream log"
+   },
+   "cel": {
+    "hu": "A tudatalatti mintázatait megfigyelni az éber gondolatok és az álmok rendszeres feljegyzésével.",
+    "en": "Observe subconscious patterns by regularly recording waking thoughts and dreams."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel vagy este szánj öt percet: milyen gondolatok ismétlődtek, milyen érzelmek voltak erősek?",
+     "en": "Morning or evening spend five minutes: which thoughts recurred, which emotions were strong?"
+    },
+    {
+     "hu": "Jegyezd fel, felmerült-e ellenállás, kétely vagy váratlan belső kép a gyakorlás közben.",
+     "en": "Note whether resistance, doubt or an unexpected inner image arose during practice."
+    },
+    {
+     "hu": "Tarts egy füzetet az ágyad mellett, és ébredéskor írd le, amire az álmaidból emlékszel.",
+     "en": "Keep a notebook by the bed and on waking write down whatever you recall from your dreams."
+    },
+    {
+     "hu": "Idővel keresd a visszatérő szimbólumokat, és vesd össze az éber gyakorlás mintázataival.",
+     "en": "Over time look for recurring symbols and compare them with your waking practice patterns."
+    }
+   ],
+   "keret": {
+    "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A naplót önmegfigyelő tükörnek tekintjük; az álomszimbólumok belső jelentések, nem külső jóslatok. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
+    "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The journal is a self-observing mirror; dream symbols are inner meanings, not outward predictions. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+   },
+   "sorszam": 35,
+   "mester": "Telekinézis",
+   "id": "tk-elme-es-alomnaplo"
   }
  ]
 }

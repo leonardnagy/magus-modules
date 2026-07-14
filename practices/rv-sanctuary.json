@@ -7,429 +7,1065 @@
  },
  "gyakorlatok": [
   {
-   "id": "rvsp-inner-sanctuary-build",
-   "mester": "Remote Viewing",
-   "szint": "kezdo",
-   "sik": "lelek",
-   "elem": "Viz",
-   "cim": {
-    "hu": "A belső menedék felépítése",
-    "en": "Building the inner sanctuary"
-   },
-   "cel": {
-    "hu": "Egy nyugodt, biztonságos benső helyet alakítasz ki a képzeletedben, ahová bármikor visszavonulhatsz elcsendesedni és földelődni.",
-    "en": "You shape a calm, safe inner place in your imagination that you can withdraw to at any time to grow quiet and ground yourself."
-   },
-   "modszer": [
-    {
-     "hu": "Ülj vagy feküdj kényelmesen, csukott szemmel, és végy néhány nyugodt lélegzetet.",
-     "en": "Sit or lie comfortably, eyes closed, and take a few calm breaths."
-    },
-    {
-     "hu": "Hagyd megjelenni a helyet — lehet valós emlék vagy tisztán képzelt; a lényeg, hogy benned biztonságos és csendes legyen.",
-     "en": "Let the place arise — it may be a real memory or purely imagined; what matters is that it feels safe and quiet within you."
-    },
-    {
-     "hu": "Töltsd meg érzékekkel: mit látsz, mit hallasz, milyen a levegő hőmérséklete, milyen az illat, milyen a talaj a lábad alatt.",
-     "en": "Fill it with the senses: what you see, what you hear, the temperature of the air, the scent, the ground beneath your feet."
-    },
-    {
-     "hu": "A vége felé csak pihenj a hely nyugalmában, és jegyezd meg, hogyan érzed magad, hogy legközelebb gyorsabban visszatalálj ide.",
-     "en": "Toward the end, simply rest in the place's calm, and note how you feel, so you find your way back faster next time."
-    }
-   ],
-   "keret": {
-    "hu": "Ez egyszerű belső eszköz — a képzelet és a testi elnyugvás összekapcsolása, rokona a nyugodt légzésnek és a vezetett képzeletnek. Nem állítás semmilyen külső világról; a mércéje a belső gyümölcs: az összeszedettebb figyelem és a lecsendesedő idegrendszer.",
-    "en": "This is a simple inner tool — joining imagination with bodily settling, kin to quiet breathing and guided imagery. It is no claim about any outer world; its measure is the inner fruit: gathered attention and a calmer nervous system."
-   },
-   "etika": {
-    "hu": "Nem orvosi vagy pszichológiai tanács, és sosem helyettesíti vagy késlelteti az ellátást. Válságban lévő emberek és gyermekek számára ez a gyakorlat nem alkalmas.",
-    "en": "This is not medical or psychological advice, and it never replaces or delays care. This practice is not suitable for children or for people in crisis."
-   }
-  },
-  {
-   "id": "rvsp-blank-page-presence",
-   "mester": "Remote Viewing",
-   "szint": "kezdo",
-   "sik": "szellem",
-   "elem": "Eter",
-   "cim": {
-    "hu": "Az üres lap — csendes jelenlét",
-    "en": "The blank page — quiet presence"
-   },
-   "cel": {
-    "hu": "Megtanulsz minden előzetes kép és találgatás nélkül, tiszta figyelemmel jelen lenni, mielőtt bármit rögzítenél.",
-    "en": "You learn to be present with clear attention, free of any prior image or guess, before you record anything."
-   },
-   "modszer": [
-    {
-     "hu": "Készíts papírt és tollat, és ülj le csendben egy üres lap elé.",
-     "en": "Have paper and pen ready, and sit quietly before a blank page."
-    },
-    {
-     "hu": "Végy néhány nyugodt lélegzetet, és engedd el a várakozásokat arról, hogy mi következik.",
-     "en": "Take a few calm breaths, and release any expectation about what will come."
-    },
-    {
-     "hu": "Ne találgass és ne elemezz — csak legyél jelen, éber figyelemmel, ítélet nélkül.",
-     "en": "Do not guess and do not analyse — just be present, alertly attentive, without judgment."
-    },
-    {
-     "hu": "Maradj így néhány percig; ha gondolat jön, engedd tovább, és térj vissza a nyitott figyelemhez.",
-     "en": "Stay this way for a few minutes; if a thought comes, let it pass and return to open attention."
-    }
-   ],
-   "keret": {
-    "hu": "Ez önmagában értékes koncentrációs gyakorlat, a figyelem-munka rokona — függetlenül attól, hogy bármi \"megérkezik\"-e. A mércéje a türelem és az éberség, nem valamely eredmény.",
-    "en": "This is a valuable concentration exercise in its own right, kin to attention work — regardless of whether anything \"arrives.\" Its measure is patience and alertness, not any result."
-   }
-  },
-  {
-   "id": "rvsp-spontaneous-stroke",
-   "mester": "Remote Viewing",
-   "szint": "kezdo",
-   "sik": "szellem",
-   "elem": "Levego",
-   "cim": {
-    "hu": "A spontán vonás",
-    "en": "The spontaneous stroke"
-   },
-   "cel": {
-    "hu": "Egy gyors, ösztönös indító mozdulattal megnyitod az érzékelést, anélkül hogy jóslatot vagy jelentést erőltetnél rá.",
-    "en": "With a quick, instinctive starting gesture you open perception, without forcing any prophecy or meaning onto it."
-   },
-   "modszer": [
-    {
-     "hu": "Csendes, üres lappal indulj, tollal a kézben.",
-     "en": "Begin with a quiet, blank page, pen in hand."
-    },
-    {
-     "hu": "Hagyd, hogy a kezed egyetlen gyors, ösztönös vonalat vessen a papírra — ne tervezd meg.",
-     "en": "Let your hand throw a single quick, instinctive stroke onto the paper — do not plan it."
-    },
-    {
-     "hu": "Ne tulajdoníts neki jelentést; csak vedd észre, hogy egy indító mozdulat, amely megnyitja a figyelmet.",
-     "en": "Attach no meaning to it; just notice that it is a starting gesture that opens attention."
-    },
-    {
-     "hu": "Figyeld meg, milyen benső mozdulat vagy érzet kíséri, és onnan lépj tovább a nyers benyomásokhoz.",
-     "en": "Observe what inner motion or sensation accompanies it, and move on from there to the raw impressions."
-    }
-   ],
-   "keret": {
-    "hu": "A vonás nem jóslat és nem üzenet — egy egyszerű ráhangoló mozdulat. A hagyomány saját modellje szerint való eszköz, nem tényállítás; a mércéje az, hogy segít-e elcsendesedni és figyelni.",
-    "en": "The stroke is neither prophecy nor message — a simple attuning gesture. It is a tool within the tradition's own model, not a statement of fact; its measure is whether it helps you grow quiet and attend."
-   }
-  },
-  {
-   "id": "rvsp-raw-impressions",
-   "mester": "Remote Viewing",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Levego",
-   "cim": {
-    "hu": "Nyers benyomások gyűjtése kategóriánként",
-    "en": "Gathering raw impressions by category"
-   },
-   "cel": {
-    "hu": "Megtanulsz egyszavas, magyarázat nélküli nyers benyomásokat rögzíteni, hogy az érzékelést ne írja felül az elme várakozása.",
-    "en": "You learn to record raw, one-word impressions without explanation, so perception is not overwritten by the mind's expectation."
-   },
-   "modszer": [
-    {
-     "hu": "Csendesedj el egy üres lappal, és készülj kategóriánként rögzíteni.",
-     "en": "Grow quiet with a blank page, and prepare to record category by category."
-    },
-    {
-     "hu": "Jegyezd fel, ami feltűnik: színek, textúrák, hőérzet, formák és méretek, hangok, mozgás.",
-     "en": "Note what stands out: colours, textures, senses of temperature, shapes and sizes, sounds, movement."
-    },
-    {
-     "hu": "Végül rögzítsd az esztétikai és érzelmi lenyomatot — nyugodt, feszült, tág, nyomasztó.",
-     "en": "Finally record the aesthetic and emotional imprint — calm, tense, wide, oppressive."
-    },
-    {
-     "hu": "Egy-egy szó elég. Ne magyarázz, és ne fűzz össze történetet a benyomásokból.",
-     "en": "A single word is enough. Do not explain, and do not weave the impressions into a story."
-    }
-   ],
-   "keret": {
-    "hu": "Ez a nyers érzékelés és annak azonnali magyarázata közötti különbség edzése — becsületes figyelemgyakorlat. Nem ígér pontosságot semmilyen célponttal kapcsolatban; a mércéje az, hogy finomodik-e az érzékelésed és a türelmed.",
-    "en": "This trains the difference between raw perception and its instant explanation — an honest attention exercise. It promises no accuracy about any target; its measure is whether your perception and patience refine."
-   }
-  },
-  {
-   "id": "rvsp-separate-overlay",
-   "mester": "Remote Viewing",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Levego",
-   "cim": {
-    "hu": "A magyarázat elkülönítése",
-    "en": "Setting the explanation apart"
-   },
-   "cel": {
-    "hu": "Megtanulod észrevenni és külön jelölni azt a pillanatot, amikor az elméd magyarázni kezd — mert ez a leggyakoribb hibaforrás.",
-    "en": "You learn to notice and mark apart the moment your mind begins to explain — because that is the commonest source of error."
-   },
-   "modszer": [
-    {
-     "hu": "Miközben nyers benyomásokat gyűjtesz, figyeld, mikor vág rá az elméd, hogy \"ez egy híd\" vagy \"ez egy tó\".",
-     "en": "While gathering raw impressions, watch for when your mind snaps that \"this is a bridge\" or \"this is a lake.\""
-    },
-    {
-     "hu": "Ismerd fel: ez már értelmezés, nem érzékelés.",
-     "en": "Recognize it: this is already interpretation, not perception."
-    },
-    {
-     "hu": "Jelöld külön a lapon (a régi szaknyelvben ez az analitikus rávetítés), és tedd félre.",
-     "en": "Mark it separately on the page (in the old jargon, analytic overlay), and set it aside."
-    },
-    {
-     "hu": "Térj vissza a nyers benyomásokhoz, anélkül hogy a magyarázat átvenné az irányítást.",
-     "en": "Return to the raw impressions, without letting the explanation take over."
-    }
-   ],
-   "keret": {
-    "hu": "Ez a megkülönböztetés iskolája: megtanulod, milyen könnyen tölti ki az elme a hézagokat azzal, amit látni akar. A gyakorlás értéke maga a szerénység és az önismeret, nem a találat.",
-    "en": "This is the school of discernment: you learn how easily the mind fills the gaps with what it wants to see. The value lies in the humility and self-knowledge itself, not in a hit."
-   }
-  },
-  {
-   "id": "rvsp-blind-target-session",
-   "mester": "Remote Viewing",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Eter",
-   "cim": {
-    "hu": "Teljes vak célpontos ülés",
-    "en": "A full blind-target session"
-   },
-   "cel": {
-    "hu": "Végigviszel egy teljes, fegyelmezett ülést a semleges jeltől a lezárásig, hogy az egész eljárás egyben megtapasztalható legyen.",
-    "en": "You carry a full, disciplined session from the neutral marker to the close, so the whole procedure can be experienced as one."
-   },
-   "modszer": [
-    {
-     "hu": "Adj magadnak (vagy kérj mástól) egy semleges hivatkozást — egy tetszőleges számsort — egy előre kiválasztott, de most nem nézett célponthoz.",
-     "en": "Give yourself (or ask another for) a neutral reference — any string of numbers — for a target chosen in advance but not looked at now."
-    },
-    {
-     "hu": "Csendesedj el üres lappal, vess egy spontán vonalat, majd gyűjtsd a nyers benyomásokat kategóriánként.",
-     "en": "Grow quiet with a blank page, throw a spontaneous stroke, then gather the raw impressions category by category."
-    },
-    {
-     "hu": "Amint az elméd magyarázni kezd, jelöld külön és tedd félre.",
-     "en": "The moment your mind starts to explain, mark it apart and set it aside."
-    },
-    {
-     "hu": "Zárd le az ülést, és csak UTÁNA nézd meg, mi volt a célpont.",
-     "en": "Close the session, and only AFTERWARDS look at what the target was."
-    }
-   ],
-   "keret": {
-    "hu": "A vak protokoll célja, hogy az elméd ne tudjon előre tippelni — így a benyomásokat nem a várakozás írja. Ez a hagyomány saját, strukturált gyakorlata, nem bizonyított tény, és nem ígér eredményt; a mércéje a figyelem és a megkülönböztetés edzése.",
-    "en": "The point of the blind protocol is that your mind cannot guess in advance — so the impressions are not written by expectation. This is the tradition's own structured practice, not a proven fact, and it promises no result; its measure is the training of attention and discernment."
-   },
-   "etika": {
-    "hu": "Csak önmagadra irányítsd; ne olvass rá megnevezett másik emberre a beleegyezése nélkül. Ha gyakorlás közben parancsoló hangokat hallasz, vagy önmagad vagy mások bántásának késztetését érzed, az orvosi vészhelyzet — azonnal fordulj szakemberhez vagy a sürgősségi szolgálathoz.",
-    "en": "Direct it at yourself alone; do not read a named other person without their consent. If during practice you hear commanding voices, or feel an urge to harm yourself or others, this is a medical emergency — turn at once to a professional or the emergency services."
-   }
-  },
-  {
-   "id": "rvsp-honest-scoring",
-   "mester": "Remote Viewing",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Eter",
-   "cim": {
-    "hu": "Az őszinte önértékelés",
-    "en": "Honest self-scoring"
-   },
-   "cel": {
-    "hu": "Becsületesen mérlegre teszed egy ülés jegyzeteit — mi illett, mi nem, mi volt puszta magyarázat —, mert a tévedés éppolyan értékes adat, mint a találat.",
-    "en": "You honestly weigh a session's notes — what fit, what did not, what was mere explanation — because a miss is data as valuable as a hit."
-   },
-   "modszer": [
-    {
-     "hu": "A lezárt ülés után nyisd meg a célpontot, és tedd magad elé a jegyzeteidet.",
-     "en": "After the closed session, reveal the target, and set your notes before you."
-    },
-    {
-     "hu": "Menj végig soronként, és jelöld becsületesen: mi illett, mi nem illett.",
-     "en": "Go through line by line, and mark honestly: what fit, what did not."
-    },
-    {
-     "hu": "Külön jelöld, ami valójában magyarázat (rávetítés) volt, nem érzékelés.",
-     "en": "Mark separately what was really explanation (overlay), not perception."
-    },
-    {
-     "hu": "Kezeld a tévedést értékes adatként — ez tanít meg a saját elméd szűrőire.",
-     "en": "Treat the miss as valuable data — it is what teaches you your own mind's filters."
-    }
-   ],
-   "keret": {
-    "hu": "A módszer szíve nem a csoda, hanem ez a becsületes mérleg. Enélkül csak önáltatás; ezzel a figyelem és a megkülönböztetés komoly edzése. Nem tényállítás, nem eredményígéret — a mércéje az őszinteség.",
-    "en": "The heart of the method is not the miracle but this honest reckoning. Without it, this is only self-deception; with it, a serious training of attention and discernment. It is no statement of fact and no promise of result — its measure is honesty."
-   }
-  },
-  {
-   "id": "rvsp-grounding-media-hygiene",
+   "sorszam": 1,
+   "id": "rvsp-csend-es-elrendezodes",
    "mester": "Remote Viewing",
    "szint": "kezdo",
    "sik": "test",
    "elem": "Fold",
    "cim": {
-    "hu": "Földelés és médiahigiénia",
-    "en": "Grounding and media hygiene"
+    "hu": "A csend megteremtése és a test elrendezése",
+    "en": "Settling into quiet and grounding the body"
    },
    "cel": {
-    "hu": "A félelem helyett a nyugalmat edzed: egy nyugtalanító hír vagy gondolat áradata után visszahozod a figyelmed a jelenbe.",
-    "en": "You train calm in place of fear: after a flood of unsettling news or thought, you bring your attention back into the present."
+    "hu": "Nyugodt, zavartalan belső kiindulóállapot kialakítása minden gyakorlat elé, hogy a figyelem tiszta és ne feszült legyen.",
+    "en": "Create a calm, undisturbed inner starting state before any exercise, so attention is clear rather than tense."
    },
    "modszer": [
     {
-     "hu": "Ha egy nyugtalanító hír vagy gondolat elárasztott, tedd le a telefont.",
-     "en": "If an unsettling piece of news or thought has flooded you, put the phone down."
+     "hu": "Válassz egy csendes helyet és időt, ahol néhány percig senki és semmi nem szakít félbe.",
+     "en": "Choose a quiet place and time where nothing and no one will interrupt you for a few minutes."
     },
     {
-     "hu": "Érezd a talajt a lábad alatt és a lélegzeted; nevezz meg csendben öt dolgot, amit most, ebben a szobában látsz.",
-     "en": "Feel the ground beneath your feet and your breath; silently name five things you can see right now, in this room."
+     "hu": "Ülj kényelmesen, engedd el a vállad, és vegyél néhány lassú, természetes lélegzetet.",
+     "en": "Sit comfortably, let your shoulders drop, and take a few slow, natural breaths."
     },
     {
-     "hu": "Térj vissza néhány lélegzetvételre a belső menedékedbe.",
-     "en": "Return for a few breaths to your inner sanctuary."
+     "hu": "Vidd a figyelmed a talpad, az ülőfelület és a kezed érzetére, amíg a test megnyugszik.",
+     "en": "Bring attention to the feel of your feet, your seat and your hands until the body settles."
     },
     {
-     "hu": "Kérdezd meg magadtól: mi az egyetlen valós, mai dolog, amit most tehetek? A többi ellenőrizetlen zaj — elengedheted.",
-     "en": "Ask yourself: what is the single real, present thing I can do today? The rest is unverified noise — you may let it go."
+     "hu": "Amikor a sietség érzése alábbhagy, jelezd magadnak, hogy készen állsz a gyakorlásra.",
+     "en": "When the sense of hurry fades, note to yourself that you are ready to begin."
     }
    ],
    "keret": {
-    "hu": "Ha egy tartalom azt állítja, hogy távérzékelők megerősítettek egy közelgő véget, kezeld ellenőrizhetetlen félelemkeltésként. A pontos dátumhoz kötött próféciák újra meg újra tévednek; a hozzájuk tapadó szorongás viszont valódi kárt tesz. A nyugalom is gyakorolható készség — ez a mércéje.",
-    "en": "If a piece of content claims that remote viewers have confirmed a coming end, treat it as unverifiable fear-mongering. Date-bound prophecies fail again and again; the dread that clings to them does real harm. Calm, too, is a trainable skill — that is its measure."
-   },
-   "etika": {
-    "hu": "Nem orvosi vagy pszichológiai tanács. Ha a nyugtalanság elhatalmasodik, vagy önbántás késztetését érzed, azonnal fordulj szakemberhez vagy a sürgősségi szolgálathoz. Válságban lévő emberek számára ez a gyakorlat önmagában nem elég.",
-    "en": "This is not medical or psychological advice. If the distress overwhelms you, or you feel an urge toward self-harm, turn at once to a professional or the emergency services. For people in crisis this practice alone is not enough."
+    "hu": "A hagyomány saját modellje szerint a nyugodt test tisztább belső figyelmet enged; ezt nem tényként állítjuk, hanem a saját tapasztalatod méri: nyugalom, jelenlét, tisztább fej.",
+    "en": "In this tradition's own model a calm body allows clearer inner attention; this is not asserted as fact, it is measured by your own experience of calm, presence and a clearer head."
    }
   },
   {
-   "id": "rvsp-sanctuary-grounding-use",
+   "sorszam": 2,
+   "id": "rvsp-foldeles-felelem-eseten",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Földelés, ha félelem vagy szorongás jön",
+    "en": "Grounding when fear or dread arises"
+   },
+   "cel": {
+    "hu": "Egyszerű testi horgony, amely lecsendesíti a riadalmat, hogy a gyakorlás nyugodt és ne ijedt állapotból induljon.",
+    "en": "A simple bodily anchor that calms alarm, so practice starts from steadiness rather than fright."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor katasztrofikus vagy ijesztő gondolat jelenik meg, állj meg, és nevezd meg magadban: ez félelem.",
+     "en": "When a catastrophic or frightening thought appears, pause and name it inwardly as fear."
+    },
+    {
+     "hu": "Lassítsd a kilégzést, és tedd hosszabbá, mint a belégzést, néhány körön át.",
+     "en": "Slow the out-breath and make it longer than the in-breath for a few rounds."
+    },
+    {
+     "hu": "Sorolj fel csendben öt dolgot, amit most látsz, és hármat, amit hallasz vagy tapintasz.",
+     "en": "Silently name five things you can see now, and three you can hear or touch."
+    },
+    {
+     "hu": "Emlékeztesd magad, hogy egy gondolat vagy jóslat nem esemény, és most biztonságban vagy ebben a percben.",
+     "en": "Remind yourself that a thought or prediction is not an event, and that in this moment you are safe."
+    }
+   ],
+   "keret": {
+    "hu": "Ez nyugtató, jelenléti gyakorlat, nem a jövő megjövendölése; a hagyomány sötét jóslatai itt nem irányadók. A gyümölcse a lecsillapodás, nem a rettegés táplálása.",
+    "en": "This is a calming, present-moment practice, not fortune-telling; the tradition's dark predictions are not treated as guidance here. Its fruit is settling, not feeding dread."
+   },
+   "etika": {
+    "hu": "Nem orvosi és nem pszichológiai kezelés. Tartós szorongás, pánik vagy krízis esetén fordulj szakemberhez; ez a gyakorlat nem helyettesíti az ellátást, és nem gyerekeknek vagy akut krízisben lévőknek szól.",
+    "en": "Not medical or psychological treatment. For lasting anxiety, panic or crisis, seek a professional; this practice does not replace care, and is not for children or people in acute crisis."
+   }
+  },
+  {
+   "sorszam": 3,
+   "id": "rvsp-media-higienia",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Médiahigiénia és a hírfogyasztás mértéke",
+    "en": "Media hygiene and measured news intake"
+   },
+   "cel": {
+    "hu": "Tudatos keret a riasztó tartalmak fogyasztására, hogy a belső érzékelés ne torzuljon állandó vészhangulattá.",
+    "en": "A conscious frame for consuming alarming content, so inner perception is not distorted into constant alarm."
+   },
+   "modszer": [
+    {
+     "hu": "Jelölj ki egy rövid, meghatározott időt a hírekre, ahelyett hogy egész nap sodródnál velük.",
+     "en": "Set a short, defined time for news instead of drifting through it all day."
+    },
+    {
+     "hu": "Vedd észre, amikor egy tartalom sürgetést, félelmet vagy végítélet-hangulatot próbál kelteni, és nevezd meg ezt magadban.",
+     "en": "Notice when content is trying to create urgency, fear or doom, and name that to yourself."
+    },
+    {
+     "hu": "Zárás után szánj egy percet földelésre, mielőtt bármi máshoz kezdesz.",
+     "en": "After finishing, take a minute to ground yourself before moving on."
+    },
+    {
+     "hu": "Este kerüld a riasztó tartalmakat, hogy az alvásod és a nyugalmad ne sérüljön.",
+     "en": "Avoid alarming content late in the evening so your sleep and calm are protected."
+    }
+   ],
+   "keret": {
+    "hu": "Ez higiéniai szokás a figyelem védelmére, nem a világ eseményeinek tagadása; a cél a nyugodt tisztánlátás, nem a félelem. A gyümölcse méri: kevesebb sodródás, több belső egyensúly.",
+    "en": "This is a hygiene habit protecting attention, not denial of world events; the aim is calm clarity, not fear. It is measured by its fruit: less drift, more inner balance."
+   }
+  },
+  {
+   "sorszam": 4,
+   "id": "rvsp-belso-menedek-megalapozasa",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A belső menedék megalapozása",
+    "en": "Establishing the inner sanctuary"
+   },
+   "cel": {
+    "hu": "Egy belső, képzeletbeli hely kialakítása, ahol biztonságban és nyugodtan érzed magad, és amelyhez bármikor visszatérhetsz.",
+    "en": "Build an inner, imagined place where you feel safe and calm, and to which you can return at any time."
+   },
+   "modszer": [
+    {
+     "hu": "Csukott szemmel engedd, hogy megjelenjen egy hely, ahol jól és biztonságban érzed magad; ne erőltesd, hagyd kibontakozni.",
+     "en": "With eyes closed, let a place appear where you feel well and safe; do not force it, let it emerge."
+    },
+    {
+     "hu": "Figyeld meg a tág vonalait: kültér vagy beltér, tágas vagy zárt, világos vagy árnyékos.",
+     "en": "Notice its broad shape: outdoors or indoors, open or enclosed, bright or shaded."
+    },
+    {
+     "hu": "Állj meg a hely közepén, és érezd, ahogy a talaj vagy a padló megtart.",
+     "en": "Stand at the centre of the place and feel the ground or floor holding you."
+    },
+    {
+     "hu": "Mielőtt kilépsz, jegyezd meg, milyen érzés volt ott lenni, hogy legközelebb könnyebben visszatalálj.",
+     "en": "Before leaving, note how it felt to be there, so you can return more easily next time."
+    }
+   ],
+   "keret": {
+    "hu": "A belső menedék a hagyomány saját belső eszköze: a képzelet és a nyugalom gyakorlása, nem valós hely és nem menekülési terv. A gyümölcse az élénkebb képzelet és a biztonságérzet.",
+    "en": "The inner sanctuary is this tradition's own inner tool: a practice of imagination and calm, not a real location or an escape plan. Its fruit is livelier imagination and a felt sense of safety."
+   }
+  },
+  {
+   "sorszam": 5,
+   "id": "rvsp-menedek-viz-kepe",
    "mester": "Remote Viewing",
    "szint": "kezdo",
    "sik": "lelek",
    "elem": "Viz",
    "cim": {
-    "hu": "A menedék mint gyors földelés",
-    "en": "The sanctuary as quick grounding"
+    "hu": "Víz képe a menedékben",
+    "en": "Water imagery in the sanctuary"
    },
    "cel": {
-    "hu": "Egy feszült pillanatban néhány lélegzetvételnyi visszatéréssel a belső menedékbe lecsendesíted az idegrendszered és összeszeded a figyelmed.",
-    "en": "In a tense moment, a few breaths' return to the inner sanctuary calms your nervous system and gathers your attention."
+    "hu": "A belső menedék elmélyítése egy nyugodt vízfelület képével, amely a béke és a felfrissülés érzetét hordozza.",
+    "en": "Deepen the inner sanctuary with the image of calm water that carries a sense of peace and refreshment."
    },
    "modszer": [
     {
-     "hu": "Egy feszült perc vagy nyugtalan gondolatok közepette állj meg, és végy egy lassú lélegzetet.",
-     "en": "In a tense minute or amid restless thoughts, pause and take a slow breath."
+     "hu": "Helyezz a menedékedbe egy vizet: tavat, patakot, forrást vagy tengert, amelyik jólesik.",
+     "en": "Place water in your sanctuary: a lake, stream, spring or sea, whichever feels good."
     },
     {
-     "hu": "Lépj be gondolatban a már felépített belső menedékedbe.",
-     "en": "Step in thought into the inner sanctuary you have already built."
+     "hu": "Figyeld a víz mozgását, hangját és fényét, és engedd, hogy megnyugtasson.",
+     "en": "Watch the water's movement, sound and light, and let it soothe you."
     },
     {
-     "hu": "Idézd fel néhány érzékét — egy hangot, egy illatot, a talajt a lábad alatt —, amíg a nyugalom elér.",
-     "en": "Recall a few of its senses — a sound, a scent, the ground beneath your feet — until the calm reaches you."
+     "hu": "Vegyél néhány lélegzetet a víz ritmusára hangolódva.",
+     "en": "Take a few breaths, tuning to the rhythm of the water."
     },
     {
-     "hu": "Amikor a figyelmed újra a jelenben van, térj vissza a feladatodhoz.",
-     "en": "When your attention is back in the present, return to your task."
+     "hu": "Engedd, hogy a nyugalom érzete kísérjen, amikor kilépsz a képből.",
+     "en": "Let the feeling of calm stay with you as you step out of the image."
     }
    ],
    "keret": {
-    "hu": "Minél többször térsz vissza ugyanoda, annál gyorsabban szilárdul meg a hely, és annál hamarabb elér a nyugalom. Ez egyszerű benső eszköz a mai naphoz, nem menekülés a valóság elől; a mércéje a visszatérő nyugalom.",
-    "en": "The more often you return to the same place, the faster it sets, and the sooner calm reaches you. This is a simple inner tool for this day, not a flight from reality; its measure is the returning calm."
-   },
-   "etika": {
-    "hu": "Nem orvosi vagy pszichológiai tanács, és nem helyettesíti az ellátást. Válságban lévő emberek és gyermekek számára ez a gyakorlat nem alkalmas.",
-    "en": "This is not medical or psychological advice, and it does not replace care. This practice is not suitable for children or for people in crisis."
+    "hu": "Ez képzeleti és nyugtató gyakorlat; a víz itt jelkép, nem valós erőforrás felkutatása. A hagyomány saját modellje szerint a képek belső állapotot formálnak, amit a nyugalmad mér.",
+    "en": "This is imaginative and calming; the water here is a symbol, not the seeking of a real resource. In this tradition's own model images shape inner state, measured by your calm."
    }
   },
   {
-   "id": "rvsp-ethical-boundaries",
+   "sorszam": 6,
+   "id": "rvsp-menedek-elo-noveny",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Élő, növekvő dolgok a menedékben",
+    "en": "Living, growing things in the sanctuary"
+   },
+   "cel": {
+    "hu": "A belső menedék gazdagítása élő növényzet és növekedés képével, amely a bőség és a gondoskodás nyugodt érzetét adja.",
+    "en": "Enrich the inner sanctuary with images of living plants and growth that give a calm sense of abundance and care."
+   },
+   "modszer": [
+    {
+     "hu": "Idézz fel a menedékedben növényeket: fűvet, fákat, kertet vagy gyümölcsöt, ami táplálónak érződik.",
+     "en": "Bring plants into your sanctuary: grass, trees, a garden or fruit that feels nourishing."
+    },
+    {
+     "hu": "Figyeld a színeket, a formákat és a növekedés csendes folyamatát.",
+     "en": "Notice the colours, shapes and the quiet process of growth."
+    },
+    {
+     "hu": "Érezd, hogy a hely eltart és körülvesz, mintha része lennél egy élő körforgásnak.",
+     "en": "Feel the place sustaining and surrounding you, as if part of a living cycle."
+    },
+    {
+     "hu": "Zárásként vidd magaddal a gondoskodás és bőség belső érzetét.",
+     "en": "To close, carry with you the inner sense of care and abundance."
+    }
+   ],
+   "keret": {
+    "hu": "A növekedés itt belső kép a nyugalomért és a bőségérzetért, nem élelmiszer-felhalmozás vagy túlélési terv. A gyümölcse a képzelet gazdagsága és a nyugodt jelenlét.",
+    "en": "Growth here is an inner image for calm and a sense of plenty, not stockpiling food or a survival plan. Its fruit is richness of imagination and calm presence."
+   }
+  },
+  {
+   "sorszam": 7,
+   "id": "rvsp-menedek-feny-melege",
    "mester": "Remote Viewing",
    "szint": "kezdo",
    "sik": "lelek",
+   "elem": "Tuz",
    "cim": {
-    "hu": "Az etikai határok rögzítése",
-    "en": "Fixing the ethical boundaries"
+    "hu": "Fény és meleg a menedékben",
+    "en": "Light and warmth in the sanctuary"
    },
    "cel": {
-    "hu": "Tudatosan elfogadod és rögzíted azokat a határokat, amelyek nélkül a belső gyakorlat kárt okozhat — hogy a gyakorlás mindig önismeret maradjon.",
-    "en": "You consciously accept and fix the boundaries without which the inner practice could do harm — so that the practice always stays self-knowledge."
+    "hu": "A menedék kiegészítése a fény és a kellemes meleg érzetével, amely a komfort és a biztonság hangulatát erősíti.",
+    "en": "Complete the sanctuary with a sense of light and pleasant warmth that strengthens comfort and safety."
    },
    "modszer": [
     {
-     "hu": "Mondd ki magadnak: a gyakorlás csak önmagamra irányul; megnevezett másikat a beleegyezése nélkül nem olvasok.",
-     "en": "Say to yourself: the practice is self-directed only; I do not read a named other without their consent."
+     "hu": "Engedj be a menedékbe egy fényforrást: napfényt, parazsat vagy lágy ragyogást, ami jólesik.",
+     "en": "Let a source of light into the sanctuary: sunlight, embers or a soft glow that feels good."
     },
     {
-     "hu": "Rögzítsd: nem keresek eltűnt embereket, holttesteket vagy áldozatokat, és nem küldök \"koordinátákat\" senkinek.",
-     "en": "Fix it: I do not search for missing people, bodies or victims, and I send no \"coordinates\" to anyone."
+     "hu": "Érezd a meleget a bőrödön és a hely körül, ahogy oldódik a feszültség.",
+     "en": "Feel the warmth on your skin and around the place as tension eases."
     },
     {
-     "hu": "Rögzítsd: nincs szerencsejáték, tőzsde, fogadás vagy haszonszerzés, és nincs végítélet-jóslás vagy félelemből fakadó felhalmozás.",
-     "en": "Fix it: no gambling, trading, betting or gain-seeking, and no doomsday prophecy or fear-driven stockpiling."
+     "hu": "Hagyd, hogy a fény szelíden bevilágítsa a menedék részleteit.",
+     "en": "Let the light gently reveal the details of the sanctuary."
     },
     {
-     "hu": "Térj vissza ehhez a listához, valahányszor a gyakorlás ezeken a határokon túllépni csábít.",
-     "en": "Return to this list whenever the practice tempts you to step past these boundaries."
+     "hu": "Vidd magaddal a meleg, oltalmazó érzetet, amikor visszatérsz a jelenbe.",
+     "en": "Carry the warm, sheltering feeling with you as you return to the present."
     }
    ],
    "keret": {
-    "hu": "Ez a modul legfontosabb lecke: a belső gyakorlat csak addig ártalmatlan, amíg tiszteletben tartja a határokat. A szabad akaratot sérthetetlennek tekintjük; a mércéje az, hogy a gyakorlás önismeret marad, nem hatalomvágy.",
-    "en": "This is the module's most important lesson: the inner practice stays harmless only so long as it honours the boundaries. Free will is held inviolable; its measure is that the practice stays self-knowledge, not a hunger for power."
+    "hu": "A fény és meleg itt képzeleti komfort-jelkép, nem valós tűz. A hagyomány saját belső eszköze, amit a nyugalmad és a biztonságérzeted mér.",
+    "en": "Light and warmth here are an imagined symbol of comfort, not a real fire. This is an inner tool of the tradition, measured by your calm and sense of safety."
    },
    "etika": {
-    "hu": "Ne irányítsd megnevezett másikra a beleegyezése nélkül — se szeretteidre, se idegenekre. Eltűnt emberek keresése jó szándék ellenére is valódi kárt okoz: hamis reményt, téves nyomozati irányt, újratraumatizálást. Ez nem a te feladatod, és a módszer erre nem alkalmas.",
-    "en": "Do not direct it at a named other without their consent — not loved ones, not strangers. Searching for missing people does real harm despite good intentions: false hope, misdirected investigations, re-traumatization. It is not your task, and the method is not fit for it."
+    "hu": "Ha a gyakorlathoz valós gyertyát vagy lángot használnál, tartsd be a tűzbiztonságot: felügyelet nélkül soha, éghető anyagoktól távol, alvás előtt eloltva. A képzeleti változat teljesen elég.",
+    "en": "If you use a real candle or flame alongside this, follow fire safety: never unattended, away from anything flammable, extinguished before sleep. The imagined version is entirely sufficient."
    }
   },
   {
-   "id": "rvsp-patient-calibration",
+   "sorszam": 8,
+   "id": "rvsp-ot-erzek-elmelyites",
    "mester": "Remote Viewing",
-   "szint": "mester",
-   "sik": "szellem",
-   "elem": "Ido",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Materia Prima",
    "cim": {
-    "hu": "Türelmes kalibráció több ülésen át",
-    "en": "Patient calibration across sessions"
+    "hu": "Elmélyítés az öt érzékkel",
+    "en": "Deepening with the five senses"
    },
    "cel": {
-    "hu": "Több ülés jegyzetét összevetve türelmesen feltérképezed, hol pontos az érzékelésed és hol téveszt az elméd — visszajelzésből, nem várakozásból.",
-    "en": "By comparing the notes of several sessions you patiently map where your perception is accurate and where your mind misleads you — from feedback, not expectation."
+    "hu": "A belső menedék élénkebbé és stabilabbá tétele azzal, hogy tudatosan mind az öt érzéket bevonod a képbe.",
+    "en": "Make the inner sanctuary more vivid and stable by consciously involving all five senses."
    },
    "modszer": [
     {
-     "hu": "Vezess naplót több vak célpontos ülésről, mindegyiket lezárva és őszintén értékelve.",
-     "en": "Keep a journal of several blind-target sessions, each closed and honestly scored."
+     "hu": "Térj vissza a menedékedbe, és először vedd sorra, mit látsz: színek, fények, formák.",
+     "en": "Return to your sanctuary and first take in what you see: colours, light, shapes."
     },
     {
-     "hu": "Időről időre olvasd vissza őket együtt, és keress mintázatokat: mely kategóriáid megbízhatóbbak, hol jelenik meg gyakran a rávetítés.",
-     "en": "From time to time read them back together, and look for patterns: which categories are more reliable, where overlay recurs."
+     "hu": "Figyelj a hangokra, majd a szagokra és ízekre, amelyek a helyhez tartoznak.",
+     "en": "Attend to sounds, then to smells and tastes that belong to the place."
     },
     {
-     "hu": "Jegyezd fel, mit tanított meg a saját elméd szűrőiről — türelmesen, sietség nélkül.",
-     "en": "Note what it has taught you about your own mind's filters — patiently, without haste."
+     "hu": "Végül a tapintásra: a levegő, a felületek és a hőmérséklet érzete.",
+     "en": "Finally to touch: the feel of the air, of surfaces and of temperature."
     },
     {
-     "hu": "Engedd, hogy a kalibráció lassan, sok ülésen át finomodjon; ne várj gyors eredményt.",
-     "en": "Let the calibration refine slowly, over many sessions; expect no quick result."
+     "hu": "Engedd, hogy az érzékek együtt egyetlen élénk, összefüggő élménnyé álljanak össze.",
+     "en": "Let the senses come together into one vivid, coherent experience."
     }
    ],
    "keret": {
-    "hu": "A blind protokoll és az őszinte önértékelés miatt idővel valódi visszajelzést kapsz — ez a megkülönböztetés iskolája. A kalibráció önmagában nem bizonyítja, hogy a távérzékelés működik; a mércéje a türelem, az őszinteség és az egyre finomabb önismeret.",
-    "en": "Because of the blind protocol and honest self-scoring you receive real feedback over time — this is the school of discernment. Calibration in itself does not prove that remote viewing works; its measure is patience, honesty and ever-finer self-knowledge."
+    "hu": "Az érzékszervi elmélyítés a képzelet edzése; a hagyomány saját gyakorlata, amelyet az élénkség, az összeszedettség és a belső stabilitás mér, nem valóságos érzékelésként.",
+    "en": "Sensory deepening trains imagination; it is the tradition's own practice, measured by vividness, focus and inner stability, not treated as real perception."
+   }
+  },
+  {
+   "sorszam": 9,
+   "id": "rvsp-szereny-valos-kep",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A kép maradjon szerény és valósághű",
+    "en": "Letting the image stay modest and realistic"
+   },
+   "cel": {
+    "hu": "Annak gyakorlása, hogy a belső menedék olyan legyen, amilyen valóban jólesik, ne pedig egy elérhetetlen, nagyszabású elvárás.",
+    "en": "Practice letting the inner sanctuary be what truly feels good, rather than a grand, unreachable ideal."
+   },
+   "modszer": [
+    {
+     "hu": "Térj vissza a menedékbe, és figyeld meg, milyen léptékű hely érződik igazán megnyugtatónak.",
+     "en": "Return to the sanctuary and notice what scale of place actually feels soothing."
+    },
+    {
+     "hu": "Ha a kép szerény és egyszerű, fogadd el ilyennek; a nyugalom nem a nagyságtól függ.",
+     "en": "If the image is modest and simple, accept it as such; calm does not depend on grandeur."
+    },
+    {
+     "hu": "Engedd el a versengő elvárást, hogy a helynek látványosnak vagy tökéletesnek kellene lennie.",
+     "en": "Release any competing expectation that the place should be impressive or perfect."
+    },
+    {
+     "hu": "Jegyezd fel, mi tette igazán nyugodttá a helyet, függetlenül a méretétől.",
+     "en": "Note what genuinely made the place calm, regardless of its size."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány úgy tartja, hogy a belső kép megmutathat valamit rólad; ezt itt nem tényként, hanem önismereti tükörként kezeljük, amelyet az őszinteséged és a nyugalmad mér.",
+    "en": "The tradition holds that the inner image may reveal something about you; here it is treated not as fact but as a mirror for self-knowledge, measured by your honesty and calm."
+   }
+  },
+  {
+   "sorszam": 10,
+   "id": "rvsp-napi-visszateres",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Napi visszatérés a menedékbe",
+    "en": "Daily return to the sanctuary"
+   },
+   "cel": {
+    "hu": "A menedék rendszeres, rövid felkeresése, hogy megbízható belső horgonnyá váljon a nyugalomhoz.",
+    "en": "Visit the sanctuary regularly and briefly, so it becomes a reliable inner anchor for calm."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy napi alkalmat, amikor egy-két percre felidézed a menedéket.",
+     "en": "Choose a daily moment to recall the sanctuary for a minute or two."
+    },
+    {
+     "hu": "Lépj be a már ismerős helyre, és néhány lélegzeten át csak legyél ott.",
+     "en": "Enter the now-familiar place and simply be there for a few breaths."
+    },
+    {
+     "hu": "Figyeld meg, mennyivel gyorsabban jelenik meg a kép a gyakorlással.",
+     "en": "Notice how much faster the image appears with practice."
+    },
+    {
+     "hu": "Kilépéskor vidd magaddal a nyugalom egy darabját a hétköznapokba.",
+     "en": "As you leave, carry a piece of the calm into your ordinary day."
+    }
+   ],
+   "keret": {
+    "hu": "A rendszeresség a hagyomány szerint erősíti a belső horgonyt; ezt a saját tapasztalatod méri: könnyebb elérés, mélyebb nyugalom, nem külső hatás.",
+    "en": "Regularity, in the tradition's view, strengthens the inner anchor; this is measured by your own experience of easier access and deeper calm, not any outward effect."
+   }
+  },
+  {
+   "sorszam": 11,
+   "id": "rvsp-hordozhato-menedek",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Hordozható menedék néhány lélegzetben",
+    "en": "A portable refuge in a few breaths"
+   },
+   "cel": {
+    "hu": "A menedék lerövidítése egy pár másodperces belső gesztussá, amelyet bárhol, feszült helyzetben is elő tudsz hívni.",
+    "en": "Condense the sanctuary into a few-second inner gesture you can invoke anywhere, even in a tense moment."
+   },
+   "modszer": [
+    {
+     "hu": "Válaszd ki a menedéked egyetlen legerősebb elemét: egy képet, hangot vagy érzetet.",
+     "en": "Choose the single strongest element of your sanctuary: an image, sound or feeling."
+    },
+    {
+     "hu": "Kösd össze egy lassú lélegzettel, hogy a kettő együtt idéződjön fel.",
+     "en": "Link it to one slow breath, so the two arise together."
+    },
+    {
+     "hu": "Gyakorold nyugodt helyzetben, amíg a lélegzet önmagában előhívja a nyugalmat.",
+     "en": "Practise it while calm, until the breath alone brings the calm."
+    },
+    {
+     "hu": "Feszült pillanatban vegyél egy ilyen lélegzetet, és engedd, hogy a horgony megjelenjen.",
+     "en": "In a tense moment, take one such breath and let the anchor appear."
+    }
+   ],
+   "keret": {
+    "hu": "Ez egy gyors földelő gesztus a nyugalomért, nem menekülés a valóság elől és nem vészhelyzeti terv. A gyümölcse a gyorsabb lecsillapodás.",
+    "en": "This is a quick grounding gesture for calm, not an escape from reality or an emergency plan. Its fruit is faster settling."
+   },
+   "etika": {
+    "hu": "Valós veszélyben vagy sürgősségi helyzetben mindig a tényleges biztonságod és a szakszerű segítség az első; ez a gyakorlat a nyugalmat támogatja, nem helyettesíti a valós intézkedést.",
+    "en": "In real danger or an emergency, your actual safety and professional help come first; this practice supports calm, it does not replace real action."
+   }
+  },
+  {
+   "sorszam": 12,
+   "id": "rvsp-menedek-mint-horgony",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A menedék mint horgony a gyakorlás előtt",
+    "en": "The sanctuary as a pre-session anchor"
+   },
+   "cel": {
+    "hu": "A menedék felhasználása arra, hogy a naplózó vagy érzékelő gyakorlás előtt letisztuljon és elcsendesedjen a figyelem.",
+    "en": "Use the sanctuary to clear and quiet attention before a journaling or perceiving session."
+   },
+   "modszer": [
+    {
+     "hu": "Mielőtt vak célpontot vagy naplózást kezdesz, lépj be röviden a menedékbe.",
+     "en": "Before a blind target or journaling, step briefly into the sanctuary."
+    },
+    {
+     "hu": "Engedd, hogy a sietség és a várakozás lecsöndesedjen ott.",
+     "en": "Let hurry and expectation quiet down there."
+    },
+    {
+     "hu": "Amikor a fej tiszta, lépj ki, és hozd magaddal a nyugodt figyelmet a gyakorláshoz.",
+     "en": "When the head is clear, step out and bring the calm attention to the practice."
+    },
+    {
+     "hu": "A gyakorlás után rövid visszatéréssel zárhatsz is, hogy elrendeződj.",
+     "en": "You may also close with a brief return afterwards to settle."
+    }
+   ],
+   "keret": {
+    "hu": "A horgony a hagyomány szerint tisztább kiindulást ad; ezt nem eredménygaranciaként, hanem a saját összeszedettséged jeleként kezeljük.",
+    "en": "The anchor, in the tradition's view, gives a clearer start; it is treated not as a guarantee of results but as a sign of your own composure."
+   }
+  },
+  {
+   "sorszam": 13,
+   "id": "rvsp-vak-celpont-elokeszitese",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Materia Prima",
+   "cim": {
+    "hu": "Vak gyakorlócélpont előkészítése",
+    "en": "Preparing a blind practice target"
+   },
+   "cel": {
+    "hu": "Egy egyszerű, önirányított vak-célpont rendszer felállítása, ahol nem tudod előre, mi a célpont, és utólag ellenőrizheted magad.",
+    "en": "Set up a simple, self-directed blind-target system where you do not know the target in advance and can check yourself afterwards."
+   },
+   "modszer": [
+    {
+     "hu": "Kérj meg valakit, vagy előre válassz több képet, és zárj le egyet borítékba úgy, hogy ne lásd.",
+     "en": "Ask someone, or preselect several images, and seal one in an envelope without seeing it."
+    },
+    {
+     "hu": "Rendelj a borítékhoz egy semleges címkét: egy véletlen számsort, amely nem árul el semmit a tartalomról.",
+     "en": "Assign the envelope a neutral label: a random string of numbers that reveals nothing about the content."
+    },
+    {
+     "hu": "Készíts elő papírt és tollat a benyomások rögzítéséhez.",
+     "en": "Prepare paper and pen to record impressions."
+    },
+    {
+     "hu": "Tedd félre a borítékot úgy, hogy csak a leírás után nyisd ki.",
+     "en": "Set the envelope aside to open only after the writing is done."
+    }
+   ],
+   "keret": {
+    "hu": "A vak célpont a hagyomány önellenőrző játéka: a figyelem, a képzelet és az őszinteség edzése, nem rejtett dolgok bizonyított érzékelése. Az eredményt önmagaddal szemben becsületesen méred.",
+    "en": "The blind target is the tradition's self-checking game: training of attention, imagination and honesty, not proven perception of hidden things. You score it honestly against yourself."
+   },
+   "etika": {
+    "hu": "Csak önirányított, semleges gyakorlócélpontokat használj. Ne célozz beazonosítható élő személyeket a beleegyezésük nélkül, és ne használd eltűnt emberek, nyereség vagy szerencsejáték céljára.",
+    "en": "Use only self-directed, neutral practice targets. Do not target identifiable living people without consent, and do not use this to find missing persons or for profit or gambling."
+   }
+  },
+  {
+   "sorszam": 14,
+   "id": "rvsp-semleges-cimke",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Nyitás semleges hivatkozási címkével",
+    "en": "Opening with a neutral reference tag"
+   },
+   "cel": {
+    "hu": "A gyakorlás kezdése egy tartalom nélküli címkével, amely csak arra szolgál, hogy a figyelmet a rejtett célpontra irányítsa.",
+    "en": "Begin the session with a content-free tag whose only role is to point attention at the hidden target."
+   },
+   "modszer": [
+    {
+     "hu": "Írd a lap tetejére a boríték semleges számsorát.",
+     "en": "Write the envelope's neutral number string at the top of the page."
+    },
+    {
+     "hu": "Ne próbálj jelentést olvasni a számokból; ezek csak egy címke.",
+     "en": "Do not try to read meaning into the numbers; they are only a label."
+    },
+    {
+     "hu": "Tartsd a figyelmed lazán a címkén, és engedd, hogy az első benyomások maguktól jöjjenek.",
+     "en": "Hold attention loosely on the tag and let first impressions arise on their own."
+    },
+    {
+     "hu": "Ne várj el konkrét témát; maradj nyitott és üres.",
+     "en": "Do not expect a particular theme; stay open and blank."
+    }
+   ],
+   "keret": {
+    "hu": "A címke a hagyomány szerint a figyelem semleges kapcsolója; nem tulajdonítunk neki erőt tényként, csak a fókuszálás eszközeként használjuk. A gyümölcs a nyitott, ítéletmentes figyelem.",
+    "en": "The tag, in the tradition, is a neutral switch for attention; we do not assert it has power as fact, only use it as a focusing device. The fruit is open, non-judging attention."
+   }
+  },
+  {
+   "sorszam": 15,
+   "id": "rvsp-spontan-elso-vonas",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A spontán első vonás",
+    "en": "The spontaneous first mark"
+   },
+   "cel": {
+    "hu": "Egy gyors, gondolkodás nélküli tollvonás rögzítése a gyakorlás elején, amely oldja a fej görcsét és beindítja az érzékelést.",
+    "en": "Make a quick, thoughtless pen-stroke at the start of the session, loosening the mind and beginning the perceiving."
+   },
+   "modszer": [
+    {
+     "hu": "A címke felírása után engedd, hogy a kezed egy gyors, spontán vonalat húzzon a lapra.",
+     "en": "After writing the tag, let your hand make a quick, spontaneous line on the page."
+    },
+    {
+     "hu": "Ne tervezd meg és ne javítsd; hagyd, hogy a mozdulat magától jöjjön.",
+     "en": "Do not plan or correct it; let the movement come by itself."
+    },
+    {
+     "hu": "Figyeld meg, milyen érzet, forma vagy szó tapad a vonáshoz, és jegyezd fel röviden.",
+     "en": "Notice any feeling, shape or word that clings to the stroke, and note it briefly."
+    },
+    {
+     "hu": "Lépj tovább anélkül, hogy értelmezni próbálnád.",
+     "en": "Move on without trying to interpret it."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a spontán mozdulat a hagyomány indító gesztusa a fej kikapcsolására; belső technika, amit az oldottság és a spontaneitás mér, nem rejtett igazság közvetlen jele.",
+    "en": "This spontaneous movement is the tradition's opening gesture to disengage the mind; it is an inner technique measured by looseness and spontaneity, not a direct sign of hidden truth."
+   }
+  },
+  {
+   "sorszam": 16,
+   "id": "rvsp-erzekelj-es-rogzits",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A benyomások rögzítése ítélkezés nélkül",
+    "en": "Noting impressions without judging them"
+   },
+   "cel": {
+    "hu": "Az alapfegyelem gyakorlása: nyitott, elvárás nélküli figyelemmel jegyzed fel, ami megjelenik, anélkül hogy közben megítélnéd vagy átfogalmaznád.",
+    "en": "Practise the core discipline: with open, expectation-free attention, note what appears without judging or rephrasing it as you go."
+   },
+   "modszer": [
+    {
+     "hu": "Indulj oldott, elvárás nélküli figyelemmel.",
+     "en": "Begin with a loose, expectation-free attention."
+    },
+    {
+     "hu": "Írj vagy rajzolj le minden benyomást, ahogy jön: formák, színek, textúrák, szavak.",
+     "en": "Write or draw each impression as it comes: shapes, colours, textures, words."
+    },
+    {
+     "hu": "Ne javíts, ne magyarázz, ne rangsorolj; a rögzítés a feladat, nem az értékelés.",
+     "en": "Do not correct, explain or rank; recording is the task, not evaluation."
+    },
+    {
+     "hu": "Ha elakadsz, vegyél egy lélegzetet, és engedd, hogy a következő benyomás jöjjön.",
+     "en": "If you stall, take a breath and let the next impression arrive."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az elemzés elrontja a nyers benyomást; ezt önfegyelmi gyakorlatként kezeljük, amit az összeszedettség és a nyitottság mér, nem a találatok bizonyítékaként.",
+    "en": "The tradition holds that analysis spoils the raw impression; this is treated as a discipline of self-restraint, measured by focus and openness, not as proof of hits."
+   }
+  },
+  {
+   "sorszam": 17,
+   "id": "rvsp-ulesek-kozotti-szunet",
+   "mester": "Remote Viewing",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Szünet két ülés között",
+    "en": "A pause between sessions"
+   },
+   "cel": {
+    "hu": "A gyakorlások közötti pihenő beiktatása, hogy a figyelem felfrissüljön, és egyik ülés benyomásai ne folyjanak át a másikba.",
+    "en": "Insert a rest between sessions so attention refreshes and impressions from one do not bleed into the next."
+   },
+   "modszer": [
+    {
+     "hu": "Egy ülés lezárása után tarts legalább egy rövid, néhány tíz perces szünetet.",
+     "en": "After closing a session, take at least a short break of a good many minutes."
+    },
+    {
+     "hu": "A szünetben csinálj valami mást; ne pörgesd tovább az előző célpontot.",
+     "en": "During the break do something else; do not keep churning the previous target."
+    },
+    {
+     "hu": "Mielőtt újat kezdesz, ellenőrizd, hogy a fejed valóban letisztult-e.",
+     "en": "Before starting another, check that your head has genuinely cleared."
+    },
+    {
+     "hu": "Csak akkor folytasd, ha frissnek és nyitottnak érzed magad.",
+     "en": "Continue only when you feel fresh and open."
+    }
+   ],
+   "keret": {
+    "hu": "A ritmus és a pihenő a hagyomány gyakorlati tanácsa a tisztább figyelemhez; a gyümölcse a frissesség, nem valamiféle külső hatás.",
+    "en": "Pacing and rest are the tradition's practical advice for clearer attention; its fruit is freshness, not any outward effect."
+   },
+   "etika": {
+    "hu": "Ne told túl a gyakorlást fáradtan vagy alváshiányosan; a pihenés és az alvás egészsége fontosabb, mint a több ülés.",
+    "en": "Do not push practice while tired or sleep-deprived; the health of rest and sleep matters more than more sessions."
+   }
+  },
+  {
+   "sorszam": 18,
+   "id": "rvsp-erzekszervi-benyomasok",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "test",
+   "elem": "Materia Prima",
+   "cim": {
+    "hu": "Érzékszervi benyomások külön rögzítése",
+    "en": "Recording sensory impressions separately"
+   },
+   "cel": {
+    "hu": "A célpont érzékszervi jegyeinek tudatos, elkülönített gyűjtése: textúrák, formák, színek, hőmérséklet, hangok.",
+    "en": "Consciously collect the target's sensory qualities in a separate strand: textures, shapes, colours, temperature, sounds."
+   },
+   "modszer": [
+    {
+     "hu": "Nyiss a lapon egy külön részt kifejezetten az érzékszervi jegyeknek.",
+     "en": "Open a separate part of the page just for sensory qualities."
+    },
+    {
+     "hu": "Sorra vedd az érzékeket, és jegyezz fel minden nyers benyomást egyszerű szavakkal.",
+     "en": "Go through the senses and note each raw impression in simple words."
+    },
+    {
+     "hu": "Kerüld a tárgyak megnevezését; maradj a jegyeknél, például kemény, sima, meleg, világos.",
+     "en": "Avoid naming objects; stay with qualities such as hard, smooth, warm, bright."
+    },
+    {
+     "hu": "Hagyd, hogy a jegyek felhalmozódjanak, mielőtt bármit egésszé állítanál össze.",
+     "en": "Let the qualities accumulate before assembling anything into a whole."
+    }
+   ],
+   "keret": {
+    "hu": "Az érzékszervi rétegek külön kezelése a hagyomány módszertani fogása a tisztább benyomásért; belső technika, amit a részletgazdagság és az érzékenység mér.",
+    "en": "Keeping sensory strands separate is the tradition's method for cleaner impressions; an inner technique measured by richness of detail and sensitivity."
+   }
+  },
+  {
+   "sorszam": 19,
+   "id": "rvsp-erzelmi-tonus",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Az érzelmi tónus rögzítése",
+    "en": "Recording the emotional tone"
+   },
+   "cel": {
+    "hu": "A célponthoz kapcsolódó érzelmi színezet külön feljegyzése, ami gyakran a tartalom fontos része.",
+    "en": "Separately note the emotional colouring attached to the target, often an important part of its content."
+   },
+   "modszer": [
+    {
+     "hu": "Nyiss egy külön részt az érzelmi benyomásoknak.",
+     "en": "Open a separate part for emotional impressions."
+    },
+    {
+     "hu": "Figyeld meg, milyen hangulat vagy érzés társul a célponthoz: nyugodt, feszült, emelkedett, nyomott.",
+     "en": "Notice what mood or feeling accompanies the target: calm, tense, uplifted, heavy."
+    },
+    {
+     "hu": "Jegyezd fel az érzést anélkül, hogy magyaráznád, honnan ered.",
+     "en": "Note the feeling without explaining where it comes from."
+    },
+    {
+     "hu": "Ha az érzés erős, vegyél egy földelő lélegzetet, mielőtt folytatod.",
+     "en": "If the feeling is strong, take a grounding breath before continuing."
+    }
+   ],
+   "keret": {
+    "hu": "Az érzelmi tónus a hagyomány szerint a benyomás része; itt belső érzékenységi gyakorlatként kezeljük, amit a figyelmed finomsága mér, nem külső tényként.",
+    "en": "Emotional tone is, in the tradition, part of the impression; here it is treated as an inner sensitivity practice, measured by the fineness of your attention, not as external fact."
+   },
+   "etika": {
+    "hu": "Ha egy benyomás erős szorongást vagy zaklatottságot kelt, állj meg és földelj; a gyakorlás sosem előbbrevaló a saját nyugalmadnál.",
+    "en": "If an impression stirs strong anxiety or distress, stop and ground; practice never comes before your own calm."
+   }
+  },
+  {
+   "sorszam": 20,
+   "id": "rvsp-elemzo-ravetites-felismerese",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Az elemző elme rávetítéseinek felismerése",
+    "en": "Recognizing the analysing mind's guesses"
+   },
+   "cel": {
+    "hu": "Annak megtanulása, hogy felismerd, amikor az elméd kész magyarázatot vagy tárgyat vetít a nyers benyomásra, és félretedd azt.",
+    "en": "Learn to recognize when your mind projects a ready-made explanation or object onto a raw impression, and set it aside."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor egy határozott tárgy neve ugrik be, jelöld meg külön a lapon mint feltételezést.",
+     "en": "When a definite object name pops up, mark it separately on the page as a guess."
+    },
+    {
+     "hu": "Ne dolgozz tovább a feltételezésen; térj vissza a nyers érzékszervi jegyekhez.",
+     "en": "Do not build on the guess; return to the raw sensory qualities."
+    },
+    {
+     "hu": "Vedd észre, hogy a feltételezés gyakran túl gyors és túl magabiztos a valódi benyomáshoz képest.",
+     "en": "Notice that a guess is often too fast and too confident compared with a genuine impression."
+    },
+    {
+     "hu": "Hagyd elúszni, és figyeld, mi marad, ha nem kapaszkodsz bele.",
+     "en": "Let it drift off and watch what remains when you do not hold on to it."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az elme kész válaszai elfedik a finomabb benyomást; ezt önmegfigyelési gyakorlatként kezeljük, amit a tisztánlátás és az őszinteség mér.",
+    "en": "The tradition holds that the mind's ready answers hide the finer impression; this is treated as a self-observation practice, measured by clarity and honesty."
+   }
+  },
+  {
+   "sorszam": 21,
+   "id": "rvsp-temai-feltetelezesek-elengedese",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Témai feltételezések elengedése",
+    "en": "Releasing thematic assumptions"
+   },
+   "cel": {
+    "hu": "Annak gyakorlása, hogy ne feltételezd előre, miről szól a célpont, mert a várakozás eltorzítja az érzékelést.",
+    "en": "Practise not assuming in advance what the target is about, since expectation distorts perception."
+   },
+   "modszer": [
+    {
+     "hu": "Mielőtt kezdesz, vedd észre, ha bármilyen elvárás van benned a témáról, és tedd félre.",
+     "en": "Before starting, notice any expectation about the theme, and set it aside."
+    },
+    {
+     "hu": "Emlékeztesd magad, hogy a célpont bármi lehet, és a meglepetés része a gyakorlásnak.",
+     "en": "Remind yourself the target could be anything, and surprise is part of the practice."
+    },
+    {
+     "hu": "Ha menet közben egy téma megszilárdul a fejedben, kezeld feltételezésként, nem eredményként.",
+     "en": "If a theme hardens mid-session, treat it as a guess, not a result."
+    },
+    {
+     "hu": "Térj vissza a nyers benyomásokhoz, és engedd, hogy azok vezessenek.",
+     "en": "Return to the raw impressions and let them lead."
+    }
+   ],
+   "keret": {
+    "hu": "A várakozás elengedése a hagyomány gyakorlati fogása a tisztább érzékeléshez; belső fegyelem, amit a nyitottságod és a rugalmasságod mér, nem a találatok bizonyítéka.",
+    "en": "Releasing expectation is the tradition's device for cleaner perception; an inner discipline measured by your openness and flexibility, not by proof of hits."
+   }
+  },
+  {
+   "sorszam": 22,
+   "id": "rvsp-leleplezes-oszinte-osszevetes",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A leleplezés és az őszinte összevetés",
+    "en": "The reveal and honest comparison"
+   },
+   "cel": {
+    "hu": "A célpont felfedése a leírás után, és a jegyzeteid becsületes, elfogulatlan összevetése a valósággal.",
+    "en": "Reveal the target after writing, and compare your notes with it honestly and without bias."
+   },
+   "modszer": [
+    {
+     "hu": "Csak a leírás lezárása után nyisd ki a borítékot vagy fedd fel a célpontot.",
+     "en": "Open the envelope or reveal the target only after the writing is finished."
+    },
+    {
+     "hu": "Vesd össze a jegyzeteidet a célponttal, és jelöld meg, mi illett és mi nem.",
+     "en": "Compare your notes with the target and mark what matched and what did not."
+    },
+    {
+     "hu": "Légy becsületes: ne nyújtsd rá a benyomásokat a célpontra utólag.",
+     "en": "Be honest: do not stretch impressions to fit the target after the fact."
+    },
+    {
+     "hu": "Jegyezd fel, mit tanultál, függetlenül attól, mennyi volt a találat.",
+     "en": "Note what you learned, regardless of how much matched."
+    }
+   ],
+   "keret": {
+    "hu": "A leleplezés a hagyomány önellenőrző mozzanata; nem a képességed bizonyítéka, hanem az őszinteség és a tanulás gyakorlása. A gyümölcse a tiszta önismeret, nem a teljesítmény.",
+    "en": "The reveal is the tradition's self-checking step; not proof of ability but a practice of honesty and learning. Its fruit is clear self-knowledge, not performance."
+   }
+  },
+  {
+   "sorszam": 23,
+   "id": "rvsp-hosszu-tavu-naplo",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Hosszú távú napló a belső gyümölcsökről",
+    "en": "A longitudinal journal of inner fruits"
+   },
+   "cel": {
+    "hu": "A gyakorlások nyomon követése az idő során, hogy lásd a belső változást: fókusz, nyugalom, képzelet, érzékenység, őszinteség.",
+    "en": "Track sessions over time to see inner change: focus, calm, imagination, sensitivity, honesty."
+   },
+   "modszer": [
+    {
+     "hu": "Vezess folyamatos naplót, amelyben minden ülés dátumát és rövid tapasztalatát rögzíted.",
+     "en": "Keep an ongoing journal recording each session's date and a brief note on the experience."
+    },
+    {
+     "hu": "Jegyezd fel, mennyire voltál összeszedett, nyugodt és nyitott, nem csak a találatokat.",
+     "en": "Note how focused, calm and open you were, not just the matches."
+    },
+    {
+     "hu": "Időnként lapozz vissza, és figyeld a belső változás irányát.",
+     "en": "Periodically look back and observe the direction of inner change."
+    },
+    {
+     "hu": "Engedd, hogy a napló a fejlődés tükre legyen, ne pedig önostorozás eszköze.",
+     "en": "Let the journal be a mirror of growth, not a tool for self-criticism."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány a belső gyümölcsökkel méri a haladást; ez a napló ezt szolgálja, és nem valamiféle bizonyított képességet, hanem a saját fejlődésedet tükrözi.",
+    "en": "The tradition measures progress by inner fruits; this journal serves that, reflecting your own development rather than any proven ability."
+   }
+  },
+  {
+   "sorszam": 24,
+   "id": "rvsp-vegyes-erzesek-egyben",
+   "mester": "Remote Viewing",
+   "szint": "mester",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Vegyes érzések megtartása feszültség nélkül",
+    "en": "Holding mixed feelings without forcing resolution"
+   },
+   "cel": {
+    "hu": "Annak gyakorlása, hogy egyszerre jelenlévő, akár egymástól eltérő érzéseket úgy figyelj meg, hogy nem kell feloldanod vagy választanod közöttük.",
+    "en": "Practise observing simultaneous, even differing feelings without needing to resolve or choose between them."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor egy benyomáshoz egyszerre több, eltérő árnyalatú érzés társul, jegyezd fel valamennyit.",
+     "en": "When several feelings of different shades accompany one impression at once, note all of them."
+    },
+    {
+     "hu": "Ne próbáld eldönteni, melyik az igaz; engedd, hogy együtt legyenek jelen.",
+     "en": "Do not try to decide which is true; let them be present together."
+    },
+    {
+     "hu": "Figyeld meg, hogy a különböző érzések megférhetnek egymás mellett anélkül, hogy egységbe kellene rendezned őket.",
+     "en": "Notice that different feelings can sit side by side without your having to organize them into one."
+    },
+    {
+     "hu": "Maradj a megfigyelő helyzetében, és engedd, hogy a kép a maga összetettségében megmutatkozzon.",
+     "en": "Stay in the observer's seat and let the picture show itself in its full complexity."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a vegyes érzelmi tónus valós része lehet a benyomásnak; itt érzelmi érettségi gyakorlatként kezeljük, amit a belső tágasság és tolerancia mér.",
+    "en": "The tradition holds mixed emotional tone can be a genuine part of an impression; here it is treated as a practice of emotional maturity, measured by inner spaciousness and tolerance."
+   },
+   "etika": {
+    "hu": "Ha a megtartott érzések közül valamelyik túl erőssé vagy nyomasztóvá válik, állj meg és földelj; ez a gyakorlat nem terápia, tartós zaklatottság esetén fordulj szakemberhez, és nem krízisben lévőknek szól.",
+    "en": "If any of the held feelings becomes too strong or oppressive, stop and ground; this practice is not therapy, for lasting distress seek a professional, and it is not for people in crisis."
+   }
+  },
+  {
+   "sorszam": 25,
+   "id": "rvsp-benyomas-vs-vagy-felelem",
+   "mester": "Remote Viewing",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A valódi benyomás megkülönböztetése a vágytól és a félelemtől",
+    "en": "Distinguishing genuine impression from wish or fear"
+   },
+   "cel": {
+    "hu": "A finom megkülönböztetés fejlesztése aközött, ami nyers benyomásként érkezik, és amit a saját vágyad vagy félelmed színez.",
+    "en": "Develop the fine discernment between what arrives as raw impression and what your own wish or fear is colouring."
+   },
+   "modszer": [
+    {
+     "hu": "Nézz vissza a jegyzeteidre, és keresd, hol lehetett a benyomás mögött vágy vagy félelem.",
+     "en": "Look back over your notes and find where a wish or fear may have sat behind an impression."
+    },
+    {
+     "hu": "Figyeld a jelet: a vágy vagy félelem gyakran ragaszkodóbb és érzelmileg töltöttebb.",
+     "en": "Watch for the sign: wish or fear is often more clinging and more emotionally charged."
+    },
+    {
+     "hu": "Jelöld meg ezeket, és tanuld meg felismerni a mintázatukat a jövőbeli ülésekben.",
+     "en": "Mark these and learn to recognize their pattern in future sessions."
+    },
+    {
+     "hu": "Térj vissza a földeléshez, hogy a nyugodt állapot csökkentse a torzítást.",
+     "en": "Return to grounding, so a calm state reduces the distortion."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a hagyomány érett önvizsgálata; nem tévedhetetlen érzékelést ígér, hanem az őszinteség és az önismeret finomítását, amit a belső tisztaság mér.",
+    "en": "This is the tradition's mature self-examination; it promises not infallible perception but a refining of honesty and self-knowledge, measured by inner clarity."
+   },
+   "etika": {
+    "hu": "Ne építs valós élet-döntéseket egyetlen benyomásra, és ne használd a gyakorlást mások megítélésére vagy befolyásolására. Fontos döntésekhez keress megbízható, valós forrásokat és szakértőt.",
+    "en": "Do not build real-life decisions on a single impression, and do not use the practice to judge or influence others. For important decisions seek reliable real sources and professional advice."
+   }
+  },
+  {
+   "sorszam": 26,
+   "id": "rvsp-katasztrofa-gondolatok-megnevezese",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Katasztrófagondolatok megnevezése és visszatérés a jelenbe",
+    "en": "Naming catastrophic thoughts and returning to the present"
+   },
+   "cel": {
+    "hu": "Egy csendes szokás arra, hogy a végítélet-forgatókönyveket gondolatként ismerd fel, és ne engedd, hogy elragadják a figyelmedet.",
+    "en": "A quiet habit for recognizing doom scenarios as thoughts and not letting them carry your attention away."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor egy katasztrofikus jövőkép megjelenik, mondd magadban: ez egy gondolat, nem esemény.",
+     "en": "When a catastrophic picture of the future appears, say inwardly: this is a thought, not an event."
+    },
+    {
+     "hu": "Ne vitatkozz vele és ne is táplald; csak nyugtázd, hogy jelen van.",
+     "en": "Do not argue with it or feed it; simply acknowledge it is present."
+    },
+    {
+     "hu": "Vidd vissza a figyelmed egy jelenbeli érzethez: a lélegzethez, a talajhoz, a kezedhez.",
+     "en": "Bring attention back to a present sensation: the breath, the ground, your hands."
+    },
+    {
+     "hu": "Ha kell, ismételd, valahányszor a gondolat visszatér, türelmesen.",
+     "en": "Repeat as needed, patiently, each time the thought returns."
+    }
+   ],
+   "keret": {
+    "hu": "Ez nyugtató, jelenléti szokás, nem jövőbelátás és nem a valós gondok tagadása; a hagyomány sötét forgatókönyveit itt gondolatokként kezeljük, nem tényként. A gyümölcse a nyugalom.",
+    "en": "This is a calming present-moment habit, not foresight and not denial of real concerns; the tradition's dark scenarios are treated here as thoughts, not fact. Its fruit is calm."
+   },
+   "etika": {
+    "hu": "Tartós, nyomasztó katasztrófagondolatok vagy kilátástalanság esetén fordulj szakemberhez; ez a gyakorlat nem terápia és nem helyettesíti a segítséget, és nem krízisben lévőknek szól.",
+    "en": "For persistent, oppressive catastrophic thoughts or hopelessness, seek a professional; this practice is not therapy and does not replace help, and is not for people in crisis."
+   }
+  },
+  {
+   "sorszam": 27,
+   "id": "rvsp-halas-figyelem",
+   "mester": "Remote Viewing",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Hálás figyelem az egyszerű, fontos dolgokra",
+    "en": "Grateful attention to what is simple and important"
+   },
+   "cel": {
+    "hu": "Egy rövid reflexió, amely a félelem helyett a valóban értékes, egyszerű dolgok megbecsülésére irányítja a figyelmet.",
+    "en": "A short reflection that turns attention, instead of toward fear, to appreciation of what is simple and truly valuable."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj el egy percre csendben, és idézz fel három egyszerű dolgot, ami most jó az életedben.",
+     "en": "Sit quietly for a minute and recall three simple things that are good in your life now."
+    },
+    {
+     "hu": "Ne nagy vagy látványos dolgokat keress, hanem a hétköznapi, megtartó jelenlévőket.",
+     "en": "Look not for grand or dramatic things but for the everyday, sustaining ones."
+    },
+    {
+     "hu": "Időzz el egyenként mindegyiknél, és engedd, hogy a megbecsülés érzete kibontakozzon.",
+     "en": "Dwell on each in turn and let a feeling of appreciation unfold."
+    },
+    {
+     "hu": "Zárásként vidd magaddal ezt a nyugodt megbecsülést a napodba.",
+     "en": "To close, carry this calm appreciation into your day."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a megbecsülés gyakorlata a nyugalomért, nem valamilyen jövendő katasztrófa mérlegelése; a hagyomány fenyegető keretét itt szándékosan csendes hálára cseréljük. A gyümölcse a belső egyensúly.",
+    "en": "This is a practice of appreciation for calm, not a weighing of some coming catastrophe; the tradition's threatening frame is deliberately replaced here with quiet gratitude. Its fruit is inner balance."
    }
   }
  ]

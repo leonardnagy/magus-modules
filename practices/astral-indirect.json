@@ -1,367 +1,1734 @@
 {
-  "formatVersion": 1,
-  "id": "practice-pack-astral-indirect",
-  "nevek": {
-    "hu": "Az indirekt út — gyakorlatok",
-    "en": "The indirect path — practices"
-  },
-  "gyakorlatok": [
+ "formatVersion": 1,
+ "id": "practice-pack-astral-indirect",
+ "nevek": {
+  "hu": "Az indirekt út — gyakorlatok",
+  "en": "The indirect path — practices"
+ },
+ "gyakorlatok": [
+  {
+   "sorszam": 1,
+   "id": "apip-almok-ertekelese",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Az álmok újraértékelése",
+    "en": "Re-valuing your dreams"
+   },
+   "cel": {
+    "hu": "Hidat verni az álom- és az éber élet közé azzal, hogy az álmokat fontossá teszed magadnak — a hagyomány szerint az elme akkor kezd tudatosabbá válni álmában, ha megtanulja, hogy az álmoknak súlyuk van.",
+    "en": "To build a bridge between dream life and waking life by making your dreams matter to you — the tradition holds that the mind starts to grow more aware in dreams once it learns that dreams carry weight."
+   },
+   "modszer": [
     {
-      "id": "apip-valosag-ellenorzes",
-      "mester": "Asztrális hagyomány",
-      "szint": "kezdo",
-      "sik": "szellem",
-      "elem": "Levego",
-      "cim": {
-        "hu": "Átérzett valóság-ellenőrzés",
-        "en": "Felt reality check"
-      },
-      "cel": {
-        "hu": "Napközben begyakorolni a kérdést — álmodom most? —, hogy a szokás egyszer az álomban is átüssön, és éber álommá tegye.",
-        "en": "To rehearse the question by day — am I dreaming right now? — so the habit one day breaks through inside a dream and turns it lucid."
-      },
-      "modszer": [
-        {
-          "hu": "Naponta többször állj meg egy pillanatra. Emeld fel a kezed, nézd meg figyelmesen, számold meg az ujjaidat, és kérdezd meg komolyan: álmodom most?",
-          "en": "Several times a day, stop for a moment. Raise your hand, look at it attentively, count your fingers, and ask in earnest: am I dreaming right now?"
-        },
-        {
-          "hu": "Told meg a folytonosság-kérdéssel: összefügg-e az elmúlt órád — honnan jöttél, mit csináltál? Álomban az előzmények nem állnak össze, és a kéz gyakran furcsa: elmosódik, több ujj van rajta.",
-          "en": "Add the continuity question: does your last hour hold together — where did you come from, what were you doing? In a dream the backstory does not add up, and the hand is often strange: blurred, with extra fingers."
-        },
-        {
-          "hu": "Tartalék-próba: fogd be az orrod, és próbálj lélegezni — ébren nem megy, álomban mintha mégis áramolna a levegő.",
-          "en": "Backup test: pinch your nose shut and try to breathe — awake it is impossible, in a dream air somehow seems to flow."
-        },
-        {
-          "hu": "Minden ellenőrzéshez köss egy lélegzetnyi valódi jelenlétet: nézz körül, érezd, hol vagy, akár egy csepp hálát is. Az átérzett pillanatot jegyzi meg a mélyebb elme, az üres rutint nem.",
-          "en": "Tie each check to a breath of genuine presence: look around, feel where you are, even a drop of gratitude. The deeper mind records the felt moment, not the empty routine."
-        },
-        {
-          "hu": "Külön akkor ellenőrizz, ha valami furcsa történik — álomban éppen a furcsaságok tűnnek természetesnek. Kezdetben egy 5 perces, lassú, időzített gyakorlással tanuld meg érzéssel csinálni.",
-          "en": "Check especially when something odd happens — in dreams it is precisely the oddities that feel natural. At first, learn to do it with feeling in one slow, 5-minute timed session."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány szerint az álom kapu, és a nappali szokás nyitja; a józan olvasat szerint az éber álom jól dokumentált tudatállapot. Egyik olvasatot sem állítjuk tényként — a mérce a belső gyümölcs: nő-e az éber jelenléted napközben, javul-e az álomfelidézésed.",
-        "en": "The tradition holds that the dream is a doorway and the daytime habit opens it; the sober reading is that lucid dreaming is a well-documented state of consciousness. Neither reading is asserted as fact — the measure is the inner fruit: does your waking presence grow, does your dream recall improve."
-      }
+     "hu": "Vedd észre, hányszor söpröd félre reggel az álmaidat mint jelentékteleneket, és döntsd el tudatosan, hogy mostantól figyelsz rájuk.",
+     "en": "Notice how often you brush your dreams aside in the morning as meaningless, and decide deliberately that from now on you attend to them."
     },
     {
-      "id": "apip-alomnaplo",
-      "mester": "Asztrális hagyomány",
-      "szint": "kezdo",
-      "sik": "lelek",
-      "elem": "Viz",
-      "cim": {
-        "hu": "Reggeli álomnapló",
-        "en": "Morning dream journal"
-      },
-      "cel": {
-        "hu": "Az álomfelidézés kiművelése és a visszatérő helyszínek, alakok felismerése — belőlük lesznek a személyes jelzőid.",
-        "en": "To cultivate dream recall and to recognize recurring places and figures — they become your personal cues."
-      },
-      "modszer": [
-        {
-          "hu": "Ébredés után maradj egy percig mozdulatlan, csukott szemmel — még ne mozdulj, ne nyúlj semmiért.",
-          "en": "After waking, stay still for a minute with eyes closed — do not move yet, do not reach for anything."
-        },
-        {
-          "hu": "Először az érzést keresd, amivel ébredtél: a hangulat tovább őrzi az álmot, mint a képek. Az érzés fonalán húzd vissza a jeleneteket.",
-          "en": "First reach for the feeling you woke with: the mood preserves the dream longer than the images do. Pull the scenes back along the thread of that feeling."
-        },
-        {
-          "hu": "Írj le bármit az álomnaplódba: egy szót, egy foszlányt, akár csak azt, hogy semmire sem emlékszel. Maga a mozdulat tanítja a felidézést.",
-          "en": "Write anything into your dream journal: one word, one fragment, even just that you remember nothing. The gesture itself trains recall."
-        },
-        {
-          "hu": "Hetek múltán keresd a visszatérő helyszíneket és alakokat. Elalvás előtt döntsd el: ha legközelebb ott jársz, valóság-ellenőrzést végzel.",
-          "en": "After some weeks, look for recurring places and figures. Before sleep, decide: next time you find yourself there, you will do a reality check."
-        }
-      ],
-      "keret": {
-        "hu": "A napló nem jóskönyv, hanem figyelem-gyakorlat: az álmaid megbecsülését műveli. Az eredményt belül mérd — hány reggel írtál, mennyit idézel fel, kirajzolódnak-e a jelzőid.",
-        "en": "The journal is not a book of omens but an exercise of attention: it cultivates honouring your dreams. Measure the result inwardly — how many mornings you wrote, how much you recall, whether your cues are emerging."
-      }
+     "hu": "Napközben térj vissza néhány pillanatra az éjszakai álmokhoz: idézd fel, mesélj róluk, gondolj rájuk kíváncsian.",
+     "en": "During the day return for a few moments to the night's dreams: recall them, talk about them, think of them with curiosity."
     },
     {
-      "id": "apip-esti-lecsendesedes",
-      "mester": "Asztrális hagyomány",
-      "szint": "kezdo",
-      "sik": "test",
-      "elem": "Viz",
-      "cim": {
-        "hu": "Esti lecsendesedés szándékkal — 10 perc",
-        "en": "Evening settling with intention — 10 minutes"
-      },
-      "cel": {
-        "hu": "Elalvás előtt elültetni a szándékot — ma éjjel észreveszem, hogy álmodom —, és elengedett, puha testtel átcsúszni az alvásba.",
-        "en": "To plant the intention before sleep — tonight I will notice that I am dreaming — and to slip into sleep with a soft, released body."
-      },
-      "modszer": [
-        {
-          "hu": "Már ágyban, lekapcsolt fények mellett indítsd a 10 perces időzítőt. Feküdj kényelmesen, hunyd le a szemed, és fogalmazd meg csendben, egyszerűen a szándékod. Ne erőltesd — ültesd el, mint egy magot.",
-          "en": "Start the 10-minute timer already in bed, lights off. Lie comfortably, close your eyes, and state your intention silently and simply. Do not force it — plant it like a seed."
-        },
-        {
-          "hu": "Képzelj el egy nyugodt tájat, és lépj bele minden érzékeddel: a talaj a lábad alatt, a hangok, a levegő a bőrödön.",
-          "en": "Imagine a calm landscape and step into it with every sense: the ground under your feet, the sounds, the air on your skin."
-        },
-        {
-          "hu": "Minden kilégzésre számolj lassan visszafelé 100-tól, és minden számmal engedd nehezebbé, puhábbá a tested. Nem baj, ha elveszted a számolást — a cél nem a nulla, hanem az elengedés.",
-          "en": "On each exhalation, count slowly backward from 100, and with each number let your body grow heavier, softer. Losing count is fine — the goal is not zero but letting go."
-        },
-        {
-          "hu": "A vége felé engedd el a számokat is, és csak pihenj. Ha közben elalszol, a gyakorlat pontosan elvégezte a dolgát.",
-          "en": "Toward the end, let go of the numbers too and simply rest. If you fall asleep during it, the practice has done exactly its job."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány úgy mondja: a mélyebb elme arra figyel, amivel érzelmileg és ismétlődően foglalkozol — ezért ér többet az elültetett szándék az akaratos parancsnál. Semmilyen élményt nem ígérünk; a gyümölcs a nyugodtabb elalvás és az erősödő éjszakai tudatosság.",
-        "en": "The tradition puts it this way: the deeper mind attends to what you dwell on with feeling and repetition — which is why a planted intention outweighs a willed command. No experience is promised; the fruits are calmer sleep onset and growing awareness at night."
-      },
-      "etika": {
-        "hu": "A légzést soha ne erőltesd: maradjon puha és természetes, és ha megszédülnél vagy kellemetlen lenne, hagyd el a számolást, lélegezz egyszerűen tovább. Ha elalvás határán percekig nem tudsz mozdulni, esetleg nyomást vagy képeket észlelsz: ez orvosilag jól ismert, ártalmatlan és átmeneti alvásjelenség — lélegezz lassan, ne küzdj, mozdíts meg egy ujjat, magától elmúlik. Tartós vagy szorongást okozó alvászavarral fordulj orvoshoz. Ez nem orvosi tanács.",
-        "en": "Never force the breath: keep it soft and natural, and if you feel dizzy or uncomfortable, drop the counting and simply breathe. If on the edge of sleep you cannot move for a minute or two, perhaps sensing pressure or imagery: this is a medically well-known, harmless and transient sleep phenomenon — breathe slowly, do not struggle, wiggle a finger, it passes by itself. With persistent or anxiety-causing sleep problems, see a doctor. This is not medical advice."
-      }
+     "hu": "Tekintsd az áloméletet a saját életed részének, ne mellékzajnak — a figyelem maga az üzenet a tudatalattidnak.",
+     "en": "Treat your dream life as part of your life, not background noise — the attention itself is the message to your deeper mind."
     },
     {
-      "id": "apip-alvashigienia",
-      "mester": "Asztrális hagyomány",
-      "szint": "kezdo",
-      "sik": "test",
-      "elem": "Fold",
-      "cim": {
-        "hu": "Az alap: alváshigiénia",
-        "en": "The foundation: sleep hygiene"
-      },
-      "cel": {
-        "hu": "Pihentető, rendszeres alvást építeni — kialvatlanul nincs miből ébernek lenni, és az egészséges alvás minden gyakorlatnál előbbre való.",
-        "en": "To build restful, regular sleep — sleep-deprived, there is nothing to be lucid with, and healthy sleep outranks any practice."
-      },
-      "modszer": [
-        {
-          "hu": "Feküdj le rendszeres időben, és aludd ki magad — ma is. Ez a gyakorlat első és legfontosabb lépése.",
-          "en": "Go to bed at a regular time and sleep enough — today as well. This is the first and most important step of the practice."
-        },
-        {
-          "hu": "Lefekvés előtt egy órával válts tompított, meleg fényre, és tedd le a képernyőket.",
-          "en": "In the hour before bed, switch to dimmed, warm light and put the screens away."
-        },
-        {
-          "hu": "Este hagyd el az alkoholt és a nehéz ételt.",
-          "en": "Skip alcohol and heavy food in the evening."
-        },
-        {
-          "hu": "Gondoskodj csendes, sötét hálószobáról: zárd ki a zavaró fényeket és hangokat.",
-          "en": "Keep the bedroom quiet and dark: shut out disturbing lights and sounds."
-        }
-      ],
-      "keret": {
-        "hu": "Itt nincs semmi titok: a hagyomány és az alváskutatás ugyanazt mondja. A mérce egyszerű és belső — pihentetőbb-e az alvásod, mint a gyakorlat kezdete előtt.",
-        "en": "There is no secret here: the tradition and sleep research say the same thing. The measure is simple and inner — is your sleep more restful than before you began."
-      },
-      "etika": {
-        "hu": "Ennek az útnak a gyakorlatai nem kívánják megtörni az alvásodat. Ha máshol megszakított alvásra épülő fogásokkal találkozol — hajnali ébredés, visszaalvás —, tudd: az ilyesmi nem való annak, akinek alvászavara vagy epilepsziája van, aki gyógyszert szed alvásra, vagy akinek másnap kipihenten kell vezetnie, dolgoznia. Az egészséges alvás mindig előbbre való bármilyen gyakorlatnál. Ez nem orvosi tanács — kétség esetén kérdezd meg az orvosodat.",
-        "en": "The practices of this path do not ask you to break your sleep. If elsewhere you meet techniques built on interrupted sleep — early waking, returning to bed — know this: such things are not for anyone with a sleep disorder or epilepsy, anyone on sleep medication, or anyone who must drive or work rested the next day. Healthy sleep always outranks any practice. This is not medical advice — when in doubt, ask your doctor."
-      }
-    },
-    {
-      "id": "apip-stabilizalas",
-      "mester": "Asztrális hagyomány",
-      "szint": "halado",
-      "sik": "lelek",
-      "elem": "Fold",
-      "cim": {
-        "hu": "Stabilizálás az éber álomban",
-        "en": "Stabilizing inside the lucid dream"
-      },
-      "cel": {
-        "hu": "A friss, törékeny éberséget megszilárdítani, mielőtt bármit tennél — hogy se az álom ne sodorjon vissza, se fel ne ébredj idő előtt.",
-        "en": "To consolidate fresh, fragile lucidity before doing anything — so the dream neither sweeps you back nor wakes you prematurely."
-      },
-      "modszer": [
-        {
-          "hu": "Amikor átüt a felismerés — ez álom —, ne rohanj sehová. Állj meg.",
-          "en": "When the recognition breaks through — this is a dream — do not rush anywhere. Stop."
-        },
-        {
-          "hu": "Nézd meg a kezed, dörzsöld össze a tenyered, nézz körül lassan. Az érzékletek lehorgonyoznak a jelenetben.",
-          "en": "Look at your hands, rub your palms together, look around slowly. The sensations anchor you in the scene."
-        },
-        {
-          "hu": "Nyugodtan mondd ki magadban a szándékot: tisztaságot, éberséget kérsz.",
-          "en": "Calmly state your intention inwardly: you ask for clarity and wakefulness."
-        },
-        {
-          "hu": "Csak akkor lépj tovább, amikor a jelenléted olyan szilárd, mint ébren. Ha az álom halványul, ismételd a kéz-nézést és a tenyérdörzsölést.",
-          "en": "Move on only when your presence feels as solid as it does awake. If the dream fades, repeat the hand-gazing and palm-rubbing."
-        }
-      ],
-      "keret": {
-        "hu": "Az éber álom önmagában is teljes értékű terep — kreativitás, belső kérdések, szelíd önismereti munka —, nem kötelező továbbmenni. Bárhogy értelmezed, belső tapasztalás marad; az értéke abban áll, mennyi tisztaságot és önismeretet hoz.",
-        "en": "The lucid dream is a complete arena in itself — creativity, inner questions, gentle self-knowledge work — with no obligation to go further. However you interpret it, it remains an inner experience; its worth lies in how much clarity and self-knowledge it brings."
-      }
-    },
-    {
-      "id": "apip-melyites-kapu",
-      "mester": "Asztrális hagyomány",
-      "szint": "mester",
-      "sik": "lelek",
-      "elem": "Eter",
-      "cim": {
-        "hu": "Mélyítés: a három klasszikus fogás",
-        "en": "Deepening: the three classic moves"
-      },
-      "cel": {
-        "hu": "A stabil éber álmot a hagyomány útján tovább mélyíteni — határozott, nyugodt szándékkal, józan kerettel.",
-        "en": "To deepen a stable lucid dream along the tradition's route — with firm, calm intention and a sober frame."
-      },
-      "modszer": [
-        {
-          "hu": "Először mindig stabilizálj — enélkül ne kísérletezz a mélyítéssel.",
-          "en": "Always stabilize first — do not experiment with deepening without it."
-        },
-        {
-          "hu": "Első fogás: hagyd a jelenetet elhalványulni, miközben szilárdan tartod, hová szeretnél érkezni.",
-          "en": "First move: let the scene fade while holding steadily where you wish to arrive."
-        },
-        {
-          "hu": "Második fogás: lépj át egy kapun — az álombeli tájban talált ajtón vagy átjárón — tiszta, előre megfogalmazott szándékkal arról, hová vezessen.",
-          "en": "Second move: step through a gateway — a door or passage found in the dream landscape — with a clear, pre-formed intention of where it should lead."
-        },
-        {
-          "hu": "Harmadik fogás: fordítsd a figyelmedet az ágyban pihenő testedre, és onnan, ismerős pontról folytasd.",
-          "en": "Third move: turn your attention to your body resting in bed and continue from that familiar point."
-        },
-        {
-          "hu": "Bármelyiket választod, utána jegyezd le a naplódba, mit tapasztaltál — és mit mutat róla a józan önvizsgálat.",
-          "en": "Whichever you choose, afterwards record in your journal what you experienced — and what sober self-review shows about it."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány nyelvén ez a kilépés előszobája; a józan olvasat szerint egy különösen tiszta tudatállapot alakítása. Egyik olvasatot sem állítjuk tényként, és semmilyen élményt nem ígérünk — mindkét olvasatban ugyanaz a munka vezet ide, és a mérce a belső gyümölcs marad.",
-        "en": "In the tradition's language this is the antechamber of the exit; in the sober reading it is the shaping of an unusually clear state of consciousness. Neither reading is asserted as fact and no experience is promised — in both readings the same work leads here, and the measure remains the inner fruit."
-      },
-      "etika": {
-        "hu": "Amit itt tapasztalsz, belső kép: ne kezeld a külvilágról szerzett, ellenőrizhető értesülésként, és soha ne alapozz rá valós döntést — egészségit, anyagit, emberit. Élő személyekkel való kapcsolatfelvételt vagy befolyásolást ne célozz: a munka terepe a saját belső világod.",
-        "en": "What you experience here consists of inner images: do not treat them as verifiable information about the outer world, and never base a real-world decision on them — medical, financial or personal. Do not aim at contacting or influencing living people: the field of this work is your own inner world."
-      }
-    },
-    {
-      "id": "apip-belso-gatak",
-      "mester": "Asztrális hagyomány",
-      "szint": "halado",
-      "sik": "lelek",
-      "elem": "Viz",
-      "cim": {
-        "hu": "Szelídség a belső gátakkal",
-        "en": "Gentleness with inner blocks"
-      },
-      "cel": {
-        "hu": "Észrevenni és szelíden kezelni a régi félelmeket és öngyengítő hiedelmeket, amelyek csendben lassítják a gyakorlást.",
-        "en": "To notice and gently handle the old fears and self-weakening beliefs that quietly slow the practice."
-      },
-      "modszer": [
-        {
-          "hu": "Figyeld meg, milyen öngyengítő mondatok járnak veled — „nekem úgysem megy”, „türelmetlen vagyok”. Ne harcolj velük, csak vedd észre őket.",
-          "en": "Notice which self-weakening sentences travel with you — „I never manage these things”, „I am too impatient”. Do not fight them, simply notice them."
-        },
-        {
-          "hu": "Írd be őket a naplódba, ahogy vannak — a lejegyzés maga már lazít a szorításukon.",
-          "en": "Write them into your journal as they are — the act of recording already loosens their grip."
-        },
-        {
-          "hu": "Ha az álmaidban félelem, gyász vagy régi fájdalom bukkan fel, bánj magaddal kíméletesen: lassíts, pihenj, és térj vissza csak akkor, amikor kész vagy rá.",
-          "en": "If fear, grief or old pain surfaces in your dreams, treat yourself kindly: slow down, rest, and return only when you are ready."
-        },
-        {
-          "hu": "Hagyd, hogy a rendszeres, szelíd gyakorlás lassan átírja a mintát — a napi ellenőrzések és a napló akkor is dolgoznak, ha látványos élmény még nincs.",
-          "en": "Let steady, gentle practice slowly rewrite the pattern — the daily checks and the journal keep working even before any striking experience."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány szerint a mélyebb elme a háttérben dolgozó mintákra is figyel; a józan olvasatban ez egyszerű önmegfigyelés. A gyümölcs, amit mérni érdemes: enged-e a görcs, nő-e a türelem, tisztábban látod-e magad.",
-        "en": "The tradition holds that the deeper mind also attends to the patterns working in the background; in the sober reading this is plain self-observation. The fruit worth measuring: does the clenching ease, does patience grow, do you see yourself more clearly."
-      },
-      "etika": {
-        "hu": "Ha súlyos, régi seb kerül elő, ne itt dolgozd fel: az szakember dolga. Nyomasztó, tolakodó élményeknél tarts szünetet, és ha a teher nem enged, kérj szakszerű segítséget. Ez a gyakorlat önismereti munka, nem terápia és nem annak pótléka.",
-        "en": "If a heavy old wound surfaces, do not process it here: that belongs to a professional. With distressing or intrusive experiences, pause the practice, and if the weight does not lift, seek professional help. This practice is self-knowledge work, not therapy and no substitute for it."
-      }
-    },
-    {
-      "id": "apip-turelmes-tempo",
-      "mester": "Asztrális hagyomány",
-      "szint": "kezdo",
-      "sik": "szellem",
-      "elem": "Ido",
-      "cim": {
-        "hu": "Türelmes tempó — a frusztráció mint jelzés",
-        "en": "Patient pacing — frustration as a signal"
-      },
-      "cel": {
-        "hu": "Elfogadni a gyakorlás saját ritmusát, és a frusztrációt jelzésként használni, nem ostorként.",
-        "en": "To accept the practice's own rhythm and to use frustration as a signal, not a whip."
-      },
-      "modszer": [
-        {
-          "hu": "Ha hetekig nincs éber álmod, jegyezd le: semmi sem romlott el. A tempó azon múlik, milyen viszonyban voltál eddig az álmaiddal — hónapok is kellhetnek, és a gyakoriság embere válogatja.",
-          "en": "If weeks pass without a lucid dream, note it down: nothing is broken. The pace depends on the relationship you have had with your dreams so far — it may take months, and frequency varies from person to person."
-        },
-        {
-          "hu": "Amikor frusztrációt érzel, kezeld jelzésként: lazíts a szorításon, ne fokozd. Vegyél vissza az elvárásból, ne a gyakorlásból.",
-          "en": "When you feel frustration, treat it as a signal: loosen your grip, do not tighten it. Reduce the expectation, not the practice."
-        },
-        {
-          "hu": "Térj vissza a kicsikhez, amik biztosan dolgoznak: a napi átérzett ellenőrzésekhez és a reggeli naplóhoz.",
-          "en": "Return to the small things that certainly keep working: the daily felt checks and the morning journal."
-        },
-        {
-          "hu": "Ne görcsölj rá erre az egy útra: az éber jelenlét és a jobb alvás önmagában is nyereség, élménytől függetlenül.",
-          "en": "Do not clench around this one route: wakeful presence and better sleep are gains in themselves, regardless of any experience."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány sem ígér határidőt — az átérzett ismétlés lassan érik. A mérce nem az élmény megérkezése, hanem a belső gyümölcsök csendes gyarapodása hétről hétre.",
-        "en": "The tradition promises no deadline either — felt repetition ripens slowly. The measure is not the arrival of an experience but the quiet weekly growth of the inner fruits."
-      }
-    },
-    {
-      "id": "apip-heti-attekintes",
-      "mester": "Asztrális hagyomány",
-      "szint": "halado",
-      "sik": "szellem",
-      "elem": "Eter",
-      "cim": {
-        "hu": "Heti őszinte áttekintés",
-        "en": "Weekly honest review"
-      },
-      "cel": {
-        "hu": "Hetente józanul megmérni a belső gyümölcsöket, és ehhez igazítani a következő hét gyakorlását.",
-        "en": "To weigh the inner fruits soberly each week and adjust the coming week's practice accordingly."
-      },
-      "modszer": [
-        {
-          "hu": "Ülj le a naplóddal, és válaszolj írásban: hány reggel írtam az álomnaplóba, és változott-e, mennyit idézek fel? Hányszor végeztem átérzett valóság-ellenőrzést, és volt-e pillanat, amikor tényleg elbizonytalanodtam a válaszban?",
-          "en": "Sit down with your journal and answer in writing: how many mornings did I write in the dream journal, and has the amount I recall changed? How many felt reality checks did I do, and was there a moment when the answer genuinely wavered?"
-        },
-        {
-          "hu": "Nézd meg: milyen visszatérő helyszín vagy alak rajzolódik ki az álmaimban? Pihentetőbb-e az alvásom, mint a gyakorlat kezdete előtt?",
-          "en": "Look further: what recurring place or figure is emerging in my dreams? Is my sleep more restful than before I began?"
-        },
-        {
-          "hu": "Tedd fel a kényes kérdést is: volt-e olyan élményem, amit hajlamos lennék többnek látni, mint ami — és mit mond erről a józan önvizsgálat?",
-          "en": "Ask the delicate question too: was there an experience I am tempted to see as more than it was — and what does sober self-review say about it?"
-        },
-        {
-          "hu": "Zárásként döntsd el: mit igazít mindez a jövő hét gyakorlásán? Egy apró, konkrét változtatás elég.",
-          "en": "To close, decide: what does all this adjust in next week's practice? One small, concrete change is enough."
-        }
-      ],
-      "keret": {
-        "hu": "Ez a gyakorlat a vágyvezérelt önámítás ellenszere: nem azt kérdezi, mit szeretnél látni, hanem azt, mit mutatnak a gyümölcsök — felidézés, jelenlét, pihentető alvás, tisztuló önismeret. Ha ezek gyarapodnak, a munka működik, bármelyik olvasatot tartod közelebb magadhoz.",
-        "en": "This practice is the antidote to wishful self-deception: it asks not what you would like to see but what the fruits show — recall, presence, restful sleep, clearer self-knowledge. If these increase, the work is working, whichever reading you hold closer."
-      }
+     "hu": "Rögzítsd írásban a szándékodat, hogy szorosabb, bensőségesebb kapcsolatot építesz az álmaiddal.",
+     "en": "Write down your intention to build a closer, more intimate relationship with your dreams."
     }
-  ]
+   ],
+   "keret": {
+    "hu": "A hagyomány nyelvén így nyílik meg a kapu az éber és az álomvilág között; józan lencsén egyszerűen átirányítod a figyelmedet oda, amit eddig figyelmen kívül hagytál. A gyümölcs belül mérhető: élénkebb álomemlék és nagyobb érdeklődés a belső életed iránt.",
+    "en": "In the tradition's language this opens the gate between waking and dreaming; through the sober lens you are simply redirecting attention to what you have been ignoring. The fruit is measured within: livelier dream recall and greater interest in your inner life."
+   }
+  },
+  {
+   "sorszam": 2,
+   "id": "apip-kez-valosagteszt",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Valóságteszt a kézzel",
+    "en": "The hand reality check"
+   },
+   "cel": {
+    "hu": "Beépíteni egy nappali szokást, amely átszivárog az álmokba: megvizsgálni a saját kezed, és megkérdezni, valóban éber vagy-e — a cél az, hogy egy nap ezt álmodban is megtedd, és felismerd az álmot.",
+    "en": "To build a daytime habit that seeps into dreams: examine your own hand and ask whether you are truly awake — the aim is that one day you do this inside a dream and recognise it as a dream."
+   },
+   "modszer": [
+    {
+     "hu": "Napközben többször emeld fel a kezed, és nézd meg figyelmesen: számold meg az ujjaidat, egytől ötig.",
+     "en": "Several times a day raise your hand and look at it carefully: count your fingers, one to five."
+    },
+    {
+     "hu": "Tedd fel a kérdést komolyan: álmodom most? Ne gépiesen, hanem valódi kíváncsisággal.",
+     "en": "Ask the question in earnest: am I dreaming now? Not mechanically, but with genuine curiosity."
+    },
+    {
+     "hu": "Figyeld meg, hogy a kéz természetesnek látszik-e; jegyezd meg, milyen éber állapotban.",
+     "en": "Notice whether the hand looks normal; register how it appears in the waking state."
+    },
+    {
+     "hu": "Ismételd napról napra, sokszor, amíg magától elő nem jön — így épül a szokás, amit magaddal viszel az álomba.",
+     "en": "Repeat it day after day, many times, until it arises on its own — this is how the habit forms that you carry into the dream."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az álomban a kéz gyakran másképp fest — átlátszó, több ujjal, változó formával —, és ez a felismerés teszi tudatossá az alvót; ezt sem tényként állítjuk, sem ígéretként. Józan lencsén ez figyelmi és szokásépítő gyakorlat: a gyümölcs a jelenlét és az önmegfigyelés élesedése.",
+    "en": "The tradition says the hand often looks different in a dream — transparent, with extra fingers, shifting shape — and that recognition wakes the sleeper; we neither assert this as fact nor promise it. Through the sober lens this is an attention and habit-building exercise: the fruit is sharper presence and self-observation."
+   }
+  },
+  {
+   "sorszam": 3,
+   "id": "apip-erzelmi-horgony",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "A valóságteszt érzelmi horgonya",
+    "en": "Anchoring the check in feeling"
+   },
+   "cel": {
+    "hu": "Érzelemmel megtölteni a valóságtesztet, mert a hagyomány szerint a tudatalatti az érzésekre figyel, nem a puszta analitikus ismétlésre — a szeretet, a hála vagy a béke pillanata mélyebb nyomot hagy.",
+    "en": "To fill the reality check with feeling, since the tradition holds that the deeper mind responds to emotion rather than to bare analytical repetition — a moment of love, gratitude or peace leaves a deeper imprint."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor a kezedre nézel, tarts egy pár másodperces szünetet, és engedd, hogy a szív terében megjelenjen egy meleg érzés.",
+     "en": "When you look at your hand, take a pause of a few seconds and let a warm feeling arise in the space of the heart."
+    },
+    {
+     "hu": "Idézz fel hálát az egyszerű dolgokért — hogy élsz, egészséges vagy, van társaságod —, és érezd is át, ne csak gondold.",
+     "en": "Call up gratitude for simple things — that you are alive, healthy, that you have people — and actually feel it, do not merely think it."
+    },
+    {
+     "hu": "Kösd össze ezt az érzést a kézre-nézéssel, hogy a kettő eggyé váljon a belső világodban.",
+     "en": "Bind this feeling to the act of looking at your hand, so the two become one in your inner world."
+    },
+    {
+     "hu": "Ne siess át rajta gépiesen; a néhány másodpercnyi valódi érzés többet ér, mint tíz üres ismétlés.",
+     "en": "Do not rush through it mechanically; a few seconds of real feeling is worth more than ten empty repetitions."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány úgy tartja, a tudatalatti csak arra figyel, ami érzelmileg megérint — ezt belső modellként kezeld, nem bizonyított tényként. Józan lencsén ez érzelmi jelenlét és hálagyakorlat, amelynek gyümölcse önmagában is jótékony: nyugalom, melegség, a hétköznap megbecsülése.",
+    "en": "The tradition holds that the deeper mind attends only to what touches it emotionally — treat this as an inner model, not a proven fact. Through the sober lens this is a practice of emotional presence and gratitude, whose fruit is beneficial in itself: calm, warmth, appreciation of the ordinary."
+   }
+  },
+  {
+   "sorszam": 4,
+   "id": "apip-jelenlet-megfigyeles",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Jelenlét és megfigyelés a tesztnél",
+    "en": "Presence and observation at the check"
+   },
+   "cel": {
+    "hu": "A valóságtesztet a jelen pillanatba való megérkezés eszközévé tenni: körülnézni, befelé figyelni, és valóban jelen lenni — a hagyomány szerint az így nevelt éberség átvihető az álomba.",
+    "en": "To turn the reality check into a way of arriving in the present moment: look around, look inward, and be truly present — the tradition holds that awareness trained this way can carry into the dream."
+   },
+   "modszer": [
+    {
+     "hu": "A kézre nézés pillanatában állj meg, és nézz körül: mit látsz, mi történik körülötted?",
+     "en": "At the moment of looking at your hand, stop and look around: what do you see, what is happening around you?"
+    },
+    {
+     "hu": "Fordulj befelé is: milyen érzés van most a testedben — feszültség, nyugtalanság, könnyedség?",
+     "en": "Turn inward as well: what feeling is in your body now — tension, unease, lightness?"
+    },
+    {
+     "hu": "Vedd észre az égboltot, az embereket, a környezet hangulatát, mintha először látnád mindezt.",
+     "en": "Notice the sky, the people, the mood of the surroundings, as if you were seeing it all for the first time."
+    },
+    {
+     "hu": "Horgonyozd le magad ebbe a pillanatba, mielőtt továbbmennél — ez a megérkezés maga a gyakorlat.",
+     "en": "Anchor yourself into this moment before moving on — the arriving is itself the practice."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt az álombeli éberség előkészítésének látja; józan lencsén ez tiszta jelenléti gyakorlat, rokon a mindennapi tudatosság meditációjával. A gyümölcs belül mérhető: kevesebb rohanás, több valódi jelenlét a napodban.",
+    "en": "The tradition sees this as preparation for awareness within dreams; through the sober lens it is plain presence practice, kin to everyday mindfulness. The fruit is measured within: less rushing, more real presence in your day."
+   }
+  },
+  {
+   "sorszam": 5,
+   "id": "apip-ertelmi-teszt",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A koherencia-kérdés",
+    "en": "The coherence question"
+   },
+   "cel": {
+    "hu": "Egy egyszerű logikai próbát hozzáadni a valóságteszthez: van-e értelme ennek a pillanatnak? — az álomban a lépések gyakran nem állnak össze értelmes láncba, és ez leleplezi az álmot.",
+    "en": "To add a simple logical test to the reality check: does this moment make sense? — in dreams the steps often fail to form a coherent chain, and that gives the dream away."
+   },
+   "modszer": [
+    {
+     "hu": "A teszt közben kérdezd meg: van-e értelme annak, ahol vagyok, és annak, ahogy idejutottam?",
+     "en": "During the check ask: does it make sense where I am, and how I got here?"
+    },
+    {
+     "hu": "Kövesd vissza a szálat pár lépéssel: honnan jöttem, mit csináltam előtte, illeszkedik-e minden?",
+     "en": "Trace the thread back a few steps: where did I come from, what was I doing before, does it all fit?"
+    },
+    {
+     "hu": "Ha a lánc összeáll és logikus, az a fizikai éberség jele; ha ugrál és képtelen, az álomra utal.",
+     "en": "If the chain holds and is logical, that points to physical wakefulness; if it jumps and is impossible, that points to a dream."
+    },
+    {
+     "hu": "Gyakorold ezt nappal is, hogy éjjel, álomban is természetesen felmerüljön a kérdés.",
+     "en": "Practise this by day too, so that at night, in a dream, the question arises naturally."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az álomlogika töredezettsége leleplezi az álmot; ezt belső jelzőként használd, nem garanciaként. Józan lencsén ez a kritikus, éber figyelem edzése: a gyümölcs a tisztább, önreflexív gondolkodás.",
+    "en": "The tradition says the fragmentary logic of dreams betrays them; use this as an inner signal, not a guarantee. Through the sober lens it is training in critical, wakeful attention: the fruit is clearer, self-reflective thinking."
+   }
+  },
+  {
+   "sorszam": 6,
+   "id": "apip-kornyezeti-emlekeztetok",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Környezeti emlékeztetők",
+    "en": "Environmental reminders"
+   },
+   "cel": {
+    "hu": "Fizikai emlékeztetőket elhelyezni a térben, amelyek napközben újra és újra valóságtesztre késztetnek — mert a puszta emlékezésre hagyatkozni nem elég megbízható.",
+    "en": "To place physical reminders in your space that prompt a reality check again and again through the day — because relying on memory alone is not reliable enough."
+   },
+   "modszer": [
+    {
+     "hu": "Készíts vagy nyomtass ki egy egyszerű jelet az „álmodom most?” kérdéssel és egy kéz rajzával.",
+     "en": "Make or print a simple sign with the question „am I dreaming now?” and a drawing of a hand."
+    },
+    {
+     "hu": "Helyezd el több példányban a nap közben bejárt helyeken — hűtő, íróasztal, fürdő.",
+     "en": "Place several copies in the spots you pass through the day — fridge, desk, bathroom."
+    },
+    {
+     "hu": "Tedd őket szándékosan szokatlan helyre, kissé kilógva vagy a padlóra, hogy megakadjon rajtuk a szemed.",
+     "en": "Put them deliberately in odd places, slightly sticking out or on the floor, so your eye snags on them."
+    },
+    {
+     "hu": "Amikor megpillantasz egyet, ne csak lásd — állj meg, és végezd el a valóságtesztet érzéssel.",
+     "en": "When you catch sight of one, do not just see it — stop and do the reality check with feeling."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a rendezetlen, kilógó emlékeztetőt nem szűri ki az elme, ezért működik; józan lencsén ez egyszerű szokásépítő fogás, a figyelmet külső jelekkel horgonyozod le. A gyümölcs a következetesebb önmegfigyelés.",
+    "en": "The tradition says the mind does not filter out a messy, protruding reminder, which is why it works; through the sober lens it is a simple habit-building trick, anchoring attention with external cues. The fruit is more consistent self-observation."
+   }
+  },
+  {
+   "sorszam": 7,
+   "id": "apip-telefon-emlekezteto",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Telefonos emlékeztető",
+    "en": "The phone reminder"
+   },
+   "cel": {
+    "hu": "A telefon képernyőjét emlékeztetővé tenni, hogy a naponta sokszor felvett készülék minden alkalommal valóságtesztre hívjon.",
+    "en": "To turn the phone screen into a reminder, so the device you pick up many times a day calls you to a reality check each time."
+   },
+   "modszer": [
+    {
+     "hu": "Állíts be egy háttérképet, amely finoman felteszi a kérdést: álmodom most?",
+     "en": "Set a wallpaper that gently poses the question: am I dreaming now?"
+    },
+    {
+     "hu": "Valahányszor felveszed a telefont, hagyd, hogy a kép megállítson egy pillanatra.",
+     "en": "Whenever you pick up the phone, let the image stop you for a moment."
+    },
+    {
+     "hu": "Végezd el a rövid tesztet: nézz a kezedre, érezz, kérdezd meg, hol vagy.",
+     "en": "Do the short check: look at your hand, feel, ask where you are."
+    },
+    {
+     "hu": "Ne engedd üres reflexszé válni; időnként frissítsd a képet, hogy megőrizze a hatását.",
+     "en": "Do not let it become an empty reflex; refresh the image from time to time so it keeps its effect."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a gyakori, apró emlékeztetők folyamatosan „bombázzák” a tudatalattit a kérdéssel; ezt belső modellként kezeld. Józan lencsén ez a meglévő szokásaidra épített figyelmi jel. A gyümölcs a sűrűbb, természetesebb önreflexió.",
+    "en": "The tradition says frequent small reminders keep „bombarding” the deeper mind with the question; treat this as an inner model. Through the sober lens it is an attention cue built onto an existing habit. The fruit is denser, more natural self-reflection."
+   }
+  },
+  {
+   "sorszam": 8,
+   "id": "apip-kez-lataskor",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Teszt, valahányszor a kezed látod",
+    "en": "A check whenever you see your hands"
+   },
+   "cel": {
+    "hu": "A saját kezed megpillantását tenni természetes kiváltóvá: minden alkalommal, amikor a kezedre esik a tekinteted, elvégzed a rövid valóságtesztet.",
+    "en": "To make catching sight of your own hands a natural trigger: every time your gaze falls on your hands, you do the brief reality check."
+   },
+   "modszer": [
+    {
+     "hu": "Használd a mindennapi mozdulatokat — beszélgetés, gépelés, evés —, amelyeknél a kezed a látóteredbe kerül.",
+     "en": "Use the everyday movements — talking, typing, eating — in which your hands come into view."
+    },
+    {
+     "hu": "Amint észreveszed a kezed, állj meg egy szívdobbanásnyira, és nézd meg tudatosan.",
+     "en": "As soon as you notice your hands, pause for a heartbeat and look at them consciously."
+    },
+    {
+     "hu": "Tedd fel a kérdést, és kösd hozzá az érzést, ahogy korábban tanultad.",
+     "en": "Ask the question and attach the feeling, as you learned earlier."
+    },
+    {
+     "hu": "Így a leggyakoribb látványod, a saját kezed, állandó emlékeztetővé válik.",
+     "en": "This way your most common sight, your own hands, becomes a constant reminder."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az álomban éppen a kéz árulja el legkönnyebben az álmot, ezért hasznos rá kötni a szokást; ezt nem ígérjük, csak modellként adjuk. Józan lencsén a meglévő, gyakori ingerre épített figyelmi kapocs. A gyümölcs a sűrűbb éberség.",
+    "en": "The tradition says it is precisely the hand that most easily betrays a dream, so it is useful to hook the habit onto it; we do not promise this, only offer it as a model. Through the sober lens it is an attention link built onto a frequent existing cue. The fruit is denser awareness."
+   }
+  },
+  {
+   "sorszam": 9,
+   "id": "apip-szokatlan-esemeny",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Teszt a szokatlan pillanatban",
+    "en": "A check at the strange moment"
+   },
+   "cel": {
+    "hu": "Bármi szokatlanra, váratlanra vagy meghökkentőre valóságteszttel válaszolni — mert az álomban a bizarr események természetesnek tűnnek, és épp ezt a kritikátlanságot akarjuk kiszúrni.",
+    "en": "To respond to anything unusual, unexpected or startling with a reality check — because in dreams bizarre events feel normal, and it is exactly that uncritical acceptance we want to catch."
+   },
+   "modszer": [
+    {
+     "hu": "Figyeld a nap furcsa mozzanatait: valami képtelen, nagyon vicces vagy hirtelen esemény.",
+     "en": "Watch for the odd moments of the day: something absurd, very funny, or sudden."
+    },
+    {
+     "hu": "Amint ilyet érzékelsz, azonnal állj meg és tegyél fel egy valóságtesztet.",
+     "en": "The instant you sense one, stop at once and run a reality check."
+    },
+    {
+     "hu": "Kérdezd meg, illeszkedik-e ez a hétköznapi valóságodhoz, vagy inkább álomlogika.",
+     "en": "Ask whether this fits your ordinary reality, or whether it is more like dream logic."
+    },
+    {
+     "hu": "Gyakorold, hogy a meglepetés reflexből tesztet váltson ki, ne kritikátlan elfogadást.",
+     "en": "Practise so that surprise reflexively triggers a check, not uncritical acceptance."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a bizarr elfogadása álomjel, és ha nappal reflexszé edzed a kételyt, azt magaddal viszed az álomba; ezt belső modellként kezeld. Józan lencsén ez a kritikai éberség edzése. A gyümölcs az élesebb, kevésbé kritikátlan figyelem.",
+    "en": "The tradition says accepting the bizarre is a dream sign, and if by day you train doubt into a reflex, you carry it into the dream; treat this as an inner model. Through the sober lens it trains critical alertness. The fruit is sharper, less uncritical attention."
+   }
+  },
+  {
+   "sorszam": 10,
+   "id": "apip-megfigyelo-latas",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A felfedező tekintete",
+    "en": "The explorer's seeing"
+   },
+   "cel": {
+    "hu": "Megtanulni hiperéberen, minden részletre figyelve járni a fizikai világban, mintha idegen tájat fedeznél fel — hogy ez a megfigyelőképesség átjöjjön a nem-fizikai élményekbe, ahol a részletek megjegyzése dönti el, mennyit hozol vissza.",
+    "en": "To learn to move through the physical world hyper-alert, noticing every detail, as if exploring a foreign land — so that this power of observation carries into non-physical experiences, where noticing details decides how much you bring back."
+   },
+   "modszer": [
+    {
+     "hu": "Sétáid során nézz körül, mintha először látnád: fák, épületek, arcok, apró jelenetek.",
+     "en": "On your walks look around as if seeing it all for the first time: trees, buildings, faces, small scenes."
+    },
+    {
+     "hu": "Emeld fel a tekinteted a telefonról, és figyelj tudatosan a környezet részleteire.",
+     "en": "Lift your gaze from the phone and attend consciously to the details of your surroundings."
+    },
+    {
+     "hu": "Gyakorold, hogy megjegyzed a részleteket: ki mit viselt, milyen volt a hely, mit mondtak.",
+     "en": "Practise registering details: who wore what, what the place was like, what was said."
+    },
+    {
+     "hu": "Tekintsd ezt megfigyelő-edzésnek, amelyet szándékosan viszel magaddal a belső utakra.",
+     "en": "Treat this as observation training that you deliberately carry into your inner journeys."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a fizikai világban edzett éberség átvihető a nem-fizikai élménybe, és javítja az emlékezést; ezt modellként adjuk, nem ígéretként. Józan lencsén ez tiszta megfigyelés- és emlékezetedzés. A gyümölcs az élénkebb jelenlét és a részletgazdagabb emlékezet.",
+    "en": "The tradition says awareness trained in the physical world can carry into non-physical experience and improves recall; we offer this as a model, not a promise. Through the sober lens it is plain observation and memory training. The fruit is livelier presence and more detailed memory."
+   }
+  },
+  {
+   "sorszam": 11,
+   "id": "apip-orr-valosagteszt",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "Az orrfogó légzésteszt",
+    "en": "The pinched-nose breathing check"
+   },
+   "cel": {
+    "hu": "Egy második valóságtesztet megtanulni arra az esetre, amikor a kéz nem árul el semmit: befogni az orrot, és megpróbálni levegőt venni — a hagyomány szerint a nem-fizikai állapotban ilyenkor is „megy” a légzés.",
+    "en": "To learn a second reality check for when the hand gives nothing away: pinch the nose shut and try to breathe — the tradition holds that in a non-physical state the breath still seems to flow."
+   },
+   "modszer": [
+    {
+     "hu": "Ha a kezed megnézése után sem tudod eldönteni, hol vagy, tedd hozzá ezt a próbát.",
+     "en": "If after looking at your hand you still cannot tell where you are, add this test."
+    },
+    {
+     "hu": "Fogd be az orrod, csukd be a szád, és próbálj meg beszívni a levegőt.",
+     "en": "Pinch your nose, close your mouth, and try to draw breath in."
+    },
+    {
+     "hu": "A fizikai testben nincs légáramlás; ha mégis „lélegzel”, az a hagyomány szerint nem-fizikai állapot jele.",
+     "en": "In the physical body there is no airflow; if you still seem to „breathe”, the tradition reads that as a sign of a non-physical state."
+    },
+    {
+     "hu": "Használd ezt tartalék tesztként, főleg ha a kezed álmodban is normálisnak látszik.",
+     "en": "Use this as a backup check, especially if your hand looks normal even in a dream."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány saját modellje szerint a nem-fizikai testnek nincs tüdeje, ezért a próba „sikerül”; ezt sem tényként, sem ígéretként nem állítjuk. Józan lencsén ez egy második, egyszerű önellenőrző mozdulat. A gyümölcs a nagyobb belső biztonság a bizonytalan pillanatokban.",
+    "en": "By the tradition's own model the non-physical body has no lungs, so the test „succeeds”; we assert this neither as fact nor as promise. Through the sober lens it is a second, simple self-check gesture. The fruit is greater inner steadiness in uncertain moments."
+   }
+  },
+  {
+   "sorszam": 12,
+   "id": "apip-nappali-atitatas",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "A nappal átitatása a gyakorlattal",
+    "en": "Soaking the day in the practice"
+   },
+   "cel": {
+    "hu": "Napközben újra meg újra a gyakorlatra gondolni, hogy a tudatalatti — a hagyomány „programozható” modellje szerint — fontosnak lássa, és a maga eszközeivel segítsen, ahelyett hogy útban lenne.",
+    "en": "To return to the practice again and again through the day, so that the deeper mind — in the tradition's „programmable” model — comes to see it as important and helps with its own means, instead of getting in the way."
+   },
+   "modszer": [
+    {
+     "hu": "Sződ bele a napodba a gondolatot: milyen módszert használsz, hogyan készülsz, mikor gyakorolsz.",
+     "en": "Weave the thought through your day: which method you use, how you prepare, when you will practise."
+    },
+    {
+     "hu": "Vedd észre, mi köti le máskülönben a figyelmedet, és tudatosan adj helyet a gyakorlatnak is.",
+     "en": "Notice what otherwise occupies your attention, and consciously give the practice its place too."
+    },
+    {
+     "hu": "Ne csak elalvás előtt jusson eszedbe; tedd a nap visszatérő gondolatává.",
+     "en": "Do not let it occur to you only before sleep; make it a recurring thought of the day."
+    },
+    {
+     "hu": "Tartsd finoman, kényszer nélkül — érdeklődő visszatérés, nem görcsös rágódás.",
+     "en": "Hold it lightly, without strain — an interested return, not anxious brooding."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány a tudatalattit ismétlésre reagáló „számítógépnek” képzeli, amely csak a valóban fontosnak jelölt dolgokra fordít erőforrást; ezt belső modellként kezeld. Józan lencsén ez a szándék és a figyelem következetes ápolása. A gyümölcs a mélyülő elköteleződés és fókusz.",
+    "en": "The tradition imagines the deeper mind as a repetition-driven „computer” that spends resources only on what is marked truly important; treat this as an inner model. Through the sober lens it is consistent tending of intention and attention. The fruit is deepening commitment and focus."
+   }
+  },
+  {
+   "sorszam": 13,
+   "id": "apip-sikeres-lefutas-kepzelet",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A sikeres lefutás elképzelése",
+    "en": "Imagining the successful run"
+   },
+   "cel": {
+    "hu": "Élénken végigképzelni az egész folyamatot a sikeres élményig: elalvás, ébredés, a módszer lépései, a kiválás — a hagyomány szerint ez egyszerre programozza a tudatalattit és a képzeletet edzi.",
+    "en": "To vividly imagine the whole process through to the successful experience: falling asleep, waking, the steps of the method, the separation — the tradition holds this both programmes the deeper mind and trains the imagination."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj vagy feküdj le nyugodtan, és képzeld el, ahogy este elalszol a szándékkal.",
+     "en": "Sit or lie down calmly and imagine yourself falling asleep at night with the intention."
+    },
+    {
+     "hu": "Kísérd végig magad, ahogy felébredsz, elindítod a módszert, és belépsz az átmeneti állapotba.",
+     "en": "Follow yourself waking, starting the method, and entering the in-between state."
+    },
+    {
+     "hu": "Képzeld el a jeleket, amelyekre számítasz — hangokat, rezgést, könnyű kiválást —, és az élményt.",
+     "en": "Imagine the signs you expect — sounds, vibration, a light separation — and the experience itself."
+    },
+    {
+     "hu": "Töltsd meg a képet a siker jó érzésével: hogyan éreznéd magad, ha megtörténne.",
+     "en": "Fill the image with the good feeling of success: how you would feel if it happened."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt a képzeletet egyszerre tudatalatti-programozásnak és „vonzásnak” nevezi; ezt belső modellként kezeld, ne kimenetel-garanciaként. Józan lencsén ez mentális próba és képzeletedzés, rokon a sportolók vizualizációjával. A gyümölcs az élénkebb belső kép és a nyugodtabb várakozás.",
+    "en": "The tradition calls this imagining both subconscious programming and „attraction”; treat it as an inner model, not a guarantee of outcome. Through the sober lens it is mental rehearsal and imagination training, kin to athletes' visualisation. The fruit is a livelier inner image and calmer anticipation."
+   }
+  },
+  {
+   "sorszam": 14,
+   "id": "apip-siker-erzese",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "A siker jó érzésének felidézése",
+    "en": "Evoking the good feeling of success"
+   },
+   "cel": {
+    "hu": "Feltölteni magad a sikeres élmény pozitív érzésével — az örömmel, a szabadsággal, a rácsodálkozással —, hogy a vágy érzelmi töltése is a gyakorlat mellé álljon.",
+    "en": "To fill yourself with the positive feeling of a successful experience — the joy, the freedom, the wonder — so that the emotional charge of desire also stands behind the practice."
+   },
+   "modszer": [
+    {
+     "hu": "Idézd fel, milyen érzés lenne, ha az élmény sikerülne: a könnyűség, a tágasság, az öröm.",
+     "en": "Recall what it would feel like if the experience succeeded: the lightness, the spaciousness, the joy."
+    },
+    {
+     "hu": "Engedd, hogy ez a jó érzés valóban átjárjon, ne csak gondolati kép maradjon.",
+     "en": "Let this good feeling actually pervade you, not remain a mere mental picture."
+    },
+    {
+     "hu": "Kösd az érzést a gyakorlatra való készülődéshez, hogy vonzóvá, ne kötelességgé váljon.",
+     "en": "Bind the feeling to preparing for the practice, so it becomes attractive rather than a duty."
+    },
+    {
+     "hu": "Térj vissza hozzá napközben röviden, valahányszor a gyakorlatra gondolsz.",
+     "en": "Return to it briefly through the day whenever you think of the practice."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a pozitív érzelem közli a tudatalattival a vágy komolyságát; ezt belső modellként kezeld. Józan lencsén ez motivációt és pozitív várakozást ápol. A gyümölcs a jókedvűbb, kevésbé görcsös hozzáállás — ami önmagában is érték.",
+    "en": "The tradition says positive emotion communicates the seriousness of the desire to the deeper mind; treat this as an inner model. Through the sober lens it tends motivation and positive expectancy. The fruit is a lighter, less strained attitude — valuable in itself."
+   }
+  },
+  {
+   "sorszam": 15,
+   "id": "apip-elkotelezett-gyakorlas",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Elkötelezett, telt gyakorlás",
+    "en": "Wholehearted, full practice"
+   },
+   "cel": {
+    "hu": "Teljes lendülettel, éhes tanulóként végigvinni a tanulást és a gyakorlást, mert a hagyomány szerint ahogy egy dolgot csinálsz, úgy csinálsz mindent — a következetesség maga üzen a tudatalattinak.",
+    "en": "To carry the learning and the practice through with full momentum, as a hungry student, because the tradition holds that the way you do one thing is the way you do everything — the consistency itself speaks to the deeper mind."
+   },
+   "modszer": [
+    {
+     "hu": "Haladj végig a tananyagon lendületesen, tedd gyakorlatba, amit tanulsz, tegyél fel kérdéseket.",
+     "en": "Move through the material with momentum, put what you learn into practice, ask questions."
+    },
+    {
+     "hu": "Gyakorolj bátran gyakran; a hagyomány szerint a sűrű ismétlés jelzi a szándék komolyságát.",
+     "en": "Practise often and boldly; the tradition holds that frequent repetition signals the seriousness of the intention."
+    },
+    {
+     "hu": "Figyeld magad: telt, jelenlévő elköteleződéssel vagy csak félvállról jelen?",
+     "en": "Watch yourself: are you present with full commitment, or only half-heartedly there?"
+    },
+    {
+     "hu": "Ha frusztráció jelentkezik, ott állj meg és lazíts — a nyomás alá helyezés más játszma, azt kerüld.",
+     "en": "If frustration arises, stop there and ease off — pressuring yourself is a different game, and one to avoid."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a sűrű, lendületes gyakorlás „túltelíti” a tudatalattit a szándékkal; ezt belső modellként kezeld. Józan lencsén ez a következetesség és önfegyelem ápolása. A gyümölcs a kitartóbb szokás — de a mérce a nyugalom marad, nem a hajszolt teljesítmény.",
+    "en": "The tradition says frequent, energetic practice „over-saturates” the deeper mind with intention; treat this as an inner model. Through the sober lens it tends consistency and self-discipline. The fruit is a steadier habit — but the measure stays calm, not driven performance."
+   },
+   "etika": {
+    "hu": "A telt gyakorlás nem jelent önostorozást. Ha a gyakorlás frusztrációt, szorongást vagy alváshiányt szül, lazíts a tempón — a belső béke mindig előbbre való a mennyiségnél. Ez nem verseny és nem teljesítménypróba.",
+    "en": "Full practice does not mean self-flagellation. If practice breeds frustration, anxiety or lost sleep, ease the pace — inner peace always comes before quantity. This is not a competition or a performance test."
+   }
+  },
+  {
+   "sorszam": 16,
+   "id": "apip-korlato-hitek-naplo",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "A korlátozó hitek naplózása",
+    "en": "Journalling limiting beliefs"
+   },
+   "cel": {
+    "hu": "Éberen megfigyelni és leírni a visszatérő gondolatokat, érzéseket és félelmeket, majd visszakeresni az eredetüket — hogy a rejtett, korlátozó meggyőződéseid felszínre kerüljenek és oldódhassanak.",
+    "en": "To mindfully observe and write down recurring thoughts, feelings and fears, then trace their origin — so that hidden, limiting beliefs surface and can loosen."
+   },
+   "modszer": [
+    {
+     "hu": "Vidd bele a figyelmet a mindennapokba: vedd észre, mikor jelenik meg egy elakadás vagy elutasító gondolat.",
+     "en": "Bring attention into daily life: notice when a block or a dismissive thought appears."
+    },
+    {
+     "hu": "Írd le a gondolatot vagy érzést, és kérdezd meg, honnan ered, mikor tanultad meg.",
+     "en": "Write the thought or feeling down and ask where it comes from, when you learned it."
+    },
+    {
+     "hu": "Kövesd vissza egy régebbi élményhez vagy valakinek a szavaihoz, ha felmerül ilyen.",
+     "en": "Trace it back to an older experience or to someone's words, if such arises."
+    },
+    {
+     "hu": "Térj vissza a naplóhoz rendszeresen, és nézd, oldódik-e a régi minta a megértéssel.",
+     "en": "Return to the journal regularly and see whether the old pattern loosens with understanding."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány úgy tartja, a rejtett hitek „programként” futnak és tükröződnek a tapasztalásban; ezt belső modellként kezeld, nem bizonyított mechanizmusként. Józan lencsén ez önismereti napló és éber önmegfigyelés. A gyümölcs a tisztább önismeret és a kevesebb önkorlátozás.",
+    "en": "The tradition holds that hidden beliefs run as „programs” and mirror in experience; treat this as an inner model, not a proven mechanism. Through the sober lens it is a self-knowledge journal and mindful self-observation. The fruit is clearer self-knowledge and fewer self-imposed limits."
+   },
+   "etika": {
+    "hu": "Ez önismereti gyakorlat, nem terápia. Ha nehéz emlék vagy erős szorongás bukkan fel, és az meghaladja azt, amit egyedül biztonságosan kezelni tudsz, fordulj képzett segítőhöz. Krízisben lévőknek nem ez a gyakorlat való, hanem azonnali szakszerű segítség.",
+    "en": "This is self-inquiry, not therapy. If a hard memory or strong anxiety surfaces beyond what you can safely hold alone, turn to a trained professional. For anyone in crisis this practice is not the answer — immediate professional help is."
+   }
+  },
+  {
+   "sorszam": 17,
+   "id": "apip-onreflexios-meditacio",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Önreflexiós meditáció",
+    "en": "Self-reflective meditation"
+   },
+   "cel": {
+    "hu": "Csendes meditációban és reflexióban felszínre engedni a tudatalatti mintákat: egy-egy feltörő érzést vagy gondolatot kibontani és mélyíteni, hogy világosabban lásd, mi mozgat.",
+    "en": "To let subconscious patterns surface in quiet meditation and reflection: unfolding and deepening a feeling or thought that rises, so you see more clearly what moves you."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj le csendben, csukd be a szemed, és engedd, hogy a figyelem befelé forduljon.",
+     "en": "Sit in silence, close your eyes, and let attention turn inward."
+    },
+    {
+     "hu": "Amikor egy érzés vagy gondolat feltör, ne told el — maradj vele, és tágítsd ki finoman.",
+     "en": "When a feeling or thought rises, do not push it away — stay with it and gently expand it."
+    },
+    {
+     "hu": "Kérdezd meg, mit üzen, honnan jön, mihez kapcsolódik a múltadban.",
+     "en": "Ask what it says, where it comes from, what it connects to in your past."
+    },
+    {
+     "hu": "A meditáció után írd le a felismeréseket, hogy a belátás megmaradjon.",
+     "en": "After the meditation write down the insights, so the understanding stays."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint így „hozod felszínre és oldod” a rejtett programokat; ezt belső modellként kezeld. Józan lencsén ez befelé forduló figyelem- és reflexiós gyakorlat. A gyümölcs a nyugodtabb önismeret és a tisztább belső látás.",
+    "en": "The tradition says this is how you „surface and dissolve” hidden programs; treat it as an inner model. Through the sober lens it is inward-turning attention and reflection. The fruit is calmer self-knowledge and clearer inner sight."
+   },
+   "etika": {
+    "hu": "Ez önismereti és meditációs gyakorlat, nem terápia. Ha nehéz emlék vagy erős érzelem tör fel, amely meghaladja azt, amit egyedül biztonságosan tartani tudsz, nyisd ki a szemed, térj vissza a jelenbe, és fordulj képzett szakemberhez. Krízisben lévőknek nem ez a gyakorlat való, hanem azonnali szakszerű segítség.",
+    "en": "This is a practice of self-inquiry and meditation, not therapy. If a hard memory or strong emotion surfaces beyond what you can safely hold alone, open your eyes, return to the present, and turn to a trained professional. For anyone in crisis this practice is not the answer — immediate professional help is."
+   }
+  },
+  {
+   "sorszam": 18,
+   "id": "apip-melyebb-blokkok-segitseg",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Mélyebb elakadások és a segítség kérése",
+    "en": "Deeper blocks and asking for help"
+   },
+   "cel": {
+    "hu": "Felismerni, mikor haladja meg egy elakadás azt, amit egyedül biztonságosan kezelni tudsz, és képzett segítőt keresni — a forrás említette szerhasználat helyett a biztonságos, támogatott utat választva.",
+    "en": "To recognise when a block exceeds what you can safely handle alone and to seek qualified support — choosing the safe, supported path instead of the substance use the source mentions."
+   },
+   "modszer": [
+    {
+     "hu": "Vedd észre a jeleket: makacs, ismétlődő elakadás, erős szorongás, régi seb, amely nem enged.",
+     "en": "Notice the signs: a stubborn, recurring block, strong anxiety, an old wound that will not release."
+    },
+    {
+     "hu": "Ne fordulj tudatmódosító szerekhez ennek a munkának a nevében — ezt itt kifejezetten elhagyjuk.",
+     "en": "Do not turn to mind-altering substances in the name of this work — we explicitly set that aside here."
+    },
+    {
+     "hu": "Keress képzett segítőt: hipnoterapeutát, tanácsadót vagy más szakembert, aki biztonságos keretet ad.",
+     "en": "Seek a trained professional: a hypnotherapist, counsellor or other practitioner who offers a safe frame."
+    },
+    {
+     "hu": "A belső munkát tartsd meg támogatásként a szakszerű segítség mellett, nem helyette.",
+     "en": "Keep the inner work as support alongside professional help, not instead of it."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány itt mélyebb belső gyógyulásról beszél; ezt belső modellként kezeld, nem terápiás ígéretként. Józan lencsén a lényeg a biztonságos önismeret és a segítségkérés bátorsága. A gyümölcs a támogatott, nem magányos feldolgozás.",
+    "en": "The tradition speaks here of deeper inner healing; treat this as an inner model, not a therapeutic promise. Through the sober lens the point is safe self-knowledge and the courage to ask for help. The fruit is supported, not solitary, processing."
+   },
+   "etika": {
+    "hu": "Ez nem orvosi vagy pszichológiai kezelés, és nem helyettesíti azt. A forrás által említett pszichedelikus szerhasználatot itt nem javasoljuk és nem tanítjuk — kockázatos és sok helyen tilos. Trauma, súlyos szorongás vagy krízis esetén fordulj képzett szakemberhez; a belső gyakorlat sosem késleltetheti a valódi ellátást.",
+    "en": "This is not medical or psychological treatment and does not replace it. We do not recommend or teach the psychedelic substance use the source mentions — it is risky and unlawful in many places. For trauma, severe anxiety or crisis, see a qualified professional; inner practice must never delay real care."
+   }
+  },
+  {
+   "sorszam": 19,
+   "id": "apip-lucid-szandek",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Erős szándék lefekvéskor",
+    "en": "A strong intention at bedtime"
+   },
+   "cel": {
+    "hu": "Nagyon erős szándékot állítani elalvás előtt, hogy tudatossá válj az álmodban — mert a hagyomány szerint a puszta remény túl halk ahhoz, hogy az elme komolyan vegye.",
+    "en": "To set a very strong intention before sleep that you will become aware within your dream — because the tradition holds that mere hoping is too faint for the mind to take seriously."
+   },
+   "modszer": [
+    {
+     "hu": "Elalvás előtt fogalmazd meg határozottan: tudatos leszek az álmomban, ez fog történni.",
+     "en": "Before sleep state it firmly: I will become aware in my dream, this is what will happen."
+    },
+    {
+     "hu": "Ne kívánságként, hanem eltökélt szándékként tartsd — mintha valóban ezen múlna valami fontos.",
+     "en": "Hold it not as a wish but as a resolute intention — as if something important truly depended on it."
+    },
+    {
+     "hu": "Ismételd el magadban párszor, amíg elered a szándék súlyát belül.",
+     "en": "Repeat it to yourself a few times until you feel the weight of the intention within."
+    },
+    {
+     "hu": "Vidd magaddal ezt a szándékot az elalvásba, hagyd, hogy elkísérjen az álomküszöbig.",
+     "en": "Carry this intention into falling asleep, let it accompany you to the threshold of dreaming."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az erős, elalvás előtti szándék úgy programozható, mint amikor időzítünk egy fontos ébredést; ezt belső modellként kezeld, nem garanciaként. Józan lencsén ez a szándék fókuszálása és a figyelem irányítása. A gyümölcs a szilárdabb, összeszedettebb elalvás.",
+    "en": "The tradition says a strong pre-sleep intention can be programmed like setting yourself to wake for something important; treat this as an inner model, not a guarantee. Through the sober lens it is focusing intention and directing attention. The fruit is a firmer, more collected falling-asleep."
+   }
+  },
+  {
+   "sorszam": 20,
+   "id": "apip-almszinter-belemerules",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Belemerülés egy álomszíntérbe",
+    "en": "Immersion in a dream scene"
+   },
+   "cel": {
+    "hu": "Elalvás közben egy választott álomjelenetet nem csak elképzelni, hanem érzékszervekkel átélni — a talaj tapintását, a hangokat, a szelet —, hogy az elme belesimuljon a jelenetbe.",
+    "en": "To not merely picture a chosen dream scene while falling asleep but to live it through the senses — the touch of the ground, the sounds, the wind — so the mind settles into the scene."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy egyszerű jelenetet: tengerpart, erdő, egy másik táj — bármi, ami vonz.",
+     "en": "Choose a simple scene: a beach, a forest, another landscape — whatever draws you."
+    },
+    {
+     "hu": "Ne kívülről nézd, hanem legyél benne: érezd a talajt a lábad alatt, a levegőt az arcodon.",
+     "en": "Do not watch it from outside but be inside it: feel the ground under your feet, the air on your face."
+    },
+    {
+     "hu": "Hívd elő a hangokat és a mozgást — a hullámokat, a szél zúgását —, hogy élővé váljon.",
+     "en": "Call up the sounds and the movement — the waves, the rush of wind — so it comes alive."
+    },
+    {
+     "hu": "Maradj ellazultan a jelenetben, ahogy az álom felé sodródsz.",
+     "en": "Stay relaxed within the scene as you drift toward sleep."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az érzékletes belemerülés hívja elő az álmot, amelyben tudatossá válhatsz; ezt sem tényként, sem ígéretként nem állítjuk. Józan lencsén ez sokérzékű képzeletgyakorlat és nyugtató elalvási segéd. A gyümölcs az élénkebb képzelet és a könnyedebb elalvás.",
+    "en": "The tradition says sensory immersion calls forth the dream in which you may become aware; we assert this neither as fact nor as promise. Through the sober lens it is multisensory imagination practice and a soothing aid to sleep. The fruit is livelier imagination and easier falling-asleep."
+   }
+  },
+  {
+   "sorszam": 21,
+   "id": "apip-visszaszamlalas-legzes",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Visszaszámlálás a légzéssel",
+    "en": "Counting down with the breath"
+   },
+   "cel": {
+    "hu": "Visszafelé számolni százról nulláig, a légzés ritmusára, minden szám mellé csendben odatéve a szándék megerősítését — hogy a számolás lekösse a felszíni elmét, miközben elmerülsz.",
+    "en": "To count backwards from a hundred to zero in the rhythm of the breath, silently pairing each number with an affirmation of intent — so the counting occupies the surface mind while you sink."
+   },
+   "modszer": [
+    {
+     "hu": "Vegyél lassú lélegzeteket, és minden kilégzésnél mondj egy csökkenő számot: száz, kilencvenkilenc.",
+     "en": "Take slow breaths, and on each exhale say a descending number: one hundred, ninety-nine."
+    },
+    {
+     "hu": "Minden szám után tedd hozzá csendben a megerősítést, például: tudatosan álmodom.",
+     "en": "After each number silently add the affirmation, for instance: I am dreaming lucidly."
+    },
+    {
+     "hu": "Lélegezz egyre lassabban és mélyebben, hagyd, hogy a ritmus vigyen lefelé.",
+     "en": "Breathe ever slower and deeper, let the rhythm carry you downward."
+    },
+    {
+     "hu": "Ha elveszíted a fonalat, ne bosszankodj — kezdd újra ott, ahol tudod, vagy egyszerűen sodródj tovább.",
+     "en": "If you lose the thread, do not fret — resume where you can, or simply drift on."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint így léphetsz be tudatosan az álomba; ezt belső modellként kezeld, nem ígéretként. Józan lencsén a számolás egyszerűen elfoglalja az elmét, hogy ne kalandozzon el, és megkönnyíti az elalvást. A gyümölcs a nyugodtabb, összeszedettebb átmenet az alvásba.",
+    "en": "The tradition says this is how you may consciously enter a dream; treat this as an inner model, not a promise. Through the sober lens the counting simply occupies the mind so it does not wander, and it eases falling asleep. The fruit is a calmer, more collected transition into sleep."
+   }
+  },
+  {
+   "sorszam": 22,
+   "id": "apip-ellazulas-sullyedes",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Ellazulás és süllyedés kilégzésre",
+    "en": "Relaxing and sinking on the exhale"
+   },
+   "cel": {
+    "hu": "A visszaszámlálás közben a figyelem java részét nem a számokra, hanem az ellazulásra tenni: minden kilégzésnél mélyebbre süllyedni, fáradtabbá, elengedettebbé válni.",
+    "en": "To place most of your attention during the count not on the numbers but on relaxing: sinking deeper with each exhale, growing more tired and more released."
+   },
+   "modszer": [
+    {
+     "hu": "Emlékeztesd magad, hogy nem a számolás a lényeg — az csak háttértevékenység.",
+     "en": "Remind yourself that the counting is not the point — it is only a background activity."
+    },
+    {
+     "hu": "Minden kilégzésnél érezd, ahogy a tested nehezebb lesz és mélyebbre süllyed.",
+     "en": "On each exhale feel your body grow heavier and sink deeper."
+    },
+    {
+     "hu": "Vidd a figyelmed a test érzeteire és a lélegzésre; hagyd, hogy a fáradtság elöntsön.",
+     "en": "Bring attention to the body's sensations and to the breath; let tiredness wash over you."
+    },
+    {
+     "hu": "Ne kapaszkodj a nullába — a cél az elalvás, nem a számsor végigmondása.",
+     "en": "Do not cling to reaching zero — the aim is falling asleep, not finishing the sequence."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány figyelmeztet, hogy a számolásra fókuszálva sokan végigszámolnak és nem alszanak el; a hangsúly az ellazuláson van. Józan lencsén ez klasszikus ellazulási és elalvási gyakorlat. A gyümölcs a testi elengedés és a könnyebb, mélyebb elalvás.",
+    "en": "The tradition warns that fixating on the counting makes many count to the end without sleeping; the emphasis is on relaxing. Through the sober lens this is a classic relaxation and sleep-onset practice. The fruit is bodily release and easier, deeper falling-asleep."
+   }
+  },
+  {
+   "sorszam": 23,
+   "id": "apip-alomnaplo",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Álomnapló minden reggel",
+    "en": "A dream journal every morning"
+   },
+   "cel": {
+    "hu": "Minden reggel leírni az álmokat, hogy hidat építs a fizikai és a nem-fizikai emlékezet közé — a hagyomány szerint az álmok rögzítése azt üzeni az elmének, hogy jegyezze meg őket, és javul az álomemlék.",
+    "en": "To write your dreams down every morning, building a bridge between physical and non-physical memory — the tradition holds that recording dreams tells the mind to remember them, and recall improves."
+   },
+   "modszer": [
+    {
+     "hu": "Tarts naplót vagy hangrögzítőt az ágyad mellett, hogy ébredés után rögtön kéznél legyen.",
+     "en": "Keep a journal or voice recorder beside your bed, so it is at hand the moment you wake."
+    },
+    {
+     "hu": "Ébredés után azonnal, mozdulatlanul kezdd el rögzíteni, amire emlékszel, mielőtt elszáll.",
+     "en": "As soon as you wake, still and unmoving, begin to record whatever you recall before it fades."
+    },
+    {
+     "hu": "Írj részleteket: helyszínek, arcok, érzések, visszatérő motívumok.",
+     "en": "Write details: places, faces, feelings, recurring motifs."
+    },
+    {
+     "hu": "Tedd napi szokássá — az állandóság maga erősíti a hidat az álomélethez.",
+     "en": "Make it a daily habit — the constancy itself strengthens the bridge to your dream life."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az álomnapló edzi a „nem-fizikai emlékezetet”, amely a mélyebb élmények felidézéséhez kell; ezt belső modellként kezeld. Józan lencsén ez bizonyítottan javítja az álomemléket és az önmegfigyelést. A gyümölcs a részletgazdagabb álomemlék és a bensőségesebb belső élet.",
+    "en": "The tradition says the journal trains the „non-physical memory” needed to recall deeper experiences; treat this as an inner model. Through the sober lens it reliably improves dream recall and self-observation. The fruit is more detailed dream memory and a more intimate inner life."
+   }
+  },
+  {
+   "sorszam": 24,
+   "id": "apip-uresen-is-iras",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Írás akkor is, ha semmi sem jut eszedbe",
+    "en": "Writing even when nothing comes"
+   },
+   "cel": {
+    "hu": "A naplót akkor is elővenni és írni kezdeni, amikor úgy tűnik, semmire sem emlékszel — mert a puszta mozdulat gyakran horgonyként visszahívja az álomemléket.",
+    "en": "To pick up the journal and begin writing even when it seems you recall nothing — because the mere act often works as an anchor that draws the dream memory back."
+   },
+   "modszer": [
+    {
+     "hu": "Ébredés után vedd elő a naplót, még ha üresnek is érzed a fejed.",
+     "en": "On waking take out the journal, even if your head feels empty."
+    },
+    {
+     "hu": "Kezdj el írni bármit: egy hangulatot, egy foszlányt, egy színt, egy érzést.",
+     "en": "Start writing anything: a mood, a fragment, a colour, a feeling."
+    },
+    {
+     "hu": "Figyeld, ahogy az írás lassan előhívja a részleteket, amelyek először rejtve maradtak.",
+     "en": "Watch as the writing slowly draws out details that were hidden at first."
+    },
+    {
+     "hu": "Ne ítéld el magad, ha kevés jön — a szokás maga edzi az emlékezetet.",
+     "en": "Do not judge yourself if little comes — the habit itself trains the memory."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a napló elővétele „horgony”, amely beindítja a felidézést; ezt belső modellként kezeld. Józan lencsén ez az emlékezeti előhívás egyszerű, hatékony fogása. A gyümölcs a fokozatosan bővülő álomemlék, még gyenge kezdés után is.",
+    "en": "The tradition says reaching for the journal is an „anchor” that starts recall; treat this as an inner model. Through the sober lens it is a simple, effective memory-retrieval trick. The fruit is gradually expanding dream recall, even after a weak start."
+   }
+  },
+  {
+   "sorszam": 25,
+   "id": "apip-almjelek",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Az álomjelek felismerése",
+    "en": "Recognising dream signs"
+   },
+   "cel": {
+    "hu": "A naplóból kiszűrni a visszatérő álomhelyszíneket, alakokat vagy motívumokat, és előre eldönteni, hogy ezekre valóságtesztet fogsz végezni — így a saját álmaid ismétlődő jelei ébresztenek fel benne.",
+    "en": "To pick out from the journal the recurring dream places, figures or motifs, and to decide in advance that you will do a reality check on these — so the repeating signs of your own dreams wake you within them."
+   },
+   "modszer": [
+    {
+     "hu": "Olvasd át a naplód pár hetét, és keresd a visszatérő elemeket: egy hely, egy személy, egy helyzet.",
+     "en": "Read back through a few weeks of your journal and look for recurring elements: a place, a person, a situation."
+    },
+    {
+     "hu": "Válaszd ki a leggyakoribb álomjelet, és jegyezd meg tudatosan.",
+     "en": "Choose the most frequent dream sign and note it consciously."
+    },
+    {
+     "hu": "Elalvás előtt tűzd ki: amint ezt a jelet meglátom álmomban, valóságtesztet végzek.",
+     "en": "Before sleep resolve: as soon as I see this sign in a dream, I will do a reality check."
+    },
+    {
+     "hu": "Frissítsd a listát, ahogy új ismétlődő motívumok jelennek meg a naplóban.",
+     "en": "Update the list as new recurring motifs appear in the journal."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az ismétlődő álomjel megbízható „ébresztő” lehet az álomban; ezt belső modellként kezeld, nem garanciaként. Józan lencsén ez mintafelismerés és szándékos figyelemtervezés. A gyümölcs az önismeret és az álomvilágod térképének élesedése.",
+    "en": "The tradition says a recurring dream sign can be a reliable „wake-up” within the dream; treat this as an inner model, not a guarantee. Through the sober lens it is pattern recognition and deliberate attention-planning. The fruit is sharper self-knowledge and a clearer map of your dream world."
+   }
+  },
+  {
+   "sorszam": 26,
+   "id": "apip-erzelmi-felidezes",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Felidézés az érzésen át",
+    "en": "Recall through feeling"
+   },
+   "cel": {
+    "hu": "Ébredés után mozdulatlanul, csukott szemmel maradni, és az utolsó álom érzésére figyelni — mert az érzések tovább megmaradnak az emlékezetben, és felőlük visszatalálsz az álomhoz.",
+    "en": "To stay still with eyes closed after waking and attend to the feeling of the last dream — because feelings linger longer in memory, and from them you find your way back to the dream."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor felébredsz, ne mozdulj és ne nyisd ki a szemed; maradj csendben.",
+     "en": "When you wake, do not move or open your eyes; stay quiet."
+    },
+    {
+     "hu": "Figyelj arra, hogyan érzed magad — az érzés gyakran az utolsó álomé.",
+     "en": "Notice how you feel — the feeling is often that of the last dream."
+    },
+    {
+     "hu": "Maradj az érzéssel, és hagyd, hogy köré épüljön vissza a jelenet.",
+     "en": "Stay with the feeling and let the scene rebuild itself around it."
+    },
+    {
+     "hu": "Amikor előjönnek a képek, óvatosan rögzítsd őket a naplóban.",
+     "en": "When the images come, gently record them in the journal."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az érzelem a legtartósabb emléknyom, és jó fogódzó a felidézéshez; ezt belső modellként kezeld. Józan lencsén ez érzékeny, testtudatos emlékezeti gyakorlat. A gyümölcs a jobb álomemlék és a finomabb önérzékelés.",
+    "en": "The tradition says emotion is the most durable memory trace and a good handhold for recall; treat this as an inner model. Through the sober lens it is a sensitive, body-aware memory practice. The fruit is better dream recall and finer self-sensing."
+   }
+  },
+  {
+   "sorszam": 27,
+   "id": "apip-alomszinter-felidezes",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Felidézés a szokott álomhelyszínen át",
+    "en": "Recall through the familiar dream scene"
+   },
+   "cel": {
+    "hu": "Ébredéskor felidézni a visszatérő álomhelyszíneidet, mert gyakran ugyanazokra a helyekre álmodunk vissza — és ha rájuk gondolsz, előjöhet, mi történt ott legutóbb.",
+    "en": "To recall your recurring dream locations on waking, since we often dream back to the same places — and thinking of them can bring up what last happened there."
+   },
+   "modszer": [
+    {
+     "hu": "Ébredés után gondolj a szokott álomhelyszíneidre, ahová gyakran visszatérsz.",
+     "en": "On waking, think of your familiar dream locations, the ones you often return to."
+    },
+    {
+     "hu": "Kérdezd meg magadtól, mi volt az utolsó dolog, ami ott történt ma éjjel.",
+     "en": "Ask yourself what the last thing was that happened there tonight."
+    },
+    {
+     "hu": "Hagyd, hogy a hely felidézése kihúzza a hozzá kapcsolódó jelenetet.",
+     "en": "Let the recall of the place pull out the scene attached to it."
+    },
+    {
+     "hu": "Rögzítsd, amit így visszanyertél, mielőtt elhalványul.",
+     "en": "Record what you recover this way before it fades."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a visszatérő helyszínek jó emlékezeti kapaszkodók; ezt belső modellként kezeld. Józan lencsén ez a kontextus-alapú felidézés fogása. A gyümölcs a teljesebb álomemlék és az álomtájaid ismerőssé válása.",
+    "en": "The tradition says recurring locations are good memory handholds; treat this as an inner model. Through the sober lens it is context-based retrieval. The fruit is fuller dream recall and growing familiarity with your dream landscapes."
+   }
+  },
+  {
+   "sorszam": 28,
+   "id": "apip-stabilizalas",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Stabilizálás és az éberség emelése",
+    "en": "Stabilising and raising awareness"
+   },
+   "cel": {
+    "hu": "Amint tudatossá válsz az álomban vagy kiválsz, először stabilizálni az élményt és a lehető legmagasabbra emelni az éberséget — mert alacsony éberséggel az élmény elmosódott és rosszul felidézhető marad.",
+    "en": "As soon as you become aware in a dream or separate, to first stabilise the experience and raise awareness as high as possible — because at low awareness the experience stays blurred and poorly remembered."
+   },
+   "modszer": [
+    {
+     "hu": "Amint felismered, hogy álmodsz vagy kiváltál, ne kezdj rögtön felfedezni.",
+     "en": "The moment you realise you are dreaming or have separated, do not rush to explore."
+    },
+    {
+     "hu": "Nézz a kezedre, dörzsöld össze a kezed, tapints meg felületeket a körülötted lévő térben.",
+     "en": "Look at your hands, rub them together, touch the surfaces in the space around you."
+    },
+    {
+     "hu": "Ismételj halkan néhány rövid, éberségre hívó szót, amely több tudatosságot és tisztább látást kér magadtól.",
+     "en": "Quietly repeat a few short words that call up more alertness and clearer sight in yourself."
+    },
+    {
+     "hu": "Csak akkor indulj tovább, ha az éberséged eléri vagy meghaladja az éber, fizikai szintedet.",
+     "en": "Only move on once your awareness matches or exceeds your waking, physical level."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a stabilizálás emeli az élmény tisztaságát és felidézhetőségét; ezt belső modellként kezeld, nem ígéretként. Józan lencsén ez a figyelem földelése és élesítése egy belső jelenetben. A gyümölcs a tisztább, összeszedettebb belső tapasztalás.",
+    "en": "The tradition says stabilising raises the clarity and recall of the experience; treat this as an inner model, not a promise. Through the sober lens it is grounding and sharpening attention within an inner scene. The fruit is a clearer, more collected inner experience."
+   }
+  },
+  {
+   "sorszam": 29,
+   "id": "apip-jo-idozites-alvas",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Jó időzítés és elegendő alvás",
+    "en": "Good timing and enough sleep"
+   },
+   "cel": {
+    "hu": "Megalapozni a gyakorlatot a jó alváshigiéné első lépésével: nem kimerülten lefeküdni, és elegendő alvást biztosítani, hogy legyen elég REM-fázis, amelyben az álmok zajlanak.",
+    "en": "To ground the practice in the first step of good sleep hygiene: not going to bed exhausted, and allowing enough sleep so there is ample REM, when dreaming takes place."
+   },
+   "modszer": [
+    {
+     "hu": "Feküdj le jó időben, ne egy hosszú, kimerítő nap végén, holtfáradtan.",
+     "en": "Go to bed at a good time, not dead-tired at the end of a long, exhausting day."
+    },
+    {
+     "hu": "Célozz elegendő alvásra, hogy bőven jusson a REM-fázisokból, amelyekben az álmok megjelennek.",
+     "en": "Aim for enough sleep so there is plenty of the REM phases in which dreams appear."
+    },
+    {
+     "hu": "Tartsd egyenletesen az alvási ritmusodat, hogy a tested kiszámíthatóan pihenjen.",
+     "en": "Keep your sleep rhythm even, so your body rests predictably."
+    },
+    {
+     "hu": "Tekintsd a pihent, tiszta állapotot a gyakorlat alapfeltételének, ne mellékesnek.",
+     "en": "Treat a rested, clear state as the precondition of the practice, not an afterthought."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint jó alvás nélkül egyik módszer sem működik rendesen — ez itt egészségvédő keret is. Józan lencsén ez egyszerűen egészséges alváshigiéné. A gyümölcs a pihentebb nappalok és a tisztább figyelem, függetlenül minden belső céltól.",
+    "en": "The tradition says without good sleep no method works properly — here that doubles as a health-protective frame. Through the sober lens it is simply healthy sleep hygiene. The fruit is more rested days and clearer attention, regardless of any inner aim."
+   },
+   "etika": {
+    "hu": "Az egészséges alvás mindig előbbre való a gyakorlatnál. Soha ne áldozd fel az alvásod belső élményekért, és ne kísérletezz alvásmegvonással. Ez nem orvosi tanács; tartós alvásgond, alvászavar vagy nappali kimerültség esetén orvoshoz fordulj, ne gyakorlathoz.",
+    "en": "Healthy sleep always comes before the practice. Never sacrifice your sleep for inner experiences, and do not experiment with sleep deprivation. This is not medical advice; with persistent sleep trouble, a sleep disorder or daytime exhaustion, see a doctor, not a technique."
+   }
+  },
+  {
+   "sorszam": 30,
+   "id": "apip-nappali-szundikalas",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Nappali szundikálás",
+    "en": "Daytime napping"
+   },
+   "cel": {
+    "hu": "Rövid nappali alvással könnyű, felszínes alvásállapotot használni, amelyben a hagyomány szerint könnyebb tudatossá válni az álomban — a mélyalvás nappal kevésbé áll be.",
+    "en": "To use a short daytime sleep for a light, shallow sleep state in which, the tradition holds, it is easier to become aware within a dream — deep sleep sets in less by day."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy nyugodt nappali időpontot, amikor le tudsz dőlni háborítatlanul.",
+     "en": "Choose a calm daytime slot when you can lie down undisturbed."
+    },
+    {
+     "hu": "Dőlj le rövid szundikálásra, tudva, hogy nappal ritkán mész mély alvásba.",
+     "en": "Lie down for a short nap, knowing that by day you rarely go into deep sleep."
+    },
+    {
+     "hu": "Vidd magaddal a szándékot és az álomjeleket ebbe a könnyű alvásba is.",
+     "en": "Carry the intention and your dream signs into this light sleep too."
+    },
+    {
+     "hu": "Ne told túl az időt, hogy ne borítsd fel az éjszakai alvásod.",
+     "en": "Do not overrun the time, so you do not upset your night sleep."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a könnyebb nappali alvás kedvez a tudatos álomnak; ezt belső modellként kezeld, nem ígéretként. Józan lencsén ez rövid, pihentető pihenő. A gyümölcs a felfrissülés és néha élénkebb álomtapasztalás — de az éjszakai alvás sértetlensége az elsődleges.",
+    "en": "The tradition says lighter daytime sleep favours lucid dreaming; treat this as an inner model, not a promise. Through the sober lens it is a short, restful rest. The fruit is refreshment and sometimes livelier dream experience — but the integrity of night sleep comes first."
+   },
+   "etika": {
+    "hu": "A nappali szundi nem pótolja az éjszakai alvást, és nem boríthatja fel azt. Akinek alvászavara vagy álmatlansága van, annak a nappali alvás ronthat az éjszakán — ilyenkor kerüld. Ez nem orvosi tanács; tartós alvásgonddal fordulj orvoshoz.",
+    "en": "A daytime nap does not replace night sleep and must not disrupt it. For anyone with a sleep disorder or insomnia, daytime sleep can worsen the night — then avoid it. This is not medical advice; with persistent sleep trouble see a doctor."
+   }
+  },
+  {
+   "sorszam": 31,
+   "id": "apip-alkohol-etel-kerulese",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "Alkohol és nehéz étel kerülése lefekvés előtt",
+    "en": "Avoiding alcohol and heavy food before bed"
+   },
+   "cel": {
+    "hu": "Elkerülni az alkoholt és a nagy étkezést lefekvés előtt, hogy a tudat tiszta maradjon, és a test ne legyen az emésztéssel elfoglalva — a hagyomány szerint így élesebb a belső figyelem.",
+    "en": "To avoid alcohol and large meals before bed, so consciousness stays clear and the body is not busy digesting — the tradition holds this keeps inner attention sharper."
+   },
+   "modszer": [
+    {
+     "hu": "Hagyd ki az alkoholt este; ne legyen a véredben, amikor lefekszel.",
+     "en": "Skip alcohol in the evening; do not have it in your blood when you lie down."
+    },
+    {
+     "hu": "Ne egyél nagy vagy nehéz vacsorát közvetlenül lefekvés előtt.",
+     "en": "Do not eat a large or heavy meal right before bed."
+    },
+    {
+     "hu": "Törekedj arra, hogy tiszta, könnyű állapotban feküdj le, ne teltségérzettel vagy bódultan.",
+     "en": "Aim to lie down clear and light, not heavy-full or dulled."
+    },
+    {
+     "hu": "Figyeld meg, milyen alvásminőség és álomtisztaság jár együtt ezzel a szokással.",
+     "en": "Notice what sleep quality and dream clarity go with this habit."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a tiszta tudat kedvez a belső éberségnek; ezt belső modellként kezeld. Józan lencsén ez általánosan is egészséges esti szokás. A gyümölcs a jobb alvásminőség és a tisztább reggeli fej.",
+    "en": "The tradition says a clear consciousness favours inner alertness; treat this as an inner model. Through the sober lens it is a generally healthy evening habit. The fruit is better sleep quality and a clearer morning head."
+   }
+  },
+  {
+   "sorszam": 32,
+   "id": "apip-kek-feny-csokkentes",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "A kék fény csökkentése este",
+    "en": "Reducing blue light in the evening"
+   },
+   "cel": {
+    "hu": "Lefekvés előtt csökkenteni a képernyők kék fényét és a hideg, éles világítást, hogy a test természetesen termeljen elalváshoz szükséges belső jeleket, és álmosabbá válj.",
+    "en": "To reduce the blue light of screens and cold, harsh lighting before bed, so the body naturally produces its cues for sleep and you grow drowsy."
+   },
+   "modszer": [
+    {
+     "hu": "Kapcsold be az éjszakai módot a telefonon és a számítógépen, hogy tompuljon a kék fény.",
+     "en": "Switch on night mode on your phone and computer, so the blue light dims."
+    },
+    {
+     "hu": "A lefekvés előtti órában maradj tompított, meleg — sárgás, narancsos — fényben.",
+     "en": "In the hour before bed stay in dimmed, warm — yellowish, orange — light."
+    },
+    {
+     "hu": "Kerüld a hideg, kékes neonfényt, például a konyhai éles világítást elalvás előtt.",
+     "en": "Avoid cold, bluish neon light, such as harsh kitchen lighting, before sleep."
+    },
+    {
+     "hu": "Adj a testednek átmenetet a nappali fényből az esti pihenésbe.",
+     "en": "Give your body a transition from daytime light into evening rest."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az éles kék fény azt üzeni a testnek, hogy még nappal van, és hátráltatja az elalvást; ez összecseng az ismert alvásélettannal. Józan lencsén ez egyszerű, egészséges alváshigiéné. A gyümölcs a könnyebb elalvás és a mélyebb pihenés.",
+    "en": "The tradition says harsh blue light tells the body it is still daytime and hinders sleep; this aligns with known sleep physiology. Through the sober lens it is simple, healthy sleep hygiene. The fruit is easier falling-asleep and deeper rest."
+   }
+  },
+  {
+   "sorszam": 33,
+   "id": "apip-zavaro-ingerek-kizarasa",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "test",
+   "cim": {
+    "hu": "A zavaró ingerek kizárása",
+    "en": "Shutting out disturbing stimuli"
+   },
+   "cel": {
+    "hu": "Kizárni a hálótér zavaró fényeit és hangjait, hogy háborítatlan, mély alvásod legyen — szemmaszkkal, füldugóval, a villogó eszközök kikapcsolásával.",
+    "en": "To shut out the disturbing lights and sounds of the sleep space for undisturbed, deep sleep — with an eye mask, earplugs, and switching off blinking devices."
+   },
+   "modszer": [
+    {
+     "hu": "Szüntesd meg a villogó fényeket: kapcsold ki vagy takard le a készülékek jelzőit.",
+     "en": "Eliminate blinking lights: switch off or cover the indicator lights of devices."
+    },
+    {
+     "hu": "Csökkentsd a zajokat, amennyire tudod; ha kell, használj füldugót.",
+     "en": "Reduce noise as much as you can; use earplugs if needed."
+    },
+    {
+     "hu": "Használj szemmaszkot, hogy teljes sötétségben pihenj.",
+     "en": "Use an eye mask so you rest in full darkness."
+    },
+    {
+     "hu": "Rendezd úgy a teret, hogy semmi ne rántson ki a mély alvásból.",
+     "en": "Arrange the space so nothing jolts you out of deep sleep."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a háborítatlan alvás a belső gyakorlat alapja; ez egyben józan alváshigiéné is. Józan lencsén ez a pihenés minőségének védelme. A gyümölcs a mélyebb, folyamatosabb alvás és a kipihentebb reggel.",
+    "en": "The tradition says undisturbed sleep is the foundation of inner practice; this is also plain sleep hygiene. Through the sober lens it protects the quality of rest. The fruit is deeper, less interrupted sleep and a more rested morning."
+   }
+  },
+  {
+   "sorszam": 34,
+   "id": "apip-elalvas-elotti-meditacio",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Elalvás előtti tisztító meditáció",
+    "en": "A clearing meditation before sleep"
+   },
+   "cel": {
+    "hu": "Rövid meditációval kiüríteni az elmét a munka és a napi gondok terhétől, hogy tisztább, tudatosabb alvásra készülj fel.",
+    "en": "To empty the mind of the burden of work and daily worries with a short meditation, preparing for clearer, more conscious sleep."
+   },
+   "modszer": [
+    {
+     "hu": "Ülj vagy feküdj le kényelmesen, és fordítsd a figyelmet a lélegzetre.",
+     "en": "Sit or lie down comfortably and turn attention to the breath."
+    },
+    {
+     "hu": "Engedd el egyenként a nap gondolatait, ahogy felmerülnek — ne kapaszkodj beléjük.",
+     "en": "Release the day's thoughts one by one as they rise — do not cling to them."
+    },
+    {
+     "hu": "Hagyd, hogy az elme kiürüljön és elcsendesedjen, mielőtt az alvásba merülnél.",
+     "en": "Let the mind empty and quieten before you sink into sleep."
+    },
+    {
+     "hu": "Tartsd rövidnek és gyengédnek; a cél a nyugalom, nem a teljesítmény.",
+     "en": "Keep it short and gentle; the aim is calm, not achievement."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a letisztult elme tudatosabb alvást tesz lehetővé; ezt belső modellként kezeld. Józan lencsén ez klasszikus, nyugtató elalvás előtti meditáció. A gyümölcs a csendesebb elme és a könnyebb, békésebb elalvás.",
+    "en": "The tradition says a cleared mind allows more conscious sleep; treat this as an inner model. Through the sober lens it is a classic, calming pre-sleep meditation. The fruit is a quieter mind and easier, more peaceful falling-asleep."
+   }
+  },
+  {
+   "sorszam": 35,
+   "id": "apip-turelem-elvaras",
+   "mester": "Asztrális hagyomány",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Türelem és reális várakozás",
+    "en": "Patience and realistic expectation"
+   },
+   "cel": {
+    "hu": "Hosszú távú, türelmes viszonyként kezelni az egész gyakorlatot: nem elvárni azonnali tudatos álmokat, hanem fokozatosan építeni a kapcsolatot az álomélettel — a türelem maga is védelem a frusztráció ellen.",
+    "en": "To treat the whole practice as a long-term, patient relationship: not expecting lucid dreams at once, but gradually building the bond with dream life — patience itself guards against frustration."
+   },
+   "modszer": [
+    {
+     "hu": "Fogadd el, hogy a tudatos álom hetek vagy hónapok alatt is jöhet, és ez rendben van.",
+     "en": "Accept that lucidity may take weeks or months to arrive, and that this is fine."
+    },
+    {
+     "hu": "Mérd a haladást a kapcsolat mélyülésén — jobb álomemlék, több figyelem —, ne csak a látványos eredményen.",
+     "en": "Measure progress by the deepening bond — better recall, more attention — not only by dramatic results."
+    },
+    {
+     "hu": "Ha csalódás jelentkezik, lazíts, és térj vissza a gyakorlathoz kíváncsian, nem görcsösen.",
+     "en": "If disappointment arises, ease off and return to the practice with curiosity, not strain."
+    },
+    {
+     "hu": "Tartsd a folyamatot magát értékesnek, függetlenül attól, mikor jön az áttörés.",
+     "en": "Hold the process itself as valuable, regardless of when a breakthrough comes."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint a tudatos álomhoz vezető út a saját álomkapcsolatod érésén múlik; ezt belső modellként kezeld, nem menetrendként. Józan lencsén ez a türelem és a reális elvárás ápolása. A gyümölcs a nyugodtabb, kevésbé frusztrált gyakorlás.",
+    "en": "The tradition says the road to lucidity depends on the ripening of your own bond with dreams; treat this as an inner model, not a timetable. Through the sober lens it tends patience and realistic expectation. The fruit is calmer, less frustrated practice."
+   }
+  },
+  {
+   "sorszam": 36,
+   "id": "apip-alom-feloldas",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Az álom feloldása",
+    "en": "Dissolving the dream"
+   },
+   "cel": {
+    "hu": "Egy tudatos álomból tovább lépni azzal, hogy határozottan kéred a jelenet eltűnését, közben tartva a szándékot, hová szeretnél megérkezni — a hagyomány szerint így vált át a belső tapasztalás egyik síkjáról a másikra.",
+    "en": "To move on from a lucid dream by firmly asking the scene to vanish while holding the intention of where you wish to arrive — the tradition holds this is how inner experience shifts from one plane to another."
+   },
+   "modszer": [
+    {
+     "hu": "Előbb bizonyosodj meg róla, hogy stabilizáltad az élményt és felemelted az éberséged.",
+     "en": "First make sure you have stabilised the experience and raised your awareness."
+    },
+    {
+     "hu": "Tartsd meg a szándékot, hová akarsz kerülni, mielőtt feloldod a jelenetet.",
+     "en": "Hold the intention of where you want to go before you dissolve the scene."
+    },
+    {
+     "hu": "Határozottan, átéléssel add ki a belső parancsot, hogy a jelenet tűnjön el.",
+     "en": "Give the inner command, firmly and with feeling, that the scene should vanish."
+    },
+    {
+     "hu": "Várd, hogy a jelenet elhalványuljon, és megjelenj a szándékod szerinti helyen vagy a szobádban.",
+     "en": "Expect the scene to fade and yourself to appear at the intended place or in your room."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt síkok közötti átmenetnek nevezi; ezt belső modellként kezeld, sem tényként, sem ígéretként. Józan lencsén ez a szándék és a képzelet irányított váltása egy belső jelenetben. A gyümölcs a nagyobb belső irányíthatóság és a képzelet fegyelme.",
+    "en": "The tradition calls this a transition between planes; treat it as an inner model, neither fact nor promise. Through the sober lens it is a directed shift of intention and imagery within an inner scene. The fruit is greater inner steer-ability and disciplined imagination."
+   }
+  },
+  {
+   "sorszam": 37,
+   "id": "apip-atmeneti-pont",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Az átmeneti pont",
+    "en": "The transition point"
+   },
+   "cel": {
+    "hu": "Egy tudatos álomban valamilyen látványt takaró tárgyat — ajtót, liftet, barlangot, kaput — átmeneti pontként használni: tiszta szándékkal belépni rajta, és megérkezni oda, ahová szántad.",
+    "en": "To use, within a lucid dream, anything that hides what lies beyond — a door, a lift, a cave, a gateway — as a transition point: to step through it with clear intent and arrive where you meant to go."
+   },
+   "modszer": [
+    {
+     "hu": "Keress a jelenetben valamit, ami eltakar egy másik teret: ajtót, kanyart, barlangot, kaput.",
+     "en": "Find in the scene something that conceals another space: a door, a corner, a cave, a gate."
+    },
+    {
+     "hu": "Fogalmazd meg világosan, hová szeretnéd, hogy elvigyen, mielőtt belépsz.",
+     "en": "Formulate clearly where you want it to take you before you enter."
+    },
+    {
+     "hu": "Lépj át rajta azzal a szilárd várakozással, hogy a szándékod szerinti helyre érkezel.",
+     "en": "Step through it with the firm expectation of arriving at your intended place."
+    },
+    {
+     "hu": "Válaszd azt a képet, ami neked természetes — az ismerős „ajtón át máshová” logika a legkönnyebb.",
+     "en": "Choose the image that feels natural to you — the familiar „through a door to elsewhere” logic is easiest."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint bármi, ami mást takar, navigációs eszközzé tehető a belső utakon; ezt belső modellként kezeld. Józan lencsén ez a képzelet szándékvezérelt irányítása egy ismerős metafora mentén. A gyümölcs a rugalmasabb, irányítottabb belső képzelet.",
+    "en": "The tradition says anything that conceals something else can be made a navigation tool on inner journeys; treat this as an inner model. Through the sober lens it is intention-led steering of imagination along a familiar metaphor. The fruit is more flexible, more directed inner imagery."
+   }
+  },
+  {
+   "sorszam": 38,
+   "id": "apip-testre-fokuszalas",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "test",
+   "cim": {
+    "hu": "A fizikai testre fókuszálás",
+    "en": "Focusing on the physical body"
+   },
+   "cel": {
+    "hu": "Egy tudatos álomból a fizikai test érzeteire figyelni — a légzésre, a szívverésre —, hogy a jelenet feloldódjon és visszatérj egy ismerős kiindulóponthoz, ahonnan tisztán indulhatsz tovább.",
+    "en": "To attend, from within a lucid dream, to the sensations of the physical body — the breath, the heartbeat — so the scene dissolves and you return to a familiar starting point from which to continue clearly."
+   },
+   "modszer": [
+    {
+     "hu": "A tudatos álomban idézd fel, hogy a fizikai tested az ágyban fekszik, és fordulj felé a figyelmeddel.",
+     "en": "In the lucid dream recall that your physical body lies in bed, and turn your attention toward it."
+    },
+    {
+     "hu": "Fókuszálj a test tipikus érzeteire: a lélegzésre, a szívverésre, a fekvés súlyára.",
+     "en": "Focus on the body's typical sensations: the breathing, the heartbeat, the weight of lying down."
+    },
+    {
+     "hu": "Hagyd, hogy az álomjelenet ettől elhalványuljon, és visszatérj egy ismerős kiinduláshoz.",
+     "en": "Let the dream scene fade from this and return to a familiar starting point."
+    },
+    {
+     "hu": "Egy ismerős helyről, például a saját szobádból figyeld meg a részleteket, mielőtt továbbindulsz.",
+     "en": "From a familiar place, such as your own room, observe the details before moving on."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt a „bázisra visszatérés” technikájának tekinti, amely tiszta kiindulást ad; ezt belső modellként kezeld. Józan lencsén ez a figyelem áthelyezése a testérzetekre — földelő, testtudatos fogás. A gyümölcs a tisztább orientáció és a nyugodtabb belső kiindulás.",
+    "en": "The tradition treats this as a „return to base” technique that gives a clean start; treat this as an inner model. Through the sober lens it is shifting attention to body sensation — a grounding, body-aware move. The fruit is clearer orientation and a calmer inner starting point."
+   }
+  },
+  {
+   "sorszam": 39,
+   "id": "apip-segito-kez",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "A segítő kéz elfogadása",
+    "en": "Accepting the helping hand"
+   },
+   "cel": {
+    "hu": "Ha a belső élményben egy felkínált kéz vagy segítő gesztus jelenik meg, nyugodtan, félelem nélkül fogadni és hagyni, hogy vezessen — a hagyomány ezt barátságos, jelképes gesztusnak látja, amely bizalomra hív.",
+    "en": "If in the inner experience an offered hand or helping gesture appears, to accept it calmly and without fear and let it lead you — the tradition sees this as a friendly, symbolic gesture that invites your trust."
+   },
+   "modszer": [
+    {
+     "hu": "Ha egy kéz vagy segítő gesztus nyúl feléd az élményben, először maradj nyugodt.",
+     "en": "If a hand or helping gesture reaches toward you in the experience, first stay calm."
+    },
+    {
+     "hu": "Vedd észre a jellegét: a hagyomány szerint az ilyen gesztus rendszerint barátságos, segítő.",
+     "en": "Notice its quality: the tradition holds such a gesture is usually friendly, helping."
+    },
+    {
+     "hu": "Ha nyugalmat érzel, fogadd el a felkínált kezet, és hagyd, hogy tovább vezessen.",
+     "en": "If you feel calm, accept the offered hand and let it lead you onward."
+    },
+    {
+     "hu": "Ha bármikor nyugtalanná válsz, emlékeztesd magad, hogy bármikor véget vethetsz a gyakorlatnak.",
+     "en": "If at any point you feel uneasy, remind yourself you can end the practice at any time."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány a segítő kezet barátságos, jelképes belső képnek látja, amely nyugalomra és bizalomra hív; ezt belső modellként kezeld, nem külső lény tényeként. Józan lencsén ez a bizalom és a nyugalom gyakorlása egy belső képpel. A gyümölcs a félelem oldódása és a nyugodtabb önátengedés — de a mérce a béke, nem a félelem.",
+    "en": "The tradition sees the helping hand as a friendly, symbolic inner image that invites calm and trust; treat this as an inner model, not the fact of an external being. Through the sober lens it is practising trust and calm with an inner image. The fruit is loosening fear and calmer surrender — but the measure is peace, not fear."
+   },
+   "etika": {
+    "hu": "A cél mindig a nyugalom, sosem a félelem. Ha egy belső kép ijesztő, nem kell folytatnod: bármikor kinyithatod a szemed és véget vethetsz a gyakorlatnak. Ez a gyakorlat nem való krízisben lévőnek, sem annak, akit a belső képek erősen megrémítenek.",
+    "en": "The aim is always calm, never fear. If an inner image is frightening, you need not continue: you can open your eyes and end the practice at any time. This practice is not for anyone in crisis, nor for anyone whom inner images strongly frighten."
+   }
+  },
+  {
+   "sorszam": 40,
+   "id": "apip-vezeto-felkeresese",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Belső vezető vagy szakértő felkeresése",
+    "en": "Seeking an inner guide or expert"
+   },
+   "cel": {
+    "hu": "A belső élményben szándékot állítani, hogy egy vezetővel vagy egy kérdésedben jártas alakkal találkozz, majd odalépni és feltenni a saját életedre, céljaidra vonatkozó kérdéseidet — kizárólag önmagadra irányulva.",
+    "en": "To set, within the inner experience, an intention to meet a guide or a figure versed in your question, then to approach and ask your questions about your own life and purpose — directed only at yourself."
+   },
+   "modszer": [
+    {
+     "hu": "Előre döntsd el, kivel szeretnél találkozni és milyen témában kérsz belátást.",
+     "en": "Decide in advance whom you wish to meet and on what theme you seek insight."
+    },
+    {
+     "hu": "Az élményben állíts szándékot, hogy megjelenjen ez a vezető vagy szakértő; használhatsz átmeneti pontot is.",
+     "en": "In the experience set the intention for this guide or expert to appear; you may use a transition point."
+    },
+    {
+     "hu": "Először stabilizálj és emeld magasra az éberséged, hogy tisztán érthesd és jegyezhesd az élményt.",
+     "en": "First stabilise and raise your awareness high, so you can clearly grasp and remember the experience."
+    },
+    {
+     "hu": "Tedd fel a saját, önmagadra vonatkozó kérdéseidet, és figyelj a válaszra nyitottan.",
+     "en": "Ask your own, self-directed questions and attend to the answer with openness."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint így nyerhetsz belátást az életedről és a céljaidról; ezt belső modellként kezeld, nem külső ténykijelentésként. Józan lencsén ez irányított belső párbeszéd a saját mélyebb tudásoddal. A gyümölcs a mélyebb önismeret és a tisztább szándék.",
+    "en": "The tradition says this is how you gain insight into your life and purpose; treat this as an inner model, not an external factual claim. Through the sober lens it is a guided inner dialogue with your own deeper knowing. The fruit is deeper self-knowledge and clearer intent."
+   },
+   "etika": {
+    "hu": "Ez önmagadra irányuló belső gyakorlat. Ne használd arra, hogy megnevezett, élő emberekről szerezz információt vagy befolyásold őket a beleegyezésük nélkül. Nem helyettesíti az orvosi, jogi vagy pszichológiai szaktanácsot; komoly döntésekhez fordulj valós szakemberhez.",
+    "en": "This is a self-directed inner practice. Do not use it to gather information about, or to influence, named living people without their consent. It does not replace medical, legal or psychological advice; for serious decisions consult a real professional."
+   }
+  },
+  {
+   "sorszam": 41,
+   "id": "apip-vezeto-tesztelese",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A vezető próbája",
+    "en": "Testing the guide"
+   },
+   "cel": {
+    "hu": "Mielőtt elfogadnád egy belső alak válaszait, ellenőrző kérdésekkel próbára tenni: olyan, magadról tudott dolgokat kérdezni, amelyeket vissza tudsz igazolni — hogy legyen mérce, mennyire bízhatsz a többiben.",
+    "en": "Before accepting the answers of an inner figure, to test it with checking questions: asking things about yourself that you can verify — so you have a measure of how far to trust the rest."
+   },
+   "modszer": [
+    {
+     "hu": "Mielőtt a valódi kérdésedet feltennéd, kérdezz olyasmit, amit magadról biztosan tudsz.",
+     "en": "Before asking your real question, ask something about yourself that you know for certain."
+    },
+    {
+     "hu": "Nézd meg, egyeznek-e a válaszok azzal, amit magadról tudsz és utólag ellenőrizhetsz.",
+     "en": "See whether the answers match what you know about yourself and can check afterwards."
+    },
+    {
+     "hu": "Ha az ellenőrző válaszok nem stimmelnek, kezeld fenntartással a többit is.",
+     "en": "If the checking answers do not hold, treat the rest with reserve as well."
+    },
+    {
+     "hu": "Csak akkor lépj tovább a valódi kérdésedre, ha a próba megnyugtatóan sikerült.",
+     "en": "Only move on to your real question once the test has passed reassuringly."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt a megbízhatóság próbájának nevezi; józan lencsén ez tulajdonképpen a belső élmények egészséges, kritikus szűrése. A gyümölcs a kevésbé hiszékeny, megkülönböztetőbb belső hozzáállás — ami minden belső munkában védelem.",
+    "en": "The tradition calls this a test of reliability; through the sober lens it is really a healthy, critical filtering of inner experiences. The fruit is a less credulous, more discerning inner stance — a protection in all inner work."
+   }
+  },
+  {
+   "sorszam": 42,
+   "id": "apip-miert-megkerdezese",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "A miért megkérdezése",
+    "en": "Asking the why"
+   },
+   "cel": {
+    "hu": "A kapott belső válaszokat nem vakon elfogadni, hanem rákérdezni az okra — miért van ez így —, és a koherenciájuk alapján mérlegelni, mennyire fogadod el őket.",
+    "en": "To not accept inner answers blindly but to ask for the reason — why it is so — and to weigh how far to accept them by their coherence."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor választ kapsz, kérdezd meg, miért igaz ez, mi az oka.",
+     "en": "When you receive an answer, ask why it is true, what the reason is."
+    },
+    {
+     "hu": "Figyeld, összeáll-e a magyarázat értelmes egésszé, vagy inkább üres, ellentmondó.",
+     "en": "Notice whether the explanation forms a coherent whole, or is empty and contradictory."
+    },
+    {
+     "hu": "Vesd össze a belátást azzal, amit magadról és a helyzetről egyébként tudsz.",
+     "en": "Compare the insight with what you otherwise know about yourself and the situation."
+    },
+    {
+     "hu": "Csak azt fogadd el belső iránymutatásként, ami próbát állt és értelmes.",
+     "en": "Accept as inner guidance only what has passed the test and makes sense."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány szerint az „ok” megértése segít eldönteni, mennyire bízz a válaszban; józan lencsén ez a kritikus mérlegelés edzése a belső tapasztalásban. A gyümölcs a tisztább megkülönböztetés és a kevesebb önámítás.",
+    "en": "The tradition says grasping the „why” helps decide how far to trust an answer; through the sober lens it trains critical weighing within inner experience. The fruit is clearer discernment and less self-deception."
+   }
+  },
+  {
+   "sorszam": 43,
+   "id": "apip-megmutatas-szandek",
+   "mester": "Asztrális hagyomány",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Az élmény megmutatásának szándéka",
+    "en": "Intending the experience to show you"
+   },
+   "cel": {
+    "hu": "Szándékot állítani, hogy a belső élmény megmutasson valamit — például egy saját félelem gyökerét —, majd ott helyben együtt dolgozni azzal, ami felszínre kerül, hogy oldódjon.",
+    "en": "To set the intention that the inner experience show you something — for instance the root of one of your own fears — then to work, on the spot, with what surfaces, so it may loosen."
+   },
+   "modszer": [
+    {
+     "hu": "Fogalmazd meg, mit szeretnél megérteni magadról, például egy visszatérő félelem eredetét.",
+     "en": "Formulate what you wish to understand about yourself, such as the origin of a recurring fear."
+    },
+    {
+     "hu": "Az átmeneti ponton átlépve tartsd a szándékot, hogy megmutassa neked ennek gyökerét.",
+     "en": "Stepping through a transition point, hold the intention that it show you the root of this."
+    },
+    {
+     "hu": "Figyeld, milyen jelenet vagy emlék jelenik meg, és maradj vele nyugodtan.",
+     "en": "Notice what scene or memory appears, and stay with it calmly."
+    },
+    {
+     "hu": "Dolgozz gyengéden azzal, ami felszínre jön, és ha nehéz, engedd el és térj vissza az éber állapotba.",
+     "en": "Work gently with what surfaces, and if it is hard, let go and return to the waking state."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt belső gyógyulási lehetőségnek látja; ezt belső modellként kezeld, nem terápiás ígéretként. Józan lencsén ez a képzelet és az önreflexió irányított munkája. A gyümölcs a nagyobb önmegértés — a mérce a belső nyugalom, nem az élmény drámaisága.",
+    "en": "The tradition sees this as an opportunity for inner healing; treat this as an inner model, not a therapeutic promise. Through the sober lens it is guided work of imagination and self-reflection. The fruit is greater self-understanding — the measure is inner calm, not the drama of the experience."
+   },
+   "etika": {
+    "hu": "Ez önmagadra irányuló önismereti gyakorlat, nem terápia, és nem helyettesíti a szakszerű segítséget. Nem való krízisben lévőnek. Ha súlyos trauma vagy erős szorongás kerül felszínre, állj le, térj vissza a jelenbe, és fordulj képzett szakemberhez.",
+    "en": "This is a self-directed self-inquiry, not therapy, and it does not replace professional help. It is not for anyone in crisis. If severe trauma or strong anxiety surfaces, stop, return to the present, and turn to a qualified professional."
+   }
+  },
+  {
+   "sorszam": 44,
+   "id": "apip-kornyezeti-leolvasas",
+   "mester": "Asztrális hagyomány",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Ráhangolódás a környezetre",
+    "en": "Attuning to the surroundings"
+   },
+   "cel": {
+    "hu": "A tapasztaltabb gyakorló belső élményben a környezetre és a jelenetre ráhangolódva enged megjelenni egy-egy tudást vagy benyomást — mindig csak önmagára és a hely hangulatára irányulva, sosem élő emberek beleegyezés nélküli olvasására.",
+    "en": "For the more experienced practitioner to let a piece of knowing or impression arise by attuning to the surroundings and the scene within an inner experience — always directed only at oneself and the mood of the place, never at reading living people without consent."
+   },
+   "modszer": [
+    {
+     "hu": "Előbb stabilizálj és emeld magasra az éberséged, hogy tiszta legyen a ráhangolódás.",
+     "en": "First stabilise and raise your awareness high, so the attuning is clear."
+    },
+    {
+     "hu": "Fordítsd a figyelmed a jelenet hangulatára, és engedd, hogy benyomások jelenjenek meg maguktól.",
+     "en": "Turn your attention to the mood of the scene and let impressions arise on their own."
+    },
+    {
+     "hu": "Maradj megfigyelő és nyitott; ne erőltesd a tudást, csak fogadd, ami jön.",
+     "en": "Stay observing and open; do not force the knowing, only receive what comes."
+    },
+    {
+     "hu": "Utólag a naplóban különítsd el, mi volt valódi benyomás és mi képzeleti hozzátoldás.",
+     "en": "Afterwards, in the journal, separate what was a genuine impression from what was added by imagination."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt „letöltésnek” nevezi a környezetből; ezt belső modellként kezeld, sem tényként, sem ígéretként. Józan lencsén ez a finom benyomásokra való ráhangolódás és azok éber szűrése. A gyümölcs az érzékenység finomodása és a jobb megkülönböztetés.",
+    "en": "The tradition calls this „downloading” from the surroundings; treat this as an inner model, neither fact nor promise. Through the sober lens it is attuning to subtle impressions and filtering them with awareness. The fruit is refined sensitivity and better discernment."
+   },
+   "etika": {
+    "hu": "Ez a ráhangolódás kizárólag önmagadra és a hely hangulatára irányulhat. Soha ne használd megnevezett, élő emberek beleegyezés nélküli „olvasására” vagy befolyásolására. Az így nyert benyomások belső élmények, nem tények másokról — ne hozz róluk döntést, és ne oszd meg őket állításként.",
+    "en": "This attuning may be directed only at yourself and the mood of the place. Never use it to „read” or influence named living people without their consent. Impressions gained this way are inner experiences, not facts about others — do not base decisions on them or share them as claims."
+   }
+  },
+  {
+   "sorszam": 45,
+   "id": "apip-akasha-onismeret",
+   "mester": "Asztrális hagyomány",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A belső tudástár és az önismeret",
+    "en": "The inner store of knowledge and self-knowledge"
+   },
+   "cel": {
+    "hu": "A hagyomány feltételez egy belső tudástárat, amelyhez csak jó szándékkal és engedéllyel lehet közelíteni; ezt kizárólag saját önismeretedért keresd fel, tisztelettel és alázattal, minden ártó vagy haszonleső cél nélkül.",
+    "en": "The tradition posits an inner store of knowledge that may be approached only with good intent and permission; seek it solely for your own self-knowledge, with respect and humility, free of any harmful or self-serving aim."
+   },
+   "modszer": [
+    {
+     "hu": "Tisztázd magadban a szándékot: egyedül önismeretet és belső fejlődést keresel.",
+     "en": "Clarify your intent within: you seek self-knowledge and inner growth alone."
+    },
+    {
+     "hu": "Az élményben kérj engedélyt, és közelíts tisztelettel, alázattal a tudás felé.",
+     "en": "In the experience ask permission, and approach the knowledge with respect and humility."
+    },
+    {
+     "hu": "Tedd fel a magadra irányuló kérdéseidet, és fogadd nyitottan, ítélkezés nélkül a választ.",
+     "en": "Ask your self-directed questions and receive the answer openly, without judgement."
+    },
+    {
+     "hu": "Utólag jegyezd le a belátást, és mérd a saját belső változásodon, ne külső bizonyságon.",
+     "en": "Afterwards record the insight, and measure it by your own inner change, not external proof."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány ezt a tudás egyetemes tárházának képzeli; ezt kifejezetten belső modellként kezeld, sosem tényként vagy ígéretként. Józan lencsén ez a legmélyebb önismeretre irányuló, tiszteletteli belső befelé fordulás. A gyümölcs a nyugodt önismeret és a belső tágulás érzése.",
+    "en": "The tradition imagines this as a universal repository of knowledge; treat it strictly as an inner model, never as fact or promise. Through the sober lens it is a respectful inward turning toward the deepest self-knowledge. The fruit is calm self-knowledge and a sense of inner expansion."
+   },
+   "etika": {
+    "hu": "Csak saját önismeretedért közelíts hozzá, jó szándékkal. Kifejezetten elutasítjuk minden ártó vagy haszonleső használatát: szerencsejátékhoz vagy nyereséghez, eltűnt személyek vagy holttestek felkutatásához, végítélet-készülődéshez, vagy élő emberek engedély nélküli megismeréséhez, illetve befolyásolásához. Ha ilyesmiért fordulnál ide, ne tedd — ez a gyakorlat nem arra való.",
+    "en": "Approach it only for your own self-knowledge, with good intent. We firmly decline every harmful or self-serving use: for gambling or profit, for locating missing persons or bodies, for doomsday preparation, or for knowing or influencing living people without consent. If you would come here for such ends, do not — this practice is not for that."
+   }
+  }
+ ]
 }

@@ -49,7 +49,8 @@
    "etika": {
     "hu": "Ez gyakorlás, nem terápia. Ha tartósan sötét vagy önbántó gondolatminták térnek vissza, az nem gyengeség — kérj szakember segítségét; a megfigyelés nem helyettesíti a gondozást.",
     "en": "This is practice, not therapy. If dark or self-harming thought-patterns keep returning, that is not weakness — seek help from a professional; observation is no substitute for care."
-   }
+   },
+   "sorszam": 1
   },
   {
    "id": "thp-loop-spotting",
@@ -90,7 +91,8 @@
    "etika": {
     "hu": "Ha egy érzelmi hurok elviselhetetlenül erős vagy tartós, az nem edzés kérdése — ilyenkor szakember segítsége a helyes lépés.",
     "en": "If an emotional loop is unbearably strong or persistent, that is not a matter of practice — the right step is help from a professional."
-   }
+   },
+   "sorszam": 2
   },
   {
    "id": "thp-conscious-pause",
@@ -127,7 +129,8 @@
    "keret": {
     "hu": "A könyv a homloklebenyt a fókuszált figyelem és a választás központjaként írja le: csendesíti a többi központ zaját. A kutatások szerint az ismételt tudatos választás idővel könnyebbé válik — de csak gyakorlással.",
     "en": "The book describes the frontal lobe as the seat of focused attention and choice: it quiets the noise of the other centres. Research suggests repeated conscious choosing grows easier over time — but only with practice."
-   }
+   },
+   "sorszam": 3
   },
   {
    "id": "thp-daily-learning",
@@ -164,7 +167,8 @@
    "keret": {
     "hu": "A kutatások szerint a tanulás és a megélt tapasztalás új idegi kapcsolatokat épít, a nem használt utak pedig elhalványulnak. Nem a mennyiség számít, hanem a rendszeresség és az, hogy a tudás megélt legyen.",
     "en": "Research suggests that learning and lived experience build new neural connections, while unused pathways fade. What counts is not quantity but regularity, and that knowledge becomes lived."
-   }
+   },
+   "sorszam": 4
   },
   {
    "id": "thp-mental-rehearsal",
@@ -205,7 +209,8 @@
    "keret": {
     "hu": "A kutatások szerint az agy sok szempontból hasonlóan reagál a jól elképzelt gyakorlásra, mint a valódira. Ez nem varázslat: a fejben ismételt minta könnyebben hívható elő, de a valós megélést nem pótolja.",
     "en": "Research suggests the brain responds to well-imagined rehearsal in many ways as it does to the real thing. This is no magic: a pattern repeated in the mind is easier to call up, but it does not replace living it for real."
-   }
+   },
+   "sorszam": 5
   },
   {
    "id": "thp-live-it-out",
@@ -242,7 +247,8 @@
    "keret": {
     "hu": "A változás két útja — tudás és tapasztalás — itt ér össze: ahogy Arisztotelész mondta, azzá válunk, amit ismételten teszünk. A kutatások szerint a megélt ismétlés rögzíti legtartósabban az új mintát.",
     "en": "The two routes of change — knowledge and experience — meet here: as Aristotle said, we become what we repeatedly do. Research suggests lived repetition fixes the new pattern most durably."
-   }
+   },
+   "sorszam": 6
   },
   {
    "id": "thp-break-routine",
@@ -279,7 +285,8 @@
    "keret": {
     "hu": "A megszokás kényelme a régi idegi utak kitaposottsága. A kutatások szerint az újszerű, figyelmet kívánó cselekvés serkenti az agy alkalmazkodását — apró léptékben is.",
     "en": "The comfort of routine is the well-trodden state of old neural paths. Research suggests novel, attention-demanding action stimulates the brain’s adaptation — even at a small scale."
-   }
+   },
+   "sorszam": 7
   },
   {
    "id": "thp-evening-review",
@@ -324,7 +331,8 @@
    "etika": {
     "hu": "A szemle célja a tanulás, nem az önítélet. Ha az esti visszanézés rendszeresen sötét, szorongó vagy önbántó mintákba fut, kérj szakember segítségét — ez gondozást kíván, nem több gyakorlást.",
     "en": "The purpose of the review is learning, not self-judgement. If the evening look-back keeps running into dark, anxious, or self-harming patterns, seek help from a professional — that calls for care, not more practice."
-   }
+   },
+   "sorszam": 8
   }
  ]
 }

@@ -44,6 +44,16 @@ Install: copy a module's **raw** link below and paste it in the app
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
+## Install everything (one bundle)
+
+A single manifest inlining **every module, practice pack and quote pack** —
+install it all in one tap (app: Modules tab → + → Install everything, or scan its QR).
+Existing items update by id; nothing is duplicated.
+
+| Bundle | Raw link |
+|---|---|
+| Everything (606 practices, 60 modules, 57 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
+
 ## Quote packs (Idézetek és titkok)
 
 Downloadable quote collections for the Quotes & Secrets tool
@@ -63,7 +73,7 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
-Together these packs hold **296 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+Together these packs hold **606 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
 
 | Pack | Raw link |
 |---|---|
@@ -75,14 +85,14 @@ Together these packs hold **296 practices** (installed packs de-duplicate by id,
 | Egyptian masters (15) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/egyptian.json` |
 | Channeled masters (13) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/channeled.json` |
 | Modern masters & the shield (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/modern.json` |
-| Remote Viewing — core practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-basics.json` |
-| Remote Viewing — advanced practices (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-advanced.json` |
+| Remote Viewing — core practices (31) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-basics.json` |
+| Remote Viewing — advanced practices (36) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-advanced.json` |
 | Associative RV — binary trials (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-associative.json` |
-| Remote Viewing & place (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-place.json` |
-| Blind targets & the inner sanctuary (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-sanctuary.json` |
-| Intention turned inward (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/remote-influencing.json` |
-| Mediumship & discernment (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/mediumship.json` |
-| Telekinesis — the Kinesis path (11) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/telekinesis.json` |
+| Remote Viewing & place (29) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-place.json` |
+| Blind targets & the inner sanctuary (27) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/rv-sanctuary.json` |
+| Intention turned inward (25) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/remote-influencing.json` |
+| Mediumship & discernment (39) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/mediumship.json` |
+| Telekinesis — the Kinesis path (35) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/telekinesis.json` |
 | Silva Mind Control — practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/silva-mindcontrol.json` |
 | Silva You the Healer — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/silva-healing.json` |
 | Dispenza: The Placebo — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/dispenza-placebo.json` |
@@ -90,11 +100,11 @@ Together these packs hold **296 practices** (installed packs de-duplicate by id,
 | Dispenza: Becoming Supernatural — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/dispenza-supernatural.json` |
 | Arion's Counsel — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/arion-answers.json` |
 | Evolve Your Brain — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/thinking-school.json` |
-| Astral foundations — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-basics.json` |
-| The indirect path — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-indirect.json` |
-| The dawn gate — practices (8) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-sid.json` |
-| The direct method — practices (10) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-direct.json` |
-| Astral explorations — practices (9) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-explorations.json` |
+| Astral foundations — practices (38) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-basics.json` |
+| The indirect path — practices (45) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-indirect.json` |
+| The dawn gate — practices (38) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-sid.json` |
+| The direct method — practices (57) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-direct.json` |
+| Astral explorations — practices (29) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-explorations.json` |
 
 Pack format: `{ formatVersion, id, nevek{hu,en}, gyakorlatok:[…] }`, where each practice has
 `id, mester, szint (kezdo|halado|mester), sik (szellem|lelek|test|null),

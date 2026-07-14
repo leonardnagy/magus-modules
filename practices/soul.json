@@ -40,7 +40,8 @@
    "keret": {
     "hu": "Ez önismereti rendszerező eszköz a hagyomány elem-nyelvén; nem személyiségdiagnózis. Az értéke abban mérhető, mennyivel tisztábban látod a saját mintáidat utána.",
     "en": "This is a self-knowledge sorting tool in the tradition's element-language, not a personality diagnosis. Its worth is measured by how much more clearly you see your own patterns afterward."
-   }
+   },
+   "sorszam": 1
   },
   {
    "id": "soul-impulse-guard-redirect",
@@ -77,7 +78,8 @@
    "keret": {
     "hu": "Belső szokásátalakító gyakorlat, rokon a mai figyelem- és szokáskutatás módszereivel. Lassú munka; a mércéje nem a tökéletesség, hanem hogy a régi minta hetek alatt halványul-e.",
     "en": "An inner habit-reshaping practice, akin to modern attention and habit work. It is slow; the measure is not perfection but whether the old pattern fades over weeks."
-   }
+   },
+   "sorszam": 2
   },
   {
    "id": "soul-consecrate-mirror-one-purpose",
@@ -118,7 +120,8 @@
    "etika": {
     "hu": "A tükör soha nem szolgálhat mások magánéletének kifürkészésére vagy befolyásolására; tiszteld mások szabad akaratát. Szigorúan személyes eszköz.",
     "en": "A mirror must never serve to pry into or influence others' private lives; honour others' free will. It is a strictly personal instrument."
-   }
+   },
+   "sorszam": 3
   },
   {
    "id": "soul-impregnate-room-atmosphere",
@@ -159,7 +162,8 @@
    "etika": {
     "hu": "Csak a saját teredet vagy azt, amelyhez jogod van, itasd át; soha ne próbálj mások hangulatát vagy döntését befolyásolni. Tiszteld mások szabad akaratát.",
     "en": "Only impregnate your own space or one you have the right to; never try to influence others' moods or choices. Honour others' free will."
-   }
+   },
+   "sorszam": 4
   },
   {
    "id": "soul-evening-neutral-observer",
@@ -195,7 +199,8 @@
    "keret": {
     "hu": "Ez tárgyilagos önmegfigyelési és naplózási gyakorlat, rokon a reflektív naplóvezetéssel. A rögzített kudarc nem szégyen, hanem adat; a napló a haladás egyetlen tárgyilagos tanúja.",
     "en": "This is an objective self-observation and journaling practice, akin to reflective journaling. A recorded failure is not a shame but a data point; the journal is the only objective witness of progress."
-   }
+   },
+   "sorszam": 5
   },
   {
    "id": "soul-vow-of-silence",
@@ -231,7 +236,8 @@
    "keret": {
     "hu": "Ez önfegyelmi és figyelemvédő szokás, nem ezoterikus tilalom. A hagyomány szerint a beszéd szétszórja, amit a munka összegyűjtött; a gyümölcse a saját nyugalmad és összeszedettséged.",
     "en": "This is a self-discipline and attention-guarding habit, not an esoteric prohibition. The tradition holds that talk scatters what the work has gathered; its fruit is your own calm and composure."
-   }
+   },
+   "sorszam": 6
   },
   {
    "id": "soul-mental-wandering-nearby",
@@ -272,7 +278,8 @@
    "etika": {
     "hu": "Soha nem irányulhat mások megfigyelésére, magánéletük megsértésére vagy kémkedésre — csak saját, ismert helyekre. Tiszteld mások szabad akaratát és magánszféráját.",
     "en": "It must never be aimed at observing others, invading their privacy, or spying — only at your own known places. Honour others' free will and privacy."
-   }
+   },
+   "sorszam": 7
   },
   {
    "id": "soul-recognize-starve-larva",
@@ -313,7 +320,8 @@
    "etika": {
     "hu": "Ez önmegfigyelési gyakorlat, nem terápia, és nem pótolja a szakszerű lelki gondozást. Súlyos szorongás, kényszeres vagy depresszív minta esetén fordulj szakemberhez.",
     "en": "This is a self-observation practice, not therapy, and does not replace professional mental-health care. For severe anxiety, compulsive or depressive patterns, consult a qualified professional."
-   }
+   },
+   "sorszam": 8
   },
   {
    "id": "soul-pendulum-passive-contact",
@@ -353,7 +361,8 @@
    "etika": {
     "hu": "Ne használd mások megítélésére, egészségi vagy pénzügyi döntésekre; ez nem diagnózis és nem tanácsadás. Súlyos kérdésekben fordulj hozzáértő szakemberhez.",
     "en": "Do not use it to judge others or for health or financial decisions; it is neither diagnosis nor counsel. For serious matters, consult a qualified professional."
-   }
+   },
+   "sorszam": 9
   },
   {
    "id": "soul-weigh-every-message",
@@ -394,7 +403,8 @@
    "etika": {
     "hu": "Ha a belső hangok tolakodóvá, ijesztővé vagy irányítóvá válnak, az nem szellemi rangjelzés — kérj szakembert. A gyakorlat nem helyettesíti a lelki gondozást.",
     "en": "If inner voices become intrusive, frightening or controlling, that is no spiritual badge — seek a professional. This practice does not replace mental-health care."
-   }
+   },
+   "sorszam": 10
   },
   {
    "id": "soul-fixed-hour-rhythm-timekeeper",
@@ -431,7 +441,8 @@
    "keret": {
     "hu": "Ez a szokásépítés és a türelem gyakorlata a hagyomány idő-nyelvén; a rögzített időpont és a visszaolvasott napló ma is jól ismert eszközök a kitartó fejlődéshez. A mérce nem a naptár, hanem a megépített képesség stabilitása.",
     "en": "This is habit-building and patience in the tradition's time-language; a fixed slot and a reread diary are well-known tools for steady growth today too. The measure is not the calendar but the stability of what you have built."
-   }
+   },
+   "sorszam": 11
   },
   {
    "id": "soul-meditation-on-the-one",
@@ -468,7 +479,8 @@
    "keret": {
     "hu": "A tradíció ezt az alkímia „első anyagához\", a megnyilvánulás gyökeréhez kapcsolja; mai kereten belül csendes, tárgy nélküli szemlélődő meditációként végezhető. A gyümölcse befelé mérhető: tágabb perspektíva és mélyebb tisztelet, nem különleges élmény.",
     "en": "The tradition ties this to the alchemists' \"first matter,\" the root of manifestation; within a modern frame it can be done as a quiet, objectless contemplative meditation. Its fruit is measured inwardly — a wider perspective and deeper reverence, not a special experience."
-   }
+   },
+   "sorszam": 12
   }
  ]
 }

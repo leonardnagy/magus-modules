@@ -1,341 +1,349 @@
 {
-  "formatVersion": 1,
-  "id": "practice-pack-arion",
-  "nevek": {
-    "hu": "Arion tanácsai — gyakorlatok",
-    "en": "Arion's Counsel — practices"
-  },
-  "gyakorlatok": [
+ "formatVersion": 1,
+ "id": "practice-pack-arion",
+ "nevek": {
+  "hu": "Arion tanácsai — gyakorlatok",
+  "en": "Arion's Counsel — practices"
+ },
+ "gyakorlatok": [
+  {
+   "id": "arp-napi-fegyelem-ules",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Napi fegyelem — a gondolatmegfigyelő ülés",
+    "en": "Daily Discipline — the Thought-Observation Sit"
+   },
+   "cel": {
+    "hu": "Naponta egy rövid, teljes figyelemmel végzett ülésben megtanulni a gondolatok éber, ítélkezés nélküli megfigyelését — a hagyomány szerint ez minden további munka kapuja.",
+    "en": "In one short, fully attentive daily sit, learn the alert, non-judging observation of thought — in the tradition's view, the gate to all further work."
+   },
+   "modszer": [
     {
-      "id": "arp-napi-fegyelem-ules",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "szellem",
-      "elem": "Levego",
-      "cim": {
-        "hu": "Napi fegyelem — a gondolatmegfigyelő ülés",
-        "en": "Daily Discipline — the Thought-Observation Sit"
-      },
-      "cel": {
-        "hu": "Naponta egy rövid, teljes figyelemmel végzett ülésben megtanulni a gondolatok éber, ítélkezés nélküli megfigyelését — a hagyomány szerint ez minden további munka kapuja.",
-        "en": "In one short, fully attentive daily sit, learn the alert, non-judging observation of thought — in the tradition's view, the gate to all further work."
-      },
-      "modszer": [
-        {
-          "hu": "Jelölj ki egy állandó időpontot és helyet; ülj le egyenes gerinccel, csukott vagy félig csukott szemmel, tíz percre.",
-          "en": "Fix a regular time and place; sit down with a straight spine, eyes closed or half-closed, for ten minutes."
-        },
-        {
-          "hu": "Egyetlen feladatod van: figyeld a gondolataidat anélkül, hogy bármelyiket követnéd vagy elűznéd — úgy, ahogy a folyó partjáról nézed a sodródó leveleket.",
-          "en": "You have a single task: watch your thoughts without following or chasing away any of them — the way you watch drifting leaves from a riverbank."
-        },
-        {
-          "hu": "Amikor észreveszed, hogy egy gondolat elragadott, jegyezd meg nyugodtan: elragadott — és térj vissza a partra. Nem a gondolattalanság a cél, hanem a puszta látás.",
-          "en": "When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but bare seeing."
-        },
-        {
-          "hu": "Az ülés végén egyetlen mondatban jegyezd fel a naplódba, milyen volt ma a figyelem — ami nincs leírva, az elmosódik.",
-          "en": "At the end of the sit, note in your diary in a single sentence what the attention was like today — what is not written down blurs away."
-        },
-        {
-          "hu": "Inkább röviden és naponta, mint hosszan és ritkán: egy pontos tíz perc többet ér, mint egy szétszórt óra.",
-          "en": "Brief and daily rather than long and rare: one exact ten minutes is worth more than a scattered hour."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány saját nyelvén ez a szellemi munka alapozása; hétköznapi nyelven figyelemgyakorlás. Mércéje nem élmény, hanem belső gyümölcs: nyugodtabb, rendezettebb lettél-e hetek távlatában.",
-        "en": "In the tradition's own language this is the groundwork of mental training; in everyday language, attention practice. Its measure is not experience but inner fruit: whether, over weeks, you have become calmer and more ordered."
-      },
-      "etika": {
-        "hu": "Ha az ülés alatt tartós szorongás, nyomasztó élmény vagy nem múló nyugtalanság jelentkezik, szüneteltesd a gyakorlást és fordulj szakemberhez. A gyakorlás soha nem helyettesíti az orvosi vagy pszichológiai ellátást.",
-        "en": "If persistent anxiety, distressing experiences, or unrelenting restlessness arise during the sit, pause the practice and see a professional. Practice never replaces medical or psychological care."
-      }
+     "hu": "Jelölj ki egy állandó időpontot és helyet; ülj le egyenes gerinccel, csukott vagy félig csukott szemmel, tíz percre.",
+     "en": "Fix a regular time and place; sit down with a straight spine, eyes closed or half-closed, for ten minutes."
     },
     {
-      "id": "arp-turelem-egy-targy",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "szellem",
-      "elem": "Fold",
-      "cim": {
-        "hu": "A türelem ülése — egy tárgy, egy figyelem",
-        "en": "The Patience Sit — One Object, One Attention"
-      },
-      "cel": {
-        "hu": "A türelmet módszerré tenni: egyetlen egyszerű tárgynál maradni erőlködés nélkül, és megtanulni, hogy a visszatérés maga a gyakorlat — nem hiba, hanem ismétlés.",
-        "en": "Make patience a method: stay with one simple object without strain, and learn that the returning is itself the practice — not a mistake but a repetition."
-      },
-      "modszer": [
-        {
-          "hu": "Válassz egyetlen egyszerű tárgyat — egy követ, egy gyertyalángot, vagy csak a légzésed ritmusát —, és maradj nála tizenöt percen át, gyengéden.",
-          "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath — and stay with it for fifteen minutes, gently."
-        },
-        {
-          "hu": "Minden alkalommal, amikor a figyelmed elvándorol és visszahozod, egy szemernyi állhatatosságot építettél — számold ezt nyereségnek, ne kudarcnak.",
-          "en": "Every time your attention wanders and you bring it back, you have built a grain of steadiness — count that as gain, not failure."
-        },
-        {
-          "hu": "Ne várj élményt; a hagyomány szerint épp az élményvárás a leggyakoribb akadály. Ülj úgy, mint aki gyümölcsfát ültetett: a dolgod az öntözés, nem az érlelés.",
-          "en": "Expect no experience; in the tradition's view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening."
-        },
-        {
-          "hu": "Hetek alatt, fokozatosan hosszabbíthatod az időt — lépcsőt kihagyni nem lehet, és ami erőltetve érik, az kesernyés marad.",
-          "en": "Over weeks you may lengthen the time gradually — no step can be skipped, and what ripens under force stays bitter."
-        }
-      ],
-      "keret": {
-        "hu": "A türelem itt nem tétlen várakozás, hanem egyenletes ritmus: a mindennap elvégzett kis munka olyan, mint a csepp a kövön — nem látványos, de egyedül ez hagy nyomot. Minden rövidítésnek ára van, és az ár mindig nagyobb, mint a nyereség.",
-        "en": "Patience here is not idle waiting but an even rhythm: the small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark. Every shortcut has a price, and the price is always greater than the gain."
-      },
-      "etika": {
-        "hu": "A hagyomány kifejezetten óv a kikényszerített utaktól: izgatószerrel vagy szerekkel erőltetett »látás« nem fejlődés, hanem ártalom. Semmilyen szerrel ne gyorsítsd a gyakorlást.",
-        "en": "The tradition explicitly warns against forced roads: a »seeing« pushed by stimulants or substances is not development but harm. Do not speed the practice with any substance."
-      }
+     "hu": "Egyetlen feladatod van: figyeld a gondolataidat anélkül, hogy bármelyiket követnéd vagy elűznéd — úgy, ahogy a folyó partjáról nézed a sodródó leveleket.",
+     "en": "You have a single task: watch your thoughts without following or chasing away any of them — the way you watch drifting leaves from a riverbank."
     },
     {
-      "id": "arp-kezdo-hibak-leltar",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "lelek",
-      "elem": "Viz",
-      "cim": {
-        "hu": "A kezdő hibáinak becsületes leltára",
-        "en": "An Honest Inventory of Beginner Mistakes"
-      },
-      "cel": {
-        "hu": "Rendszeresen és önáltatás nélkül végignézni a gyakori kezdő hibák térképét — jelenséghajszolás, egyoldalúság, passzivitás, elmélet gyakorlat nélkül, fecsegés —, és megnevezni, melyik él most benned.",
-        "en": "Regularly, without self-deception, walk the map of common beginner mistakes — chasing phenomena, one-sidedness, passivity, theory without practice, chatter — and name which one is alive in you now."
-      },
-      "modszer": [
-        {
-          "hu": "Írd fel az öt hibát egy lapra: jelenséghajszolás; egyoldalú fejlődés; passzivitás és az akarat feladása; elmélet gyakorlat nélkül; fecsegés a gyakorlásról.",
-          "en": "Write the five mistakes on a sheet: chasing phenomena; one-sided development; passivity and surrender of the will; theory without practice; chatter about one's practice."
-        },
-        {
-          "hu": "Havonta egyszer, nyugodt órában menj végig rajtuk, és mindegyikhez idézz fel egy konkrét esetet az elmúlt hetekből — vagy állapítsd meg becsületesen, hogy most nem volt ilyen.",
-          "en": "Once a month, in a quiet hour, go through them, and for each recall one concrete instance from the past weeks — or note honestly that there was none this time."
-        },
-        {
-          "hu": "Válaszd ki az egyetlen leghangosabbat, és fogalmazz hozzá egy apró, mérhető ellenlépést a következő hónapra (pl. egy hétig nem olvasol új könyvet, csak gyakorolsz).",
-          "en": "Pick the single loudest one and set a small, measurable counter-step for the coming month (e.g. for one week, no new books — practice only)."
-        },
-        {
-          "hu": "A leltárt jegyezd a naplódba dátummal; a következő átnézéskor először a múlt havi ellenlépést értékeld.",
-          "en": "Record the inventory in your diary with a date; at the next review, evaluate last month's counter-step first."
-        }
-      ],
-      "keret": {
-        "hu": "Az önvizsgálat itt nem önostorozás, hanem térképolvasás: a hibák nem szégyenfoltok, hanem a leggyakoribb elakadási pontok, amelyeken mindenki átmegy. A mérce mindig az egész ember, nem egyetlen képesség.",
-        "en": "Self-examination here is not self-flagellation but map-reading: the mistakes are not stains of shame but the most common sticking points everyone passes through. The measure is always the whole person, not a single ability."
-      },
-      "etika": {
-        "hu": "Ha a leltár rendszeresen szégyenbe, szorongásba vagy nyomott hangulatba fordul, az már nem gyakorlás, hanem teher — ilyenkor tedd félre, és beszélj szakemberrel. A becsületesség önmagunkhoz jóindulatot is jelent.",
-        "en": "If the inventory regularly turns into shame, anxiety, or low mood, it is no longer practice but a burden — set it aside then and talk to a professional. Honesty toward oneself includes kindness."
-      }
+     "hu": "Amikor észreveszed, hogy egy gondolat elragadott, jegyezd meg nyugodtan: elragadott — és térj vissza a partra. Nem a gondolattalanság a cél, hanem a puszta látás.",
+     "en": "When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but bare seeing."
     },
     {
-      "id": "arp-csend-negyedik-piller",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "lelek",
-      "elem": "Fold",
-      "cim": {
-        "hu": "A negyedik pillér — hallgatni a gyakorlásról",
-        "en": "The Fourth Pillar — Keeping Silence About Your Practice"
-      },
-      "cel": {
-        "hu": "Begyakorolni a négy pillér legnehezebbikét: nem beszélni a gyakorlásról fűnek-fának — mert a fecsegés szétszórja, amit a csend gyűjtött, és hiúságot nevel oda, ahol józanságra volna szükség.",
-        "en": "Train the hardest of the four pillars: not talking about your practice to everyone — because chatter scatters what silence gathered, and grows vanity where sobriety is needed."
-      },
-      "modszer": [
-        {
-          "hu": "Fogadj meg egy meghatározott időszakot — például negyven napot —, amely alatt a gyakorlásodról nem beszélsz, nem posztolsz és nem vitázol.",
-          "en": "Commit to a defined period — forty days, for example — during which you do not talk about, post about, or debate your practice."
-        },
-        {
-          "hu": "Amikor feltör a késztetés, hogy elmeséld vagy megvédd, ne fojtsd el némán: írd le a naplódba, mit mondtál volna, és nézd meg, mi volt mögötte — lelkesedés, magány, dicsekvés, bizonyításvágy.",
-          "en": "When the urge rises to tell or defend it, do not merely suppress it: write in your diary what you would have said, and look at what was underneath — enthusiasm, loneliness, boasting, the need to prove."
-        },
-        {
-          "hu": "Jelölj ki legfeljebb egy-két embert — tanítót vagy régi gyakorlótársat —, akivel tárgyszerűen beszélhetsz, ha valódi kérdésed van; a csend nem elszigetelődés.",
-          "en": "Designate at most one or two people — a teacher or an old fellow practitioner — with whom you may speak matter-of-factly when you have a real question; silence is not isolation."
-        },
-        {
-          "hu": "Az időszak végén olvasd vissza a feljegyzéseket, és nézd meg, mit tett a csend a gyakorlásod komolyságával és a hiúságoddal.",
-          "en": "At the end of the period, reread the notes and see what the silence did to the seriousness of your practice and to your vanity."
-        }
-      ],
-      "keret": {
-        "hu": "Tudni, merni, akarni, hallgatni — a hagyomány szerint a negyedik pillér őrzi az erőt és a józanságot. A csend itt nem titkolózás vagy szégyen, hanem munkavédelem: ami érik, azt nem tesszük ki naponta a piacra.",
-        "en": "To know, to dare, to will, to keep silent — in the tradition's view the fourth pillar guards both power and sobriety. Silence here is not secrecy or shame but protection of the work: what is ripening is not laid out daily at the market."
-      },
-      "etika": {
-        "hu": "A csend fegyelme soha nem jelentheti azt, hogy elhallgatsz olyasmit, ami neked vagy másnak árt. Ha a gyakorlás körül félelem, függés vagy ijesztő élmény jelenik meg, arról beszélj — szeretteiddel és szükség esetén szakemberrel.",
-        "en": "The discipline of silence never means concealing what harms you or another. If fear, dependence, or frightening experiences appear around the practice, speak about them — with those who love you, and with a professional if needed."
-      }
+     "hu": "Az ülés végén egyetlen mondatban jegyezd fel a naplódba, milyen volt ma a figyelem — ami nincs leírva, az elmosódik.",
+     "en": "At the end of the sit, note in your diary in a single sentence what the attention was like today — what is not written down blurs away."
     },
     {
-      "id": "arp-megkulonboztetes-merleg",
-      "mester": "Arion",
-      "szint": "halado",
-      "sik": "szellem",
-      "elem": "Levego",
-      "cim": {
-        "hu": "A saját mérleg — tanítók és jelenségek megkülönböztetése",
-        "en": "Your Own Scale — Discerning Teachers and Phenomena"
-      },
-      "cel": {
-        "hu": "Élő gyakorlattá tenni az út legfontosabb kerítését: semmilyen tanító, cím, hagyomány vagy jelenség nem írhatja felül a saját lelkiismeretedet — minden tanítást és élményt ugyanazon a mérlegen mérsz.",
-        "en": "Make the path's most important fence a living practice: no teacher, title, tradition, or phenomenon may override your own conscience — you weigh every teaching and experience on the same scale."
-      },
-      "modszer": [
-        {
-          "hu": "Amikor új tanítás, tanító vagy szokatlan élmény kerül eléd, ne dönts azonnal: adj magadnak legalább egy éjszakát, és jegyezd fel tárgyilagosan, mi történt és mit ígér.",
-          "en": "When a new teaching, teacher, or unusual experience comes before you, do not decide at once: give yourself at least one night, and note factually what happened and what it promises."
-        },
-        {
-          "hu": "Tedd fel a mérleg három kérdését: alázatosabbá tesz-e, szabadabbá tesz-e, felelősebbé tesz-e? Ami függést, félelmet vagy gőgöt épít, attól fordulj el — akárki mondja.",
-          "en": "Ask the scale's three questions: does it make me humbler, freer, more responsible? Whatever builds dependence, fear, or pride, turn away from — whoever says it."
-        },
-        {
-          "hu": "Nézd az árazást és a tempót: a valódi vezető sosem kér vak engedelmességet, sosem árusít kegyelmet vagy gyorsított beavatást, és sosem szigetel el azoktól, akik szeretnek. Ami hangos, sürgető és fizetős, az már ezzel elárulta magát.",
-          "en": "Watch the pricing and the pace: a genuine guide never asks for blind obedience, never sells grace or accelerated initiation, and never isolates you from those who love you. Whatever is loud, urgent, and priced has already betrayed itself."
-        },
-        {
-          "hu": "Emlékezz a hagyomány saját határkövére: a tanító fényt gyújthat és utat mutathat, de a jellem átformálása átruházhatatlanul a tiéd. Aki többet ígér, többet ígér, mint amit bárki adhat.",
-          "en": "Remember the tradition's own boundary stone: a teacher may kindle light and point out the way, but the remaking of character is untransferably yours. Whoever promises more is promising more than anyone can give."
-        },
-        {
-          "hu": "A döntésedet és indokaidat írd le; fél év múlva olvasd vissza, és ellenőrizd a gyümölcsökön, jól mért-e a mérleged.",
-          "en": "Write down your decision and your reasons; reread them in half a year and check against the fruits whether your scale weighed well."
-        }
-      ],
-      "keret": {
-        "hu": "Ez a kerítés nem alku tárgya, és önmagára is vonatkozik: ez a gyakorlat és ez a gyűjtemény sem áll a lelkiismereted fölött. A megkülönböztetés nem gyanakvás, hanem felnőtt felelősség — a mérce mindig a belső gyümölcs.",
-        "en": "This fence is not negotiable, and it applies to itself: this practice and this collection do not stand above your conscience either. Discernment is not suspicion but adult responsibility — the measure is always the inner fruit."
-      },
-      "etika": {
-        "hu": "Ha egy tanító vagy csoport pénzügyi, testi vagy lelki függésbe von, az elszigetelésre vagy titoktartásra kényszerít, az nem szellemi út, hanem visszaélés — lépj ki, és kérj segítséget. Aki gyógyulást ígér ellátás helyett, azzal szemben pontosan ezt a leckét alkalmazd.",
-        "en": "If a teacher or group draws you into financial, bodily, or emotional dependence, or forces isolation or secrecy, that is not a spiritual path but abuse — leave, and ask for help. Toward anyone promising healing in place of care, apply precisely this lesson."
-      }
-    },
-    {
-      "id": "arp-feny-arnyek-jegyzet",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "lelek",
-      "elem": "Viz",
-      "cim": {
-        "hu": "Egy fény, egy árnyék — a napi introspekció",
-        "en": "One Light, One Shadow — the Daily Introspection"
-      },
-      "cel": {
-        "hu": "Az önvizsgálatot egyszeri leltárból életformává tenni: minden nap egyetlen fény és egyetlen árnyék feljegyzésével tartani a kapcsolatot a saját jellemeddel — mert az alap a jellem kiegyensúlyozása, nem a képességek gyűjtése.",
-        "en": "Turn self-examination from a one-time inventory into a way of life: keep contact with your own character by noting one light and one shadow every day — for the foundation is the balancing of character, not the collecting of abilities."
-      },
-      "modszer": [
-        {
-          "hu": "Reggel fogalmazz meg egyetlen világos szándékot a napra — egy mondat, nem lista.",
-          "en": "In the morning, set one clear intention for the day — one sentence, not a list."
-        },
-        {
-          "hu": "Este, lefekvés előtt jegyezz fel egy fényt (ahol ma helytálltál) és egy árnyékot (ahol ma elbuktál vagy elkerülted a munkát) — mindkettőt tényszerűen, magyarázkodás nélkül.",
-          "en": "In the evening, before bed, note one light (where you stood your ground today) and one shadow (where you failed or dodged the work today) — both factually, without excuses."
-        },
-        {
-          "hu": "Az árnyékhoz ne írj azonnal fogadalmat; elég, hogy néven nevezted. A minták hetek alatt maguktól kirajzolódnak a naplóban.",
-          "en": "Do not attach an instant vow to the shadow; naming it is enough. Over weeks the patterns draw themselves out in the diary."
-        },
-        {
-          "hu": "Zárd a napot köszönettel — egy mondat arról, ami ma megtartott.",
-          "en": "Close the day with gratitude — one sentence about what carried you today."
-        }
-      ],
-      "keret": {
-        "hu": "A napló itt nem díszlet, hanem műszer: ami nincs leírva, az elmosódik. A hagyomány nyelvén ez az elemek egyensúlyának munkája; a hétköznapok nyelvén: ismerd az indulataidat, szokásaidat, gyengéidet, és dolgozz rajtuk naponta.",
-        "en": "The diary is not decoration here but an instrument: what is not written down blurs away. In the tradition's language this is the work of balancing the elements; in everyday language: know your impulses, habits, and weaknesses, and work on them daily."
-      },
-      "etika": {
-        "hu": "A fény feljegyzése ugyanolyan kötelező, mint az árnyéké — az introspekció célja az egyensúly, nem az önvád. Tartós nyomott hangulat vagy szorongás esetén a napló nem elég: fordulj szakemberhez.",
-        "en": "Recording the light is as obligatory as recording the shadow — the aim of introspection is balance, not self-accusation. In persistent low mood or anxiety the diary is not enough: see a professional."
-      }
-    },
-    {
-      "id": "arp-heti-szemle",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "szellem",
-      "cim": {
-        "hu": "Csepp a kövön — az egyenletes tempó heti szemléje",
-        "en": "The Drop on the Stone — a Weekly Review of Even Pace"
-      },
-      "cel": {
-        "hu": "Hetente egyszer felülről ránézni a gyakorlásra: tartod-e az egyenletes ritmust, nem hajszolsz-e rövidítést vagy látványt — és a következő hetet a valós állapotodhoz, nem a becsvágyadhoz igazítani.",
-        "en": "Once a week, look at the practice from above: are you keeping the even rhythm, are you chasing no shortcut or spectacle — and set the coming week to your real state, not to your ambition."
-      },
-      "modszer": [
-        {
-          "hu": "Válassz egy állandó heti időpontot, és olvasd végig a hét naplóbejegyzéseit — előbb csak olvasd, ítélet nélkül.",
-          "en": "Choose a fixed weekly time and read through the week's diary entries — first just read, without judgement."
-        },
-        {
-          "hu": "Számold össze tényszerűen: hány napon gyakoroltál, hol szakadt meg a ritmus, és mi előzte meg a kihagyást.",
-          "en": "Count factually: on how many days you practised, where the rhythm broke, and what preceded the missed day."
-        },
-        {
-          "hu": "Tedd fel a türelmetlenség-kérdést: kerestem-e a héten rövidítést, élményt, gyorsabb fokozatot — és mi volt mögötte?",
-          "en": "Ask the impatience question: did I look this week for a shortcut, an experience, a faster grade — and what was underneath it?"
-        },
-        {
-          "hu": "A következő hétre egyetlen dolgot állíts be: vagy tartod a jelenlegi adagot, vagy egy hajszálnyit igazítasz rajta. Soha ne duplázz lelkesedésből — a fokozat kihagyása mindig visszaüt.",
-          "en": "Set one single thing for the coming week: either keep the current dose or adjust it by a hair. Never double out of enthusiasm — skipping a step always strikes back."
-        }
-      ],
-      "keret": {
-        "hu": "A fejlődés a hagyomány szerint úgy érik, mint a gyümölcs: ami erőltetve, idő előtt szakad le, éretlen és kesernyés. A heti szemle nem teljesítményértékelés, hanem kertészmunka — az öntözés ritmusát ellenőrzöd, nem az érés sebességét.",
-        "en": "Development, the tradition says, ripens like fruit: what is torn off early, by force, is unripe and bitter. The weekly review is not a performance appraisal but gardener's work — you check the rhythm of the watering, not the speed of the ripening."
-      }
-    },
-    {
-      "id": "arp-test-hordozo",
-      "mester": "Arion",
-      "szint": "kezdo",
-      "sik": "test",
-      "elem": "Fold",
-      "cim": {
-        "hu": "A test mint hordozó — ritmus, étel, alvás",
-        "en": "The Body as Carrier — Rhythm, Food, Sleep"
-      },
-      "cel": {
-        "hu": "A gyakorlás valódi alapozását a hétköznapokban lerakni: rendszeres életritmus, mértékletes és változatos étkezés, elegendő alvás — mert a test nem akadály, hanem a munka hordozója.",
-        "en": "Lay the real groundwork of practice in everyday life: a regular rhythm, moderate and varied eating, enough sleep — for the body is not an obstacle but the carrier of the work."
-      },
-      "modszer": [
-        {
-          "hu": "Rögzíts egy hétre három sarokpontot: nagyjából állandó lefekvési időt, nagyjából állandó étkezési időket, és a napi gyakorlat állandó helyét a napirendben.",
-          "en": "For one week, fix three anchor points: a roughly constant bedtime, roughly constant mealtimes, and a fixed place in the day for the daily exercise."
-        },
-        {
-          "hu": "Egyél mértékkel és változatosan; ne kövess szélsőséges megvonást a gyakorlás nevében — a hagyomány mércéje itt is a harmónia, nem az önsanyargatás.",
-          "en": "Eat with moderation and variety; follow no extreme deprivation in the name of practice — here too the tradition's measure is harmony, not mortification."
-        },
-        {
-          "hu": "Este jegyezd fel egyetlen sorban, hogyan szolgált ma a test: alvás, étel, mozgás — és hogyan hatott ez a figyelmedre az ülés alatt.",
-          "en": "In the evening, note in a single line how the body served today — sleep, food, movement — and how that affected your attention during the sit."
-        },
-        {
-          "hu": "A hét végén nézd meg az összefüggéseket, és a következő hétre egyetlen apró kiigazítást válassz — a ritmus lassan épül, ahogy minden más is ezen az úton.",
-          "en": "At the week's end, look at the correlations and choose one small adjustment for the next week — rhythm builds slowly, like everything else on this path."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány a testről a maga korának térképén beszél — elemek, fluidumok, harmónia. Ami ebből ma is arany: a rendszeres élet a gyakorlás valódi alapozása. Ez a gyakorlat életrend, nem gyógymód.",
-        "en": "The tradition speaks of the body on the map of its own era — elements, fluids, harmony. What remains gold in it today: a regular life is the real groundwork of practice. This practice is a daily order, not a cure."
-      },
-      "etika": {
-        "hu": "Ez a kerítés szilárd és nem mozdul: a szellemi gyakorlás soha nem helyettesíti az orvosi vagy pszichológiai ellátást. Ha beteg vagy, orvoshoz fordulsz; ha a lelked szenved, szakemberhez — és ez nem az út kudarca, hanem a józanság győzelme. Aki az ellenkezőjét állítja, azzal szemben a megkülönböztetés leckéjét alkalmazd.",
-        "en": "This fence is firm and does not move: spiritual practice never replaces medical or psychological care. If you are ill, you see a doctor; if your soul is suffering, a professional — and that is not the path failing but sobriety winning. Toward anyone claiming otherwise, apply the lesson of discernment."
-      }
+     "hu": "Inkább röviden és naponta, mint hosszan és ritkán: egy pontos tíz perc többet ér, mint egy szétszórt óra.",
+     "en": "Brief and daily rather than long and rare: one exact ten minutes is worth more than a scattered hour."
     }
-  ]
+   ],
+   "keret": {
+    "hu": "A hagyomány saját nyelvén ez a szellemi munka alapozása; hétköznapi nyelven figyelemgyakorlás. Mércéje nem élmény, hanem belső gyümölcs: nyugodtabb, rendezettebb lettél-e hetek távlatában.",
+    "en": "In the tradition's own language this is the groundwork of mental training; in everyday language, attention practice. Its measure is not experience but inner fruit: whether, over weeks, you have become calmer and more ordered."
+   },
+   "etika": {
+    "hu": "Ha az ülés alatt tartós szorongás, nyomasztó élmény vagy nem múló nyugtalanság jelentkezik, szüneteltesd a gyakorlást és fordulj szakemberhez. A gyakorlás soha nem helyettesíti az orvosi vagy pszichológiai ellátást.",
+    "en": "If persistent anxiety, distressing experiences, or unrelenting restlessness arise during the sit, pause the practice and see a professional. Practice never replaces medical or psychological care."
+   },
+   "sorszam": 1
+  },
+  {
+   "id": "arp-turelem-egy-targy",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A türelem ülése — egy tárgy, egy figyelem",
+    "en": "The Patience Sit — One Object, One Attention"
+   },
+   "cel": {
+    "hu": "A türelmet módszerré tenni: egyetlen egyszerű tárgynál maradni erőlködés nélkül, és megtanulni, hogy a visszatérés maga a gyakorlat — nem hiba, hanem ismétlés.",
+    "en": "Make patience a method: stay with one simple object without strain, and learn that the returning is itself the practice — not a mistake but a repetition."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egyetlen egyszerű tárgyat — egy követ, egy gyertyalángot, vagy csak a légzésed ritmusát —, és maradj nála tizenöt percen át, gyengéden.",
+     "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath — and stay with it for fifteen minutes, gently."
+    },
+    {
+     "hu": "Minden alkalommal, amikor a figyelmed elvándorol és visszahozod, egy szemernyi állhatatosságot építettél — számold ezt nyereségnek, ne kudarcnak.",
+     "en": "Every time your attention wanders and you bring it back, you have built a grain of steadiness — count that as gain, not failure."
+    },
+    {
+     "hu": "Ne várj élményt; a hagyomány szerint épp az élményvárás a leggyakoribb akadály. Ülj úgy, mint aki gyümölcsfát ültetett: a dolgod az öntözés, nem az érlelés.",
+     "en": "Expect no experience; in the tradition's view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening."
+    },
+    {
+     "hu": "Hetek alatt, fokozatosan hosszabbíthatod az időt — lépcsőt kihagyni nem lehet, és ami erőltetve érik, az kesernyés marad.",
+     "en": "Over weeks you may lengthen the time gradually — no step can be skipped, and what ripens under force stays bitter."
+    }
+   ],
+   "keret": {
+    "hu": "A türelem itt nem tétlen várakozás, hanem egyenletes ritmus: a mindennap elvégzett kis munka olyan, mint a csepp a kövön — nem látványos, de egyedül ez hagy nyomot. Minden rövidítésnek ára van, és az ár mindig nagyobb, mint a nyereség.",
+    "en": "Patience here is not idle waiting but an even rhythm: the small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark. Every shortcut has a price, and the price is always greater than the gain."
+   },
+   "etika": {
+    "hu": "A hagyomány kifejezetten óv a kikényszerített utaktól: izgatószerrel vagy szerekkel erőltetett »látás« nem fejlődés, hanem ártalom. Semmilyen szerrel ne gyorsítsd a gyakorlást.",
+    "en": "The tradition explicitly warns against forced roads: a »seeing« pushed by stimulants or substances is not development but harm. Do not speed the practice with any substance."
+   },
+   "sorszam": 2
+  },
+  {
+   "id": "arp-kezdo-hibak-leltar",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A kezdő hibáinak becsületes leltára",
+    "en": "An Honest Inventory of Beginner Mistakes"
+   },
+   "cel": {
+    "hu": "Rendszeresen és önáltatás nélkül végignézni a gyakori kezdő hibák térképét — jelenséghajszolás, egyoldalúság, passzivitás, elmélet gyakorlat nélkül, fecsegés —, és megnevezni, melyik él most benned.",
+    "en": "Regularly, without self-deception, walk the map of common beginner mistakes — chasing phenomena, one-sidedness, passivity, theory without practice, chatter — and name which one is alive in you now."
+   },
+   "modszer": [
+    {
+     "hu": "Írd fel az öt hibát egy lapra: jelenséghajszolás; egyoldalú fejlődés; passzivitás és az akarat feladása; elmélet gyakorlat nélkül; fecsegés a gyakorlásról.",
+     "en": "Write the five mistakes on a sheet: chasing phenomena; one-sided development; passivity and surrender of the will; theory without practice; chatter about one's practice."
+    },
+    {
+     "hu": "Havonta egyszer, nyugodt órában menj végig rajtuk, és mindegyikhez idézz fel egy konkrét esetet az elmúlt hetekből — vagy állapítsd meg becsületesen, hogy most nem volt ilyen.",
+     "en": "Once a month, in a quiet hour, go through them, and for each recall one concrete instance from the past weeks — or note honestly that there was none this time."
+    },
+    {
+     "hu": "Válaszd ki az egyetlen leghangosabbat, és fogalmazz hozzá egy apró, mérhető ellenlépést a következő hónapra (pl. egy hétig nem olvasol új könyvet, csak gyakorolsz).",
+     "en": "Pick the single loudest one and set a small, measurable counter-step for the coming month (e.g. for one week, no new books — practice only)."
+    },
+    {
+     "hu": "A leltárt jegyezd a naplódba dátummal; a következő átnézéskor először a múlt havi ellenlépést értékeld.",
+     "en": "Record the inventory in your diary with a date; at the next review, evaluate last month's counter-step first."
+    }
+   ],
+   "keret": {
+    "hu": "Az önvizsgálat itt nem önostorozás, hanem térképolvasás: a hibák nem szégyenfoltok, hanem a leggyakoribb elakadási pontok, amelyeken mindenki átmegy. A mérce mindig az egész ember, nem egyetlen képesség.",
+    "en": "Self-examination here is not self-flagellation but map-reading: the mistakes are not stains of shame but the most common sticking points everyone passes through. The measure is always the whole person, not a single ability."
+   },
+   "etika": {
+    "hu": "Ha a leltár rendszeresen szégyenbe, szorongásba vagy nyomott hangulatba fordul, az már nem gyakorlás, hanem teher — ilyenkor tedd félre, és beszélj szakemberrel. A becsületesség önmagunkhoz jóindulatot is jelent.",
+    "en": "If the inventory regularly turns into shame, anxiety, or low mood, it is no longer practice but a burden — set it aside then and talk to a professional. Honesty toward oneself includes kindness."
+   },
+   "sorszam": 3
+  },
+  {
+   "id": "arp-csend-negyedik-piller",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A negyedik pillér — hallgatni a gyakorlásról",
+    "en": "The Fourth Pillar — Keeping Silence About Your Practice"
+   },
+   "cel": {
+    "hu": "Begyakorolni a négy pillér legnehezebbikét: nem beszélni a gyakorlásról fűnek-fának — mert a fecsegés szétszórja, amit a csend gyűjtött, és hiúságot nevel oda, ahol józanságra volna szükség.",
+    "en": "Train the hardest of the four pillars: not talking about your practice to everyone — because chatter scatters what silence gathered, and grows vanity where sobriety is needed."
+   },
+   "modszer": [
+    {
+     "hu": "Fogadj meg egy meghatározott időszakot — például negyven napot —, amely alatt a gyakorlásodról nem beszélsz, nem posztolsz és nem vitázol.",
+     "en": "Commit to a defined period — forty days, for example — during which you do not talk about, post about, or debate your practice."
+    },
+    {
+     "hu": "Amikor feltör a késztetés, hogy elmeséld vagy megvédd, ne fojtsd el némán: írd le a naplódba, mit mondtál volna, és nézd meg, mi volt mögötte — lelkesedés, magány, dicsekvés, bizonyításvágy.",
+     "en": "When the urge rises to tell or defend it, do not merely suppress it: write in your diary what you would have said, and look at what was underneath — enthusiasm, loneliness, boasting, the need to prove."
+    },
+    {
+     "hu": "Jelölj ki legfeljebb egy-két embert — tanítót vagy régi gyakorlótársat —, akivel tárgyszerűen beszélhetsz, ha valódi kérdésed van; a csend nem elszigetelődés.",
+     "en": "Designate at most one or two people — a teacher or an old fellow practitioner — with whom you may speak matter-of-factly when you have a real question; silence is not isolation."
+    },
+    {
+     "hu": "Az időszak végén olvasd vissza a feljegyzéseket, és nézd meg, mit tett a csend a gyakorlásod komolyságával és a hiúságoddal.",
+     "en": "At the end of the period, reread the notes and see what the silence did to the seriousness of your practice and to your vanity."
+    }
+   ],
+   "keret": {
+    "hu": "Tudni, merni, akarni, hallgatni — a hagyomány szerint a negyedik pillér őrzi az erőt és a józanságot. A csend itt nem titkolózás vagy szégyen, hanem munkavédelem: ami érik, azt nem tesszük ki naponta a piacra.",
+    "en": "To know, to dare, to will, to keep silent — in the tradition's view the fourth pillar guards both power and sobriety. Silence here is not secrecy or shame but protection of the work: what is ripening is not laid out daily at the market."
+   },
+   "etika": {
+    "hu": "A csend fegyelme soha nem jelentheti azt, hogy elhallgatsz olyasmit, ami neked vagy másnak árt. Ha a gyakorlás körül félelem, függés vagy ijesztő élmény jelenik meg, arról beszélj — szeretteiddel és szükség esetén szakemberrel.",
+    "en": "The discipline of silence never means concealing what harms you or another. If fear, dependence, or frightening experiences appear around the practice, speak about them — with those who love you, and with a professional if needed."
+   },
+   "sorszam": 4
+  },
+  {
+   "id": "arp-megkulonboztetes-merleg",
+   "mester": "Arion",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A saját mérleg — tanítók és jelenségek megkülönböztetése",
+    "en": "Your Own Scale — Discerning Teachers and Phenomena"
+   },
+   "cel": {
+    "hu": "Élő gyakorlattá tenni az út legfontosabb kerítését: semmilyen tanító, cím, hagyomány vagy jelenség nem írhatja felül a saját lelkiismeretedet — minden tanítást és élményt ugyanazon a mérlegen mérsz.",
+    "en": "Make the path's most important fence a living practice: no teacher, title, tradition, or phenomenon may override your own conscience — you weigh every teaching and experience on the same scale."
+   },
+   "modszer": [
+    {
+     "hu": "Amikor új tanítás, tanító vagy szokatlan élmény kerül eléd, ne dönts azonnal: adj magadnak legalább egy éjszakát, és jegyezd fel tárgyilagosan, mi történt és mit ígér.",
+     "en": "When a new teaching, teacher, or unusual experience comes before you, do not decide at once: give yourself at least one night, and note factually what happened and what it promises."
+    },
+    {
+     "hu": "Tedd fel a mérleg három kérdését: alázatosabbá tesz-e, szabadabbá tesz-e, felelősebbé tesz-e? Ami függést, félelmet vagy gőgöt épít, attól fordulj el — akárki mondja.",
+     "en": "Ask the scale's three questions: does it make me humbler, freer, more responsible? Whatever builds dependence, fear, or pride, turn away from — whoever says it."
+    },
+    {
+     "hu": "Nézd az árazást és a tempót: a valódi vezető sosem kér vak engedelmességet, sosem árusít kegyelmet vagy gyorsított beavatást, és sosem szigetel el azoktól, akik szeretnek. Ami hangos, sürgető és fizetős, az már ezzel elárulta magát.",
+     "en": "Watch the pricing and the pace: a genuine guide never asks for blind obedience, never sells grace or accelerated initiation, and never isolates you from those who love you. Whatever is loud, urgent, and priced has already betrayed itself."
+    },
+    {
+     "hu": "Emlékezz a hagyomány saját határkövére: a tanító fényt gyújthat és utat mutathat, de a jellem átformálása átruházhatatlanul a tiéd. Aki többet ígér, többet ígér, mint amit bárki adhat.",
+     "en": "Remember the tradition's own boundary stone: a teacher may kindle light and point out the way, but the remaking of character is untransferably yours. Whoever promises more is promising more than anyone can give."
+    },
+    {
+     "hu": "A döntésedet és indokaidat írd le; fél év múlva olvasd vissza, és ellenőrizd a gyümölcsökön, jól mért-e a mérleged.",
+     "en": "Write down your decision and your reasons; reread them in half a year and check against the fruits whether your scale weighed well."
+    }
+   ],
+   "keret": {
+    "hu": "Ez a kerítés nem alku tárgya, és önmagára is vonatkozik: ez a gyakorlat és ez a gyűjtemény sem áll a lelkiismereted fölött. A megkülönböztetés nem gyanakvás, hanem felnőtt felelősség — a mérce mindig a belső gyümölcs.",
+    "en": "This fence is not negotiable, and it applies to itself: this practice and this collection do not stand above your conscience either. Discernment is not suspicion but adult responsibility — the measure is always the inner fruit."
+   },
+   "etika": {
+    "hu": "Ha egy tanító vagy csoport pénzügyi, testi vagy lelki függésbe von, az elszigetelésre vagy titoktartásra kényszerít, az nem szellemi út, hanem visszaélés — lépj ki, és kérj segítséget. Aki gyógyulást ígér ellátás helyett, azzal szemben pontosan ezt a leckét alkalmazd.",
+    "en": "If a teacher or group draws you into financial, bodily, or emotional dependence, or forces isolation or secrecy, that is not a spiritual path but abuse — leave, and ask for help. Toward anyone promising healing in place of care, apply precisely this lesson."
+   },
+   "sorszam": 5
+  },
+  {
+   "id": "arp-feny-arnyek-jegyzet",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Egy fény, egy árnyék — a napi introspekció",
+    "en": "One Light, One Shadow — the Daily Introspection"
+   },
+   "cel": {
+    "hu": "Az önvizsgálatot egyszeri leltárból életformává tenni: minden nap egyetlen fény és egyetlen árnyék feljegyzésével tartani a kapcsolatot a saját jellemeddel — mert az alap a jellem kiegyensúlyozása, nem a képességek gyűjtése.",
+    "en": "Turn self-examination from a one-time inventory into a way of life: keep contact with your own character by noting one light and one shadow every day — for the foundation is the balancing of character, not the collecting of abilities."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel fogalmazz meg egyetlen világos szándékot a napra — egy mondat, nem lista.",
+     "en": "In the morning, set one clear intention for the day — one sentence, not a list."
+    },
+    {
+     "hu": "Este, lefekvés előtt jegyezz fel egy fényt (ahol ma helytálltál) és egy árnyékot (ahol ma elbuktál vagy elkerülted a munkát) — mindkettőt tényszerűen, magyarázkodás nélkül.",
+     "en": "In the evening, before bed, note one light (where you stood your ground today) and one shadow (where you failed or dodged the work today) — both factually, without excuses."
+    },
+    {
+     "hu": "Az árnyékhoz ne írj azonnal fogadalmat; elég, hogy néven nevezted. A minták hetek alatt maguktól kirajzolódnak a naplóban.",
+     "en": "Do not attach an instant vow to the shadow; naming it is enough. Over weeks the patterns draw themselves out in the diary."
+    },
+    {
+     "hu": "Zárd a napot köszönettel — egy mondat arról, ami ma megtartott.",
+     "en": "Close the day with gratitude — one sentence about what carried you today."
+    }
+   ],
+   "keret": {
+    "hu": "A napló itt nem díszlet, hanem műszer: ami nincs leírva, az elmosódik. A hagyomány nyelvén ez az elemek egyensúlyának munkája; a hétköznapok nyelvén: ismerd az indulataidat, szokásaidat, gyengéidet, és dolgozz rajtuk naponta.",
+    "en": "The diary is not decoration here but an instrument: what is not written down blurs away. In the tradition's language this is the work of balancing the elements; in everyday language: know your impulses, habits, and weaknesses, and work on them daily."
+   },
+   "etika": {
+    "hu": "A fény feljegyzése ugyanolyan kötelező, mint az árnyéké — az introspekció célja az egyensúly, nem az önvád. Tartós nyomott hangulat vagy szorongás esetén a napló nem elég: fordulj szakemberhez.",
+    "en": "Recording the light is as obligatory as recording the shadow — the aim of introspection is balance, not self-accusation. In persistent low mood or anxiety the diary is not enough: see a professional."
+   },
+   "sorszam": 6
+  },
+  {
+   "id": "arp-heti-szemle",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Csepp a kövön — az egyenletes tempó heti szemléje",
+    "en": "The Drop on the Stone — a Weekly Review of Even Pace"
+   },
+   "cel": {
+    "hu": "Hetente egyszer felülről ránézni a gyakorlásra: tartod-e az egyenletes ritmust, nem hajszolsz-e rövidítést vagy látványt — és a következő hetet a valós állapotodhoz, nem a becsvágyadhoz igazítani.",
+    "en": "Once a week, look at the practice from above: are you keeping the even rhythm, are you chasing no shortcut or spectacle — and set the coming week to your real state, not to your ambition."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy állandó heti időpontot, és olvasd végig a hét naplóbejegyzéseit — előbb csak olvasd, ítélet nélkül.",
+     "en": "Choose a fixed weekly time and read through the week's diary entries — first just read, without judgement."
+    },
+    {
+     "hu": "Számold össze tényszerűen: hány napon gyakoroltál, hol szakadt meg a ritmus, és mi előzte meg a kihagyást.",
+     "en": "Count factually: on how many days you practised, where the rhythm broke, and what preceded the missed day."
+    },
+    {
+     "hu": "Tedd fel a türelmetlenség-kérdést: kerestem-e a héten rövidítést, élményt, gyorsabb fokozatot — és mi volt mögötte?",
+     "en": "Ask the impatience question: did I look this week for a shortcut, an experience, a faster grade — and what was underneath it?"
+    },
+    {
+     "hu": "A következő hétre egyetlen dolgot állíts be: vagy tartod a jelenlegi adagot, vagy egy hajszálnyit igazítasz rajta. Soha ne duplázz lelkesedésből — a fokozat kihagyása mindig visszaüt.",
+     "en": "Set one single thing for the coming week: either keep the current dose or adjust it by a hair. Never double out of enthusiasm — skipping a step always strikes back."
+    }
+   ],
+   "keret": {
+    "hu": "A fejlődés a hagyomány szerint úgy érik, mint a gyümölcs: ami erőltetve, idő előtt szakad le, éretlen és kesernyés. A heti szemle nem teljesítményértékelés, hanem kertészmunka — az öntözés ritmusát ellenőrzöd, nem az érés sebességét.",
+    "en": "Development, the tradition says, ripens like fruit: what is torn off early, by force, is unripe and bitter. The weekly review is not a performance appraisal but gardener's work — you check the rhythm of the watering, not the speed of the ripening."
+   },
+   "sorszam": 7
+  },
+  {
+   "id": "arp-test-hordozo",
+   "mester": "Arion",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "A test mint hordozó — ritmus, étel, alvás",
+    "en": "The Body as Carrier — Rhythm, Food, Sleep"
+   },
+   "cel": {
+    "hu": "A gyakorlás valódi alapozását a hétköznapokban lerakni: rendszeres életritmus, mértékletes és változatos étkezés, elegendő alvás — mert a test nem akadály, hanem a munka hordozója.",
+    "en": "Lay the real groundwork of practice in everyday life: a regular rhythm, moderate and varied eating, enough sleep — for the body is not an obstacle but the carrier of the work."
+   },
+   "modszer": [
+    {
+     "hu": "Rögzíts egy hétre három sarokpontot: nagyjából állandó lefekvési időt, nagyjából állandó étkezési időket, és a napi gyakorlat állandó helyét a napirendben.",
+     "en": "For one week, fix three anchor points: a roughly constant bedtime, roughly constant mealtimes, and a fixed place in the day for the daily exercise."
+    },
+    {
+     "hu": "Egyél mértékkel és változatosan; ne kövess szélsőséges megvonást a gyakorlás nevében — a hagyomány mércéje itt is a harmónia, nem az önsanyargatás.",
+     "en": "Eat with moderation and variety; follow no extreme deprivation in the name of practice — here too the tradition's measure is harmony, not mortification."
+    },
+    {
+     "hu": "Este jegyezd fel egyetlen sorban, hogyan szolgált ma a test: alvás, étel, mozgás — és hogyan hatott ez a figyelmedre az ülés alatt.",
+     "en": "In the evening, note in a single line how the body served today — sleep, food, movement — and how that affected your attention during the sit."
+    },
+    {
+     "hu": "A hét végén nézd meg az összefüggéseket, és a következő hétre egyetlen apró kiigazítást válassz — a ritmus lassan épül, ahogy minden más is ezen az úton.",
+     "en": "At the week's end, look at the correlations and choose one small adjustment for the next week — rhythm builds slowly, like everything else on this path."
+    }
+   ],
+   "keret": {
+    "hu": "A hagyomány a testről a maga korának térképén beszél — elemek, fluidumok, harmónia. Ami ebből ma is arany: a rendszeres élet a gyakorlás valódi alapozása. Ez a gyakorlat életrend, nem gyógymód.",
+    "en": "The tradition speaks of the body on the map of its own era — elements, fluids, harmony. What remains gold in it today: a regular life is the real groundwork of practice. This practice is a daily order, not a cure."
+   },
+   "etika": {
+    "hu": "Ez a kerítés szilárd és nem mozdul: a szellemi gyakorlás soha nem helyettesíti az orvosi vagy pszichológiai ellátást. Ha beteg vagy, orvoshoz fordulsz; ha a lelked szenved, szakemberhez — és ez nem az út kudarca, hanem a józanság győzelme. Aki az ellenkezőjét állítja, azzal szemben a megkülönböztetés leckéjét alkalmazd.",
+    "en": "This fence is firm and does not move: spiritual practice never replaces medical or psychological care. If you are ill, you see a doctor; if your soul is suffering, a professional — and that is not the path failing but sobriety winning. Toward anyone claiming otherwise, apply the lesson of discernment."
+   },
+   "sorszam": 8
+  }
+ ]
 }
