@@ -41,6 +41,7 @@ Install: copy a module's **raw** link below and paste it in the app
 | The Dawn Gate — a staged waking practice | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.sid/module.json` |
 | The Direct Method — Crossing the Threshold Awake | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.direct/module.json` |
 | Astral Explorations — Guides, Jumps and Memory | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.explorations/module.json` |
+| Vadim Zeland — Reality Transurfing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/zeland.transurfing/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 

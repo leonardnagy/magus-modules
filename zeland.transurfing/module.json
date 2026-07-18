@@ -1,0 +1,243 @@
+{
+  "formatVersion": 1,
+  "id": "zeland-transurfing",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Vadim Zeland — Transzörfing: a valóság szörfözése",
+    "en": "Vadim Zeland — Reality Transurfing"
+  },
+  "description": {
+    "hu": "Vadim Zeland Transzörfing-tanításának szellemében készült modul: a variánsok tere, az ingák felismerése, kioltása és elsüllyesztése, a fölös potenciál leengedése, a szerencsehullám meglovaglása, a lélek és az elme párbeszéde, a cél-dia technika, a belső és külső szándék, a célok és ajtók tana, valamint a szándék-koordináció — elmélettel, időzített gyakorlatokkal, aspektusokkal, naplósablonnal és önellenőrzéssel.",
+    "en": "A module in the spirit of Vadim Zeland's Reality Transurfing: the space of variations, spotting, damping and sinking pendulums, deflating excess potential, riding the wave of fortune, the dialogue of soul and mind, the goal-slide technique, inner and outer intention, the teaching of goals and doors, and the coordination of intention — with theory, timed practices, aspects, a journal template and a self-check."
+  },
+  "items": [
+    {
+      "id": "zeland-transurfing-md-intro",
+      "kind": "markdown",
+      "nevek": { "hu": "Bevezető — Zeland és a Transzörfing", "en": "Introduction — Zeland and Transurfing" },
+      "text": {
+        "hu": "**Vadim Zeland** orosz szerző, akinek **Transzörfing** című könyvsorozata 2004-től jelent meg, és azóta a világ számos nyelvén olvasók millióihoz jutott el. A hagyomány úgy tartja, hogy Zeland kvantumfizikai-mérnöki háttérből érkezett, és a modelljét ennek a szemléletnek a nyelvén fogalmazta meg. *\n\nA Transzörfing alapgondolata egyetlen fordulatban összefoglalható: **nem harcolsz a valósággal — VÁLASZTASZ a változatai közül.** * A legtöbb módszer arra tanít, hogyan törd át az akadályt; a Transzörfing arra, hogyan lépj át egy olyan forgatókönyvbe, amelyben az akadály fel sem épül. Nem erőlködés, hanem irányválasztás — mint a szörfös, aki nem az óceánnal birkózik, hanem kiválasztja a megfelelő hullámot, és hagyja, hogy az vigye. Innen a név.\n\nA modulban végigjárjuk a fő fogalmakat: a variánsok terét, az ingákat, a fölös potenciált, a szerencsehullámot, a lélek és az elme párbeszédét, a cél-diát, a kétféle szándékot, a célok és ajtók tanát, végül a szándék-koordinációt — mindegyikhez gyakorlat is tartozik.\n\n**Megkülönböztetés:** a Transzörfing merész világkép — semmit ne fogadj el belőle vakon. Kezeld munkamodellként: azt tartsd meg, ami a saját tapasztalatodban igazolódik. A gyakorlat nem helyettesíti az orvosi vagy pszichológiai ellátást, és a nagy élet-döntéseknél a józan mérlegelés marad az alap.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "**Vadim Zeland** is a Russian author whose **Reality Transurfing** book series began appearing in 2004 and has since reached millions of readers in many languages. The tradition holds that Zeland came from a background in quantum physics and engineering, and framed his model in that language. *\n\nThe core idea of Transurfing fits into a single turn of phrase: **you do not fight reality — you CHOOSE among its versions.** * Most methods teach you how to break through the obstacle; Transurfing teaches you how to step into a script where the obstacle never gets built. Not strain but steering — like a surfer who does not wrestle the ocean but picks the right wave and lets it carry him. Hence the name.\n\nIn this module we walk through the main concepts: the space of variations, the pendulums, excess potential, the wave of fortune, the dialogue of soul and mind, the goal slide, the two kinds of intention, the teaching of goals and doors, and finally the coordination of intention — each with its own practice.\n\n**Discernment:** Transurfing is a bold worldview — accept none of it blindly. Treat it as a working model: keep what is confirmed in your own experience. The practice does not replace medical or psychological care, and for major life decisions sober judgment remains the foundation.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-variansok",
+      "kind": "markdown",
+      "nevek": { "hu": "A variánsok tere", "en": "The Space of Variations" },
+      "text": {
+        "hu": "Képzelj el egy végtelen könyvtárat, amelyben nem könyvek sorakoznak, hanem forgatókönyvek: az életed minden lehetséges változata. A Transzörfing modellje szerint ez a könyvtár valóban létezik — a **variánsok tere**, egy információs mező, amelyben minden lehetséges esemény-lefolyás készen „ott van”. * Az élet ebben a képben nem építkezés, hanem mozgás: a figyelmed és az állapotod sugara vándorol a tér szektorai között, és amelyik szektorra áll, az válik megélt valósággá. *\n\nMit ad ez a modell a gyakorlatban? Két ajándékot egyszerre.\n\n**Felelősséget:** ha a megélt forgatókönyv a belső állapotod függvénye, akkor nincs értelme kifelé mutogatni — a kormány a te kezedben van. Ez nem bűntudat, hanem hatáskör: amin belül változtatsz, az kint is másképp áll össze.\n\n**Könnyedséget:** semmit nem kell kierőszakolni. A kedvező változat nem díj, amit kiharcolsz, hanem szektor, amelyre áthangolódsz. A munka nem az öklödben van, hanem az irányválasztásban — és ez sokkal kevésbé fárasztó, mint a világgal birkózni.\n\nA következő leckékben megnézzük, mi téríti el a sugarad (az ingák és a fölös potenciál), és mi tereli oda, ahová valóban tartasz (a dia, a szándék és a koordináció).[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Imagine an infinite library whose shelves hold not books but scripts: every possible version of your life. According to the Transurfing model this library actually exists — the **space of variations**, an information field where every possible course of events is already „there”, ready. * In this picture life is not construction but motion: the beam of your attention and inner state wanders between the sectors of the space, and whichever sector it settles on becomes lived reality. *\n\nWhat does the model give you in practice? Two gifts at once.\n\n**Responsibility:** if the script you live depends on your inner state, pointing fingers outward makes no sense — the wheel is in your hands. This is not guilt but agency: what you change within arranges itself differently without.\n\n**Lightness:** nothing has to be forced. The favorable version is not a prize you wrestle from the world but a sector you retune to. The work is not in your fists but in your steering — and that is far less exhausting than fighting reality.\n\nIn the coming lessons we look at what deflects your beam (the pendulums and excess potential) and what guides it where you truly belong (the slide, intention and coordination).[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-ingak",
+      "kind": "markdown",
+      "nevek": { "hu": "Az ingák", "en": "The Pendulums" },
+      "text": {
+        "hu": "Figyeld meg, mi történik benned, amikor megnyitod a hírfolyamot, vagy amikor a rokonod megint kihozza belőled a vitát: valami megragad, felpörget — és már nem te irányítasz. A Transzörfing ezt a valamit **ingának** nevezi: olyan struktúrának, amely embercsoportok közös gondolat-energiájából épül fel, és a saját fennmaradásáért dolgozik — a te figyelmedből és indulatodból táplálkozva. *\n\n**Hogyan ismered fel?** Az ingát nem látod, de érzed: ami **kibillent**, ami **felháborít**, ami **beszippant** — ott az inga húrja rángat. A harag, a rajongás és a félelem számára egyformán tápláló: neki mindegy, mellette vagy ellene lengsz, csak lengj.\n\n**A két fő fogás:**\n\n**ELSÜLLYESZTÉS** — a nem-reagálás. Nem elfojtod az érzést, hanem hagyod, hogy az inga lökése üresjáratban fusson ki: észreveszed a rángást, nem cselekszel belőle, és a lengés magától elcsendesedik. Ez a fogásod ott, ahol nincs valódi dolgod: hírfolyam-pánik, komment-háború, olyan munkahelyi dráma, amelyhez semmi közöd.\n\n**KIOLTÁS** — a váratlan, játékos válasz. Az inga megírt forgatókönyvre számít: visszavágásra, védekezésre, sértődésre. Ha ehelyett olyat lépsz, amin nincs fogása — humor, őszinte egyetértés egy részletben, kedves kérdés, teljes műfajváltás —, a lengés megtörik. Ez a fogásod ott, ahol a kapcsolat fontos: a vitatkozó rokonnál nem a néma tűrés a cél, hanem a játszma felbontása.\n\n**Mikor melyik?** Ahol nincs téted és dolgod: elsüllyesztés — lépj ki, ne táplálj. Ahol a kapcsolat számít: kioltás — maradj bent, de ne az inga szabályai szerint játssz.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Notice what happens inside you when you open the news feed, or when that one relative draws you into the argument again: something grabs you, spins you up — and you are no longer the one steering. Transurfing calls that something a **pendulum**: a structure built from the shared thought-energy of groups of people, working for its own survival — feeding on your attention and agitation. *\n\n**How do you recognize one?** You cannot see a pendulum, but you can feel it: whatever **knocks you off balance**, whatever **outrages** you, whatever **sucks you in** — there the pendulum's string is jerking. Anger, adoration and fear nourish it equally: it does not care whether you swing for it or against it, as long as you swing.\n\n**The two main moves:**\n\n**SINKING** — non-reaction. You do not suppress the feeling; you let the pendulum's push run out in neutral: you notice the jerk, you do not act from it, and the swing settles on its own. This is your move where you have no real business: news-feed panic, comment wars, workplace drama that is none of yours.\n\n**DAMPING** — the unexpected, playful response. The pendulum counts on a written script: the comeback, the defense, the taking of offense. If instead you make a move it has no grip on — humor, honest agreement with one detail, a kind question, a complete change of genre — the swing breaks. This is your move where the relationship matters: with the arguing relative the goal is not mute endurance but dissolving the game.\n\n**Which one when?** Where you have no stake and no business: sinking — step out, feed nothing. Where the relationship counts: damping — stay in, but do not play by the pendulum's rules.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-potencial",
+      "kind": "markdown",
+      "nevek": { "hu": "Fölös potenciál és fontosság", "en": "Excess Potential and Importance" },
+      "text": {
+        "hu": "Van egy csendes törvényszerűség, amelyet mindenki ismer tapasztalatból: amit görcsösen akarsz, az elszalad; amiért remegsz, az összetörik; ahol nagyon bizonyítanál, ott hibázol. A Transzörfing erre nevet ad: **fölös potenciál** — az az energiatöbblet, amely akkor keletkezik, amikor valaminek túlfújt jelentőséget adsz. *\n\nA fontosság kétféle:\n\n**Belső fontosság** — a saját nagyságod túlfújása: „én ezt nem hibázhatom el”, „nekem ezt tudnom kell”, „én különb vagyok”.\n\n**Külső fontosság** — a világ dolgainak túlfújása: „ez az állás minden”, „nélküle összeomlik az életem”, „ez az egyetlen esély”.\n\nA modell szerint a túlfeszített helyeken **egyensúlyi erők** lépnek működésbe: ami túl fontossá vált, azt a világ előbb-utóbb kibillenti — ahogy a természet kiegyenlíti a nyomáskülönbséget; nem büntetésből, hanem kiegyenlítésből. *\n\n**A fogás: fontosság-csökkentés — cselekvéssel, nem lemondással.** Nem arról van szó, hogy ne akard a célt; arról, hogy vedd le róla a „minden ezen múlik” terhét. A legjobb fontosság-oldó a tett: amíg cselekszel, a kezed dolgozik, nem a görcsöd. Készíts B-tervet — nem azért, mert szükség lesz rá, hanem mert a puszta léte leengedi a tétet. A cél maradjon; a remegés menjen.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "There is a quiet regularity everyone knows from experience: what you clutch at slips away; what you tremble for breaks; where you most need to prove yourself, you fumble. Transurfing gives it a name: **excess potential** — the energy surplus that arises when you inflate something's significance beyond its size. *\n\nImportance comes in two kinds:\n\n**Inner importance** — inflating your own stature: „I cannot afford to get this wrong”, „I of all people must know this”, „I am above this”.\n\n**Outer importance** — inflating the world's objects: „this job is everything”, „without it my life collapses”, „this is the only chance”.\n\nAccording to the model, **balancing forces** go to work wherever the tension is overwound: what has become too important, the world sooner or later tips over — the way nature evens out a pressure difference; not as punishment but as equalization. *\n\n**The move: reduce importance — through action, not renunciation.** This is not about wanting the goal less; it is about lifting the „everything hangs on this” weight off it. The best importance-solvent is the deed: while you act, your hands are working, not your clench. Make a plan B — not because you will need it, but because its mere existence lowers the stakes. Let the goal stay; let the trembling go.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-szerencsehullam",
+      "kind": "markdown",
+      "nevek": { "hu": "A szerencsehullám", "en": "The Wave of Fortune" },
+      "text": {
+        "hu": "Vannak napok, amikor minden összeáll: jókor érsz oda, jó ember hív, a dolgok szinte maguktól gördülnek. A Transzörfing ezt **szerencsehullámnak** nevezi: kedvező áramlatnak, amelyet nem előidézni kell, hanem **észrevenni és meglovagolni**. *\n\n**Az észrevétel a kulcs.** A figyelem fényszóró: amit megvilágítasz, abból látsz többet. Aki jegyzi a jó fordulatokat — a kis szerencséket, a váratlan segítségeket, a gördülékeny pillanatokat —, az egyre több csatlakozó lehetőséget vesz észre, és egyre bátrabban lép rájuk. A hagyomány szerint egy kedvező fordulat ritkán jár egyedül: ha jött egy, keresd a folytatását, és menj vele, ameddig visz. *\n\n**A hála a hullám üzemanyaga.** Nem udvariassági gyakorlat: a hála az az állapot, amelyben a figyelmed a működő dolgokon áll — és onnan sokkal könnyebb a következő működő dologra lépni, mint a hiányból.\n\n**És a panasz-spirál?** Az ellenkező irányba visz. Aki a rosszat mondja újra és újra — magának, másnak, a hírfolyamnak —, annak a figyelme a rosszra tapad, ott lát belőle egyre többet, és a döntései is onnan születnek. A panasz egy pillanatra jólesik, mert kienged egy kis feszültséget — de spirálként működik: minden kör mélyebbre visz, és a hullám hátáról a hullámvölgybe tesz át. Ha panaszkodnod kell, tedd meg egyszer, tudatosan — aztán kérdezd meg: **mi az első kis lépés, ami kifelé visz?**\n\n**Kerítés:** a szerencsehullám nem szerencsejáték-stratégia — semmit nem garantál, és a munkát nem váltja ki: a hullám azt viszi, aki evez. A „menj vele, ameddig visz” a hétköznapi lehetőségekre vonatkozik, nem a tétek emelésére.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Some days everything clicks: you arrive at the right moment, the right person calls, things practically roll on their own. Transurfing calls this the **wave of fortune**: a favorable current that is not to be conjured but **noticed and ridden**. *\n\n**Noticing is the key.** Attention is a headlight: whatever you illuminate, you see more of. If you record the good turns — the small strokes of luck, the unexpected help, the frictionless moments — you start spotting more of the openings that connect to them, and you step onto them more boldly. In the tradition's view a favorable turn rarely travels alone: when one arrives, look for its continuation and ride it as far as it goes. *\n\n**Gratitude is the wave's fuel.** Not a politeness exercise: gratitude is the state in which your attention rests on what is working — and from there it is far easier to step onto the next working thing than from lack.\n\n**And the complaint spiral?** It carries you the opposite way. Whoever recites the bad again and again — to themselves, to others, to the feed — glues their attention to it, sees ever more of it, and makes their decisions from inside it. Complaining feels good for a moment because it vents a little pressure — but it works as a spiral: every loop takes you deeper, and it moves you from the crest of the wave into the trough. If you must complain, do it once, deliberately — then ask: **what is the first small step that leads out?**\n\n**Fence:** the wave of fortune is not a gambling strategy — it guarantees nothing, and it does not replace work: the wave carries those who row. „Ride it as far as it goes” refers to everyday openings, not to raising stakes.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-lelek-elme",
+      "kind": "markdown",
+      "nevek": { "hu": "Lélek és elme egysége", "en": "Unity of Soul and Mind" },
+      "text": {
+        "hu": "Minden döntésed mögött két hang szól. Az **elme** érvel: táblázatot készít, előnyöket sorol, megmagyaráz. A **lélek** nem érvel — jelez: a döntés mögött vagy csendes, tág **kényelem** van, vagy alig észrevehető **szorítás, diszkomfort**. Az elme hangos, a lélek halk — ezért az utóbbit szoktuk elengedni a fülünk mellett.\n\n**Hogyan hallgasd meg a lelket?** A döntés kimondása utáni **első pillanatot** figyeld — mielőtt az elme magyarázni kezd. Mondd ki: „igent mondok erre” — és fülelj: felenged valami, vagy összehúzódik? Ez a jelzés nem érv, hanem időjárás-jelentés a mélyből. Az elme rögtön rárakja a magáét: „pedig ésszerű volna”, „mindenki ezt tenné” — a racionalizálás éppen az a művelet, amellyel az elme elfedi a lélek halk nemjét.\n\n**Hogyan hallgasd meg az elmét?** Becsüld meg: az elme nagyszerű szolga — tervez, számol, végrehajt. Csak iránytűnek rossz. A kérdés sosem az, hogy lélek **vagy** elme, hanem a sorrend: a lélek mondja meg, **merre**, az elme dolgozza ki, **hogyan**.\n\nA Transzörfing szerint ott, ahol a lélek és az elme **egyet akar**, a szándék a teljes erejével működik — az egybeesésük maga a szándék ereje. * Ahol viszont az elme igent mond és a lélek nemet, ott a leggondosabb terv is döcög. Ezért a legfontosabb napi kérdés nem az, hogy „mit érdemes?”, hanem: **miben ért egyet bennem a kettő?**[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Behind every decision of yours, two voices speak. The **mind** argues: it builds spreadsheets, lists advantages, explains. The **soul** does not argue — it signals: behind the decision there is either a quiet, spacious **comfort** or a barely noticeable **tightening, discomfort**. The mind is loud, the soul is quiet — which is why the latter usually goes unheard.\n\n**How do you listen to the soul?** Watch the **first instant** after the decision is spoken — before the mind starts explaining. Say: „I say yes to this” — and listen: does something loosen, or contract? This signal is not an argument; it is a weather report from the deep. The mind immediately layers its own on top: „but it would be sensible”, „anyone would take it” — rationalization is precisely the operation by which the mind papers over the soul's quiet no.\n\n**How do you listen to the mind?** Honor it: the mind is a superb servant — it plans, calculates, executes. It just makes a poor compass. The question is never soul **or** mind, but the order: the soul says **which way**, the mind works out **how**.\n\nTransurfing holds that where soul and mind **want the same thing**, intention works at full strength — their unity is itself the power of intention. * Where the mind says yes and the soul says no, even the most careful plan stutters. So the most important daily question is not „what is worth doing?” but: **on what do the two in me agree?**[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-diak",
+      "kind": "markdown",
+      "nevek": { "hu": "Diák — a célkép technika", "en": "Slides — the Goal-Image Technique" },
+      "text": {
+        "hu": "A **dia** a Transzörfing célkép-technikája: egy belső kép, amelyben nem nézed a célod — **benne élsz**. Nem plakát a falon, hanem jelenet, amelynek te vagy a közepén: a saját szemeddel látod, a saját bőröddel érzed.\n\n**A cél-dia elkészítése:**\n\n**1.** Válaszd ki a jelenetet — egyetlen sűrű pillanatot a célod megvalósult életéből. Ne a díjátadót: egy hétköznapi percet, amelyben a cél már természetes.\n\n**2.** Építsd fel **minden érzékszervvel**: mit látsz magad körül? Milyen hangok szólnak? Milyen az illat, a fény, a hőmérséklet? Mi van a kezedben, milyen a tapintása? És a legfontosabb: **mit érzel belül** — milyen ott lenni?\n\n**3.** Ellenőrizd a nézőpontot: belülről látod-e? Ha kívülről látod magad a képben, az még plakát — lépj bele.\n\n**A futtatás:** a diát nem egyszer kell „megcsinálni”, hanem **hordani**. Napközben, a holtidőkben — sorban állva, buszon, elalvás előtt — hívd elő, és időzz benne fél percet, egy percet. Háttérben futó dallam legyen, ne ünnepi műsor.\n\n**Miért folyamat, és miért nem egyszeri vizualizáció?** Mert a dia nem varázsige, hanem **hozzászoktatás**: a rendszeres benne-élés átállítja, mit tartasz természetesnek, mit veszel észre, mire mondasz igent — és az apró, félig tudattalan döntéseiden keresztül a viselkedésed elkezd a kép felé dolgozni. Az egyszeri vizualizáció élmény; a naponta futtatott dia irány.",
+        "en": "The **slide** is Transurfing's goal-image technique: an inner picture in which you do not look at your goal — you **live inside it**. Not a poster on the wall but a scene with you at its center: seen through your own eyes, felt on your own skin.\n\n**Building the goal slide:**\n\n**1.** Choose the scene — a single dense moment from the life where your goal is already real. Not the award ceremony: an ordinary minute in which the goal has become natural.\n\n**2.** Build it **with every sense**: what do you see around you? What sounds are playing? What is the scent, the light, the temperature? What is in your hand, what does it feel like? And most important: **what do you feel inside** — what is it like to be there?\n\n**3.** Check the viewpoint: are you seeing it from within? If you can see yourself in the picture from outside, it is still a poster — step in.\n\n**Running it:** a slide is not something you „do” once; it is something you **carry**. During the day, in the dead minutes — in a queue, on the bus, before sleep — call it up and dwell in it for half a minute, a minute. Let it be a tune playing in the background, not a gala performance.\n\n**Why a process and not a one-off visualization?** Because the slide is not a spell but an **acclimatization**: living in it regularly resets what you consider natural, what you notice, what you say yes to — and through your small, half-conscious decisions your behavior starts working toward the picture. A single visualization is an experience; a slide run daily is a direction."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-szandek",
+      "kind": "markdown",
+      "nevek": { "hu": "Belső és külső szándék", "en": "Inner and Outer Intention" },
+      "text": {
+        "hu": "A Transzörfing kétféle szándékot különböztet meg.\n\n**Belső szándék:** *én megteszem.* Az akarat ismerős munkája: tervezel, cselekszel, kitartasz. Szükséges — de csak addig ér, ameddig a karod.\n\n**Külső szándék:** *a világ hozza felém.* A modell szerint amikor a lélek és az elme egy irányba áll, és a cél kész tényként él benned, a megvalósulás útjai kívülről nyílnak meg — emberek, alkalmak, fordulatok formájában, amelyeket nem te szerveztél. * Ez a Transzörfing központi és legmerészebb fogalma: nem te tolod a világot — a világ fordul veled.\n\n**Mi öli meg?** Az **elvárás-görcs**. Amikor már másnap az eredményt lesed, számon kéred, sürgeted — az maga a bizonyíték, hogy nem hiszed kész ténynek. A görcs fölös potenciált fúj a cél köré, és éppen azt a könnyedséget szorítja ki, amelyben a külső szándék dolgozni tud. A leselkedő kertész naponta kihúzza a magot megnézni, nő-e már a gyökere — és pont ezzel nem hagyja nőni.\n\n**A könnyed, kész-tény szándék** másképp hangzik. Nem: „bárcsak sikerülne, muszáj, hogy sikerüljön!” Hanem: „ez felém tart — én teszem a magamét, és nem rángatom a folyamatot.” Cselekszel, mert a tett a tiéd; az utat elengeded, mert az nem a te dolgod. A belső szándék a lépés — a külső szándék az, hogy közben az út eléd fordul.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Transurfing distinguishes two kinds of intention.\n\n**Inner intention:** *I will do it.* The familiar work of the will: you plan, you act, you persist. Necessary — but it reaches only as far as your arm.\n\n**Outer intention:** *the world brings it to me.* According to the model, when soul and mind face the same way and the goal lives in you as an accomplished fact, the paths of realization open from outside — in the form of people, openings and turns you did not arrange. * This is Transurfing's central and boldest concept: you do not push the world — the world turns with you.\n\n**What kills it?** The **clench of expectation**. When by the next morning you are already watching for the result, auditing it, hurrying it — that is itself the proof that you do not hold it as done. The clench inflates excess potential around the goal and squeezes out exactly the lightness in which outer intention can work. The peeking gardener pulls up the seed every day to check whether the root has grown — and by that very act keeps it from growing.\n\n**The light, done-deal intention** sounds different. Not: „if only it works out — it has to work out!” But: „this is on its way to me — I do my part, and I do not yank the process.” You act, because the deed is yours; you release the route, because that is not your department. Inner intention is the step — outer intention is the road turning toward you as you walk.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-celok-ajtok",
+      "kind": "markdown",
+      "nevek": { "hu": "Célok és ajtók", "en": "Goals and Doors" },
+      "text": {
+        "hu": "A legtöbb kimerítő életút nem rossz módszerrel kezdődik, hanem **idegen céllal**. A Transzörfing tanában a célok kétfélék:\n\n**A saját cél** ismérve kettős: nemcsak a célképtől derül fel a lelked, hanem **maga az út is vonz**. Szívesen csinálnád akkor is, ha lassan haladsz; a gyakorlása nem áldozat, hanem élet. A saját cél gondolatára tágulsz, és nő az energiád.\n\n**Az idegen cél** jelei: a **kényszer** („muszáj, mert ezt várják tőlem”), a **presztízs** („ettől leszek valaki”) és a szüntelen **„kell”**. Az idegen cél elérése is üres: megmászod a létrát, és kiderül, hogy nem a te faladnak támasztottad. Az idegen cél gondolatára szűkülsz, és fogy az energiád.\n\n**Az ajtó** a hozzád illő út a saját cél felé: az a mód, amelyen a haladás természetes, szinte magától gördül. Ugyanahhoz a célhoz sok ajtó vezet — de neked nem mindegyik nyílik. Ahol évek óta ugyanazt a zárat feszegeted, jogos a kérdés: nem egy másik ajtó a tiéd?\n\n**Hogyan teszteld a céljaid?**\n\n— Mondd ki a célt, és figyeld az első testérzetet: tágulás vagy szorítás?\n\n— Kérdezd meg: ha soha senki nem tudná meg, hogy elértem, akkor is akarnám?\n\n— Kérdezd meg: vonz-e a hétköznapi gyakorlása — vagy csak a végeredmény képe?\n\n— És a józan ész marad az alap: nagy élet- és pénzügyi döntéseknél a lélek jelzése **mellé** tedd oda a nyugodt mérlegelést, az alvásnyi időt — és ha kell, a hozzáértő tanácsát is.",
+        "en": "Most exhausting life paths do not begin with a bad method — they begin with an **alien goal**. In the Transurfing teaching, goals come in two kinds:\n\n**Your own goal** has a double signature: not only does the goal-image light up your soul, but **the path itself attracts you**. You would gladly walk it even while progressing slowly; practicing it is not sacrifice but life. At the thought of your own goal you expand, and your energy rises.\n\n**An alien goal** shows itself through **compulsion** („I must, because it is expected of me”), **prestige** („this will make me somebody”) and the incessant **„should”**. Even reaching an alien goal is hollow: you climb the ladder and discover it was leaning against someone else's wall. At the thought of an alien goal you contract, and your energy drains.\n\n**The door** is the path toward your own goal that fits you: the mode of travel on which progress is natural, almost self-rolling. Many doors lead to the same goal — but not every one opens for you. Where you have been forcing the same lock for years, the question is fair: is a different door yours?\n\n**How to test your goals:**\n\n— Speak the goal aloud and watch the first bodily response: expansion or tightening?\n\n— Ask: if no one ever found out I achieved it, would I still want it?\n\n— Ask: does its everyday practice attract me — or only the picture of the end result?\n\n— And sober judgment remains the foundation: for major life and financial decisions, place calm deliberation, a night's sleep — and, where needed, competent advice — **beside** the soul's signal."
+      }
+    },
+    {
+      "id": "zeland-transurfing-md-koordinacio",
+      "kind": "markdown",
+      "nevek": { "hu": "Szándék-koordináció — az én világom gondoskodik rólam", "en": "Coordination of Intention — My World Takes Care of Me" },
+      "text": {
+        "hu": "A szándék-koordináció a Transzörfing legegyszerűbben kimondható és legmélyebben ható fogása: **minden fordulatot kedvezőnek nyilvánítasz — és úgy is kezelsz.** * Nem azt mondod: „nem baj”, hanem azt: „ez a javamra van — lássuk, hogyan.” A modell szerint azzal, hogy a fordulatot kedvezőnek minősíted, a forgatókönyv kedvező folytatás-ágára állsz át: a döntésed választja ki, melyik szektor felé gördül tovább a napod. *\n\n**Reggeli deklaráció:** indítsd a napot egy mondattal — a magadéval. Például: *„Bármit hoz a mai nap, az én világom gondoskodik rólam — minden fordulat engem szolgál.”* (Az „az én világom gondoskodik rólam” nem parafrázis, hanem Zeland saját, ismert formulája — szó szerinti fordításban.) Este a naplóban visszanézed: melyik fordulatot nyilvánítottad kedvezőnek, és mi lett belőle.\n\n**Miért nem naiv pozitívkodás ez?** Három okból:\n\n— **A cselekvés marad.** A kedvezőnek nyilvánítás nem tétlenség: a defektet megjavítod, a hibát kijavítod, a bajra lépsz. A különbség a lépés **állapota**: pánik helyett kíváncsiság — „mi nyílik ebből?”\n\n— **Az érzést nem tagadod le.** A bosszúságot, ijedtséget megérzed, megnevezed — aztán döntesz: nem az érzés írja a folytatást.\n\n— **A határok élnek.** A valódi bajra valódi válasz jár: betegségre orvos, veszteségre gyász, veszélyre védelem. A koordináció nem helyettesíti az orvosi vagy pszichológiai ellátást — a hétköznapi fordulatok művészete, nem a krízisek tagadása.\n\nIdővel a fogás szokássá válik, és megfordul az alapbeállításod: már nem azt lesed, mi romolhat el — hanem azt, hogy ez a fordulat vajon mit hoz.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The coordination of intention is Transurfing's most simply stated and most deeply working move: **you declare every turn of events favorable — and treat it accordingly.** * You do not say „never mind”; you say „this works in my favor — let us see how.” According to the model, by ruling the turn favorable you switch onto the favorable continuation-branch of the script: your ruling selects the sector toward which your day rolls on. *\n\n**Morning declaration:** open the day with one sentence — your own. For example: *„Whatever today brings, my world takes care of me — every turn serves me.”* („My world takes care of me” is not a paraphrase but Zeland's own well-known formula, in literal translation.) In the evening you look back in the journal: which turn did you declare favorable, and what came of it?\n\n**Why is this not naive positivity?** For three reasons:\n\n— **Action remains.** Declaring a turn favorable is not idleness: you still fix the flat tire, correct the mistake, step toward the trouble. The difference is the **state** you step in: curiosity instead of panic — „what is opening up here?”\n\n— **The feeling is not denied.** You feel the annoyance or the fright, you name it — then you decide: the feeling does not get to write the sequel.\n\n— **Boundaries stay alive.** Real trouble gets a real response: illness gets a doctor, loss gets grief, danger gets protection. Coordination does not replace medical or psychological care — it is an art for everyday turns, not a denial of crises.\n\nIn time the move becomes a habit and your default flips: you no longer watch for what could go wrong — you watch for what this turn might bring.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "zeland-transurfing-timer-dia",
+      "kind": "timer",
+      "nevek": { "hu": "Cél-dia gyakorlat — 10 perc", "en": "Goal-Slide Practice — 10 min" },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Helyezkedj el kényelmesen, csukd be a szemed, engedd el a vállad. Építsd fel a cél-diád minden érzékszervvel: látvány, hangok, illatok, tapintás — és a belső érzés. Élj benne belülről, természetesen, mintha már a hétköznapod volna. A végén engedd el könnyedén: semmi számonkérés — a kép megy veled tovább.",
+          "en": "Settle comfortably, close your eyes, let your shoulders drop. Build your goal slide with every sense: sights, sounds, scents, touch — and the feeling inside. Live in it from within, naturally, as if it were already your ordinary day. At the end release it lightly: no checking up — the picture travels on with you."
+        },
+        "intervals": [
+          { "atSecond": 120, "label": { "hu": "Dia-építés minden érzékkel", "en": "Build the slide with every sense" } },
+          { "atSecond": 360, "label": { "hu": "Élj benne — ez már a hétköznapod", "en": "Live in it — your ordinary day now" } },
+          { "atSecond": 540, "label": { "hu": "Könnyed elengedés", "en": "Light release" } }
+        ]
+      }
+    },
+    {
+      "id": "zeland-transurfing-timer-inga",
+      "kind": "timer",
+      "nevek": { "hu": "Inga-elsüllyesztés — 5 perc", "en": "Pendulum Sinking — 5 min" },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Idézz fel egy friss helyzetet, amely kibillentett. Figyeld meg a rángást — hol szorít, mi akar visszavágni —, de ne cselekedj belőle. Hagyd a lengést üresjáratban kifutni: nézed, nem táplálod. A végén térj vissza a jelenbe: három mély lélegzet, és a nap megy tovább — az inga nélkül.",
+          "en": "Recall a recent situation that knocked you off balance. Observe the jerk — where it tightens, what wants to strike back — but do not act from it. Let the swing run out in neutral: you watch it, you do not feed it. At the end return to the present: three deep breaths, and the day goes on — without the pendulum."
+        },
+        "intervals": [
+          { "atSecond": 180, "label": { "hu": "Üresjárat — nézed, nem táplálod", "en": "Neutral — watching, not feeding" } }
+        ]
+      }
+    },
+    {
+      "id": "zeland-transurfing-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": { "hu": "A transzörfös jellemvonásai", "en": "The Transurfer's character traits" },
+      "aspektusPack": [
+        { "key": "zt-asp-pendulum-grip", "elem": "levego", "tukor": "fekete",
+          "nevek": { "hu": "Inga-rángás", "en": "Pendulum jerk" } },
+        { "key": "zt-asp-importance", "elem": "tuz", "tukor": "fekete",
+          "nevek": { "hu": "Fontosság-fújás", "en": "Inflating importance" } },
+        { "key": "zt-asp-clench", "elem": "fold", "tukor": "fekete",
+          "nevek": { "hu": "Elvárás-görcs", "en": "Outcome clench" } },
+        { "key": "zt-asp-soul-mute", "elem": "viz", "tukor": "fekete",
+          "nevek": { "hu": "A lélek elhallgattatása", "en": "Silencing the soul" } },
+        { "key": "zt-asp-observer", "elem": "levego", "tukor": "feher",
+          "nevek": { "hu": "Éber megfigyelő", "en": "Awake observer" } },
+        { "key": "zt-asp-light-intent", "elem": "tuz", "tukor": "feher",
+          "nevek": { "hu": "Könnyed szándék", "en": "Light intention" } },
+        { "key": "zt-asp-coordination", "elem": "fold", "tukor": "feher",
+          "nevek": { "hu": "Koordináció-hála", "en": "Coordination gratitude" } },
+        { "key": "zt-asp-soul-compass", "elem": "viz", "tukor": "feher",
+          "nevek": { "hu": "Lélek-iránytű követése", "en": "Following the soul compass" } }
+      ]
+    },
+    {
+      "id": "zeland-transurfing-journal",
+      "kind": "journalTemplate",
+      "nevek": { "hu": "Transzörf-napló", "en": "Transurfing Log" },
+      "journalTemplate": {
+        "aspektusKeys": ["zt-asp-coordination"],
+        "prompts": {
+          "hu": "INGÁK — Ma mi rángatott, és hogyan süllyesztettem el vagy oltottam ki: ___\n\nFONTOSSÁG — Mit fújtam túl, és hogyan engedtem le: ___\n\nDIA — A cél-diám futtatása, mélység (1–10): ___\n\nKOORDINÁCIÓ — A mai fordulat, amit kedvezőnek nyilvánítottam: ___\n\nLÁBNYOMOK — Szinkronicitások, kis ajtók: ___",
+          "en": "PENDULUMS — What jerked at me today, and how I sank or damped it: ___\n\nIMPORTANCE — What I inflated, and how I let it back down: ___\n\nSLIDE — Running my goal slide, depth (1–10): ___\n\nCOORDINATION — Today's turn I declared favorable: ___\n\nFOOTPRINTS — Synchronicities, small doors: ___"
+        }
+      }
+    },
+    {
+      "id": "zeland-transurfing-checklist",
+      "kind": "checklist",
+      "nevek": { "hu": "Az út bejárása", "en": "Walking the Path" },
+      "checklist": {
+        "items": [
+          { "key": "c1", "nevek": { "hu": "Inga-felismerés egy héten át: naponta feljegyezve, mi rángatott", "en": "Pendulum-spotting for a week: noting daily what jerked at me" } },
+          { "key": "c2", "nevek": { "hu": "Fontosság-leltár elkészítve: mit fújok túl, és hol old a cselekvés", "en": "Importance inventory done: what I inflate, and where action loosens it" } },
+          { "key": "c3", "nevek": { "hu": "Cél-dia elkészítve minden érzékszervvel, belülről nézve", "en": "Goal slide built with every sense, seen from within" } },
+          { "key": "c4", "nevek": { "hu": "A dia napi futtatása a holtidőkben szokássá vált", "en": "Daily slide-running in the dead minutes became a habit" } },
+          { "key": "c5", "nevek": { "hu": "Reggeli koordináció-deklaráció szokássá vált, esti visszanézéssel", "en": "The morning coordination declaration became a habit, with an evening review" } },
+          { "key": "c6", "nevek": { "hu": "Egy inga éles helyzetben kioltva vagy elsüllyesztve", "en": "One pendulum damped or sunk in a live situation" } },
+          { "key": "c7", "nevek": { "hu": "Egy cél letesztelve a lélek-elme iránytűvel (tágulás vagy szorítás)", "en": "One goal tested with the soul-mind compass (expansion or tightening)" } }
+        ]
+      }
+    },
+    {
+      "id": "zeland-transurfing-quiz",
+      "kind": "quiz",
+      "nevek": { "hu": "Önellenőrzés", "en": "Self-Check" },
+      "quiz": {
+        "passThreshold": 4,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": { "hu": "Mi a különbség az inga kioltása és elsüllyesztése között?", "en": "What is the difference between damping and sinking a pendulum?" },
+            "options": {
+              "hu": ["Az elsüllyesztés a hangos visszavágás, a kioltás a menekülés", "Az elsüllyesztés a nem-reagálás és az üresjárat; a kioltás a váratlan, játékos válasz, amelyen az ingának nincs fogása", "Nincs különbség: mindkettő az érzések elfojtása", "Az elsüllyesztés meditáció, a kioltás nyílt vita"],
+              "en": ["Sinking is the loud comeback, damping is running away", "Sinking is non-reaction and neutral idling; damping is the unexpected, playful response the pendulum has no grip on", "There is no difference: both mean suppressing feelings", "Sinking is meditation, damping is open debate"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": { "hu": "Mi a fölös potenciál?", "en": "What is excess potential?" },
+            "options": {
+              "hu": ["A tartalék energiád, amelyet gyűjtened kell", "A többiek rólad alkotott véleménye", "A túlfújt jelentőség energiatöbblete, amelyet az egyensúlyi erők előbb-utóbb kibillentenek", "A meg nem valósult álmaid listája"],
+              "en": ["Your reserve energy, which you must accumulate", "Other people's opinion of you", "The energy surplus of inflated significance, which the balancing forces sooner or later tip over", "The list of your unrealized dreams"]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": { "hu": "Mi a cél-dia lényege?", "en": "What is the essence of the goal slide?" },
+            "options": {
+              "hu": ["Egyszeri, erős vizualizáció, amelyet elég egyszer megcsinálni", "Egy belső kép, amelyben már benne élsz, és amelyet folyamatként, nap mint nap futtatsz", "Egy fénykép a kívánt dologról, kitéve a falra", "Egy fontossági sorrendbe rakott célgyűjtemény"],
+              "en": ["A single powerful visualization that only needs doing once", "An inner picture you already live inside, run as a process day after day", "A photograph of the desired thing, put up on the wall", "A collection of goals ranked by priority"]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q4",
+            "prompt": { "hu": "Mi a különbség a belső és a külső szándék között?", "en": "What is the difference between inner and outer intention?" },
+            "options": {
+              "hu": ["A belső szándék: én teszem meg; a külső szándék: a világ hozza felém a megvalósulást", "A belső szándék a titkos vágy, a külső a kimondott kívánság", "A belső szándék a gyengébb, a külső az erősebb akaraterő", "Nincs különbség, a kettő ugyanaz"],
+              "en": ["Inner intention: I do it myself; outer intention: the world brings the realization toward me", "Inner intention is the secret wish, outer is the spoken one", "Inner intention is the weaker willpower, outer is the stronger", "There is no difference, the two are the same"]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q5",
+            "prompt": { "hu": "Mi a saját cél legfontosabb ismérve?", "en": "What is the key mark of your own goal?" },
+            "options": {
+              "hu": ["Presztízst ad, és mások irigylik", "Nehéz, tehát biztosan értékes", "Muszáj elérni, mert ezt várják tőled", "A lélek felderül tőle, és maga az út is vonz — nem csak a végeredmény"],
+              "en": ["It brings prestige and others envy it", "It is hard, therefore surely valuable", "It must be reached because it is expected of you", "The soul lights up at it, and the path itself attracts — not only the end result"]
+            },
+            "correctIndex": 3
+          }
+        ]
+      }
+    }
+  ]
+}

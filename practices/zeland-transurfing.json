@@ -1,0 +1,686 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-zeland-transurfing",
+ "nevek": {
+  "hu": "Vadim Zeland — Transzörfing gyakorlatok",
+  "en": "Vadim Zeland — Transurfing practices"
+ },
+ "gyakorlatok": [
+  {
+   "id": "zt-inga-felismero-nap",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Inga-felismerő nap",
+    "en": "Pendulum-spotting day"
+   },
+   "cel": {
+    "hu": "Egy teljes napon át megfigyelni, mi rángatja a figyelmedet — hír, vita, dráma, sürgetés —, és este nyugodt leltárt készíteni róla. A hagyomány szerint ezek a húzások ingák jelei: sok ember közös figyelméből táplálkozó képződmények, amelyek a te energiádból is élni akarnak. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "To spend one whole day noticing what yanks at your attention — news, arguments, drama, urgency — and to take calm stock of it in the evening. In the tradition's view these tugs are the mark of pendulums: structures fed by the shared attention of many people, eager to live on your energy too. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel döntsd el: ma nem harcolsz semmivel — csak jegyzed, mi rángat.",
+     "en": "In the morning decide: today you fight nothing — you only note what tugs."
+    },
+    {
+     "hu": "Napközben, amikor azon kapod magad, hogy egy hír, egy vita vagy egy dráma beszippantott, írd fel röviden: mi volt az, milyen érzést hozott, mennyi időt vitt el.",
+     "en": "During the day, whenever you catch yourself sucked into a piece of news, an argument or a drama, jot it down briefly: what it was, what feeling it brought, how much time it took."
+    },
+    {
+     "hu": "Figyeld a testi jeleket is: gyorsuló szív, összeszoruló gyomor, a kényszer, hogy azonnal válaszolj.",
+     "en": "Watch the bodily signs as well: a quickening heart, a tightening stomach, the compulsion to answer at once."
+    },
+    {
+     "hu": "Ne ítélkezz és ne javíts semmit — ma csak térképet rajzolsz.",
+     "en": "Do not judge and do not fix anything — today you are only drawing a map."
+    },
+    {
+     "hu": "Este készíts leltárt: melyik három húzás vitte a legtöbb figyelmedet, és mit kaptál érte cserébe.",
+     "en": "In the evening take stock: which three tugs carried off most of your attention, and what you received in exchange."
+    },
+    {
+     "hu": "Zárd egyetlen kérdéssel: holnap melyiknek nem adod oda önként az erődet?",
+     "en": "Close with a single question: which one will you not hand your strength to tomorrow?"
+    }
+   ],
+   "keret": {
+    "hu": "Ez a nap figyelem-leltár, nem harc: nem kell jobbá válnod, csak látnod, hova folyik el a napod. Hogy az ingák önálló képződmények-e, azt nem tudod ellenőrizni — azt viszont igen, hogy mi vitte el az idődet és az erődet, és ez önmagában értékes térkép. Nem való arra, hogy ostorozd vele magad.",
+    "en": "This day is an attention inventory, not a battle: you need not become better, only see where your day drains away. Whether pendulums are independent structures you cannot verify — but what carried off your time and strength you can, and that alone is a valuable map. It is not meant as a stick to beat yourself with."
+   },
+   "sorszam": 1
+  },
+  {
+   "id": "zt-inga-elsullyesztes-uresjarat",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Inga-elsüllyesztés — az üresjárat",
+    "en": "Sinking a pendulum — the empty response"
+   },
+   "cel": {
+    "hu": "Begyakorolni, hogy provokációnál nem válaszolsz azonnal: nézed a rángást, ahogy felfut, tetőzik és lecseng — táplálék nélkül. Nem elfojtod, nem is engedelmeskedsz neki: hagyod üresben forogni.",
+    "en": "To train yourself, under provocation, not to answer at once: to watch the tug rise, crest and subside — unfed. You neither suppress it nor obey it: you let it spin in neutral."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz gyakorláshoz enyhe helyzetet — bosszantó megjegyzés, tolakodó reklám, kötözködő üzenet —, ne rögtön a legnehezebbet.",
+     "en": "Choose a mild situation to practise on — an annoying remark, an intrusive advert, a needling message — not the hardest one first."
+    },
+    {
+     "hu": "Amikor jön a rángás, állj meg egyetlen lélegzetre, és nevezd meg magadban: „húzás”.",
+     "en": "When the tug comes, pause for a single breath and name it to yourself: „a pull”."
+    },
+    {
+     "hu": "Ne fojtsd el és ne is engedelmeskedj: maradj néző, mintha üvegfal mögül figyelnéd.",
+     "en": "Neither suppress it nor obey it: remain a spectator, as if watching from behind glass."
+    },
+    {
+     "hu": "Kövesd a hullámot: emelkedik, tetőzik, lecseng — mérd meg, valójában meddig tart.",
+     "en": "Follow the wave: it rises, crests, subsides — time how long it actually lasts."
+    },
+    {
+     "hu": "Ha közben mégis beszippantott, semmi baj: jegyezd fel, hol kapott el, és kezdd újra a következő alkalommal.",
+     "en": "If it sucks you in anyway, no harm done: note where it caught you and begin again next time."
+    },
+    {
+     "hu": "Este nézz vissza: mi történt a helyzettel, amikor nem kapott tőled tápot.",
+     "en": "In the evening look back: what became of the situation when it received no fuel from you."
+    }
+   ],
+   "keret": {
+    "hu": "Amit itt gyakorolsz, az figyelem-gazdálkodás: a legtöbb provokáció magától elhal, ha nem kap tápot — ezt magad ellenőrizheted. Az üresjárat nem közöny és nem elfojtás: mindent érzel, csak nem adod oda a kormányt. Nem való arra, hogy minden helyzetben hallgass — a nyugodtan kimondott határ nem inga-táplálás.",
+    "en": "What you practise here is attention economy: most provocations die out by themselves when unfed — this you can verify yourself. The empty response is neither indifference nor suppression: you feel everything, you simply do not hand over the wheel. It is not meant to make you silent in every situation — a calmly spoken boundary does not feed a pendulum."
+   },
+   "etika": {
+    "hu": "Valódi bántás, fenyegetés vagy visszaélés nem gyakorlóterep: ott határ, távolság és segítség kell, nem üresjárat. A nem-reagálás sosem jelenti azt, hogy tűrnöd kellene, ami árt neked vagy másnak.",
+    "en": "Genuine harm, threat or abuse is no training ground: there you need boundaries, distance and help, not an empty response. Non-reaction never means enduring what hurts you or another."
+   },
+   "sorszam": 2
+  },
+  {
+   "id": "zt-inga-kioltas-varatlan-valasz",
+   "mester": "Vadim Zeland",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Inga-kioltás — a váratlan válasz",
+    "en": "Damping a pendulum — the unexpected reply"
+   },
+   "cel": {
+    "hu": "A beszippantó helyzet játékának megtörése: forgatókönyvön kívüli, játékos, jóindulatú válasszal kilépni a szerepből, amelyet a helyzet rád osztana.",
+    "en": "To break the game of a situation that pulls you in: to step out of the role the scene would assign you, with a playful, kindly, off-script reply."
+   },
+   "modszer": [
+    {
+     "hu": "Idézz fel egy visszatérő helyzetet, amely rendre beszippant — ugyanaz a vita, ugyanaz a piszkálódás, ugyanaz a húzd-meg-ereszd-meg.",
+     "en": "Recall a recurring situation that reliably pulls you in — the same argument, the same needling, the same tug-of-war."
+    },
+    {
+     "hu": "Tervezz előre két-három forgatókönyvön kívüli választ: egy kedves kérdést, egy őszinte egyetértést valami részletben, egy játékos fordulatot.",
+     "en": "Plan two or three off-script replies in advance: a kind question, an honest agreement on some detail, a playful turn."
+    },
+    {
+     "hu": "A szabály: a válasz sose legyen gúnyos vagy bántó — a játékot töröd meg, nem a másik embert.",
+     "en": "The rule: the reply must never be mocking or hurtful — you are breaking the game, not the other person."
+    },
+    {
+     "hu": "Amikor a helyzet legközelebb megjön, válaszd a váratlant, és figyeld: mihez kezd a régi séma a megszokott tápja nélkül.",
+     "en": "When the situation next arrives, choose the unexpected, and watch what the old pattern does without its usual fuel."
+    },
+    {
+     "hu": "Utána jegyezd fel: mi változott benned, és mi a másikban.",
+     "en": "Afterwards note down what changed in you, and what changed in the other."
+    },
+    {
+     "hu": "Ismételd más helyzetben is, amíg a kilépés mozdulata kézre nem áll.",
+     "en": "Repeat in other situations until the gesture of stepping out sits comfortably in your hand."
+    }
+   ],
+   "keret": {
+    "hu": "A humor és a mintatörés jól ismert feszültségoldó — ennyi az ellenőrizhető alap. Embereken múlik, ezért nem garancia: van, aki felenged tőle, van, aki nem. Nem való fegyvernek: ha fölénybe akarod vele nyomni a másikat, már megint a régi játékot játszod, csak új jelmezben.",
+    "en": "Humour and pattern-breaking are well-known de-escalators — that is the verifiable core. It depends on people, so it is no guarantee: some soften, some do not. It is not meant as a weapon: use it to gain the upper hand and you are playing the old game again, merely in a new costume."
+   },
+   "sorszam": 3
+  },
+  {
+   "id": "zt-fontossag-leltar",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Fontosság-leltár",
+    "en": "Importance inventory"
+   },
+   "cel": {
+    "hu": "Feltérképezni, mit fújsz túl befelé — milyennek kell látszanod, miben nem hibázhatsz — és mit kifelé: mely célt emelted piedesztálra, ami nélkül „nem lehet élni”. Majd egyetlen tételt cselekvéssel leengedni.",
+    "en": "To map what you inflate inwardly — how you must appear, where you may not fail — and what you inflate outwardly: which goal you have set on a pedestal, without which „life is impossible”. Then to let one item down through action."
+   },
+   "modszer": [
+    {
+     "hu": "Írj két oszlopot: „belül fújom túl” (az önképed görcsei) és „kívül fújom túl” (a piedesztálra emelt célok, emberek, tétek).",
+     "en": "Write two columns: „inflated within” (the cramps of your self-image) and „inflated without” (the goals, people and stakes raised onto a pedestal)."
+    },
+    {
+     "hu": "Töltsd fel őszintén, ítélkezés nélkül — öt-öt tétel bőven elég.",
+     "en": "Fill them honestly, without judgement — five items each is plenty."
+    },
+    {
+     "hu": "Mindegyik mellé írd oda: mit teszel másképp e görcs miatt? Halogatsz, magyarázkodsz, túlkészülsz, kerülsz valakit?",
+     "en": "Beside each, write what you do differently because of that cramp: postpone, over-explain, over-prepare, avoid someone?"
+    },
+    {
+     "hu": "Válassz egyetlen tételt, és tervezz hozzá kis leengedő cselekvést: kérj segítséget ott, ahol tökéletesnek akartál látszani; engedj el egy „muszáj”-t egyetlen napra.",
+     "en": "Choose one item and plan a small deflating action for it: ask for help where you wanted to look perfect; let go of one „must” for a single day."
+    },
+    {
+     "hu": "Hajtsd végre, és figyeld meg pontosan: mi lett tőle könnyebb.",
+     "en": "Carry it out, and observe precisely what became lighter."
+    },
+    {
+     "hu": "Hetente frissítsd a leltárt — a fontosság visszanő, mint a fű, ez nem kudarc, hanem a dolga.",
+     "en": "Refresh the inventory weekly — importance grows back like grass; that is not failure, it is its nature."
+    }
+   ],
+   "keret": {
+    "hu": "Hogy a túlfújt jelentőség görcsöt szül, a görcs pedig rontja a kezet és a fejet, azt bármelyik vizsgadrukk igazolja — ez az ellenőrizhető mag. A mérce: könnyebb kéz, tisztább fej, kevesebb magyarázkodás. Nem való arra, hogy mindent „csak fontosságnak” címkézz: van, ami tényleg számít, és azt nem leengedni kell, hanem vállalni.",
+    "en": "That inflated significance breeds cramp, and cramp spoils both hand and head, any exam nerves will confirm — that is the verifiable core. The measure: a lighter hand, a clearer head, less explaining. It is not meant to label everything „mere importance”: some things truly matter, and those are not to be deflated but to be owned."
+   },
+   "sorszam": 4
+  },
+  {
+   "id": "zt-folos-potencial-feloldasa",
+   "mester": "Vadim Zeland",
+   "szint": "halado",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Fölös potenciál feloldása",
+    "en": "Releasing excess potential"
+   },
+   "cel": {
+    "hu": "Felismerni, hol feszül görcs a képben — túlzó remény, rettegett tét, mindenáron akarás —, és kioldani. A hagyomány szerint a felfújt jelentőség egyensúlyi erőket hív, amelyek éppen az ellenkezőjét sodorják feléd annak, amit görcsösen akarsz. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "To recognise where the picture is cramped — inflated hope, dreaded stakes, wanting at any cost — and to release it. In the tradition's view, inflated significance summons balancing forces that sweep towards you the very opposite of what you clutch at. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz egy területet, ahol mostanában „túl nagy a tét”.",
+     "en": "Choose an area where lately „the stakes are too high”."
+    },
+    {
+     "hu": "Keresd a jeleket: minél jobban erőlteted, annál inkább csúszik; apró balszerencsék sorozata; az érzés, hogy minden összeesküdött ellened.",
+     "en": "Look for the signs: the harder you push, the more it slips; a run of small mishaps; the feeling that everything has conspired against you."
+    },
+    {
+     "hu": "Írd le tárgyilagosan a legrosszabb reális kimenetet, és azt, mit tennél akkor — ez a B terv, és többnyire élhető.",
+     "en": "Write down soberly the worst realistic outcome and what you would do then — this is plan B, and it is usually livable."
+    },
+    {
+     "hu": "Állítsd helyre az arányokat: mekkora lesz ez az ügy egy év múlva? És öt év múlva?",
+     "en": "Restore proportion: how big will this matter be in a year? And in five?"
+    },
+    {
+     "hu": "Engedj be humort: meséld el magadnak a helyzetet úgy, ahogy egy jóindulatú barát mesélné.",
+     "en": "Let humour in: tell yourself the situation the way a kindly friend would tell it."
+    },
+    {
+     "hu": "Zárd cselekvéssel: tégy egy nyugodt, hétköznapi lépést az ügyben — tét nélkül, csak munkát.",
+     "en": "Close with action: take one calm, ordinary step in the matter — no stakes, just work."
+    }
+   ],
+   "keret": {
+    "hu": "Amit magad ellenőrizhetsz: a görcs oldódásával jobban megy a munka, tisztábban látsz, és kevesebbet hibázol. Az „egyensúlyi erők” a hagyomány magyarázó modellje erre a tapasztalatra — nem bizonyított mechanizmus. Nem való jóslásra: a balszerencse-sorozat gyakran egyszerű véletlen, fáradtság vagy figyelmetlenség.",
+    "en": "What you can verify yourself: as the cramp releases, work flows better, you see more clearly, you err less. The „balancing forces” are the tradition's explanatory model for this experience — not a proven mechanism. It is not meant for divination: a run of bad luck is often plain chance, tiredness or inattention."
+   },
+   "etika": {
+    "hu": "Pénzügyi és élet-döntéseknél a józan számolás, a B terv és szükség esetén hozzáértő tanács marad az alap — a jelek olvasgatása nem helyettesíti. Ha a szorongás tartósan nyomaszt, az nem gyakorlási hiba: fordulj szakemberhez.",
+    "en": "In financial and life decisions, sober calculation, a plan B and, where needed, qualified advice remain the basis — reading signs does not replace them. If anxiety weighs on you persistently, that is not a practice error: see a professional."
+   },
+   "sorszam": 5
+  },
+  {
+   "id": "zt-szerencsehullam-meglovaglasa",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "A szerencsehullám meglovaglása",
+    "en": "Riding the wave of fortune"
+   },
+   "cel": {
+    "hu": "A kedvező jelek sorozatának tudatos követése: észrevenni, amikor jönnek a jó fordulatok, rájuk lépni még egyet, és megszakítani a panasz-spirált, amely lehúzna róluk. A hagyomány szerint a szerencsés fordulatok a variánsok terében egymás mellett futó kedvező sávokban járnak — hullámokban. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "To consciously follow a run of favourable signs: noticing when good turns arrive, taking one more step onto them, and breaking the complaint-spiral that would drag you off. In the tradition's view, fortunate turns travel in favourable lanes running side by side in the space of variations — in waves. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Figyeld egy héten át a kedvező apróságokat: gördülékeny ügyintézés, jókor jött hívás, váratlan segítség, könnyen megnyíló ajtók.",
+     "en": "For one week, watch the small favourable things: errands that run smoothly, a call at the right moment, unexpected help, doors that open easily."
+    },
+    {
+     "hu": "Amikor jó jel érkezik, tégy rá tudatosan még egy lépést ugyanabba az irányba — a hullámot lovagolni kell, nem a partról nézni.",
+     "en": "When a good sign arrives, deliberately take one more step in the same direction — a wave is for riding, not for watching from the shore."
+    },
+    {
+     "hu": "Építs hála-láncot: este sorold fel, mi ment ma jól, és mi következett belőle.",
+     "en": "Build a gratitude chain: in the evening list what went well today and what followed from it."
+    },
+    {
+     "hu": "Vedd észre a panasz-spirált: amikor rossz hírt rossz hírrel tetézel, állj meg, és válts — tégy valami aprót, ami jólesik, vagy ami előrevisz.",
+     "en": "Notice the complaint-spiral: when you are stacking bad news on bad news, stop and switch — do some small thing that feels good or moves you forward."
+    },
+    {
+     "hu": "Ne hajszold: a hullám nem parancsra jön. A dolgod annyi, hogy amikor itt van, ne szállj le róla idő előtt.",
+     "en": "Do not chase it: the wave does not come on command. Your task is only, when it is here, not to climb off too soon."
+    },
+    {
+     "hu": "A hét végén nézd át a jegyzeteidet: mely irányokban gyűltek a kedvező jelek.",
+     "en": "At the week's end review your notes: in which directions the favourable signs gathered."
+    }
+   ],
+   "keret": {
+    "hu": "Amit biztosan nyersz: a figyelmedet a működő dolgokra hangolod, ezért több lehetőséget veszel észre, és kevesebb erőd folyik el panaszkodásba — ez ellenőrizhető. Nem való szerencsejáték-stratégiának, nem garantál semmit, és a munkát nem váltja ki: a hullám azt viszi, aki evez.",
+    "en": "What you certainly gain: your attention tunes to what is working, so you notice more opportunities and less of your strength drains into complaint — this can be checked. It is not meant as a gambling strategy, it guarantees nothing, and it does not replace work: the wave carries those who row."
+   },
+   "sorszam": 6
+  },
+  {
+   "id": "zt-lelek-fuvallata-dontesteszt",
+   "mester": "Vadim Zeland",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Levego",
+   "cim": {
+    "hu": "A lélek fuvallata — döntésteszt",
+    "en": "The soul's breeze — a decision test"
+   },
+   "cel": {
+    "hu": "Döntés előtt leolvasni a testi-lelki visszhangot: kényelem vagy diszkomfort ébred-e, amikor kimondod a döntést — miközben az elme érveit külön listán, külön becsben tartod.",
+    "en": "Before a decision, to read the echo of body and soul: whether ease or discomfort stirs as you speak the decision — while keeping the mind's arguments on a separate list, in separate honour."
+   },
+   "modszer": [
+    {
+     "hu": "Fogalmazd meg a döntést egyetlen tiszta mondatban: „Úgy döntök, hogy X.”",
+     "en": "Phrase the decision in a single clean sentence: „I decide to do X.”"
+    },
+    {
+     "hu": "Csendesedj el egy percre, lélegezz nyugodtan.",
+     "en": "Grow quiet for a minute, breathing calmly."
+    },
+    {
+     "hu": "Mondd ki magadban a mondatot, és figyeld az első testi visszhangot: tágulás vagy szorulás, könnyülés vagy nehezülés.",
+     "en": "Say the sentence inwardly and watch the first bodily echo: widening or tightening, lightening or heaviness."
+    },
+    {
+     "hu": "Ismételd meg a másik lehetőséggel: „Úgy döntök, hogy Y.”",
+     "en": "Repeat with the other option: „I decide to do Y.”"
+    },
+    {
+     "hu": "Jegyezd le a testi válaszokat — még értelmezés nélkül.",
+     "en": "Write down the bodily responses — without interpreting yet."
+    },
+    {
+     "hu": "Külön lapra írd az elme érveit: költség, haszon, kockázat, idő.",
+     "en": "On a separate sheet write the mind's arguments: cost, benefit, risk, time."
+    },
+    {
+     "hu": "Döntéskor nézd mindkét lapot: a diszkomfort jelzés, nem parancs; az érv mérleg, nem börtön.",
+     "en": "When deciding, look at both sheets: discomfort is a signal, not a command; an argument is a scale, not a prison."
+    }
+   ],
+   "keret": {
+    "hu": "A testi jelek sokszor tapasztalataid gyors összegzései — megérzésnek hívjuk, és érdemes meghallgatni. De a diszkomfort lehet puszta újdonság-félelem is, ezért jelzés marad, nem ítélet. A hagyomány ennél tovább megy: szerinte a lélek már ismeri a készülő fordulatot, és előre jelez. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "Bodily signals are often quick summaries of your experience — we call it intuition, and it is worth hearing. But discomfort can also be mere fear of the new, so it remains a signal, not a verdict. The tradition goes further: it holds that the soul already knows the turn being prepared, and signals ahead. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "etika": {
+    "hu": "Fontos pénzügyi, egészségügyi vagy élet-döntést sose alapozz egyedül testérzetre: számolj, kérj hozzáértő tanácsot, és aludj rá egyet. A teszt a mérlegelés egyik serpenyője — nem a bíró.",
+    "en": "Never base an important financial, health or life decision on bodily feeling alone: calculate, seek qualified advice, and sleep on it. The test is one pan of the scales — not the judge."
+   },
+   "sorszam": 7
+  },
+  {
+   "id": "zt-cel-dia-epitese",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Cél-dia építése",
+    "en": "Building the goal slide"
+   },
+   "cel": {
+    "hu": "A célod képének megalkotása minden érzékszervvel, belülről nézve — nem film rólad, hanem jelenet a saját szemeddel —, és írásos tervrajz készítése róla, hogy bármikor újraépíthesd.",
+    "en": "To compose the image of your goal with every sense, seen from within — not a film about you, but a scene through your own eyes — and to draw up a written blueprint of it, so you can rebuild it at any time."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz célt, amely valóban vonz — ne „kellene”, hanem „akarom”.",
+     "en": "Choose a goal that genuinely draws you — not a „should” but an „I want”."
+    },
+    {
+     "hu": "Alkosd meg a diát belülről nézve: ne kívülről lásd magad, hanem a saját szemeddel nézz körül a jelenetben.",
+     "en": "Compose the slide from within: do not watch yourself from outside, but look around the scene through your own eyes."
+    },
+    {
+     "hu": "Töltsd fel minden érzékkel: mit látsz, mit hallasz, mit fog a kezed, milyen illatok járnak, milyen a testérzeted.",
+     "en": "Fill it with every sense: what you see, what you hear, what your hand is holding, what scents drift by, how your body feels."
+    },
+    {
+     "hu": "Ne az utat lásd, hanem a megérkezést: az életet, amelyben a cél már valóság — egy hétköznapját, nem a díjátadót.",
+     "en": "See not the road but the arrival: the life in which the goal is already real — an ordinary day of it, not the award ceremony."
+    },
+    {
+     "hu": "Írd le a diát tervrajzként: helyszín, részletek, hangok, érzetek — hogy holnap is ugyanazt építhesd fel.",
+     "en": "Write the slide down as a blueprint: place, details, sounds, sensations — so you can build the same one tomorrow."
+    },
+    {
+     "hu": "Zárd nyugodtan: nem erőlködsz és nem könyörögsz — berendezel egy képet, ahogy egy szobát rendeznél be.",
+     "en": "Close calmly: no straining, no pleading — you are furnishing an image the way you would furnish a room."
+    }
+   ],
+   "keret": {
+    "hu": "Az érzékletes célkép irányítja a figyelmet és táplálja a motivációt — ezt a tapasztalatod gyorsan visszaigazolja. A hagyomány többlete, hogy a rendszeresen élt dia a variánsok terében a célod sávját választja ki. * Nem való ábrándozás-pótléknak: a dia a lépéseid mellé épül, nem helyettük.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "A vivid goal-image steers attention and feeds motivation — your own experience will confirm this quickly. The tradition's addition is that a regularly lived slide selects your goal's lane in the space of variations. * It is not meant as a substitute for action, nor as idle daydreaming: the slide is built alongside your steps, not instead of them.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "sorszam": 8
+  },
+  {
+   "id": "zt-dia-futtatas-napkozben",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Dia-futtatás napközben",
+    "en": "Running the slide through the day"
+   },
+   "cel": {
+    "hu": "A megépített cél-dia rövid, gyakori felidézése a nap szövetében: napi öt-tíz alkalommal, kötött horgonyokhoz kapcsolva, erőlködés nélkül.",
+    "en": "Brief, frequent recall of the built goal slide woven into the day: five to ten times daily, tied to fixed anchors, without strain."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz horgonyokat a napodból: ajtón belépés, sorban állás, lift, vízforralás, jelzőlámpa.",
+     "en": "Choose anchors from your day: stepping through a door, standing in a queue, the lift, the kettle, a red light."
+    },
+    {
+     "hu": "A horgonynál idézd fel a diát húsz-harminc másodpercre — belülről nézve, egy-két érzékszervi részlettel.",
+     "en": "At the anchor, recall the slide for twenty or thirty seconds — from within, with one or two sensory details."
+    },
+    {
+     "hu": "Napi öt-tíz rövid futtatás többet ér egyetlen hosszú erőlködésnél.",
+     "en": "Five to ten short runs a day are worth more than one long strain."
+    },
+    {
+     "hu": "Ne vizsgáztasd a valóságot — „na, hol van már?” —: futtatsz, aztán visszatérsz a dolgodhoz.",
+     "en": "Do not examine reality — „well, where is it then?” —: you run the slide, then return to your work."
+    },
+    {
+     "hu": "Este pipáld ki, hány futtatás sikerült — a kis szám is szám, a folytonosság a lényeg.",
+     "en": "In the evening tick off how many runs you managed — a small number still counts; continuity is the point."
+    },
+    {
+     "hu": "Hetente frissítsd a diát, ha fakul, vagy ha a cél maga érett tovább.",
+     "en": "Refresh the slide weekly if it fades, or if the goal itself has ripened further."
+    }
+   ],
+   "keret": {
+    "hu": "Ez szokásépítés a javából: a horgonyhoz kötött rövid ismétlés azért működik, amiért minden jó szokás. A mérce ellenőrizhető: elevenebb marad-e a célod, és észreveszel-e több hozzá kapcsolódó lehetőséget a napjaidban. Nem való türelmetlenség-műszernek: aki percenként számon kéri a valóságot, az nem diát futtat, hanem görcsöt épít.",
+    "en": "This is habit-building at its best: short repetition tied to an anchor works for the same reason every good habit does. The measure can be checked: does your goal stay vivid, and do you notice more opportunities connected to it in your days. It is not meant as an impatience meter: whoever audits reality by the minute is not running a slide but building a cramp."
+   },
+   "sorszam": 9
+  },
+  {
+   "id": "zt-belso-kulso-szandek",
+   "mester": "Vadim Zeland",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "Belső-külső szándék gyakorlat",
+    "en": "Inner and outer intention practice"
+   },
+   "cel": {
+    "hu": "Egy kis célon begyakorolni a kettős mozdulatot: megtenni nyugodt elszántsággal mindazt, ami rajtad áll — ez a belső szándék —, és elengedni a hogyant, nem írva elő a világnak az útvonalat. A hagyomány szerint amikor a görcs elenged, a külső szándék — a világ felőled érkező mozdulata — is dolgozni kezd az ügyeden. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "To practise the double gesture on a small goal: doing with calm resolve all that is in your hands — this is inner intention — and letting go of the how, prescribing no route to the world. In the tradition's view, when the cramp releases, outer intention — the world's movement towards you — also begins to work on your cause. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Válassz kicsi, egy-két hét alatt belátható célt.",
+     "en": "Choose a small goal that fits within a week or two."
+    },
+    {
+     "hu": "Írd fel, mi az, ami rajtad áll — konkrét lépések, határidővel.",
+     "en": "Write down what is in your hands — concrete steps, with deadlines."
+    },
+    {
+     "hu": "Írd fel külön, mi nem rajtad áll — és mondd ki: ezt elengedem, a hogyant nem írom elő.",
+     "en": "Write separately what is not in your hands — and say it: this I release; the how I do not prescribe."
+    },
+    {
+     "hu": "Tedd meg a lépéseidet nyugodt, egyenletes munkával — se roham, se halogatás.",
+     "en": "Take your steps with calm, even work — neither a charge nor a delay."
+    },
+    {
+     "hu": "Figyeld az elvárás-görcsöt: ha azon kapod magad, hogy óránként az eredményt lesed, térj vissza szelíden a következő lépéshez.",
+     "en": "Watch the cramp of expectation: when you catch yourself checking for results by the hour, return gently to the next step."
+    },
+    {
+     "hu": "A hét végén nézd meg: mi jött magától, amit nem te terveztél oda.",
+     "en": "At the week's end look: what arrived by itself, unplanned by you."
+    }
+   ],
+   "keret": {
+    "hu": "A magja ősi bölcsesség új köntösben: tedd, ami rajtad áll, s a többit engedd. Ellenőrizhető gyümölcse a kevesebb szorongás és az egyenletes haladás — a külső szándék működése a hagyomány elbeszélése marad. Nem való tétlenség-igazolásnak: aki a lépéseit is „elengedi”, az nem külső szándékra vár, hanem kifogásra talált.",
+    "en": "Its core is old wisdom in new dress: do what is yours to do, and release the rest. Its verifiable fruit is less anxiety and steadier progress — the workings of outer intention remain the tradition's narrative. It is not meant to justify idleness: whoever „releases” their own steps as well is not awaiting outer intention but has found an excuse."
+   },
+   "sorszam": 10
+  },
+  {
+   "id": "zt-szandek-koordinacio",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Szándék-koordináció — a kedvező fordulat",
+    "en": "Coordination of intention — the favourable turn"
+   },
+   "cel": {
+    "hu": "Begyakorolni, hogy minden váratlan fordulatra ez legyen az első mondatod: „ez most nekem dolgozik” — majd rögtön utána megtenni a tényleges következő lépést. A hagyomány szerint ezzel a kimondással a történet kedvező folytatását választod a variánsok teréből. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "To train yourself so that at every unexpected turn your first sentence is: „this is now working for me” — followed at once by the actual next step. In the tradition's view, this declaration selects the story's favourable continuation from the space of variations. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel döntsd el: ma minden váratlan fordulatra ez az első mondatod: „ez most nekem dolgozik”.",
+     "en": "In the morning decide: today, at every unexpected turn, your first sentence is: „this is now working for me”."
+    },
+    {
+     "hu": "Amikor jön a fordulat — késés, lemondott találkozó, boruló terv —, mondd ki, akkor is, ha még nem hiszed.",
+     "en": "When the turn comes — a delay, a cancelled meeting, a plan overturned — say it, even if you do not yet believe it."
+    },
+    {
+     "hu": "Rögtön utána kérdezd meg: mi innen a tényleges következő lépésem?",
+     "en": "Immediately after, ask: what is my actual next step from here?"
+    },
+    {
+     "hu": "Tedd meg a lépést — a mondat cselekvés nélkül csak szólam.",
+     "en": "Take the step — without action the sentence is a mere slogan."
+    },
+    {
+     "hu": "Este jegyezd fel: volt-e fordulat, amelyről estére kiderült, hogy tényleg jól jött.",
+     "en": "In the evening note: was there a turn that by nightfall proved genuinely welcome."
+    },
+    {
+     "hu": "Ne erőltesd tragédiáknál — ez a hétköznapi bosszúságok gyakorlata.",
+     "en": "Do not force it upon tragedy — this is a practice for everyday vexations."
+    }
+   ],
+   "keret": {
+    "hu": "A lélektani magja az átkeretezés: aki a fordulatot nyitott kérdésként kezeli, több kiutat lát, és hamarabb mozdul — ezt magadon ellenőrizheted. Nem tesz minden rosszat jóvá, és nem is ez a dolga: a mondat nem ítélet a helyzetről, hanem menetirány-választás benned.",
+    "en": "Its psychological core is reframing: whoever treats a turn as an open question sees more ways out and moves sooner — this you can verify on yourself. It does not make every ill good, nor is that its job: the sentence is not a verdict on the situation but a choice of heading within you."
+   },
+   "etika": {
+    "hu": "Valódi veszteségnél, betegségnél, traumánál a gyász és a fájdalom nem hiba, amit át kellene címkézni: ott megélés, idő és — ha kell — szakember segít. A gyakorlat a hétköznapok súrlódásaira való, nem az élet nagy sebeire.",
+    "en": "In real loss, illness or trauma, grief and pain are not errors to be relabelled: there, living through, time and — where needed — a professional help. This practice is for the frictions of everyday life, not for life's great wounds."
+   },
+   "sorszam": 11
+  },
+  {
+   "id": "zt-vilagom-gondoskodik-rolam",
+   "mester": "Vadim Zeland",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Az én világom gondoskodik rólam — reggeli deklaráció",
+    "en": "My world takes care of me — a morning declaration"
+   },
+   "cel": {
+    "hu": "Reggeli ráhangolás egy gondoskodó világ-viszonyra, este pedig bizonyíték-gyűjtés: hol gondoskodott ma rólad a világ. A hagyomány szerint a világ tükörként válaszol: amilyen viszonyt sugárzol felé, annak megfelelő rétegét éled meg. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "A morning attunement to a caring relationship with your world, and in the evening a gathering of evidence: where your world took care of you today. In the tradition's view the world answers as a mirror: the relation you radiate towards it is the layer of it you come to live. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Reggel, még indulás előtt mondd ki nyugodtan, a saját szavaiddal: „Az én világom gondoskodik rólam.”",
+     "en": "In the morning, before setting out, say calmly in your own words: „My world takes care of me.”"
+    },
+    {
+     "hu": "Ne bizonygasd és ne vitatkozz vele — kimondod, mint egy köszönést, és mész a dolgodra.",
+     "en": "Do not argue for it and do not argue with it — you say it like a greeting and go about your day."
+    },
+    {
+     "hu": "Napközben, ha eszedbe jut, egyetlen pillantás elég: hol gondoskodott ma rólam a világ?",
+     "en": "During the day, when it comes to mind, a single glance suffices: where has my world taken care of me today?"
+    },
+    {
+     "hu": "Este gyűjts bizonyítékot: írj le három apróságot — meleg étel, jó szó, elintéződött ügy.",
+     "en": "In the evening gather evidence: write down three small things — a warm meal, a kind word, a matter that sorted itself out."
+    },
+    {
+     "hu": "Ha egy napon nyersnek érzed a mondatot, szelídítsd: „ma megkeresem, hol gondoskodik rólam a világ.”",
+     "en": "If on some day the sentence feels raw, soften it: „today I will look for where my world takes care of me.”"
+    },
+    {
+     "hu": "Hetek múltán figyeld meg a hangot, ahogyan magadban a napjaidról beszélsz — ez a gyakorlat valódi mérője.",
+     "en": "After some weeks, observe the tone in which you speak to yourself about your days — that is the practice's true gauge."
+    }
+   ],
+   "keret": {
+    "hu": "Amit itt edzel, az figyelmi hangolás: amit keresel, abból többet veszel észre, és a belső hangod szelídül — ez ellenőrizhető. Nem tagadja a bajokat, és nem is szépítgetés: a rossz továbbra is látszik, csak nem egyedül tölti ki a képet. Nem való kényszeres derűnek: a mondatnak igaznak kell tudnia lenni aznap is. A címadó deklaráció — „az én világom gondoskodik rólam” — nem parafrázis, hanem Zeland saját, ismert formulájának szó szerinti fordítása.",
+    "en": "What you train here is attentional tuning: you notice more of what you look for, and your inner voice grows gentler — this can be checked. It denies no troubles and it is no whitewash: the bad remains visible, it simply no longer fills the whole frame. It is not meant as compulsory cheer: the sentence must be able to be true on that day too. The title declaration — „my world takes care of me” — is not a paraphrase but a literal translation of Zeland's own well-known formula."
+   },
+   "etika": {
+    "hu": "Ha a napjaidat tartósan nyomott hangulat vagy szorongás üli meg, ez a gyakorlat nem kezelés — fordulj szakemberhez, és a segítséget ne halaszd a gyakorlás kedvéért.",
+    "en": "If low mood or anxiety settles over your days persistently, this practice is not treatment — see a professional, and do not postpone help for the sake of practice."
+   },
+   "sorszam": 12
+  },
+  {
+   "id": "zt-sajat-cel-tesztje",
+   "mester": "Vadim Zeland",
+   "szint": "halado",
+   "sik": "szellem",
+   "cim": {
+    "hu": "Saját cél tesztje",
+    "en": "The test of your own goal"
+   },
+   "cel": {
+    "hu": "Egy cél átvilágítása három kérdéssel: felderül-e tőle a lelked, vonz-e maga az út is — nem csak a dobogó —, és kinek a célja ez valójában: a tiéd, vagy a környezeté, amely rád hagyta.",
+    "en": "To examine a goal by three questions: does your soul light up at it; does the road itself draw you — not only the podium; and whose goal is it truly: yours, or that of the surroundings which handed it down to you."
+   },
+   "modszer": [
+    {
+     "hu": "Írd le a célt, és mellé: mikor került az életedbe, és kitől hallottad először.",
+     "en": "Write the goal down, and beside it: when it entered your life, and from whom you first heard it."
+    },
+    {
+     "hu": "Kérdezd meg: ha soha senki nem tudná meg, hogy elérted, akkor is akarnám?",
+     "en": "Ask: if no one would ever learn that I achieved it, would I still want it?"
+    },
+    {
+     "hu": "Futtasd a diát: egy hétköznap abban az életben, ahol a cél már valóság. Felderül-e a lelked — vagy csak megkönnyebbülsz, hogy „végre letudtam”?",
+     "en": "Run the slide: an ordinary day in the life where the goal is already real. Does your soul light up — or do you merely feel relief at having „got it over with”?"
+    },
+    {
+     "hu": "Nézd meg az utat is: a hozzá vezető évek munkája vonz-e, vagy csak a végeredményt vennéd meg készen?",
+     "en": "Look at the road as well: do the years of work leading there draw you, or would you rather buy the result ready-made?"
+    },
+    {
+     "hu": "Keresd az idegen ujjlenyomatokat: presztízs, összehasonlítás, „ezt illik” — jelöld meg, ami nem belőled jön.",
+     "en": "Look for foreign fingerprints: prestige, comparison, „it is expected” — mark whatever does not come from within you."
+    },
+    {
+     "hu": "Dönts három kimenet közül: megtartom; átfogalmazom, hogy az enyém legyen; elengedem.",
+     "en": "Decide among three outcomes: I keep it; I rephrase it until it is mine; I let it go."
+    },
+    {
+     "hu": "Ha idegen célt engedsz el, hagyj gyász-időt — évekig hordozott terhet nem teszel le egyetlen mozdulattal.",
+     "en": "If you release a foreign goal, allow time for mourning — a burden carried for years is not set down in a single motion."
+    }
+   ],
+   "keret": {
+    "hu": "A „lélek felderülése” a hagyomány iránytűje — de a kérdés maga akkor is arany, ha a modellt nem veszed át: a kutatás és a hétköznapi tapasztalat egybehangzik abban, hogy a belülről fakadó cél tovább visz, mint a kölcsönvett. Nem való arra, hogy minden nehéz célt „idegennek” bélyegezz: a saját cél útján is vannak keserves szakaszok.",
+    "en": "The „lighting up of the soul” is the tradition's compass — yet the question itself is gold even without the model: research and everyday experience agree that a goal born within carries further than a borrowed one. It is not meant to brand every difficult goal „foreign”: the road of your own goal has its bitter stretches too."
+   },
+   "etika": {
+    "hu": "Nagy életdöntést — pályaváltást, kapcsolatot, költözést — sose alapozz egyetlen gyakorlatra: adj neki időt, számolj, beszéld meg azokkal, akiket érint, és aludj rá többször is.",
+    "en": "Never base a major life decision — a career change, a relationship, a move — on a single exercise: give it time, do the sums, talk it over with those affected, and sleep on it more than once."
+   },
+   "sorszam": 13
+  },
+  {
+   "id": "zt-ajtofigyeles",
+   "mester": "Vadim Zeland",
+   "szint": "mester",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Ajtófigyelés",
+    "en": "Watching for your door"
+   },
+   "cel": {
+    "hu": "Megtanulni olvasni az utak jeleit: a hozzád illő út — a saját ajtód — jele a könnyű haladás, a maguktól nyíló lehetőségek és a gyarapodó erő; az idegen ajtóé az állandó fal és az örökös, kiszipolyozó erőlködés. A hagyomány szerint a saját célodhoz saját ajtó tartozik a variánsok terében, amely csak neked nyílik ilyen könnyen. *[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+    "en": "To learn to read the signs of paths: the mark of a path that fits you — your own door — is easy progress, opportunities opening by themselves, and growing strength; the mark of a foreign door is the constant wall and endless, draining strain. In the tradition's view, your own goal has its own door in the space of variations, which opens this easily only for you. *[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+   },
+   "modszer": [
+    {
+     "hu": "Válaszd ki a célod felé most járható két-három utat.",
+     "en": "Pick the two or three currently walkable paths towards your goal."
+    },
+    {
+     "hu": "Mindegyiken tégy kis, valódi lépéseket néhány héten át — az ajtót járni kell, nem találgatni.",
+     "en": "On each, take small real steps over a few weeks — a door is to be walked through, not guessed at."
+    },
+    {
+     "hu": "Vezess ajtónaplót: hol haladt könnyen a munka, hol nyíltak maguktól lehetőségek, hol nőtt az erőd munka közben.",
+     "en": "Keep a door diary: where the work flowed easily, where opportunities opened by themselves, where your strength grew as you worked."
+    },
+    {
+     "hu": "Jegyezd a falakat is: hol ütközöl újra és újra ugyanabba, hol fogy az erőd ahhoz képest, amennyit haladsz.",
+     "en": "Note the walls too: where you strike the same thing again and again, where your strength drains out of proportion to your progress."
+    },
+    {
+     "hu": "Havonta mérlegelj: merre mutat a jelek mintázata — de sose egyetlen kudarc alapján: a fal és a nehéz szakasz nem ugyanaz.",
+     "en": "Weigh monthly: where does the pattern of signs point — but never from a single failure: a wall and a hard stretch are not the same."
+    },
+    {
+     "hu": "Ha egy ajtó hosszú időn át csak falakat ad, engedd el tisztességgel, és próbáld a következőt — az elengedett út nem kudarc, hanem elvégzett mérés.",
+     "en": "If a door yields nothing but walls over a long time, release it with honour and try the next — a path let go is not a failure but a measurement completed."
+    }
+   ],
+   "keret": {
+    "hu": "Amit itt valójában művelsz, az türelmes kísérletezés: kis tétekkel több utat próbálsz, és a tapasztalat mintázatából olvasol. Számolj vele, hogy minden út elején van nehéz szakasz — a „könnyű haladás” nem erőfeszítés-mentességet jelent, hanem hogy az erőfeszítés táplál, nem kiszipolyoz. Nem való arra, hogy az első akadálynál ajtót válts: a kitartás és a zsákutca megkülönböztetése hónapok mintázatán múlik, nem egyetlen napon.",
+    "en": "What you truly practise here is patient experimentation: trying several paths at small stakes and reading the pattern of experience. Expect a hard stretch at the start of every path — „easy progress” does not mean effortlessness, but that the effort feeds you rather than drains you. It is not meant to make you switch doors at the first obstacle: telling perseverance from a dead end depends on the pattern of months, not on a single day."
+   },
+   "etika": {
+    "hu": "Megélhetést érintő váltás előtt számolj: tartalék, terv, és hozzáértő tanács. Az ajtónapló segédeszköz a mérlegeléshez — nem ítélőszék, amelyre az egzisztenciádat bíznád.",
+    "en": "Before a change that touches your livelihood, do the sums: reserves, a plan, and qualified advice. The door diary is an aid to deliberation — not a tribunal to which you would entrust your existence."
+   },
+   "sorszam": 14
+  }
+ ]
+}
