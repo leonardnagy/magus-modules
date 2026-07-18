@@ -42,6 +42,7 @@ Install: copy a module's **raw** link below and paste it in the app
 | The Direct Method — Crossing the Threshold Awake | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.direct/module.json` |
 | Astral Explorations — Guides, Jumps and Memory | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.explorations/module.json` |
 | Vadim Zeland — Reality Transurfing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/zeland.transurfing/module.json` |
+| Bashar — The Three Spheres (Epsilon, Epiphany, Eclipse) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/bashar.spheres/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
@@ -113,3 +114,21 @@ elem (Tuz|Levego|Viz|Fold|Eter|Ido|"Materia Prima"|null), cim{hu,en}, cel{hu,en}
 modszer[{hu,en}…], keret{hu,en}, etika{hu,en}?`.
 
 All content is original paraphrase (HU+EN) with source citations and disclaimers inside each module.
+
+## Meditations — private links (personal use only)
+
+External links to **official** sources, kept here for personal use only — their
+content is not part of this repo and is not redistributed. All links verified
+working as of 2026-07.
+
+| Title | URL |
+|---|---|
+| Bashar — Epsilon (session, BasharTV) | https://tv.bashar.org/programs/epsilon |
+| Bashar — Eclipse (session, BasharTV) | https://tv.bashar.org/programs/eclipse |
+| Bashar — Epiphany (session, BasharTV) | https://tv.bashar.org/programs/epiphany |
+| Bashar — Limitations Unlimited (with Holotope section, BasharTV) | https://tv.bashar.org/programs/limitations-unlimited |
+| Bashar :: Epsilon — Highlights (official YouTube) | https://www.youtube.com/watch?v=nZ_XuzgJ-mw |
+| Bashar :: Eclipse — Highlights (official YouTube) | https://www.youtube.com/watch?v=SRahNfDNOL0 |
+| Bashar :: Epiphany — Highlights (official YouTube) | https://www.youtube.com/watch?v=Tnti-MzXYk8 |
+| Bashar :: What is The Holotope? — Kirby Seid explains (official YouTube) | https://www.youtube.com/watch?v=1O9HAOJW_2Y |
+| The Formula (bashar.org, mentions the Holotope meditation) | https://www.bashar.org/formula |
