@@ -168,10 +168,55 @@ def process(module_dir: Path, lang: str, voice: str, bitrate: int,
     return total_chars, written, written_bytes
 
 
+def practice_text(g: dict, lang: str) -> str:
+    """A practice read end to end: title, aim, each method step, the frame."""
+    parts = [(g.get("cim") or {}).get(lang, ""), (g.get("cel") or {}).get(lang, "")]
+    parts += [(step or {}).get(lang, "") for step in g.get("modszer", [])]
+    parts.append((g.get("keret") or {}).get(lang, ""))
+    if g.get("etika"):
+        parts.append(g["etika"].get(lang, ""))
+    return clean("\n".join(p for p in parts if p))
+
+
+def process_practices(lang: str, voice: str, bitrate: int,
+                      dry_run: bool, force: bool, api_key: str | None):
+    """Practice ids are globally unique across packs, so one flat folder is
+    enough and a pack can be installed without knowing which file belongs where."""
+    out_dir = REPO / "audio" / "practices" / lang
+    total_chars = written = written_bytes = 0
+
+    for pack_path in sorted((REPO / "practices").glob("*.json")):
+        pack = json.loads(pack_path.read_text())
+        for g in pack.get("gyakorlatok", []):
+            text = practice_text(g, lang)
+            if not text:
+                continue
+            total_chars += len(text)
+            if dry_run:
+                continue
+            out_dir.mkdir(parents=True, exist_ok=True)
+            target = out_dir / f"{g['id']}.mp3"
+            if target.exists() and not force:
+                continue
+            audio = b"".join(synthesize(part, lang, voice, api_key, bitrate)
+                             for part in chunks(text))
+            target.write_bytes(audio)
+            written += 1
+            written_bytes += len(audio)
+            print(f"  wrote {target.relative_to(REPO)}  "
+                  f"({len(text):,} chars → {len(audio) / 1024:.0f} KB)")
+
+    if dry_run:
+        print(f"  {'practices':26} {total_chars:>10,} chars "
+              f"≈ ${total_chars / 1_000_000 * USD_PER_MILLION_CHARS:.2f}")
+    return total_chars, written, written_bytes
+
+
 def main():
     ap = argparse.ArgumentParser(description="Pre-render module audio with xAI TTS.")
     ap.add_argument("modules", nargs="*", help="module directory names (e.g. acim.easy)")
     ap.add_argument("--all", action="store_true", help="every module in the repo")
+    ap.add_argument("--practices", action="store_true", help="render the practice packs instead")
     ap.add_argument("--lang", default="hu", choices=sorted(LANG_TAGS))
     ap.add_argument("--voice", default="ara", help="ara | eve | leo | rex | sal")
     ap.add_argument("--bitrate", type=int, default=64000, help="MP3 bit rate")
@@ -179,7 +224,9 @@ def main():
     ap.add_argument("--force", action="store_true", help="regenerate existing files")
     args = ap.parse_args()
 
-    if args.all:
+    if args.practices:
+        dirs = []
+    elif args.all:
         dirs = sorted(p.parent for p in REPO.glob("*/module.json"))
     else:
         dirs = [REPO / name for name in args.modules]
@@ -201,6 +248,12 @@ def main():
     for d in dirs:
         c, f, s = process(d, args.lang, args.voice, args.bitrate,
                           args.dry_run, args.force, api_key)
+        chars += c
+        files += f
+        size += s
+    if args.practices:
+        c, f, s = process_practices(args.lang, args.voice, args.bitrate,
+                                    args.dry_run, args.force, api_key)
         chars += c
         files += f
         size += s

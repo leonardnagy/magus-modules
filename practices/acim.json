@@ -1,553 +1,554 @@
 {
- "formatVersion": 1,
- "id": "practice-pack-acim",
- "nevek": {
-  "hu": "A csodák tanítása — gyakorlatok",
-  "en": "A Course in Miracles — practices"
- },
- "gyakorlatok": [
-  {
-   "id": "ac-reggeli-lecke",
-   "mester": "A csodák tanítása",
-   "szint": "kezdo",
-   "sik": "szellem",
-   "elem": "Levego",
-   "cim": {
-    "hu": "A reggeli lecke — a nap gondolatának kitűzése",
-    "en": "The morning lesson — setting the thought for the day"
-   },
-   "cel": {
-    "hu": "Megtanulni a Munkafüzet napjának alapformáját: reggelente egyetlen vezérgondolatot kitűzni, rövid csendes üléssel elmélyíteni, és válogatás nélkül alkalmazni — anélkül, hogy hinned kellene benne.",
-    "en": "To learn the basic shape of a Workbook day: setting a single guiding thought each morning, deepening it in a short quiet sitting, and applying it without picking favourites — with no requirement to believe it."
-   },
-   "modszer": [
-    {
-     "hu": "Reggel válassz egyetlen mondatot a napra — a Munkafüzet olvasmányodból desztillálva vagy saját, őszinte megfogalmazásban. Naponta csak egy gondolat: lassítani szabad, halmozni nem.",
-     "en": "In the morning choose a single sentence for the day — distilled from your Workbook reading or in your own honest words. One thought per day only: slowing down is allowed, stacking up is not."
-    },
-    {
-     "hu": "Ülj vele egy-két percet csendben: csukott szemmel, sietség nélkül ismételd, és hagyd leülepedni.",
-     "en": "Sit with it quietly for a minute or two: eyes closed, repeat it unhurriedly, and let it settle."
-    },
-    {
-     "hu": "Nyisd ki a szemed, és alkalmazd a gondolatot arra, amire épp ránézel vagy ami eszedbe jut — válogatás nélkül. Nem kell mindent érintened, de szándékosan ne zárj ki semmit és senkit.",
-     "en": "Open your eyes and apply the thought to whatever you happen to look at or think of — without selecting. You need not touch everything, but deliberately exclude nothing and no one."
-    },
-    {
-     "hu": "A gyakorlat nem kér meggyőződést: akkor is működik, ha kételkedsz benne — a dolgod csak annyi, hogy elvégezd.",
-     "en": "The practice asks no conviction of you: it works even while you doubt it — your only task is to carry it out."
-    },
-    {
-     "hu": "Ha a gyakorlat kellemetlen érzést keltene, rövidítsd vagy hagyd abba aznapra — az erőltetés többet árt, mint a kihagyás.",
-     "en": "If the practice stirs discomfort, shorten it or stop for the day — forcing does more harm than skipping."
-    },
-    {
-     "hu": "Este idézd fel még egyszer a gondolatot, egy perc csenddel lezárva a napot.",
-     "en": "In the evening recall the thought once more, closing the day with a minute of quiet."
-    }
-   ],
-   "keret": {
-    "hu": "A hagyomány egyéves, napi leckés formájából itt a nap alakját vesszük át. A lényege a megengedés: a gyakorlás csak elvégzést kér tőled, meggyőződést nem — a szkeptikus ugyanúgy gyakorolhat, mint a hívő. Lélektani nyelven: figyelem-tréning és szelíd átkeretezés, kis adagokban.",
-    "en": "From the tradition's one-year, lesson-a-day form we borrow here the shape of the day. Its heart is permission: the practice asks only doing of you, never conviction — the sceptic can practise exactly as the believer does. In psychological language: attention training and gentle reframing, in small doses."
-   },
-   "sorszam": 1
+  "formatVersion": 1,
+  "id": "practice-pack-acim",
+  "nevek": {
+    "hu": "A csodák tanítása — gyakorlatok",
+    "en": "A Course in Miracles — practices"
   },
-  {
-   "id": "ac-orankenti-emlekezes",
-   "mester": "A csodák tanítása",
-   "szint": "kezdo",
-   "sik": "lelek",
-   "elem": "Ido",
-   "cim": {
-    "hu": "Óránkénti emlékezés — horgonyok a napban",
-    "en": "Hourly remembering — anchors through the day"
-   },
-   "cel": {
-    "hu": "A napi gondolatot életben tartani a nap folyamán: rövid, egy lélegzetnyi felidézésekkel, visszatérő eseményekhez horgonyozva — bűntudat nélkül, szelíd visszatéréssel.",
-    "en": "To keep the day's thought alive through the day: with brief, one-breath recollections anchored to recurring events — without guilt, returning gently."
-   },
-   "modszer": [
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
     {
-     "hu": "Válassz horgonyokat: az óra fordulója, egy telefonos jelzés, felállás az asztaltól, ajtón átlépés, a vízforraló bekapcsolása.",
-     "en": "Choose anchors: the turn of the hour, a phone chime, standing up from the desk, passing through a doorway, switching on the kettle."
+      "id": "ac-reggeli-lecke",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A reggeli lecke — a nap gondolatának kitűzése",
+        "en": "The morning lesson — setting the thought for the day"
+      },
+      "cel": {
+        "hu": "Megtanulni a Munkafüzet napjának alapformáját: reggelente egyetlen vezérgondolatot kitűzni, rövid csendes üléssel elmélyíteni, és válogatás nélkül alkalmazni — anélkül, hogy hinned kellene benne.",
+        "en": "To learn the basic shape of a Workbook day: setting a single guiding thought each morning, deepening it in a short quiet sitting, and applying it without picking favourites — with no requirement to believe it."
+      },
+      "modszer": [
+        {
+          "hu": "Reggel válassz egyetlen mondatot a napra — a Munkafüzet olvasmányodból desztillálva vagy saját, őszinte megfogalmazásban. Naponta csak egy gondolat: lassítani szabad, halmozni nem.",
+          "en": "In the morning choose a single sentence for the day — distilled from your Workbook reading or in your own honest words. One thought per day only: slowing down is allowed, stacking up is not."
+        },
+        {
+          "hu": "Ülj vele egy-két percet csendben: csukott szemmel, sietség nélkül ismételd, és hagyd leülepedni.",
+          "en": "Sit with it quietly for a minute or two: eyes closed, repeat it unhurriedly, and let it settle."
+        },
+        {
+          "hu": "Nyisd ki a szemed, és alkalmazd a gondolatot arra, amire épp ránézel vagy ami eszedbe jut — válogatás nélkül. Nem kell mindent érintened, de szándékosan ne zárj ki semmit és senkit.",
+          "en": "Open your eyes and apply the thought to whatever you happen to look at or think of — without selecting. You need not touch everything, but deliberately exclude nothing and no one."
+        },
+        {
+          "hu": "A gyakorlat nem kér meggyőződést: akkor is működik, ha kételkedsz benne — a dolgod csak annyi, hogy elvégezd.",
+          "en": "The practice asks no conviction of you: it works even while you doubt it — your only task is to carry it out."
+        },
+        {
+          "hu": "Ha a gyakorlat kellemetlen érzést keltene, rövidítsd vagy hagyd abba aznapra — az erőltetés többet árt, mint a kihagyás.",
+          "en": "If the practice stirs discomfort, shorten it or stop for the day — forcing does more harm than skipping."
+        },
+        {
+          "hu": "Este idézd fel még egyszer a gondolatot, egy perc csenddel lezárva a napot.",
+          "en": "In the evening recall the thought once more, closing the day with a minute of quiet."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány egyéves, napi leckés formájából itt a nap alakját vesszük át. A lényege a megengedés: a gyakorlás csak elvégzést kér tőled, meggyőződést nem — a szkeptikus ugyanúgy gyakorolhat, mint a hívő. Lélektani nyelven: figyelem-tréning és szelíd átkeretezés, kis adagokban.",
+        "en": "From the tradition's one-year, lesson-a-day form we borrow here the shape of the day. Its heart is permission: the practice asks only doing of you, never conviction — the sceptic can practise exactly as the believer does. In psychological language: attention training and gentle reframing, in small doses."
+      },
+      "sorszam": 1
     },
     {
-     "hu": "Minden horgonynál idézd fel egyszer a napi mondatot — egy lélegzetnyi idő elég, sietség nélkül.",
-     "en": "At each anchor recall the day's sentence once — the length of one breath is enough, without hurry."
+      "id": "ac-orankenti-emlekezes",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Óránkénti emlékezés — horgonyok a napban",
+        "en": "Hourly remembering — anchors through the day"
+      },
+      "cel": {
+        "hu": "A napi gondolatot életben tartani a nap folyamán: rövid, egy lélegzetnyi felidézésekkel, visszatérő eseményekhez horgonyozva — bűntudat nélkül, szelíd visszatéréssel.",
+        "en": "To keep the day's thought alive through the day: with brief, one-breath recollections anchored to recurring events — without guilt, returning gently."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz horgonyokat: az óra fordulója, egy telefonos jelzés, felállás az asztaltól, ajtón átlépés, a vízforraló bekapcsolása.",
+          "en": "Choose anchors: the turn of the hour, a phone chime, standing up from the desk, passing through a doorway, switching on the kettle."
+        },
+        {
+          "hu": "Minden horgonynál idézd fel egyszer a napi mondatot — egy lélegzetnyi idő elég, sietség nélkül.",
+          "en": "At each anchor recall the day's sentence once — the length of one breath is enough, without hurry."
+        },
+        {
+          "hu": "Kihagyott horgonyért semmi önvád: a szabály nem pontozás, hanem szelíd visszatérés a következőnél.",
+          "en": "No self-reproach for a missed anchor: the rule is not scorekeeping but a gentle return at the next one."
+        },
+        {
+          "hu": "Ha két horgony között zaklatottság tör rád, ott és akkor alkalmazd a gondolatot az adott helyzetre — nem általánosságban, hanem néven nevezve, mi dúlt fel.",
+          "en": "If upset strikes between anchors, apply the thought there and then to the actual situation — not in general, but naming what disturbed you."
+        },
+        {
+          "hu": "Hetek múltán bővíthetsz: időnként egy lélegzet helyett egy csendes perc — a fegyelem fokozatosan érkezik, sosem kényszerként.",
+          "en": "After some weeks you may widen it: now and then a quiet minute instead of one breath — discipline arrives gradually, never as coercion."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány szándékosan lazán indít, és csak lassan sűríti a ritmust, hogy a gyakorlás sose érződjön külső parancsnak. Mai nyelven szokás-fűzés: meglévő eseményekhez kötött mikro-emlékeztetők. A mérce nem a találati arány, hanem hogy egyenletesebb-e tőle a napod.",
+        "en": "The tradition deliberately starts loose and thickens the rhythm only slowly, so practice never feels like an outside command. In today's language, habit-stacking: micro-reminders tied to events already in your day. The measure is not your hit rate but whether your day grows steadier."
+      },
+      "sorszam": 2
     },
     {
-     "hu": "Kihagyott horgonyért semmi önvád: a szabály nem pontozás, hanem szelíd visszatérés a következőnél.",
-     "en": "No self-reproach for a missed anchor: the rule is not scorekeeping but a gentle return at the next one."
+      "id": "ac-vetites-elkapasa",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "A vetítés elkapása — a zavar befelé fordítása",
+        "en": "Catching the projection — turning the disturbance inward"
+      },
+      "cel": {
+        "hu": "Megtanulni, hogy amikor odakint valami felzaklat, a tekintet egy pillanatra befelé forduljon: mit vetítek én erre a helyzetre — és mi az, ami valójában bennem vár rendezésre?",
+        "en": "To learn that when something out there upsets you, the gaze turns inward for a moment: what am I projecting onto this situation — and what is it in me that actually waits to be settled?"
+      },
+      "modszer": [
+        {
+          "hu": "Vedd észre a szúrást: valaki vagy valami odakint ingerel, sért, nyugtalanít.",
+          "en": "Notice the sting: someone or something out there irritates, offends, unsettles you."
+        },
+        {
+          "hu": "Állj meg egy lélegzetre, mielőtt a belső történet továbbpörögne.",
+          "en": "Pause for one breath before the inner story spins on."
+        },
+        {
+          "hu": "Kérdezd meg: mit mond ez a zavar arról, amit én hordozok — milyen félelmet, bűntudatot vagy elvárást vetítek most kifelé?",
+          "en": "Ask: what does this disturbance say about what I carry — what fear, guilt or expectation am I casting outward right now?"
+        },
+        {
+          "hu": "Nevezd meg őszintén, önostorozás nélkül — a cél a látás, nem az ítélet.",
+          "en": "Name it honestly, without self-flagellation — the aim is sight, not verdict."
+        },
+        {
+          "hu": "Segít egy kitöltős mondat a saját szavaiddal: „Lehet, hogy nem is X miatt vagyok feldúlt, hanem valami miatt, amit magamban hordok.” Olvasd el lassan, és ülj vele húsz másodpercet.",
+          "en": "A fill-in sentence in your own words helps: \"Perhaps I am not upset because of X at all, but because of something I carry in myself.\" Read it slowly and sit with it for twenty seconds."
+        },
+        {
+          "hu": "Zárd le szelíden: a vetítés visszavonása a megbocsátás első fele — a második felét ráérsz később gyakorolni.",
+          "en": "Close gently: withdrawing the projection is the first half of forgiveness — the second half can wait for later practice."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány ennél tovább megy: azt állítja, hogy a látott világ egésze belülről vetített kép. * A gyakorlathoz azonban elég a józan olvasat: a keresztény szókincs ellenére ez egyetemes belső munka — a vetítés visszavonása, a kognitív átkeretezés és a bűntudat-feloldás lélektanból ismert mozdulatai. Nem helyettesít orvosi vagy pszichológiai ellátást; mély sebekkel szakemberrel dolgozz, akut krízisben pedig azonnal kérj segítséget. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The tradition goes further: it claims that the whole seen world is a picture projected from within. * For the practice, though, the sober reading suffices: despite the Christian vocabulary this is universal inner work — withdrawing projection, cognitive reframing and the resolving of guilt, moves well known to psychology. It does not replace medical or psychological care; work on deep wounds with a professional, and in acute crisis seek help at once. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "sorszam": 3
     },
     {
-     "hu": "Ha két horgony között zaklatottság tör rád, ott és akkor alkalmazd a gondolatot az adott helyzetre — nem általánosságban, hanem néven nevezve, mi dúlt fel.",
-     "en": "If upset strikes between anchors, apply the thought there and then to the actual situation — not in general, but naming what disturbed you."
+      "id": "ac-megbocsatas-lepesben",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Megbocsátás-gyakorlat lépésben",
+        "en": "Forgiveness practice, step by step"
+      },
+      "cel": {
+        "hu": "A hagyomány megbocsátás-munkájának begyakorlása három mozdulatban: a sérelem felismerése, a rávetített többlet visszavonása, majd az elengedés — nem a bántás jóváhagyásaként, hanem a saját terhed letételeként.",
+        "en": "To train the tradition's forgiveness work in three movements: recognizing the grievance, withdrawing what was projected onto it, then releasing — not as approval of the hurt, but as the laying down of your own burden."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz egyetlen valódi sérelmet — egy embert vagy eseményt, amely még mindig szúr, ha eszedbe jut.",
+          "en": "Choose one real grievance — a person or event that still stings when it comes to mind."
+        },
+        {
+          "hu": "Nézd meg először a puszta tényt: mi történt valójában? Majd külön a történetet és az ítéletet, amelyet te építettél rá.",
+          "en": "First look at the bare fact: what actually happened? Then, separately, at the story and the verdict you built upon it."
+        },
+        {
+          "hu": "Ismerd fel a saját hozzáadásodat: a jelentést, a bűntudatot, az elvárást, amelyet a másikra vetítettél.",
+          "en": "Recognize your own addition: the meaning, the guilt, the expectation you projected onto the other."
+        },
+        {
+          "hu": "Vond vissza: lásd be, hogy a békéd ott veszett el, ahol te ítéletet hoztál — nem ott, ahol az esemény történt.",
+          "en": "Withdraw it: see that your peace was lost where you passed the verdict — not where the event took place."
+        },
+        {
+          "hu": "Engedd el mindkettőtöket: kívánj a másiknak jót a saját szavaiddal. Ha ez még túl korai, elég a hajlandóság hajlandósága is — annyi, hogy szeretnél majd egyszer elengedni.",
+          "en": "Release you both: wish the other well in your own words. If that is still too soon, the willingness to be willing is enough — simply that one day you would like to let go."
+        },
+        {
+          "hu": "Figyeld a tested: a váll, a gyomor, a lélegzet enyhülése az elengedés nyugtája.",
+          "en": "Watch your body: the easing of shoulders, stomach and breath is the receipt of release."
+        }
+      ],
+      "keret": {
+        "hu": "A megbocsátás itt nem a bántás helyeslése és nem felejtés: annak a tehernek a letétele, amelyet a hordozója cipel. Lélektani nyelven átkeretezés és neheztelés-feloldás — a fogva tartott mellett mindig az őr is a rácsnál áll. A mérce nem érzelmi csúcsélmény, hanem hogy könnyebb-e utána a nap.",
+        "en": "Forgiveness here is neither approval of the hurt nor forgetting: it is the laying down of a burden carried by its bearer. In psychological language, reframing and the dissolving of resentment — beside every prisoner the guard, too, stands at the bars. The measure is no emotional peak but whether the day is lighter afterwards."
+      },
+      "etika": {
+        "hu": "A megbocsátás sosem kötelez arra, hogy ártalomban maradj: a határ meghúzása, a jogsérelem jelzése és a védelem kérése mind összefér vele. Mély vagy traumatikus sebeken ne dolgozz egyedül — keresd szakember kíséretét.",
+        "en": "Forgiveness never obliges you to remain in harm's way: drawing a boundary, reporting a wrong and seeking protection are all compatible with it. Do not work on deep or traumatic wounds alone — seek a professional's accompaniment."
+      },
+      "sorszam": 4
     },
     {
-     "hu": "Hetek múltán bővíthetsz: időnként egy lélegzet helyett egy csendes perc — a fegyelem fokozatosan érkezik, sosem kényszerként.",
-     "en": "After some weeks you may widen it: now and then a quiet minute instead of one breath — discipline arrives gradually, never as coercion."
+      "id": "ac-dontsd-el-ujra",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "cim": {
+        "hu": "Döntsd el újra — szeretet vagy félelem",
+        "en": "Decide again — love or fear"
+      },
+      "cel": {
+        "hu": "Alan Cohen egyszerűsítő fogása a hétköznapokra: minden feszült pillanatban egyetlen kérdést feltenni — most a szeretet vagy a félelem beszél belőlem? — és a döntést tudatosan újra meghozni.",
+        "en": "Alan Cohen's simplifying device for everyday life: in every tense moment to ask a single question — is love or fear speaking in me right now? — and to make the decision consciously anew."
+      },
+      "modszer": [
+        {
+          "hu": "Amikor feszültséget, kapkodást vagy habozást veszel észre magadban, állj meg, és kérdezd meg: ebben a pillanatban melyik vezet — a szeretet vagy a félelem?",
+          "en": "When you notice tension, haste or hesitation in yourself, stop and ask: in this moment, which is leading — love or fear?"
+        },
+        {
+          "hu": "Ha a félelem, ne harcolj vele: nevezd meg pontosan, mitől tartasz. A megnevezett félelem már kisebb.",
+          "en": "If it is fear, do not fight it: name precisely what you are afraid of. A named fear is already smaller."
+        },
+        {
+          "hu": "Kérdezd meg: hogyan festene itt a szeretetteljes lépés — magad és a másik felé egyaránt?",
+          "en": "Ask: what would the loving step look like here — toward yourself and the other alike?"
+        },
+        {
+          "hu": "Tégy egyetlen kis lépést abba az irányba: egy mondat, egy hangnem, egy elhalasztott visszavágás is elég.",
+          "en": "Take one small step in that direction: a sentence, a tone of voice, a retort postponed is enough."
+        },
+        {
+          "hu": "Utána zsigeri próba: a béke és a világosság a jó irány jele; a sürgetés és a szorítás a régi vágányé.",
+          "en": "Afterwards, the gut test: peace and clarity mark the right direction; urgency and tightness mark the old track."
+        }
+      ],
+      "keret": {
+        "hu": "Ez a kétosztatú kérdés nem érzelemtan, hanem egyszerűsítő lencse a döntés pillanatára — a lélektan újraértékelésnek hívná. Nem kell hozzá elfogadnod a hagyomány világképét: elég kipróbálni, és a gyümölcsén mérni — szelídül-e tőle a napod.",
+        "en": "This twofold question is not a theory of emotion but a simplifying lens for the moment of choice — psychology would call it reappraisal. You need not accept the tradition's worldview: it is enough to try it and measure it by its fruit — whether your day grows gentler."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "ac-szent-pillanat",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "A szent pillanat megállása",
+        "en": "The pause of the holy instant"
+      },
+      "cel": {
+        "hu": "Rövid, teljes jelenlétű szünet a nap közepén: egy percre kilépni a múlt és a jövő forgalmából, és hagyni, hogy a most megmutassa magát — a hagyomány szavával a szent pillanatot meglátogatni.",
+        "en": "A brief, fully present pause in the middle of the day: stepping for one minute out of the traffic of past and future, letting the now show itself — in the tradition's word, visiting the holy instant."
+      },
+      "modszer": [
+        {
+          "hu": "A nap közepén állj meg egy percre: tedd le, ami a kezedben van, lágyítsd a tekinteted vagy csukd be a szemed.",
+          "en": "In the middle of the day stop for one minute: put down what is in your hands, soften your gaze or close your eyes."
+        },
+        {
+          "hu": "Erre az egy percre engedd el a múltat és a jövőt — most nincs mit megoldani, és nincs kinek lenned.",
+          "en": "For this one minute let past and future go — right now there is nothing to solve and no one you must be."
+        },
+        {
+          "hu": "Érzékeld a jelent a testeden át: a lélegzet, a súly, a hangok — ami éppen van, ahogy van.",
+          "en": "Sense the present through the body: the breath, the weight, the sounds — what is, as it is."
+        },
+        {
+          "hu": "Ha ítélet vagy aggodalom érkezik, hagyd elhaladni, mint az utcai forgalmat, és térj vissza az érzékeléshez.",
+          "en": "If a judgement or a worry arrives, let it pass like street traffic and return to sensing."
+        },
+        {
+          "hu": "Záráskor vigyél magaddal egyetlen cseppet ebből a csendből a következő teendődbe.",
+          "en": "As you close, carry a single drop of this stillness into your next task."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány azt tanítja, hogy a teljes jelenlét pillanatában az idő az időtlenre nyílik. * A józan olvasat is bőven elég ok a gyakorlásra: a félelem java része elővételezés — a jelen pillanatban ritkán van baj, és a figyelem ilyen újraindítása mérhetően nyugtat. A mérce: tisztább-e utána a következő órád. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The tradition teaches that in the moment of full presence, time opens onto the timeless. * The sober reading is reason enough to practise: most fear is anticipation — in the present moment there is rarely anything wrong, and such a restart of attention calms measurably. The measure: whether your next hour is clearer. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "ac-belso-vezeto",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A belső vezető megkérdezése",
+        "en": "Asking the inner guide"
+      },
+      "cel": {
+        "hu": "Döntés előtt csendes kérdést tenni befelé, és megtanulni várni a válaszra — majd azt, ami érkezik, a béke ismertetőjegyén megvizsgálni és józan ésszel mérlegelni.",
+        "en": "To put a quiet question inward before a decision and learn to wait for the answer — then to examine what comes by the mark of peace and weigh it with sober reason."
+      },
+      "modszer": [
+        {
+          "hu": "Fogalmazd meg a kérdést egyszerűen és őszintén — egyetlen mondatban, kertelés nélkül.",
+          "en": "Phrase the question simply and honestly — in a single sentence, without hedging."
+        },
+        {
+          "hu": "Ülj le csendben, csillapodj egy percig, majd tedd fel a kérdést befelé — követelés nélkül, ahogy egy megbízható barátnak tennéd.",
+          "en": "Sit quietly, settle for a minute, then put the question inward — without demand, as you would to a trusted friend."
+        },
+        {
+          "hu": "Várj erőltetés nélkül. A válasz jöhet gondolatként, képként, csendes hajlamként — vagy csak órákkal később, séta közben.",
+          "en": "Wait without forcing. The answer may come as a thought, an image, a quiet inclination — or only hours later, on a walk."
+        },
+        {
+          "hu": "Vizsgáld az ismertetőjegyeket: a jó tanácsot béke, világosság és szelídség kíséri; a sürgetés, a rémisztgetés és az „azonnal!” a félelem hangja.",
+          "en": "Examine the marks: good counsel is accompanied by peace, clarity and gentleness; urgency, alarm and \"right now!\" are the voice of fear."
+        },
+        {
+          "hu": "Amit kaptál, mérlegeld józan ésszel, egy tanácsként a többi között — a döntést felnőttként te hozod meg, tények és következmények ismeretében.",
+          "en": "Weigh what you received with sober reason, as one counsel among others — the decision you make as an adult, knowing the facts and the consequences."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány e belső hangot Szentléleknek, Belső Tanítónak nevezi, és valóságos vezetőnek tartja. * A józan olvasatban a csendes kérdezés a saját mélyebb tudásodhoz és értékeidhez nyit hozzáférést, amelyet a napi zaj rendesen elfed. Mindkét olvasatban ugyanaz a mérce: békét hoz-e, és beválik-e a gyümölcse. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The tradition calls this inner voice the Holy Spirit, the Inner Teacher, and holds it to be a real guide. * In the sober reading, quiet questioning opens access to your own deeper knowing and values, which the day's noise ordinarily covers. In both readings the measure is the same: whether it brings peace, and whether its fruit holds up. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "etika": {
+        "hu": "A belső válasz tanács, nem hatóság: orvosi, pénzügyi vagy jogi kérdésben tényekre és szakemberre van szükség, és belső hangra hivatkozva soha ne írd felül őket. Sürgető, félelemkeltő „útmutatást” ne kövess; akut krízisben azonnal fordulj szakemberhez.",
+        "en": "The inner answer is counsel, not authority: medical, financial and legal questions require facts and professionals, and you must never override them on the strength of an inner voice. Do not follow urgent, fear-driven \"guidance\"; in acute crisis turn to a professional at once."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "ac-serelem-leltar",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Sérelem-leltár és egy elengedés",
+        "en": "Grievance inventory and one release"
+      },
+      "cel": {
+        "hu": "Esténként őszintén megnézni, kit tartok még fogva a neheztelésemben — és minden este egyetlen foglyot szabadon engedni.",
+        "en": "To look honestly each evening at whom I still hold captive in my resentment — and each evening to set a single prisoner free."
+      },
+      "modszer": [
+        {
+          "hu": "Este, csendben fusd át a napodat és az életedet: hol rándul meg valami neheztelés? Kit tartok adósomnak?",
+          "en": "In the evening, in quiet, run through your day and your life: where does some resentment twitch? Whom do I hold in my debt?"
+        },
+        {
+          "hu": "Írj rövid listát, kommentár nélkül — nevek és egy-egy szó, semmi több.",
+          "en": "Write a short list, without commentary — names and a word each, nothing more."
+        },
+        {
+          "hu": "Válassz ki egyetlen tételt — a legkisebb is megteszi; a nagyokhoz ráérsz hetek múlva visszatérni.",
+          "en": "Choose a single item — the smallest will do; you can return to the big ones weeks from now."
+        },
+        {
+          "hu": "Nézd meg, mibe kerül neked a cipelése: az őr a fogolyhoz van kötözve, és a te válladat nyomja a lánc.",
+          "en": "Look at what carrying it costs you: the guard is bound to the prisoner, and it is your shoulder the chain weighs on."
+        },
+        {
+          "hu": "Engedd el a saját szavaiddal: kívánd, hogy a másik szabaduljon az ítéletedtől. Ha ez még nem megy, a puszta hajlandóság kimondása is elég ma estére.",
+          "en": "Release it in your own words: wish the other free of your verdict. If that is not yet possible, speaking the bare willingness is enough for tonight."
+        },
+        {
+          "hu": "Csukd be a füzetet: a többi tétel várhat egy másik estére — kis lépések, türelem.",
+          "en": "Close the notebook: the other items can wait for another evening — small steps, patience."
+        }
+      ],
+      "keret": {
+        "hu": "Rokona az esti számvetés régi gyakorlatainak: leltár, nem önostorozás. Lélektani nyelven a neheztelés lassú, adagolt feldolgozása — épp a fokozatosság teszi elviselhetővé és tartóssá. A mérce: csendesebb-e az elalvásod, és könnyebb-e a reggeled.",
+        "en": "A cousin of the old practices of evening reckoning: an inventory, not self-flagellation. In psychological language, the slow, dosed processing of resentment — it is the gradualness that makes it bearable and lasting. The measure: whether you fall asleep more quietly and wake more lightly."
+      },
+      "etika": {
+        "hu": "Ha egy seb mély vagy traumatikus, ne egyedül dolgozz rajta: keresd terapeuta kíséretét. Az elengedés belső munka — nem kötelez sem kapcsolatfelvételre, sem kibékülésre, és nem törli a határaidat.",
+        "en": "If a wound is deep or traumatic, do not work on it alone: seek a therapist's accompaniment. Release is inner work — it obliges you neither to make contact nor to reconcile, and it does not erase your boundaries."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "ac-szeretetet-tanitsd",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "A támadás mint segélykiáltás — szeretettel válaszolni",
+        "en": "Attack as a cry for help — answering with love"
+      },
+      "cel": {
+        "hu": "Egy valós helyzetben kipróbálni a hagyomány átkeretezését: a felém irányuló támadás mögött félelmet, a félelem mögött segélykérést meglátni — és a kérésre válaszolni, nem a felszínre.",
+        "en": "To try the tradition's reframe in a real situation: to see fear behind an attack aimed at me, and behind the fear a plea for help — and to answer the plea, not the surface."
+      },
+      "modszer": [
+        {
+          "hu": "Amikor valaki rád förmed vagy megtámad, először a saját reflexedet vedd észre: visszavágnál vagy elhúzódnál?",
+          "en": "When someone snaps at you or attacks, first notice your own reflex: would you strike back or withdraw?"
+        },
+        {
+          "hu": "Próbáld fel a hagyomány lencséjét: a támadás mögött félelem lapul, a félelem mögött kérés — figyelemre, biztonságra, arra, hogy számít.",
+          "en": "Try on the tradition's lens: behind the attack crouches fear, behind the fear a plea — for attention, for safety, for mattering."
+        },
+        {
+          "hu": "Válaszolj a kérésre, ne a felszínre: nyugodtan, de nem hagyva magad eltaposni — a határozott és a jóindulatú megfér egy mondatban.",
+          "en": "Answer the plea, not the surface: calmly, yet without letting yourself be trampled — firm and kind fit in one sentence."
+        },
+        {
+          "hu": "Ne feledd: az állapotoddal tanítasz, nem a szavaiddal — a megőrzött nyugalmad maga az üzenet.",
+          "en": "Remember: you teach with your state, not your words — your kept calm is itself the message."
+        },
+        {
+          "hu": "Utána jegyezd fel, mi változott benned — akárhogy viselkedett is a másik. A gyakorlat rajtad mér, nem rajta.",
+          "en": "Afterwards note what changed in you — however the other behaved. The practice measures you, not them."
+        }
+      ],
+      "keret": {
+        "hu": "A „támadás = szeretetért kiáltás” a hagyomány kerete; a lélektan feszültség-oldásnak és empatikus értelmezésnek hívná, amely gyakran megtöri a bántás körforgását. Nem szenteskedés és nem önfeladás: a jóindulat mellett a határ is a gyakorlat része. A mérce: ritkulnak-e az eszkalációk körülötted.",
+        "en": "\"Attack = a cry for love\" is the tradition's frame; psychology would call it de-escalation and empathic interpretation, which often breaks the cycle of hurt. It is neither piousness nor self-abandonment: alongside goodwill, the boundary is part of the practice. The measure: whether escalations grow rarer around you."
+      },
+      "etika": {
+        "hu": "A bántalmazás nem átkeretezési feladat. Erőszakos, fenyegető vagy rendszeresen megalázó helyzetben az első válasz a határ, a távolság és a segítségkérés — hatóság, szakember, segélyvonal. Az átkeretezés soha nem kötelez arra, hogy veszélyben maradj.",
+        "en": "Abuse is not a reframing exercise. In violent, threatening or systematically demeaning situations the first answer is boundary, distance and asking for help — authorities, professionals, helplines. Reframing never obliges you to remain in danger."
+      },
+      "sorszam": 9
+    },
+    {
+      "id": "ac-boldog-alom-nap",
+      "mester": "A csodák tanítása",
+      "szint": "mester",
+      "sik": "lelek",
+      "elem": "Eter",
+      "cim": {
+        "hu": "A boldog álom napja — egy nap tudatos átkeretezésben",
+        "en": "A day of the happy dream — one day in conscious reframing"
+      },
+      "cel": {
+        "hu": "Egyetlen teljes napot annak szentelni, hogy mindent, ami felzaklat, más szemmel próbálsz nézni — ugyanaz az élet, más fényben: a hagyomány ezt hívja boldog álomnak.",
+        "en": "To dedicate one full day to trying to see everything that upsets you with other eyes — the same life in another light: this is what the tradition calls the happy dream."
+      },
+      "modszer": [
+        {
+          "hu": "Reggel tűzd ki a nap szándékát a saját szavaiddal: ma mindenre, ami megzavar, keresek egy másik nézőpontot.",
+          "en": "In the morning set the day's intent in your own words: today, for everything that disturbs me, I will look for another way of seeing."
+        },
+        {
+          "hu": "Jelölj ki három-négy fix ellenőrzőpontot — étkezések, útra kelések —, ahol a szándékot megújítod.",
+          "en": "Mark out three or four fixed checkpoints — meals, setting out on a journey — where you renew the intent."
+        },
+        {
+          "hu": "Napközben minden zavar nyersanyag: kapd el a vetítést, döntsd el újra, halld meg a kérést a támadás mögött — azt a fogást használd, amelyik illik a helyzethez.",
+          "en": "Through the day every disturbance is raw material: catch the projection, decide again, hear the plea behind the attack — use whichever device fits the situation."
+        },
+        {
+          "hu": "A nagyobb választásoknál tedd fel a kettős kérdést: mit szolgál ez — a szeretet vagy a félelem ügyét? És mit remélek tőle valójában?",
+          "en": "At the larger choices ask the double question: what does this serve — the cause of love or of fear? And what do I actually hope to get from it?"
+        },
+        {
+          "hu": "Maradj két szinten egyszerre: nézheted a nap drámáit elvonuló képeknek, de cselekedj kézzelfogható jósággal — az igazság melegség nélkül sebez.",
+          "en": "Stay on two levels at once: you may view the day's dramas as passing pictures, but act with tangible kindness — truth without warmth wounds."
+        },
+        {
+          "hu": "Este nézz vissza: hol könnyebbült meg a nap? Írj le három ilyen pillanatot.",
+          "en": "In the evening look back: where did the day grow lighter? Write down three such moments."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány azt tartja, hogy amikor megváltoztatod, ahogyan nézel, megváltozik az is, amit látsz. * Józan olvasatban ez egy egész napos figyelem-kísérlet: nem a világot cseréled le, hanem az értelmezéseidet teszed próbára — és az esti három feljegyzés a mérőműszered. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The tradition holds that when you change how you look, what you see changes too. * In the sober reading this is a day-long attention experiment: you are not swapping the world but putting your interpretations to the test — and the three evening notes are your measuring instrument. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "sorszam": 10
+    },
+    {
+      "id": "ac-esti-atnezes",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Esti átnézés — a nap mérlege és a csoda-napló",
+        "en": "Evening review — the day's balance and the miracle journal"
+      },
+      "cel": {
+        "hu": "A nap leckéjének esti, ítélkezésmentes mérlege: hol dolgozott a gondolat, hol merült feledésbe — és a kis nézőpontváltások összegyűjtése egy csoda-naplóban.",
+        "en": "An evening, judgement-free balance of the day's lesson: where the thought worked, where it slipped into forgetting — and the gathering of the small shifts of view in a miracle journal."
+      },
+      "modszer": [
+        {
+          "hu": "Lefekvés előtt szánj néhány csendes percet a napra, és idézd fel még egyszer a nap gondolatát.",
+          "en": "Before bed give the day a few quiet minutes and recall the day's thought once more."
+        },
+        {
+          "hu": "Járd végig a napot ítélet nélkül: hol dolgozott a gondolat, hol felejtetted el — mindkettő adat, egyik sem vád.",
+          "en": "Walk through the day without verdict: where the thought worked, where you forgot it — both are data, neither is an accusation."
+        },
+        {
+          "hu": "Csoda-napló: írj le egy-három pillanatot, amikor a nézésed megfordult — egy ellágyulás, egy lenyelt visszavágás, egy váratlan béke.",
+          "en": "Miracle journal: write down one to three moments when your seeing turned — a softening, a retort left unspoken, an unexpected peace."
+        },
+        {
+          "hu": "Kihagyott nap vagy elfelejtett lecke után semmi önszidás: ugyanaz a lecke egyszerűen folytatódik holnap — lemaradás nincs.",
+          "en": "After a missed day or a forgotten lesson, no self-scolding: the same lesson simply continues tomorrow — there is no falling behind."
+        },
+        {
+          "hu": "Zárd a napot egy saját szavaiddal megfogalmazott jóindulatú mondattal, és engedd el az egészet.",
+          "en": "Close the day with a kindly sentence phrased in your own words, and let the whole of it go."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a nézőpont e megfordulását csodának nevezi, és valós hatóerőnek tartja. * A naplód azonban nem természetfeletti eseményeket gyűjt, hanem apró belső fordulatokat — és épp ezek adják a gyakorlás egyetlen becsületes bizonyítékát. A mérce: gyűlnek-e a bejegyzések, és csendesedik-e az estéd. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The tradition calls this turning of view a miracle and holds it to be a real operative power. * Your journal, however, collects no supernatural events, only small inner turnings — and precisely these are the practice's one honest evidence. The measure: whether the entries accumulate and your evenings grow quieter. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "sorszam": 11
+    },
+    {
+      "id": "ac-tanito-jellemvonasai",
+      "mester": "A csodák tanítása",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Fold",
+      "cim": {
+        "hu": "A tanító jellemvonásai — heti erény-fókusz",
+        "en": "The teacher's traits — a weekly virtue focus"
+      },
+      "cel": {
+        "hu": "A gyakorlást jellemmé érlelni: a Kézikönyv tanítói erényei közül — bizalom, becsületesség, türelem, szelídség, védtelenség, nyitottság — hetente egyet választani, és a hét minden napján abban gyakorolni.",
+        "en": "To ripen practice into character: choosing each week one of the Manual's virtues of a teacher — trust, honesty, patience, gentleness, defencelessness, open-mindedness — and practising in it every day of that week."
+      },
+      "modszer": [
+        {
+          "hu": "A hét elején válassz egyetlen erényt — például a bizalmat, a becsületességet vagy a türelmet.",
+          "en": "At the week's start choose a single virtue — trust, honesty or patience, for example."
+        },
+        {
+          "hu": "Első reggel fogalmazd meg a saját szavaiddal: hogyan fest ez az erény a te napjaidban, a te munkádban, a te kapcsolataidban?",
+          "en": "On the first morning phrase it in your own words: what does this virtue look like in your days, your work, your relationships?"
+        },
+        {
+          "hu": "Minden reggel kösd össze a nap gondolatával; minden este egyetlen sor: hol jelent meg, hol hiányzott?",
+          "en": "Each morning tie it to the day's thought; each evening a single line: where did it appear, where was it missing?"
+        },
+        {
+          "hu": "A becsületességet vedd teljességnek: azt figyeld, egyet mond-e a szavad, a tetted és a belső állapotod.",
+          "en": "Take honesty as wholeness: watch whether your word, your deed and your inner state say one and the same thing."
+        },
+        {
+          "hu": "A hét végén rövid mérleg, majd új erény — lassú körforgás hónapokon át, sietség nélkül.",
+          "en": "At the week's end a short balance, then a new virtue — a slow rotation over months, without hurry."
+        },
+        {
+          "hu": "A haladás egyetlen mérőműszere végig a belső béke: ahol hiányzik, ott van még gyakorolnivaló.",
+          "en": "Throughout, the sole gauge of progress is inner peace: where it is missing, there is still practising to do."
+        }
+      ],
+      "keret": {
+        "hu": "A Kézikönyv tanítón nem hivatást ért, hanem mindenkit, aki a saját békéjével tanít. Ez a gyakorlat rendkívülit nem állít: erénymunka, rokona az erényetikának és a bardoni lélek-nemesítésnek. A cél nem teljesítmény, hanem hogy amit gyakorolsz, lassan azzá váljon, aki vagy.",
+        "en": "By a teacher the Manual means no profession but anyone who teaches with their own peace. This practice claims nothing extraordinary: it is virtue work, kin to virtue ethics and to Bardon's ennobling of the soul. The aim is not performance, but that what you practise slowly becomes who you are."
+      },
+      "sorszam": 12
     }
-   ],
-   "keret": {
-    "hu": "A hagyomány szándékosan lazán indít, és csak lassan sűríti a ritmust, hogy a gyakorlás sose érződjön külső parancsnak. Mai nyelven szokás-fűzés: meglévő eseményekhez kötött mikro-emlékeztetők. A mérce nem a találati arány, hanem hogy egyenletesebb-e tőle a napod.",
-    "en": "The tradition deliberately starts loose and thickens the rhythm only slowly, so practice never feels like an outside command. In today's language, habit-stacking: micro-reminders tied to events already in your day. The measure is not your hit rate but whether your day grows steadier."
-   },
-   "sorszam": 2
-  },
-  {
-   "id": "ac-vetites-elkapasa",
-   "mester": "A csodák tanítása",
-   "szint": "kezdo",
-   "sik": "lelek",
-   "elem": "Viz",
-   "cim": {
-    "hu": "A vetítés elkapása — a zavar befelé fordítása",
-    "en": "Catching the projection — turning the disturbance inward"
-   },
-   "cel": {
-    "hu": "Megtanulni, hogy amikor odakint valami felzaklat, a tekintet egy pillanatra befelé forduljon: mit vetítek én erre a helyzetre — és mi az, ami valójában bennem vár rendezésre?",
-    "en": "To learn that when something out there upsets you, the gaze turns inward for a moment: what am I projecting onto this situation — and what is it in me that actually waits to be settled?"
-   },
-   "modszer": [
-    {
-     "hu": "Vedd észre a szúrást: valaki vagy valami odakint ingerel, sért, nyugtalanít.",
-     "en": "Notice the sting: someone or something out there irritates, offends, unsettles you."
-    },
-    {
-     "hu": "Állj meg egy lélegzetre, mielőtt a belső történet továbbpörögne.",
-     "en": "Pause for one breath before the inner story spins on."
-    },
-    {
-     "hu": "Kérdezd meg: mit mond ez a zavar arról, amit én hordozok — milyen félelmet, bűntudatot vagy elvárást vetítek most kifelé?",
-     "en": "Ask: what does this disturbance say about what I carry — what fear, guilt or expectation am I casting outward right now?"
-    },
-    {
-     "hu": "Nevezd meg őszintén, önostorozás nélkül — a cél a látás, nem az ítélet.",
-     "en": "Name it honestly, without self-flagellation — the aim is sight, not verdict."
-    },
-    {
-     "hu": "Segít egy kitöltős mondat a saját szavaiddal: „Lehet, hogy nem is X miatt vagyok feldúlt, hanem valami miatt, amit magamban hordok.” Olvasd el lassan, és ülj vele húsz másodpercet.",
-     "en": "A fill-in sentence in your own words helps: \"Perhaps I am not upset because of X at all, but because of something I carry in myself.\" Read it slowly and sit with it for twenty seconds."
-    },
-    {
-     "hu": "Zárd le szelíden: a vetítés visszavonása a megbocsátás első fele — a második felét ráérsz később gyakorolni.",
-     "en": "Close gently: withdrawing the projection is the first half of forgiveness — the second half can wait for later practice."
-    }
-   ],
-   "keret": {
-    "hu": "A hagyomány ennél tovább megy: azt állítja, hogy a látott világ egésze belülről vetített kép. * A gyakorlathoz azonban elég a józan olvasat: a keresztény szókincs ellenére ez egyetemes belső munka — a vetítés visszavonása, a kognitív átkeretezés és a bűntudat-feloldás lélektanból ismert mozdulatai. Nem helyettesít orvosi vagy pszichológiai ellátást; mély sebekkel szakemberrel dolgozz, akut krízisben pedig azonnal kérj segítséget. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-    "en": "The tradition goes further: it claims that the whole seen world is a picture projected from within. * For the practice, though, the sober reading suffices: despite the Christian vocabulary this is universal inner work — withdrawing projection, cognitive reframing and the resolving of guilt, moves well known to psychology. It does not replace medical or psychological care; work on deep wounds with a professional, and in acute crisis seek help at once. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
-   },
-   "sorszam": 3
-  },
-  {
-   "id": "ac-megbocsatas-lepesben",
-   "mester": "A csodák tanítása",
-   "szint": "halado",
-   "sik": "lelek",
-   "elem": "Viz",
-   "cim": {
-    "hu": "Megbocsátás-gyakorlat lépésben",
-    "en": "Forgiveness practice, step by step"
-   },
-   "cel": {
-    "hu": "A hagyomány megbocsátás-munkájának begyakorlása három mozdulatban: a sérelem felismerése, a rávetített többlet visszavonása, majd az elengedés — nem a bántás jóváhagyásaként, hanem a saját terhed letételeként.",
-    "en": "To train the tradition's forgiveness work in three movements: recognizing the grievance, withdrawing what was projected onto it, then releasing — not as approval of the hurt, but as the laying down of your own burden."
-   },
-   "modszer": [
-    {
-     "hu": "Válassz egyetlen valódi sérelmet — egy embert vagy eseményt, amely még mindig szúr, ha eszedbe jut.",
-     "en": "Choose one real grievance — a person or event that still stings when it comes to mind."
-    },
-    {
-     "hu": "Nézd meg először a puszta tényt: mi történt valójában? Majd külön a történetet és az ítéletet, amelyet te építettél rá.",
-     "en": "First look at the bare fact: what actually happened? Then, separately, at the story and the verdict you built upon it."
-    },
-    {
-     "hu": "Ismerd fel a saját hozzáadásodat: a jelentést, a bűntudatot, az elvárást, amelyet a másikra vetítettél.",
-     "en": "Recognize your own addition: the meaning, the guilt, the expectation you projected onto the other."
-    },
-    {
-     "hu": "Vond vissza: lásd be, hogy a békéd ott veszett el, ahol te ítéletet hoztál — nem ott, ahol az esemény történt.",
-     "en": "Withdraw it: see that your peace was lost where you passed the verdict — not where the event took place."
-    },
-    {
-     "hu": "Engedd el mindkettőtöket: kívánj a másiknak jót a saját szavaiddal. Ha ez még túl korai, elég a hajlandóság hajlandósága is — annyi, hogy szeretnél majd egyszer elengedni.",
-     "en": "Release you both: wish the other well in your own words. If that is still too soon, the willingness to be willing is enough — simply that one day you would like to let go."
-    },
-    {
-     "hu": "Figyeld a tested: a váll, a gyomor, a lélegzet enyhülése az elengedés nyugtája.",
-     "en": "Watch your body: the easing of shoulders, stomach and breath is the receipt of release."
-    }
-   ],
-   "keret": {
-    "hu": "A megbocsátás itt nem a bántás helyeslése és nem felejtés: annak a tehernek a letétele, amelyet a hordozója cipel. Lélektani nyelven átkeretezés és neheztelés-feloldás — a fogva tartott mellett mindig az őr is a rácsnál áll. A mérce nem érzelmi csúcsélmény, hanem hogy könnyebb-e utána a nap.",
-    "en": "Forgiveness here is neither approval of the hurt nor forgetting: it is the laying down of a burden carried by its bearer. In psychological language, reframing and the dissolving of resentment — beside every prisoner the guard, too, stands at the bars. The measure is no emotional peak but whether the day is lighter afterwards."
-   },
-   "etika": {
-    "hu": "A megbocsátás sosem kötelez arra, hogy ártalomban maradj: a határ meghúzása, a jogsérelem jelzése és a védelem kérése mind összefér vele. Mély vagy traumatikus sebeken ne dolgozz egyedül — keresd szakember kíséretét.",
-    "en": "Forgiveness never obliges you to remain in harm's way: drawing a boundary, reporting a wrong and seeking protection are all compatible with it. Do not work on deep or traumatic wounds alone — seek a professional's accompaniment."
-   },
-   "sorszam": 4
-  },
-  {
-   "id": "ac-dontsd-el-ujra",
-   "mester": "A csodák tanítása",
-   "szint": "kezdo",
-   "sik": "lelek",
-   "cim": {
-    "hu": "Döntsd el újra — szeretet vagy félelem",
-    "en": "Decide again — love or fear"
-   },
-   "cel": {
-    "hu": "Alan Cohen egyszerűsítő fogása a hétköznapokra: minden feszült pillanatban egyetlen kérdést feltenni — most a szeretet vagy a félelem beszél belőlem? — és a döntést tudatosan újra meghozni.",
-    "en": "Alan Cohen's simplifying device for everyday life: in every tense moment to ask a single question — is love or fear speaking in me right now? — and to make the decision consciously anew."
-   },
-   "modszer": [
-    {
-     "hu": "Amikor feszültséget, kapkodást vagy habozást veszel észre magadban, állj meg, és kérdezd meg: ebben a pillanatban melyik vezet — a szeretet vagy a félelem?",
-     "en": "When you notice tension, haste or hesitation in yourself, stop and ask: in this moment, which is leading — love or fear?"
-    },
-    {
-     "hu": "Ha a félelem, ne harcolj vele: nevezd meg pontosan, mitől tartasz. A megnevezett félelem már kisebb.",
-     "en": "If it is fear, do not fight it: name precisely what you are afraid of. A named fear is already smaller."
-    },
-    {
-     "hu": "Kérdezd meg: hogyan festene itt a szeretetteljes lépés — magad és a másik felé egyaránt?",
-     "en": "Ask: what would the loving step look like here — toward yourself and the other alike?"
-    },
-    {
-     "hu": "Tégy egyetlen kis lépést abba az irányba: egy mondat, egy hangnem, egy elhalasztott visszavágás is elég.",
-     "en": "Take one small step in that direction: a sentence, a tone of voice, a retort postponed is enough."
-    },
-    {
-     "hu": "Utána zsigeri próba: a béke és a világosság a jó irány jele; a sürgetés és a szorítás a régi vágányé.",
-     "en": "Afterwards, the gut test: peace and clarity mark the right direction; urgency and tightness mark the old track."
-    }
-   ],
-   "keret": {
-    "hu": "Ez a kétosztatú kérdés nem érzelemtan, hanem egyszerűsítő lencse a döntés pillanatára — a lélektan újraértékelésnek hívná. Nem kell hozzá elfogadnod a hagyomány világképét: elég kipróbálni, és a gyümölcsén mérni — szelídül-e tőle a napod.",
-    "en": "This twofold question is not a theory of emotion but a simplifying lens for the moment of choice — psychology would call it reappraisal. You need not accept the tradition's worldview: it is enough to try it and measure it by its fruit — whether your day grows gentler."
-   },
-   "sorszam": 5
-  },
-  {
-   "id": "ac-szent-pillanat",
-   "mester": "A csodák tanítása",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Eter",
-   "cim": {
-    "hu": "A szent pillanat megállása",
-    "en": "The pause of the holy instant"
-   },
-   "cel": {
-    "hu": "Rövid, teljes jelenlétű szünet a nap közepén: egy percre kilépni a múlt és a jövő forgalmából, és hagyni, hogy a most megmutassa magát — a hagyomány szavával a szent pillanatot meglátogatni.",
-    "en": "A brief, fully present pause in the middle of the day: stepping for one minute out of the traffic of past and future, letting the now show itself — in the tradition's word, visiting the holy instant."
-   },
-   "modszer": [
-    {
-     "hu": "A nap közepén állj meg egy percre: tedd le, ami a kezedben van, lágyítsd a tekinteted vagy csukd be a szemed.",
-     "en": "In the middle of the day stop for one minute: put down what is in your hands, soften your gaze or close your eyes."
-    },
-    {
-     "hu": "Erre az egy percre engedd el a múltat és a jövőt — most nincs mit megoldani, és nincs kinek lenned.",
-     "en": "For this one minute let past and future go — right now there is nothing to solve and no one you must be."
-    },
-    {
-     "hu": "Érzékeld a jelent a testeden át: a lélegzet, a súly, a hangok — ami éppen van, ahogy van.",
-     "en": "Sense the present through the body: the breath, the weight, the sounds — what is, as it is."
-    },
-    {
-     "hu": "Ha ítélet vagy aggodalom érkezik, hagyd elhaladni, mint az utcai forgalmat, és térj vissza az érzékeléshez.",
-     "en": "If a judgement or a worry arrives, let it pass like street traffic and return to sensing."
-    },
-    {
-     "hu": "Záráskor vigyél magaddal egyetlen cseppet ebből a csendből a következő teendődbe.",
-     "en": "As you close, carry a single drop of this stillness into your next task."
-    }
-   ],
-   "keret": {
-    "hu": "A hagyomány azt tanítja, hogy a teljes jelenlét pillanatában az idő az időtlenre nyílik. * A józan olvasat is bőven elég ok a gyakorlásra: a félelem java része elővételezés — a jelen pillanatban ritkán van baj, és a figyelem ilyen újraindítása mérhetően nyugtat. A mérce: tisztább-e utána a következő órád. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-    "en": "The tradition teaches that in the moment of full presence, time opens onto the timeless. * The sober reading is reason enough to practise: most fear is anticipation — in the present moment there is rarely anything wrong, and such a restart of attention calms measurably. The measure: whether your next hour is clearer. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
-   },
-   "sorszam": 6
-  },
-  {
-   "id": "ac-belso-vezeto",
-   "mester": "A csodák tanítása",
-   "szint": "halado",
-   "sik": "szellem",
-   "elem": "Levego",
-   "cim": {
-    "hu": "A belső vezető megkérdezése",
-    "en": "Asking the inner guide"
-   },
-   "cel": {
-    "hu": "Döntés előtt csendes kérdést tenni befelé, és megtanulni várni a válaszra — majd azt, ami érkezik, a béke ismertetőjegyén megvizsgálni és józan ésszel mérlegelni.",
-    "en": "To put a quiet question inward before a decision and learn to wait for the answer — then to examine what comes by the mark of peace and weigh it with sober reason."
-   },
-   "modszer": [
-    {
-     "hu": "Fogalmazd meg a kérdést egyszerűen és őszintén — egyetlen mondatban, kertelés nélkül.",
-     "en": "Phrase the question simply and honestly — in a single sentence, without hedging."
-    },
-    {
-     "hu": "Ülj le csendben, csillapodj egy percig, majd tedd fel a kérdést befelé — követelés nélkül, ahogy egy megbízható barátnak tennéd.",
-     "en": "Sit quietly, settle for a minute, then put the question inward — without demand, as you would to a trusted friend."
-    },
-    {
-     "hu": "Várj erőltetés nélkül. A válasz jöhet gondolatként, képként, csendes hajlamként — vagy csak órákkal később, séta közben.",
-     "en": "Wait without forcing. The answer may come as a thought, an image, a quiet inclination — or only hours later, on a walk."
-    },
-    {
-     "hu": "Vizsgáld az ismertetőjegyeket: a jó tanácsot béke, világosság és szelídség kíséri; a sürgetés, a rémisztgetés és az „azonnal!” a félelem hangja.",
-     "en": "Examine the marks: good counsel is accompanied by peace, clarity and gentleness; urgency, alarm and \"right now!\" are the voice of fear."
-    },
-    {
-     "hu": "Amit kaptál, mérlegeld józan ésszel, egy tanácsként a többi között — a döntést felnőttként te hozod meg, tények és következmények ismeretében.",
-     "en": "Weigh what you received with sober reason, as one counsel among others — the decision you make as an adult, knowing the facts and the consequences."
-    }
-   ],
-   "keret": {
-    "hu": "A hagyomány e belső hangot Szentléleknek, Belső Tanítónak nevezi, és valóságos vezetőnek tartja. * A józan olvasatban a csendes kérdezés a saját mélyebb tudásodhoz és értékeidhez nyit hozzáférést, amelyet a napi zaj rendesen elfed. Mindkét olvasatban ugyanaz a mérce: békét hoz-e, és beválik-e a gyümölcse. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-    "en": "The tradition calls this inner voice the Holy Spirit, the Inner Teacher, and holds it to be a real guide. * In the sober reading, quiet questioning opens access to your own deeper knowing and values, which the day's noise ordinarily covers. In both readings the measure is the same: whether it brings peace, and whether its fruit holds up. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
-   },
-   "etika": {
-    "hu": "A belső válasz tanács, nem hatóság: orvosi, pénzügyi vagy jogi kérdésben tényekre és szakemberre van szükség, és belső hangra hivatkozva soha ne írd felül őket. Sürgető, félelemkeltő „útmutatást” ne kövess; akut krízisben azonnal fordulj szakemberhez.",
-    "en": "The inner answer is counsel, not authority: medical, financial and legal questions require facts and professionals, and you must never override them on the strength of an inner voice. Do not follow urgent, fear-driven \"guidance\"; in acute crisis turn to a professional at once."
-   },
-   "sorszam": 7
-  },
-  {
-   "id": "ac-serelem-leltar",
-   "mester": "A csodák tanítása",
-   "szint": "halado",
-   "sik": "lelek",
-   "elem": "Fold",
-   "cim": {
-    "hu": "Sérelem-leltár és egy elengedés",
-    "en": "Grievance inventory and one release"
-   },
-   "cel": {
-    "hu": "Esténként őszintén megnézni, kit tartok még fogva a neheztelésemben — és minden este egyetlen foglyot szabadon engedni.",
-    "en": "To look honestly each evening at whom I still hold captive in my resentment — and each evening to set a single prisoner free."
-   },
-   "modszer": [
-    {
-     "hu": "Este, csendben fusd át a napodat és az életedet: hol rándul meg valami neheztelés? Kit tartok adósomnak?",
-     "en": "In the evening, in quiet, run through your day and your life: where does some resentment twitch? Whom do I hold in my debt?"
-    },
-    {
-     "hu": "Írj rövid listát, kommentár nélkül — nevek és egy-egy szó, semmi több.",
-     "en": "Write a short list, without commentary — names and a word each, nothing more."
-    },
-    {
-     "hu": "Válassz ki egyetlen tételt — a legkisebb is megteszi; a nagyokhoz ráérsz hetek múlva visszatérni.",
-     "en": "Choose a single item — the smallest will do; you can return to the big ones weeks from now."
-    },
-    {
-     "hu": "Nézd meg, mibe kerül neked a cipelése: az őr a fogolyhoz van kötözve, és a te válladat nyomja a lánc.",
-     "en": "Look at what carrying it costs you: the guard is bound to the prisoner, and it is your shoulder the chain weighs on."
-    },
-    {
-     "hu": "Engedd el a saját szavaiddal: kívánd, hogy a másik szabaduljon az ítéletedtől. Ha ez még nem megy, a puszta hajlandóság kimondása is elég ma estére.",
-     "en": "Release it in your own words: wish the other free of your verdict. If that is not yet possible, speaking the bare willingness is enough for tonight."
-    },
-    {
-     "hu": "Csukd be a füzetet: a többi tétel várhat egy másik estére — kis lépések, türelem.",
-     "en": "Close the notebook: the other items can wait for another evening — small steps, patience."
-    }
-   ],
-   "keret": {
-    "hu": "Rokona az esti számvetés régi gyakorlatainak: leltár, nem önostorozás. Lélektani nyelven a neheztelés lassú, adagolt feldolgozása — épp a fokozatosság teszi elviselhetővé és tartóssá. A mérce: csendesebb-e az elalvásod, és könnyebb-e a reggeled.",
-    "en": "A cousin of the old practices of evening reckoning: an inventory, not self-flagellation. In psychological language, the slow, dosed processing of resentment — it is the gradualness that makes it bearable and lasting. The measure: whether you fall asleep more quietly and wake more lightly."
-   },
-   "etika": {
-    "hu": "Ha egy seb mély vagy traumatikus, ne egyedül dolgozz rajta: keresd terapeuta kíséretét. Az elengedés belső munka — nem kötelez sem kapcsolatfelvételre, sem kibékülésre, és nem törli a határaidat.",
-    "en": "If a wound is deep or traumatic, do not work on it alone: seek a therapist's accompaniment. Release is inner work — it obliges you neither to make contact nor to reconcile, and it does not erase your boundaries."
-   },
-   "sorszam": 8
-  },
-  {
-   "id": "ac-szeretetet-tanitsd",
-   "mester": "A csodák tanítása",
-   "szint": "halado",
-   "sik": "lelek",
-   "elem": "Tuz",
-   "cim": {
-    "hu": "A támadás mint segélykiáltás — szeretettel válaszolni",
-    "en": "Attack as a cry for help — answering with love"
-   },
-   "cel": {
-    "hu": "Egy valós helyzetben kipróbálni a hagyomány átkeretezését: a felém irányuló támadás mögött félelmet, a félelem mögött segélykérést meglátni — és a kérésre válaszolni, nem a felszínre.",
-    "en": "To try the tradition's reframe in a real situation: to see fear behind an attack aimed at me, and behind the fear a plea for help — and to answer the plea, not the surface."
-   },
-   "modszer": [
-    {
-     "hu": "Amikor valaki rád förmed vagy megtámad, először a saját reflexedet vedd észre: visszavágnál vagy elhúzódnál?",
-     "en": "When someone snaps at you or attacks, first notice your own reflex: would you strike back or withdraw?"
-    },
-    {
-     "hu": "Próbáld fel a hagyomány lencséjét: a támadás mögött félelem lapul, a félelem mögött kérés — figyelemre, biztonságra, arra, hogy számít.",
-     "en": "Try on the tradition's lens: behind the attack crouches fear, behind the fear a plea — for attention, for safety, for mattering."
-    },
-    {
-     "hu": "Válaszolj a kérésre, ne a felszínre: nyugodtan, de nem hagyva magad eltaposni — a határozott és a jóindulatú megfér egy mondatban.",
-     "en": "Answer the plea, not the surface: calmly, yet without letting yourself be trampled — firm and kind fit in one sentence."
-    },
-    {
-     "hu": "Ne feledd: az állapotoddal tanítasz, nem a szavaiddal — a megőrzött nyugalmad maga az üzenet.",
-     "en": "Remember: you teach with your state, not your words — your kept calm is itself the message."
-    },
-    {
-     "hu": "Utána jegyezd fel, mi változott benned — akárhogy viselkedett is a másik. A gyakorlat rajtad mér, nem rajta.",
-     "en": "Afterwards note what changed in you — however the other behaved. The practice measures you, not them."
-    }
-   ],
-   "keret": {
-    "hu": "A „támadás = szeretetért kiáltás” a hagyomány kerete; a lélektan feszültség-oldásnak és empatikus értelmezésnek hívná, amely gyakran megtöri a bántás körforgását. Nem szenteskedés és nem önfeladás: a jóindulat mellett a határ is a gyakorlat része. A mérce: ritkulnak-e az eszkalációk körülötted.",
-    "en": "\"Attack = a cry for love\" is the tradition's frame; psychology would call it de-escalation and empathic interpretation, which often breaks the cycle of hurt. It is neither piousness nor self-abandonment: alongside goodwill, the boundary is part of the practice. The measure: whether escalations grow rarer around you."
-   },
-   "etika": {
-    "hu": "A bántalmazás nem átkeretezési feladat. Erőszakos, fenyegető vagy rendszeresen megalázó helyzetben az első válasz a határ, a távolság és a segítségkérés — hatóság, szakember, segélyvonal. Az átkeretezés soha nem kötelez arra, hogy veszélyben maradj.",
-    "en": "Abuse is not a reframing exercise. In violent, threatening or systematically demeaning situations the first answer is boundary, distance and asking for help — authorities, professionals, helplines. Reframing never obliges you to remain in danger."
-   },
-   "sorszam": 9
-  },
-  {
-   "id": "ac-boldog-alom-nap",
-   "mester": "A csodák tanítása",
-   "szint": "mester",
-   "sik": "lelek",
-   "elem": "Eter",
-   "cim": {
-    "hu": "A boldog álom napja — egy nap tudatos átkeretezésben",
-    "en": "A day of the happy dream — one day in conscious reframing"
-   },
-   "cel": {
-    "hu": "Egyetlen teljes napot annak szentelni, hogy mindent, ami felzaklat, más szemmel próbálsz nézni — ugyanaz az élet, más fényben: a hagyomány ezt hívja boldog álomnak.",
-    "en": "To dedicate one full day to trying to see everything that upsets you with other eyes — the same life in another light: this is what the tradition calls the happy dream."
-   },
-   "modszer": [
-    {
-     "hu": "Reggel tűzd ki a nap szándékát a saját szavaiddal: ma mindenre, ami megzavar, keresek egy másik nézőpontot.",
-     "en": "In the morning set the day's intent in your own words: today, for everything that disturbs me, I will look for another way of seeing."
-    },
-    {
-     "hu": "Jelölj ki három-négy fix ellenőrzőpontot — étkezések, útra kelések —, ahol a szándékot megújítod.",
-     "en": "Mark out three or four fixed checkpoints — meals, setting out on a journey — where you renew the intent."
-    },
-    {
-     "hu": "Napközben minden zavar nyersanyag: kapd el a vetítést, döntsd el újra, halld meg a kérést a támadás mögött — azt a fogást használd, amelyik illik a helyzethez.",
-     "en": "Through the day every disturbance is raw material: catch the projection, decide again, hear the plea behind the attack — use whichever device fits the situation."
-    },
-    {
-     "hu": "A nagyobb választásoknál tedd fel a kettős kérdést: mit szolgál ez — a szeretet vagy a félelem ügyét? És mit remélek tőle valójában?",
-     "en": "At the larger choices ask the double question: what does this serve — the cause of love or of fear? And what do I actually hope to get from it?"
-    },
-    {
-     "hu": "Maradj két szinten egyszerre: nézheted a nap drámáit elvonuló képeknek, de cselekedj kézzelfogható jósággal — az igazság melegség nélkül sebez.",
-     "en": "Stay on two levels at once: you may view the day's dramas as passing pictures, but act with tangible kindness — truth without warmth wounds."
-    },
-    {
-     "hu": "Este nézz vissza: hol könnyebbült meg a nap? Írj le három ilyen pillanatot.",
-     "en": "In the evening look back: where did the day grow lighter? Write down three such moments."
-    }
-   ],
-   "keret": {
-    "hu": "A hagyomány azt tartja, hogy amikor megváltoztatod, ahogyan nézel, megváltozik az is, amit látsz. * Józan olvasatban ez egy egész napos figyelem-kísérlet: nem a világot cseréled le, hanem az értelmezéseidet teszed próbára — és az esti három feljegyzés a mérőműszered. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-    "en": "The tradition holds that when you change how you look, what you see changes too. * In the sober reading this is a day-long attention experiment: you are not swapping the world but putting your interpretations to the test — and the three evening notes are your measuring instrument. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
-   },
-   "sorszam": 10
-  },
-  {
-   "id": "ac-esti-atnezes",
-   "mester": "A csodák tanítása",
-   "szint": "kezdo",
-   "sik": "lelek",
-   "elem": "Ido",
-   "cim": {
-    "hu": "Esti átnézés — a nap mérlege és a csoda-napló",
-    "en": "Evening review — the day's balance and the miracle journal"
-   },
-   "cel": {
-    "hu": "A nap leckéjének esti, ítélkezésmentes mérlege: hol dolgozott a gondolat, hol merült feledésbe — és a kis nézőpontváltások összegyűjtése egy csoda-naplóban.",
-    "en": "An evening, judgement-free balance of the day's lesson: where the thought worked, where it slipped into forgetting — and the gathering of the small shifts of view in a miracle journal."
-   },
-   "modszer": [
-    {
-     "hu": "Lefekvés előtt szánj néhány csendes percet a napra, és idézd fel még egyszer a nap gondolatát.",
-     "en": "Before bed give the day a few quiet minutes and recall the day's thought once more."
-    },
-    {
-     "hu": "Járd végig a napot ítélet nélkül: hol dolgozott a gondolat, hol felejtetted el — mindkettő adat, egyik sem vád.",
-     "en": "Walk through the day without verdict: where the thought worked, where you forgot it — both are data, neither is an accusation."
-    },
-    {
-     "hu": "Csoda-napló: írj le egy-három pillanatot, amikor a nézésed megfordult — egy ellágyulás, egy lenyelt visszavágás, egy váratlan béke.",
-     "en": "Miracle journal: write down one to three moments when your seeing turned — a softening, a retort left unspoken, an unexpected peace."
-    },
-    {
-     "hu": "Kihagyott nap vagy elfelejtett lecke után semmi önszidás: ugyanaz a lecke egyszerűen folytatódik holnap — lemaradás nincs.",
-     "en": "After a missed day or a forgotten lesson, no self-scolding: the same lesson simply continues tomorrow — there is no falling behind."
-    },
-    {
-     "hu": "Zárd a napot egy saját szavaiddal megfogalmazott jóindulatú mondattal, és engedd el az egészet.",
-     "en": "Close the day with a kindly sentence phrased in your own words, and let the whole of it go."
-    }
-   ],
-   "keret": {
-    "hu": "A hagyomány a nézőpont e megfordulását csodának nevezi, és valós hatóerőnek tartja. * A naplód azonban nem természetfeletti eseményeket gyűjt, hanem apró belső fordulatokat — és épp ezek adják a gyakorlás egyetlen becsületes bizonyítékát. A mérce: gyűlnek-e a bejegyzések, és csendesedik-e az estéd. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-    "en": "The tradition calls this turning of view a miracle and holds it to be a real operative power. * Your journal, however, collects no supernatural events, only small inner turnings — and precisely these are the practice's one honest evidence. The measure: whether the entries accumulate and your evenings grow quieter. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
-   },
-   "sorszam": 11
-  },
-  {
-   "id": "ac-tanito-jellemvonasai",
-   "mester": "A csodák tanítása",
-   "szint": "mester",
-   "sik": "szellem",
-   "elem": "Fold",
-   "cim": {
-    "hu": "A tanító jellemvonásai — heti erény-fókusz",
-    "en": "The teacher's traits — a weekly virtue focus"
-   },
-   "cel": {
-    "hu": "A gyakorlást jellemmé érlelni: a Kézikönyv tanítói erényei közül — bizalom, becsületesség, türelem, szelídség, védtelenség, nyitottság — hetente egyet választani, és a hét minden napján abban gyakorolni.",
-    "en": "To ripen practice into character: choosing each week one of the Manual's virtues of a teacher — trust, honesty, patience, gentleness, defencelessness, open-mindedness — and practising in it every day of that week."
-   },
-   "modszer": [
-    {
-     "hu": "A hét elején válassz egyetlen erényt — például a bizalmat, a becsületességet vagy a türelmet.",
-     "en": "At the week's start choose a single virtue — trust, honesty or patience, for example."
-    },
-    {
-     "hu": "Első reggel fogalmazd meg a saját szavaiddal: hogyan fest ez az erény a te napjaidban, a te munkádban, a te kapcsolataidban?",
-     "en": "On the first morning phrase it in your own words: what does this virtue look like in your days, your work, your relationships?"
-    },
-    {
-     "hu": "Minden reggel kösd össze a nap gondolatával; minden este egyetlen sor: hol jelent meg, hol hiányzott?",
-     "en": "Each morning tie it to the day's thought; each evening a single line: where did it appear, where was it missing?"
-    },
-    {
-     "hu": "A becsületességet vedd teljességnek: azt figyeld, egyet mond-e a szavad, a tetted és a belső állapotod.",
-     "en": "Take honesty as wholeness: watch whether your word, your deed and your inner state say one and the same thing."
-    },
-    {
-     "hu": "A hét végén rövid mérleg, majd új erény — lassú körforgás hónapokon át, sietség nélkül.",
-     "en": "At the week's end a short balance, then a new virtue — a slow rotation over months, without hurry."
-    },
-    {
-     "hu": "A haladás egyetlen mérőműszere végig a belső béke: ahol hiányzik, ott van még gyakorolnivaló.",
-     "en": "Throughout, the sole gauge of progress is inner peace: where it is missing, there is still practising to do."
-    }
-   ],
-   "keret": {
-    "hu": "A Kézikönyv tanítón nem hivatást ért, hanem mindenkit, aki a saját békéjével tanít. Ez a gyakorlat rendkívülit nem állít: erénymunka, rokona az erényetikának és a bardoni lélek-nemesítésnek. A cél nem teljesítmény, hanem hogy amit gyakorolsz, lassan azzá váljon, aki vagy.",
-    "en": "By a teacher the Manual means no profession but anyone who teaches with their own peace. This practice claims nothing extraordinary: it is virtue work, kin to virtue ethics and to Bardon's ennobling of the soul. The aim is not performance, but that what you practise slowly becomes who you are."
-   },
-   "sorszam": 12
-  }
- ]
+  ]
 }
