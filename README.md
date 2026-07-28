@@ -43,6 +43,8 @@ Install: copy a module's **raw** link below and paste it in the app
 | Astral Explorations — Guides, Jumps and Memory | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.explorations/module.json` |
 | Vadim Zeland — Reality Transurfing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/zeland.transurfing/module.json` |
 | Bashar — The Three Spheres (Epsilon, Epiphany, Eclipse) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/bashar.spheres/module.json` |
+| A Course in Miracles — the Course | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/acim.course/module.json` |
+| ACIM Made Easy — Cohen's Path | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/acim.easy/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
@@ -54,7 +56,7 @@ Existing items update by id; nothing is duplicated.
 
 | Bundle | Raw link |
 |---|---|
-| Everything (606 practices, 60 modules, 57 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
+| Everything (642 practices, 64 modules, 83 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
 
 ## Quote packs (Idézetek és titkok)
 
@@ -68,6 +70,7 @@ distillation ("… nyomán") or fresh renderings of public-domain sources.
 | Hermetikus bölcsességek (21) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/hermetika.json` |
 | A mesterek bölcsessége (20) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/mesterek.json` |
 | Asztrális bölcsességek (16) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/asztral.json` |
+| A csodák tanítása nyomán (14) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/quotes/acim.json` |
 
 ## Practice packs (Gyakorlat-tár)
 
@@ -75,7 +78,7 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
-Together these packs hold **606 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+Together these packs hold **642 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
 
 | Pack | Raw link |
 |---|---|
@@ -107,6 +110,7 @@ Together these packs hold **606 practices** (installed packs de-duplicate by id,
 | The dawn gate — practices (38) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-sid.json` |
 | The direct method — practices (57) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-direct.json` |
 | Astral explorations — practices (29) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/astral-explorations.json` |
+| A Course in Miracles — practices (12) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/practices/acim.json` |
 
 Pack format: `{ formatVersion, id, nevek{hu,en}, gyakorlatok:[…] }`, where each practice has
 `id, mester, szint (kezdo|halado|mester), sik (szellem|lelek|test|null),
