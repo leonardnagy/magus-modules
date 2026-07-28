@@ -42,6 +42,21 @@ MAX_CHARS_PER_REQUEST = 15_000      # xAI unary limit
 LANG_TAGS = {"hu": "hu", "en": "en"}
 
 
+def read_api_key() -> str | None:
+    """The key comes from the environment, or from ~/.xai_key — never from the
+    command line (which would leave it in the shell history) and never from the
+    repo (which would publish it)."""
+    env = os.environ.get("XAI_API_KEY")
+    if env and env.strip():
+        return env.strip()
+    key_file = Path.home() / ".xai_key"
+    if key_file.exists():
+        value = key_file.read_text().strip()
+        if value:
+            return value
+    return None
+
+
 def clean(text: str) -> str:
     """Mirror of the app's Felolvaso.tisztit(): drop the [FINE] footnote and
     markdown scaffolding, then join lines into sentences."""
@@ -172,12 +187,14 @@ def main():
         if not dirs or missing:
             raise SystemExit(f"no module.json for: {missing or '(nothing given)'}")
 
-    api_key = os.environ.get("XAI_API_KEY")
+    api_key = read_api_key()
     if not args.dry_run and not api_key:
         raise SystemExit(
-            "XAI_API_KEY is not set.\n"
-            "  export XAI_API_KEY=...   (get one at https://console.x.ai)\n"
-            "Run with --dry-run to see the character count and cost without a key."
+            "No xAI API key found. Either of these works:\n"
+            "  1. printf '%s' 'YOUR_KEY' > ~/.xai_key && chmod 600 ~/.xai_key\n"
+            "  2. export XAI_API_KEY=YOUR_KEY   (e.g. from ~/.zshrc)\n"
+            "Get a key at https://console.x.ai — run with --dry-run to see the\n"
+            "character count and cost without one."
         )
 
     chars = files = size = 0
