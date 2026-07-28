@@ -10,6 +10,7 @@
     "hu": "Az álmokon át vezető szelíd út: valóság-ellenőrzések, álomnapló-fegyelem, esti lecsendesedés, alváshigiénia — és az éber álom elmélyítése. A hagyomány saját belső térképe szerint tanítva, józan kerettel: a gyümölcs az álomfelidézés, a tudatosság és a pihentető alvás.",
     "en": "The gentle route through dreams: reality checks, dream-journal discipline, evening settling, sleep hygiene — and deepening the lucid state. Taught as the tradition's own inner map, with a sober frame: the fruits are dream recall, awareness and restful sleep."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.indirect/audio",
   "items": [
     {
       "id": "api-bevezetes",
@@ -298,7 +299,9 @@
         "en": "Weekly honest review"
       },
       "journalTemplate": {
-        "aspektusKeys": ["api-asp-jozan-onvizsgalat"],
+        "aspektusKeys": [
+          "api-asp-jozan-onvizsgalat"
+        ],
         "prompts": {
           "hu": "Hány reggel írtam az Álomnaplóba ezen a héten, és változott-e, mennyit idézek fel? — Hányszor végeztem átérzett valóság-ellenőrzést, és volt-e pillanat, amikor tényleg elbizonytalanodtam a válaszban? — Milyen visszatérő helyszín vagy alak rajzolódik ki az álmaimban? — Pihentetőbb-e az alvásom, mint a gyakorlat kezdete előtt? — Volt-e olyan élményem, amit hajlamos lennék többnek látni, mint ami — és mit mond erről a józan önvizsgálat? — Mit igazít ez a jövő hét gyakorlásán?",
           "en": "How many mornings did I write in the Dream Journal this week, and has the amount I recall changed? — How many felt reality checks did I do, and was there a moment when the answer genuinely wavered? — What recurring place or figure is emerging in my dreams? — Is my sleep more restful than before I began? — Was there an experience I am tempted to see as more than it was — and what does sober self-review say about it? — What does this adjust in next week's practice?"

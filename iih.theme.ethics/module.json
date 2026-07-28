@@ -10,6 +10,7 @@
     "hu": "Ez a modul a hermetikus képzés etikai alapjait és a mágikus napló módszerét dolgozza fel: az egyensúly törvényét, a titoktartást és a becsületes önmegfigyelést. Gyakorlati eszközöket ad — esti áttekintést, naplósablont, ellenőrzőlistát —, hogy a haladásodat ne érzésekre, hanem tárgyilagos feljegyzésekre építsd.",
     "en": "This module covers the ethical foundations of Hermetic training and the method of the magical diary: the law of equilibrium, discretion, and honest self-observation. It gives you practical tools — an evening review, a journal template, a checklist — so you build your progress on objective records rather than impressions."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.theme.ethics/audio",
   "items": [
     {
       "id": "iih-theme-ethics-foundation",
@@ -125,7 +126,9 @@
         "en": "Evening Review"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp-eth-honesty"],
+        "aspektusKeys": [
+          "iih-asp-eth-honesty"
+        ],
         "prompts": {
           "hu": "**Esti áttekintés — ___ (dátum).**\n\nMa ezt gyakoroltam: ___, időtartam: ___ perc.\n\nA gyakorlás minősége (1–5): ___, mert ___.\n\nAmi nem sikerült, szépítés nélkül: ___.\n\nA napom egy semleges megfigyelő szemével: ___.\n\nMa ezt vettem észre a jellememről: ___.\n\nHolnap ezen az egy dolgon változtatok: ___.",
           "en": "**Evening review — ___ (date).**\n\nToday I practised: ___, duration: ___ minutes.\n\nQuality of the practice (1–5): ___, because ___.\n\nWhat did not succeed, without embellishment: ___.\n\nMy day through the eyes of a neutral observer: ___.\n\nWhat I noticed about my character today: ___.\n\nTomorrow I will change this one thing: ___."

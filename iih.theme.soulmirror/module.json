@@ -10,6 +10,7 @@
     "hu": "A teljes lélektükör-módszer önálló elmélyülésként: könyörtelen önleltár, fekete és fehér tükör, elemek szerinti besorolás és a három intenzitási fokozat. A modul végigvezet a domináns hibák átalakításán autoszuggesztióval, akaraterővel és a figyelem tudatos átirányításával.",
     "en": "The complete soul-mirror method as a standalone deep-dive: ruthless self-inventory, black and white mirrors, sorting by element, and the three grades of intensity. The module walks you through transmuting dominant faults with autosuggestion, willpower, and the conscious redirection of attention."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.theme.soulmirror/audio",
   "items": [
     {
       "id": "iih-theme-soulmirror-method",
@@ -137,7 +138,9 @@
         "en": "Mirror Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp-sm-selfcontrol"],
+        "aspektusKeys": [
+          "iih-asp-sm-selfcontrol"
+        ],
         "prompts": {
           "hu": "**Napi tükörmunka**\n\nMa ezen a tulajdonságon dolgoztam: ___\n\nElem (tűz/levegő/víz/föld): ___ — Tükör (fekete/fehér): ___ — Fokozat (1–3): ___\n\nHelyzet, amelyben ma megnyilvánult: ___\n\nÍgy reagáltam: ___\n\nAz ellentétes erény, amely felé alakítom: ___\n\nAlkalmazott módszer (autoszuggesztió / akaraterő / figyelem-átirányítás): ___\n\nMa elcsípett impulzusok száma: ___\n\nA holnapi legkisebb lépésem: ___",
           "en": "**Daily mirror work**\n\nToday I worked on this trait: ___\n\nElement (fire/air/water/earth): ___ — Mirror (black/white): ___ — Grade (1–3): ___\n\nSituation in which it showed itself today: ___\n\nHow I responded: ___\n\nThe opposing virtue I am shaping it toward: ___\n\nMethod used (autosuggestion / willpower / redirected attention): ___\n\nImpulses caught today: ___\n\nMy smallest step for tomorrow: ___"

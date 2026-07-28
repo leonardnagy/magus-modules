@@ -10,6 +10,7 @@
     "hu": "Gyakorlatsor Joe Dispenza „Válj természetfelettivé!” című könyve nyomán, saját szavainkkal újramesélve: gerinc menti lágy légzés, az energiaközpontok megáldása, szívkoherencia, a tágas jelen pillanat és a belső próba. A kvantummezős magyarázatot munkamodellként kezeljük, a gyakorlást a belső gyümölcsök — nyugalom, energia, jelenlét, nyitott szív — mérik. Nem orvosi tanács.",
     "en": "A practice cycle inspired by Joe Dispenza’s Becoming Supernatural, retold in our own words: gentle breath up the spine, blessing of the energy centers, heart coherence, the generous present moment and mental rehearsal. The quantum-field narrative is treated as a working model, and practice is measured by its inner fruits — calm, energy, presence, an open heart. Not medical advice."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.supernatural/audio",
   "items": [
     {
       "id": "ds-intro",
@@ -376,7 +377,9 @@
         "en": "Journal template — measuring the inner fruits"
       },
       "journalTemplate": {
-        "aspektusKeys": ["ds-asp-jelenlet"],
+        "aspektusKeys": [
+          "ds-asp-jelenlet"
+        ],
         "prompts": {
           "hu": "Melyik gyakorlatot végeztem ma, és mennyi ideig? — Mennyire maradt lágy a légzés (1–5), és volt-e bármi kellemetlen testérzet? — Milyen emelkedett érzés jött el, és mennyire volt őszinte? — A belső gyümölcsök ma (1–5): nyugalom, energia, jelenlét, a szív nyitottsága. — Hová vándorolt leggyakrabban a figyelmem? — Mit igazítok holnap: időpont, hossz, testtartás, hozzáállás?",
           "en": "Which practice did I do today, and for how long? — How gentle did the breath stay (1–5), and was there any unpleasant bodily sensation? — What elevated feeling arrived, and how sincere was it? — Today’s inner fruits (1–5): calm, energy, presence, openness of heart. — Where did my attention wander most often? — What will I adjust tomorrow: time, length, posture, attitude?"

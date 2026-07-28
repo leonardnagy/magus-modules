@@ -10,6 +10,7 @@
     "hu": "Mit tegyünk a belső élményen belül? Ez a modul a hagyomány válaszát tanulja becsületes kerettel: találkozás a belső vezetőkkel, a kvantumugrás-vizualizáció, a nem-fizikai emlékezet erősítése és a napi gyakorlat ritmusa. A hagyomány a tudat testen kívüli utazásáról beszél; egy ugyanilyen becsületes párhuzamos lencse élénk hipnagóg és éber-tudatos állapotokat lát. A gyakorlatot belső gyümölcsei mérik — álomfelidézés, tisztaság, pihentség, a belső élmény mélysége —, sohasem szó szerinti tényként állítjuk, és sohasem ígérjük. A benyomások belső élmények: nem ellenőrzött információk, és soha nem alapjai valós döntéseknek. Nem orvosi tanács és nem terápia.",
     "en": "What do we do within the inner experience? This module studies the tradition's answer with an honest frame: meeting the inner guides, the quantum-jump visualization, strengthening non-physical memory, and the rhythm of daily practice. The tradition speaks of consciousness travelling beyond the body; an equally honest parallel lens sees vivid hypnagogic and lucid states of consciousness. The practice is measured by its inner fruits — dream recall, clarity, restfulness, the depth of inner experience — never asserted as literal fact, never promised. Impressions are inner experience: not verified information, and never a basis for real decisions. Not medical advice and not therapy."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.explorations/audio",
   "items": [
     {
       "id": "ape-md-intro",
@@ -329,7 +330,9 @@
         "en": "The Explorer's Journal"
       },
       "journalTemplate": {
-        "aspektusKeys": ["ape-asp-discernment"],
+        "aspektusKeys": [
+          "ape-asp-discernment"
+        ],
         "prompts": {
           "hu": "GYAKORLAT — Melyik úton indultam ma (álomból, ébredésből, mélyellazulásból, kvantumugrás, reggeli felidézés)? ___\n\nÁLLAPOT — Milyen mély volt az ellazulás, és meddig maradt éber a figyelem? ___\n\nBENYOMÁS — Milyen kép, alak, hang vagy jelenet támadt? (Írd le ítélet és magyarázat nélkül.) ___\n\nTALÁLKOZÁS — Ha alak jelent meg: mit kérdeztem, mit „válaszolt”? Mindkét lencsén át nézve mit jelenthet nekem? ___\n\nMEGKÜLÖNBÖZTETÉS — Hordozott-e a benyomás vágyat, félelmet, parancsot vagy jóslatot? Mit teszek félre, és mit tartok meg elmélkedésre? ___\n\nGYÜMÖLCS — Javult-e az álomfelidézésem, a nyugalmam, a pihentségem? ___\n\nBIZTONSÁG — Sértetlen maradt-e az alvásom, és minden a béke felé vitt-e? (Ha nem — mit változtatok, kihez fordulok?) ___",
           "en": "PRACTICE — Which route did I take today (from a dream, from awakening, from deep relaxation, quantum jump, morning recall)? ___\n\nSTATE — How deep was the relaxation, and how long did attention stay awake? ___\n\nIMPRESSION — What image, figure, sound or scene arose? (Describe it without judgment or explanation.) ___\n\nMEETING — If a figure appeared: what did I ask, what did it „answer”? Seen through both lenses, what might it mean for me? ___\n\nDISCERNMENT — Did the impression carry desire, fear, command or prophecy? What do I set aside, and what do I keep for reflection? ___\n\nFRUIT — Has my dream recall, my calm, my restfulness improved? ___\n\nSAFETY — Did my sleep stay intact, and did everything lead toward peace? (If not — what do I change, whom do I turn to?) ___"

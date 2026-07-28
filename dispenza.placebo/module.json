@@ -10,6 +10,7 @@
     "hu": "Gyakorlati modul Joe Dispenza hiedelem-átalakító meditációs módszeréhez: mentális próba, emelkedett érzelem és tiszta szándék párosítása. A modul Dispenza saját modelljeként mutatja be a tanítást, és a belső gyümölcsökkel — hangulat, szokások, szemlélet — méri a haladást. Nem orvosi kezelés, és nem helyettesíti azt.",
     "en": "A practical module on Joe Dispenza’s belief-change meditation method: mental rehearsal and elevated emotion paired with clear intention. The teaching is presented as Dispenza’s own model, and progress is measured by inner fruits — mood, habits, outlook. This is not medical treatment and never replaces it."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.placebo/audio",
   "items": [
     {
       "id": "dp-intro",
@@ -364,7 +365,11 @@
         "en": "Diary of Inner Fruits"
       },
       "journalTemplate": {
-        "aspektusKeys": ["dp-asp-jelenlet", "dp-asp-emelkedett-erzelem", "dp-asp-onmegfigyeles"],
+        "aspektusKeys": [
+          "dp-asp-jelenlet",
+          "dp-asp-emelkedett-erzelem",
+          "dp-asp-onmegfigyeles"
+        ],
         "prompts": {
           "hu": "Melyik hiedelmen dolgoztam ma, és milyen mély volt a döntésem? Mennyire sikerült a jelenben maradnom — hányszor kalandozott el a figyelmem, és milyen könnyen tért vissza? Milyen érzelmi állapotban keltem fel a meditációból, és különbözött-e attól, ahogyan leültem? Milyen belső gyümölcsöt figyeltem meg ma: hangulat, szokások, szemlélet, kitartás? (A gyakorlat a kezelésem mellett fut; gyógyszert, kezelést csak orvosommal módosítok.)",
           "en": "Which belief did I work on today, and how deep was my decision? How well did I stay in the present — how often did attention wander, and how easily did it return? In what emotional state did I rise from the meditation, and did it differ from how I sat down? What inner fruit did I observe today: mood, habits, outlook, perseverance? (The practice runs alongside my treatment; I change medication or treatment only with my doctor.)"

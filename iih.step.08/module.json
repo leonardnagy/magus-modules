@@ -10,6 +10,7 @@
     "hu": "A nyolcadik lépés a mentális vándorlást — a tudat testtől független áthelyezését —, az örök Most derűs jelen-tudatát és a két egyetemes fluidum, az elektromos és a mágneses uralmát tanítja. A fizikai munka a fluidkondenzátorok és a mágikus tükör céltudatos, töltött használata. Ajánlott időtartam: 3–6+ hónap.",
     "en": "The eighth step teaches mental wandering — the transfer of consciousness independent of the body —, the serene present-awareness of the eternal Now, and the mastery of the two universal fluids, the electric and the magnetic. The physical work is the purposeful, charged use of fluid condensers and the magic mirror. Recommended duration: 3–6+ months."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.08/audio",
   "items": [
     {
       "id": "iih-step-08-md-intro",
@@ -209,7 +210,9 @@
         "en": "Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp8-greatnow"],
+        "aspektusKeys": [
+          "iih-asp8-greatnow"
+        ],
         "prompts": {
           "hu": "SZELLEM — mentális vándorlás: ___ perc. Hová helyeztem a tudatomat: ___. Az ellenőrzés eredménye (pontos / eltérés): ___.\n\nLÉLEK — az örök Most: ___ perc, nyugalom (1–10): ___. Fluidum-munka (elektromos / mágneses): ___, érzete: ___.\n\nTEST — kondenzátor / tükör: ___. Cél és tapasztalat: ___.\n\nFELISMERÉS — a mai nap tanítása: ___",
           "en": "SPIRIT — mental wandering: ___ min. Where I placed my awareness: ___. Verification result (accurate / deviation): ___.\n\nSOUL — the eternal Now: ___ min, calm (1–10): ___. Fluid work (electric / magnetic): ___, its feel: ___.\n\nBODY — condenser / mirror: ___. Purpose and experience: ___.\n\nINSIGHT — today's lesson: ___"

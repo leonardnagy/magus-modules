@@ -10,6 +10,7 @@
     "hu": "Az ötödik lépés a tér mágiáját nyitja meg: a tudatodat a tested középpontjába vonod össze, az elemeket erőteljesen kivetíted a térbe és a tárgyakba, és óvatos, ellenőrzött kapcsolatot építesz a szellemi vezetőddel. Mindhárom sík a negyedik lépés becsületes uralmára épül, az ítélőképesség pedig végig a legfőbb védelmed.\n\nAjánlott időtartam: 1–3+ hónap.",
     "en": "The fifth step opens the magic of space: you gather your consciousness into the center of your body, powerfully project the elements into space and objects, and build a careful, tested connection with your spiritual guide. All three planes rest on the honest mastery of Step Four, and discernment remains your chief protection throughout.\n\nRecommended duration: 1–3+ months."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.05/audio",
   "items": [
     {
       "id": "iih-step-05-md-intro",
@@ -185,7 +186,9 @@
         "en": "Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp5-discernment"],
+        "aspektusKeys": [
+          "iih-asp5-discernment"
+        ],
         "prompts": {
           "hu": "SZELLEM — Mélypont-meditáció: ___ perc. A tudatom a középpontban: ___ (szilárd / ingadozó / szétszóródó).\n\nLÉLEK — Kivetített elem: ___, iránya: ___ (térbe / tárgyba). A kisugárzás érzete és erőssége: ___.\n\nTEST — Levitáció / mediális írás ma: ___. A vezető jelenlétének jele — és ahogyan ellenőriztem: ___.\n\nFELISMERÉS — Ma ezt különböztettem meg valódi benyomásként a fantáziától: ___.",
           "en": "SPIRIT — Depth-point meditation: ___ min. My awareness in the center was: ___ (steady / wavering / scattered).\n\nSOUL — Element projected: ___, direction: ___ (into space / into an object). Felt quality and strength of the radiation: ___.\n\nBODY — Levitation / mediumistic writing today: ___. Sign of the guide's presence — and how I tested it: ___.\n\nINSIGHT — Today I distinguished this as genuine impression rather than fantasy: ___."

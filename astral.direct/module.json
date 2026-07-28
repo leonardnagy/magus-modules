@@ -10,6 +10,7 @@
     "hu": "Az ébren végzett belépés hagyományos protokollja: előkészület, nyújtás, energiagyakorlat, testhelyzet, feszítés–elengedés, cél és szándék, gyengéd légzőmunka, alvó test – éber elme, a mély csend, a küszöbjelenségek, stabilizálás, felfedezés és naplózás. A hagyomány saját nyelvén tanítjuk, egy párhuzamos, józan lencsével együtt: mindez az elalvás határán megjelenő, élénk hipnagóg és tudatos belső állapotok művelése. A gyümölcsöket belül mérjük — pihentség, álomfelidézés, éberség, a belső élmény mélysége —, ígéretek nélkül.",
     "en": "The tradition's protocol for entering from full wakefulness: preparation, stretching, energy work, posture, tense-and-release, goal and intention, gentle breathwork, body asleep – mind aware, the deep quiet, threshold phenomena, stabilising, exploring and journaling. Taught in the tradition's own language alongside a parallel, sober lens: this is the cultivation of vivid hypnagogic and lucid states of consciousness at the edge of sleep. The fruits are measured within — restfulness, dream recall, lucidity, depth of inner experience — with no promises attached."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.direct/audio",
   "items": [
     {
       "id": "apd-bevezetes",
@@ -312,7 +313,9 @@
         "en": "Threshold Journal"
       },
       "journalTemplate": {
-        "aspektusKeys": ["apd-asp-jozan-lejegyzes"],
+        "aspektusKeys": [
+          "apd-asp-jozan-lejegyzes"
+        ],
         "prompts": {
           "hu": "Előbb vázlatosan a fő pontok, aztán a részletek. — Mikor és milyen állapotban kezdtem? Meddig maradtam éber, hol vesztettem el a fonalat? Milyen mélyre jutottam: testtudat halványulása, mély csend, jelenségek (hangok, fények, mozgásérzet, vibráció)? Hogyan reagáltam rájuk — nyugalommal, ijedtséggel, izgalommal? Ha élmény nyílt, mit tettem a stabilizálásért, és hűen jegyzem-e le, túlzás nélkül? Mit mond a józan mérce: pihentebb, derűsebb, tisztább lettem-e? Mit változtatok legközelebb — egyetlen dolgot?",
           "en": "Bullet points of the main events first, details after. — When did I start and in what state? How long did I stay aware, where did I lose the thread? How deep did I go: fading body-sense, deep quiet, phenomena (sounds, lights, motion-feel, vibrations)? How did I respond — with calm, fright, excitement? If an experience opened, what did I do to stabilise it, and am I recording it faithfully, without embellishment? What does the sober measure say: am I more rested, brighter, clearer? What single thing will I change next time?"

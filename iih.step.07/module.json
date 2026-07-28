@@ -10,6 +10,7 @@
     "hu": "A hetedik lépés a szellem elemi működéseinek elemzését, az asztrális érzékek — tisztánlátás, tisztánhallás, tisztánérzés — fokozatos kifejlesztését és az elementárok felelős megalkotását tanítja. Minden észlelést a valósággal kell összevetned: ezen a lépésen a józanság többet ér a látomásnál. Ajánlott időtartam: 2–6+ hónap.",
     "en": "The seventh step teaches the analysis of the spirit's elemental functions, the gradual development of the astral senses — clairvoyance, clairaudience and clairsentience — and the responsible creation of elementaries. Every perception must be tested against reality: on this step sobriety is worth more than vision. Recommended duration: 2–6+ months."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.07/audio",
   "items": [
     {
       "id": "iih-step-07-md-intro",
@@ -185,7 +186,9 @@
         "en": "Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp7-objectivity"],
+        "aspektusKeys": [
+          "iih-asp7-objectivity"
+        ],
         "prompts": {
           "hu": "SZELLEM — elemi önelemzés: ___ perc. Ma ezt a működést értem tetten (akarat / értelem / érzés / tudat): ___, ebben a helyzetben: ___.\n\nLÉLEK — érzékgyakorlat (látás / hallás / érzés): ___ perc. Benyomás: ___. Valóság-próba eredménye: ___.\n\nTEST — elementár-munka: módszer: ___, a lény feladata: ___, töltés / feloldás: ___.\n\nFELISMERÉS — ma itt kísértett az önámítás, és így feleltem rá: ___.",
           "en": "SPIRIT — elemental self-analysis: ___ min. Today I caught this function at work (will / intellect / feeling / consciousness): ___, in this situation: ___.\n\nSOUL — sense exercise (seeing / hearing / feeling): ___ min. Impression: ___. Result of the reality check: ___.\n\nBODY — elementary work: method: ___, the being's task: ___, charging / dissolution: ___.\n\nINSIGHT — self-deception tempted me here today, and I answered it thus: ___."

@@ -10,6 +10,7 @@
     "hu": "A harmadik lépés a többérzékes képzeletet, a négy elem asztráltesti uralmát és a szerv-légzést tanítja. Innen már nem csupán megfigyelsz, hanem tudatosan formálsz — a szellemi, lelki és testi munka egyszerre halad. Ajánlott időtartam: 4–10+ hét.",
     "en": "The third step trains simultaneous multi-sense imagination, command of the four elements within the astral body, and organ breathing. From here you no longer merely observe — you consciously shape, and the mental, astral and physical work advance together. Recommended duration: 4–10+ weeks."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.03/audio",
   "items": [
     {
       "id": "iih-step-03-md-intro",
@@ -209,7 +210,9 @@
         "en": "Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp3-equanimity"],
+        "aspektusKeys": [
+          "iih-asp3-equanimity"
+        ],
         "prompts": {
           "hu": "SZELLEM — többérzékes képzelet: ___ perc megszakítás nélkül. Tárgy/jelenet: ___. Bevont érzékek: ___.\n\nLÉLEK — elem: ___. Előhívás: ___ (az érzet erőssége), feloldás: ___ (visszatértem-e a nullára?).\n\nTEST — szerv-légzés: szerv: ___, ___ lélegzet. Érzet a szervben: ___.\n\nFELISMERÉS — ma ezt vettem észre magamon: ___",
           "en": "SPIRIT — multi-sense imagery: ___ minutes without a break. Object/scene: ___. Senses involved: ___.\n\nSOUL — element: ___. Production: ___ (strength of the sensation), dissolution: ___ (did I return to zero?).\n\nBODY — organ breathing: organ: ___, ___ breaths. Sensation in the organ: ___.\n\nINSIGHT — today I noticed this about myself: ___"

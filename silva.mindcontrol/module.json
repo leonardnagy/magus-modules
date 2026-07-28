@@ -10,6 +10,7 @@
     "hu": "José Silva módszerének naplóbarát iskolája: alfa-szintű ellazulás, belső képernyő, hármujj-technika, gyorstanulás, álom-munka és szokásformálás – saját megfogalmazásban, őszinte kerettel és józan határokkal. Nem orvosi módszer; kizárólag önmagadon végzett munka.",
     "en": "A diary-friendly school of José Silva's method: alpha-level relaxation, the inner screen, the three-fingers anchor, accelerated learning, dream work and habit shaping – retold in our own words, honestly framed and firmly fenced. Not a medical method; self-directed work only."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/silva.mindcontrol/audio",
   "items": [
     {
       "id": "sm-intro",
@@ -336,7 +337,9 @@
         "en": "Evening journal – practice and discernment"
       },
       "journalTemplate": {
-        "aspektusKeys": ["sm-asp-jozan-itelokepesseg"],
+        "aspektusKeys": [
+          "sm-asp-jozan-itelokepesseg"
+        ],
         "prompts": {
           "hu": "Melyik gyakorlatot végezted ma, és milyen mélységig jutottál? Milyen belső gyümölcsöt észleltél – nyugalom, összeszedettség, alvás, szokások? Hol kellett ma józanul megítélned egy állítást vagy késztetést, és hogyan döntöttél? Mit készítesz elő estére – reálisnak és őszintének érzed-e a célt?",
           "en": "Which practice did you do today, and how deep did you go? What inner fruit did you notice – calm, collectedness, sleep, habits? Where did you have to judge a claim or an urge soberly today, and how did you decide? What are you preparing for tonight – does the goal feel realistic and sincere?"

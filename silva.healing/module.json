@@ -10,6 +10,7 @@
     "hu": "José Silva és Robert B. Stone „Gyógyíthatsz” című könyvének módszertana saját, nyugodt megfogalmazásban: napi ellazulás, a belső képernyő és a gyógyító képzelet gyakorlata — a hagyomány saját modellje szerint, belső gyümölcsökkel (nyugalom, remény, jobb hangulat, kitartás a kezelés mellett) mérve. Fontos határ: ez a modul nem orvosi kezelés, nem diagnosztikai eszköz, és soha nem helyettesíti az orvost — a képzeletmunka kizárólag a szakszerű ellátás mellett használható, sosem helyette. Panasz esetén először orvoshoz fordulj, vizsgálatot és kezelést soha ne halassz a gyakorlás miatt, gyógyszert csak kezelőorvosoddal egyeztetve módosíts, és más emberen soha ne dolgozz a képzeleteddel.",
     "en": "The methods of José Silva and Robert B. Stone's “You the Healer”, re-taught in our own calm words: daily relaxation, the mental screen, and the practice of healing imagination — framed as the tradition's own model and measured by inner fruits (calm, hope, better mood, steadiness in one's treatment). Firm boundary: this module is not medical treatment, not a diagnostic tool, and never a replacement for doctors — imagination work may only be used alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and never work on another person with your imagination."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/silva.healing/audio",
   "items": [
     {
       "id": "sh-intro",
@@ -364,7 +365,12 @@
         "en": "Journal template — the fruits of practice"
       },
       "journalTemplate": {
-        "aspektusKeys": ["sh-asp-nyugalom", "sh-asp-remeny", "sh-asp-allhatatossag", "sh-asp-ellatas-halogatas"],
+        "aspektusKeys": [
+          "sh-asp-nyugalom",
+          "sh-asp-remeny",
+          "sh-asp-allhatatossag",
+          "sh-asp-ellatas-halogatas"
+        ],
         "prompts": {
           "hu": "Milyen mély volt ma az ellazulásom, és mi segítette vagy zavarta? Milyen képekkel dolgoztam a belső képernyőn, és milyen érzést hagytak bennem? Milyen belső gyümölcsöt észleltem ma — nyugalmat, reményt, jobb hangulatot, több erőt a teendőkhöz —, és mi az, ami elmaradt? Őszintén: orvosi teendőim (gyógyszer, időpont, vizsgálat) rendben vannak-e, és semmit sem halasztottam a gyakorlás miatt? Ha szerettemért aggódom: ma jelenléttel és jóakarattal voltam-e mellette, ítélkezés és „kezelgetés” nélkül?",
           "en": "How deep was my relaxation today, and what helped or hindered it? What images did I work with on the mental screen, and what feeling did they leave in me? What inner fruit did I notice today — calm, hope, better mood, more strength for my duties — and what failed to appear? Honestly: are my medical matters (medication, appointments, examinations) in order, with nothing postponed for the sake of practice? If I worry for a loved one: was I present with goodwill today, without judging and without “treating” them?"

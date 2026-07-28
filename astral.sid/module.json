@@ -10,6 +10,7 @@
     "hu": "Lépcsőzetes hajnali protokoll: esti előkészület, korai ébredés, rövid ébrenlét, visszatérés az ágyba, majd rövid belső technikák körforgása az alvás peremén. Őszinte kerettel, szilárd alvás-egészségügyi korlátokkal — a gyümölcsök mérik, nem az ígéretek.",
     "en": "A staged dawn protocol: evening preparation, an early wake, brief wakefulness, return to bed, then a cycle of short inner techniques on the edge of sleep. Honest framing and firm sleep-health fences — measured by fruits, not promises."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.sid/audio",
   "items": [
     {
       "id": "aps-bevezetes",
@@ -312,7 +313,9 @@
         "en": "Dawn journal"
       },
       "journalTemplate": {
-        "aspektusKeys": ["aps-asp-jozansag"],
+        "aspektusKeys": [
+          "aps-asp-jozansag"
+        ],
         "prompts": {
           "hu": "Mi történt ma hajnalban — tényszerűen, szépítés nélkül? Melyik állomás hozott bármit (kiválás-érzet, kép, hang, mozdulat), és mi maradt üres? Vissza tudtam-e aludni könnyen, és milyen volt a nappali frissességem? Milyen gyümölcsöt jegyezhetek fel becsületesen — álomfelidézés, éberség, pihentség, mélység? Hol csúszott ma a beszámolómba önáltatás vagy erőltetés, és mit igazítok a következő alkalomra?",
           "en": "What happened at dawn today — factually, without embellishment? Which station brought anything (separation-feel, image, sound, movement), and which stayed empty? Could I fall back asleep easily, and how fresh was my day? What fruit can I honestly record — dream recall, lucidity, restfulness, depth? Where did self-deception or forcing slip into my report today, and what will I adjust for next time?"

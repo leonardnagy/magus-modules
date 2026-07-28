@@ -10,6 +10,7 @@
     "hu": "A második lépés a megfigyelést formálássá mélyíti: önszuggesztió és érzékenkénti koncentráció a szellemben, a jellemvonások átnemesítése a lélekben, pórus-légzés és mozdulatlan testtartás a testben. Aki ezt a lépést uralja, kezében tartja a belső munka legfontosabb szerszámait.\n\nAjánlott időtartam: 3–8+ hét.",
     "en": "The second step deepens observation into shaping: autosuggestion and sense-by-sense concentration in the spirit, the ennobling of character traits in the soul, pore breathing and motionless posture in the body. Whoever masters this step holds the essential tools of the inner work.\n\nRecommended duration: 3–8+ weeks."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.02/audio",
   "items": [
     {
       "id": "iih-step-02-md-intro",
@@ -209,7 +210,9 @@
         "en": "Daily Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp2-focus"],
+        "aspektusKeys": [
+          "iih-asp2-focus"
+        ],
         "prompts": {
           "hu": "SZELLEM — Érzék-koncentráció (érzék: ___): ___ perc, megszakítások: ___. Önszuggesztió (mondatom: ___): elalváskor ___, ébredéskor ___.\n\nLÉLEK — Ma ezen a vonáson dolgoztam: ___. Így jelentkezett, és így fordítottam át: ___.\n\nTEST — Pórus-légzés: ___ perc. Mozdulatlan ülés: ___ perc, ebből zavartalan: ___.\n\nFELISMERÉS — A mai gyakorlás tanulsága, amit holnap magammal viszek: ___.",
           "en": "SPIRIT — Sense concentration (sense: ___): ___ min, interruptions: ___. Autosuggestion (my phrase: ___): before sleep ___, on waking ___.\n\nSOUL — Trait I worked on today: ___. How it showed up, and how I turned it around: ___.\n\nBODY — Pore breathing: ___ min. Motionless sitting: ___ min, undisturbed for: ___.\n\nINSIGHT — Today's lesson that I carry into tomorrow: ___."

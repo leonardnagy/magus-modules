@@ -10,6 +10,7 @@
     "hu": "A hatodik lépés a szellem négy elemi funkciójának tudatos használatát, az Akasha-elv elsajátítását és az elementálok etikus teremtését tanítja. Ez a küszöb a magasabb mágiához: innentől az okok síkján dolgozol. Ajánlott időtartam: 2–4+ hónap.",
     "en": "Step Six teaches the conscious use of the spirit's four elemental functions, mastery of the Akasha principle, and the ethical creation of elementals. This is the threshold to higher magic: from here on you work on the plane of causes. Recommended duration: 2–4+ months."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.06/audio",
   "items": [
     {
       "id": "iih-step-06-md-intro",
@@ -185,7 +186,9 @@
         "en": "Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp6-pureintent"],
+        "aspektusKeys": [
+          "iih-asp6-pureintent"
+        ],
         "prompts": {
           "hu": "SZELLEM — szellemfunkció-meditáció: ___ perc. A ma vizsgált funkció (tűz/levegő/víz/föld): ___. Így nyilvánult meg bennem: ___.\n\nLÉLEK — Akasha-légzés: ___ perc. A sötét-ibolya csend mélysége (1–10): ___. Az okok síkjára ültetett szándék: ___.\n\nTEST — elementál-munka: cél: ___, kiszabott élettartam: ___, feloszlatás megtörtént: ___. Észlelt lárva vagy fantom és a teendő: ___.\n\nFELISMERÉS — a szándékom tisztaságáról ma ezt tanultam: ___.",
           "en": "SPIRIT — meditation on the spirit's functions: ___ min. Function examined today (fire/air/water/earth): ___. How it showed itself in me: ___.\n\nSOUL — akasha breathing: ___ min. Depth of the dark-violet stillness (1–10): ___. Intention planted on the plane of causes: ___.\n\nBODY — elemental work: purpose: ___, lifespan set: ___, dissolution completed: ___. Larva or phantom noticed and action taken: ___.\n\nINSIGHT — what today taught me about the purity of my intention: ___."

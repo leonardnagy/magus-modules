@@ -10,6 +10,7 @@
     "hu": "A tizedik lépés a mű betetőzése: meditáció a négy isteni minőségen, az aura és az asztráltest tudatos ismerete, az elemek birodalmai és a személyes szellem egyesülése az egyetemessel. Nem lezárás, hanem életforma — a mágus mindhárom világ kiegyensúlyozott polgáraként él tovább. Ajánlott időtartam: évek, folyamatos.",
     "en": "The tenth step is the culmination of the work: meditation on the four Divine qualities, conscious knowledge of the aura and the astral body, the realms of the elements, and the union of the personal spirit with the universal. It is not an ending but a way of living — the magician goes on as a balanced citizen of all three worlds. Recommended duration: years, ongoing."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.10/audio",
   "items": [
     {
       "id": "iih-step-10-md-intro",
@@ -199,7 +200,9 @@
         "en": "Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["iih-asp10-humility"],
+        "aspektusKeys": [
+          "iih-asp10-humility"
+        ],
         "prompts": {
           "hu": "SZELLEM — Meditáció a(z) ___ isteni minőségen: ___ perc. Az összeolvadás / egyesülés mélysége (1–10): ___.\n\nLÉLEK — Ma ezt gyakoroltam (aura / kilépés / elemi birodalom / vezető): ___. Tapasztalat: ___.\n\nTEST — Így éltem ma a három világ polgáraként: ___. Ahol kibillentem: ___.\n\nFELISMERÉS — A nap legcsendesebb igazsága: ___.",
           "en": "SPIRIT — Meditation on the Divine quality of ___: ___ min. Depth of merging / union (1–10): ___.\n\nSOUL — Today I practised (aura / separation / elemental realm / guide): ___. Experience: ___.\n\nBODY — How I lived today as a citizen of the three worlds: ___. Where I lost balance: ___.\n\nINSIGHT — The quietest truth of the day: ___."
@@ -291,8 +294,18 @@
               "en": "To which element does all-embracing love correspond among the four Divine qualities?"
             },
             "options": {
-              "hu": ["A tűznek", "A levegőnek", "A víznek", "A földnek"],
-              "en": ["Fire", "Air", "Water", "Earth"]
+              "hu": [
+                "A tűznek",
+                "A levegőnek",
+                "A víznek",
+                "A földnek"
+              ],
+              "en": [
+                "Fire",
+                "Air",
+                "Water",
+                "Earth"
+              ]
             },
             "correctIndex": 2
           },

@@ -10,6 +10,7 @@
     "hu": "Az ötvenes évek elején, Prágában, Franz Bardon tanítványi körében kérdések és válaszok gyűltek össze a hermetikus út gyakorlatáról. Ez a modul nem másolja a szöveget: a visszatérő tanácsok szellemét desztillálja — helyes gyakorlás, türelem, gyakori kezdő hibák, a tanítókkal és jelenségekkel szembeni éber megkülönböztetés. A hagyomány kijelentései a saját hangján szólnak; mércéjük a belső gyümölcs, nem a külső bizonyíték.",
     "en": "In early-1950s Prague, within Franz Bardon’s circle of students, questions and answers about the practice of the hermetic path were collected. This module does not copy that text: it distils the spirit of its recurring counsel — right practice, patience, common beginner mistakes, and alert discernment toward teachers and phenomena. The tradition’s statements speak in their own voice; their measure is inner fruit, not outer proof."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/arion.answers/audio",
   "items": [
     {
       "id": "ar-bevezeto",
@@ -303,7 +304,10 @@
         "en": "The Living Question — Daily Journal Template"
       },
       "journalTemplate": {
-        "aspektusKeys": ["ar-asp-allhatatossag", "ar-asp-jelenseghajszolas"],
+        "aspektusKeys": [
+          "ar-asp-allhatatossag",
+          "ar-asp-jelenseghajszolas"
+        ],
         "prompts": {
           "hu": "Melyik kérdés él ma bennem az útról — és mit tettem ma azért, hogy a válasz gyakorlat legyen, ne csak gondolat? Hol kerestem ma rövidítést vagy látványt, és mi volt mögötte? Írj le egy apró, tanú nélküli bizonyítékot a mai állhatatosságodra. Végül: ha Arion válaszainak szellemében kérdezhetnék tőlem egyet ma este, mi lenne az — és mit felelnék becsületesen?",
           "en": "Which question about the path is alive in me today — and what did I do today so the answer became practice, not just thought? Where did I look for a shortcut or a spectacle today, and what was underneath it? Write down one small, unwitnessed proof of today’s steadiness. Finally: if, in the spirit of Arion’s answers, one question could be asked of me tonight, what would it be — and how would I answer honestly?"

@@ -10,6 +10,7 @@
     "hu": "Az asztrális kivetülés hagyományának alapjai és térképe: álom, tudatos álom és kivetülés megkülönböztetése, a három módszercsalád, reális elvárások és ütem, a félelem kapuja a CALM-lépésekkel, az alváskímélő biztonsági keretek és az őszinte naplózás. A tanítás a hagyomány saját modelljeként jelenik meg, párhuzamos józan lencsével — belső gyümölcsökkel mérve, ígéretek nélkül.",
     "en": "Foundations and the map of the astral projection tradition: telling dreams, lucid dreams and projection apart, the three method families, realistic expectations and pace, the gate of fear with the CALM steps, sleep-protecting safety fences and honest journaling. The teaching is presented as the tradition's own model with a parallel sober lens — measured by inner fruits, promising nothing."
   },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/astral.basics/audio",
   "items": [
     {
       "id": "apb-bevezetes",
@@ -298,7 +299,9 @@
         "en": "Night Practice — Honest Journal"
       },
       "journalTemplate": {
-        "aspektusKeys": ["apb-asp-jozan-itelet"],
+        "aspektusKeys": [
+          "apb-asp-jozan-itelet"
+        ],
         "prompts": {
           "hu": "Az éjszakai gyakorlat egyszerű szavakkal: mit csináltam, mi történt, mit éreztem a testemben? — Megjelent-e félelem vagy nyugtalanság, és hogyan mentek a CALM lépései? — Melyik lencsén át olvasom ma az élményt, és mit mondana róla a másik lencse? — A gyümölcsök: milyen a héten az álomemlékezetem, a pihentségem, a nappali nyugalmam? — Egy apró dolog, amit legközelebb másképp teszek.",
           "en": "Tonight's practice in plain words: what did I do, what happened, what did I feel in my body? — Did fear or unease appear, and how did the CALM steps go? — Through which lens am I reading the experience today, and what would the other lens say about it? — The fruits: how are my dream recall, my restfulness and my daytime calm this week? — One small thing I will do differently next time."
