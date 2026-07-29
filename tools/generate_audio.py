@@ -117,7 +117,9 @@ def synthesize(text: str, lang: str, voice: str, api_key: str, bitrate: int) -> 
                 time.sleep(2 ** attempt * 2)
                 continue
             raise SystemExit(f"xAI TTS failed ({exc.code}): {detail}")
-        except urllib.error.URLError as exc:
+        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+            # A read that times out mid-response surfaces as a bare TimeoutError,
+            # not a URLError — which used to kill a long run outright.
             if attempt < 3:
                 time.sleep(2 ** attempt * 2)
                 continue
