@@ -136,3 +136,21 @@ working as of 2026-07.
 | Bashar :: Epiphany — Highlights (official YouTube) | https://www.youtube.com/watch?v=Tnti-MzXYk8 |
 | Bashar :: What is The Holotope? — Kirby Seid explains (official YouTube) | https://www.youtube.com/watch?v=1O9HAOJW_2Y |
 | The Formula (bashar.org, mentions the Holotope meditation) | https://www.bashar.org/formula |
+
+### Bashar — YouTube meditations (personal use)
+
+Guided Holotope meditations and meditation-adjacent transmissions, linked only:
+
+| Title | URL |
+|---|---|
+| Holotope — Connect to Your Oversoul (432 Hz) | https://www.youtube.com/watch?v=10Fix-uOnLg |
+| Holotope Meditation — Trust | https://www.youtube.com/watch?v=05RPXa-16qE |
+| Holotope Meditation — Infinite Possibilities | https://www.youtube.com/watch?v=wkN-6anqIqE |
+| Rewire Your Mind for Abundance — 19-min Holotope | https://www.youtube.com/watch?v=XZQdUZb_Bkg |
+| Bashar Holotrope Meditation | https://www.youtube.com/watch?v=DFvroawy4GU |
+| Playlist: BASHAR HOLOTOPE MEDITATION! | https://www.youtube.com/playlist?list=PLlBj1Upib3jDOMRD2rzzaMyFdmHgoWL5L |
+| Playlist: Bashar Meditations — Darryl Anka | https://www.youtube.com/playlist?list=PLIhbw2ogIV7PV4csGN8MRcn043ESCIkXS |
+| The Truth About Dreams, Lucid States & Parallel Realities | https://www.youtube.com/watch?v=iMmvLUeL-YA |
+| The Frequency Matching Secret | https://www.youtube.com/watch?v=XACq-4Gn2zI |
+| What is The Holotope? — Kirby Seid explains | https://www.youtube.com/watch?v=1O9HAOJW_2Y |
+
