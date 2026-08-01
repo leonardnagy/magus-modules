@@ -45,6 +45,16 @@ Install: copy a module's **raw** link below and paste it in the app
 | Bashar — The Three Spheres (Epsilon, Epiphany, Eclipse) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/bashar.spheres/module.json` |
 | A Course in Miracles — the Course | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/acim.course/module.json` |
 | ACIM Made Easy — Cohen's Path | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/acim.easy/module.json` |
+| Aura and the Subtle Bodies | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/aura.reading/module.json` |
+| The Chakra System | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/chakra.system/module.json` |
+| Practical Telepathy | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/telepathy.practice/module.json` |
+| Psychometry — Object Reading | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/psychometry.craft/module.json` |
+| Pendulum and Dowsing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/pendulum.dowsing/module.json` |
+| Numerology — the Mirror of Numbers | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/numerology.core/module.json` |
+| Tarot and Oracle — Mirror of the Psyche | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/tarot.oracle/module.json` |
+| Automatic Writing | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/automatic.writing/module.json` |
+| Angelic Work — Guides, Healing, Abundance | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/angelic.work/module.json` |
+| Energy Protection | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/energy.protection/module.json` |
 
 Individual Bardon Step / theme modules live in their own folders (`iih.step.NN`, `iih.theme.*`).
 
@@ -56,7 +66,7 @@ Existing items update by id; nothing is duplicated.
 
 | Bundle | Raw link |
 |---|---|
-| Everything (642 practices, 64 modules, 83 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
+| Everything (736 practices, 74 modules, 83 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
 
 ## Quote packs (Idézetek és titkok)
 
@@ -78,7 +88,7 @@ Downloadable packs of example practices for the in-app Practice Library
 (Practice Journal → ⋯ → Gyakorlat-tár → + → paste a link or scan a QR).
 Installed packs **add to** the app's built-in seed practices.
 
-Together these packs hold **642 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
+Together these packs hold **736 practices** (installed packs de-duplicate by id, so the built-in seed is never doubled).
 
 | Pack | Raw link |
 |---|---|

@@ -1,0 +1,449 @@
+{
+  "formatVersion": 1,
+  "id": "psychometry-craft",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Pszichometria — tárgyolvasás",
+    "en": "Psychometry — Object Reading"
+  },
+  "description": {
+    "hu": "Tárgy- és fotóolvasás mint a távolbalátás rokon-készsége: nyers első benyomások, AOL-fegyelem, jegyzőkönyvezés és visszajelzéses vak-gyakorlás kölcsöntárgyakkal. A hagyomány tárgy-lenyomat modellje mellé józan lencsét kapsz — a tárgy valós jeleinek és az asszociációnak az olvasását —, és kemény házvonalat: bűnügy és eltűnt személy soha.",
+    "en": "Object and photo reading as a sister skill of remote viewing: raw first impressions, AOL discipline, protocol keeping and blind feedback practice with borrowed objects. Beside the tradition's object-imprint model you get a sober lens — reading the object's real signals and your own associations — and a hard house line: crime and missing persons, never."
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/psychometry.craft/audio",
+  "items": [
+    {
+      "id": "psychometry-craft-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető — a lélek-mérés",
+        "en": "Introduction — Soul-Measuring"
+      },
+      "text": {
+        "hu": "A **pszichometria** szót Joseph Rodes Buchanan alkotta 1842-ben — szó szerint annyit tesz: **lélek-mérés**. Néhány évtizeddel később William Denton geológus a *The Soul of Things* (1863) lapjain kőzetminták „olvasásával” kísérletezett — lelkesen, de kontrollok nélkül; ez a hiány lesz a mi egyik legfontosabb tanítónk.\n\nEbben a modulban a tárgy- és fotóolvasást **a távolbalátás (RV) rokon-készségeként** kezeljük: ha az RV-modult már jártad, ismerős lesz a protokoll-fegyelem — itt ugyanazt a szigort alkalmazzuk egy kézbe fogható célpontra.\n\nA modul öt pillére:\n\n— **Az első benyomás** — a nyers érzéki csatornák megnyitása, megnevezés nélkül.\n— **AOL-fegyelem** — a címkézés csapdájának felismerése és kezelése.\n— **A jegyzőkönyv** — ami nincs leírva, az nem történt meg.\n— **Visszajelzéses vak-gyakorlás** — kölcsöntárgyak, boríték, utólagos igazolás.\n— **A józan lencse és a házvonal** — mit hordoz a tárgy valójában, és hová nem megyünk soha.\n\n**Őszinte keret előre:** a gyakorlat önértéke a figyelem-, érzékelés- és fegyelem-edzés. A mérés — napló, találat-arány, előre rögzített állítások — nem a gyakorlat ellensége, hanem a **része**. És a házvonal nem alku tárgya: bűnügy, eltűnt személy, tragédia — soha.",
+        "en": "The word **psychometry** was coined by Joseph Rodes Buchanan in 1842 — it literally means **soul-measuring**. A few decades later the geologist William Denton experimented with 'reading' rock samples in the pages of *The Soul of Things* (1863) — enthusiastically, but without controls; that missing piece will become one of our most important teachers.\n\nIn this module we treat object and photo reading as **a sister skill of remote viewing (RV)**: if you have walked the RV module, the protocol discipline will feel familiar — here we apply the same rigour to a target you can hold in your hand.\n\nThe module's five pillars:\n\n— **The first impression** — opening the raw sensory channels, without naming.\n— **AOL discipline** — recognising and handling the labelling trap.\n— **The protocol** — what is not written down did not happen.\n— **Blind feedback practice** — borrowed objects, envelopes, verification afterwards.\n— **The sober lens and the house line** — what the object really carries, and where we never go.\n\n**An honest frame up front:** the practice's inherent value is training attention, perception and discipline. Measurement — the log, the hit rate, pre-registered claims — is not the enemy of the practice but **part of it**. And the house line is not negotiable: crime, missing persons, tragedy — never."
+      }
+    },
+    {
+      "id": "psychometry-craft-md-model",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A hagyomány modellje — a tárgy-lenyomat",
+        "en": "The Tradition's Model — the Object Imprint"
+      },
+      "text": {
+        "hu": "Mit mond a hagyomány arról, ami a kezedben történik?\n\n**A lenyomat.** A hagyomány szerint a tárgy lenyomatot őriz a történetéről és gazdái érzelmi állapotairól — egyfajta „vibrációt”, amelyet a gyakorló olvasni tanul. * Ez a modell az akasha-krónika rokona: ahogy az iih.theme.akasha modulban a hagyomány a minden-történés feljegyzéséről beszél, itt a tárgy volna e krónika egy kézbe fogható lapja. *\n\n**Bardon-kapcsolat.** Bardon útján (IIH) a fegyelmezett érzék-koncentráció — egyetlen benyomás tiszta, hosszú megtartása — alapkészség; a tárgyolvasás nyers-benyomás munkája ennek közeli rokona, csak itt a benyomások *érkeznek*, nem te építed őket.\n\n**A mi keretünk.** A tárgy-lenyomatra nincs ismert fizikai mechanizmus és nincs kontrollált bizonyíték — ezért a modellt **munkamodellként** kezeljük, nem tényként. A munkamodell dolga nem az, hogy igaz legyen, hanem hogy **tartást adjon a gyakorlatnak**: segít komolyan venni az ülést, türelmesen ülni a nem-tudásban, és fegyelmezetten jegyezni. Amit ténylegesen mérni tudsz, az a saját figyelmed finomodása és a jegyzőkönyveid alakulása — ez pedig önmagában is szép munka.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "What does the tradition say about what happens in your hands?\n\n**The imprint.** According to the tradition, an object keeps an imprint of its history and of the emotional states of its owners — a kind of 'vibration' the practitioner learns to read. * This model is a cousin of the akashic records: as the iih.theme.akasha module presents the tradition's record-of-all-happening, here the object would be one hand-held page of that chronicle. *\n\n**The Bardon connection.** On Bardon's path (IIH), disciplined sense-concentration — holding a single impression purely and long — is a foundational skill; the raw-impression work of object reading is its close cousin, except that here the impressions *arrive* rather than being built by you.\n\n**Our frame.** For the object imprint there is no known physical mechanism and no controlled evidence — so we treat the model as a **working model**, not as fact. A working model's job is not to be true but to **give the practice a spine**: it helps you take the sitting seriously, sit patiently in not-knowing, and record with discipline. What you can actually measure is the refinement of your own attention and the evolution of your protocols — and that alone is fine work.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "psychometry-craft-md-impressions",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az első benyomás — nyers csatornák",
+        "en": "The First Impression — Raw Channels"
+      },
+      "text": {
+        "hu": "A tárgyolvasás első és legfontosabb mozdulata: **engedd meg a benyomást, mielőtt megneveznéd**.\n\n**Az ülés menete:**\n\n**1.** Ülj le nyugodt helyen, csukott vagy félig lehunyt szemmel. Vedd kézbe a tárgyat — tartsd lazán, ne szorítsd.\n\n**2.** Nyisd meg sorban a nyers csatornákat, és jegyezz mindent, ami érkezik:\n\n— **kép** — szín, forma, fény, homályos jelenet-töredék;\n— **hang** — zúgás, dallam-foszlány, hangszín;\n— **hőérzet** — meleg, hideg, bizsergés a kézben vagy a testben;\n— **íz és szag** — akár egészen halvány is;\n— **érzelem** — szomorúság, derű, feszültség, amely mintha nem a tiéd volna;\n— **testérzet** — nyomás, húzás, tartás-változás.\n\n**3.** Minden benyomást **egy-két szóval** rögzíts, időrendben. Nem mondatokat írsz — nyersanyagot gyűjtesz.\n\n**4.** Ha semmi nem jön: az is adat. Írd le, hogy csend van, és maradj még egy-két percet. A kényszerített benyomás rosszabb, mint a semmi.\n\n**Rövid ülések, gyakran.** Öt-tíz perc bőven elég — a friss figyelem többet ér, mint a hosszú erőlködés. Az alábbi időzítő pontosan erre az ülésre készült.",
+        "en": "The first and most important move of object reading: **allow the impression before you name it**.\n\n**The sitting:**\n\n**1.** Sit in a quiet place, eyes closed or half-closed. Take the object in your hand — hold it loosely, do not grip.\n\n**2.** Open the raw channels one by one, and note everything that arrives:\n\n— **image** — colour, shape, light, a blurry scene fragment;\n— **sound** — humming, a scrap of melody, a tone of voice;\n— **temperature** — warmth, cold, tingling in the hand or the body;\n— **taste and smell** — even the very faint;\n— **emotion** — sadness, brightness, tension that seems not to be yours;\n— **body sense** — pressure, pull, a shift of posture.\n\n**3.** Record every impression in **one or two words**, in chronological order. You are not writing sentences — you are collecting raw material.\n\n**4.** If nothing comes: that too is data. Write down that there is silence, and stay another minute or two. A forced impression is worse than nothing.\n\n**Short sittings, often.** Five to ten minutes is plenty — fresh attention is worth more than long straining. The timer below is built for exactly this sitting."
+      }
+    },
+    {
+      "id": "psychometry-craft-md-aol",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "AOL-fegyelem — a megnevezés csapdája",
+        "en": "AOL Discipline — the Naming Trap"
+      },
+      "text": {
+        "hu": "Itt dől el, hogy gyakorlatod megfigyelés lesz-e — vagy mesemondás.\n\n**Mi az AOL?** Az *analytical overlay* — elemző rátelepedés — a távolbalátás módszertanának kulcsfogalma; a CIA által szabaddá tett Stargate-anyagok jegyzőkönyvein végigvonul. A jelenség egyszerű: amint egy nyers benyomást **tárggyá vagy történetté címkézel** — „ez egy óra… egy katonáé volt… a fronton hordta” —, a képzeleted átveszi az irányítást, és onnantól már nem benyomást olvasol, hanem a saját meséd folytatod.\n\n**A fegyelem három lépése:**\n\n**1. Vedd észre.** A címke felismerhető: hirtelen *kész történet* van a fejedben, részletekkel, magabiztossággal. A nyers benyomás sosem ilyen kerek.\n\n**2. Jelöld.** Írd a jegyzőkönyvbe: **„AOL: óra, katona”** — és húzd alá vagy tedd zárójelbe. Az AOL nem bűn, és nem is kell elhessegetni: **feljegyzett vendég**, akit néven nevezel, és ezzel elveszíti a hatalmát.\n\n**3. Térj vissza.** Egy lélegzet — és vissza a nyers csatornákhoz: milyen szín? milyen hőérzet? milyen érzelem? A történet majd a visszajelzésnél kiderül; a te dolgod most a nyersanyag.\n\n**Miért ilyen szigorúan?** Mert az AOL-lel átszőtt jegyzőkönyv **értékelhetetlen**: utólag minden kerek történetre találsz igazolást, ha elég homályos. A tisztán vezetett AOL-jelölés az, ami a gyakorlatodat mérhetővé — és ezzel becsületessé — teszi.",
+        "en": "This is where your practice becomes observation — or storytelling.\n\n**What is AOL?** *Analytical overlay* is a key concept of remote-viewing methodology; it runs through the protocols of the CIA's declassified Stargate materials. The phenomenon is simple: the moment you **label a raw impression as an object or a story** — 'it is a watch… it belonged to a soldier… he wore it at the front' — your imagination takes the wheel, and from then on you are not reading impressions, you are continuing your own tale.\n\n**The three steps of the discipline:**\n\n**1. Notice it.** The label is recognisable: suddenly there is a *finished story* in your head, with details and confidence. A raw impression is never that round.\n\n**2. Mark it.** Write in the protocol: **'AOL: watch, soldier'** — underline it or bracket it. AOL is not a sin, and you need not shoo it away: it is a **registered guest** whom you call by name, and by that it loses its power.\n\n**3. Return.** One breath — and back to the raw channels: what colour? what temperature? what emotion? The story will surface at feedback time; your job now is the raw material.\n\n**Why so strict?** Because a protocol woven through with AOL is **impossible to evaluate**: in hindsight every round story finds its confirmation, if it is vague enough. Cleanly kept AOL marks are what make your practice measurable — and thereby honest."
+      }
+    },
+    {
+      "id": "psychometry-craft-timer-impressions",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Első benyomás ülés — 10 perc",
+        "en": "First Impression Sitting — 10 min"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Vedd kézbe a tárgyat lazán, csukott szemmel. Nyisd meg sorban a nyers csatornákat — kép, hang, hőérzet, íz, szag, érzelem, testérzet —, és jegyezz mindent egy-két szóval, időrendben. Ha címke vagy történet jön, írd: „AOL: …”, és térj vissza a nyershez.",
+          "en": "Take the object loosely in hand, eyes closed. Open the raw channels one by one — image, sound, temperature, taste, smell, emotion, body sense — and note everything in one or two words, in order. If a label or story arrives, write 'AOL: …' and return to the raw."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Nyers csatornák — egy-két szó",
+              "en": "Raw channels — one or two words"
+            }
+          },
+          {
+            "atSecond": 360,
+            "label": {
+              "hu": "AOL-ellenőrzés — vissza a nyershez",
+              "en": "AOL check — back to the raw"
+            }
+          },
+          {
+            "atSecond": 510,
+            "label": {
+              "hu": "Zárás — jegyzőkönyv lezárása",
+              "en": "Closing — seal the protocol"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "psychometry-craft-md-protocol",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A jegyzőkönyv — ami nincs leírva, nem történt meg",
+        "en": "The Protocol — Unwritten Means It Did Not Happen"
+      },
+      "text": {
+        "hu": "A jegyzőkönyv nem adminisztráció — **maga a gyakorlat**. Nélküle a tárgyolvasás emlékekből és jóindulatból szőtt legenda lesz.\n\n**A jegyzőkönyv rovatai:**\n\n**1. Fejléc** — dátum, időpont, a tárgy **kódja** (ne a neve: „T-07”, nem „nagymama gyűrűje”), állapotod egy szóban.\n\n**2. Benyomások időrendben** — egy-két szavas nyers jegyzetek, ahogy érkeztek. Ne szépítsd, ne rendezd utólag.\n\n**3. AOL-jelölések** — minden címke és történet-kezdemény „AOL:” előtaggal, a helyén, ahol felmerült.\n\n**4. Előre rögzített állítások** — az ülés végén, még a visszajelzés ELŐTT fogalmazd meg: mely benyomásaidból mersz **konkrét, ellenőrizhető** állítást tenni? „A tárgy vízparthoz kötődik” — ellenőrizhető. „A tárgy gazdája sokat küzdött” — mindenkire igaz, értéktelen.\n\n**5. Visszajelzés és értékelés** — utólag: mit igazolt, mit cáfolt a tulajdonos? **Csak az előre rögzített állítás számít** — az utólag „ó, ezt is éreztem” nem.\n\n**Miért ilyen kérlelhetetlen a 4-5. pont?** A szubjektív validáció miatt: a homályos, utólagos állítások visszajelzés nélkül is találatnak *érződnek*. Ez nem gyengeség, hanem emberi alapfelszerelés — ezért nem magadban bízol, hanem a papírban. A lenti napló-sablon pontosan ezt a szerkezetet adja a kezed alá.",
+        "en": "The protocol is not paperwork — it **is the practice**. Without it, object reading becomes a legend woven from memory and goodwill.\n\n**The protocol's sections:**\n\n**1. Header** — date, time, the object's **code** (not its name: 'T-07', not 'grandmother's ring'), your state in one word.\n\n**2. Impressions in chronological order** — one-or-two-word raw notes, as they arrived. Do not polish, do not reorder afterwards.\n\n**3. AOL marks** — every label and story-seed with the 'AOL:' prefix, in place, where it arose.\n\n**4. Pre-registered claims** — at the end of the sitting, BEFORE any feedback, formulate: from which impressions do you dare make a **concrete, verifiable** claim? 'The object is tied to a waterside' — verifiable. 'The object's owner struggled a lot' — true of everyone, worthless.\n\n**5. Feedback and evaluation** — afterwards: what did the owner confirm, what did they refute? **Only the pre-registered claim counts** — the retroactive 'oh, I felt that too' does not.\n\n**Why are points 4-5 so unforgiving?** Because of subjective validation: vague, retroactive claims *feel* like hits even without feedback. That is not a weakness but standard human equipment — which is why you trust the paper, not yourself. The journal template below puts exactly this structure into your hands."
+      }
+    },
+    {
+      "id": "psychometry-craft-md-feedback",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Visszajelzéses gyakorlás — kölcsöntárgy és fotó",
+        "en": "Feedback Practice — Borrowed Objects and Photos"
+      },
+      "text": {
+        "hu": "A saját tárgyaid történetét ismered — rajtuk csak a csatornákat edzed. A valódi gyakorlás **ismeretlen történetű célponton** folyik, visszajelzéssel.\n\n**Kölcsöntárgy-protokoll:**\n\n**1. Kérés és beleegyezés.** Kérj ismerőstől olyan tárgyat, amelynek történetét nem ismered — és mondd el, mire kell: gyakorlásra, amelynek végén kérdezni fogsz. A beleegyezés nem udvariasság, hanem alapfeltétel.\n\n**2. Vak-réteg.** A legjobb, ha több tárgy érkezik egyforma borítékban vagy dobozban, összekeverve — így azt sem tudod, éppen kié van a kezedben. Amit nem tudsz, azt nem tudja súgni az emlékezeted.\n\n**3. Ülés és jegyzőkönyv** — ahogy tanultad: nyers csatornák, AOL-jelölés, előre rögzített állítások.\n\n**4. Visszajelzés.** A tulajdonos igazolja vagy cáfolja az állításaidat — tételesen, ne hangulatban. Jegyezd a találatot ÉS a tévesztést is: a tévesztés ugyanolyan értékes adat.\n\n**Fotóolvasás.** Ugyanez a protokoll fotóval is megy: segítőd tegyen számodra ismeretlen — saját archívumából való, hozzájárulással használt — fényképeket egyforma borítékokba. A fotó mint célpont az RV-hagyomány klasszikusa; a borítékos vak-réteg itt magától adódik.\n\n**Türelem a számokkal.** Kis mintán a nagy kilengés természetes — öt körből se diadalt, se temetést ne olvass ki. A mintázat tíz-húsz kör után kezd beszélni; addig a dolgod egy: tisztán vezetett kör, körről körre.",
+        "en": "You know the history of your own objects — on them you only train the channels. Real practice happens on a **target of unknown history**, with feedback.\n\n**The borrowed-object protocol:**\n\n**1. Request and consent.** Ask a friend for an object whose history you do not know — and tell them what it is for: practice, at the end of which you will ask questions. Consent is not politeness, it is a precondition.\n\n**2. The blind layer.** Best of all, several objects arrive in identical envelopes or boxes, shuffled — so you do not even know whose object is in your hand. What you do not know, your memory cannot whisper.\n\n**3. Sitting and protocol** — as you have learned: raw channels, AOL marks, pre-registered claims.\n\n**4. Feedback.** The owner confirms or refutes your claims — item by item, not by mood. Record the hit AND the miss: the miss is equally valuable data.\n\n**Photo reading.** The same protocol works with photographs: have a helper place photos unknown to you — from their own archive, used with consent — into identical envelopes. The photo as target is a classic of the RV tradition; the envelope blind layer comes free here.\n\n**Patience with the numbers.** On a small sample, large swings are natural — read neither triumph nor funeral out of five rounds. The pattern starts speaking after ten or twenty rounds; until then your job is one thing: a cleanly kept round, round after round."
+      }
+    },
+    {
+      "id": "psychometry-craft-timer-blind",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Vak-kör borítékkal — 15 perc",
+        "en": "Blind Round with Envelope — 15 min"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Húzz egy borítékot vagy tárgyat a kevert halomból. Vezesd a jegyzőkönyvet: fejléc és tárgykód → nyers benyomások időrendben → AOL-jelölések → a végén előre rögzített, ellenőrizhető állítások. A borítékot csak az ülés lezárása után nyisd ki.",
+          "en": "Draw one envelope or object from the shuffled pile. Keep the protocol: header and object code → raw impressions in order → AOL marks → at the end, pre-registered verifiable claims. Open the envelope only after the sitting is sealed."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Fejléc kész — nyers csatornák",
+              "en": "Header done — raw channels"
+            }
+          },
+          {
+            "atSecond": 540,
+            "label": {
+              "hu": "AOL-ellenőrzés — még egy kör a nyersben",
+              "en": "AOL check — one more pass in the raw"
+            }
+          },
+          {
+            "atSecond": 750,
+            "label": {
+              "hu": "Előre rögzített állítások — majd zárás",
+              "en": "Pre-registered claims — then seal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "psychometry-craft-md-lens",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A józan lencse — mit hordoz a tárgy valójában",
+        "en": "The Sober Lens — What the Object Really Carries"
+      },
+      "text": {
+        "hu": "Most fordítsuk meg a lencsét — ettől lesz a gyakorlatod becsületes.\n\n**A tárgy tényleg beszél — csak nem úgy.** Egy tárgy rengeteg **valós** jelet hordoz: anyaga, kopásnyomai, szaga, hőmérséklete, stílusa, kora. Egy viharvert jegygyűrű, egy alig használt öngyújtó, egy megsárgult fotó sarka — mindegyik történetet mesél a hétköznapi megfigyelésnek is. A benyomásaid jelentős része ebből épül: érzékelés + asszociáció + kontextus-olvasás. Ez nem leleplezés — ez **önmagában is edzhető, értékes megfigyelői készség**, és külön gyakorlatot is szentelünk neki.\n\n**A szubjektív validáció.** A homályos állítás utólag mindig találatnak érződik — a tulajdonos jóindulata és a saját emlékezeted együtt kerekíti ki. Ezért számít csak az előre rögzített, konkrét, ellenőrizhető állítás. A mentalizmus-modul hideg-olvasás pajzsa itt is véd: aki ismeri a cold reading működését, az **magát sem csapja be** a találataival.\n\n**Amit a mérleg mutat.** A tárgy-lenyomatra nincs ismert fizikai mechanizmus és nincs kontrollált bizonyíték. A modul kerete ezért ez: **benyomás-generálási és fegyelmezett jegyzőkönyvezési gyakorlat** — amelynek gyümölcse a finomodó érzékelés, a címkézési reflex szelídülése és a becsületes önértékelés. Ha e kereten belül dolgozol, nem veszíthetsz: minden kör edzés, akárhogy áll a statisztika.",
+        "en": "Now let us turn the lens around — this is what makes your practice honest.\n\n**The object really does speak — just not that way.** An object carries a wealth of **real** signals: its material, wear marks, smell, temperature, style, age. A storm-worn wedding band, a barely used lighter, the yellowed corner of a photo — each tells a story to ordinary observation too. A large part of your impressions is built from this: perception + association + context reading. That is no exposé — it is **in itself a trainable, valuable observer's skill**, and we devote a separate practice to it.\n\n**Subjective validation.** A vague claim always feels like a hit in hindsight — the owner's goodwill and your own memory round it out together. That is why only the pre-registered, concrete, verifiable claim counts. The mentalism module's cold-reading shield protects here too: whoever knows how cold reading works **does not fool even themselves** with their hits.\n\n**What the scales show.** For the object imprint there is no known physical mechanism and no controlled evidence. The module's frame is therefore this: **a practice of impression generation and disciplined protocol keeping** — whose fruits are refining perception, a gentling of the labelling reflex, and honest self-evaluation. Working inside this frame you cannot lose: every round is training, whatever the statistics say."
+      }
+    },
+    {
+      "id": "psychometry-craft-md-ethics",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Házvonal, etika — és források",
+        "en": "House Line, Ethics — and Sources"
+      },
+      "text": {
+        "hu": "**A házvonal — nem alku tárgya.** Bűnügy, eltűnt személy, tragédia: **soha**. A „pszichikus nyomozók” dokumentált mérlege hamis nyomok és gyászoló családoknak okozott fájdalom — ehhez a mérleghez mi egyetlen grammot sem teszünk hozzá. Ha valaha ilyen kéréssel keresnek meg, a válaszod egy mondat: ez a gyakorlat erre nem való, fordulj a hatóságokhoz.\n\n**További kerítések:**\n\n— **Beleegyezés.** Kölcsöntárgyat és fotót csak a tulajdonos tudtával és hozzájárulásával olvass — élő személy „letapogatása” a tárgyán keresztül, beleegyezés nélkül, ugyanúgy tilos, mint a telepátia-modulban.\n\n— **Semmi diagnózis.** Benyomásból soha ne állíts fel egészségi, lelki vagy jellembeli diagnózist — se magadról, se másról.\n\n— **A döntés a tiéd marad.** Benyomásra életdöntést ne alapozz — az ülés nyersanyagot ad a tudatos mérlegeléshez, sosem parancsot.\n\n— **Akut krízis → szakember.** Ha a gyakorlás nyomasztó élményt hoz, vagy élethelyzeted megroppan: tarts szünetet, és beszélj hozzáértővel.\n\n**Források.** A modul történeti gerince közkincs-forrásokra épül: J. R. Buchanan *Manual of Psychometry* (1885), W. és E. Denton *The Soul of Things* (1863), valamint a CIA által szabaddá tett Stargate-anyagok az RV-módszertan hátteréhez. A szöveg mindenütt saját összefoglaló, nem idézet.\n\n*Ez a modul nem orvosi, nem lélektani és nem jogi tanács. A gyakorlatokat nyugodt, biztonságos helyzetben végezd — vezetés vagy gépkezelés közben soha.*",
+        "en": "**The house line — not negotiable.** Crime, missing persons, tragedy: **never**. The documented record of 'psychic detectives' is one of false leads and pain caused to grieving families — and to that record we add not one gram. If such a request ever finds you, your answer is one sentence: this practice is not for that, turn to the authorities.\n\n**Further fences:**\n\n— **Consent.** Read borrowed objects and photos only with the owner's knowledge and consent — 'scanning' a living person through their object, without consent, is as forbidden here as in the telepathy module.\n\n— **No diagnosis.** Never build a health, psychological or character diagnosis from an impression — of yourself or of anyone else.\n\n— **The decision stays yours.** Base no life decision on an impression — a sitting yields raw material for conscious weighing, never a command.\n\n— **Acute crisis → professional.** If practice brings oppressive experiences, or your life situation cracks: pause, and speak with a qualified professional.\n\n**Sources.** The module's historical spine rests on public-domain sources: J. R. Buchanan's *Manual of Psychometry* (1885), W. and E. Denton's *The Soul of Things* (1863), and the CIA's declassified Stargate materials for the RV methodology background. The text is original paraphrase throughout, not quotation.\n\n*This module is not medical, psychological or legal advice. Do the practices in calm, safe settings — never while driving or operating machinery.*"
+      }
+    },
+    {
+      "id": "psychometry-craft-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "A tárgyolvasó jellemvonásai",
+        "en": "The Object Reader's character traits"
+      },
+      "aspektusPack": [
+        {
+          "key": "pm-asp-labeling",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Címkézési reflex",
+            "en": "The labelling reflex"
+          }
+        },
+        {
+          "key": "pm-asp-fantasy",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Mese-sodródás",
+            "en": "Drifting into story"
+          }
+        },
+        {
+          "key": "pm-asp-hithunger",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Találat-éhség",
+            "en": "Hunger for hits"
+          }
+        },
+        {
+          "key": "pm-asp-trespass",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Határátlépés — olvasás beleegyezés nélkül",
+            "en": "Trespass — reading without consent"
+          }
+        },
+        {
+          "key": "pm-asp-rawattention",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Nyers benyomás-figyelem",
+            "en": "Attention to raw impressions"
+          }
+        },
+        {
+          "key": "pm-asp-protocol",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Jegyzőkönyv-fegyelem",
+            "en": "Protocol discipline"
+          }
+        },
+        {
+          "key": "pm-asp-honesty",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Önbecsületes értékelés",
+            "en": "Honest self-evaluation"
+          }
+        },
+        {
+          "key": "pm-asp-persistence",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Kitartás a körök vezetésében",
+            "en": "Persistence in keeping the rounds"
+          }
+        }
+      ]
+    },
+    {
+      "id": "psychometry-craft-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Tárgyolvasó jegyzőkönyv",
+        "en": "Object Reader's Protocol"
+      },
+      "journalTemplate": {
+        "aspektusKeys": [
+          "pm-asp-rawattention"
+        ],
+        "prompts": {
+          "hu": "FEJLÉC — Dátum, tárgykód, állapotom egy szóban: ___\n\nNYERS BENYOMÁSOK — időrendben, egy-két szóval (kép, hang, hő, íz, szag, érzelem, testérzet): ___\n\nAOL — a felmerült címkék és történet-kezdemények: ___\n\nELŐRE RÖGZÍTETT ÁLLÍTÁSOK — konkrét, ellenőrizhető (visszajelzés ELŐTT írd): ___\n\nVISSZAJELZÉS — mit igazolt, mit cáfolt a tulajdonos; találat/tévesztés tételesen: ___",
+          "en": "HEADER — Date, object code, my state in one word: ___\n\nRAW IMPRESSIONS — in order, one or two words each (image, sound, temperature, taste, smell, emotion, body sense): ___\n\nAOL — the labels and story-seeds that arose: ___\n\nPRE-REGISTERED CLAIMS — concrete, verifiable (write BEFORE feedback): ___\n\nFEEDBACK — what the owner confirmed or refuted; hits/misses item by item: ___"
+        }
+      }
+    },
+    {
+      "id": "psychometry-craft-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "A gyakorlat elsajátítása",
+        "en": "Mastery of the Practice"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Első benyomás ülés saját tárgyon, teljes jegyzőkönyvvel",
+              "en": "First impression sitting on an own object, with full protocol"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "AOL-jelölés beépült: minden címke „AOL:” előtaggal kerül a papírra",
+              "en": "AOL marking ingrained: every label lands on paper with the 'AOL:' prefix"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Kölcsöntárgyak beszerezve beleegyezéssel, vak-réteggel (boríték, keverés)",
+              "en": "Borrowed objects obtained with consent, with a blind layer (envelope, shuffle)"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Legalább öt visszajelzéses kör naplózva, találattal és tévesztéssel együtt",
+              "en": "At least five feedback rounds logged, hits and misses alike"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Csak előre rögzített, ellenőrizhető állítás kerül értékelésre",
+              "en": "Only pre-registered, verifiable claims are evaluated"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Egy fotóolvasó kör borítékos vak-protokollal",
+              "en": "One photo-reading round with the envelope blind protocol"
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "A házvonal megfogadva: bűnügy, eltűnt személy, tragédia — soha",
+              "en": "The house line taken to heart: crime, missing persons, tragedy — never"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "psychometry-craft-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Önellenőrzés",
+        "en": "Self-Check"
+      },
+      "quiz": {
+        "passThreshold": 3,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mit teszel, amikor ülés közben egy kész címke vagy történet jelenik meg („ez egy óra, egy katonáé volt”)?",
+              "en": "What do you do when a finished label or story appears during a sitting ('it is a watch, it belonged to a soldier')?"
+            },
+            "options": {
+              "hu": [
+                "Követem a történetet, mert az a legerősebb benyomás",
+                "Elhessegetem, és úgy teszek, mintha nem lett volna",
+                "„AOL:” jelöléssel a jegyzőkönyvbe írom, majd visszatérek a nyers csatornákhoz",
+                "Azonnal lezárom az ülést"
+              ],
+              "en": [
+                "I follow the story, since it is the strongest impression",
+                "I shoo it away and pretend it never came",
+                "I write it into the protocol with the 'AOL:' mark, then return to the raw channels",
+                "I end the sitting immediately"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Mi számít találatnak a visszajelzéses gyakorlásban?",
+              "en": "What counts as a hit in feedback practice?"
+            },
+            "options": {
+              "hu": [
+                "Csak a visszajelzés előtt rögzített, konkrét, ellenőrizhető állítás, amelyet a tulajdonos igazolt",
+                "Minden benyomás, amelyre a tulajdonos rábólint",
+                "A homályos állítás is, ha utólag illeszkedik a történethez",
+                "Az az érzés, hogy az ülés „erős” volt"
+              ],
+              "en": [
+                "Only a concrete, verifiable claim recorded before feedback and confirmed by the owner",
+                "Every impression the owner nods along to",
+                "A vague claim too, if it fits the story in hindsight",
+                "The feeling that the sitting was 'strong'"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mit mond a modul házvonala?",
+              "en": "What does the module's house line say?"
+            },
+            "options": {
+              "hu": [
+                "Bűnüggyel csak tapasztalt gyakorló foglalkozzon",
+                "Eltűnt személyt szabad keresni, ha a család kéri",
+                "Tragédiát csak jegyzőkönyvvel szabad olvasni",
+                "Bűnügy, eltűnt személy, tragédia — soha, semmilyen feltétellel"
+              ],
+              "en": [
+                "Only an experienced practitioner should take on crime cases",
+                "Searching for a missing person is allowed if the family asks",
+                "A tragedy may be read only with a protocol",
+                "Crime, missing persons, tragedy — never, under no condition"
+              ]
+            },
+            "correctIndex": 3
+          },
+          {
+            "id": "q4",
+            "prompt": {
+              "hu": "Mit mond a józan lencse a tárgyról?",
+              "en": "What does the sober lens say about the object?"
+            },
+            "options": {
+              "hu": [
+                "A tárgy semmilyen valós információt nem hordoz",
+                "A tárgy valós jeleket hordoz — anyag, kopás, szag, stílus, kor —, és a benyomások jelentős része ebből, asszociációból és kontextus-olvasásból épül",
+                "A tárgy jelei csak zavarják az igazi olvasást",
+                "A kontextus-olvasás csalás, ezért kerülendő"
+              ],
+              "en": [
+                "The object carries no real information at all",
+                "The object carries real signals — material, wear, smell, style, age — and a large part of the impressions is built from these, from association and context reading",
+                "The object's signals only disturb the true reading",
+                "Context reading is cheating and must be avoided"
+              ]
+            },
+            "correctIndex": 1
+          }
+        ]
+      }
+    }
+  ]
+}

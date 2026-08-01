@@ -1,0 +1,455 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-angelic-work",
+  "nevek": {
+    "hu": "Angyal-munka — vezetők, gyógyulás, bőség — gyakorlatok",
+    "en": "Angelic Work — Guides, Healing, Abundance — practices"
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
+    {
+      "id": "an-csendes-ter",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "A csendes tér — földelés a meghívás előtt",
+        "en": "The quiet space — grounding before the invitation"
+      },
+      "cel": {
+        "hu": "Kiépíteni az alapállapotot, amelyből minden angyal-munka indul: földelt, jelen lévő, csendes figyelem — talptól a lélegzetig.",
+        "en": "To build the base state from which all angelic work begins: grounded, present, quiet attention — from the soles to the breath."
+      },
+      "modszer": [
+        {
+          "hu": "Ülj le kényelmesen, talpad a padlón, gerinced egyenes, de nem merev.",
+          "en": "Sit comfortably, soles on the floor, spine straight but not rigid."
+        },
+        {
+          "hu": "Érezd a testsúlyodat a székben és a talpad nyomását a talajon — időzz itt fél percet.",
+          "en": "Feel your weight in the chair and the pressure of your soles on the ground — linger here for half a minute."
+        },
+        {
+          "hu": "Végy három lassú lélegzetet, a kilégzést hagyd hosszabbra a belégzésnél.",
+          "en": "Take three slow breaths, letting the exhale run longer than the inhale."
+        },
+        {
+          "hu": "Nevezz meg magadban három hangot, amit hallasz, és két érzetet, amit a testedben érzel — ez horgonyoz a jelenbe.",
+          "en": "Silently name three sounds you hear and two sensations you feel in your body — this anchors you in the present."
+        },
+        {
+          "hu": "Zárd egyetlen mondattal, saját szavaiddal: csendben vagy, jelen vagy, kezdődhet a munka.",
+          "en": "Close with a single sentence in your own words: you are quiet, you are present, the work can begin."
+        }
+      ],
+      "keret": {
+        "hu": "A földelés az angyal-munka legjózanabb eleme: rokona az érzékszervi jelen-lét gyakorlatoknak, és semmi rendkívülit nem ígér. Éppen ezért ezzel kezdünk — a mérce, hogy a meghívás előtt tényleg csendesebb és összeszedettebb vagy-e.",
+        "en": "Grounding is the most sober element of angelic work: a cousin of sensory presence practices, promising nothing extraordinary. That is exactly why we begin here — the measure is whether you are truly quieter and more collected before the invitation."
+      },
+      "sorszam": 1
+    },
+    {
+      "id": "an-minoseg-meghivas",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Levego",
+      "cim": {
+        "hu": "Meghívás — egy minőség megszólítása",
+        "en": "Invitation — addressing one quality"
+      },
+      "cel": {
+        "hu": "Megtanulni a meghívás mozdulatát: egy arkangyal-minőség megszólítását névvel és tartalommal — szándék-fókuszáló rítusként, amely kijelöli a napi munka irányát.",
+        "en": "To learn the move of invitation: addressing one archangel quality by name and content — as an intention-focusing rite that marks out the direction of the day's work."
+      },
+      "modszer": [
+        {
+          "hu": "Építsd fel a csendes teret az első gyakorlat szerint.",
+          "en": "Build the quiet space as in the first practice."
+        },
+        {
+          "hu": "Válaszd ki a minőséget a valódi szükségleted szerint: védelem és bátorság (Mihály), tiszta szó (Gábriel), kísérés (Ráfael) vagy bölcsesség (Uriel).",
+          "en": "Choose the quality by your real need: protection and courage (Michael), clear speech (Gabriel), accompaniment (Raphael) or wisdom (Uriel)."
+        },
+        {
+          "hu": "Szólítsd meg névvel és tartalommal, hangosan vagy magadban: „Mihály — a védelem minősége.”",
+          "en": "Address it by name and content, aloud or silently: 'Michael — the quality of protection.'"
+        },
+        {
+          "hu": "Maradj két-három percig figyelő csendben: mi változik a testedben, a hangulatodban, a gondolataid irányában?",
+          "en": "Stay in attentive silence for two or three minutes: what changes in your body, your mood, the direction of your thoughts?"
+        },
+        {
+          "hu": "Zárd röviden köszönettel, és jegyezd fel egyetlen mondatban, mit vettél észre.",
+          "en": "Close briefly with thanks, and note in a single sentence what you noticed."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a megszólítást valós segítő hívásának olvassa — ezt a hagyomány elbeszéléseként jegyezzük fel, nem tényként. Amit közvetlenül mérsz, az a figyelmed fókuszálódása és az állapotod változása: a kettős lencse mindkét olvasatában ez a gyakorlat hozama.",
+        "en": "The tradition reads the address as calling a real helper — we record this as the tradition's narrative, not as fact. What you measure directly is the focusing of your attention and the change of your state: in both readings of the double lens, this is the practice's yield."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "an-keres",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "A kérés — konkrétan, első személyben",
+        "en": "The request — concrete, in the first person"
+      },
+      "cel": {
+        "hu": "A jól formált kérés begyakorlása: konkrét, őszinte, egyes szám első személyű, és a saját cselekvésedhez kötött — mert a kimondott kérés fél önismeret.",
+        "en": "To practise the well-formed request: concrete, honest, first person singular, tied to your own action — because a spoken request is half self-knowledge."
+      },
+      "modszer": [
+        {
+          "hu": "Csendes tér, majd meghívás — az előző két gyakorlat szerint.",
+          "en": "Quiet space, then invitation — as in the previous two practices."
+        },
+        {
+          "hu": "Fogalmazd meg a kérést a saját tettedhez kötve: „Bátorságot kérek a holnapi beszélgetéshez” — ne azt, hogy más vagy a helyzet változzon meg helyetted.",
+          "en": "Phrase the request tied to your own deed: 'I ask for courage for tomorrow's conversation' — not that someone else or the situation should change in your place."
+        },
+        {
+          "hu": "Mondd ki lassan, hangosan vagy magadban, egyes szám első személyben.",
+          "en": "Say it slowly, aloud or silently, in the first person singular."
+        },
+        {
+          "hu": "Figyeld meg, mit árul el a kérésed: mire van valójában szükséged most? Jegyezd fel.",
+          "en": "Observe what your request reveals: what do you truly need right now? Write it down."
+        },
+        {
+          "hu": "Zárd köszönettel — a hála-zárás a következő gyakorlat.",
+          "en": "Close with thanks — the gratitude close is the next practice."
+        }
+      ],
+      "keret": {
+        "hu": "A jól megfogalmazott kérés önismereti eszköz: kimondja, mire van szükséged, és ezzel már irányt is ad. Hogy a kérést hallja-e valaki a hagyomány értelmében, azt a hagyomány elbeszéléseként tartjuk számon — a mérhető gyümölcs a tisztázódás.",
+        "en": "A well-formed request is a tool of self-knowledge: it names what you need, and in doing so already gives direction. Whether the request is heard in the tradition's sense, we hold as the tradition's narrative — the measurable fruit is clarification."
+      },
+      "etika": {
+        "hu": "A kérés soha nem döntés-kiszervezés: „mit tegyek?” helyett kérdezd, mire van szükséged a jó döntéshez. A döntést mindig te hozod, és a naplóban indokolod.",
+        "en": "The request is never the outsourcing of a decision: instead of 'what should I do?', ask what you need in order to decide well. The decision is always made by you, and you justify it in the journal."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "an-hala-zaras",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Hála-zárás és hála-bejegyzés",
+        "en": "Gratitude close and gratitude entry"
+      },
+      "cel": {
+        "hu": "Minden ülés lezárása hálával, és a rítus munkává tétele: a hála-bejegyzés a naplóban rögzíti a kérést és három hála-tételt.",
+        "en": "To close every session with gratitude and turn the rite into work: the gratitude entry records in the journal the request and three items of gratitude."
+      },
+      "modszer": [
+        {
+          "hu": "Az ülés végén mondj köszönetet a megszólított minőségnek — röviden, saját szavaiddal.",
+          "en": "At the end of the session give thanks to the addressed quality — briefly, in your own words."
+        },
+        {
+          "hu": "Nyisd meg a naplót még ugyanabban az öt percben.",
+          "en": "Open the journal within the same five minutes."
+        },
+        {
+          "hu": "Írd le, mit kértél — majd három dolgot, amiért ma hálás vagy: konkrétat, kicsit, valódit.",
+          "en": "Write down what you asked for — then three things you are grateful for today: concrete, small, real ones."
+        },
+        {
+          "hu": "Hetente egyszer olvasd vissza a bejegyzéseket, és figyeld a mintázatot: mi tér vissza, mi változik?",
+          "en": "Once a week read the entries back and watch the pattern: what returns, what changes?"
+        }
+      ],
+      "keret": {
+        "hu": "A hála-gyakorlat a modul lélektanilag legjobban alátámasztott eleme: a figyelmet arról, ami hiányzik, arra állítja át, ami már megvan. A naplózás teszi a rítust munkává — enélkül csak hangulat marad.",
+        "en": "The gratitude practice is the module's psychologically best-supported element: it retunes attention from what is missing to what is already present. Journaling turns the rite into work — without it, only a mood remains."
+      },
+      "sorszam": 4
+    },
+    {
+      "id": "an-negy-minoseg",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "A négy minőség köre — önleltár",
+        "en": "The circle of four qualities — a self-inventory"
+      },
+      "cel": {
+        "hu": "A négy arkangyal-minőség mint önleltár-térkép: sorra kérdezni, hol van most szükséged védelemre, tiszta szóra, kísérésre és bölcsességre.",
+        "en": "The four archangel qualities as a self-inventory map: asking in turn where you now need protection, clear speech, accompaniment and wisdom."
+      },
+      "modszer": [
+        {
+          "hu": "Csendes tér, majd idézd fel sorban a négy minőséget: Mihály — védelem és bátorság; Gábriel — üzenet és tiszta szó; Ráfael — kísérés; Uriel — fény és bölcsesség.",
+          "en": "Quiet space, then recall the four qualities in turn: Michael — protection and courage; Gabriel — message and clear speech; Raphael — accompaniment; Uriel — light and wisdom."
+        },
+        {
+          "hu": "Mindegyik minőségnél kérdezd meg: „az életem melyik pontján van erre most szükségem?”",
+          "en": "At each quality ask: 'at which point of my life do I need this right now?'"
+        },
+        {
+          "hu": "Jegyezz fel minőségenként egyetlen konkrét élethelyzetet — négy sor, nem több.",
+          "en": "Note one concrete life situation per quality — four lines, no more."
+        },
+        {
+          "hu": "Válaszd ki a négyből azt az egyet, amelyik a legégetőbb, és fogalmazz hozzá kérést a kérés-gyakorlat szabályai szerint.",
+          "en": "Choose the one of the four that burns most, and phrase a request for it by the rules of the request practice."
+        },
+        {
+          "hu": "Zárd hálával és naplóval.",
+          "en": "Close with gratitude and the journal."
+        }
+      ],
+      "keret": {
+        "hu": "A négy név itt leltár-térképként dolgozik: a minőségek nyelve segít végigtapogatni, hol szorít az élet. Hogy a nevek mögött valós segítők állnak-e, a hagyomány elbeszélése — a négy soros leltár viszont kézzelfogható önismereti hozam.",
+        "en": "The four names work here as an inventory map: the language of qualities helps you feel out where life pinches. Whether real helpers stand behind the names is the tradition's narrative — the four-line inventory, however, is a tangible yield of self-knowledge."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "an-vezeto-talalkozas",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Vezető-találkozás — kettős lencsével",
+        "en": "Meeting the guide — with the double lens"
+      },
+      "cel": {
+        "hu": "Az astral.explorations belső-vezető gyakorlatára építve találkozni a vezetővel, egyetlen valódi kérdéssel — és a kapott anyagot álomként, nem ítéletként olvasni.",
+        "en": "Building on the inner-guide practice of astral.explorations, to meet the guide with one real question — and to read the received material like a dream, not like a verdict."
+      },
+      "modszer": [
+        {
+          "hu": "Földelés és csend, majd építsd fel a belső teret, ahogy az astral.explorations moduljában tanultad.",
+          "en": "Grounding and silence, then build the inner space as you learned in the astral.explorations module."
+        },
+        {
+          "hu": "Hívd meg a vezetőt — és várj. Ne gyártsd a képet: engedd megérkezni, ahogy jön.",
+          "en": "Invite the guide — and wait. Do not manufacture the image: let it arrive as it comes."
+        },
+        {
+          "hu": "Tegyél fel egyetlen valódi kérdést, amely tényleg foglalkoztat.",
+          "en": "Ask one real question that truly concerns you."
+        },
+        {
+          "hu": "Figyelj ítélkezés nélkül: kép, szó, testérzet, hangulat — bármi lehet válasz-anyag.",
+          "en": "Attend without judgement: image, word, body sensation, mood — anything can be answer-material."
+        },
+        {
+          "hu": "Búcsúzz hálával, lépj ki, és azonnal jegyezd le, amit kaptál.",
+          "en": "Say farewell with gratitude, step out, and write down at once what you received."
+        },
+        {
+          "hu": "Másnap olvasd újra a jegyzetet, és kérdezd meg: mit mond rólam, hogy éppen ez jött?",
+          "en": "The next day re-read the note and ask: what does it say about me that exactly this came?"
+        }
+      ],
+      "keret": {
+        "hu": "A kettős lencse itt a tartóváz: a vezető olvasható belső alaknak — a psziché bölcsebb részének, az aktív imagináció logikája szerint —, vagy valós segítőnek, ahogy a hagyomány tartja. A gyakorlat mindkét olvasatban ugyanaz, és nem kell választanod. A munka a jegyzetben történik.",
+        "en": "The double lens is the frame here: the guide can be read as an inner figure — a wiser part of the psyche, by the logic of active imagination — or as a real helper, as the tradition holds. The practice is the same in both readings, and you need not choose. The work happens in the note."
+      },
+      "etika": {
+        "hu": "Ha a vezető „hangja” parancsol, sürget, fenyeget vagy nyomaszt, az nem vezetés: tedd le a gyakorlatot, és visszatérő élménynél beszélj szakemberrel. Akut lelki instabilitásban ezt a gyakorlatot ne végezd.",
+        "en": "If the guide's 'voice' commands, urges, threatens or oppresses, that is not guidance: put the practice down, and with a recurring experience speak with a professional. In acute psychological instability, do not do this practice."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "an-felsobb-en-parbeszed",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Párbeszéd-írás a felsőbb énnel",
+        "en": "Written dialogue with the higher self"
+      },
+      "cel": {
+        "hu": "Írásos párbeszéd a bölcsebb önmagaddal: kérdés és mérlegelés nélküli első válasz váltakozása — a cenzor megkerülése, hogy felszínre jöjjön, amit már tudsz.",
+        "en": "A written dialogue with your wiser self: alternating question and undeliberated first answer — bypassing the censor so that what you already know can surface."
+      },
+      "modszer": [
+        {
+          "hu": "Csendes tér, majd írd le a lap tetejére a kérdésedet — egyetlen valódi kérdést.",
+          "en": "Quiet space, then write your question at the top of the page — one real question."
+        },
+        {
+          "hu": "Írd le válaszként az első dolgot, ami jön — mérlegelés, javítás, ítélkezés nélkül.",
+          "en": "Write as the answer the first thing that comes — without deliberation, correction or judgement."
+        },
+        {
+          "hu": "Kérdezz vissza a válaszra, és válaszolj újra ugyanígy — folytasd a váltakozást tíz-tizenöt percig.",
+          "en": "Question the answer, and answer again the same way — continue the alternation for ten to fifteen minutes."
+        },
+        {
+          "hu": "Ha elakadsz, írd le szó szerint: „nem tudom, mit írjak”, amíg újra megindul.",
+          "en": "If you stall, write literally: 'I do not know what to write', until it starts again."
+        },
+        {
+          "hu": "A végén olvasd el az egészet anyagként, távolságból — és a lényegét vezesd át a naplóba.",
+          "en": "At the end read the whole as material, from a distance — and carry its essence over into the journal."
+        }
+      ],
+      "keret": {
+        "hu": "A technika a szabad írás rokona: az ítélkezés kikapcsolása olyan tartalmakat enged felszínre, amelyekhez a belső cenzor egyébként nem enged hozzá. A hagyomány a válaszokat a felsőbb én szavának olvassa — mi feljegyezzük ezt az olvasatot, és a mérhető hozamot nézzük: ami előjött, az belőled jött, és önismereti arany.",
+        "en": "The technique is a cousin of free writing: switching off judgement lets contents surface that the inner censor otherwise guards. The tradition reads the answers as the voice of the higher self — we record that reading, and look at the measurable yield: what surfaced came from you, and it is gold for self-knowledge."
+      },
+      "etika": {
+        "hu": "Az írás anyaga mérlegelendő gondolat, nem parancs. Ha a szöveg tartósan külsőnek, parancsolónak érződik, és nyomaszt vagy ijeszt, tedd le a gyakorlatot, és fordulj szakemberhez. Akut lelki instabilitásban a gyakorlat kerülendő.",
+        "en": "The material of the writing is thought to be weighed, not a command. If the text persistently feels external and commanding, and it oppresses or frightens you, put the practice down and turn to a professional. In acute psychological instability the practice is to be avoided."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "an-kisert-legzes",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Kísért lélegzés — a Ráfael-kép önszabályozáshoz",
+        "en": "Accompanied breathing — the Raphael image for self-regulation"
+      },
+      "cel": {
+        "hu": "Tanulható önszabályozó fogás a mindennapi feszültségre: a kísérő minőségének képe és a hosszított kilégzés együtt — pontos határokkal arról, mit tud és mit nem.",
+        "en": "A learnable self-regulation device for everyday tension: the image of the accompanying quality together with the lengthened exhale — with precise boundaries about what it can and cannot do."
+      },
+      "modszer": [
+        {
+          "hu": "Ülj le, talpad a talajon, végy három lassú lélegzetet.",
+          "en": "Sit down, soles on the ground, take three slow breaths."
+        },
+        {
+          "hu": "Idézd fel a kísérő minőségét: valaki jár melletted az úton — nem old meg helyetted semmit, de nem vagy egyedül.",
+          "en": "Recall the quality of the companion: someone walks beside you on the road — solving nothing in your place, yet you are not alone."
+        },
+        {
+          "hu": "Lélegezz négy–hat ütemben: belégzés négyig számolva, kilégzés hatig — a hosszabb kilégzés a test saját csillapítója.",
+          "en": "Breathe in a four–six rhythm: inhale counting to four, exhale to six — the longer exhale is the body's own soother."
+        },
+        {
+          "hu": "Folytasd három-öt percig, a figyelmedet a lélegzeten és a kísérő képén tartva.",
+          "en": "Continue for three to five minutes, keeping your attention on the breath and the companion image."
+        },
+        {
+          "hu": "Zárd hálával, és jegyezd a naplóba: feszültség előtte és utána, 1–10 skálán.",
+          "en": "Close with gratitude and note in the journal: tension before and after, on a 1–10 scale."
+        }
+      ],
+      "keret": {
+        "hu": "A megnyugtató kép és a lassított kilégzés együtt valódi, tanulható önszabályozás. Ráfael „gyógyító minősége” ebben a keretben a hagyomány szimbóluma, amely a gyakorlatot melegen tartja — nem hatóanyag és nem orvosi állítás.",
+        "en": "The calming image and the slowed exhale together are real, learnable self-regulation. Raphael's 'healing quality' in this frame is the tradition's symbol keeping the practice warm — not an active agent and not a medical claim."
+      },
+      "etika": {
+        "hu": "Ez a gyakorlat nem terápia és nem kezelés: semmilyen betegséget nem gyógyít, és semmilyen ellátást nem helyettesít és nem késleltethet. Tartós, visszatérő vagy a munkádat-alvásodat rontó szorongásnál fordulj szakemberhez — háziorvoshoz, pszichológushoz, krízisvonalhoz. Ha a gyakorlat növeli a feszültséget, tedd le.",
+        "en": "This practice is not therapy and not treatment: it cures no illness, and it neither replaces nor may delay any care. With persistent, recurring anxiety, or anxiety eroding your work or sleep, see a professional — a GP, a psychologist, a crisis line. If the practice increases tension, put it down."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "an-boseg-leltar",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Bőség-leltár — híd a Saint Germain modulhoz",
+        "en": "Abundance inventory — bridge to the Saint Germain module"
+      },
+      "cel": {
+        "hu": "A szűkösség-fókusz átfordítása ellátottság-fókuszba: esti bőség-leltár, és a bőség-kérés saját cselekvéshez kötése — a mélyebb munka a Saint Germain modulban folytatódik.",
+        "en": "Turning scarcity-focus into provision-focus: an evening abundance inventory, and tying the abundance request to your own action — the deeper work continues in the Saint Germain module."
+      },
+      "modszer": [
+        {
+          "hu": "Este írj öt tételt, ami ma „bejött” az életedbe: étel, találkozás, egy jó szó, egy lehetőség, egy megoldódott apróság.",
+          "en": "In the evening write five items that 'came in' to your life today: a meal, a meeting, a kind word, an opportunity, a small thing resolved."
+        },
+        {
+          "hu": "Fogalmazz bőség-kérést a saját tettedhez kötve: „lássam tisztán a lehetőségeimet, és legyen bátorságom lépni” — ne összegre, hanem látásra és lépésre kérj.",
+          "en": "Phrase an abundance request tied to your own deed: 'may I see my opportunities clearly and have the courage to step' — ask not for a sum but for sight and step."
+        },
+        {
+          "hu": "Hetente olvasd vissza a leltárakat, és jegyezd fel, mit veszel észre: bővül-e, amit áramlásként észreveszel?",
+          "en": "Weekly, read the inventories back and note what you observe: is what you notice as flow widening?"
+        },
+        {
+          "hu": "Ha mélyíteni akarod a bőség-munkát, nyisd meg a Saint Germain modult — ott találod a teljes rendszert.",
+          "en": "If you want to deepen the abundance work, open the Saint Germain module — the full system awaits there."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a bőséget áramlásnak látja, amelyhez a hála nyit kaput — ezt a hagyomány elbeszéléseként tartjuk számon. A mérhető hozam a figyelem átállása: aki leltároz, több lehetőséget vesz észre, és ez már cselekvési előny.",
+        "en": "The tradition sees abundance as a flow whose gate gratitude opens — we hold this as the tradition's narrative. The measurable yield is the retuning of attention: one who keeps the inventory notices more opportunities, and that alone is an advantage in action."
+      },
+      "etika": {
+        "hu": "Ez a gyakorlat nem pénzügyi tanács és nem ígéret. Pénzügyi döntést sose alapozz gyakorlat-élményre: számolj, kérj hozzáértő tanácsot, és a döntésedet éber fejjel, a naplóban indokolva hozd meg.",
+        "en": "This practice is not financial advice and not a promise. Never base a financial decision on a practice experience: run the numbers, seek qualified advice, and make your decision with an awake head, justified in the journal."
+      },
+      "sorszam": 9
+    },
+    {
+      "id": "an-megkulonboztetes",
+      "mester": "Angyal-munka — vezetők, gyógyulás, bőség",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "Megkülönböztetés-próba — a mester-készség",
+        "en": "The discernment test — the master skill"
+      },
+      "cel": {
+        "hu": "Minden kapott „üzenet” szűrése három kérdéssel, mielőtt bármit beengedsz — a Kaspirovszkij-lecke kritikus szünetének és a mentalizmus-pajzsnak az angyal-munkára hangolt változata.",
+        "en": "Filtering every received 'message' with three questions before letting anything in — the Kashpirovsky lesson's critical pause and the mentalism shield, tuned to angelic work."
+      },
+      "modszer": [
+        {
+          "hu": "Bármely gyakorlatból jött anyagnál először állj meg: ez a kritikus szünet — semmit nem fogadsz be vizsgálat nélkül.",
+          "en": "With material from any practice, first stop: this is the critical pause — you take nothing in without examination."
+        },
+        {
+          "hu": "Tedd fel az első kérdést: hív vagy parancsol? A hívás teret hagy — a parancs szorít.",
+          "en": "Ask the first question: does it invite or command? An invitation leaves room — a command squeezes."
+        },
+        {
+          "hu": "Tedd fel a másodikat: nyugtat vagy nyomaszt? A jó anyag akkor is nyugodt, ha kényelmetlen igazságot hoz.",
+          "en": "Ask the second: does it calm or oppress? Good material stays calm even when it brings an uncomfortable truth."
+        },
+        {
+          "hu": "Tedd fel a harmadikat: nálam hagyja-e a döntést? Ami dönteni akar helyetted, az nem vezetés.",
+          "en": "Ask the third: does it leave the decision with me? Whatever wants to decide in your place is not guidance."
+        },
+        {
+          "hu": "Csak az az anyag megy a naplóba mérlegelésre, ami mindhárom próbán átment; ami parancsol, azt tedd le.",
+          "en": "Only material that passes all three tests goes into the journal for weighing; whatever commands, put down."
+        },
+        {
+          "hu": "Ha a parancsoló-nyomasztó élmény visszatér, szüneteltesd az egész gyakorlat-kört, és beszélj szakemberrel.",
+          "en": "If the commanding-oppressive experience returns, pause the whole circle of practices and speak with a professional."
+        }
+      ],
+      "keret": {
+        "hu": "A megkülönböztetés az angyal-munka mester-készsége, és az app pajzsainak gyűjtőpontja: a Kaspirovszkij-lecke kritikus szünete, a mentalizmus-pajzs immunitása és a médiumság-modul belső-külső megkülönböztetése itt egyetlen szűrővé áll össze. A szűrő nem a hagyomány ellen dolgozik — a gyakorlót tartja épen.",
+        "en": "Discernment is the master skill of angelic work and the gathering point of the app's shields: the critical pause of the Kashpirovsky lesson, the immunity of the mentalism shield and the inner-outer discernment of the mediumship module combine here into a single filter. The filter does not work against the tradition — it keeps the practitioner whole."
+      },
+      "etika": {
+        "hu": "Egészségről, pénzről vagy kapcsolatról szóló döntést soha ne bízz gyakorlat-anyagra: azt éber fejjel, tényekkel és — ha kell — hozzáértő segítséggel hozd meg. Akut krízisben ne gyakorolj, hanem kérj segítséget: szakember, krízisvonal.",
+        "en": "Never entrust a decision about health, money or a relationship to practice material: make it with an awake head, with facts and — where needed — qualified help. In an acute crisis do not practise but seek help: a professional, a crisis line."
+      },
+      "sorszam": 10
+    }
+  ]
+}

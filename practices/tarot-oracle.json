@@ -1,0 +1,400 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-tarot-oracle",
+  "nevek": {
+    "hu": "Tarot és orákulum — a psziché tükre — gyakorlatok",
+    "en": "Tarot and Oracle — Mirror of the Psyche — practices"
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
+    {
+      "id": "to-kep-szo-nelkul",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A kép szó nélkül",
+        "en": "The image without words"
+      },
+      "cel": {
+        "hu": "Megtanulni a lapot képként nézni, jelentés-címkék nélkül — minden projektív munka alapja: előbb a saját nyers benyomás, csak utána a lexikon.",
+        "en": "To learn to look at a card as an image, without meaning labels — the foundation of all projective work: first your own raw impression, only then the lexicon."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz találomra egy lapot a pakliból, és állítsd magad elé.",
+          "en": "Pick a card from the deck at random and set it before you."
+        },
+        {
+          "hu": "Két-három percen át csak nézd — ne nevezd meg, ne értelmezd.",
+          "en": "For two or three minutes just look — do not name it, do not interpret it."
+        },
+        {
+          "hu": "Figyeld, hová téved a szemed: melyik alak, tárgy, szín vonz, és melyik taszít.",
+          "en": "Notice where your eye wanders: which figure, object, colour pulls you, and which pushes you away."
+        },
+        {
+          "hu": "Nevezd meg egyetlen szóval az érzést, amit a kép kelt benned.",
+          "en": "Name in a single word the feeling the image stirs in you."
+        },
+        {
+          "hu": "Jegyezd le a naplóba a részletet és az érzést — jelentés-könyv nélkül.",
+          "en": "Note the detail and the feeling in the journal — without any meaning-book."
+        }
+      ],
+      "keret": {
+        "hu": "A lap többértelmű kép, és amit meglátsz benne, rólad beszél — ez a gyakorlat lényege, nem a hibája. Ugyanaz a logika dolgozik itt, mint a lélektan projektív tesztjeiben: a kép nyitott, a történetet te hozod.",
+        "en": "The card is an ambiguous image, and what you see in it speaks about you — that is the point of the practice, not its flaw. The same logic works here as in psychology's projective tests: the image is open, the story is yours."
+      },
+      "sorszam": 1
+    },
+    {
+      "id": "to-egylapos-napi",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Egylapos napi húzás",
+        "en": "The one-card daily draw"
+      },
+      "cel": {
+        "hu": "A modul alapprotokolljának napi begyakorlása: kép először, hagyomány utána, végül írás — hogy a lap a nap figyelem-fókusza legyen, ne jóslata.",
+        "en": "Daily training of the module's core protocol: image first, tradition after, writing last — so the card becomes the day's attention-focus, not its forecast."
+      },
+      "modszer": [
+        {
+          "hu": "Reggel, csendben keverd meg a paklit, és húzz egy lapot képpel felfelé.",
+          "en": "In the morning, in quiet, shuffle the deck and draw one card face up."
+        },
+        {
+          "hu": "Először CSAK a képet nézd: mi ugrik be elsőre, hová téved a szemed, mi az első érzés.",
+          "en": "First look ONLY at the image: what leaps out, where your eye wanders, what the first feeling is."
+        },
+        {
+          "hu": "Csak ezután idézd fel vagy nézd meg röviden a hagyományos jelentést, és figyeld meg, hol találkozik a benyomásoddal és hol tér el.",
+          "en": "Only then recall or briefly look up the traditional meaning, and observe where it meets your impression and where it departs."
+        },
+        {
+          "hu": "Írj öt percen át folyamatosan a napló-kérdésre: „Az életem melyik pontját érinti ez ma?”",
+          "en": "Write continuously for five minutes on the journal question: 'Which point of my life does this touch today?'"
+        },
+        {
+          "hu": "Este fél percben nézz vissza: mit vettél észre napközben, amit a reggeli lap fókuszba tett.",
+          "en": "In the evening take half a minute to look back: what did you notice during the day that the morning card had brought into focus."
+        }
+      ],
+      "keret": {
+        "hu": "A napi lap nem a nap előrejelzése, hanem figyelem-fókusz. A Barnum-hatás miatt szinte minden lap „stimmelni” fog — éppen ezért a mérce nem a találat-érzés, hanem az írásos, konkrét munka, amit a lap kiváltott.",
+        "en": "The daily card is not a forecast of the day but an attention-focus. Because of the Barnum effect almost any card will seem to 'fit' — which is exactly why the measure is not the feeling of a hit but the concrete written work the card set off."
+      },
+      "etika": {
+        "hu": "A napi lap nem hoz döntést és nem jósol: döntés előtt a saját, éber mérlegelésed a mérvadó, és a naplóban indokolsz. Ha a húzás kényszeressé válik, tarts szünetet.",
+        "en": "The daily card makes no decision and tells no fortune: before a decision your own waking judgement is the authority, and you justify it in the journal. If drawing becomes compulsive, take a break."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "to-negy-szin-elemei",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "kezdo",
+      "sik": "test",
+      "cim": {
+        "hu": "A négy szín — elemek a kézben",
+        "en": "The four suits — elements in hand"
+      },
+      "cel": {
+        "hu": "A kis árkánum négy színének elem-minőségét kézközelből megismerni — Bardon tűz–víz–levegő–föld négyességének képi rokonaként.",
+        "en": "To come to know the element quality of the Minor Arcana's four suits at close hand — as the pictorial cousin of Bardon's fire-water-air-earth fourfold."
+      },
+      "modszer": [
+        {
+          "hu": "Válogasd szét a kis árkánumot négy kupacba: Botok, Kelyhek, Kardok, Érmék.",
+          "en": "Sort the Minor Arcana into four piles: Wands, Cups, Swords, Coins."
+        },
+        {
+          "hu": "Végy kézbe egy-egy kupacot, lapozd át lassan, és figyeld a visszatérő hangulatot, mozdulatokat, tájakat.",
+          "en": "Take up each pile in turn, leaf through it slowly, and notice the recurring mood, gestures, landscapes."
+        },
+        {
+          "hu": "Nevezd meg a négy minőséget: Botok=tűz (akarat, lendület), Kelyhek=víz (érzés, kapcsolat), Kardok=levegő (gondolat, konfliktus), Érmék=föld (test, munka, anyag).",
+          "en": "Name the four qualities: Wands=fire (will, drive), Cups=water (feeling, relationship), Swords=air (thought, conflict), Coins=earth (body, work, matter)."
+        },
+        {
+          "hu": "Idézd fel, melyik elem-minőség a legismerősebb neked — és melyik a legidegenebb.",
+          "en": "Recall which element quality is most familiar to you — and which most foreign."
+        },
+        {
+          "hu": "Naplózd a két választ egy-egy mondat indoklással.",
+          "en": "Journal both answers with one sentence of reasoning each."
+        }
+      ],
+      "keret": {
+        "hu": "Ha jártad Bardon elem-lépéseit, itt képi formában találkozol ugyanazzal a négyességgel — a pakli az app elem-nyelvének képes szótára. A megfeleltetés a hagyomány konvenciója: rend, amelyben dolgozunk, nem természeti törvény.",
+        "en": "If you have walked Bardon's element steps, here you meet the same fourfold in pictorial form — the deck is a picture dictionary of the app's element language. The mapping is the tradition's convention: an order we work in, not a law of nature."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "to-bolond-utja",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Ido",
+      "cim": {
+        "hu": "A Bolond útja — kirakás",
+        "en": "The Fool's journey — the layout"
+      },
+      "cel": {
+        "hu": "A 22 nagy árkánum lapot fejlődés-térképként bejárni, és megtalálni rajta a saját mostani szakaszod — írásos indoklással.",
+        "en": "To walk the 22 Major Arcana cards as a development map and find your own current stage on it — with written reasoning."
+      },
+      "modszer": [
+        {
+          "hu": "Rakd ki a 22 nagy árkánum lapot sorban, a Bolondtól (0) a Világig (XXI).",
+          "en": "Lay out the 22 Major Arcana cards in order, from the Fool (0) to the World (XXI)."
+        },
+        {
+          "hu": "Járd végig a sort a szemeddel, mint egy történetet: indulás, eszközök, belső hang, próbák, visszavonulás, lezárás, összeomló hamis szerkezet, integráció.",
+          "en": "Walk the row with your eyes like a story: departure, tools, inner voice, trials, withdrawal, closure, collapsing false structure, integration."
+        },
+        {
+          "hu": "Kérdezd meg: „hol állok most ezen a térképen?” — és válaszd ki a lapot, amelyik a mostani szakaszodat mutatja.",
+          "en": "Ask: 'where do I stand on this map now?' — and choose the card that shows your current stage."
+        },
+        {
+          "hu": "Írd meg a naplóba, miért éppen ez a lap — konkrét élethelyzetekkel, nem általánosságokkal.",
+          "en": "Write in the journal why this card in particular — with concrete life situations, not generalities."
+        },
+        {
+          "hu": "Zárásként nézd meg a következő állomást a sorban, és írd le egy mondatban, mit kérne tőled az az átmenet.",
+          "en": "To close, look at the next station in the row and write in one sentence what that transition would ask of you."
+        }
+      ],
+      "keret": {
+        "hu": "A „Bolond útja” a hagyomány olvasata: fejlődés-térkép, nem életrajz és nem menetrend. Az érték nem abban van, melyik lapot választod, hanem abban, hogyan indoklod — a kirakás az önelhelyezés írásos gyakorlata.",
+        "en": "The 'Fool's journey' is the tradition's reading: a development map, not a biography and not a timetable. The value lies not in which card you choose but in how you justify it — the layout is a written exercise in self-placement."
+      },
+      "sorszam": 4
+    },
+    {
+      "id": "to-haromlapos-reflexio",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Háromlapos reflexió",
+        "en": "The three-card reflection"
+      },
+      "cel": {
+        "hu": "Egy előre megválasztott reflexiós keretben — pl. „mi táplál / mi akaszt / mi kér figyelmet” — három lapon át rendezni a belső anyagot, írásban.",
+        "en": "Within a frame chosen in advance — e.g. 'what feeds me / what snags me / what asks for attention' — to order the inner material across three cards, in writing."
+      },
+      "modszer": [
+        {
+          "hu": "Válaszd meg a keretet ELŐRE, és írd fel a három kérdést a naplóba.",
+          "en": "Choose the frame IN ADVANCE and write the three questions in the journal."
+        },
+        {
+          "hu": "Keverj, és rakd ki a három lapot sorban, a kérdések alá.",
+          "en": "Shuffle and lay the three cards in a row, beneath the questions."
+        },
+        {
+          "hu": "Lapról lapra ugyanaz a rend: kép először, aztán a hagyomány röviden, végül 2–3 mondat írásban.",
+          "en": "Card by card, the same order: image first, then the tradition briefly, finally 2–3 sentences in writing."
+        },
+        {
+          "hu": "Zárd egyetlen összegző mondattal: „Amit ebből ma meghallok: …”.",
+          "en": "Close with a single summary sentence: 'What I hear from this today: …'."
+        },
+        {
+          "hu": "Tedd vissza a lapokat — a kérdés a naplóban él tovább, nem a paklin.",
+          "en": "Return the cards to the deck — the question lives on in the journal, not on the deck."
+        }
+      ],
+      "keret": {
+        "hu": "Nem múlt–jelen–jövő jóslás: a keret kérdései a te belső anyagodat rendezik. A keretet azért választod a húzás ELŐTT, mert utólag a megerősítési torzítás választana helyetted — azt a keretet „éreznéd meg”, amelyikben a lapok a legkellemesebbet mondják.",
+        "en": "Not past-present-future divination: the frame's questions order your inner material. You choose the frame BEFORE the draw because afterwards confirmation bias would choose for you — you would 'sense' the frame in which the cards say the most pleasant thing."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "to-ellenproba",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "Ellenpróba — torzítás-vadászat",
+        "en": "The counter-check — bias hunting"
+      },
+      "cel": {
+        "hu": "A megerősítési torzítás és a Barnum-hatás tetten érése a saját olvasataidban — a tükör-munka legjózanabb és legmélyebb gyakorlata.",
+        "en": "To catch confirmation bias and the Barnum effect red-handed in your own readings — the soberest and deepest exercise of mirror work."
+      },
+      "modszer": [
+        {
+          "hu": "Végezz el egy szokásos egylapos húzást a teljes írásos protokollal.",
+          "en": "Do an ordinary one-card draw with the full written protocol."
+        },
+        {
+          "hu": "Utána írd meg tudatosan az ellenkező olvasatot: „mit mondana ez a lap, ha az ellenkezőjét akarnám igazolni?”",
+          "en": "Then deliberately write the opposite reading: 'what would this card say if I wanted to prove the opposite?'"
+        },
+        {
+          "hu": "Hasonlítsd össze a két olvasatot: melyik mögött van több valódi megfigyelés — és melyik mögött vágy.",
+          "en": "Compare the two readings: which has more genuine observation behind it — and which has desire."
+        },
+        {
+          "hu": "Jegyezd fel, mit tanultál ebből a saját torzítás-mintádról.",
+          "en": "Note what this taught you about your own pattern of bias."
+        }
+      ],
+      "keret": {
+        "hu": "A mentalizmus-pajzs logikája: aki érti a hatáskeltés mechanizmusát, azt nem vakítja el. Az érték nem vész el attól, hogy átlátod — átkerül oda, ahová való: az önismereti munkába. A nem-stimmelő olvasat ugyanolyan informatív, mint a stimmelő.",
+        "en": "The logic of the mentalism shield: whoever understands the mechanics of effect cannot be dazzled by them. The value is not lost by seeing through it — it moves where it belongs: into the work of self-knowledge. The reading that does not fit is as informative as the one that does."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "to-arnyek-lap",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "Az árnyék-lap",
+        "en": "The shadow card"
+      },
+      "cel": {
+        "hu": "A kellemetlen lapokkal — Halál, Torony, nehéz Kard-jelenetek — való szándékos munka: az ijesztő kép mint az elakadt, lezárásra váró anyag tükre.",
+        "en": "Deliberate work with the unpleasant cards — Death, the Tower, hard Sword scenes: the frightening image as a mirror of stuck material waiting for closure."
+      },
+      "modszer": [
+        {
+          "hu": "Válaszd ki a pakliból azt a lapot, amelyik a legkellemetlenebb neked — most nem húzol: tudatosan választasz.",
+          "en": "Choose from the deck the card most unpleasant to you — no drawing this time: you choose deliberately."
+        },
+        {
+          "hu": "Nézd a képet két-három percig, és figyeld, hol reagál rá a tested.",
+          "en": "Look at the image for two or three minutes and notice where your body reacts."
+        },
+        {
+          "hu": "Kérdezd meg írásban: „Mit zárok le éppen? Milyen szerkezet az életemben az, ami már nem tart meg?”",
+          "en": "Ask in writing: 'What am I closing right now? Which structure in my life no longer holds me?'"
+        },
+        {
+          "hu": "Dolgozz a hagyomány kulcsával: a Halál lezárás és átalakulás, a Torony a hamis szerkezet összeomlása — nem szó szerinti jövendölés.",
+          "en": "Work with the tradition's key: Death is closure and transformation, the Tower the collapse of a false structure — not literal fortune-telling."
+        },
+        {
+          "hu": "Zárd le valami testessel: egy pohár víz, nyújtózás, nyitott ablak — és a lap visszakerül a pakliba.",
+          "en": "Close with something bodily: a glass of water, a stretch, an open window — and the card returns to the deck."
+        }
+      ],
+      "keret": {
+        "hu": "A lap kép, nem ítélet: a kellemetlen kép a saját elakadt anyagod előhívója, és éppen ezért értékes. A katasztrófa-olvasat — amikor a nehéz lapot szó szerinti fenyegetésként olvasod — nem éberség, hanem szorongás-minta, és néven kell nevezni.",
+        "en": "The card is an image, not a verdict: the unpleasant image retrieves your own stuck material, and that is exactly its value. The doom reading — taking a hard card as a literal threat — is not vigilance but an anxiety pattern, and must be named as such."
+      },
+      "etika": {
+        "hu": "Ha egy lap tartós szorongást kelt, vagy a gyakorlat után is nyomaszt, tedd le a paklit, és beszélj valakivel; tartós vagy funkciót rontó mintánál fordulj szakemberhez. Akut lelki krízisben ezt a gyakorlatot ne végezd.",
+        "en": "If a card causes lasting anxiety or weighs on you after the practice, put the deck down and talk to someone; with a persistent or function-impairing pattern, see a professional. Do not do this practice in an acute crisis."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "to-dontes-melle",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Húzás döntés mellé — a vaskeret",
+        "en": "A draw beside a decision — the iron frame"
+      },
+      "cel": {
+        "hu": "Begyakorolni a modul vaskeretét élesben: a lap szempontot ad a mérlegeléshez, de a döntést te hozod, és a naplóban úgy indoklod, hogy a lap nélkül is megállna.",
+        "en": "To train the module's iron frame in real conditions: the card adds a viewpoint to the weighing, but you make the decision, and you justify it in the journal so it would stand even without the card."
+      },
+      "modszer": [
+        {
+          "hu": "Fogalmazd meg írásban a valódi döntéshelyzetet és a szóba jöhető utakat.",
+          "en": "Formulate in writing the real decision situation and the paths under consideration."
+        },
+        {
+          "hu": "Húzz egy lapot — nem „válaszként”, hanem szempont-hozóként: milyen nézőpontot ad a kép, amire eddig nem gondoltál?",
+          "en": "Draw one card — not as an 'answer' but as a viewpoint-bringer: what perspective does the image add that you had not considered?"
+        },
+        {
+          "hu": "Írd össze éber fejjel az érveket és ellenérveket, a lap hozta szemponttal együtt.",
+          "en": "With a waking head, list the arguments for and against, including the viewpoint the card brought."
+        },
+        {
+          "hu": "Hozd meg a döntést TE, és indokold meg a naplóban.",
+          "en": "Make the decision YOURSELF and justify it in the journal."
+        },
+        {
+          "hu": "Ellenőrizd: megállna-e az indoklásod a lap említése nélkül is? Ha nem, a mérlegelés még nem kész.",
+          "en": "Check: would your justification stand without mentioning the card? If not, the weighing is not yet done."
+        },
+        {
+          "hu": "Utólag jegyezd fel, mit adott ténylegesen a lap a folyamathoz.",
+          "en": "Afterwards note what the card actually contributed to the process."
+        }
+      ],
+      "keret": {
+        "hu": "Ez a gyakorlat a modul tartószerkezete: a lap anyagot ad, a felelősség nálad marad. Aki a döntéseit a paklinak adja át, nem tükröt használ, hanem a felelősségét szervezi ki — és pontosan ezt gyakoroljuk el nem tenni.",
+        "en": "This practice is the module's load-bearing structure: the card supplies material, the responsibility stays with you. Whoever hands decisions to the deck is not using a mirror but outsourcing responsibility — and not doing that is exactly what we train."
+      },
+      "etika": {
+        "hu": "Döntést soha nem a kártya hoz. Orvosi, pénzügyi és jogi kérdésben a megfelelő szakember a mérvadó; bűnügy és eltűnt személy keresése lapokkal nem téma — az a hatóságokra tartozik. Akut krízisben nem lapot húzunk, hanem segítséget hívunk.",
+        "en": "A decision is never made by the card. In medical, financial and legal questions the appropriate professional is the authority; searching for crimes or missing persons with cards is not a topic — that belongs to the authorities. In an acute crisis we do not draw a card, we call for help."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "to-sajat-jelentestar",
+      "mester": "Tarot és orákulum — a psziché tükre",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Saját jelentés-tár",
+        "en": "Your own book of meanings"
+      },
+      "cel": {
+        "hu": "Hetek munkájával felépíteni a saját, tapasztalatból nőtt jelentés-szótárad — hogy a végén ne a lexikon olvassa a lapot, hanem a naplód.",
+        "en": "Over weeks of work, to build your own meaning dictionary grown from experience — so that in the end it is not the lexicon reading the card but your journal."
+      },
+      "modszer": [
+        {
+          "hu": "Vezess laponkénti gyűjtőt a naplódban: mikor jött elő a lap, és mit hozott felszínre benned.",
+          "en": "Keep a per-card collection in your journal: when the card appeared and what it surfaced in you."
+        },
+        {
+          "hu": "Havonta olvasd vissza a gyűjtőt, és írd meg lapokként a saját, 1–2 mondatos jelentésed.",
+          "en": "Each month read the collection back and write your own 1–2 sentence meaning per card."
+        },
+        {
+          "hu": "Csak ezután vesd össze Waite közkincs kulcsával (The Pictorial Key to the Tarot, 1911): hol egyezik, hol tér el.",
+          "en": "Only then compare it with Waite's public-domain key (The Pictorial Key to the Tarot, 1911): where it agrees, where it departs."
+        },
+        {
+          "hu": "Az eltérést ne hibának lásd, hanem a saját tükröd rajzolatának — jegyezd fel külön.",
+          "en": "See the departure not as an error but as the tracing of your own mirror — note it separately."
+        },
+        {
+          "hu": "Időnként frissítsd a tárat: élő szöveg, amely veled együtt változik.",
+          "en": "Refresh the collection from time to time: a living text that changes with you."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány jelentés-listái konvenciók — a projektív munkában a te ismétlődő mintáid az igazi adat. A rend ugyanaz, mint az RV-modul vak-protokolljában: előbb a saját nyers adat, csak utána a címke; így a tár a pszichéd térképe lesz, nem egy könyv másolata.",
+        "en": "The tradition's meaning lists are conventions — in projective work your recurring patterns are the real data. The order is the same as in the RV module's blind protocol: first your own raw data, only then the label; thus the collection becomes a map of your psyche, not the copy of a book."
+      },
+      "sorszam": 9
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-psychometry-craft",
+  "nevek": {
+    "hu": "Pszichometria — tárgyolvasás — gyakorlatok",
+    "en": "Psychometry — Object Reading — practices"
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
+    {
+      "id": "pm-erzeki-leltar",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Érzéki leltár — a tárgy csukott szemmel",
+        "en": "Sensory inventory — the object with closed eyes"
+      },
+      "cel": {
+        "hu": "A hétköznapi érzékelés kiélesítése tárgyakon: súly, hő, felület, szag tudatos leltára — a becsületes alap, amelyre minden későbbi olvasás épül.",
+        "en": "Sharpening ordinary perception on objects: a conscious inventory of weight, temperature, surface and smell — the honest base every later reading builds on."
+      },
+      "modszer": [
+        {
+          "hu": "Gyűjts össze három-négy különböző anyagú tárgyat — fém, fa, kő, textil —, és ülj le velük nyugodt helyen.",
+          "en": "Gather three or four objects of different materials — metal, wood, stone, fabric — and sit down with them in a quiet place."
+        },
+        {
+          "hu": "Csukott szemmel vedd kézbe az elsőt, és járd végig lassan: súly, hőmérséklet, felület, élek, kopások.",
+          "en": "With closed eyes take the first in hand and walk through it slowly: weight, temperature, surface, edges, wear."
+        },
+        {
+          "hu": "Emeld az orrodhoz, és jegyezd a szagát is — a legtöbb tárgynak van, csak sosem figyeltél rá.",
+          "en": "Raise it to your nose and note its smell too — most objects have one, you have just never attended to it."
+        },
+        {
+          "hu": "Tedd le, nyisd ki a szemed, és írj minden csatornáról egy-két szót a naplóba.",
+          "en": "Put it down, open your eyes, and write one or two words per channel into the diary."
+        },
+        {
+          "hu": "Ismételd a többi tárggyal, majd zárásként hasonlítsd össze: melyik csatornád a legélesebb, melyik a leghomályosabb?",
+          "en": "Repeat with the other objects, then close by comparing: which of your channels is sharpest, which the dimmest?"
+        }
+      ],
+      "keret": {
+        "hu": "Itt még semmi rendkívüli nem történik — és pontosan ez a lényeg. A tárgy valós jeleinek pontos érzékelése önértékű megfigyelői készség, és nélküle a későbbi benyomás-munka levegőben lógna.",
+        "en": "Nothing extraordinary happens here yet — and that is exactly the point. Precise perception of an object's real signals is an observer's skill of inherent worth, and without it the later impression work would hang in the air."
+      },
+      "sorszam": 1
+    },
+    {
+      "id": "pm-nyers-benyomasok",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Nyers benyomások — megnevezés nélkül",
+        "en": "Raw impressions — without naming"
+      },
+      "cel": {
+        "hu": "A benyomás-csatornák megnyitása egy saját tárgyon: kép, hang, hő, íz, szag, érzelem és testérzet fogadása úgy, hogy egyiket sem címkézed tárggyá vagy történetté.",
+        "en": "Opening the impression channels on an object of your own: receiving image, sound, temperature, taste, smell, emotion and body sense without labelling any of them into an object or a story."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz egy saját tárgyat, ülj le vele nyugodt helyen, és hunyd le a szemed.",
+          "en": "Choose an object of your own, sit down with it in a quiet place, and close your eyes."
+        },
+        {
+          "hu": "Tartsd lazán a kezedben, és várj — ne kergess semmit, csak fogadd, ami érkezik.",
+          "en": "Hold it loosely in your hand and wait — chase nothing, only receive what arrives."
+        },
+        {
+          "hu": "Minden benyomást egy-két szóval jegyezz le, időrendben: szín, hangfoszlány, hőérzet, halvány íz, érzelem, testérzet.",
+          "en": "Note every impression in one or two words, in order: a colour, a scrap of sound, a temperature, a faint taste, an emotion, a body sense."
+        },
+        {
+          "hu": "Ha kész történet vagy tárgynév ugrik be, ne kövesd — jegyezd egy szóval, és térj vissza a nyershez.",
+          "en": "If a finished story or an object name pops up, do not follow it — note it in one word and return to the raw."
+        },
+        {
+          "hu": "Öt-tíz perc után zárd le az ülést, és olvasd vissza a listád: nyersanyagot gyűjtöttél, nem mesét.",
+          "en": "After five to ten minutes close the sitting and read back your list: you have gathered raw material, not a tale."
+        }
+      ],
+      "keret": {
+        "hu": "Hogy a benyomások a tárgy „lenyomatából” érkeznének, a hagyomány saját modellje — mi feljegyezzük őket, forrásmegjelölés nélkül. A mérce itt egyszerű: elevenebb és fegyelmezettebb lesz-e a figyelmed ülésről ülésre.",
+        "en": "That the impressions would arrive from the object's 'imprint' is the tradition's own model — we record them without assigning a source. The measure here is simple: does your attention grow more vivid and more disciplined from sitting to sitting."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "pm-aol-fegyelem",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "AOL-fegyelem — a címke megnevezése",
+        "en": "AOL discipline — naming the label"
+      },
+      "cel": {
+        "hu": "A megnevezés csapdájának begyakorolt kezelése: a felbukkanó címkét és történet-kezdeményt „AOL:” jelöléssel a papírra tenni, majd egy lélegzettel visszatérni a nyers csatornákhoz.",
+        "en": "Trained handling of the naming trap: putting each surfacing label and story-seed on paper with the 'AOL:' mark, then returning to the raw channels with one breath."
+      },
+      "modszer": [
+        {
+          "hu": "Kezdj egy szokásos nyers-benyomás ülést egy tárggyal, papírral és tollal.",
+          "en": "Begin an ordinary raw-impression sitting with an object, paper and pen."
+        },
+        {
+          "hu": "Ezen az ülésen kifejezetten vadászd a címkéket: amint tárgynév, személy vagy történet jelenik meg, ismerd fel a kerekségéről.",
+          "en": "In this sitting, deliberately hunt the labels: the moment an object name, a person or a story appears, recognise it by its roundness."
+        },
+        {
+          "hu": "Írd a papírra: „AOL:” és a címke egy-két szava — se el ne fojtsd, se ne kövesd.",
+          "en": "Write on the paper: 'AOL:' and one or two words of the label — neither suppress it nor follow it."
+        },
+        {
+          "hu": "Végy egy lassú lélegzetet, és kérdezd újra a nyers csatornákat: milyen szín, milyen hő, milyen érzelem?",
+          "en": "Take one slow breath and ask the raw channels again: what colour, what temperature, what emotion?"
+        },
+        {
+          "hu": "Az ülés végén számold meg az AOL-jelöléseket — a szám csökkenése hétről hétre a fejlődésed egyik legtisztább mércéje.",
+          "en": "At the end of the sitting count the AOL marks — their decline week by week is one of the cleanest measures of your progress."
+        }
+      ],
+      "keret": {
+        "hu": "Az AOL-fegyelem a távolbalátás módszertanából érkezik — a szabaddá tett Stargate-jegyzőkönyvek visszatérő fogása —, és minden benyomás-munkában ugyanúgy véd: a megnevezett vendég nem veszi át a házat.",
+        "en": "AOL discipline comes from remote-viewing methodology — a recurring device of the declassified Stargate protocols — and it protects all impression work the same way: a guest called by name does not take over the house."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "pm-teljes-jegyzokonyv",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Ido",
+      "cim": {
+        "hu": "A teljes jegyzőkönyv — fejléctől az állításokig",
+        "en": "The full protocol — from header to claims"
+      },
+      "cel": {
+        "hu": "A teljes jegyzőkönyv-szerkezet begyakorlása egyetlen ülésben: fejléc, időrendi benyomások, AOL-jelölések, majd — még minden visszajelzés előtt — konkrét, ellenőrizhető állítások rögzítése.",
+        "en": "Practising the complete protocol structure in a single sitting: header, chronological impressions, AOL marks, then — before any feedback — recording concrete, verifiable claims."
+      },
+      "modszer": [
+        {
+          "hu": "Nyisd meg a jegyzőkönyvet: dátum, időpont, tárgykód (sosem a tárgy neve), állapotod egy szóban.",
+          "en": "Open the protocol: date, time, object code (never the object's name), your state in one word."
+        },
+        {
+          "hu": "Vezesd az ülést a tanult módon: nyers benyomások időrendben, AOL-jelölések a helyükön.",
+          "en": "Run the sitting as learned: raw impressions in order, AOL marks in place."
+        },
+        {
+          "hu": "Az ülés végén válaszd ki azokat a benyomásokat, amelyekből konkrét, ellenőrizhető állítást mersz tenni, és írd le őket számozva.",
+          "en": "At the end of the sitting choose the impressions from which you dare make concrete, verifiable claims, and write them down numbered."
+        },
+        {
+          "hu": "Ellenőrizd magad: „vízparthoz kötődik” — ellenőrizhető; „gazdája sokat küzdött” — mindenkire igaz, húzd ki.",
+          "en": "Check yourself: 'tied to a waterside' — verifiable; 'its owner struggled a lot' — true of everyone, strike it."
+        },
+        {
+          "hu": "Zárd le az ülést aláírással vagy időponttal — ettől kezdve a jegyzőkönyvhöz utólag hozzáírni nem szabad.",
+          "en": "Seal the sitting with a signature or timestamp — from this point nothing may be added to the protocol after the fact."
+        }
+      ],
+      "keret": {
+        "hu": "A jegyzőkönyv nem a gyakorlat kerete, hanem a gyakorlat maga: a szubjektív validáció — hogy a homályos állítás utólag találatnak érződik — csak az előre rögzített, konkrét állítással szemben tehetetlen.",
+        "en": "The protocol is not the frame of the practice, it is the practice: subjective validation — a vague claim feeling like a hit in hindsight — is powerless only against the pre-registered, concrete claim."
+      },
+      "sorszam": 4
+    },
+    {
+      "id": "pm-foto-boritekbol",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Fotóolvasás borítékból — vak célpont",
+        "en": "Photo reading from an envelope — a blind target"
+      },
+      "cel": {
+        "hu": "A teljes protokoll alkalmazása fényképre mint vak célpontra: benyomások gyűjtése lezárt borítékon, előre rögzített állítások, majd nyitás és tételes értékelés.",
+        "en": "Applying the full protocol to a photograph as a blind target: gathering impressions on a sealed envelope, pre-registered claims, then opening and item-by-item evaluation."
+      },
+      "modszer": [
+        {
+          "hu": "Kérj meg egy segítőt, hogy saját archívumából — az érintettek hozzájárulásával használt — fényképeket tegyen egyforma, lezárt borítékokba, és keverje össze őket.",
+          "en": "Ask a helper to place photographs from their own archive — used with the consent of those pictured — into identical sealed envelopes, and to shuffle them."
+        },
+        {
+          "hu": "Húzz egy borítékot, adj neki kódot, és nyisd meg a jegyzőkönyvet.",
+          "en": "Draw one envelope, give it a code, and open the protocol."
+        },
+        {
+          "hu": "Tartsd a borítékot a kezedben, és vezesd az ülést: nyers csatornák, AOL-jelölések — a borítékot ki ne nyisd.",
+          "en": "Hold the envelope in your hand and run the sitting: raw channels, AOL marks — do not open the envelope."
+        },
+        {
+          "hu": "Rögzítsd az ellenőrizhető állításokat, és zárd le a jegyzőkönyvet.",
+          "en": "Record the verifiable claims and seal the protocol."
+        },
+        {
+          "hu": "Csak ezután nyisd ki a borítékot, és értékelj tételesen: állításonként találat vagy tévesztés — mindkettőt jegyezd.",
+          "en": "Only then open the envelope and evaluate item by item: hit or miss per claim — record both."
+        }
+      ],
+      "keret": {
+        "hu": "A fotó mint célpont a távolbalátó hagyomány klasszikusa, és a borítékos vak-réteg ingyen adja a fegyelmet: amit nem tudsz, azt az emlékezeted sem súghatja. Kis mintán a kilengés természetes — a mintázat tíz-húsz kör után beszél.",
+        "en": "The photo as target is a classic of the remote-viewing tradition, and the envelope blind layer gives discipline for free: what you do not know, your memory cannot whisper. On a small sample swings are natural — the pattern speaks after ten or twenty rounds."
+      },
+      "etika": {
+        "hu": "Csak olyan fényképpel dolgozz, amelyet a segítőd jogosan, az érintettek tudtával oszt meg veled. Idegen, nyilvános vagy megrendült helyzetben lévő emberek fotóit ne olvasd — és bűnügyhöz, eltűnt személyhez kapcsolódó képet soha, semmilyen kérésre ne végy kézbe.",
+        "en": "Work only with photographs your helper shares rightfully, with the knowledge of those pictured. Do not read photos of strangers, public figures or people in shaken circumstances — and never, on no request, take in hand an image tied to a crime or a missing person."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "pm-kolcsontargy-kor",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Kölcsöntárgy-kör — vak ülés visszajelzéssel",
+        "en": "Borrowed-object round — a blind sitting with feedback"
+      },
+      "cel": {
+        "hu": "A gyakorlás fő formája: ismeretlen történetű kölcsöntárgy olvasása vak-protokollal, majd a tulajdonos tételes visszajelzése alapján a találatok és tévesztések becsületes könyvelése.",
+        "en": "The main form of practice: reading a borrowed object of unknown history under a blind protocol, then honestly booking hits and misses from the owner's item-by-item feedback."
+      },
+      "modszer": [
+        {
+          "hu": "Kérj ismerőseidtől olyan tárgyakat, amelyek történetét nem ismered — mondd el, hogy gyakorláshoz kellenek, és a végén kérdezni fogsz.",
+          "en": "Ask friends for objects whose history you do not know — explain that they are for practice and that you will ask questions at the end."
+        },
+        {
+          "hu": "Tedd a tárgyakat egyforma dobozokba vagy zacskókba, és keverd össze őket segítővel vagy csukott szemmel.",
+          "en": "Place the objects into identical boxes or pouches and shuffle them with a helper or with closed eyes."
+        },
+        {
+          "hu": "Húzz egyet, és vezesd végig a teljes jegyzőkönyvet: fejléc, nyers benyomások, AOL, előre rögzített állítások, lezárás.",
+          "en": "Draw one and run the complete protocol: header, raw impressions, AOL, pre-registered claims, seal."
+        },
+        {
+          "hu": "A visszajelzésnél a tulajdonos állításonként igazoljon vagy cáfoljon — hangulat-szintű „igen, valami ilyesmi” nem elég.",
+          "en": "At feedback, the owner confirms or refutes claim by claim — a mood-level 'yes, something like that' is not enough."
+        },
+        {
+          "hu": "Könyveld a naplóban a találatot és a tévesztést is, majd add vissza a tárgyat köszönettel.",
+          "en": "Book both hit and miss in the diary, then return the object with thanks."
+        },
+        {
+          "hu": "Hetente olvasd vissza a köröket, és keresd a mintázatot: mely csatornáid pontosak, hol nyílik AOL-kapu?",
+          "en": "Re-read the rounds weekly and look for the pattern: which of your channels run true, where does an AOL gate open?"
+        }
+      ],
+      "keret": {
+        "hu": "A tévesztés ugyanolyan értékes adat, mint a találat — együtt rajzolják ki, mit tud a figyelmed és mit tesz hozzá a képzeleted. A visszajelzés nélküli kör edzésnek jó, mérésnek semmit sem ér.",
+        "en": "A miss is data as valuable as a hit — together they draw what your attention can do and what your imagination adds. A round without feedback is fine as training and worth nothing as measurement."
+      },
+      "etika": {
+        "hu": "Kölcsöntárgyat csak a tulajdonos tudtával és beleegyezésével olvass, és a visszajelzésnél tiszteld a határait: ami magánügy, arra nem kérdezel rá. Élő személy „letapogatása” a tárgyán keresztül, beleegyezés nélkül — tilos.",
+        "en": "Read a borrowed object only with the owner's knowledge and consent, and respect their boundaries at feedback: what is private you do not probe. 'Scanning' a living person through their object, without consent — forbidden."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "pm-jozan-szem",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "A józan szem — kontextus-olvasás külön menetben",
+        "en": "The sober eye — context reading in a separate pass"
+      },
+      "cel": {
+        "hu": "A két csatorna szétválasztása: előbb tudatos, hétköznapi következtetés a tárgy valós jeleiből — anyag, kopás, stílus, kor —, majd külön menetben nyers benyomások; a kettő összevetése tanítja meg, mit ad az egyik és mit a másik.",
+        "en": "Separating the two channels: first conscious, everyday inference from the object's real signals — material, wear, style, age — then raw impressions in a separate pass; comparing the two teaches what each provides."
+      },
+      "modszer": [
+        {
+          "hu": "Végy egy ismeretlen történetű tárgyat, és nyiss két oszlopot a naplóban: „józan szem” és „nyers benyomás”.",
+          "en": "Take an object of unknown history and open two columns in the diary: 'sober eye' and 'raw impression'."
+        },
+        {
+          "hu": "Első menet nyitott szemmel: vizsgáld meg tüzetesen, és írd az első oszlopba, mire következtetsz az anyagból, kopásból, stílusból, korból.",
+          "en": "First pass with open eyes: examine it closely and write in the first column what you infer from material, wear, style, age."
+        },
+        {
+          "hu": "Tarts rövid szünetet, majd második menet csukott szemmel: nyers benyomások a tanult módon, AOL-jelöléssel, a második oszlopba.",
+          "en": "Take a short break, then a second pass with closed eyes: raw impressions as learned, with AOL marks, into the second column."
+        },
+        {
+          "hu": "Vesd össze a két oszlopot: mely benyomásaid vezethetők vissza a józan szem adataira, és mi az, ami sehonnan sem magyarázható kényelmesen?",
+          "en": "Compare the two columns: which of your impressions trace back to the sober eye's data, and what cannot be comfortably explained from anywhere?"
+        },
+        {
+          "hu": "A visszajelzésnél értékeld a két oszlopot külön — így látod, melyik csatorna milyen pontos.",
+          "en": "At feedback, evaluate the two columns separately — so you see how accurate each channel is."
+        }
+      ],
+      "keret": {
+        "hu": "Ez a gyakorlat a mentalizmus-modul hideg-olvasás pajzsának testvére: aki tudja, mennyit lát a józan szem, az nem tulajdonítja rendkívülinek a hétköznapit — és épp ettől lesz hiteles minden további tapasztalata.",
+        "en": "This practice is sibling to the mentalism module's cold-reading shield: whoever knows how much the sober eye sees does not credit the ordinary as extraordinary — and exactly that makes all their further experience credible."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "pm-talalat-merleg",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Találat-mérleg — a napló számai",
+        "en": "The hit ledger — the diary's numbers"
+      },
+      "cel": {
+        "hu": "A gyakorlás mérhetővé tétele: az előre rögzített állítások találat-arányának vezetése körről körre, és a számok józan, kis mintához illő olvasása.",
+        "en": "Making the practice measurable: keeping the hit rate of pre-registered claims round by round, and reading the numbers soberly, as befits a small sample."
+      },
+      "modszer": [
+        {
+          "hu": "Nyiss a naplóban egy mérleg-oldalt: dátum, tárgykód, rögzített állítások száma, igazolt, cáfolt, eldönthetetlen.",
+          "en": "Open a ledger page in the diary: date, object code, number of registered claims, confirmed, refuted, undecidable."
+        },
+        {
+          "hu": "Minden visszajelzéses kör után vezesd fel a sort — aznap, ne emlékezetből.",
+          "en": "After every feedback round enter the row — that day, not from memory."
+        },
+        {
+          "hu": "Az eldönthetetlen állítást ne számold találatnak: az a megfogalmazásod hibája, tanulj belőle a következő körre.",
+          "en": "Do not count an undecidable claim as a hit: it is a fault of your wording — learn from it for the next round."
+        },
+        {
+          "hu": "Tíz kör után összesíts, és nézd meg a tévesztéseket is: melyik csatornád, melyik helyzeted termeli őket?",
+          "en": "After ten rounds, total up and look at the misses too: which channel, which situation of yours produces them?"
+        },
+        {
+          "hu": "Havonta írj egy rövid, őszinte összegzést: mit mutatnak a számok, és mit adott a gyakorlás a számokon túl?",
+          "en": "Monthly, write a short honest summary: what do the numbers show, and what has the practice given beyond the numbers?"
+        }
+      ],
+      "keret": {
+        "hu": "Kis mintán a nagy kilengés a véletlen természetes viselkedése — öt körből semmit sem tudsz meg, ötvenből már látszik valami. A mérés nem a gyakorlat ellensége, hanem a gerince: enélkül a jóindulatú emlékezet írná a történetet.",
+        "en": "On a small sample large swings are chance behaving naturally — five rounds teach you nothing, fifty begin to show something. Measurement is not the practice's enemy but its spine: without it, kindly memory would write the story."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "pm-huszas-sorozat",
+      "mester": "Pszichometria — tárgyolvasás",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "A húszas sorozat — egy ív, egy ítélet",
+        "en": "The series of twenty — one arc, one verdict"
+      },
+      "cel": {
+        "hu": "Hosszú, egybefüggő gyakorlási ív: húsz vak-kör több segítővel, egységes protokollal és zárómérleggel — a saját képességed becsületes, elfogulatlan felmérése.",
+        "en": "A long, continuous arc of practice: twenty blind rounds with several helpers, a uniform protocol and a closing ledger — an honest, unbiased survey of your own ability."
+      },
+      "modszer": [
+        {
+          "hu": "Tervezd meg előre a sorozatot: húsz kör, legalább három segítőtől származó tárgyakkal és fotókkal, heti kettő-három ülés ütemben.",
+          "en": "Plan the series in advance: twenty rounds, with objects and photos from at least three helpers, at a pace of two or three sittings a week."
+        },
+        {
+          "hu": "Rögzítsd előre a szabályokat is: egységes jegyzőkönyv, állításonkénti tételes visszajelzés, kihagyott kör nem pótolható utólag válogatással.",
+          "en": "Fix the rules in advance too: a uniform protocol, item-by-item feedback per claim, and a skipped round cannot be replaced by picking afterwards."
+        },
+        {
+          "hu": "Vezesd végig a húsz kört a teljes fegyelemmel — akkor is, ha egy-egy ülés üresnek érződik; az üres kör is a sorozat része.",
+          "en": "Carry the twenty rounds through with full discipline — even when a sitting feels empty; the empty round is part of the series too."
+        },
+        {
+          "hu": "A sorozat végén készítsd el a zármérleget: állítások, találatok, tévesztések, AOL-számok alakulása az első körtől az utolsóig.",
+          "en": "At the end of the series draw the closing ledger: claims, hits, misses, and how the AOL counts moved from the first round to the last."
+        },
+        {
+          "hu": "Írd meg a saját ítéleted egy oldalban: mit mutatnak a számok, mit adott az ív a figyelmednek — és e kettő alapján hogyan gyakorolsz tovább?",
+          "en": "Write your own verdict in one page: what the numbers show, what the arc gave your attention — and, from both, how you will practise on."
+        }
+      ],
+      "keret": {
+        "hu": "A hosszú sorozat az egyetlen, ami a szerencsés hetek és a csüggedt hetek fölé emel: egyetlen ív, előre rögzített szabályokkal, amelynek a végén a saját naplód mondja ki az ítéletet — nem a reményed és nem a kételyed.",
+        "en": "The long series is the only thing that rises above lucky weeks and disheartened weeks: a single arc with rules fixed in advance, at whose end your own diary pronounces the verdict — not your hope and not your doubt."
+      },
+      "etika": {
+        "hu": "A házvonal a sorozatban is áll: bűnügy, eltűnt személy, tragédia tárgyát vagy fotóját ne fogadd el, bármilyen bizalommal kérnék. A mérleged rólad szól — döntést, diagnózist, ítéletet másokról ne alapozz rá, és akut élethelyzetben szakemberhez fordulj, ne a tárgyakhoz.",
+        "en": "The house line stands within the series too: accept no object or photo tied to a crime, a missing person or a tragedy, with whatever trust it is asked. Your ledger is about you — base no decision, diagnosis or judgement of others on it, and in an acute life situation turn to a professional, not to objects."
+      },
+      "sorszam": 9
+    }
+  ]
+}

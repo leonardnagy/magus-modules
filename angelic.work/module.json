@@ -1,0 +1,464 @@
+{
+  "formatVersion": 1,
+  "id": "angelic-work",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Angyal-munka — vezetők, gyógyulás, bőség",
+    "en": "Angelic Work — Guides, Healing, Abundance"
+  },
+  "description": {
+    "hu": "A nyugati angyal-hagyomány gyakorlati modulja: az arkangyalok minőségei (Mihály, Gábriel, Ráfael, Uriel), a kapcsolat hármas íve — meghívás, kérés, hála —, a vezetőkkel és a felsőbb énnel való munka kettős lencsével, valamint a bőség-munka hídja a Saint Germain modulhoz. Józan kerettel: a gyakorlat önismereti és önszabályozó munka — nem terápia, nem orvoslás, és a döntés mindig a tiéd.",
+    "en": "A practical module of the Western angelic tradition: the qualities of the archangels (Michael, Gabriel, Raphael, Uriel), the threefold arc of connection — invitation, request, gratitude —, work with guides and the higher self through a double lens, and the abundance bridge to the Saint Germain module. With a sober frame: the practice is self-knowledge and self-regulation work — not therapy, not medicine, and the decision is always yours."
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/angelic.work/audio",
+  "items": [
+    {
+      "id": "angelic-work-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető — mire való ez a modul",
+        "en": "Introduction — What This Module Is For"
+      },
+      "text": {
+        "hu": "Ez a modul az angyal-hagyomány **gyakorlati** modulja. Nem hitrendszert árul: egy régi, gazdag szimbólum-nyelvet ad a kezedbe, és megmutatja, hogyan lesz belőle napi, naplóba futó munka.\n\nNégy pillér:\n\n— **A hagyomány térképe** — az arkangyalok minőségei a nyugati hagyományban.\n— **A kapcsolat íve** — meghívás, kérés, hála: a modul szíve.\n— **Vezetők és a felsőbb én** — az astral.explorations belső-vezető leckéjére építve, kettős lencsével.\n— **Bőség-munka** — híd a Saint Germain modulhoz.\n\n**Őszinte keret:** a hagyomány szerint az angyalok valós, önálló segítő intelligenciák. * Amit közvetlenül mérni tudsz, az a saját állapotod: a megszólítás összeszedettebbé, a kérés kimondása tisztábbá, a hála gyakorlása melegebbé teszi a napod — ez önmagában is érdemi munka. A többit nyitott kérdésként tartsd.\n\n**Két kerítés már az elején:**\n\n1. A gyakorlat anyagot ad a mérlegeléshez — **döntést soha nem az angyal-munka hoz**, hanem te.\n2. A megnyugtató gyakorlatok önszabályozásra valók — **nem terápia és nem kezelés**; tartós szorongásnál fordulj szakemberhez.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "This is the **practical** module of the angelic tradition. It sells no belief system: it puts an old, rich symbolic language into your hands and shows how it becomes daily work that flows into the journal.\n\nFour pillars:\n\n— **The map of the tradition** — the qualities of the archangels in the Western tradition.\n— **The arc of connection** — invitation, request, gratitude: the heart of the module.\n— **Guides and the higher self** — built on the inner-guide lesson of astral.explorations, with a double lens.\n— **Abundance work** — a bridge to the Saint Germain module.\n\n**An honest frame:** the tradition holds that angels are real, independent helping intelligences. * What you can measure directly is your own state: the address makes you more collected, speaking the request makes you clearer, practising gratitude makes your day warmer — that alone is substantial work. Hold the rest as an open question.\n\n**Two fences right at the start:**\n\n1. The practice gives material for reflection — **angelic work never makes the decision**; you do.\n2. The calming practices are for self-regulation — **not therapy and not treatment**; with persistent anxiety, see a professional.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "angelic-work-md-tradition",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A hagyomány térképe — arkangyal-minőségek",
+        "en": "The Map of the Tradition — Archangel Qualities"
+      },
+      "text": {
+        "hu": "A nyugati hagyomány az angyalvilágot **rendezett világnak** látja: Pszeudo-Dionüsziosz a mennyei sereget kilenc karba rendezte, a szeráfoktól az angyalokig. * Gyakorlóként azonban nem a rangsor a fontos, hanem a **minőségek nyelve** — a hagyomány minden arkangyalhoz jellegzetes minőséget társít:\n\n— **Mihály** — védelem, erő, bátorság. * A határt húzó kar.\n— **Gábriel** — üzenet, kommunikáció, tisztaság. * A hírvivő.\n— **Ráfael** — gyógyulás, kísérés. * Az útitárs — Tóbit könyvében ő kíséri végig az utazót.\n— **Uriel** — fény, bölcsesség. * A lámpás.\n\nA kabbalisztikus ágak további neveket ismernek — köztük Metatront. * A bibliai szövegek közül Dániel könyve nevezi meg Mihályt és Gábrielt, Tóbit könyve Ráfaelt; a Hénok-hagyomány és a későbbi mágikus irodalom (Agrippa, Barrett) tovább bővíti a kört.\n\n**Hogyan használd a nevet?** A minőség-nyelv gyakorlati eszköz: amikor „Mihályt szólítod”, a **védelem és a bátorság minőségét** szólítod meg magadban és magad körül — akár belső alakként, akár valós segítőként olvasod (erről szól a következő lecke). A név kapaszkodó: egyetlen szóba sűríti azt, amire az adott helyzetben szükséged van.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The Western tradition sees the angelic world as an **ordered world**: Pseudo-Dionysius arranged the heavenly host into nine choirs, from the seraphim down to the angels. * For a practitioner, however, the ranking matters less than the **language of qualities** — the tradition pairs each archangel with a characteristic quality:\n\n— **Michael** — protection, strength, courage. * The arm that draws the boundary.\n— **Gabriel** — message, communication, purity. * The herald.\n— **Raphael** — healing, accompaniment. * The travelling companion — in the Book of Tobit he walks the whole road with the traveller.\n— **Uriel** — light, wisdom. * The lantern.\n\nThe kabbalistic branches know further names — among them Metatron. * Of the biblical texts, the Book of Daniel names Michael and Gabriel, the Book of Tobit names Raphael; the Enoch tradition and the later magical literature (Agrippa, Barrett) widen the circle further.\n\n**How to use the name?** The quality-language is a practical tool: when you 'call Michael', you address the **quality of protection and courage** in and around yourself — whether you read it as an inner figure or as a real helper (the next lesson is about exactly this). The name is a handhold: it condenses into a single word what you need in the given situation.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "angelic-work-md-lens",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A kettős lencse — józan keret",
+        "en": "The Double Lens — a Sober Frame"
+      },
+      "text": {
+        "hu": "Mielőtt gyakorolnánk, tegyük az asztalra a józan lencsét — nem azért, hogy elrontsa a munkát, hanem hogy **megtartsa**.\n\n**A kettős lencse.** A megszólított alak kétféleképpen olvasható: (1) **belső alakként** — a psziché megszemélyesített részeként, ahogy az aktív imagináció dolgozik a belső képekkel; (2) **valós segítőként**, ahogy a hagyomány tanítja. * A gyakorlat mindkét olvasatban **ugyanaz**: megszólítás, figyelem, jegyzet. Nem kell választanod — és ez a modul soha nem is kényszerít rá.\n\n**Amit a lélektan hozzátesz.** A megszemélyesítés erős eszköz: aminek nevet adsz, azzal párbeszédbe tudsz lépni. A veszélye is ismert: a **projekció** — a válasz, amit „kapsz”, belőled is jöhet, és a Barnum-hatás miatt az általános üzenetekben könnyű magadra ismerni. Ezért fut minden gyakorlat **naplóba**: az írás távolságot ad, és a mintázat hetek alatt megmutatja, mi volt érdemi és mi volt visszhang.\n\n**Rokon pajzsok az appban:** a Kaspirovszkij-lecke **kritikus szünete** — mielőtt bármit beengedsz, megállsz és megvizsgálod — itt is kötelező mozdulat; a **mentalizmus-pajzs** pedig arra tanított, hogy a hatáskeltés technikáinak ismerete maga az immunitás. Ugyanez a két pajzs védi az angyal-munkát is.\n\n**Vaskeret:** ami a gyakorlatból jön, az **mérlegelendő anyag, nem parancs**. Ha egy „üzenet” tartósan külsőnek, parancsolónak érződik és nyomaszt vagy ijeszt — tedd le a gyakorlatot, és beszélj szakemberrel.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Before we practise, let us lay the sober lens on the table — not to spoil the work, but to **hold** it.\n\n**The double lens.** The addressed figure can be read in two ways: (1) as an **inner figure** — a personified part of the psyche, the way active imagination works with inner images; (2) as a **real helper**, as the tradition teaches. * The practice is **the same** in both readings: address, attention, note. You do not have to choose — and this module will never force you to.\n\n**What psychology adds.** Personification is a powerful tool: whatever you give a name to, you can enter into dialogue with. Its danger is also known: **projection** — the answer you 'receive' may come from you, and thanks to the Barnum effect it is easy to recognise yourself in general messages. That is why every practice flows into the **journal**: writing gives distance, and over weeks the pattern shows what was substance and what was echo.\n\n**Kindred shields in the app:** the **critical pause** of the Kashpirovsky lesson — before letting anything in, you stop and examine it — is a mandatory move here too; and the **mentalism shield** taught that knowing the techniques of influence is itself immunity. The same two shields guard angelic work as well.\n\n**Iron frame:** whatever comes from the practice is **material for reflection, not a command**. If a 'message' persistently feels external and commanding, and it oppresses or frightens you — put the practice down and speak with a professional.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "angelic-work-md-connection",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A kapcsolat íve — meghívás, kérés, hála",
+        "en": "The Arc of Connection — Invitation, Request, Gratitude"
+      },
+      "text": {
+        "hu": "A modul szíve három mozdulat — egyszerű, mint egy levél megírása.\n\n**1. Meghívás.** Csendes tér: ülj le, földelj (talp a talajon, három lassú lélegzet). Szólítsd meg a minőséget névvel és tartalommal: „Mihály — a védelem minősége.” A megszólítás nem varázsige, hanem **szándék-fókuszáló mozdulat**: kijelöli, mivel akarsz ma dolgozni.\n\n**2. Kérés.** Konkrét, őszinte, egyes szám első személyben: „Bátorságot kérek a holnapi beszélgetéshez.” Nem „oldd meg helyettem” — hanem „ehhez kérek erőt / tisztaságot / nyugalmat”. A jól megfogalmazott kérés már fél önismeret: kimondja, mire van valójában szükséged.\n\n**3. Hála.** Zárd köszönettel — majd nyisd meg a naplót, és írd be a hála-bejegyzést: mit kértél, és három dolgot, amiért ma hálás vagy. **A naplózás teszi a rítust munkává** — enélkül csak hangulat marad.\n\n**Miért működik?** A szerkezet szándék-fókuszáló rítus: a meghívás összeszedetté tesz, a kérés tisztáz, a hála átállítja a figyelmet arra, ami már megvan. Ez a három hatás a kettős lencse mindkét olvasatában áll.\n\n**Kerítés:** a kérés soha nem döntés-kiszervezés. „Mit tegyek?” helyett kérdezd: „mire van szükségem ahhoz, hogy jól dönthessek?” — a döntés a tiéd, és a naplóban indokolod.",
+        "en": "The heart of the module is three moves — as simple as writing a letter.\n\n**1. Invitation.** A quiet space: sit down, ground yourself (soles on the floor, three slow breaths). Address the quality by name and content: 'Michael — the quality of protection.' The address is no magic spell but an **intention-focusing move**: it marks out what you want to work with today.\n\n**2. Request.** Concrete, honest, in the first person singular: 'I ask for courage for tomorrow's conversation.' Not 'solve it for me' — but 'for this I ask strength / clarity / calm'. A well-formed request is already half self-knowledge: it names what you truly need.\n\n**3. Gratitude.** Close with thanks — then open the journal and write the gratitude entry: what you asked for, and three things you are grateful for today. **The journaling turns the rite into work** — without it, only a mood remains.\n\n**Why does it work?** The structure is an intention-focusing rite: the invitation collects you, the request clarifies, gratitude retunes attention to what is already present. These three effects stand in both readings of the double lens.\n\n**Fence:** the request is never the outsourcing of a decision. Instead of 'what should I do?', ask: 'what do I need in order to decide well?' — the decision is yours, and you justify it in the journal."
+      }
+    },
+    {
+      "id": "angelic-work-timer-connection",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Kapcsolat-gyakorlat — 10 perc",
+        "en": "Connection Practice — 10 min"
+      },
+      "timer": {
+        "durationSeconds": 600,
+        "instructions": {
+          "hu": "Földelj és csendesedj el. Két perc után szólítsd meg a választott minőséget, majd mondd ki a konkrét kérést egyes szám első személyben. A végén hála — és utána azonnal a napló: kérés + három hála-tétel.",
+          "en": "Ground yourself and grow quiet. After two minutes address the chosen quality, then speak the concrete request in the first person singular. At the end, gratitude — and immediately afterwards the journal: request + three gratitude items."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Meghívás — szólítsd meg a minőséget",
+              "en": "Invitation — address the quality"
+            }
+          },
+          {
+            "atSecond": 300,
+            "label": {
+              "hu": "Kérés — konkrétan, első személyben",
+              "en": "Request — concrete, in the first person"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "Hála — és készülj a naplóra",
+              "en": "Gratitude — and prepare for the journal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "angelic-work-md-guides",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Vezetők és a felsőbb én",
+        "en": "Guides and the Higher Self"
+      },
+      "text": {
+        "hu": "Az astral.explorations modulban már találkoztál a **belső vezető** gyakorlatával — ez a lecke arra épül, és az angyal-munka nyelvére fordítja.\n\n**Ki a vezető?** Itt a legfontosabb a kettős lencse: a vezető olvasható **belső alaknak** — a psziché bölcsebb, tágabb részének, amely képekben szólal meg —, VAGY **valós segítőnek**, ahogy a hagyomány tartja. * A gyakorlat mindkét olvasatban szó szerint ugyanaz. A **felsőbb én** kifejezést a hagyomány arra a tágabb önmagadra használja, amelyből a hétköznapi éned merít. *\n\n**A találkozás gyakorlata:**\n\n1. Földelés, csend — majd építsd fel a belső teret, ahogy az astral.explorations leckéjében tanultad.\n2. Hívd meg a vezetőt — és **várj**. Ne gyártsd a képet: engedd megérkezni.\n3. Tegyél fel EGY kérdést — valódit, amely tényleg foglalkoztat.\n4. Figyelj: kép, szó, testérzet, hangulat — bármi lehet válasz-anyag.\n5. Búcsúzz hálával, és **azonnal jegyezz**.\n\n**A válasz kezelése.** Amit kaptál, az **anyag, nem ítélet**: úgy olvasd, mint egy álmot — mit mond rólam, hogy éppen ez jött? A bardoni első lépések önmegfigyelő fegyelme itt kamatozik igazán.\n\n**Leállító jel:** ha a vezető „hangja” parancsol, sürget, fenyeget vagy nyomaszt — az nem vezetés. Tedd le a gyakorlatot, és ha az élmény visszatér, beszélj szakemberrel.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "In the astral.explorations module you have already met the **inner guide** practice — this lesson builds on it and translates it into the language of angelic work.\n\n**Who is the guide?** The double lens matters most here: the guide can be read as an **inner figure** — a wiser, wider part of the psyche that speaks in images —, OR as a **real helper**, as the tradition holds. * The practice is literally the same in both readings. The tradition uses the term **higher self** for that wider you from which your everyday self draws. *\n\n**The meeting practice:**\n\n1. Grounding, silence — then build the inner space as you learned in the astral.explorations lesson.\n2. Invite the guide — and **wait**. Do not manufacture the image: let it arrive.\n3. Ask ONE question — a real one that truly concerns you.\n4. Attend: image, word, body sensation, mood — anything can be answer-material.\n5. Say farewell with gratitude, and **take notes at once**.\n\n**Handling the answer.** What you received is **material, not a verdict**: read it like a dream — what does it say about me that exactly this came? The self-observing discipline of Bardon's first steps pays off here most of all.\n\n**Stop signal:** if the guide's 'voice' commands, urges, threatens or oppresses — that is not guidance. Put the practice down, and if the experience returns, speak with a professional.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "angelic-work-timer-guide",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Vezető-találkozás — 15 perc",
+        "en": "Meeting the Guide — 15 min"
+      },
+      "timer": {
+        "durationSeconds": 900,
+        "instructions": {
+          "hu": "Földelés és belső tér — majd hívd meg a vezetőt, és engedd megérkezni. Egy valódi kérdés, figyelő csend, búcsú hálával. Utána azonnal jegyezd le, amit kaptál — anyagként, nem parancsként.",
+          "en": "Grounding and inner space — then invite the guide and let it arrive. One real question, attentive silence, farewell with gratitude. Immediately afterwards write down what you received — as material, not as a command."
+        },
+        "intervals": [
+          {
+            "atSecond": 180,
+            "label": {
+              "hu": "Belső tér — és meghívás",
+              "en": "Inner space — and invitation"
+            }
+          },
+          {
+            "atSecond": 480,
+            "label": {
+              "hu": "A kérdés — és figyelő csend",
+              "en": "The question — and attentive silence"
+            }
+          },
+          {
+            "atSecond": 750,
+            "label": {
+              "hu": "Búcsú, hála — készülj a jegyzetre",
+              "en": "Farewell, gratitude — prepare for the note"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "angelic-work-md-abundance",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bőség-munka — híd a Saint Germain modulhoz",
+        "en": "Abundance Work — Bridge to the Saint Germain Module"
+      },
+      "text": {
+        "hu": "A bőség-munka teljes rendszere a **Saint Germain** modulban él — ez a lecke nem ismétli meg, hanem **hidat** ad hozzá az angyal-munka nyelvén.\n\n**A bőség-kérés természete.** A hagyomány a bőséget nem pénzösszegnek, hanem **áramlásnak** látja, amelyhez a bizalom és a hála nyit kaput. * Gyakorlati fordítása: a szűkösség-fókusz (ami hiányzik) átfordítása ellátottság-fókuszba (ami már áramlik). Ennek legegyszerűbb mérőeszköze a **hála-leltár**: este öt tétel, ami ma „bejött” — étel, találkozás, egy jó szó, egy lehetőség.\n\n**A kérés formája.** Bőséget az angyal-munka ívében így érdemes kérni: konkrétan és a saját cselekvésedhez kötve. „Lássam tisztán a lehetőségeimet, és legyen bátorságom lépni” — nem: „jöjjön pénz”. A kérés arra irányul, amit TE teszel meg.\n\n**Híd:** ha a bőség-munkát mélyíteni akarod, a Saint Germain modulban találod a teljes rendszert — ez a lecke csak a kaput mutatja meg.\n\n**Pénz-kerítés:** ez a gyakorlat önismereti munka, **nem pénzügyi tanács** és nem ígéret. Pénzügyi döntést sose alapozz gyakorlat-élményre: számolj, kérj hozzáértő tanácsot, és a döntésedet a naplóban indokold.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The full system of abundance work lives in the **Saint Germain** module — this lesson does not repeat it but offers a **bridge** to it in the language of angelic work.\n\n**The nature of the abundance request.** The tradition sees abundance not as a sum of money but as a **flow**, whose gate is opened by trust and gratitude. * Its practical translation: turning scarcity-focus (what is missing) into provision-focus (what is already flowing). Its simplest measuring tool is the **gratitude inventory**: five items in the evening that 'came in' today — a meal, a meeting, a kind word, an opportunity.\n\n**The form of the request.** In the arc of angelic work, ask for abundance like this: concretely and tied to your own action. 'May I see my opportunities clearly and have the courage to step' — not: 'let money come'. The request aims at what YOU will do.\n\n**Bridge:** if you want to deepen the abundance work, the full system awaits in the Saint Germain module — this lesson only shows the gate.\n\n**Money fence:** this practice is self-knowledge work, **not financial advice** and not a promise. Never base a financial decision on a practice experience: run the numbers, seek qualified advice, and justify your decision in the journal.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "angelic-work-md-calm",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Kísért lélegzés — önszabályozás, kemény kerítéssel",
+        "en": "Accompanied Breathing — Self-Regulation, with a Hard Fence"
+      },
+      "text": {
+        "hu": "Ráfael neve a hagyományban a **gyógyulás és a kísérés** minőségét hordozza — Tóbit könyvében ő az útitárs, aki végigkíséri az utazót. * Ebben a leckében ez a kép egy **önszabályozó** gyakorlat kerete lesz — és pontosan kijelöljük, mit tud és mit nem.\n\n**A gyakorlat: kísért lélegzés.**\n\n1. Ülj le, talp a talajon. Három lassú lélegzet.\n2. Idézd fel a kísérő minőségét: valaki jár melletted az úton — nem old meg helyetted semmit, de nem vagy egyedül.\n3. Lélegezz négy–hat ütemben: belégzés négyig, kilégzés hatig — a hosszabb kilégzés a test saját csillapítója.\n4. Zárd hálával, és jegyezd a naplóba: mennyit csillapodott a feszültség (1–10)?\n\n**Mit tud ez?** A megnyugtató kép és a lassított kilégzés együtt valódi, tanulható **önszabályozás** — a mindennapi feszültség csillapítására való.\n\n**KEMÉNY KERÍTÉS — ezt ne lépd át:** ez a gyakorlat **NEM terápia és NEM kezelés**. Ráfael „gyógyító minősége” a hagyomány szimbóluma * — nem orvosi állítás, és semmilyen betegségre nem „hat”. Ha a szorongásod tartós, visszatérő, vagy rontja a munkádat, az alvásodat, a kapcsolataidat — az nem gyakorlat-kérdés: **fordulj szakemberhez** (háziorvos, pszichológus, krízisvonal). A gyakorlat dolga, hogy CSÖKKENTSE a feszültséget: ha fenntartja vagy növeli, tedd le.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "In the tradition, Raphael's name carries the quality of **healing and accompaniment** — in the Book of Tobit he is the companion who walks the whole road with the traveller. * In this lesson that image becomes the frame of a **self-regulation** practice — and we mark out precisely what it can and cannot do.\n\n**The practice: accompanied breathing.**\n\n1. Sit down, soles on the floor. Three slow breaths.\n2. Recall the quality of the companion: someone walks beside you on the road — solving nothing in your place, yet you are not alone.\n3. Breathe in a four–six rhythm: inhale to four, exhale to six — the longer exhale is the body's own soother.\n4. Close with gratitude and note in the journal: how much did the tension settle (1–10)?\n\n**What can this do?** The calming image and the slowed exhale together are real, learnable **self-regulation** — meant for settling everyday tension.\n\n**HARD FENCE — do not cross this:** this practice is **NOT therapy and NOT treatment**. Raphael's 'healing quality' is the tradition's symbol * — not a medical claim, and it does not 'act' on any illness. If your anxiety is persistent, recurring, or erodes your work, sleep or relationships — that is not a practice question: **see a professional** (GP, psychologist, crisis line). The practice's job is to REDUCE tension: if it maintains or increases it, put it down.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "angelic-work-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "Az angyal-munka jellemvonásai",
+        "en": "Character Traits of Angelic Work"
+      },
+      "aspektusPack": [
+        {
+          "key": "an-asp-outsourcing",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "A döntés kiszervezése",
+            "en": "Outsourcing the decision"
+          }
+        },
+        {
+          "key": "an-asp-clinging",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Szorongó kapaszkodás",
+            "en": "Anxious clinging"
+          }
+        },
+        {
+          "key": "an-asp-rescue",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Megmentő-várás tétlenségben",
+            "en": "Waiting for rescue in idleness"
+          }
+        },
+        {
+          "key": "an-asp-chosen",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Kiválasztottság-gőg",
+            "en": "Chosen-one pride"
+          }
+        },
+        {
+          "key": "an-asp-gratitude",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Gyakorolt hála",
+            "en": "Practised gratitude"
+          }
+        },
+        {
+          "key": "an-asp-discernment",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Megkülönböztetés",
+            "en": "Discernment"
+          }
+        },
+        {
+          "key": "an-asp-courage",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Bátor határhúzás",
+            "en": "Courageous boundary-setting"
+          }
+        },
+        {
+          "key": "an-asp-stewardship",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Bőség-bizalom cselekvésben",
+            "en": "Trust in abundance, in action"
+          }
+        }
+      ]
+    },
+    {
+      "id": "angelic-work-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Angyal-munka napló",
+        "en": "Angelic Work Journal"
+      },
+      "journalTemplate": {
+        "aspektusKeys": [
+          "an-asp-gratitude"
+        ],
+        "prompts": {
+          "hu": "MEGHÍVÁS — A ma megszólított minőség, és miért éppen ez: ___\n\nKÉRÉS — Amit kértem, egyes szám első személyben: ___\n\nHÁLA — Három dolog, amiért ma hálás vagyok: ___\n\nKETTŐS LENCSE — Amit a gyakorlatban megéltem (kép, szó, testérzet), és amit ez rólam mond: ___\n\nDÖNTÉS — A gyakorlat anyagot adott; amit ebből MAGAM döntök, és miért: ___",
+          "en": "INVITATION — The quality I addressed today, and why this one: ___\n\nREQUEST — What I asked for, in the first person singular: ___\n\nGRATITUDE — Three things I am grateful for today: ___\n\nDOUBLE LENS — What I experienced in the practice (image, word, body sensation), and what it says about me: ___\n\nDECISION — The practice gave material; what I decide MYSELF from it, and why: ___"
+        }
+      }
+    },
+    {
+      "id": "angelic-work-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "A gyakorlat elsajátítása",
+        "en": "Mastery of the Practice"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Csendes tér és földelés begyakorolva — minden meghívás alapja",
+              "en": "Quiet space and grounding practised — the base of every invitation"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "A négy arkangyal-minőség nyelve ismerős (Mihály, Gábriel, Ráfael, Uriel)",
+              "en": "The language of the four archangel qualities is familiar (Michael, Gabriel, Raphael, Uriel)"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Meghívás–kérés–hála ív naponta, legalább egy héten át, naplóval zárva",
+              "en": "Invitation–request–gratitude arc daily, at least one week, closed with the journal"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Vezető-találkozás elvégezve kettős lencsével és azonnali jegyzettel",
+              "en": "Guide meeting completed with the double lens and an immediate note"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Hála-leltár bőség-fókusszal megírva; a Saint Germain-híd ismert",
+              "en": "Gratitude inventory written with abundance focus; the Saint Germain bridge is known"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "A kerítések élnek: a döntés nálam; parancs-élmény → letenni; tartós szorongás → szakember",
+              "en": "The fences are alive: the decision stays with me; command-experience → put it down; persistent anxiety → professional"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "angelic-work-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Önellenőrzés",
+        "en": "Self-Check"
+      },
+      "quiz": {
+        "passThreshold": 4,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mi a kettős lencse lényege?",
+              "en": "What is the essence of the double lens?"
+            },
+            "options": {
+              "hu": [
+                "Egyszerre két minőséget kell megszólítani",
+                "A vezető belső alakként ÉS valós segítőként is olvasható — a gyakorlat mindkét olvasatban ugyanaz, nem kell választanod",
+                "A hagyomány és a tudomány vitájának végleges eldöntése",
+                "Két tükör használata a gyakorlat alatt"
+              ],
+              "en": [
+                "Two qualities must be addressed at once",
+                "The guide can be read as an inner figure AND as a real helper — the practice is the same in both readings, you need not choose",
+                "A final verdict in the debate between tradition and science",
+                "Using two mirrors during the practice"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Mi a kapcsolat-gyakorlat három íve?",
+              "en": "What are the three arcs of the connection practice?"
+            },
+            "options": {
+              "hu": [
+                "Böjt, virrasztás, ima",
+                "Tisztítás, védelem, lezárás",
+                "Meghívás, kérés, hála — naplózással zárva",
+                "Meditáció, vizualizáció, mantra"
+              ],
+              "en": [
+                "Fasting, vigil, prayer",
+                "Cleansing, protection, closing",
+                "Invitation, request, gratitude — closed with journaling",
+                "Meditation, visualization, mantra"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mit tehet a gyakorlat szorongás esetén?",
+              "en": "What can the practice do in the case of anxiety?"
+            },
+            "options": {
+              "hu": [
+                "Kezeli és meggyógyítja a szorongást",
+                "Megnyugtató önszabályozás lehet — de nem terápia és nem kezelés; tartós szorongásnál szakemberhez fordulj",
+                "Szorongásnál minden gyakorlat tilos",
+                "A szorongás annak a jele, hogy több gyakorlat kell"
+              ],
+              "en": [
+                "It treats and cures anxiety",
+                "It can be calming self-regulation — but not therapy and not treatment; with persistent anxiety, see a professional",
+                "With anxiety, every practice is forbidden",
+                "Anxiety is a sign that more practice is needed"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q4",
+            "prompt": {
+              "hu": "Ki hozza a döntéseket az angyal-munkában?",
+              "en": "Who makes the decisions in angelic work?"
+            },
+            "options": {
+              "hu": [
+                "A vezető üzenete, ha elég tiszta",
+                "A gyakorlatból jött élmény felülírja a mérlegelést",
+                "A hagyomány előírásai",
+                "Mindig te — a gyakorlat anyagot ad a mérlegeléshez, sosem parancsot"
+              ],
+              "en": [
+                "The guide's message, if it is clear enough",
+                "The experience from the practice overrides deliberation",
+                "The prescriptions of the tradition",
+                "Always you — the practice gives material for reflection, never a command"
+              ]
+            },
+            "correctIndex": 3
+          },
+          {
+            "id": "q5",
+            "prompt": {
+              "hu": "Mi Ráfael „gyógyító minősége” ennek a modulnak a keretében?",
+              "en": "What is Raphael's 'healing quality' within the frame of this module?"
+            },
+            "options": {
+              "hu": [
+                "Orvosi kezelés, amely tüneteket szüntet meg",
+                "Garancia a gyógyulásra, ha elég erős a hit",
+                "A hagyomány szimbóluma, amely a megnyugtató önszabályozás gyakorlatát keretezi — nem orvoslás, és nem helyettesít ellátást",
+                "Történelmi érdekesség, gyakorlati tartalom nélkül"
+              ],
+              "en": [
+                "A medical treatment that removes symptoms",
+                "A guarantee of healing if faith is strong enough",
+                "The tradition's symbol framing the practice of calming self-regulation — not medicine, and no substitute for care",
+                "A historical curiosity with no practical content"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "angelic-work-md-source",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Forrás és nyilatkozat",
+        "en": "Source & Disclaimer"
+      },
+      "text": {
+        "hu": "*Tanulási segédlet a nyugati angyal-hagyomány közkincs forrásai nyomán: Pszeudo-Dionüsziosz „A mennyei hierarchiáról” (közkincs fordítások, pl. Parker, 1897); Hénok könyve (R. H. Charles fordítása, 1917); Agrippa „Three Books of Occult Philosophy” („J.F.” fordítás, 1651); Francis Barrett „The Magus” (1801); valamint a bibliai arkangyal-helyek (Dániel és Tóbit könyve). Minden szöveg eredeti összefoglaló, nem szó szerinti idézet.*\n\n*A hagyomány rendkívüli állításait a modulban csillag jelöli — a belső gyümölcsök szerint mérd őket. Ez a modul nem orvosi, nem pszichológiai és nem pénzügyi tanács; nem diagnosztizál, nem gyógyít, és semmilyen kezelést nem helyettesít és nem késleltethet. A gyakorlat anyagot ad a mérlegeléshez — döntést mindig te hozol. Tartós szorongás, parancsoló-nyomasztó élmény vagy akut krízis esetén fordulj szakemberhez. A gyakorlatokat nyugodt, biztonságos helyzetben végezd — vezetés vagy gépkezelés közben soha.*",
+        "en": "*Study aid drawing on public-domain sources of the Western angelic tradition: Pseudo-Dionysius, 'On the Celestial Hierarchy' (public-domain translations, e.g. Parker, 1897); the Book of Enoch (translated by R. H. Charles, 1917); Agrippa, 'Three Books of Occult Philosophy' (translated by 'J.F.', 1651); Francis Barrett, 'The Magus' (1801); and the biblical archangel passages (the Books of Daniel and Tobit). Every text is an original summary, not a verbatim quotation.*\n\n*The tradition's extraordinary claims are marked with an asterisk throughout the module — measure them by their inner fruits. This module is not medical, psychological or financial advice; it does not diagnose, does not cure, and neither replaces nor may delay any treatment. The practice gives material for reflection — the decision is always made by you. With persistent anxiety, a commanding-oppressive experience or an acute crisis, turn to a professional. Do the practices in calm, safe settings — never while driving or operating machinery.*"
+      }
+    }
+  ]
+}

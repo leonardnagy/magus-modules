@@ -1,0 +1,470 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-energy-protection",
+  "nevek": {
+    "hu": "Energiavédelem — gyakorlatok",
+    "en": "Energy Protection — practices"
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
+    {
+      "id": "ep-foldeles-gyokerezes",
+      "mester": "Energiavédelem",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Földelés — talp, súly, gyökér",
+        "en": "Grounding — soles, weight, root"
+      },
+      "cel": {
+        "hu": "Megtanulni a védelem-munka legjózanabb alapmozdulatát: a figyelem visszahívását a testbe és az érzékekbe — talp, testsúly, jelen.",
+        "en": "To learn the most sober basic movement of protection work: calling attention back into the body and the senses — soles, weight, presence."
+      },
+      "modszer": [
+        {
+          "hu": "Állj vagy ülj úgy, hogy a talpad teljes felületével éri a talajt — cipő nélkül, ha teheted.",
+          "en": "Stand or sit so that your soles meet the ground with their whole surface — without shoes, if you can."
+        },
+        {
+          "hu": "Érezd a talp és a talaj találkozását: nyomás, hő, textúra.",
+          "en": "Feel the meeting of sole and ground: pressure, warmth, texture."
+        },
+        {
+          "hu": "Engedd, hogy a testsúlyod a csontokon át a földnek adja magát — nem te tartod magad, a föld tart téged.",
+          "en": "Let your weight give itself to the earth through the bones — you are not holding yourself up, the earth is holding you."
+        },
+        {
+          "hu": "Ha segít, hívd a hagyomány gyökér-képét: a talpadból gyökerek nyúlnak a mélybe, és minden kilégzéssel mélyebbre érnek.",
+          "en": "If it helps, call the tradition's root image: roots reach down from your soles, and with every out-breath they reach deeper."
+        },
+        {
+          "hu": "Nyisd ki az érzékeid: nevezz meg három dolgot, amit látsz, kettőt, amit hallasz, egyet, amit a bőrödön érzel.",
+          "en": "Open your senses: name three things you see, two you hear, one you feel on your skin."
+        },
+        {
+          "hu": "Zárásként egy mély lélegzet — és nézd meg: lassult-e a légzés, engedett-e a váll.",
+          "en": "Close with one deep breath — and check: has the breath slowed, has the shoulder dropped."
+        }
+      ],
+      "keret": {
+        "hu": "A földelés a védelem-tanítások legjózanabb eleme: rokona az érzékszervi jelen-lét gyakorlatoknak, és hatása azonnal, hit nélkül ellenőrizhető. Minden további védelem-gyakorlat ezzel nyit és zár.",
+        "en": "Grounding is the most sober element of the protection teachings: a close cousin of sensory presence exercises, and its effect can be checked at once, without belief. Every further protection practice opens and closes with it."
+      },
+      "sorszam": 1
+    },
+    {
+      "id": "ep-alap-pajzs",
+      "mester": "Energiavédelem",
+      "szint": "kezdo",
+      "sik": "test",
+      "cim": {
+        "hu": "Az alap-pajzs — alvás, mozgás, kimondott nem",
+        "en": "The base shield — sleep, movement, a spoken no"
+      },
+      "cel": {
+        "hu": "A védelem valódi alapjának tudatos gondozása: kipihent idegrendszer, mozgásban tartott test és naponta legalább egy őszintén kimondott határ.",
+        "en": "To consciously tend the real foundation of protection: a rested nervous system, a body kept in motion, and at least one honestly spoken boundary a day."
+      },
+      "modszer": [
+        {
+          "hu": "Este jegyezd fel, hány órát aludtál, és tarts elalvás előtt fél óra képernyő-csendet.",
+          "en": "In the evening note how many hours you slept, and keep half an hour of screen silence before falling asleep."
+        },
+        {
+          "hu": "Iktass a napba legalább húsz perc mozgást — séta, nyújtás, bármi, ami a testet átmozgatja.",
+          "en": "Fit at least twenty minutes of movement into the day — walking, stretching, anything that moves the body through."
+        },
+        {
+          "hu": "Keress naponta egy kis helyzetet, ahol őszintén kimondhatsz egy határt: „ezt most nem vállalom\", „erre később térjünk vissza\".",
+          "en": "Find one small situation a day where you can honestly speak a boundary: 'I am not taking this on now', 'let us come back to this later'."
+        },
+        {
+          "hu": "Este a naplóban jelöld: alvás, mozgás, kimondott nem — mi volt meg a háromból.",
+          "en": "In the evening mark in the journal: sleep, movement, a spoken no — which of the three you had."
+        },
+        {
+          "hu": "Hét végén olvasd vissza a hetet, és figyeld meg: a jól alvós, mozgásos napokon mennyivel kevesebb „rossz energiát\" észleltél.",
+          "en": "At the week's end read the week back and notice: on well-slept, well-moved days, how much less 'bad energy' you perceived."
+        }
+      ],
+      "keret": {
+        "hu": "Ez a modul legkevésbé látványos és legerősebb gyakorlata: a legjobb védelem a stabil idegrendszer és a kimondott határ. A burok, a tisztítás és az oldás mind ennek gyakorlóterepe — nem helyettesítője.",
+        "en": "This is the module's least spectacular and strongest practice: the best protection is a stable nervous system and a spoken boundary. The shell, the cleansing and the release are all its training ground — not its substitute."
+      },
+      "etika": {
+        "hu": "Tartós alvászavar, kimerültség vagy nyomott hangulat esetén fordulj orvoshoz — a gyakorlat nem kezelés, és a szükséges ellátást nem helyettesíti.",
+        "en": "With persistent sleep problems, exhaustion or low mood, see a doctor — the practice is not treatment, and it does not replace needed care."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "ep-kritikus-szunet",
+      "mester": "Energiavédelem",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A kritikus szünet — mielőtt beengeded",
+        "en": "The critical pause — before you let it in"
+      },
+      "cel": {
+        "hu": "A Kaspirovszkij-leckében tanult kritikus szünet hétköznapi begyakorlása: erős állítás, hangulat vagy nyomás érkezésekor előbb megállni és megvizsgálni, csak azután beengedni.",
+        "en": "To train, in daily life, the critical pause learned in the Kaspirovsky lesson: when a strong claim, mood or pressure arrives, first stop and examine, only then let in."
+      },
+      "modszer": [
+        {
+          "hu": "Amikor erős hatás ér — meggyőző állítás, hirtelen hangulat, sürgető kérés —, állj meg egyetlen lélegzetre.",
+          "en": "When a strong influence reaches you — a persuasive claim, a sudden mood, an urgent request — stop for a single breath."
+        },
+        {
+          "hu": "Kérdezd meg: ki mondja ezt, és mit szeretne tőlem?",
+          "en": "Ask: who is saying this, and what do they want from me?"
+        },
+        {
+          "hu": "Kérdezd meg: az én érzésem ez, vagy most vettem át valakitől?",
+          "en": "Ask: is this feeling mine, or did I just take it over from someone?"
+        },
+        {
+          "hu": "Kérdezd meg: mi történik, ha egy napot várok a válasszal?",
+          "en": "Ask: what happens if I wait a day with my answer?"
+        },
+        {
+          "hu": "Dönts tudatosan: beengeded, elengeded vagy elhalasztod — és este jegyezd fel a naplóba, mi hogyan dőlt el.",
+          "en": "Decide consciously: let it in, let it go, or postpone it — and in the evening note in the journal how each case was decided."
+        }
+      ],
+      "keret": {
+        "hu": "A mentalizmus-pajzs elve dolgozik itt: a hatáskeltés technikáinak ismerete maga az immunitás. A szünet nem gyanakvás, hanem mérlegelés — a médiumság-modul megkülönböztetése ugyanennek a mozdulatnak a finomabb változata.",
+        "en": "The principle of the mentalism shield works here: knowing the techniques of influence is itself immunity. The pause is not suspicion but weighing — the discernment of the mediumship module is a finer variant of the same movement."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "ep-feny-burok",
+      "mester": "Energiavédelem",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "A fény-burok — a határ képe",
+        "en": "The shell of light — the image of the boundary"
+      },
+      "cel": {
+        "hu": "A hagyomány burok-gyakorlatának felépítése: fény-gömb vagy fény-tojás a test körül mint a saját határ megtestesített, begyakorolható képe.",
+        "en": "To build the tradition's shell practice: a sphere or egg of light around the body as an embodied, trainable image of your own boundary."
+      },
+      "modszer": [
+        {
+          "hu": "Nyiss földeléssel: talp, testsúly, három nyugodt lélegzet.",
+          "en": "Open with grounding: soles, weight, three calm breaths."
+        },
+        {
+          "hu": "Képzeld el, hogy a szíved tájáról fény árad szét, és kartávolságra a tested körül egyetlen összefüggő burokká simul — gömbbé vagy tojássá, ahogy természetesebb.",
+          "en": "Imagine light streaming out from around your heart and settling, at arm's length around your body, into one continuous shell — a sphere or an egg, whichever feels more natural."
+        },
+        {
+          "hu": "Add meg a szabályát a magad szavaival: „Ami épít, bejöhet. Ami áraszt, kint marad.\" A burok hártya, nem fal.",
+          "en": "Give it its rule in your own words: 'What builds me may enter. What floods me stays outside.' The shell is a membrane, not a wall."
+        },
+        {
+          "hu": "Figyeld meg a kísérő testérzést — kihúzott gerinc, mélyebb kilégzés, egy tenyérnyi mozdulat: ez a határ-kijelölő belső gesztus, amely idővel kép nélkül is előhívható.",
+          "en": "Notice the accompanying bodily sensation — a lengthened spine, a deeper out-breath, a hand's small movement: this is the boundary-marking inner gesture, which in time can be summoned without the image."
+        },
+        {
+          "hu": "Zárj földeléssel, és jegyezd a naplóba a félelem-szintet a gyakorlat előtt és után (1–10).",
+          "en": "Close with grounding, and note in the journal your fear level before and after the practice (1–10)."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a burkot valóságos védőrétegnek tartja — mi ezt a hagyomány elbeszéléseként jegyezzük fel, és megtestesített szándék-kijelölésként, önszuggesztióként dolgozunk vele. A mérce nem a burok fényessége, hanem hogy a valódi helyzetben nyugodtabb maradsz-e, és könnyebben mondod-e ki a határt.",
+        "en": "The tradition holds the shell to be a real protective layer — we record this as the tradition's narrative, and work with it as embodied intention-marking and self-suggestion. The measure is not the shell's brightness but whether, in the real situation, you stay calmer and speak the boundary more easily."
+      },
+      "etika": {
+        "hu": "Ha a gyakorlat növeli a félelmet, vagy burok nélkül már nem mersz emberek közé menni, tedd le, és térj vissza a földeléshez és az alap-pajzshoz; tartós minta esetén beszélj szakemberrel.",
+        "en": "If the practice increases fear, or without the shell you no longer dare go among people, put it down and return to grounding and the base shield; with a persistent pattern, speak with a professional."
+      },
+      "sorszam": 4
+    },
+    {
+      "id": "ep-viz-tisztitas",
+      "mester": "Energiavédelem",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Víz-tisztítás — a leöblített nap",
+        "en": "Water cleansing — the day rinsed off"
+      },
+      "cel": {
+        "hu": "Az esti mosakodás tudatos lezárás-rítussá emelése: látható, érezhető jelet adni annak, hogy a nap feszültségei nem jönnek tovább veled.",
+        "en": "To raise the evening wash into a conscious closing rite: giving a visible, feelable sign that the day's tensions do not travel on with you."
+      },
+      "modszer": [
+        {
+          "hu": "Az esti zuhany vagy mosakodás előtt állj meg egy pillanatra, és nevezd meg: mit szeretnél ma leöblíteni — egy feszültséget, egy mondatot, egy hangulatot.",
+          "en": "Before the evening shower or wash, stop for a moment and name it: what you wish to rinse off today — a tension, a sentence, a mood."
+        },
+        {
+          "hu": "A víz alatt figyelj a bőrödre: hő, áramlás, súly.",
+          "en": "Under the water attend to your skin: warmth, flow, weight."
+        },
+        {
+          "hu": "Engedd, hogy a megnevezett feszültség a vízzel együtt lefolyjon — a hagyomány a sós vizet külön tisztítónak tartja; ha hozzád szól, egy marék só a mosdóvízben is elég.",
+          "en": "Let the named tension flow away with the water — the tradition holds salt water to be cleansing in its own right; if it speaks to you, a handful of salt in the washing water is enough."
+        },
+        {
+          "hu": "Zárd egyetlen mondattal a magad szavaival: „ami a mai napból nem szolgál, lefolyt\".",
+          "en": "Close with a single sentence in your own words: 'what does not serve from this day has flowed away'."
+        },
+        {
+          "hu": "A törölközés legyen a záró gesztus — utána a nap le van zárva, ne nyisd újra a forgatását.",
+          "en": "Let the towelling be the closing gesture — after it the day is closed, do not reopen its turning-over."
+        },
+        {
+          "hu": "Naplóba: mit öblítettél le, és mennyivel könnyebb a lefekvés.",
+          "en": "Into the journal: what you rinsed off, and how much lighter the bedtime is."
+        }
+      ],
+      "keret": {
+        "hu": "A rituális mosakodás kultúrákon átívelő szokás; a sós víz tisztító ereje a hagyomány saját modellje. Lélektanilag átmenet-rítus: a testtel végigvitt lezárás mélyebben zár, mint a puszta elhatározás — a mérce a csendesebb este és a könnyebb elalvás.",
+        "en": "Ritual washing is a custom spanning cultures; the cleansing power of salt water is the tradition's own model. Psychologically it is a transition rite: a closing carried through with the body closes more deeply than a bare resolution — the measure is a quieter evening and an easier falling asleep."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "ep-ataramlo-feny",
+      "mester": "Energiavédelem",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "Átáramló fény — belső tisztítás",
+        "en": "Streaming light — inner cleansing"
+      },
+      "cel": {
+        "hu": "A fény-tisztítás hagyományának gyakorlata: a fejtetőn beáramló és a talpon át távozó fény képével átjárni a testet, és elengedni, ami elhasználódott.",
+        "en": "The practice of the light-cleansing tradition: to pass through the body with the image of light entering at the crown and leaving through the soles, releasing what is spent."
+      },
+      "modszer": [
+        {
+          "hu": "Ülj földelt testtartásban, csukd le a szemed, végy három nyugodt lélegzetet.",
+          "en": "Sit in a grounded posture, close your eyes, take three calm breaths."
+        },
+        {
+          "hu": "Képzeld el, hogy a fejtetőd fölött szelíd fény gyűlik, és kilégzésenként lassan beáramlik.",
+          "en": "Imagine gentle light gathering above your crown and streaming in slowly with each out-breath."
+        },
+        {
+          "hu": "Vezesd végig a fényt a testen — fej, nyak, mellkas, has, karok, lábak —, minden szakaszon egy-két lélegzetet időzve.",
+          "en": "Lead the light through the body — head, neck, chest, belly, arms, legs — dwelling a breath or two at each station."
+        },
+        {
+          "hu": "Lásd, ahogy a talpadon át a földbe áramlik tovább, magával víve, ami feszes, fáradt, elhasznált.",
+          "en": "See it stream on through your soles into the earth, carrying away what is tense, tired, spent."
+        },
+        {
+          "hu": "Zárásként érezd meg a talpad a talajon, és nyisd ki a szemed frissen, éberen.",
+          "en": "To close, feel your soles on the ground and open your eyes refreshed and alert."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a fényt tisztító erőnek tartja — a Saint Germain-modul Lila Láng-munkájának szelíd rokona ez. A józan lencsén át vezetett képzeleti ellazulás: irányított figyelem-utazás a testen, amelynek nyugtató hatását azonnal ellenőrizheted.",
+        "en": "The tradition holds light to be a cleansing power — this is a gentle cousin of the Violet Flame work of the Saint Germain module. Through the sober lens it is guided imagery relaxation: a directed journey of attention through the body, whose calming effect you can check at once."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "ep-fust-tisztitas",
+      "mester": "Energiavédelem",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Levego",
+      "cim": {
+        "hu": "Füst-tisztítás — a tér rítusa",
+        "en": "Smoke cleansing — a rite for the space"
+      },
+      "cel": {
+        "hu": "A füstölés hagyományával látható jelet adni egy tér vagy egy időszak lezárásának — költözés, vita, nehéz nap után.",
+        "en": "To give a visible sign of closing a space or a period with the tradition of fumigation — after a move, an argument, a hard day."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz füstölőt — tömjént vagy gyógynövényt —, és nevezd meg, mit zársz le vele.",
+          "en": "Choose an incense or herb, and name what you are closing with it."
+        },
+        {
+          "hu": "Nyiss ablakot, és gyújtsd meg biztonságosan, tűzálló tálka fölött.",
+          "en": "Open a window and light it safely, over a fireproof dish."
+        },
+        {
+          "hu": "Járd körbe lassan a helyiséget, a szándékot csendben tartva.",
+          "en": "Walk the room slowly, holding the intention in silence."
+        },
+        {
+          "hu": "A végén engedd, hogy a füst a nyitott ablakon át távozzon — a kiengedés maga az elengedés gesztusa.",
+          "en": "At the end let the smoke leave through the open window — the letting out is itself the gesture of release."
+        },
+        {
+          "hu": "Oltsd el teljesen a füstölőt, és jegyezd a naplóba: mit zártál le, és megváltozott-e a tér — és a te — hangulatod.",
+          "en": "Extinguish the incense completely, and note in the journal: what you closed, and whether the mood of the space — and yours — has changed."
+        }
+      ],
+      "keret": {
+        "hu": "A füstölés a világ minden táján ismert szokás; hogy a füst „kiviszi\", ami megült, a hagyomány saját képe. Lélektanilag küszöb-rítus: látható-szagolható jelet ad a váltásnak — a mérce az, hogy könnyebb-e utána új lappal jelen lenni a térben.",
+        "en": "Fumigation is a custom known in every corner of the world; that the smoke 'carries out' what has settled is the tradition's own image. Psychologically it is a threshold rite: it gives the change a visible, smellable sign — the measure is whether it is easier afterwards to be present in the space with a fresh page."
+      },
+      "etika": {
+        "hu": "Tűzvédelem mindenek előtt: tűzálló alátét, éghető anyagoktól távol, égve hagyni tilos. Szellőztess; asztma, légúti érzékenység, várandósság vagy kisgyermek jelenléte esetén válaszd a víz- vagy fény-tisztítást.",
+        "en": "Fire safety above all: a fireproof base, away from flammable materials, never left burning. Ventilate; with asthma, airway sensitivity, pregnancy or small children present, choose water or light cleansing instead."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "ep-kotes-oldas",
+      "mester": "Energiavédelem",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Kötés-oldás — az elengedés rítusa",
+        "en": "Cord release — a rite of letting go"
+      },
+      "cel": {
+        "hu": "Egy lezárásra érett kapcsolat vagy sérelem elengedésének rítusa: a vizualizált kötelék feloldásával a saját kötődéseden dolgozol — lezárás-munka, nem hatás a másikra.",
+        "en": "A rite of releasing a relationship or grievance ripe for closure: by dissolving the visualized cord you work on your own attachment — closure work, not an effect on the other."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz valódi, lezárásra érett témát — kapcsolat, sérelem, kinőtt szerep. Ne a legfrissebb sebbel kezdd.",
+          "en": "Choose a real theme ripe for closure — a relationship, a grievance, an outgrown role. Do not start with the freshest wound."
+        },
+        {
+          "hu": "Földelve, csendben idézd fel, és figyeld meg: hol érzed a testedben a hozzá fűző szálat?",
+          "en": "Grounded, in stillness, call it up and observe: where in your body do you feel the thread that ties you to it?"
+        },
+        {
+          "hu": "Ismerd el, amit a kapcsolat adott vagy tanított — az oldás nem tagadás.",
+          "en": "Acknowledge what the bond gave or taught — release is not denial."
+        },
+        {
+          "hu": "Válaszd meg a gesztust: elvágod vagy feloldod a szálat — és lásd, ahogy a visszahulló végek fénye visszatér, hozzád a tiéd, hozzá az övé.",
+          "en": "Choose the gesture: cut the thread or dissolve it — and see the light of the falling ends return, yours to you, theirs to them."
+        },
+        {
+          "hu": "Zárj földeléssel, és naplózz: mit engedtél el, és mi maradt még.",
+          "en": "Close with grounding, and journal: what you released, and what still remains."
+        },
+        {
+          "hu": "A következő hetekben figyeld a mércét: ritkábban tér-e vissza a gondolat, tudsz-e róla indulat nélkül beszélni.",
+          "en": "Over the following weeks watch the measure: does the thought return less often, can you speak of it without heat."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a köteléket valóságos szálnak tartja két ember között — mi a hagyomány elbeszéléseként jegyezzük fel, és lezárás-munkaként dolgozunk vele: a rítus a te gondolat-visszatéréseiden és sérelem-forgatásodon dolgozik, nem a másik emberen.",
+        "en": "The tradition holds the cord to be a real thread between two people — we record this as the tradition's narrative and work with it as closure work: the rite works on your returning thoughts and grievance-turning, not on the other person."
+      },
+      "etika": {
+        "hu": "Friss gyász, bántalmazás vagy trauma témáján ne dolgozz egyedül — ott a munka szakemberrel folyik. Az oldás nem helyettesíti a valódi lépést: a kimondott határt, a lezáró beszélgetést és ahol kell, a gyakorlati intézkedést. A másik ember befolyásolása nem célja és nem is képessége a gyakorlatnak.",
+        "en": "On themes of fresh grief, abuse or trauma do not work alone — there the work happens with a professional. Release does not replace the real step: the spoken boundary, the closing conversation and, where needed, the practical measure. Influencing the other person is neither the aim nor the capacity of the practice."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "ep-kimondott-hatar",
+      "mester": "Energiavédelem",
+      "szint": "mester",
+      "sik": "lelek",
+      "elem": "Fold",
+      "cim": {
+        "hu": "A kimondott határ — a szobában, nem a burokban",
+        "en": "The spoken boundary — in the room, not in the shell"
+      },
+      "cel": {
+        "hu": "A burok-gyakorlatban begyakorolt határ átvitele az élő helyzetbe: egy visszatérő helyzetben rövid, tiszta, vád nélküli határ-mondatot kimondani.",
+        "en": "To carry the boundary trained in the shell practice into the live situation: speaking a short, clear, accusation-free boundary sentence in a recurring situation."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz egy visszatérő helyzetet, ahol rendre túl sokat engedsz be — kérés, megjegyzés, elvárás.",
+          "en": "Choose a recurring situation where you regularly let in too much — a request, a remark, an expectation."
+        },
+        {
+          "hu": "Írd meg a határ-mondatot: rövid, egyes szám első személyű, vád nélküli — „ezt nem vállalom\", „ez nekem nem fér bele\".",
+          "en": "Write the boundary sentence: short, first person, without accusation — 'I am not taking this on', 'this does not fit for me'."
+        },
+        {
+          "hu": "Próbáld el hangosan, egyedül — és figyeld a tested: hol szorul, hol enged.",
+          "en": "Rehearse it aloud, alone — and watch your body: where it tightens, where it releases."
+        },
+        {
+          "hu": "A helyzet előtt hívd elő a burok belső gesztusát — egy lélegzet, kihúzott gerinc —, majd mondd ki a mondatot élőben.",
+          "en": "Before the situation summon the shell's inner gesture — one breath, a lengthened spine — then speak the sentence live."
+        },
+        {
+          "hu": "Utána naplózz: mit mondtál, hogyan fogadták, és hogyan érezted magad egy órával később.",
+          "en": "Afterwards journal: what you said, how it was received, and how you felt an hour later."
+        },
+        {
+          "hu": "Hetente egy kimondott határ elég — a készség ismétléssel épül, nem hősiességgel.",
+          "en": "One spoken boundary a week is enough — the skill is built by repetition, not by heroics."
+        }
+      ],
+      "keret": {
+        "hu": "Ez az a pont, ahol a szimbolikus munka valódi védelemmé válik: a vizualizált burok a gyakorlóterep, a kimondott mondat az éles helyzet. A mérce nem a másik reakciója, hanem hogy a mondat kimondva volt — tisztán és vád nélkül.",
+        "en": "This is the point where symbolic work becomes real protection: the visualized shell is the training ground, the spoken sentence is the live situation. The measure is not the other's reaction but that the sentence was spoken — clearly and without accusation."
+      },
+      "etika": {
+        "hu": "Fenyegető vagy bántalmazó kapcsolatban a határ-kimondás időzítését és biztonságát szakemberrel vagy segítő szervezettel tervezd meg — a biztonságod előbbre való minden gyakorlatnál.",
+        "en": "In a threatening or abusive relationship, plan the timing and safety of speaking the boundary with a professional or a support organization — your safety comes before any practice."
+      },
+      "sorszam": 9
+    },
+    {
+      "id": "ep-jozan-ellenorzes",
+      "mester": "Energiavédelem",
+      "szint": "mester",
+      "sik": "lelek",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Józan ellenőrzés — a gyakorlat letétele",
+        "en": "The sober check — putting the practice down"
+      },
+      "cel": {
+        "hu": "Havi önvizsgálat arról, hogy a védelem-gyakorlatok azt teszik-e, ami a dolguk: csökkentik a félelmet — és a letenni-tudás begyakorlása.",
+        "en": "A monthly self-examination of whether the protection practices do their job: reduce fear — and a training of the ability to put them down."
+      },
+      "modszer": [
+        {
+          "hu": "Havonta egyszer olvasd vissza a napló félelem-számait: a gyakorlatok előtt és után mért szintek merre mozognak?",
+          "en": "Once a month read back the journal's fear numbers: which way are the levels measured before and after the practices moving?"
+        },
+        {
+          "hu": "Tedd fel a három kérdést: Csökkenti-e a gyakorlat a félelmemet? Ki tudok-e hagyni egy napot szorongás nélkül? Többnek vagy kevesebbnek látom-e a fenyegetést magam körül, mint a gyakorlás előtt?",
+          "en": "Ask the three questions: Does the practice reduce my fear? Can I skip a day without anxiety? Do I see more or less threat around me than before practising?"
+        },
+        {
+          "hu": "Ha bármelyik válasz rossz irányba mutat, tarts egy teljes hét szünetet: csak földelés és alap-pajzs — semmi burok, tisztítás, oldás.",
+          "en": "If any answer points the wrong way, take a full week's pause: only grounding and the base shield — no shell, cleansing or release."
+        },
+        {
+          "hu": "A szünet végén nézd meg: nőtt vagy csökkent a félelem? A jó eszköz letehető — ami nem tehető le, az már minta, nem eszköz.",
+          "en": "At the pause's end look: did fear grow or shrink? A good tool can be put down — what cannot be put down is a pattern, not a tool."
+        },
+        {
+          "hu": "Beszéld át a tapasztalatot valakivel, akiben megbízol — a kimondás maga is józanító.",
+          "en": "Talk the experience through with someone you trust — the speaking itself is sobering."
+        }
+      ],
+      "keret": {
+        "hu": "A védelem-gyakorlat dolga, hogy csökkentse a félelmet; ha fenntartja vagy növeli, ellened dolgozik. A mindenhol látott támadás nem éberség, hanem szorongás-minta — és letenni a gyakorlatot bátorság, nem kudarc.",
+        "en": "The job of a protection practice is to reduce fear; if it maintains or grows it, it is working against you. Attack seen everywhere is not vigilance but an anxiety pattern — and putting the practice down is courage, not failure."
+      },
+      "etika": {
+        "hu": "Ha a fenyegetettség-érzés hetek múltán is fennáll, vagy rontja a munkád, a kapcsolataid, az alvásod, fordulj szakemberhez; akut krízisben azonnal kérj segítséget.",
+        "en": "If the sense of threat persists after weeks, or harms your work, your relationships or your sleep, consult a professional; in acute crisis seek help at once."
+      },
+      "sorszam": 10
+    }
+  ]
+}

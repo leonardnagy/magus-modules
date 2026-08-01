@@ -1,0 +1,412 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-numerology-core",
+  "nevek": {
+    "hu": "Numerológia — a számok tükre — gyakorlatok",
+    "en": "Numerology — the Mirror of Numbers — practices"
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
+    {
+      "id": "nm-eletut-szam",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Az életút-szám kiszámítása",
+        "en": "Calculating the life path number"
+      },
+      "cel": {
+        "hu": "A számítási konvenció pontos elsajátítása és az első saját szám rögzítése — egyelőre jelentés nélkül, csak tényként.",
+        "en": "To learn the calculation convention precisely and to record your first number — for now without meaning, purely as fact."
+      },
+      "modszer": [
+        {
+          "hu": "Írd le papírra a teljes születési dátumodat számjegyekkel: év, hónap, nap.",
+          "en": "Write your full birth date on paper in digits: year, month, day."
+        },
+        {
+          "hu": "Add össze az összes számjegyet egyetlen összeggé — például 1990. 07. 14. esetén 1+9+9+0+0+7+1+4 = 31.",
+          "en": "Add up all the digits into a single sum — for 1990-07-14, for example, 1+9+9+0+0+7+1+4 = 31."
+        },
+        {
+          "hu": "Redukáld egyjegyűre: add össze az eredmény számjegyeit, amíg egy jegy marad (31 → 3+1 = 4).",
+          "en": "Reduce to a single digit: keep adding the digits of the result until one digit remains (31 → 3+1 = 4)."
+        },
+        {
+          "hu": "Ha közben 11 vagy 22 adódik ki, jegyezd fel külön is — a hagyomány ezeket mesterszámként nem redukálja tovább.",
+          "en": "If an 11 or a 22 turns up along the way, note it separately as well — the tradition treats these as master numbers and does not reduce them further."
+        },
+        {
+          "hu": "Másnap számold újra frissen; csak az egyező eredményt tekintsd véglegesnek.",
+          "en": "Recalculate the next day with fresh eyes; treat only a matching result as final."
+        },
+        {
+          "hu": "Írd be a naplóba: életút-szám = ___ — jelentés nélkül, egyelőre csak a tényt.",
+          "en": "Enter into the journal: life path number = ___ — without meaning, for now just the fact."
+        }
+      ],
+      "keret": {
+        "hu": "A számítás konvenció — olyan, mint egy játékszabály: pontosan követhető, és mindenki ugyanarra az eredményre jut. A jelentés-réteg már a hagyomány elbeszélése. A szám önmagában semleges; azzá lesz, amit a reflexiód kihoz belőle.",
+        "en": "The calculation is a convention — like the rule of a game: precisely followable, and everyone arrives at the same result. The meaning layer is the tradition's narrative. The number in itself is neutral; it becomes what your reflection draws out of it."
+      },
+      "sorszam": 1
+    },
+    {
+      "id": "nm-betu-tabla",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A betű-tábla és a kifejezés-szám",
+        "en": "The letter table and the expression number"
+      },
+      "cel": {
+        "hu": "A pithagoraszi betű-tábla használatának begyakorlása és a kifejezés-szám kiszámítása a teljes születési névből.",
+        "en": "To practise using the Pythagorean letter table and to calculate the expression number from the full birth name."
+      },
+      "modszer": [
+        {
+          "hu": "Írd fel a táblát: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9.",
+          "en": "Write out the table: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9."
+        },
+        {
+          "hu": "Írd le a teljes születési nevedet, ahogy az anyakönyvben áll; az ékezetes betűt vedd az alapbetűjének (á → a, ő → o), az y-t mindig mássalhangzóként kezeld, a kettős betűket (gy, ny, sz, cs) pedig az alkotó latin betűnként számold (gy = g+y) — ez a mi rögzített konvenciónk.",
+          "en": "Write down your full birth name as it stands on the birth record; treat an accented letter as its base letter (á → a, ő → o), always treat y as a consonant, and count digraphs (gy, ny, sz, cs) as their component Latin letters (gy = g+y) — this is our fixed convention."
+        },
+        {
+          "hu": "Rendelj minden betűhöz számot, és add össze mindet.",
+          "en": "Assign a number to every letter and add them all up."
+        },
+        {
+          "hu": "Redukáld egyjegyűre; a 11-et és a 22-t itt is jegyezd fel külön.",
+          "en": "Reduce to a single digit; note an 11 or a 22 separately here as well."
+        },
+        {
+          "hu": "Ellenőrizd az összeadást a betűkön visszafelé haladva is.",
+          "en": "Check the addition by working back through the letters in reverse."
+        },
+        {
+          "hu": "Jegyezd a naplóba: kifejezés-szám = ___.",
+          "en": "Enter into the journal: expression number = ___."
+        }
+      ],
+      "keret": {
+        "hu": "A betű–szám hozzárendelés rendszerfüggő: a káldeus tábla ugyanerre a névre más számot ad. Ez önmagában megmutatja, hogy konvencióval dolgozol, nem természeti törvénnyel — és éppen ez teszi tisztává a szimbólum-munkát: tudod, mit tartasz a kezedben.",
+        "en": "The letter-number assignment is system-dependent: the Chaldean table gives a different number for the very same name. That alone shows you are working with a convention, not a law of nature — and exactly this keeps the symbol work clean: you know what you are holding."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "nm-lelek-szam",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "A lélek-szám — a magánhangzók",
+        "en": "The soul number — the vowels"
+      },
+      "cel": {
+        "hu": "A harmadik szám kiszámítása a név magánhangzóiból, és a három szám együttes rögzítése egy helyen.",
+        "en": "To calculate the third number from the vowels of the name, and to record all three numbers together in one place."
+      },
+      "modszer": [
+        {
+          "hu": "Vedd elő a betű-táblát és a teljes születési nevedet az előző gyakorlatból.",
+          "en": "Take out the letter table and your full birth name from the previous practice."
+        },
+        {
+          "hu": "Húzd alá a magánhangzókat (a, e, i, o, u, ö, ü és ékezetes változataik — az y konvenciónk szerint mindig mássalhangzó, ezért nem számít ide), és csak azokhoz rendelj számot.",
+          "en": "Underline the vowels (a, e, i, o, u, ö, ü and their accented forms — by our convention y is always a consonant, so it does not count here) and assign numbers only to those."
+        },
+        {
+          "hu": "Add össze, és redukáld egyjegyűre — a mesterszámokat itt is jegyezd fel külön.",
+          "en": "Add them up and reduce to a single digit — noting master numbers separately here as well."
+        },
+        {
+          "hu": "Ha kedved tartja, számold ki a mássalhangzókból a személyiség-számot is — kiegészítésként.",
+          "en": "If you feel like it, calculate the personality number from the consonants as well — as a supplement."
+        },
+        {
+          "hu": "Jegyezd fel mindhárom számodat egy helyre a naplóban: életút, kifejezés, lélek.",
+          "en": "Record all three of your numbers in one place in the journal: life path, expression, soul."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány a lélek-számot a legbelső mozgatóként olvassa — mi kérdésként használjuk: „mi mozgat legbelül?\" A kérdést a napló teszi fel, és te válaszolsz rá, nem a szám.",
+        "en": "The tradition reads the soul number as the innermost motive — we use it as a question: 'what moves me deepest down?' The journal asks the question, and you answer it, not the number."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "nm-elso-tukor",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "cim": {
+        "hu": "Az első tükör-olvasás",
+        "en": "The first mirror reading"
+      },
+      "cel": {
+        "hu": "A számod hagyomány-minőségének első, szerkezetes elolvasása — három oszloppal, konkrét élet-példákkal, benyomások helyett.",
+        "en": "A first, structured reading of your number's traditional quality — with three columns and concrete life examples instead of impressions."
+      },
+      "modszer": [
+        {
+          "hu": "Olvasd el a modul minőség-szótárából a saját életút-számod hagyomány-minőségét.",
+          "en": "Read your own life path number's traditional quality from the module's dictionary of qualities."
+        },
+        {
+          "hu": "Nyiss három oszlopot a naplóban: „stimmel\" — „nem stimmel\" — „részben\".",
+          "en": "Open three columns in the journal: 'fits' — 'does not fit' — 'partly'."
+        },
+        {
+          "hu": "Minden „stimmel\" mellé írj egy konkrét élet-példát; ne érzésre hivatkozz, hanem helyzetre.",
+          "en": "Next to every 'fits' write one concrete life example; cite a situation, not a feeling."
+        },
+        {
+          "hu": "A „nem stimmel\" oszlopot ugyanilyen gonddal töltsd ki — ez ugyanolyan informatív.",
+          "en": "Fill the 'does not fit' column with the same care — it is every bit as informative."
+        },
+        {
+          "hu": "Zárd egyetlen mondattal: mit tudtam meg magamról ebből az olvasásból?",
+          "en": "Close with a single sentence: what did I learn about myself from this reading?"
+        }
+      ],
+      "keret": {
+        "hu": "A leírás tükör-prompt: amit felismersz benne, az rólad beszél, nem a számról. A cél nem az egyezés megtalálása, hanem az őszinte szétválogatás — a tiltakozásod ugyanolyan értékes anyag, mint a ráismerésed.",
+        "en": "The description is a mirror prompt: what you recognize in it speaks about you, not about the number. The goal is not to find agreement but to sort honestly — your protest is material just as valuable as your recognition."
+      },
+      "etika": {
+        "hu": "A leírás nem sors és nem diagnózis: se magadról, se másról ne állíts fel belőle ítéletet. Ha az olvasás nyugtalanít, tedd le, és térj vissza máskor — tartós nyugtalanságnál beszélj szakemberrel.",
+        "en": "The description is neither fate nor diagnosis: pass no verdict from it on yourself or on anyone else. If the reading unsettles you, put it down and return another time — with persistent unease, talk to a professional."
+      },
+      "sorszam": 4
+    },
+    {
+      "id": "nm-barnum-proba",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A Barnum-próba — becsületes ellenkísérlet",
+        "en": "The Barnum test — an honest counter-experiment"
+      },
+      "cel": {
+        "hu": "Saját tapasztalatban megmérni, mennyire általánosak a szám-leírások — és ebből megtanulni, hol folyik valójában az önismereti munka.",
+        "en": "To measure in your own experience how general the number descriptions are — and to learn from this where the work of self-knowledge actually happens."
+      },
+      "modszer": [
+        {
+          "hu": "Mielőtt a saját számod leírását újraolvasnád, olvasd el egy MÁSIK szám minőség-leírását úgy, mintha a tiéd volna.",
+          "en": "Before re-reading your own number's description, read ANOTHER number's quality description as if it were yours."
+        },
+        {
+          "hu": "Jegyezd fel, hány eleme „talál\" rád — jellemzően meglepően sok fog.",
+          "en": "Note how many of its elements 'hit' you — typically a surprising number will."
+        },
+        {
+          "hu": "Ezután olvasd el a saját számod leírását, és jegyezd ugyanígy a találatokat.",
+          "en": "Then read your own number's description and note the hits the same way."
+        },
+        {
+          "hu": "Hasonlítsd össze a két találat-arányt, és írd le, mit mutat ez a leírások általánosságáról.",
+          "en": "Compare the two hit rates and write down what this shows about the generality of the descriptions."
+        },
+        {
+          "hu": "Fogalmazd meg a tanulságot a naplóban: a ráismerés a te munkád, nem a szám tulajdonsága — és éppen ezért használható a szám tükörnek.",
+          "en": "Formulate the lesson in the journal: the recognition is your work, not a property of the number — and exactly for that reason the number can serve as a mirror."
+        }
+      ],
+      "keret": {
+        "hu": "Ez a Barnum-hatás saját bőrön megélt leckéje, és egyben oltás is: rokona a mentalizmus-pajzsnak — aki ismeri a hatáskeltés működését, arra az nem hat észrevétlenül. A próba nem rontja el a tükör-munkát, hanem megtisztítja: tudni fogod, mit csinálsz, amikor ráismersz valamire.",
+        "en": "This is the Barnum effect learned on your own skin, and an inoculation at the same time: a cousin of the mentalism shield — whoever knows how an effect works is not swayed by it unnoticed. The test does not spoil the mirror work, it cleans it: you will know what you are doing when you recognize something."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "nm-rezonancia-naplo",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Rezonancia-napló — egy hét",
+        "en": "Resonance journal — one week"
+      },
+      "cel": {
+        "hu": "Egyhetes naplós munka a számod minőségeivel: napi egy minőség, napi egy konkrét helyzet — és a hét végén a saját mintáid kirajzolódása.",
+        "en": "A week of journal work with your number's qualities: one quality a day, one concrete situation a day — and at the week's end your own patterns taking shape."
+      },
+      "modszer": [
+        {
+          "hu": "Egy héten át minden este nyisd meg a modul szám-tükör napló-sablonját.",
+          "en": "For one week, open the module's number mirror journal template every evening."
+        },
+        {
+          "hu": "Válassz naponta egyetlen minőséget a számod leírásából, és keresd meg a nap egy konkrét helyzetét, ahol megjelent — vagy épp feltűnően hiányzott.",
+          "en": "Each day choose a single quality from your number's description and find one concrete situation of the day where it appeared — or was conspicuously absent."
+        },
+        {
+          "hu": "Írd le: „ma ebben ismertem magamra / ebben nem\" — mindig helyzettel, ne címkével.",
+          "en": "Write: 'today I recognized myself in this / not in this' — always with a situation, never with a label."
+        },
+        {
+          "hu": "A hét végén olvasd vissza mind a hét bejegyzést egyben.",
+          "en": "At the end of the week, read all seven entries back in one sitting."
+        },
+        {
+          "hu": "Írj záró összegzést: mely minták tértek vissza tőlem — a számtól függetlenül is?",
+          "en": "Write a closing summary: which patterns kept returning from me — even independently of the number?"
+        }
+      ],
+      "keret": {
+        "hu": "A hét anyaga a tiéd: a szám csak a lencse volt, ami a figyelmedet naponta egy pontra gyűjtötte. A visszaolvasásnál már nem a számot látod, hanem magadat — és pontosan ez volt a cél.",
+        "en": "The week's material is yours: the number was only the lens that gathered your attention to one point each day. Reading back, you no longer see the number but yourself — and that was exactly the goal."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "nm-szam-szemlelet",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Szám-szemlélet — a jegy mint kép",
+        "en": "Number contemplation — the digit as image"
+      },
+      "cel": {
+        "hu": "Csendes koncentrációs gyakorlat a saját számjegyeden: a figyelem tartása és a felmerülő asszociációk ítélkezésmentes fogadása.",
+        "en": "A quiet concentration practice on your own digit: holding attention and receiving the surfacing associations without judgement."
+      },
+      "modszer": [
+        {
+          "hu": "Ülj le csendben, végy néhány mély lélegzetet.",
+          "en": "Sit down in silence and take a few deep breaths."
+        },
+        {
+          "hu": "Idézd a belső látóteredbe az életút-számod jegyét mint egyszerű képet — formát, vonalat.",
+          "en": "Bring the digit of your life path number into your inner field of view as a simple image — form, line."
+        },
+        {
+          "hu": "Tartsd rajta nyugodtan a figyelmed; ha elkalandozol, szelíden térj vissza.",
+          "en": "Rest your attention on it calmly; when you drift, return gently."
+        },
+        {
+          "hu": "Engedd, hogy asszociációk merüljenek fel — kép, emlék, szó —, erőltetés nélkül.",
+          "en": "Let associations surface — an image, a memory, a word — without forcing."
+        },
+        {
+          "hu": "A végén jegyezd le, ami jött, értékelés nélkül — a napló majd megmutatja, mi tér vissza.",
+          "en": "At the end, write down what came, without evaluating it — the journal will show what keeps returning."
+        }
+      ],
+      "keret": {
+        "hu": "Közeli rokona a bardoni érzékkoncentrációnak: egyetlen egyszerű tárgyon tartott figyelem. Ami az asszociációkban felmerül, az belőled jön — a jegy csendes vetítővászon, nem üzenő fél.",
+        "en": "A close cousin of Bardon's sense-concentration: attention held on a single simple object. What surfaces in the associations comes from you — the digit is a quiet projection screen, not a party sending messages."
+      },
+      "etika": {
+        "hu": "Ha nyomasztó tartalom merülne fel, zárd le nyugodtan a gyakorlatot, és térj vissza a hétköznapi figyelemhez. Tartós nyugtalanságnál beszélj szakemberrel — a gyakorlás sosem előzi meg a jóllétedet.",
+        "en": "If oppressive content surfaces, close the practice calmly and return to ordinary attention. With persistent unease, talk to a professional — practice never comes before your well-being."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "nm-arnyek-oldal",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "mester",
+      "sik": "lelek",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "A szám két pólusa — fény és árnyék",
+        "en": "The number's two poles — light and shadow"
+      },
+      "cel": {
+        "hu": "A számod fő minőségének kétpólusú feltérképezése — érett forma és túlhajtott árnyék — konkrét helyzetekkel, és a minőség tudatos terelése az érett pólus felé.",
+        "en": "To map your number's main quality in two poles — mature form and overdriven shadow — with concrete situations, and to consciously steer the quality toward the mature pole."
+      },
+      "modszer": [
+        {
+          "hu": "Vedd a számod fő minőségét (például a 4-nél: rend), és írd fel a két pólusát: érett formája (megbízhatóság) és túlhajtott árnyéka (merevség).",
+          "en": "Take your number's main quality (for 4, for example: order) and write down its two poles: its mature form (dependability) and its overdriven shadow (rigidity)."
+        },
+        {
+          "hu": "Keress az elmúlt hónapból egy-egy konkrét helyzetet mindkét pólusra.",
+          "en": "Find one concrete situation from the past month for each of the two poles."
+        },
+        {
+          "hu": "Írd le, mi billentette a minőséget árnyékba — fáradtság, félelem, megszokás?",
+          "en": "Write down what tipped the quality into shadow — tiredness, fear, habit?"
+        },
+        {
+          "hu": "Fogalmazz meg egy kicsi, konkrét lépést, ami a minőséget az érett pólus felé tereli.",
+          "en": "Formulate one small, concrete step that steers the quality toward the mature pole."
+        },
+        {
+          "hu": "Vezesd be mindkét pólust a modul aspektus-tükrébe, és kövesd őket a naplóban.",
+          "en": "Enter both poles into the module's aspect mirror and follow them in the journal."
+        }
+      ],
+      "keret": {
+        "hu": "Ez a bardoni fekete–fehér lélektükör mozdulata, numerológiai szótárral: nem a szám ítél rólad, hanem te leltározol — két pólusban, ahogy a Bardon-lépések tanítják. A szám itt már csak rendezőelv; a munka a jellemvonásokon folyik.",
+        "en": "This is the movement of Bardon's black-and-white soul mirror, with a numerological vocabulary: the number does not judge you — you take inventory, in two poles, as the Bardon steps teach. Here the number is merely an organizing principle; the work happens on the character traits."
+      },
+      "etika": {
+        "hu": "Az árnyék-munka önismeret, nem önostorozás: a leltár leírásra való, nem ítéletre. Akut lelki teher idején ne ezt gyakorold — előbb stabilizálódj, szükség esetén szakember segítségével.",
+        "en": "Shadow work is self-knowledge, not self-flagellation: the inventory is for describing, not for sentencing. In times of acute distress do not practise this — stabilize first, with professional help if needed."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "nm-dontes-lencse",
+      "mester": "Numerológia — a számok tükre",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Ido",
+      "cim": {
+        "hu": "Döntés-lencse — a józan használat",
+        "en": "The decision lens — sober use"
+      },
+      "cel": {
+        "hu": "Megtanulni a szám egyetlen legitim döntés-közeli használatát: kérdést adhat a mérlegeléshez — a döntést és az indoklást mindig te írod.",
+        "en": "To learn the number's single legitimate use near decisions: it may contribute a question to the weighing — the decision and its reasoning are always written by you."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz egy valódi, de nem sürgős mérlegelnivalót.",
+          "en": "Choose a real but non-urgent matter to weigh."
+        },
+        {
+          "hu": "Írd le a helyzetet a szokásos józan szempontjaiddal: tények, lehetőségek, következmények.",
+          "en": "Write out the situation with your usual sober considerations: facts, options, consequences."
+        },
+        {
+          "hu": "Ezután — külön bekezdésben — nézd meg a helyzetet a számod minősége felől mint egyetlen további szemponton át: mit venne észre itt a rend embere, vagy a változásé?",
+          "en": "Then — in a separate paragraph — look at the situation through your number's quality as one additional viewpoint: what would the person of order notice here, or the person of change?"
+        },
+        {
+          "hu": "Vesd össze: adott-e a lencse olyan szempontot, ami a józan listádból kimaradt?",
+          "en": "Compare: did the lens contribute a consideration your sober list had missed?"
+        },
+        {
+          "hu": "Hozd meg a döntést a teljes listád alapján, és írd le a saját indoklásodat a naplóba — a döntés minden esetben a tiéd.",
+          "en": "Make the decision based on your complete list and write your own reasoning in the journal — the decision is yours in every case."
+        }
+      ],
+      "keret": {
+        "hu": "A szám sosem dönt — legfeljebb kérdezni tud. Ha azon kapod magad, hogy azt szeretnéd, döntsön helyetted, az a jel, hogy le kell tenned: a tükör visszakérdez, de nem válaszol helyetted.",
+        "en": "The number never decides — at most it can ask. If you catch yourself wishing it would decide for you, that is the signal to put it down: the mirror asks back, but it does not answer in your place."
+      },
+      "etika": {
+        "hu": "Pénzügyi, egészségi vagy más nagy horderejű döntést soha ne alapozz számokra: ilyen kérdésben a tárgyi oldalon orvos, szakértő és józan tervezés dolgozik — a gyakorlat kizárólag az ön-megfigyelést szolgálja. A döntések kiszervezése bármilyen eszköznek ellentétes e modul tanításával.",
+        "en": "Never base a financial, health or other high-stakes decision on numbers: in such matters the substantive side belongs to a doctor, an expert and sober planning — this practice serves self-observation only. Outsourcing decisions to any tool is contrary to this module's teaching."
+      },
+      "sorszam": 9
+    }
+  ]
+}

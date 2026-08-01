@@ -1,0 +1,464 @@
+{
+  "formatVersion": 1,
+  "id": "automatic-writing",
+  "version": "1.0.0",
+  "nevek": {
+    "hu": "Automatikus írás",
+    "en": "Automatic Writing"
+  },
+  "description": {
+    "hu": "A szabad kéz egyszerű és mély technikája: elcsendesedsz, a tollat a papíron hagyod, és megszakítás, javítás és ítélkezés nélkül engeded futni. A hagyomány csatornázásként olvassa, a józan lencse a tudatalatti anyag felszínre hozásaként — a munka mindkét olvasatban ugyanaz, és az eredmény mindig az app naplóiba fut: álom-, intuíció- vagy manifesztáció-napló. Vaskeret: az írás anyaga mérlegelendő gondolat, sosem parancs.",
+    "en": "The simple and deep technique of the free hand: you grow quiet, leave the pen on the paper, and let it run without interruption, correction or judgement. The tradition reads it as channeling, the sober lens as subconscious material rising to the surface — the work is the same in both readings, and the result always flows into the app's journals: dream, intuition or manifestation. Iron frame: the material of the writing is thought to be weighed, never a command."
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/automatic.writing/audio",
+  "items": [
+    {
+      "id": "automatic-writing-md-intro",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Bevezető — a szabad kéz",
+        "en": "Introduction — the Free Hand"
+      },
+      "text": {
+        "hu": "A kezedben van az egyik legrégibb és legegyszerűbb belső eszköz: **a toll, amelyet elengedsz**. Az automatikus írásban elcsendesedsz, a kezed a papíron marad — és hagyod, hogy írjon, megállás, javítás és ítélkezés nélkül. Ami a lapra kerül, néha zavaros, néha meglepően éles — de mindig **rólad** hoz hírt.\n\nA modul négy pillére:\n\n— **A hagyomány és a kutatók** — honnan jön a technika, és kik vizsgálták.\n— **A józan lencse** — miért arany a felszínre kerülő anyag önmagában is.\n— **A technika** — lépésről lépésre, időzítőkkel.\n— **A naplókba futó munka** — az eredmény mindig az app naplóiban landol.\n\n**Őszinte keret:** a spiritiszta hagyomány szerint az író kezet külső intelligencia vagy a felsőbb én vezeti. * Amit közvetlenül megfigyelhetsz, az ennél szerényebb — és értékesebb: olyan tartalmak kerülnek papírra, amelyekhez az éber, cenzorozó elméd egyébként nem enged hozzá. Ez önmagában mély önismereti munka.\n\n**Vaskeret már most:** bármit ír a kezed, az **mérlegelendő gondolat, nem parancs**. Erre a mondatra még sokszor visszatérünk.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "In your hand lies one of the oldest and simplest inner tools: **the pen you let go of**. In automatic writing you grow quiet, your hand stays on the paper — and you let it write, without stopping, correcting or judging. What lands on the page is sometimes muddled, sometimes surprisingly sharp — but it always brings news **about you**.\n\nThe module's four pillars:\n\n— **The tradition and the researchers** — where the technique comes from and who studied it.\n— **The sober lens** — why the surfacing material is gold in itself.\n— **The technique** — step by step, with timers.\n— **The work that flows into the journals** — the result always lands in the app's journals.\n\n**An honest frame:** according to the spiritist tradition, the writing hand is guided by an external intelligence or by the higher self. * What you can observe directly is more modest — and more valuable: contents reach the paper that your waking, censoring mind would not otherwise let through. That alone is deep self-knowledge work.\n\n**Iron frame, right from the start:** whatever your hand writes is **thought to be weighed, not a command**. We will return to this sentence many times.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "automatic-writing-md-history",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A hagyomány és a kutatók",
+        "en": "The Tradition and the Researchers"
+      },
+      "text": {
+        "hu": "Az automatikus írás a 19. századi spiritiszta hullámban vált széles körben ismertté, de a gyakorlat maga régebbi. Három nevet érdemes ismerned:\n\n**W. Stainton Moses** angol lelkész *Spirit Teachings* (1883) című könyve a hagyomány-oldal klasszikusa: éveken át vezetett automatikus írás-üléseinek anyagát adta közre, és meggyőződése szerint szellemi tanítók diktáltak a kezének. * Ezt a könyvet a hagyomány dokumentumaként olvasd — kritikusan.\n\n**William James**, a modern lélektan egyik atyja, kutatóként fordult a jelenséghez („Notes on Automatic Writing”, 1889): automatizmusként írta le — olyan mozgásként, amely valódi, nem színlelt, mégsem az éber akarat terméke.\n\n**F. W. H. Myers** a *Human Personality* (1903) lapjain megalkotta a máig legjobban használható fogalmat: a **szubliminális én**-t. Eszerint a tudatküszöb alatt hatalmas lelki élet zajlik — emlékek, képességek, feldolgozatlan anyag —, és az automatikus írás ennek az anyagnak nyit csatornát.\n\n**Mit tanulunk ebből?** A hagyomány modellje — a kezet külső intelligencia vagy a felsőbb én vezeti * — és a kutatói modell — a tudatküszöb alatti anyag kerül felszínre — **ugyanarra a gyakorlatra** mutat. A modul a második lencsével dolgozik, az elsőt tisztelettel jegyzi. Neked nem kell választanod: a munka mindkét olvasatban ugyanaz.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Automatic writing became widely known in the nineteenth-century spiritist wave, but the practice itself is older. Three names are worth knowing:\n\n**W. Stainton Moses**, an English clergyman, published *Spirit Teachings* (1883), a classic of the tradition's side: he shared the material of years of automatic writing sessions, convinced that spirit teachers dictated to his hand. * Read this book as a document of the tradition — critically.\n\n**William James**, one of the fathers of modern psychology, approached the phenomenon as a researcher ('Notes on Automatic Writing', 1889): he described it as an automatism — a movement that is real, not feigned, and yet not the product of the waking will.\n\n**F. W. H. Myers**, in the pages of *Human Personality* (1903), coined the concept that serves best to this day: the **subliminal self**. In his view a vast mental life unfolds beneath the threshold of consciousness — memories, capacities, unprocessed material — and automatic writing opens a channel to it.\n\n**What do we take from this?** The tradition's model — the hand guided by an external intelligence or the higher self * — and the researchers' model — material from beneath the threshold rising to the surface — point to **the same practice**. This module works with the second lens while recording the first with respect. You need not choose: the work is the same in both readings.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "automatic-writing-md-lens",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A józan lencse — a tudatalatti aranya",
+        "en": "The Sober Lens — the Gold of the Subconscious"
+      },
+      "text": {
+        "hu": "Miért működik az automatikus írás — és miért érték, függetlenül attól, mit gondolsz a forrásáról?\n\n**1. A cenzor megkerülése.** Az éber elméd szüntelenül szerkeszt: mielőtt egy gondolat kimondódna, megszűri, illik-e, logikus-e, vállalható-e. Az automatikus írás szabálya — nincs megállás, nincs javítás, nincs ítélet — pontosan ezt a szerkesztőt kapcsolja ki. Ami így felszínre jön, ahhoz máshogy nem férnél hozzá.\n\n**2. Ideomotoros automatizmus.** A kéz apró, nem-tudatos mozgásimpulzusokból is képes írni — ezt írta le James automatizmusként. A mozgás valódi, az élmény őszinte („nem én írom!”), és közben teljesen természetes lélektani jelenség.\n\n**3. A szubliminális én.** Myers fogalmával: a tudatküszöb alatti anyag — emlék, sejtés, félig kész felismerés — az írásban formát kap. **Ez önmagában arany**: a saját mélyedből kapsz nyersanyagot, amit aztán éberen mérlegelhetsz.\n\n**4. Rokonok.** A kreatív írás **free-writing** technikája és az **expresszív írás** ugyanezt az elvet használja — ítélkezés nélküli áramlásban olyasmi íródik le, amit a szerkesztő elme visszatartana. És ha dolgoztál az **RV-modullal**: ott is ez a rend — előbb rögzítesz, csak utána ítélsz; a nyers jel és az értelmezés szétválasztása közös mesterfogás.\n\n**A mérce** itt is a gyümölcs: nem az számít, honnan „jön” a szöveg, hanem hogy mit tudsz meg belőle magadról — és mit kezdesz vele éberen.",
+        "en": "Why does automatic writing work — and why is it valuable regardless of what you think about its source?\n\n**1. Bypassing the censor.** Your waking mind edits without pause: before a thought is spoken, it is screened for fitness, logic, respectability. The rule of automatic writing — no stopping, no correcting, no judging — switches off precisely this editor. What surfaces this way you could not reach otherwise.\n\n**2. Ideomotor automatism.** The hand can write from tiny, non-conscious motor impulses — this is what James described as automatism. The movement is real, the experience sincere ('it is not me writing!'), and all the while it is an entirely natural psychological phenomenon.\n\n**3. The subliminal self.** In Myers' term: material from beneath the threshold — memory, hunch, half-finished insight — takes form in the writing. **That alone is gold**: you receive raw material from your own depths, which you can then weigh with a waking mind.\n\n**4. Kin.** The **free-writing** technique of creative writing and **expressive writing** use the same principle — in judgement-free flow, things get written that the editing mind would hold back. And if you have worked with the **RV module**: the order there is the same — record first, judge later; separating the raw signal from interpretation is a shared master-move.\n\n**The measure**, here too, is the fruit: what matters is not where the text 'comes from' but what you learn about yourself from it — and what you do with it, awake."
+      }
+    },
+    {
+      "id": "automatic-writing-md-technique",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "A technika — lépésről lépésre",
+        "en": "The Technique — Step by Step"
+      },
+      "text": {
+        "hu": "A teljes alaptechnika. Kell hozzá: toll, papír (vagy az app jegyzete), tizenöt zavartalan perc.\n\n**1. Elcsendesedés.** Ülj le, talpad a talajon. Néhány percig csak lélegezz, lassan és mélyen. Engedd el a vállad, az állkapcsod, a kezed. Ez a lépés rokona a **Bardon-lépések** gondolatfegyelem-gyakorlatainak: nem üresség kell, csak lecsendesedő felszín. A lenti 5 perces időzítő ezt vezeti.\n\n**2. Kérdés — vagy nyitott kezdés.** Megfogalmazhatsz egy szándékot vagy kérdést („mi kér ma figyelmet?”) — vagy kezdhetsz teljesen nyitottan. Kezdőként a nyitott kezdés az egyszerűbb.\n\n**3. A kéz elengedése.** Tedd a tollat a papírra, és írj **folyamatosan**: megállás, javítás, visszaolvasás és ítélkezés nélkül. Nem számít a helyesírás, a szépség, az értelem. **Ha elakadsz, írd le szó szerint: „nem tudom, mit írjak” — újra és újra, amíg magától megindul.** Ez a technika legfontosabb fogása.\n\n**4. Időkeret.** Tíz-tizenöt perc — a lenti ülés-időzítő vezet. Az időkeret véd: nem kell írás közben eldöntened, mikor elég.\n\n**5. Utána: anyag.** Az elkészült szöveget **ne olvasd el azonnal**. Tedd félre, állj fel, igyál egy pohár vizet. Az olvasás külön gyakorlat, külön leckével — távolságból.\n\n**Gyakori élmények:** zagyvaság (normális, főleg eleinte), hirtelen témaváltás, meglepő mondat, amiről nem tudtad, hogy benned van. Mindez a folyamat része.",
+        "en": "The complete base technique. You need: pen, paper (or the app's notes), fifteen undisturbed minutes.\n\n**1. Quieting.** Sit down, feet on the ground. For a few minutes just breathe, slowly and deeply. Release your shoulders, your jaw, your hands. This step is kin to the thought-discipline practices of the **Bardon steps**: no emptiness is needed, only a settling surface. The five-minute timer below guides it.\n\n**2. A question — or an open start.** You may form an intention or question ('what asks for attention today?') — or begin fully open. As a beginner, the open start is simpler.\n\n**3. Releasing the hand.** Put the pen on the paper and write **continuously**: without stopping, correcting, re-reading or judging. Spelling, beauty and sense do not matter. **If you get stuck, write literally: 'I don't know what to write' — again and again, until it restarts by itself.** This is the technique's most important move.\n\n**4. The time frame.** Ten to fifteen minutes — the session timer below guides you. The frame protects you: you need not decide mid-writing when it is enough.\n\n**5. Afterwards: material.** Do **not** read the finished text at once. Set it aside, stand up, drink a glass of water. Reading is a separate practice with its own lesson — from a distance.\n\n**Common experiences:** gibberish (normal, especially at first), sudden topic changes, a surprising sentence you did not know was in you. All of it is part of the process."
+      }
+    },
+    {
+      "id": "automatic-writing-timer-csend",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Elcsendesedés — 5 perc",
+        "en": "Quieting — 5 min"
+      },
+      "timer": {
+        "durationSeconds": 300,
+        "instructions": {
+          "hu": "Ülj le, talpad a talajon. Lélegezz lassan és mélyen, engedd el a vállad, az állkapcsod, a kezed. A toll már a kezedben lehet — terv és elvárás nélkül.",
+          "en": "Sit down, feet on the ground. Breathe slowly and deeply; release your shoulders, your jaw, your hands. The pen may already be in your hand — without plan or expectation."
+        },
+        "intervals": [
+          {
+            "atSecond": 120,
+            "label": {
+              "hu": "Vállak, állkapocs, kéz — engedd el",
+              "en": "Shoulders, jaw, hand — let go"
+            }
+          },
+          {
+            "atSecond": 240,
+            "label": {
+              "hu": "Mindjárt indulsz — maradj a csendben",
+              "en": "Almost time — stay in the stillness"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "automatic-writing-timer-ules",
+      "kind": "timer",
+      "nevek": {
+        "hu": "Írás-ülés — 12 perc",
+        "en": "Writing Session — 12 min"
+      },
+      "timer": {
+        "durationSeconds": 720,
+        "instructions": {
+          "hu": "Tedd a tollat a papírra, és írj folyamatosan — megállás, javítás és ítélkezés nélkül. Ha elakadsz, írd le: „nem tudom, mit írjak”, amíg újra megindul. A végén tedd félre a lapot — az olvasás külön gyakorlat.",
+          "en": "Put the pen on the paper and write continuously — without stopping, correcting or judging. If you get stuck, write: 'I don't know what to write' until it restarts. At the end set the page aside — reading is a separate practice."
+        },
+        "intervals": [
+          {
+            "atSecond": 60,
+            "label": {
+              "hu": "Ha elakadtál: „nem tudom, mit írjak”",
+              "en": "If stuck: 'I don't know what to write'"
+            }
+          },
+          {
+            "atSecond": 360,
+            "label": {
+              "hu": "Félidő — maradj az áramlásban",
+              "en": "Halfway — stay in the flow"
+            }
+          },
+          {
+            "atSecond": 660,
+            "label": {
+              "hu": "Zárd le lassan a mondatot",
+              "en": "Slowly bring the sentence to a close"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "automatic-writing-md-reading",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Az anyag olvasása — távolságból",
+        "en": "Reading the Material — from a Distance"
+      },
+      "text": {
+        "hu": "Az ülés fele az írás — a másik fele az olvasás. Itt dől el, hogy a gyakorlat önismereti munka lesz-e, vagy babona.\n\n**Mikor?** Legkorábban néhány órával az ülés után, de akár másnap. A távolság nem díszlet: attól látod anyagnak, hogy már nem vagy benne.\n\n**Hogyan?** Olvasd úgy, mintha **más írta volna**. Húzd alá, amiben érdemi tartalom van. Három kérdés vezet:\n\n— **Mire ismerek rá?** (Ami régóta bennem van, csak most kimondódott.)\n— **Mi lep meg?** (Amiről nem tudtam, hogy bennem van — ez a legértékesebb réteg.)\n— **Mi kér mérlegelést?** (Ami cselekvésre, döntésre utal — ez a legóvatosabban kezelendő réteg.)\n\n**A vaskeret.** Az írás anyaga **mérlegelendő gondolat, nem parancs**. Emlékezz a **Kaspirovszkij-lecke kritikus szünetére**: mielőtt bármit beengedsz, megállsz és megvizsgálod. És emlékezz a **médiumság-megkülönböztetés** hármasára: mi jön belülről, mi tűnik kívülről jövőnek, és mi kíván további mérlegelést. Döntést az anyag soha nem hoz helyetted — te döntesz, és a naplódban indokolod.\n\n**Mit dobj el?** Ami üres, azt engedd el dráma nélkül. A zagyvaság nem kudarc — a folyamat mellékterméke.",
+        "en": "Half the session is the writing — the other half is the reading. Here it is decided whether the practice becomes self-knowledge work or superstition.\n\n**When?** At the earliest a few hours after the session, or the next day. The distance is no decoration: you see it as material precisely because you are no longer inside it.\n\n**How?** Read it as if **someone else had written it**. Underline whatever carries substance. Three questions lead:\n\n— **What do I recognize?** (What has long been in me and has only now been spoken.)\n— **What surprises me?** (What I did not know was in me — the most valuable layer.)\n— **What asks to be weighed?** (What points to action or decision — the layer to handle most carefully.)\n\n**The iron frame.** The material of the writing is **thought to be weighed, not a command**. Remember the **critical pause of the Kaspirovsky lesson**: before letting anything in, you stop and examine it. And remember the triad of **mediumship discernment**: what comes from within, what seems to come from outside, and what asks for further weighing. The material never decides for you — you decide, and you give your reasons in the journal.\n\n**What to discard?** Whatever is empty, let go without drama. Gibberish is not failure — it is a by-product of the process."
+      }
+    },
+    {
+      "id": "automatic-writing-md-journal",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "App-kötés — az írás a naplókba fut",
+        "en": "App Binding — the Writing Flows into the Journals"
+      },
+      "text": {
+        "hu": "Az automatikus írás ebben az appban **nem különálló sziget**: a napló-rendszer betáplálója. Minden ülés érdemi anyaga a három napló egyikébe fut:\n\n**Álom-napló.** Ha az anyag álomról szól, álomképet folytat, vagy reggeli utóírásból született — ide kerül. Az álom-emlékezet és az automatikus írás kölcsönösen erősítik egymást.\n\n**Intuíció-napló.** A sejtések, képek, hirtelen tudások, megérzés-szerű mondatok helye. Ide kerül a legtöbb nyitott ülés termése. A visszaolvasásnál látod meg, melyik sejtés igazolódott — ez tartja tisztán a gyakorlatot.\n\n**Manifesztáció-napló.** Ha az anyag célokról, vágyakról, belső akadályokról szól. Az itt felszínre kerülő blokk-mondatok („úgysem sikerül, mert…”) a manifesztációs munka legjobb nyersanyagai — a **Saint Germain-modul** bőség-gyakorlataihoz is innen vihetsz anyagot.\n\n**A heti visszaolvasás.** Hetente egyszer olvasd vissza a bejegyzéseket. A minta — visszatérő téma, visszatérő blokk, igazolódó sejtés — csak visszaolvasásban látszik meg. Egyetlen ülés sosem mond sokat; húsz ülés íve annál többet.\n\n**Dátum és jelölés.** Minden bevezetett anyagnál jelöld: automatikus írásból jött, mikor, kérdésre vagy nyitottan. A későbbi mérlegelésnél ez a különbség számít.",
+        "en": "In this app, automatic writing is **not a separate island**: it feeds the journal system. The substance of every session flows into one of the three journals:\n\n**Dream journal.** If the material speaks of a dream, continues a dream image, or was born of a morning after-writing — it goes here. Dream recall and automatic writing strengthen each other.\n\n**Intuition journal.** The place of hunches, images, sudden knowings, intuition-like sentences. Most of the harvest of open sessions goes here. In re-reading you see which hunches proved true — that keeps the practice honest.\n\n**Manifestation journal.** If the material speaks of goals, desires, inner obstacles. The block-sentences that surface here ('it will fail anyway, because…') are the best raw material for manifestation work — you can carry material from here into the abundance practices of the **Saint Germain module** as well.\n\n**The weekly re-read.** Once a week, read the entries back. The pattern — a recurring theme, a recurring block, a hunch coming true — appears only in re-reading. One session never says much; the arc of twenty sessions says a great deal.\n\n**Date and mark.** For every entry note: it came from automatic writing, when, on a question or open. At later weighing, that difference matters."
+      }
+    },
+    {
+      "id": "automatic-writing-md-advanced",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Haladó formák — kérdés, párbeszéd, vezető",
+        "en": "Advanced Forms — Question, Dialogue, Guide"
+      },
+      "text": {
+        "hu": "Ha az alapülés már megy — folyamatos kéz, tiszta olvasás, naplóba futó anyag —, három haladó forma nyílik meg.\n\n**1. Kérdés-vezetett ülés.** Egyetlen őszinte, nyitott kérdés a lap tetejére — feltáró, nem eldöntendő („mi kér most figyelmet a munkámban?”). A kérdés fókuszálja az anyagot. A vaskeret változatlan: a válasz **nézőpont a mérlegeléshez**, nem ítélet és nem parancs — a döntés a tiéd, és a naplóban indokolod.\n\n**2. Párbeszéd-forma.** Írd le a kérdést éberen — majd engedd el a kezed a válaszhoz. Váltakozva: éber kérdés, elengedett válasz. Így a szöveg beszélgetéssé rendeződik, és könnyebb olvasni.\n\n**3. A belső vezető.** Az **astral.explorations modul belső-vezető leckéjére** épül: ott ismerted meg az alakot, itt írásban szólítod meg. Kettős lencsével dolgozunk: a vezető olvasható a psziché megszemélyesített részeként — az aktív imagináció logikája —, VAGY valós segítőként, ahogy a hagyomány tartja. * A gyakorlat mindkét olvasatban ugyanaz, és nem kell választanod.\n\n**Védelem haladóknak.** A **mentalizmus-pajzs** itt is szolgál: aki ismeri a hatáskeltés és a szuggesztió fogásait, azt a saját lapja sem tudja elkápráztatni. A leghaladóbb fogás a legegyszerűbb: minden ülés után egy józan kérdés — *„mit tudtam meg magamról?”*[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Once the base session flows — continuous hand, clean reading, material flowing into the journals — three advanced forms open.\n\n**1. The question-led session.** A single honest, open question at the top of the page — exploratory, not yes-or-no ('what asks for attention in my work now?'). The question focuses the material. The iron frame is unchanged: the answer is **a viewpoint for weighing**, not a verdict and not a command — the decision is yours, and you give your reasons in the journal.\n\n**2. The dialogue form.** Write the question with a waking mind — then release your hand for the answer. Alternating: waking question, released answer. The text arranges itself into a conversation and becomes easier to read.\n\n**3. The inner guide.** Built on the **inner-guide lesson of the astral.explorations module**: there you met the figure, here you address it in writing. We work with a double lens: the guide can be read as a personified part of the psyche — the logic of active imagination — OR as a real helper, as the tradition holds. * The practice is the same in both readings, and you need not choose.\n\n**Protection for the advanced.** The **mentalism shield** serves here too: whoever knows the moves of suggestion and effect-making cannot be dazzled even by their own page. The most advanced move is the simplest: after every session, one sober question — *'what did I learn about myself?'*[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      }
+    },
+    {
+      "id": "automatic-writing-aspektusok",
+      "kind": "aspektusPack",
+      "nevek": {
+        "hu": "Az író jellemvonásai",
+        "en": "The Writer's character traits"
+      },
+      "aspektusPack": [
+        {
+          "key": "aw-asp-cenzor",
+          "elem": "levego",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "A belső cenzor uralma",
+            "en": "Rule of the inner censor"
+          }
+        },
+        {
+          "key": "aw-asp-eroltetes",
+          "elem": "tuz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Erőltetés és türelmetlenség",
+            "en": "Forcing and impatience"
+          }
+        },
+        {
+          "key": "aw-asp-szoszerint",
+          "elem": "viz",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Szó szerinti hit minden sorban",
+            "en": "Literal belief in every line"
+          }
+        },
+        {
+          "key": "aw-asp-parancs",
+          "elem": "fold",
+          "tukor": "fekete",
+          "nevek": {
+            "hu": "Parancsként követett szöveg",
+            "en": "Text obeyed as command"
+          }
+        },
+        {
+          "key": "aw-asp-csend",
+          "elem": "fold",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Elcsendesedett, földelt alap",
+            "en": "Quiet, grounded base"
+          }
+        },
+        {
+          "key": "aw-asp-aramlas",
+          "elem": "viz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Ítélkezés nélküli áramlás",
+            "en": "Judgement-free flow"
+          }
+        },
+        {
+          "key": "aw-asp-batorsag",
+          "elem": "tuz",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Bátorság a felszínre hozáshoz",
+            "en": "Courage to surface what lies below"
+          }
+        },
+        {
+          "key": "aw-asp-merlegeles",
+          "elem": "levego",
+          "tukor": "feher",
+          "nevek": {
+            "hu": "Távolságtartó mérlegelés",
+            "en": "Discernment at a distance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "automatic-writing-journal",
+      "kind": "journalTemplate",
+      "nevek": {
+        "hu": "Írás-ülés napló",
+        "en": "Writing Session Log"
+      },
+      "journalTemplate": {
+        "aspektusKeys": [
+          "aw-asp-merlegeles"
+        ],
+        "prompts": {
+          "hu": "ÜLÉS — Kérdés vagy nyitott kezdés: ___\n\nÁRAMLÁS — Elakadások és az áthidalás; mennyire engedett el a cenzor (1–10): ___\n\nANYAG — A legérdemibb mondat vagy kép, ami felszínre jött: ___\n\nCÉLNAPLÓ — Hová vezetem be (álom / intuíció / manifesztáció) és miért: ___\n\nMÉRLEG — Mit tartok meg mérlegelendő gondolatként, és mit teszek félre: ___",
+          "en": "SESSION — Question or open start: ___\n\nFLOW — Stalls and the bridge sentence; how far the censor let go (1–10): ___\n\nMATERIAL — The most substantial sentence or image that surfaced: ___\n\nTARGET JOURNAL — Where I enter it (dream / intuition / manifestation) and why: ___\n\nWEIGHING — What I keep as thought to consider, and what I set aside: ___"
+        }
+      }
+    },
+    {
+      "id": "automatic-writing-checklist",
+      "kind": "checklist",
+      "nevek": {
+        "hu": "A gyakorlat elsajátítása",
+        "en": "Mastery of the Practice"
+      },
+      "checklist": {
+        "items": [
+          {
+            "key": "c1",
+            "nevek": {
+              "hu": "Elcsendesedés begyakorolva — legalább három alkalommal az ülés előtt",
+              "en": "Quieting practised — at least three times before a session"
+            }
+          },
+          {
+            "key": "c2",
+            "nevek": {
+              "hu": "Első nyitott ülés végigírva 10–15 percben, megállás és javítás nélkül",
+              "en": "First open session written through in 10–15 minutes, without stopping or correcting"
+            }
+          },
+          {
+            "key": "c3",
+            "nevek": {
+              "hu": "Az áthidaló mondat („nem tudom, mit írjak”) használva elakadásnál",
+              "en": "The bridge sentence ('I don't know what to write') used at a stall"
+            }
+          },
+          {
+            "key": "c4",
+            "nevek": {
+              "hu": "Az anyag távolságból elolvasva, az érdemi részek aláhúzva",
+              "en": "The material read from a distance, the substantial parts underlined"
+            }
+          },
+          {
+            "key": "c5",
+            "nevek": {
+              "hu": "Az eredmény bevezetve a megfelelő app-naplóba (álom / intuíció / manifesztáció)",
+              "en": "The result entered into the right app journal (dream / intuition / manifestation)"
+            }
+          },
+          {
+            "key": "c6",
+            "nevek": {
+              "hu": "Kérdés-vezetett ülés kipróbálva, a döntés a naplóban indokolva",
+              "en": "A question-led session tried, the decision reasoned in the journal"
+            }
+          },
+          {
+            "key": "c7",
+            "nevek": {
+              "hu": "A vaskeret fejből: az írás anyaga mérlegelendő gondolat, nem parancs",
+              "en": "The iron frame by heart: the material of the writing is thought to be weighed, not a command"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "automatic-writing-quiz",
+      "kind": "quiz",
+      "nevek": {
+        "hu": "Önellenőrzés",
+        "en": "Self-Check"
+      },
+      "quiz": {
+        "passThreshold": 4,
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": {
+              "hu": "Mit tegyél, ha írás közben elakadsz?",
+              "en": "What should you do if you get stuck while writing?"
+            },
+            "options": {
+              "hu": [
+                "Állj meg, és gondolkodj, amíg eszedbe jut valami",
+                "Olvasd vissza az eddigieket ihletért",
+                "Írd le szó szerint: „nem tudom, mit írjak”, amíg magától újra megindul",
+                "Fejezd be az ülést — az elakadás a vége jele"
+              ],
+              "en": [
+                "Stop and think until something comes to mind",
+                "Re-read what you have written for inspiration",
+                "Write literally: 'I don't know what to write' until it restarts by itself",
+                "End the session — a stall is the sign of the end"
+              ]
+            },
+            "correctIndex": 2
+          },
+          {
+            "id": "q2",
+            "prompt": {
+              "hu": "Hogyan kezeld az elkészült szöveget?",
+              "en": "How should you treat the finished text?"
+            },
+            "options": {
+              "hu": [
+                "Kövesd az utasításait, hiszen a mélyebb éned írta",
+                "Távolságból, anyagként olvasd: mérlegelendő gondolat, nem parancs",
+                "Azonnal töröld, ha zagyvának tűnik",
+                "Tedd el olvasatlanul — a lényeg maga az írás"
+              ],
+              "en": [
+                "Follow its instructions, since your deeper self wrote it",
+                "Read it from a distance, as material: thought to be weighed, not a command",
+                "Delete it at once if it seems like gibberish",
+                "Put it away unread — the point is the writing itself"
+              ]
+            },
+            "correctIndex": 1
+          },
+          {
+            "id": "q3",
+            "prompt": {
+              "hu": "Mit mond a józan lencse az írás forrásáról?",
+              "en": "What does the sober lens say about the source of the writing?"
+            },
+            "options": {
+              "hu": [
+                "Bizonyított, hogy szellemek diktálják",
+                "A véletlen műve, ezért értéktelen",
+                "Csak a fáradt kéz izommunkája, tartalom nélkül",
+                "A tudatküszöb alatti anyag kerül felszínre — és ez önmagában érték"
+              ],
+              "en": [
+                "It is proven that spirits dictate it",
+                "It is the work of chance, therefore worthless",
+                "It is only the muscle-work of a tired hand, without content",
+                "Material from beneath the threshold of consciousness surfaces — and that is valuable in itself"
+              ]
+            },
+            "correctIndex": 3
+          },
+          {
+            "id": "q4",
+            "prompt": {
+              "hu": "Hová kerül az ülés érdemi anyaga?",
+              "en": "Where does the substance of a session go?"
+            },
+            "options": {
+              "hu": [
+                "Az app naplóiba: álom-, intuíció- vagy manifesztáció-naplóba",
+                "Sehová — az automatikus írás önálló sziget",
+                "Közösségi médiába, visszajelzésért",
+                "Egy lezárt borítékba, amit sosem olvasol vissza"
+              ],
+              "en": [
+                "Into the app's journals: dream, intuition or manifestation journal",
+                "Nowhere — automatic writing is an island of its own",
+                "To social media, for feedback",
+                "Into a sealed envelope you never read again"
+              ]
+            },
+            "correctIndex": 0
+          },
+          {
+            "id": "q5",
+            "prompt": {
+              "hu": "Mi a teendő, ha a szöveg tartósan külsőnek, parancsolónak érződik, és nyomaszt?",
+              "en": "What should you do if the text persistently feels external and commanding, and it oppresses you?"
+            },
+            "options": {
+              "hu": [
+                "Írj többet, hogy „kiírd magadból”",
+                "Engedelmeskedj, de csak a kis dolgokban",
+                "Tedd le a gyakorlatot, és fordulj szakemberhez",
+                "Válts tollat és papírt"
+              ],
+              "en": [
+                "Write more, to 'write it out of yourself'",
+                "Obey, but only in small things",
+                "Put the practice down and turn to a professional",
+                "Change pen and paper"
+              ]
+            },
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "automatic-writing-md-safety",
+      "kind": "markdown",
+      "nevek": {
+        "hu": "Biztonsági keret, házvonal és források",
+        "en": "Safety Frame, House Line & Sources"
+      },
+      "text": {
+        "hu": "Ez a lecke a modul kerítése. Rövid — és fejből kell tudni.\n\n**A vaskeret.** Az automatikus írás anyaga **mérlegelendő gondolat, nem parancs**. Soha, semmilyen körülmények között nem cselekszel pusztán azért, mert „a kéz azt írta”. Döntést eszköz nem hoz — sem toll, sem kártya, sem inga.\n\n**A házvonal.** Ha a szöveg **tartósan külsőnek, parancsolónak érződik, és nyomaszt vagy ijeszt** — tedd le a gyakorlatot, és fordulj szakemberhez. Ez nem kudarc és nem szégyen: ez a felelős gyakorló mozdulata. **Akut lelki instabilitásban** — krízisben, friss gyász mélyén, pszichés zavar aktív szakaszában — a gyakorlat kerülendő; előbb stabilitás, aztán mélymunka.\n\n**Tiltott terep.** Bűnügyek vagy eltűnt személyek „felkutatása” automatikus írással: **tilos terep**. Az ilyen kérdés valódi károkat okozhat — élő embereknek. Ha ilyesmi foglalkoztat, a hatóság az egyetlen helyes cím.\n\n**Jelek, amikre figyelj:** növekvő félelem az írás körül; kényszeres gyakorlás; a döntéseid kiszervezése a lapnak; olyan „utasítások”, amelyek elszigetelnének vagy ártanának. Bármelyik jelentkezik → szünet, józan ránézés, szükség esetén szakember.\n\n**Források.** F. W. H. Myers: *Human Personality and Its Survival of Bodily Death* (1903); William James: „Notes on Automatic Writing” (1889); W. Stainton Moses: *Spirit Teachings* (1883) — az utóbbi a hagyomány-oldal dokumentuma, kritikusan olvasandó.\n\n*Tanulási segédlet. Nem orvosi és nem pszichológiai tanács; lelki nehézség esetén fordulj szakemberhez. A gyakorlatokat nyugodt, biztonságos helyzetben végezd — vezetés vagy gépkezelés közben soha.*",
+        "en": "This lesson is the module's fence. It is short — and it must be known by heart.\n\n**The iron frame.** The material of automatic writing is **thought to be weighed, not a command**. Never, under any circumstances, do you act merely because 'the hand wrote it'. No tool makes decisions — not pen, not card, not pendulum.\n\n**The house line.** If the text **persistently feels external and commanding, and it oppresses or frightens you** — put the practice down and turn to a professional. This is no failure and no shame: it is the move of a responsible practitioner. In **acute psychological instability** — in crisis, in the depth of fresh grief, in an active phase of a psychological disorder — the practice is to be avoided; stability first, deep work after.\n\n**Forbidden ground.** 'Investigating' crimes or missing persons with automatic writing is **forbidden ground**. Such questions can cause real harm — to living people. If something like this concerns you, the authorities are the only right address.\n\n**Signs to watch:** growing fear around the writing; compulsive practice; outsourcing your decisions to the page; 'instructions' that would isolate you or cause harm. If any of these appear → pause, a sober look, and if needed a professional.\n\n**Sources.** F. W. H. Myers: *Human Personality and Its Survival of Bodily Death* (1903); William James: 'Notes on Automatic Writing' (1889); W. Stainton Moses: *Spirit Teachings* (1883) — the last is a document of the tradition's side, to be read critically.\n\n*A study aid. Not medical or psychological advice; if you experience distress, consult a professional. Do the practices in calm, safe settings — never while driving or operating machinery.*"
+      }
+    }
+  ]
+}

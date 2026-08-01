@@ -1,0 +1,444 @@
+{
+  "formatVersion": 1,
+  "id": "practice-pack-pendulum-dowsing",
+  "nevek": {
+    "hu": "Inga és varázsvessző — gyakorlatok",
+    "en": "Pendulum and Dowsing — practices"
+  },
+  "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+  "gyakorlatok": [
+    {
+      "id": "pd-inga-keszites",
+      "mester": "Inga és varázsvessző",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Az inga elkészítése és tartása",
+        "en": "Making and holding the pendulum"
+      },
+      "cel": {
+        "hu": "Egy egyszerű, jól kézre álló inga elkészítése és a nyugodt, érzékeny tartás begyakorlása — minden későbbi munka testi alapja.",
+        "en": "To make a simple, well-fitting pendulum and to train the calm, sensitive hold — the bodily foundation of all later work."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz vagy készíts ingát: bármilyen kis súly megteszi — gyűrű, anyacsavar, medál — 15–20 centis zsinóron; nem az anyag számít, hanem a kéz.",
+          "en": "Choose or make a pendulum: any small weight will do — a ring, a nut, a locket — on a cord of 15–20 centimetres; it is not the material that matters but the hand."
+        },
+        {
+          "hu": "Ülj asztalhoz, és fogd a zsinórt hüvelyk- és mutatóujjad közé, mintegy 10–15 centit hagyva a súlyig.",
+          "en": "Sit at a table and take the cord between thumb and index finger, leaving about 10–15 centimetres to the weight."
+        },
+        {
+          "hu": "A kezed legyen nyugodt, de ne merev; a csuklód szabad, a vállad leengedve.",
+          "en": "Keep your hand calm but not rigid; your wrist free, your shoulder dropped."
+        },
+        {
+          "hu": "Hagyd az ingát teljesen elcsendesedni, és figyeld néhány percig a nyugalmi pontját.",
+          "en": "Let the pendulum settle completely and observe its resting point for a few minutes."
+        },
+        {
+          "hu": "Kísérletezz a zsinórhosszal: keresd meg, melyiknél a legérzékenyebb és mégis nyugodt a rendszer.",
+          "en": "Experiment with the cord length: find where the system is most sensitive and yet calm."
+        }
+      ],
+      "keret": {
+        "hu": "Az inga nem szent tárgy, hanem erősítő: a kéz parányi mozgásait teszi láthatóvá. Drága kristály semmivel sem tud többet egy anyacsavarnál — a valódi hangszer a nyugodt kezed.",
+        "en": "The pendulum is not a sacred object but an amplifier: it makes the hand's minuscule movements visible. An expensive crystal knows nothing a nut does not — the true instrument is your calm hand."
+      },
+      "sorszam": 1
+    },
+    {
+      "id": "pd-kalibralas",
+      "mester": "Inga és varázsvessző",
+      "szint": "kezdo",
+      "sik": "test",
+      "cim": {
+        "hu": "Kalibrálás — a három jel",
+        "en": "Calibration — the three signals"
+      },
+      "cel": {
+        "hu": "A személyes IGEN / NEM / NEM TUDOM jelmintázat rögzítése — minden ülés kötelező nyitánya.",
+        "en": "To record the personal YES / NO / DON'T KNOW signal pattern — the mandatory opening of every session."
+      },
+      "modszer": [
+        {
+          "hu": "Vedd fel a begyakorolt tartást, és hagyd az ingát elcsendesedni a nyugalmi pontján.",
+          "en": "Take up the trained hold and let the pendulum settle at its resting point."
+        },
+        {
+          "hu": "Mondd ki magadban, nyugodtan: „Mutass IGEN-t” — és várd meg, milyen mozgás bontakozik ki; jegyezd fel.",
+          "en": "Say inwardly, calmly: 'Show me YES' — and wait for the motion that unfolds; write it down."
+        },
+        {
+          "hu": "Csendesítsd el újra az ingát, majd kérd ugyanígy a NEM-et, végül a NEM TUDOM-ot.",
+          "en": "Still the pendulum again, then ask the same way for NO, and finally for DON'T KNOW."
+        },
+        {
+          "hu": "Ismételd a kört, míg a három jel egyértelműen elkülönül egymástól.",
+          "en": "Repeat the round until the three signals are clearly distinct from one another."
+        },
+        {
+          "hu": "Minden ülés elején kalibrálj újra — a jelek napszakkal és hangulattal finoman változhatnak.",
+          "en": "Recalibrate at the start of every session — the signals may drift gently with time of day and mood."
+        }
+      ],
+      "keret": {
+        "hu": "A jelmintázat a saját ideomotoros „nyelvjárásod” — nem szellemek ábécéje. Ha az inga nem mozdul, lazíts, és képzeld el élénken a mozgást: Carpenter óta tudjuk, hogy pont az elképzelt mozgás indítja el. Az erőltetés az egyetlen, ami biztosan nem segít.",
+        "en": "The signal pattern is your own ideomotor 'dialect' — not an alphabet of spirits. If the pendulum does not move, relax and vividly imagine the motion: since Carpenter we know it is precisely the imagined motion that starts it. Forcing is the one thing guaranteed not to help."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "pd-chevreul-proba",
+      "mester": "Inga és varázsvessző",
+      "szint": "kezdo",
+      "sik": "szellem",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A Chevreul-próba — honnan jön a mozgás?",
+        "en": "The Chevreul test — where does the motion come from?"
+      },
+      "cel": {
+        "hu": "Saját kézzel megtapasztalni Chevreul döntő megfigyelését: a mozgás forrása nem a súlyban van, hanem benned — ez a modul becsület-horgonya.",
+        "en": "To experience with your own hand Chevreul's decisive observation: the source of the motion is not in the weight but in you — this is the module's anchor of honesty."
+      },
+      "modszer": [
+        {
+          "hu": "Kalibrálás után indíts el egy IGEN-jelet: gondolj erősen az igenre, és hagyd a mozgást kibontakozni.",
+          "en": "After calibration start a YES signal: think the yes strongly and let the motion unfold."
+        },
+        {
+          "hu": "Most támaszd alá a karod teljes hosszában — könyök és csukló is felfekszik —, és ismételd meg ugyanazt a kérést.",
+          "en": "Now support your arm along its whole length — elbow and wrist both resting — and repeat the same request."
+        },
+        {
+          "hu": "Figyeld meg pontosan, mi történik a lengéssel az alátámasztott helyzetben.",
+          "en": "Observe exactly what happens to the swing in the supported position."
+        },
+        {
+          "hu": "Következő körben csukd be a szemed egy teljes percre, majd nyisd ki, és nézd meg, mit csinál az inga.",
+          "en": "In the next round close your eyes for a full minute, then open them and see what the pendulum is doing."
+        },
+        {
+          "hu": "Jegyezd fel mindkét megfigyelést, és zárd egyetlen mondattal: mit mond ez a mozgás forrásáról?",
+          "en": "Record both observations and close with a single sentence: what does this say about the source of the motion?"
+        }
+      ],
+      "keret": {
+        "hu": "Chevreul 1854-ben írta le: alátámasztott karral vagy csukott szemmel az inga elhal. Ez nem kiábrándítás, hanem használati utasítás — aki tudja, hogy a jel belülről jön, az pontosan tudja, mire jó az eszköz: önmagad meghallgatására.",
+        "en": "Chevreul described it in 1854: with the arm supported or the eyes closed, the pendulum dies down. This is not disillusionment but an instruction manual — whoever knows the signal comes from within knows exactly what the tool is for: listening to yourself."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "pd-egy-kerdes-protokoll",
+      "mester": "Inga és varázsvessző",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "cim": {
+        "hu": "Az egy-kérdés protokoll",
+        "en": "The one-question protocol"
+      },
+      "cel": {
+        "hu": "A fegyelmezett kérdezés begyakorlása: egy tiszta, eldöntendő kérdés, kivárt jel, kommentár nélküli jegyzés — az ingamunka gerince.",
+        "en": "To train disciplined questioning: one clean decidable question, a waited-out signal, commentary-free recording — the spine of pendulum work."
+      },
+      "modszer": [
+        {
+          "hu": "Fogalmazz meg írásban egy egyértelmű, igen/nem formájú kérdést, mielőtt az ingára néznél.",
+          "en": "Formulate in writing one unambiguous yes/no question before you look at the pendulum."
+        },
+        {
+          "hu": "Kalibráld a három jelet.",
+          "en": "Calibrate the three signals."
+        },
+        {
+          "hu": "Tedd fel a kérdést pontosan úgy, ahogy leírtad — egy kérdés egyszerre.",
+          "en": "Ask the question exactly as written — one question at a time."
+        },
+        {
+          "hu": "Várd ki türelemmel a jelet, és jegyezd fel a választ kommentár nélkül.",
+          "en": "Wait out the signal patiently and record the answer without commentary."
+        },
+        {
+          "hu": "Az ülés végén, letett ingával mérlegelj: mit kezdesz tudatosan a válasszal?",
+          "en": "At the end of the session, pendulum laid down, weigh: what will you consciously do with the answer?"
+        }
+      ],
+      "keret": {
+        "hu": "Az előre rögzített kérdés véd az utólagos átértelmezéstől — ugyanaz a fegyelem, mint a távolbalátás-modul jegyzőkönyvében. A válasz értéke nem az, hogy „igaz-e”, hanem hogy megmutatja, merre hajlik a nem tudatos részed.",
+        "en": "The pre-registered question protects against reinterpretation after the fact — the same discipline as the record-keeping of the remote viewing module. The answer's value is not whether it is 'true' but that it shows which way your non-conscious part leans."
+      },
+      "etika": {
+        "hu": "Orvosi, pénzügyi, párkapcsolati vagy más életdöntést soha ne tegyél fel inga-kérdésként. A válasz mindig nyersanyag a mérlegeléshez, sosem parancs.",
+        "en": "Never pose a medical, financial, relationship or other life decision as a pendulum question. The answer is always raw material for weighing, never a command."
+      },
+      "sorszam": 4
+    },
+    {
+      "id": "pd-belso-parbeszed",
+      "mester": "Inga és varázsvessző",
+      "szint": "halado",
+      "sik": "lelek",
+      "elem": "Viz",
+      "cim": {
+        "hu": "Belső párbeszéd — a rejtett hajlam kihangosítása",
+        "en": "Inner dialogue — voicing the hidden inclination"
+      },
+      "cel": {
+        "hu": "Az inga önismereti használata: kis tétű, rólad szóló kérdésekkel felszínre hozni, amit a tudatos éned esetleg elhallgat.",
+        "en": "Using the pendulum for self-knowledge: with low-stakes questions about yourself, surfacing what your conscious self may be keeping quiet."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz egy kis tétű, valóban nyitott belső kérdést — például: „Valójában el akarok-e menni szombaton?”",
+          "en": "Choose a low-stakes, genuinely open inner question — for instance: 'Do I actually want to go on Saturday?'"
+        },
+        {
+          "hu": "Írd le a kérdést, és mellé azt is, mit gondolsz tudatosan a válaszról.",
+          "en": "Write down the question, and next to it what you consciously think the answer is."
+        },
+        {
+          "hu": "Kalibrálás után tedd fel a kérdést, és várd ki a jelet.",
+          "en": "After calibration ask the question and wait out the signal."
+        },
+        {
+          "hu": "Vesd össze a kettőt: egyezik-e az inga válasza a tudatos tippeddel? Az eltérés a legérdekesebb — ott lakik az elhallgatott hajlam.",
+          "en": "Compare the two: does the pendulum's answer match your conscious guess? The divergence is the most interesting part — the silenced inclination lives there."
+        },
+        {
+          "hu": "Naplózd az ülést, és néhány nap múlva olvasd vissza: mit igazolt közben az élet?",
+          "en": "Log the session, and read it back a few days later: what has life confirmed in the meantime?"
+        }
+      ],
+      "keret": {
+        "hu": "Rokona a bardoni lélektükör-munkának: a tükör listáz, az inga kérdez — mindkettő ugyanarra a nem tudatos rétegre világít. Amit itt kapsz, az nem jóslat, hanem adat önmagadról.",
+        "en": "A relative of Bardon's soul-mirror work: the mirror lists, the pendulum asks — both shine light on the same non-conscious layer. What you receive here is not prophecy but data about yourself."
+      },
+      "etika": {
+        "hu": "Maradj a kis tétnél. Ha a kérdés fájdalmas sebet érint, vagy krízisben vagy, tedd le az ingát, és fordulj emberhez — baráthoz vagy szakemberhez.",
+        "en": "Stay with low stakes. If the question touches a painful wound, or you are in crisis, put the pendulum down and turn to a human being — a friend or a professional."
+      },
+      "sorszam": 5
+    },
+    {
+      "id": "pd-vak-teszt-bogrek",
+      "mester": "Inga és varázsvessző",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Vak-teszt — három bögre",
+        "en": "Blind test — three mugs"
+      },
+      "cel": {
+        "hu": "Saját szemmel megmérni, mit tud az inga ismeretlen külső tényről — a találati arány vezetésével, a véletlen-alapvonalhoz mérve.",
+        "en": "To measure with your own eyes what the pendulum knows about an unknown external fact — keeping a hit tally measured against the chance baseline."
+      },
+      "modszer": [
+        {
+          "hu": "Kérj meg egy segítőt, hogy rejtsen egy kis tárgyat az egyik bögre alá — vagy keverd őket magad csukott szemmel, míg elveszted a fonalat.",
+          "en": "Ask a helper to hide a small object under one of three mugs — or shuffle them yourself with closed eyes until you lose the thread."
+        },
+        {
+          "hu": "Kalibrálás után ingázd végig a bögréket: melyik alatt van a tárgy?",
+          "en": "After calibration dowse over the mugs: which one is the object under?"
+        },
+        {
+          "hu": "Jegyezd fel a tippet, MIELŐTT felemelnéd a bögrét — csak utána ellenőrizz.",
+          "en": "Record your guess BEFORE lifting the mug — verify only afterwards."
+        },
+        {
+          "hu": "Csinálj végig egy 9–12 próbás sorozatot, minden próbát jegyezve: sorszám, tipp, eredmény.",
+          "en": "Complete a series of 9–12 trials, recording each: number, guess, result."
+        },
+        {
+          "hu": "Összesíts: hány találat a próbákból? Vesd össze az 1/3-os véletlen-alapvonallal, és írd le egyetlen mondatban a tanulságot.",
+          "en": "Tally up: how many hits out of the trials? Compare with the 1/3 chance baseline and write the lesson in a single sentence."
+        }
+      ],
+      "keret": {
+        "hu": "Kis mintán a nagy kilengés normális — a tanulság sok ülés összesítéséből rajzolódik ki. A nagy kettős-vak tesztek (müncheni pajta-kísérletek, kasseli GWUP-teszt) véletlen-szintet hoztak: ahol a válasz nem lehet benned, ott az inga elnémul. Ez nem kudarc, hanem az eszköz határvonalának pontos térképe.",
+        "en": "On a small sample large swings are normal — the lesson emerges from tallying many sessions. The big double-blind tests (Munich barn experiments, Kassel GWUP test) came out at chance level: where the answer cannot be within you, the pendulum falls silent. This is not failure but a precise map of the tool's boundary."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "pd-vak-teszt-kartyak",
+      "mester": "Inga és varázsvessző",
+      "szint": "halado",
+      "sik": "szellem",
+      "cim": {
+        "hu": "Vak-teszt — piros és fekete",
+        "en": "Blind test — red and black"
+      },
+      "cel": {
+        "hu": "Hosszú távú találati statisztika építése egyszerű kétválasztásos céllal — a mérés maga a gyakorlat, nem az ellensége.",
+        "en": "To build long-term hit statistics with a simple two-choice target — measurement is the practice itself, not its enemy."
+      },
+      "modszer": [
+        {
+          "hu": "Keverj meg alaposan egy csomag francia kártyát, és tedd magad elé lefordítva.",
+          "en": "Shuffle a deck of playing cards thoroughly and place it face down before you."
+        },
+        {
+          "hu": "Kalibrálás után kérdezd a legfelső lapra: „Piros?” — és jegyezd az inga jelét, MIELŐTT fordítanál.",
+          "en": "After calibration ask about the top card: 'Red?' — and record the pendulum's signal BEFORE turning it."
+        },
+        {
+          "hu": "Fordítsd fel a lapot, jegyezd az eredményt, és menj tovább — húsz-harminc lapos sorozatokban dolgozz.",
+          "en": "Turn the card over, record the result, and move on — work in series of twenty to thirty cards."
+        },
+        {
+          "hu": "Vezesd az összesítést ülésről ülésre: próbák, találatok, arány.",
+          "en": "Keep the running tally session by session: trials, hits, rate."
+        },
+        {
+          "hu": "Havonta nézd meg a teljes arányt az 1/2-es alapvonalhoz mérve, és jegyezd le, mit látsz.",
+          "en": "Monthly, review the overall rate against the 1/2 baseline and note what you see."
+        }
+      ],
+      "keret": {
+        "hu": "Tíz lapból hét találat még semmi — a véletlen bőkezűen osztogat rövid szériákat. A becsület itt számtan: sok próba, előre jegyzett tipp, alapvonalhoz mért arány. Aki ezt a fegyelmet megtanulja, azt a mentalizmus-modul hidegolvasás-pajzsa már belülről védi.",
+        "en": "Seven hits out of ten cards means nothing yet — chance hands out short streaks generously. Honesty here is arithmetic: many trials, pre-recorded guesses, a rate measured against the baseline. Whoever learns this discipline is protected from within by the mentalism module's cold-reading shield."
+      },
+      "sorszam": 7
+    },
+    {
+      "id": "pd-vesszo",
+      "mester": "Inga és varázsvessző",
+      "szint": "halado",
+      "sik": "test",
+      "elem": "Viz",
+      "cim": {
+        "hu": "A varázsvessző — Y-ág és L-pálcák",
+        "en": "The dowsing rod — Y-branch and L-rods"
+      },
+      "cel": {
+        "hu": "A hagyomány vessző-gyakorlatának megtapasztalása ellenőrizhető célponttal — és közben a feszített tartás ideomotoros érzékenységének megismerése.",
+        "en": "To experience the tradition's rod practice with a verifiable target — and to come to know the ideomotor sensitivity of the tensioned hold along the way."
+      },
+      "modszer": [
+        {
+          "hu": "Vágj villás ágat — a hagyomány a mogyorót kedveli —, vagy hajlíts két L-pálcát drótból.",
+          "en": "Cut a forked branch — the tradition favours hazel — or bend two L-rods from wire."
+        },
+        {
+          "hu": "Az Y-vessző két szárát tenyérrel felfelé, enyhe feszítés alatt fogd; az L-pálcákat lazán, ökölbe zárt kézben tartsd.",
+          "en": "Hold the Y-rod's two arms palms up, under slight tension; hold the L-rods loosely in closed fists."
+        },
+        {
+          "hu": "Sétálj lassan nyílt terepen egy ellenőrizhető célpont — például a kerti vízvezeték — környékén.",
+          "en": "Walk slowly in open ground near a verifiable target — the garden water pipe, for instance."
+        },
+        {
+          "hu": "Jegyezd fel, hol csapott le a vessző vagy hol kereszteződtek a pálcák.",
+          "en": "Record where the rod struck down or where the rods crossed."
+        },
+        {
+          "hu": "Vesd össze a jelöléseidet a tényleges nyomvonallal, és vezess találati összesítést a véletlenhez mérve.",
+          "en": "Compare your marks with the actual route and keep a hit tally measured against chance."
+        }
+      ],
+      "keret": {
+        "hu": "A feszített tartás miatt parányi izommozdulat is nagy kilendülést ad — a vessző még érzékenyebb ideomotoros erősítő, mint az inga. A hagyomány szerint a vessző a víz vagy az érc fölött magától lecsap * — Agricola 1556-ban már leírta a szokást, és már ő is kételkedett benne. A mérce nálad van: a jegyzőkönyved számai.\n\n[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "Because of the tensioned hold, a minuscule muscle movement produces a large deflection — the rod is an even more sensitive ideomotor amplifier than the pendulum. According to the tradition, the rod strikes down of its own accord above water or ore * — Agricola already described the custom in 1556, and was already skeptical of it. The measure stays with you: the numbers in your record.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "pd-terkepes-ingazas",
+      "mester": "Inga és varázsvessző",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Térképes ingázás — hagyomány-játék ellenőrzéssel",
+        "en": "Map dowsing — a tradition game with verification"
+      },
+      "cel": {
+        "hu": "A hagyomány távolsági gyakorlatának becsületes kipróbálása: ellenőrizhető célpont, előre rögzített tipp, tényleges ellenőrzés és jegyzőkönyv.",
+        "en": "An honest trial of the tradition's distance practice: a verifiable target, a pre-registered guess, actual verification and a written record."
+      },
+      "modszer": [
+        {
+          "hu": "Válassz ellenőrizhető célpontot — például: a város melyik negyedében van egy bizonyos típusú bolt, amit még nem ismersz.",
+          "en": "Choose a verifiable target — for instance: in which quarter of the city is a certain type of shop you do not yet know."
+        },
+        {
+          "hu": "Oszd a térképet mezőkre, és kalibrálás után ingázd végig őket, mezőnként egy eldöntendő kérdéssel.",
+          "en": "Divide the map into fields, and after calibration dowse through them, one decidable question per field."
+        },
+        {
+          "hu": "Rögzítsd írásban a tippedet, MIELŐTT bármit ellenőriznél.",
+          "en": "Fix your guess in writing BEFORE verifying anything."
+        },
+        {
+          "hu": "Ellenőrizd a valóságban vagy megbízható forrásból, és jegyezd az eredményt a találati összesítésbe.",
+          "en": "Verify in reality or from a reliable source, and record the result in your hit tally."
+        },
+        {
+          "hu": "Több forduló után mérd az arányt a mezők számából adódó véletlen-alapvonalhoz, és írd le a tanulságot.",
+          "en": "After several rounds measure the rate against the chance baseline given by the number of fields, and write down the lesson."
+        }
+      ],
+      "keret": {
+        "hu": "A hagyomány szerint a térképes ingázásnál a távolság nem számít, és a keresett hely a térképen is megtalálható. * Amit ilyenkor bizonyíthatóan edzel, az a térkép-olvasó intuíciód és az asszociációs emlékezeted — az is érték, ha nevén nevezed. A jegyzőkönyv-fegyelem itt is a távolbalátás-modul rokona.\n\n[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "According to the tradition, distance does not matter in map dowsing, and the sought place can be found on the map itself. * What you demonstrably train here is your map-reading intuition and associative memory — that too is of value, if you call it by its name. The record-keeping discipline is again a relative of the remote viewing module.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+      },
+      "etika": {
+        "hu": "Házvonal, nem alku tárgya: eltűnt személyt, bűnügyet, tragédiát SOHA ne keress térképen se ingával, se másképp. Egészségi vagy pénzügyi célpont szintén tilos — csak semleges, játékos, ellenőrizhető célokkal dolgozz.",
+        "en": "House line, not negotiable: NEVER search a map for a missing person, a crime or a tragedy — with pendulum or otherwise. Health or financial targets are likewise forbidden — work only with neutral, playful, verifiable goals."
+      },
+      "sorszam": 9
+    },
+    {
+      "id": "pd-merleg-zaras",
+      "mester": "Inga és varázsvessző",
+      "szint": "mester",
+      "sik": "lelek",
+      "elem": "Levego",
+      "cim": {
+        "hu": "A mérleg-zárás — a döntés visszavétele",
+        "en": "Closing with the scales — taking the decision back"
+      },
+      "cel": {
+        "hu": "Minden inga-ülés lezárása a döntés tudatos visszavételével: a válasz nyersanyaggá válik, a felelősség nálad marad.",
+        "en": "To close every pendulum session by consciously taking the decision back: the answer becomes raw material, the responsibility stays with you."
+      },
+      "modszer": [
+        {
+          "hu": "Az ülés végén tedd le az ingát, és vedd elő a naplót.",
+          "en": "At the end of the session put the pendulum down and take out the journal."
+        },
+        {
+          "hu": "Írd le a kapott választ egyetlen tényszerű mondatban — se lelkesedés, se legyintés.",
+          "en": "Write the received answer in a single factual sentence — no enthusiasm, no dismissal."
+        },
+        {
+          "hu": "Írj mellé két oszlopot: mi szól mellette, mi szól ellene — most már ébren, érvekkel.",
+          "en": "Write two columns beside it: what speaks for it, what speaks against it — now awake, with arguments."
+        },
+        {
+          "hu": "Hozd meg a döntést, vagy halaszd el tudatosan — és jegyezd fel, mi döntött.",
+          "en": "Make the decision, or postpone it consciously — and note what tipped the scales."
+        },
+        {
+          "hu": "Egy hét múlva olvasd vissza: mit ért a válasz utólag, és mit tett hozzá a mérlegelés?",
+          "en": "A week later read it back: what was the answer worth in hindsight, and what did the weighing add?"
+        }
+      ],
+      "keret": {
+        "hu": "Ez a gyakorlat maga a kerítés, működés közben: az inga jelezhet, de dönteni csak az éber, felelős éned dönthet. Kis tétnél az inga beszédes tükör — nagy tétnél le sem vesszük a szögről.",
+        "en": "This practice is the fence itself, in operation: the pendulum may signal, but only your awake, responsible self may decide. At low stakes the pendulum is a telling mirror — at high stakes we do not even take it off the hook."
+      },
+      "etika": {
+        "hu": "Orvosi, pénzügyi és életdöntés soha nem inga-kérdés — ilyenkor a mérleg-oszlopokat szakemberrel együtt töltsd ki. Akut krízisben az inga marad a fiókban: embert hívj.",
+        "en": "Medical, financial and life decisions are never pendulum questions — in such cases fill in the scale columns together with a professional. In acute crisis the pendulum stays in the drawer: call a human being."
+      },
+      "sorszam": 10
+    }
+  ]
+}
