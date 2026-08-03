@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Ptah — A szív és a nyelv teremtése",
-    "en": "Ptah — Creation by Heart and Tongue"
+    "en": "Ptah — Creation by Heart and Tongue",
+    "ro": "Ptah — Creația prin Inimă și Limbă"
   },
   "description": {
     "hu": "Két ősi kincs egy modulban: a Memphiszi Teológia (Shabaka-kő) tanítása a teremtésről, amely a szív gondolata és a nyelv szava által történik — a világ legrégebbi Logosz-tanítása —, valamint Ptahhotep maximái, a bölcsesség, amelyet a nagy vezír a fiának hagyott. Teremtés és életbölcsesség: a szó ereje két irányból.",
-    "en": "Two ancient treasures in one module: the Memphite Theology's (Shabaka Stone) teaching of creation happening by the heart's thought and the tongue's word — the world's oldest Logos teaching — and the Maxims of Ptahhotep, the wisdom the great vizier left to his son. Creation and life-wisdom: the power of the word from two directions."
+    "en": "Two ancient treasures in one module: the Memphite Theology's (Shabaka Stone) teaching of creation happening by the heart's thought and the tongue's word — the world's oldest Logos teaching — and the Maxims of Ptahhotep, the wisdom the great vizier left to his son. Creation and life-wisdom: the power of the word from two directions.",
+    "ro": "Două comori antice într-un singur modul: învățătura Teologiei memfite (Piatra Shabaka) despre creația care se petrece prin gândul inimii și cuvântul limbii — cea mai veche învățătură a Logosului din lume — și Maximele lui Ptahhotep, înțelepciunea pe care marele vizir a lăsat-o fiului său. Creație și înțelepciune de viață: puterea cuvântului din două direcții."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ptah.creation/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a mesterek istene",
-        "en": "Introduction — the God of Masters"
+        "en": "Introduction — the God of Masters",
+        "ro": "Introducere — Zeul Maeștrilor"
       },
       "text": {
         "hu": "**Ptah** Memphisz nagy istene: a kézművesek, építők és művészek védelmezője — és a legkülönösebb teremtő az ókori világban. Míg más istenek kézzel vagy nemzéssel teremtenek, Ptah **szívvel és nyelvvel**: a szívében (az egyiptomi gondolkodásban a gondolat székhelye) megfoganja a világot, és a nyelvével — a kimondott szóval — létre hívja.\n\nEzt a tanítást a **Memphiszi Teológia** őrzi, amely a **Shabaka-kövön** maradt ránk: a szöveg maga jóval régebbi a kőnél — az egyik legrégebbi teológiai irat, amelyet az emberiség ismer. A gondolat, hogy **gondolat + kimondott szó = teremtés**, itt jelenik meg először írásban — évezredekkel a görög Logosz és a hermetikus Mentalizmus előtt. Ptah a legmélyebb gyökér a Hermész-modulod alatt.\n\n**És van egy második kincs.** Ptah nevét viseli **Ptahhotep** is („akivel Ptah elégedett”) — az Óbirodalom bölcs vezírje (Kr. e. 2400 körül), aki öregkorában **a fiának** írta meg tanításait. A **Ptahhotep maximái** a világ egyik legrégebbi fennmaradt bölcsességkönyve: nem varázslat, hanem annak művészete, **hogyan élj a szavaddal és a szíveddel emberhez méltón**.\n\nA modul két fele így egy egész: **hogyan teremts a szóval — és hogyan élj vele bölcsen.**\n\n**Őszinte keret:** Ptahnak nincs modern csatornázott vonala — ez ősi, közkincs hagyomány kontemplatív adaptációja. A mélyebb tanulmányhoz a záró lecke ad forrásokat.",
-        "en": "**Ptah** is the great god of Memphis: protector of craftsmen, builders and artists — and the strangest creator of the ancient world. While other gods create by hand or begetting, Ptah creates **by heart and tongue**: in his heart (the seat of thought in Egyptian thinking) he conceives the world, and with his tongue — the spoken word — he calls it forth.\n\nThis teaching is kept by the **Memphite Theology**, preserved on the **Shabaka Stone**: the text itself is far older than the stone — one of the oldest theological writings known to humanity. The idea that **thought + spoken word = creation** appears here in writing for the first time — millennia before the Greek Logos and the hermetic Mentalism. Ptah is the deepest root beneath your Hermes module.\n\n**And there is a second treasure.** Ptah's name is borne by **Ptahhotep** too ('the one with whom Ptah is content') — the wise vizier of the Old Kingdom (around 2400 BCE), who in his old age wrote his teachings **for his son**. The **Maxims of Ptahhotep** are among the world's oldest surviving books of wisdom: not magic, but the art of **living with your word and your heart in a way worthy of a human being**.\n\nThus the module's two halves make one whole: **how to create with the word — and how to live with it wisely.**\n\n**Honest frame:** Ptah has no modern channeled line — this is a contemplative adaptation of an ancient, public-domain tradition. The closing lesson gives sources for deeper study."
+        "en": "**Ptah** is the great god of Memphis: protector of craftsmen, builders and artists — and the strangest creator of the ancient world. While other gods create by hand or begetting, Ptah creates **by heart and tongue**: in his heart (the seat of thought in Egyptian thinking) he conceives the world, and with his tongue — the spoken word — he calls it forth.\n\nThis teaching is kept by the **Memphite Theology**, preserved on the **Shabaka Stone**: the text itself is far older than the stone — one of the oldest theological writings known to humanity. The idea that **thought + spoken word = creation** appears here in writing for the first time — millennia before the Greek Logos and the hermetic Mentalism. Ptah is the deepest root beneath your Hermes module.\n\n**And there is a second treasure.** Ptah's name is borne by **Ptahhotep** too ('the one with whom Ptah is content') — the wise vizier of the Old Kingdom (around 2400 BCE), who in his old age wrote his teachings **for his son**. The **Maxims of Ptahhotep** are among the world's oldest surviving books of wisdom: not magic, but the art of **living with your word and your heart in a way worthy of a human being**.\n\nThus the module's two halves make one whole: **how to create with the word — and how to live with it wisely.**\n\n**Honest frame:** Ptah has no modern channeled line — this is a contemplative adaptation of an ancient, public-domain tradition. The closing lesson gives sources for deeper study.",
+        "ro": "**Ptah** este marele zeu al Memphisului: protector al meșteșugarilor, constructorilor și artiștilor — și cel mai straniu creator al lumii antice. În timp ce alți zei creează cu mâna sau prin naștere, Ptah creează **prin inimă și limbă**: în inima sa (sediul gândirii în gândirea egipteană) concepe lumea, iar cu limba — cuvântul rostit — o cheamă la ființă.\n\nAceastă învățătură este păstrată de **Teologia memfită**, conservată pe **Piatra Shabaka**: textul însuși este mult mai vechi decât piatra — una dintre cele mai vechi scrieri teologice cunoscute omenirii. Ideea că **gând + cuvânt rostit = creație** apare aici în scris pentru prima oară — cu milenii înaintea Logosului grecesc și a Mentalismului hermetic. Ptah este rădăcina cea mai adâncă de sub modulul tău Hermes.\n\n**Și mai este o a doua comoară.** Numele lui Ptah este purtat și de **Ptahhotep** ('cel cu care Ptah este mulțumit') — înțeleptul vizir al Vechiului Regat (în jurul anului 2400 î.Hr.), care la bătrânețe și-a scris învățăturile **pentru fiul său**. **Maximele lui Ptahhotep** sunt printre cele mai vechi cărți de înțelepciune care au supraviețuit în lume: nu magie, ci arta de a **trăi cu cuvântul tău și cu inima ta într-un fel demn de o ființă omenească**.\n\nAstfel cele două jumătăți ale modulului alcătuiesc un întreg: **cum să creezi cu cuvântul — și cum să trăiești cu el cu înțelepciune.**\n\n**Cadru onest:** Ptah nu are o linie modernă canalizată — aceasta este o adaptare contemplativă a unei tradiții antice din domeniul public. Lecția de încheiere oferă surse pentru un studiu mai adânc."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A Memphiszi Teológia — az első Logosz",
-        "en": "The Memphite Theology — the First Logos"
+        "en": "The Memphite Theology — the First Logos",
+        "ro": "Teologia memfită — Primul Logos"
       },
       "text": {
         "hu": "A Shabaka-kő szövege szerint minden isten, minden élőlény és minden dolog úgy jött létre, hogy **Ptah szíve elgondolta, és nyelve kimondta**. A teremtés nem küzdelem és nem véletlen: **fogantatás és kihirdetés**.\n\n**A szív.** Az egyiptomi számára a szív (ib) nem érzelgősség: a **gondolat, a szándék és a lelkiismeret** székhelye — ugyanaz a szív, amelyet a Duat mérlegén Maat tollával mérnek. Amit a szív elgondol, az már forma a láthatatlanban — a gondolatod ott, a láthatatlanban, máris megszülte a dolog testét. *\n\n**A nyelv.** A kimondott szó nem leírja a valóságot — **megparancsolja**: amit hangosan kimondasz, azt a nyelved áthívja a semmiből a létezésbe. * Ezért nem mindegy, mit mondasz ki: minden szavad kihirdetés.\n\n**A tanítás három következménye a gyakorlódnak:**\n\n— **A gondolataid teremtő aktusok.** Amit a szívedben forgatsz — aggodalmat vagy szándékot —, azt kihordod a világba: a benső kép kihat a sorsod szövetére. * A szív-higiénia nem luxus: műhelytisztaság.\n\n— **A szavaid parancsok.** Amit magadról és a világról kimondasz („sosem sikerül”, „mindig ez van velem”), azt kihirdeted. A nyelv fegyelme teremtő fegyelem.\n\n— **A kettő összhangja a kulcs.** Ha a szív mást gondol, mint amit a nyelv mond, a teremtés meghasad, és a kimondott szó ereje szertefoszlik. * Az egyiptomi mester ereje az **összhang**: amit a szív fogan, azt mondja ki a nyelv — se többet, se mást.\n\nIsmerős? A hermetikus Mentalizmus, Bashar állapot-választása, Ryokah szándék-programozása és a Lila Láng dekrétuma — mind ennek az ősi elvnek a gyermekei. Itt állsz a forrásnál.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "According to the Shabaka Stone's text, every god, every living being and every thing came to be because **Ptah's heart thought it and his tongue spoke it**. Creation is neither struggle nor accident: it is **conception and proclamation**.\n\n**The heart.** For the Egyptian the heart (ib) is no sentimentality: it is the seat of **thought, intention and conscience** — the same heart weighed against Maat's feather on the scale of the Duat. What the heart conceives is already form in the unseen — your thought has, there in the unseen, already given the thing its body. *\n\n**The tongue.** The spoken word does not describe reality — it **commands** it: what you speak aloud, your tongue calls across from nothing into existence. * Hence it is not indifferent what you speak out: every word of yours is a proclamation.\n\n**Three consequences of the teaching for the practitioner:**\n\n— **Your thoughts are creative acts.** What you turn over in your heart — worry or intention — you carry out into the world: the inner image works upon the very fabric of your fate. * Heart-hygiene is no luxury: it is workshop cleanliness.\n\n— **Your words are commands.** What you declare about yourself and the world ('I never succeed', 'this always happens to me') you proclaim. Discipline of the tongue is creative discipline.\n\n— **The accord of the two is the key.** If the heart thinks other than what the tongue says, creation splits and the spoken word's power scatters into nothing. * The Egyptian master's power is **accord**: what the heart conceives, the tongue speaks — no more and nothing else.\n\nSound familiar? Hermetic Mentalism, Bashar's choosing of state, Ryokah's programming of intent and the decree of the Violet Flame — all are children of this ancient principle. You stand at the spring.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "According to the Shabaka Stone's text, every god, every living being and every thing came to be because **Ptah's heart thought it and his tongue spoke it**. Creation is neither struggle nor accident: it is **conception and proclamation**.\n\n**The heart.** For the Egyptian the heart (ib) is no sentimentality: it is the seat of **thought, intention and conscience** — the same heart weighed against Maat's feather on the scale of the Duat. What the heart conceives is already form in the unseen — your thought has, there in the unseen, already given the thing its body. *\n\n**The tongue.** The spoken word does not describe reality — it **commands** it: what you speak aloud, your tongue calls across from nothing into existence. * Hence it is not indifferent what you speak out: every word of yours is a proclamation.\n\n**Three consequences of the teaching for the practitioner:**\n\n— **Your thoughts are creative acts.** What you turn over in your heart — worry or intention — you carry out into the world: the inner image works upon the very fabric of your fate. * Heart-hygiene is no luxury: it is workshop cleanliness.\n\n— **Your words are commands.** What you declare about yourself and the world ('I never succeed', 'this always happens to me') you proclaim. Discipline of the tongue is creative discipline.\n\n— **The accord of the two is the key.** If the heart thinks other than what the tongue says, creation splits and the spoken word's power scatters into nothing. * The Egyptian master's power is **accord**: what the heart conceives, the tongue speaks — no more and nothing else.\n\nSound familiar? Hermetic Mentalism, Bashar's choosing of state, Ryokah's programming of intent and the decree of the Violet Flame — all are children of this ancient principle. You stand at the spring.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Potrivit textului Pietrei Shabaka, fiecare zeu, fiecare ființă vie și fiecare lucru a luat ființă pentru că **inima lui Ptah l-a gândit și limba sa l-a rostit**. Creația nu este nici luptă, nici accident: este **concepere și proclamare**.\n\n**Inima.** Pentru egiptean inima (ib) nu este sentimentalism: este sediul **gândirii, intenției și conștiinței** — aceeași inimă cântărită față de pana Maat pe balanța Duatului. Ceea ce inima concepe este deja formă în nevăzut — gândul tău a dat deja, acolo în nevăzut, trup lucrului. *\n\n**Limba.** Cuvântul rostit nu descrie realitatea — o **comandă**: ceea ce spui cu voce tare, limba ta cheamă din neant în existență. * De aceea nu este indiferent ce rostești: fiecare cuvânt al tău este o proclamare.\n\n**Trei consecințe ale învățăturii pentru practician:**\n\n— **Gândurile tale sunt acte creative.** Ceea ce frămânți în inimă — grijă sau intenție — porți afară în lume: imaginea interioară lucrează asupra țesăturii însăși a destinului tău. * Igiena inimii nu este un lux: este curățenia atelierului.\n\n— **Cuvintele tale sunt comenzi.** Ceea ce declari despre tine și despre lume ('Nu reușesc niciodată', 'mie mereu mi se întâmplă asta') proclami. Disciplina limbii este disciplină creativă.\n\n— **Acordul celor două este cheia.** Dacă inima gândește altceva decât spune limba, creația se despică și puterea cuvântului rostit se risipește în neant. * Puterea maestrului egiptean este **acordul**: ceea ce inima concepe, limba rostește — nimic mai mult și nimic altceva.\n\nȚi se pare cunoscut? Mentalismul hermetic, alegerea stării la Bashar, programarea intenției la Ryokah și decretul Flăcării Violete — toate sunt copii ai acestui principiu străvechi. Te afli la izvor.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A szív-nyelv gyakorlat",
-        "en": "The Heart & Tongue Practice"
+        "en": "The Heart & Tongue Practice",
+        "ro": "Practica Inimii și Limbii"
       },
       "text": {
         "hu": "Ptah teremtésmódja hat lépésben, mai gyakorlatként.\n\n**1. Elcsendesedés.** Ülj le, lélegezz mélyen néhány percig. A műhelyt kitakarítod, mielőtt dolgozol benne.\n\n**2. A szív-központ.** Vidd a figyelmed a mellkasod közepébe. Ne „gondolkodj a szívről” — **időzz benne**. Ez a fogantatás helye.\n\n**3. A fogantatás.** Formáld meg a szívedben, amit teremteni akarsz — nem szavakkal még, hanem **eleven képként és érzetként**: milyen az, amikor már van? Hagyd, hogy a kép kitisztuljon és megmelegedjen.\n\n**4. A kihirdetés.** Most — és csak most — öntsd szóba. Mondd ki hangosan, jelen időben, parancsként, ahogy a mester kimondja a mű nevét: rövid, tiszta, teljes mondat. Érezd, hogy a szó **a szívből jön fel** — ez az összhang pillanata.\n\n**5. Az engedés.** A kimondott parancs után ne ismételgesd szorongva. A mester kimondja — aztán dolgozni engedi a művet. (Basharral szólva: nulla elvárás; Ryokah-val: engedd az áramlást.)\n\n**6. A pecsét.** Zárd: *„Ahogy Ptah teremtett — szívvel és nyelvvel —, úgy teremtek én is.”*\n\n**Mikor?** Reggel a nap szándékára; nagy döntések, új kezdetek előtt; és bármikor, amikor azon kapod magad, hogy a nyelved **mást hirdet, mint amit a szíved akar** — akkor állj meg, és hangold össze őket.",
-        "en": "Ptah's way of creating in six steps, as today's practice.\n\n**1. Growing still.** Sit down, breathe deeply for a few minutes. You clean the workshop before you work in it.\n\n**2. The heart centre.** Bring your attention to the middle of your chest. Do not 'think about the heart' — **dwell in it**. This is the place of conception.\n\n**3. The conception.** Form in your heart what you wish to create — not yet in words, but as **living image and sensation**: what is it like when it already is? Let the image clear and grow warm.\n\n**4. The proclamation.** Now — and only now — pour it into word. Speak it aloud, in the present tense, as a command, as the master speaks the name of the work: a short, clean, whole sentence. Feel the word **rise from the heart** — this is the moment of accord.\n\n**5. The allowing.** After the spoken command do not repeat it anxiously. The master speaks — then lets the work work. (In Bashar's words: zero insistence; in Ryokah's: allow the flow.)\n\n**6. The seal.** Close: *'As Ptah created — by heart and tongue — so I too create.'*\n\n**When?** In the morning for the day's intent; before great decisions and new beginnings; and whenever you catch your tongue **proclaiming other than what your heart wants** — then stop, and bring them into accord."
+        "en": "Ptah's way of creating in six steps, as today's practice.\n\n**1. Growing still.** Sit down, breathe deeply for a few minutes. You clean the workshop before you work in it.\n\n**2. The heart centre.** Bring your attention to the middle of your chest. Do not 'think about the heart' — **dwell in it**. This is the place of conception.\n\n**3. The conception.** Form in your heart what you wish to create — not yet in words, but as **living image and sensation**: what is it like when it already is? Let the image clear and grow warm.\n\n**4. The proclamation.** Now — and only now — pour it into word. Speak it aloud, in the present tense, as a command, as the master speaks the name of the work: a short, clean, whole sentence. Feel the word **rise from the heart** — this is the moment of accord.\n\n**5. The allowing.** After the spoken command do not repeat it anxiously. The master speaks — then lets the work work. (In Bashar's words: zero insistence; in Ryokah's: allow the flow.)\n\n**6. The seal.** Close: *'As Ptah created — by heart and tongue — so I too create.'*\n\n**When?** In the morning for the day's intent; before great decisions and new beginnings; and whenever you catch your tongue **proclaiming other than what your heart wants** — then stop, and bring them into accord.",
+        "ro": "Calea lui Ptah de a crea în șase pași, ca practică de azi.\n\n**1. Liniștirea.** Așază-te, respiră adânc câteva minute. Cureți atelierul înainte să lucrezi în el.\n\n**2. Centrul inimii.** Adu-ți atenția în mijlocul pieptului. Nu 'gândi la inimă' — **locuiește în ea**. Acesta este locul conceperii.\n\n**3. Conceperea.** Formează în inimă ceea ce dorești să creezi — nu încă în cuvinte, ci ca **imagine și senzație vie**: cum e când deja este? Lasă imaginea să se limpezească și să se încălzească.\n\n**4. Proclamarea.** Acum — și numai acum — toarn-o în cuvânt. Rostește-l cu voce tare, la timpul prezent, ca pe o comandă, așa cum maestrul rostește numele operei: o propoziție scurtă, curată, întreagă. Simte cuvântul **ridicându-se din inimă** — acesta este momentul acordului.\n\n**5. Îngăduirea.** După comanda rostită nu o repeta cu neliniște. Maestrul rostește — apoi lasă opera să lucreze. (În cuvintele lui Bashar: zero insistență; în ale lui Ryokah: îngăduie fluxul.)\n\n**6. Sigiliul.** Închide: *'Așa cum Ptah a creat — prin inimă și limbă — tot așa creez și eu.'*\n\n**Când?** Dimineața pentru intenția zilei; înaintea marilor decizii și a noilor începuturi; și ori de câte ori îți prinzi limba **proclamând altceva decât vrea inima ta** — atunci oprește-te și adu-le în acord."
       }
     },
     {
@@ -53,34 +61,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Szív-nyelv teremtés — 10 perc",
-        "en": "Heart & Tongue Creation — 10 min"
+        "en": "Heart & Tongue Creation — 10 min",
+        "ro": "Creație prin Inimă și Limbă — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Csendesedj el, időzz a szív-központban, fogand meg a képet elevenen — majd hirdesd ki egyetlen tiszta, jelen idejű mondattal, a szívből. Engedd el, és pecsételd.",
-          "en": "Grow still, dwell in the heart centre, conceive the image vividly — then proclaim it in one clean present-tense sentence, from the heart. Release it, and seal."
+          "en": "Grow still, dwell in the heart centre, conceive the image vividly — then proclaim it in one clean present-tense sentence, from the heart. Release it, and seal.",
+          "ro": "Liniștește-te, locuiește în centrul inimii, concepe imaginea viu — apoi proclam-o într-o singură propoziție curată la timpul prezent, din inimă. Elibereaz-o și pecetluiește."
         },
         "intervals": [
           {
             "atSecond": 150,
             "label": {
               "hu": "A szív-központ — időzz benne",
-              "en": "The heart centre — dwell in it"
+              "en": "The heart centre — dwell in it",
+              "ro": "Centrul inimii — locuiește în el"
             }
           },
           {
             "atSecond": 330,
             "label": {
               "hu": "A fogantatás — a kép megmelegszik",
-              "en": "The conception — the image grows warm"
+              "en": "The conception — the image grows warm",
+              "ro": "Conceperea — imaginea se încălzește"
             }
           },
           {
             "atSecond": 480,
             "label": {
               "hu": "A kihirdetés — mondd ki a szívből",
-              "en": "The proclamation — speak it from the heart"
+              "en": "The proclamation — speak it from the heart",
+              "ro": "Proclamarea — rostește-o din inimă"
             }
           }
         ]
@@ -91,11 +104,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A mesterember útja",
-        "en": "The Way of the Craftsman"
+        "en": "The Way of the Craftsman",
+        "ro": "Calea Meșteșugarului"
       },
       "text": {
         "hu": "Ptah nem filozófus-isten: **mester**. Az ő népe a kőfaragó, az ötvös, az építész — akik tudják, hogy a szent nemcsak a templom szentélyében lakik, hanem **a jól végzett munkában** is.\n\n**A mesterember-gyakorlat** — egy valódi projektre (bármire: munka, alkotás, akár egy rendbe tett szoba):\n\n**1. A szívben kezdd.** Mielőtt hozzányúlnál, lásd és **érezd** a kész művet — ahogy Ptah a szívében hordta a világot. A mester sosem az anyaggal kezd: a képpel.\n\n**2. Mondd ki.** Adj nevet és mondatot a műnek: *„Ez a munka [ezt] szolgálja, és [ilyen] lesz.”* Írd is le — a leírt szó a kihirdetés tartós formája.\n\n**3. Dolgozz jelenléttel.** A mesterember figyelme maga az áldozat: minden mozdulat oda-adott figyelem. A kapkodva végzett munka kihirdetett kapkodás — a gonddal végzett munka kihirdetett gond.\n\n**4. Tiszteld az anyagot és a határt.** A mester nem erőlteti az anyagot a kép ellenében — párbeszédben dolgozik vele. Ha a mű mást kér, mint a terved, hallgasd meg. (Ez Bardon rítus-fegyelmének és Ptahhotep hallgatás-tanának rokona.)\n\n**5. Ajánld fel.** A kész művet — vagy a nap munkáját — zárd egy mozdulattal: *„Ptah szellemében készült: szívvel és szóval.”* A felajánlás nem vallásosság kérdése: a lezárás és a hála gesztusa, amely a munkát művé emeli.\n\nÍgy válik a hétköznapi munka gyakorlótereppé: **minden nap műhely, minden mű tükör.**",
-        "en": "Ptah is no philosopher-god: he is a **master**. His people are the stonecutter, the goldsmith, the architect — who know that the sacred dwells not only in the temple's shrine but **in work well done**.\n\n**The craftsman practice** — on a real project (anything: work, a creation, even a room set in order):\n\n**1. Begin in the heart.** Before touching anything, see and **feel** the finished work — as Ptah carried the world in his heart. The master never begins with the material: he begins with the image.\n\n**2. Speak it.** Give the work a name and a sentence: *'This work serves [this], and will be [thus].'* Write it down too — the written word is the proclamation's enduring form.\n\n**3. Work with presence.** The craftsman's attention is itself the offering: every movement is given attention. Work done in haste is proclaimed haste — work done with care is proclaimed care.\n\n**4. Honour the material and the limit.** The master does not force the material against the image — he works in dialogue with it. If the work asks for something other than your plan, listen. (Kin to Bardon's ritual discipline and Ptahhotep's teaching of listening.)\n\n**5. Offer it up.** Close the finished work — or the day's labour — with one gesture: *'Made in the spirit of Ptah: with heart and word.'* The offering is not a question of religiosity: it is the gesture of closure and gratitude that raises labour into work.\n\nThus everyday work becomes practice ground: **every day a workshop, every work a mirror.**"
+        "en": "Ptah is no philosopher-god: he is a **master**. His people are the stonecutter, the goldsmith, the architect — who know that the sacred dwells not only in the temple's shrine but **in work well done**.\n\n**The craftsman practice** — on a real project (anything: work, a creation, even a room set in order):\n\n**1. Begin in the heart.** Before touching anything, see and **feel** the finished work — as Ptah carried the world in his heart. The master never begins with the material: he begins with the image.\n\n**2. Speak it.** Give the work a name and a sentence: *'This work serves [this], and will be [thus].'* Write it down too — the written word is the proclamation's enduring form.\n\n**3. Work with presence.** The craftsman's attention is itself the offering: every movement is given attention. Work done in haste is proclaimed haste — work done with care is proclaimed care.\n\n**4. Honour the material and the limit.** The master does not force the material against the image — he works in dialogue with it. If the work asks for something other than your plan, listen. (Kin to Bardon's ritual discipline and Ptahhotep's teaching of listening.)\n\n**5. Offer it up.** Close the finished work — or the day's labour — with one gesture: *'Made in the spirit of Ptah: with heart and word.'* The offering is not a question of religiosity: it is the gesture of closure and gratitude that raises labour into work.\n\nThus everyday work becomes practice ground: **every day a workshop, every work a mirror.**",
+        "ro": "Ptah nu e un zeu-filosof: el este un **maestru**. Oamenii lui sunt pietrarul, aurarul, arhitectul — cei care știu că sacrul nu locuiește doar în sanctuarul templului, ci **în munca bine făcută**.\n\n**Practica meșteșugarului** — pe un proiect real (orice: muncă, o creație, chiar și o cameră pusă în ordine):\n\n**1. Începe din inimă.** Înainte să atingi ceva, vezi și **simte** lucrarea terminată — așa cum Ptah purta lumea în inima lui. Maestrul nu începe niciodată cu materialul: începe cu imaginea.\n\n**2. Spune-o.** Dă lucrării un nume și o propoziție: *'Această lucrare slujește [acestui lucru], și va fi [astfel].'* Scrie-o și tu — cuvântul scris este forma durabilă a proclamației.\n\n**3. Lucrează cu prezență.** Atenția meșteșugarului este ea însăși ofranda: fiecare mișcare primește atenție. Munca făcută în grabă proclamă graba — munca făcută cu grijă proclamă grija.\n\n**4. Cinstește materialul și limita.** Maestrul nu forțează materialul împotriva imaginii — lucrează în dialog cu el. Dacă lucrarea cere altceva decât planul tău, ascultă. (Înrudit cu disciplina rituală a lui Bardon și cu învățătura lui Ptahhotep despre ascultare.)\n\n**5. Oferă-o.** Încheie lucrarea terminată — sau munca zilei — cu un gest: *'Făcut în spiritul lui Ptah: cu inimă și cuvânt.'* Ofranda nu e o chestiune de religiozitate: este gestul de încheiere și de recunoștință care ridică truda la rang de lucrare.\n\nAstfel munca de fiecare zi devine teren de practică: **fiecare zi un atelier, fiecare lucrare o oglindă.**"
       }
     },
     {
@@ -103,11 +118,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Ptahhotep — amit a fiának hagyott",
-        "en": "Ptahhotep — What He Left His Son"
+        "en": "Ptahhotep — What He Left His Son",
+        "ro": "Ptahhotep — Ce i-a lăsat fiului său"
       },
       "text": {
         "hu": "Az Óbirodalom alkonyán, Kr. e. 2400 táján, egy megöregedett vezír — a fáraó után az ország első embere — leült, és megírta a fiának mindazt, amit egy élet szolgálata tanított neki. Így született a **Ptahhotep maximái**: a világ egyik legrégebbi fennmaradt bölcsességkönyve — régebbi a Bibliánál, régebbi a görög filozófiánál.\n\nAz öreg vezír nem varázslatot hagyott a fiára. **Ennél többet: a szó és a szív helyes használatát.** A tanítás kerete maga is megható: az apa, aki érzi az öregséget („a szem gyengül, a fül nehezül”), és át akarja adni, ami maradandó.\n\n**A maximák lelke — az első négy tanítás:**\n\n**1. A hallgatás művészete.** *„Aki hallgat, az tanul — a sok beszéd nem bölcsesség jele.”* A fiú első leckéje: ne akarj okosnak látszani. A figyelmes hallgatás a bölcsesség kapuja — és a szép szó a hallgatás gyümölcse.\n\n**2. Alázat a tudásban.** A maximák egyik leghíresebb képe szerint a szép beszéd **rejtettebb a smaragdnál — mégis megtalálható a malomkő mellett dolgozó szolgálólánynál is**. Vagyis: a bölcsesség bárkitől jöhet. Aki csak a rangosoktól tanulna, szegény marad.\n\n**3. Igaz beszéd — Maat.** A szó teremtő erő (ezt már tudod Ptahtól) — ezért a hazug vagy ferdített szó **rombolva teremt**. Az igazsághoz hű beszéd a maximák gerince: Maat a nyelven.\n\n**4. A harag és a várakozás.** *„Ha haragszol, ne szólj azonnal. Várd meg, míg a szíved lecsendesül.”* A haragban kimondott szó is kihirdetés — sebet hirdet ki. A vezír praktikus tanácsa négy és fél ezer éve érvényes: **a szünet a bölcs első fegyvere**.",
-        "en": "At the twilight of the Old Kingdom, around 2400 BCE, an aged vizier — first man of the land after Pharaoh — sat down and wrote for his son all that a life of service had taught him. Thus were born the **Maxims of Ptahhotep**: one of the world's oldest surviving books of wisdom — older than the Bible, older than Greek philosophy.\n\nThe old vizier left his son no magic. **He left more: the right use of word and heart.** The teaching's frame is itself moving: a father who feels old age ('the eyes weaken, the ears grow heavy') and wishes to pass on what endures.\n\n**The soul of the maxims — the first four teachings:**\n\n**1. The art of listening.** *'Who listens, learns — much talking is no sign of wisdom.'* The son's first lesson: do not strive to seem clever. Attentive listening is the gate of wisdom — and fine speech is the fruit of listening.\n\n**2. Humility in knowledge.** By one of the maxims' most famous images, fine speech is **more hidden than the emerald — yet it may be found with the maidservant working at the grindstone**. That is: wisdom may come from anyone. Who would learn only from the eminent stays poor.\n\n**3. True speech — Maat.** The word is creative power (you know this from Ptah) — hence the lying or twisted word **creates destructively**. Speech faithful to truth is the spine of the maxims: Maat upon the tongue.\n\n**4. Anger and waiting.** *'When you are angry, do not speak at once. Wait until your heart grows quiet.'* A word spoken in anger is also a proclamation — it proclaims a wound. The vizier's practical counsel has held for four and a half thousand years: **the pause is the wise man's first weapon**."
+        "en": "At the twilight of the Old Kingdom, around 2400 BCE, an aged vizier — first man of the land after Pharaoh — sat down and wrote for his son all that a life of service had taught him. Thus were born the **Maxims of Ptahhotep**: one of the world's oldest surviving books of wisdom — older than the Bible, older than Greek philosophy.\n\nThe old vizier left his son no magic. **He left more: the right use of word and heart.** The teaching's frame is itself moving: a father who feels old age ('the eyes weaken, the ears grow heavy') and wishes to pass on what endures.\n\n**The soul of the maxims — the first four teachings:**\n\n**1. The art of listening.** *'Who listens, learns — much talking is no sign of wisdom.'* The son's first lesson: do not strive to seem clever. Attentive listening is the gate of wisdom — and fine speech is the fruit of listening.\n\n**2. Humility in knowledge.** By one of the maxims' most famous images, fine speech is **more hidden than the emerald — yet it may be found with the maidservant working at the grindstone**. That is: wisdom may come from anyone. Who would learn only from the eminent stays poor.\n\n**3. True speech — Maat.** The word is creative power (you know this from Ptah) — hence the lying or twisted word **creates destructively**. Speech faithful to truth is the spine of the maxims: Maat upon the tongue.\n\n**4. Anger and waiting.** *'When you are angry, do not speak at once. Wait until your heart grows quiet.'* A word spoken in anger is also a proclamation — it proclaims a wound. The vizier's practical counsel has held for four and a half thousand years: **the pause is the wise man's first weapon**.",
+        "ro": "La amurgul Vechiului Regat, pe la 2400 î.Hr., un vizir în vârstă — primul om al țării după Faraon — s-a așezat și i-a scris fiului său tot ce o viață de slujire îl învățase. Așa s-au născut **Maximele lui Ptahhotep**: una dintre cele mai vechi cărți de înțelepciune care au supraviețuit în lume — mai veche decât Biblia, mai veche decât filosofia greacă.\n\nBătrânul vizir nu i-a lăsat fiului său magie. **I-a lăsat mai mult: folosirea dreaptă a cuvântului și a inimii.** Cadrul învățăturii e el însuși mișcător: un tată care simte bătrânețea ('ochii slăbesc, urechile se îngreunează') și dorește să transmită ce dăinuie.\n\n**Sufletul maximelor — primele patru învățături:**\n\n**1. Arta de a asculta.** *'Cine ascultă, învață — vorbitul mult nu e semn de înțelepciune.'* Prima lecție a fiului: nu te strădui să pari deștept. Ascultarea atentă este poarta înțelepciunii — iar vorbirea frumoasă e rodul ascultării.\n\n**2. Smerenia în cunoaștere.** Prin una dintre cele mai celebre imagini ale maximelor, vorbirea frumoasă este **mai ascunsă decât smaraldul — și totuși poate fi găsită la slujnica care lucrează la râșniță**. Adică: înțelepciunea poate veni de la oricine. Cine ar învăța doar de la cei de seamă rămâne sărac.\n\n**3. Vorbirea adevărată — Maat.** Cuvântul este putere creatoare (știi asta de la Ptah) — de aceea cuvântul mincinos sau strâmb **creează în mod distructiv**. Vorbirea credincioasă adevărului este șira spinării maximelor: Maat pe limbă.\n\n**4. Mânia și așteptarea.** *'Când ești mânios, nu vorbi de îndată. Așteaptă până ce inima ți se liniștește.'* Un cuvânt rostit în mânie este și el o proclamație — proclamă o rană. Sfatul practic al vizirului a ținut patru mii cinci sute de ani: **pauza este prima armă a omului înțelept**."
       }
     },
     {
@@ -115,11 +132,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A maximák — az élet rendje",
-        "en": "The Maxims — the Order of Life"
+        "en": "The Maxims — the Order of Life",
+        "ro": "Maximele — Rânduiala vieții"
       },
       "text": {
         "hu": "**5. Az idősek és az út tisztelete.** *„Tiszteld azokat, akik előtted jártak — ők már ismerik az utat, amelyre te most lépsz.”* A hagyomány nem béklyó: **térkép**, amit vérrel és évekkel rajzoltak. (És a kör szépen zárul: te most egy 4400 éves apai tanácsot olvasol — pontosan ezt gyakorlod.)\n\n**6. A vagyon és a nyitott kéz.** *„Ne gyűjts csak magadnak — amit ma birtokolsz, holnap másé lehet. Oszd meg, és a kenyered megmarad.”* A vezír, aki az ország kincstárát is látta, tudta: a markolt vagyon szorongást teremt, a megosztott bőséget. A nagylelkűség nem erény-dísz: **bőség-technológia**.\n\n**7. A munka méltósága.** *„Végezd jól a dolgod, és Ptah megáld.”* A jól végzett munka istentisztelet a mesterek istenének — itt ér össze Ptahhotep a mesterember-gyakorlattal.\n\n**8. Barátság és hűség.** *„Válaszd meg jól a barátaidat, és légy hozzájuk hű — a rossz társ a romlásba visz, a jó a fényhez.”* A vezír tudta: az ember azzá rezonál, akikkel jár. (Bashar frekvencia-nyelvén: a környezeted hangol.)\n\n**A záró tanítás — a hallgató fiú.** A maximák végén az apa összefoglal: a fiú, aki **meghallgatja** és éli e szavakat, maga is bölccsé lesz, és egykor a saját fiának adja tovább. A tanítás formája maga a tanítás: **a bölcsesség lánc, amely hallgatásból és továbbadásból él**.\n\n**Napi mód:** válassz reggel egy maximát a nyolcból, és hordd a nap kérdéseként. Este a naplóban: hol mutatkozott meg? A 🎫 eszközben készíthetsz „szünet-cédulát” is a 4. maximához — a harag és a szó közé.",
-        "en": "**5. Respect for elders and for the way.** *'Honour those who walked before you — they already know the road you now step onto.'* Tradition is no shackle: it is a **map**, drawn with blood and years. (And the circle closes beautifully: you are reading a 4,400-year-old father's counsel right now — practising exactly this.)\n\n**6. Wealth and the open hand.** *'Do not gather for yourself alone — what you own today may be another's tomorrow. Share, and your bread endures.'* The vizier who had seen the land's treasury knew: clutched wealth creates anxiety, shared wealth abundance. Generosity is no ornament of virtue: it is **abundance technology**.\n\n**7. The dignity of work.** *'Do your work well, and Ptah blesses.'* Work well done is worship to the god of masters — here Ptahhotep meets the craftsman practice.\n\n**8. Friendship and loyalty.** *'Choose your friends well and be faithful to them — the bad companion leads to ruin, the good one toward the light.'* The vizier knew: one comes to resonate with those one walks with. (In Bashar's frequency tongue: your surroundings tune you.)\n\n**The closing teaching — the listening son.** At the maxims' end the father sums up: the son who **listens to** and lives these words becomes wise himself, and will one day pass them to his own son. The teaching's form is itself the teaching: **wisdom is a chain that lives by listening and passing on**.\n\n**Daily mode:** choose one maxim of the eight in the morning and carry it as the day's question. In the evening journal: where did it show itself? In the 🎫 tool you may also craft a 'pause slip' for the fourth maxim — between the anger and the word."
+        "en": "**5. Respect for elders and for the way.** *'Honour those who walked before you — they already know the road you now step onto.'* Tradition is no shackle: it is a **map**, drawn with blood and years. (And the circle closes beautifully: you are reading a 4,400-year-old father's counsel right now — practising exactly this.)\n\n**6. Wealth and the open hand.** *'Do not gather for yourself alone — what you own today may be another's tomorrow. Share, and your bread endures.'* The vizier who had seen the land's treasury knew: clutched wealth creates anxiety, shared wealth abundance. Generosity is no ornament of virtue: it is **abundance technology**.\n\n**7. The dignity of work.** *'Do your work well, and Ptah blesses.'* Work well done is worship to the god of masters — here Ptahhotep meets the craftsman practice.\n\n**8. Friendship and loyalty.** *'Choose your friends well and be faithful to them — the bad companion leads to ruin, the good one toward the light.'* The vizier knew: one comes to resonate with those one walks with. (In Bashar's frequency tongue: your surroundings tune you.)\n\n**The closing teaching — the listening son.** At the maxims' end the father sums up: the son who **listens to** and lives these words becomes wise himself, and will one day pass them to his own son. The teaching's form is itself the teaching: **wisdom is a chain that lives by listening and passing on**.\n\n**Daily mode:** choose one maxim of the eight in the morning and carry it as the day's question. In the evening journal: where did it show itself? In the 🎫 tool you may also craft a 'pause slip' for the fourth maxim — between the anger and the word.",
+        "ro": "**5. Respectul față de bătrâni și față de cale.** *'Cinstește-i pe cei care au mers înaintea ta — ei cunosc deja drumul pe care pășești acum.'* Tradiția nu e un lanț: este o **hartă**, desenată cu sânge și ani. (Și cercul se închide frumos: citești chiar acum sfatul unui tată de acum 4.400 de ani — practicând exact asta.)\n\n**6. Bogăția și mâna deschisă.** *'Nu aduna doar pentru tine — ce ai azi poate fi al altuia mâine. Împarte, și pâinea ta dăinuie.'* Vizirul care văzuse tezaurul țării știa: bogăția strânsă în pumn creează neliniște, bogăția împărtășită creează belșug. Generozitatea nu e podoabă a virtuții: este **tehnologie a belșugului**.\n\n**7. Demnitatea muncii.** *'Fă-ți bine munca, și Ptah te binecuvântează.'* Munca bine făcută este închinare zeului maeștrilor — aici Ptahhotep se întâlnește cu practica meșteșugarului.\n\n**8. Prietenia și loialitatea.** *'Alege-ți bine prietenii și fii-le credincios — tovarășul rău duce la ruină, cel bun către lumină.'* Vizirul știa: ajungi să rezonezi cu cei cu care umbli. (În limba frecvențelor a lui Bashar: împrejurimile te acordează.)\n\n**Învățătura de încheiere — fiul care ascultă.** La sfârșitul maximelor tatăl rezumă: fiul care **ascultă** și trăiește aceste cuvinte devine el însuși înțelept, și într-o zi le va transmite propriului fiu. Forma învățăturii este ea însăși învățătura: **înțelepciunea este un lanț care trăiește prin ascultare și transmitere**.\n\n**Modul zilnic:** alege dimineața una dintre cele opt maxime și poart-o ca întrebare a zilei. Seara notează în jurnal: unde s-a arătat? În unealta 🎫 poți de asemenea confecționa un 'bilet de pauză' pentru a patra maximă — între mânie și cuvânt."
       }
     },
     {
@@ -127,20 +146,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Napi maxima — 5 perc",
-        "en": "Daily Maxim — 5 min"
+        "en": "Daily Maxim — 5 min",
+        "ro": "Maxima zilei — 5 min"
       },
       "timer": {
         "durationSeconds": 300,
         "instructions": {
           "hu": "Válaszd ki a nap maximáját (hallgatás, alázat, igaz beszéd, harag-szünet, tisztelet, nyitott kéz, munka, barátság). Idézd fel a mondatát, és járd végig: hol szól ma hozzád? Egy mondatban rögzítsd.",
-          "en": "Choose the day's maxim (listening, humility, true speech, the anger-pause, respect, the open hand, work, friendship). Recall its sentence and walk it through: where does it speak to you today? Record it in one sentence."
+          "en": "Choose the day's maxim (listening, humility, true speech, the anger-pause, respect, the open hand, work, friendship). Recall its sentence and walk it through: where does it speak to you today? Record it in one sentence.",
+          "ro": "Alege maxima zilei (ascultarea, smerenia, vorbirea adevărată, pauza-mâniei, respectul, mâna deschisă, munca, prietenia). Amintește-ți propoziția ei și parcurge-o: unde îți vorbește azi? Noteaz-o într-o propoziție."
         },
         "intervals": [
           {
             "atSecond": 150,
             "label": {
               "hu": "Félidő — hol szól ma hozzád?",
-              "en": "Halfway — where does it speak to you today?"
+              "en": "Halfway — where does it speak to you today?",
+              "ro": "La jumătate — unde îți vorbește azi?"
             }
           }
         ]
@@ -151,7 +173,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A szó mesterének jellemvonásai",
-        "en": "The Word-Master's character traits"
+        "en": "The Word-Master's character traits",
+        "ro": "Trăsăturile de caracter ale Maestrului Cuvântului"
       },
       "aspektusPack": [
         {
@@ -160,7 +183,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Haragból szólás",
-            "en": "Speaking from anger"
+            "en": "Speaking from anger",
+            "ro": "Vorbirea din mânie"
           }
         },
         {
@@ -169,7 +193,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Fecsegés",
-            "en": "Idle chatter"
+            "en": "Idle chatter",
+            "ro": "Vorba goală"
           }
         },
         {
@@ -178,7 +203,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Fukarság",
-            "en": "Miserliness"
+            "en": "Miserliness",
+            "ro": "Zgârcenia"
           }
         },
         {
@@ -187,7 +213,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Süket szív",
-            "en": "The deaf heart"
+            "en": "The deaf heart",
+            "ro": "Inima surdă"
           }
         },
         {
@@ -196,7 +223,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Figyelmes hallgatás",
-            "en": "Attentive listening"
+            "en": "Attentive listening",
+            "ro": "Ascultarea atentă"
           }
         },
         {
@@ -205,7 +233,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Igaz beszéd (Maat)",
-            "en": "True speech (Maat)"
+            "en": "True speech (Maat)",
+            "ro": "Vorbirea adevărată (Maat)"
           }
         },
         {
@@ -214,7 +243,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Mesteri gond",
-            "en": "Craftsman's care"
+            "en": "Craftsman's care",
+            "ro": "Grija meșteșugarului"
           }
         },
         {
@@ -223,7 +253,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "A szív és a nyelv összhangja",
-            "en": "Accord of heart and tongue"
+            "en": "Accord of heart and tongue",
+            "ro": "Acordul inimii și al limbii"
           }
         }
       ]
@@ -233,7 +264,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Teremtés-napló",
-        "en": "Creation Journal"
+        "en": "Creation Journal",
+        "ro": "Jurnalul creației"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -241,7 +273,8 @@
         ],
         "prompts": {
           "hu": "SZÍV — Amit ma a szívemben fogantam: ___\n\nNYELV — A kihirdetett mondat (és összhangban volt-e a szívvel): ___\n\nMŰ — Amin ma mesteri gonddal dolgoztam: ___\n\nMAXIMA — A nap maximája és ahol megmutatkozott: ___",
-          "en": "HEART — What I conceived in my heart today: ___\n\nTONGUE — The proclaimed sentence (and was it in accord with the heart): ___\n\nWORK — What I worked on today with craftsman's care: ___\n\nMAXIM — The day's maxim and where it showed itself: ___"
+          "en": "HEART — What I conceived in my heart today: ___\n\nTONGUE — The proclaimed sentence (and was it in accord with the heart): ___\n\nWORK — What I worked on today with craftsman's care: ___\n\nMAXIM — The day's maxim and where it showed itself: ___",
+          "ro": "INIMĂ — Ce am zămislit azi în inima mea: ___\n\nLIMBĂ — Propoziția proclamată (și a fost în acord cu inima): ___\n\nLUCRARE — La ce am lucrat azi cu grija meșteșugarului: ___\n\nMAXIMĂ — Maxima zilei și unde s-a arătat: ___"
         }
       }
     },
@@ -250,7 +283,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A mesterség elsajátítása",
-        "en": "Mastery of the Craft"
+        "en": "Mastery of the Craft",
+        "ro": "Măiestria meșteșugului"
       },
       "checklist": {
         "items": [
@@ -258,49 +292,56 @@
             "key": "c1",
             "nevek": {
               "hu": "A Memphiszi elv megértve: gondolat + szó = teremtés",
-              "en": "The Memphite principle understood: thought + word = creation"
+              "en": "The Memphite principle understood: thought + word = creation",
+              "ro": "Principiul memfit înțeles: gând + cuvânt = creație"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Szív-nyelv gyakorlat rendszeresen, összhanggal",
-              "en": "Heart & tongue practice regularly, with accord"
+              "en": "Heart & tongue practice regularly, with accord",
+              "ro": "Practica inimă & limbă regulat, cu acord"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Egy teremtés kihirdetve, elengedve és lepecsételve",
-              "en": "One creation proclaimed, released and sealed"
+              "en": "One creation proclaimed, released and sealed",
+              "ro": "O creație proclamată, eliberată și pecetluită"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Mesterember-gyakorlat egy valódi művön",
-              "en": "Craftsman practice on a real work"
+              "en": "Craftsman practice on a real work",
+              "ro": "Practica meșteșugarului pe o lucrare reală"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Napi maxima szokássá vált",
-              "en": "The daily maxim became habit"
+              "en": "The daily maxim became habit",
+              "ro": "Maxima zilnică a devenit obicei"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "A harag-szünet legalább egyszer megélve: vártam, míg a szív lecsendesült",
-              "en": "The anger-pause lived at least once: I waited until the heart grew quiet"
+              "en": "The anger-pause lived at least once: I waited until the heart grew quiet",
+              "ro": "Pauza-mâniei trăită măcar o dată: am așteptat până ce inima s-a liniștit"
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "Egy nagylelkű tett a nyitott kéz maximájából",
-              "en": "One generous deed from the open-hand maxim"
+              "en": "One generous deed from the open-hand maxim",
+              "ro": "O faptă generoasă din maxima mâinii deschise"
             }
           }
         ]
@@ -311,7 +352,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Auto-verificare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -320,7 +362,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Hogyan teremt Ptah a Memphiszi Teológia szerint?",
-              "en": "How does Ptah create according to the Memphite Theology?"
+              "en": "How does Ptah create according to the Memphite Theology?",
+              "ro": "Cum creează Ptah potrivit Teologiei Memfite?"
             },
             "options": {
               "hu": [
@@ -334,6 +377,12 @@
                 "By the heart's thought and the tongue's spoken word",
                 "By the power of the Sun",
                 "By offering sacrifices"
+              ],
+              "ro": [
+                "Modelând lutul cu mâna",
+                "Prin gândul inimii și cuvântul rostit al limbii",
+                "Prin puterea Soarelui",
+                "Prin aducerea de jertfe"
               ]
             },
             "correctIndex": 1
@@ -342,7 +391,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Mit tanít Ptahhotep a haragról?",
-              "en": "What does Ptahhotep teach about anger?"
+              "en": "What does Ptahhotep teach about anger?",
+              "ro": "Ce învață Ptahhotep despre mânie?"
             },
             "options": {
               "hu": [
@@ -356,6 +406,12 @@
                 "Anger must be suppressed and denied",
                 "Do not speak in anger — wait until your heart grows quiet",
                 "Anger is the emotion of the weak"
+              ],
+              "ro": [
+                "Mânia trebuie rostită întotdeauna de îndată",
+                "Mânia trebuie înăbușită și tăgăduită",
+                "Nu vorbi din mânie — așteaptă până când inima ți se liniștește",
+                "Mânia este emoția celor slabi"
               ]
             },
             "correctIndex": 2
@@ -364,7 +420,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Hol található meg a szép beszéd a maximák híres képe szerint?",
-              "en": "Where may fine speech be found, by the maxims' famous image?"
+              "en": "Where may fine speech be found, by the maxims' famous image?",
+              "ro": "Unde se poate găsi vorbirea aleasă, după celebra imagine a maximelor?"
             },
             "options": {
               "hu": [
@@ -378,6 +435,12 @@
                 "Only at Pharaoh's court",
                 "More hidden than the emerald — yet found even with the maidservant at the grindstone",
                 "Only in the words of the old"
+              ],
+              "ro": [
+                "Numai în bibliotecile templelor",
+                "Numai la curtea Faraonului",
+                "Mai ascunsă decât smaraldul — totuși găsită chiar și la slujnica de la râșniță",
+                "Numai în cuvintele bătrânilor"
               ]
             },
             "correctIndex": 2
@@ -390,11 +453,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă & Declinare de responsabilitate"
       },
       "text": {
         "hu": "*Tanulási segédlet az ókori egyiptomi hagyomány forrásai nyomán: a Memphiszi Teológia (Shabaka-kő) és a Ptahhotep maximái (elsősorban a Prisse-papiruszon fennmaradt szöveg). A megfogalmazások saját, modern átültetések az eredeti szellem szerint — nem szó szerinti fordítások. Tudományos elmélyüléshez: Miriam Lichtheim „Ancient Egyptian Literature I.” kötete mindkét szöveg mértékadó fordítását adja.*\n\n*Őszinte keret: Ptahnak nincs modern csatornázott tanítóvonala — ez ősi, közkincs hagyomány kontemplatív adaptációja. Ez nem orvosi és nem pszichológiai tanács; ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A mesterség a cél, nem a sebesség.*",
-        "en": "*Study aid after the sources of the ancient Egyptian tradition: the Memphite Theology (Shabaka Stone) and the Maxims of Ptahhotep (chiefly the text preserved on the Prisse Papyrus). The renderings are our own modern transpositions in the original spirit — not literal translations. For scholarly depth: Miriam Lichtheim's 'Ancient Egyptian Literature I' gives authoritative translations of both texts.*\n\n*Honest frame: Ptah has no modern channeled teaching line — this is a contemplative adaptation of an ancient, public-domain tradition. This is not medical or psychological advice; if you experience distress, consult a professional. Mastery, not speed, is the goal.*"
+        "en": "*Study aid after the sources of the ancient Egyptian tradition: the Memphite Theology (Shabaka Stone) and the Maxims of Ptahhotep (chiefly the text preserved on the Prisse Papyrus). The renderings are our own modern transpositions in the original spirit — not literal translations. For scholarly depth: Miriam Lichtheim's 'Ancient Egyptian Literature I' gives authoritative translations of both texts.*\n\n*Honest frame: Ptah has no modern channeled teaching line — this is a contemplative adaptation of an ancient, public-domain tradition. This is not medical or psychological advice; if you experience distress, consult a professional. Mastery, not speed, is the goal.*",
+        "ro": "*Material de studiu după izvoarele tradiției egiptene antice: Teologia Memfită (Piatra Shabaka) și Maximele lui Ptahhotep (în principal textul păstrat pe Papirusul Prisse). Redările sunt propriile noastre transpuneri moderne în spiritul original — nu traduceri literale. Pentru adâncime academică: 'Ancient Egyptian Literature I' a lui Miriam Lichtheim oferă traduceri de autoritate ale ambelor texte.*\n\n*Cadru onest: Ptah nu are o linie modernă de învățătură canalizată — aceasta este o adaptare contemplativă a unei tradiții antice din domeniul public. Acesta nu este sfat medical sau psihologic; dacă resimți suferință, consultă un profesionist. Măiestria, nu viteza, este țelul.*"
       }
     }
   ]

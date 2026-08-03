@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Fluidkondenzátorok",
-    "en": "Fluid Condensers"
+    "en": "Fluid Condensers",
+    "ro": "Condensatoare de fluide"
   },
   "description": {
     "hu": "Referenciamodul a fluidkondenzátorokról: mik ezek az anyagok, és hogyan vonzzák, tartják és sűrítik az elektromos és mágneses fluidumot meg az életerőt. Áttekinted a folyékony, szilárd és összetett típusokat, a felhasználási területeket és a biztonságos kezelés szabályait.",
-    "en": "A reference module on fluid condensers: what these substances are and how they attract, hold and condense the electric and magnetic fluids and the vital force. You will survey liquid, solid and compound types, their fields of use, and the rules of safe handling."
+    "en": "A reference module on fluid condensers: what these substances are and how they attract, hold and condense the electric and magnetic fluids and the vital force. You will survey liquid, solid and compound types, their fields of use, and the rules of safe handling.",
+    "ro": "Un modul de referință despre condensatoarele de fluide: ce sunt aceste substanțe și cum atrag, rețin și condensează fluidele electric și magnetic și forța vitală. Vei trece în revistă tipurile lichide, solide și compuse, domeniile lor de folosire și regulile de manipulare în siguranță."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.theme.condensers/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Mi a fluidkondenzátor?",
-        "en": "What Is a Fluid Condenser?"
+        "en": "What Is a Fluid Condenser?",
+        "ro": "Ce este un condensator de fluide?"
       },
       "text": {
         "hu": "A fluidkondenzátor neve pontosan azt mondja, amit az anyag tesz: **vonz, megköt és besűrít**. Ahogy a lencse egyetlen pontba gyűjti a szétszórt fényt, úgy gyűjti magába a kondenzátor az elektromos és a mágneses fluidumot, valamint az életerőt, amelyet a gyakorló beléje vetít. Nem varázsszer, hanem hordozó: olyan anyag, amelynek természete különösen alkalmas arra, hogy a finom erőket megtartsa és tömörítse.\n\n**1. Erősítő, nem forrás.** A kondenzátor önmagában halott anyag. Amit tárol, azt tőled kapja: a képzett akarat, a plasztikus képzelet és az érzés tölti fel. Ezért a legjobb kondenzátor is csak annyit ér, amennyit a mágus képes belé sűríteni — a gyenge töltés gyenge marad a legnemesebb anyagban is.\n\n**2. Soha nem pótlék.** A rendszeres képzés célja, hogy magadból formálj eszközt; a kondenzátor ezt a munkát felnagyítja, de nem helyettesíti. Aki külső segédeszközöktől várja a fejlődést, az a fáradságot spórolná meg — és pontosan a lényeget veszíti el. A képzett mágus kondenzátor nélkül is dolgozik; a kondenzátorral csak messzebbre nyúl.\n\n**3. Helye a képzésben.** A hagyomány a rendszeres út későbbi szakaszaihoz köti a kondenzátorok gyakorlati használatát, amikor a fluidumok tudatos irányítása már begyakorolt készség. Ez a modul referenciaként szolgál: tájékozódj belőle nyugodtan, de az alkalmazást hagyd arra az időre, amikor az alapok szilárdan állnak.",
-        "en": "The name says exactly what the substance does: a fluid condenser **attracts, binds and condenses**. As a lens gathers scattered light into a single point, the condenser gathers into itself the electric and magnetic fluids and the vital force that the practitioner projects into it. It is not a magic potion but a carrier: a material whose nature is unusually suited to holding and compacting the subtle forces.\n\n**1. An amplifier, not a source.** By itself a condenser is dead matter. Whatever it stores, it receives from you: the trained will, the plastic imagination and the feeling charge it. Even the finest condenser is therefore worth only as much as the magician can condense into it — a weak charge stays weak in the noblest material.\n\n**2. Never a substitute.** The purpose of systematic training is to forge yourself into the instrument; the condenser magnifies that work, it does not replace it. Whoever expects progress from external aids is trying to save the effort — and loses precisely the essence. The trained magician works without a condenser; with one, he simply reaches further.\n\n**3. Its place in the training.** The tradition ties the practical use of condensers to the later stages of the systematic path, when the conscious direction of the fluids is already a practised skill. This module serves as a reference: orient yourself here freely, but leave the application for the time when the foundations stand firm."
+        "en": "The name says exactly what the substance does: a fluid condenser **attracts, binds and condenses**. As a lens gathers scattered light into a single point, the condenser gathers into itself the electric and magnetic fluids and the vital force that the practitioner projects into it. It is not a magic potion but a carrier: a material whose nature is unusually suited to holding and compacting the subtle forces.\n\n**1. An amplifier, not a source.** By itself a condenser is dead matter. Whatever it stores, it receives from you: the trained will, the plastic imagination and the feeling charge it. Even the finest condenser is therefore worth only as much as the magician can condense into it — a weak charge stays weak in the noblest material.\n\n**2. Never a substitute.** The purpose of systematic training is to forge yourself into the instrument; the condenser magnifies that work, it does not replace it. Whoever expects progress from external aids is trying to save the effort — and loses precisely the essence. The trained magician works without a condenser; with one, he simply reaches further.\n\n**3. Its place in the training.** The tradition ties the practical use of condensers to the later stages of the systematic path, when the conscious direction of the fluids is already a practised skill. This module serves as a reference: orient yourself here freely, but leave the application for the time when the foundations stand firm.",
+        "ro": "Numele spune exact ce face substanța: un condensator de fluide **atrage, leagă și condensează**. Așa cum o lentilă adună lumina risipită într-un singur punct, condensatorul adună în sine fluidele electric și magnetic și forța vitală pe care practicantul le proiectează în el. Nu este o poțiune magică, ci un purtător: un material a cărui natură este neobișnuit de potrivită să țină și să compacteze forțele subtile.\n\n**1. Un amplificator, nu o sursă.** Singur, un condensator este materie moartă. Tot ce stochează primește de la tine: voința antrenată, imaginația plastică și încărcătura de simțire pe care i-o dai. Chiar și cel mai fin condensator valorează deci doar atât cât magicianul poate condensa în el — o încărcătură slabă rămâne slabă și în cel mai nobil material.\n\n**2. Niciodată un substitut.** Scopul antrenamentului sistematic este să te forjezi pe tine însuți ca instrument; condensatorul mărește acea muncă, nu o înlocuiește. Cine așteaptă progres de la ajutoare exterioare încearcă să economisească efortul — și pierde tocmai esența. Magicianul antrenat lucrează fără condensator; cu unul, pur și simplu ajunge mai departe.\n\n**3. Locul lui în antrenament.** Tradiția leagă folosirea practică a condensatoarelor de etapele mai târzii ale căii sistematice, când direcționarea conștientă a fluidelor este deja o îndemânare exersată. Acest modul servește ca referință: orientează-te aici liber, dar lasă aplicarea pentru vremea când temeliile stau ferme."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Típusok: folyékony, szilárd, összetett",
-        "en": "Types: Liquid, Solid, Compound"
+        "en": "Types: Liquid, Solid, Compound",
+        "ro": "Tipuri: lichid, solid, compus"
       },
       "text": {
         "hu": "A hagyomány három nagy csoportot különböztet meg. A felosztás nem kémiai, hanem gyakorlati: azt mutatja meg, milyen munkához milyen hordozó való.\n\n**1. Egyszerű folyékony kondenzátorok.** A klasszikus példa a gyógynövény-főzet — leggyakrabban a kamilláé —, amelyet alkohol tartósít, és egy leheletnyi arany úgy nyitja meg a főzetet, hogy az mohón magába issza az elektromos és a mágneses fluidumot, és keményen fogva is tartja. * Fontos: ez itt tájékoztató leírás, nem recept. Az elkészítés részletei az eredeti forrásműben szerepelnek, és csak a rendszeres képzés megfelelő fokán van értelmük. A folyékony kondenzátor sokoldalú: felületek bevonására, itatásra, átmeneti töltésekre való.\n\n**2. Szilárd kondenzátorok.** Ide gyanták, bizonyos fémek és ásványok tartoznak. Ott használatosak, ahol tartós hordozóra van szükség: a szilárd anyag hosszan őrzi a beléje sűrített töltést, ezért talizmánok és amulettek természetes alapanyaga.\n\n**3. Összetett kondenzátorok.** Több összetevő keveréke, erősebb és igényesebb munkákhoz. A több komponens nagyobb befogadóképességet ad — de nagyobb felelősséget is kíván, mert az erősebb hordozó az elhibázott töltést is hívebben megőrzi.\n\n**Melyiket válaszd?** Ez a kezdő kérdése, és a válasz megnyugtató: a legtöbb munkához az egyszerű kondenzátor bőven elegendő. Az erő nem az egzotikus összetevőlistában lakik, hanem a töltés minőségében — vagyis benned.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The tradition distinguishes three broad groups. The division is not chemical but practical: it shows which carrier suits which kind of work.\n\n**1. Simple liquid condensers.** The classic example is an herbal decoction — most often of chamomile — preserved with alcohol, and a breath of gold in it opens the brew so that it drinks the electric and magnetic fluids into itself and holds them fast. * Important: this is an orientation-level description, not a recipe. The details of preparation belong to the original source work and only make sense at the appropriate stage of systematic training. A liquid condenser is versatile: it serves for coating surfaces, for soaking, for temporary charges.\n\n**2. Solid condensers.** Resins, certain metals and minerals belong here. They are used where a lasting carrier is needed: solid matter guards the charge condensed into it for a long time, which makes it the natural base material of talismans and amulets.\n\n**3. Compound condensers.** Mixtures of several ingredients, meant for stronger and more demanding operations. More components give greater capacity — and demand greater responsibility, because a stronger carrier also preserves a botched charge more faithfully.\n\n**Which one should you choose?** It is the beginner's question, and the answer is reassuring: for most work the simple condenser is amply sufficient. The power does not live in an exotic ingredient list but in the quality of the charge — that is, in you.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The tradition distinguishes three broad groups. The division is not chemical but practical: it shows which carrier suits which kind of work.\n\n**1. Simple liquid condensers.** The classic example is an herbal decoction — most often of chamomile — preserved with alcohol, and a breath of gold in it opens the brew so that it drinks the electric and magnetic fluids into itself and holds them fast. * Important: this is an orientation-level description, not a recipe. The details of preparation belong to the original source work and only make sense at the appropriate stage of systematic training. A liquid condenser is versatile: it serves for coating surfaces, for soaking, for temporary charges.\n\n**2. Solid condensers.** Resins, certain metals and minerals belong here. They are used where a lasting carrier is needed: solid matter guards the charge condensed into it for a long time, which makes it the natural base material of talismans and amulets.\n\n**3. Compound condensers.** Mixtures of several ingredients, meant for stronger and more demanding operations. More components give greater capacity — and demand greater responsibility, because a stronger carrier also preserves a botched charge more faithfully.\n\n**Which one should you choose?** It is the beginner's question, and the answer is reassuring: for most work the simple condenser is amply sufficient. The power does not live in an exotic ingredient list but in the quality of the charge — that is, in you.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Tradiția deosebește trei grupuri largi. Împărțirea nu este chimică, ci practică: arată care purtător se potrivește cărui tip de lucru.\n\n**1. Condensatoare lichide simple.** Exemplul clasic este un decoct de plante — cel mai adesea de mușețel — conservat cu alcool, iar o suflare de aur în el deschide preparatul astfel încât bea în sine fluidele electric și magnetic și le ține strâns. * Important: aceasta este o descriere la nivel de orientare, nu o rețetă. Detaliile preparării aparțin operei-sursă originale și au sens doar la etapa potrivită a antrenamentului sistematic. Un condensator lichid este versatil: servește la acoperirea suprafețelor, la înmuiere, la încărcături temporare.\n\n**2. Condensatoare solide.** Aici intră rășinile, anumite metale și minerale. Se folosesc acolo unde e nevoie de un purtător de durată: materia solidă păzește multă vreme încărcătura condensată în ea, ceea ce o face materialul de bază natural al talismanelor și amuletelor.\n\n**3. Condensatoare compuse.** Amestecuri din mai multe ingrediente, menite unor operații mai puternice și mai pretențioase. Mai multe componente dau o capacitate mai mare — și cer o responsabilitate mai mare, pentru că un purtător mai puternic păstrează și o încărcătură ratată mai fidel.\n\n**Pe care să-l alegi?** Este întrebarea începătorului, iar răspunsul e liniștitor: pentru cea mai mare parte a lucrului, condensatorul simplu este din plin suficient. Puterea nu locuiește într-o listă exotică de ingrediente, ci în calitatea încărcăturii — adică în tine.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Felhasználás és biztonságos kezelés",
-        "en": "Uses and Safe Handling"
+        "en": "Uses and Safe Handling",
+        "ro": "Utilizări și manipulare în siguranță"
       },
       "text": {
         "hu": "Mire való a kondenzátor a gyakorlatban, és hogyan bánj vele úgy, hogy segítsen, ne ártson?\n\n**1. Felhasználási területek.** A hagyományos alkalmazások messzire nyúlnak. Bevonod a mágikus tükör felületét, és a feltöltött tükör távoli helyekre és időkre nyílik meg, és fogva tartja, amit megmutat. * Töltesz talizmánokat és amuletteket, ahol a szilárd hordozó évekre magába zárva őrzi a beléje sűrített erőt. Életre keltesz elementálokat — a töltéseddel létre hívott, élő gondolatlényeket — és más teremtő munkákat viszel véghez. * Végül előkészíted az impregnálási gyakorlatokat. Mindez a rendszeres képzés nyolcadik fokától jelenik meg, amikor a fluidumok irányítása már készség.\n\n**2. Elkészítés és tárolás.** A kondenzátort gondosan készítsd és gondosan tárold: tiszta edényben, lefedve, fénytől védve, minden esetben felcímkézve, hogy évek múlva is tudd, mi van benne. A rendetlenség itt nem szépséghiba, hanem hibaforrás.\n\n**3. Tartsd személyesen.** Az elkészített kondenzátor a te munkád lenyomatát hordozza. Ne add kölcsön, ne hagyd mások keze ügyében, és ne engedd, hogy illetéktelen hozzáérjen — az idegen érintés összezavarja és beszennyezi a tárolt töltést, és elszivárogtatja belőle az erőt. *\n\n**4. Biztonság mindenek előtt.** Két szabály nem alku tárgya. Először: a kondenzátort **soha ne vedd be** — külső használatra készül, nem fogyasztásra. Másodszor: tartsd távol másoktól, gyerekektől különösen. És a legfontosabb elv, amely az egészet keretezi: a külső segédeszköz erősít, de **a jellem irányít**. Amilyen az ember, olyan lesz a munkája — kondenzátorral is, anélkül is.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "What is a condenser for in practice, and how do you handle it so that it helps rather than harms?\n\n**1. Fields of use.** The traditional applications run wide. You coat the surface of the magic mirror, and the charged glass opens onto distant places and times and holds fast whatever it shows. * You charge talismans and amulets, where the solid carrier keeps the power sealed within it for years. You quicken elementaries — living thought-beings called into being by your charge — and carry out other creative works. * Finally you prepare the impregnation exercises. All of this appears from the eighth step of the systematic training onward, when directing the fluids is already a skill.\n\n**2. Preparation and storage.** Prepare the condenser with care and store it with care: in a clean vessel, covered, protected from light, and always labeled, so that years later you still know what it contains. Untidiness here is not a cosmetic flaw but a source of error.\n\n**3. Keep it personal.** A finished condenser carries the imprint of your work. Do not lend it, do not leave it within others' reach, and do not let unauthorized hands touch it — a stranger's touch muddies and fouls the stored charge and bleeds its power away. *\n\n**4. Safety above all.** Two rules are not negotiable. First: **never ingest** a condenser — it is made for external use, not for consumption. Second: keep it away from others, from children especially. And the principle that frames it all: the external aid amplifies, but **character directs**. As the person is, so will the work be — with a condenser or without one.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "What is a condenser for in practice, and how do you handle it so that it helps rather than harms?\n\n**1. Fields of use.** The traditional applications run wide. You coat the surface of the magic mirror, and the charged glass opens onto distant places and times and holds fast whatever it shows. * You charge talismans and amulets, where the solid carrier keeps the power sealed within it for years. You quicken elementaries — living thought-beings called into being by your charge — and carry out other creative works. * Finally you prepare the impregnation exercises. All of this appears from the eighth step of the systematic training onward, when directing the fluids is already a skill.\n\n**2. Preparation and storage.** Prepare the condenser with care and store it with care: in a clean vessel, covered, protected from light, and always labeled, so that years later you still know what it contains. Untidiness here is not a cosmetic flaw but a source of error.\n\n**3. Keep it personal.** A finished condenser carries the imprint of your work. Do not lend it, do not leave it within others' reach, and do not let unauthorized hands touch it — a stranger's touch muddies and fouls the stored charge and bleeds its power away. *\n\n**4. Safety above all.** Two rules are not negotiable. First: **never ingest** a condenser — it is made for external use, not for consumption. Second: keep it away from others, from children especially. And the principle that frames it all: the external aid amplifies, but **character directs**. As the person is, so will the work be — with a condenser or without one.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "La ce servește un condensator în practică și cum îl mânuiești ca să ajute, nu să dăuneze?\n\n**1. Domenii de folosire.** Aplicațiile tradiționale sunt largi. Acoperi suprafața oglinzii magice, iar sticla încărcată se deschide spre locuri și vremuri îndepărtate și ține strâns tot ce arată. * Încarci talismane și amulete, unde purtătorul solid ține puterea pecetluită în el ani de zile. Însuflețești elementare — ființe-gând vii chemate la viață de încărcătura ta — și împlinești alte lucrări creatoare. * În cele din urmă pregătești exercițiile de impregnare. Toate acestea apar de la al optulea pas al antrenamentului sistematic încolo, când direcționarea fluidelor este deja o îndemânare.\n\n**2. Preparare și păstrare.** Prepară condensatorul cu grijă și păstrează-l cu grijă: într-un vas curat, acoperit, ferit de lumină și întotdeauna etichetat, ca să știi și după ani ce conține. Neglijența aici nu e un defect cosmetic, ci o sursă de eroare.\n\n**3. Ține-l personal.** Un condensator isprăvit poartă amprenta muncii tale. Nu-l împrumuta, nu-l lăsa la îndemâna altora și nu lăsa mâini neautorizate să-l atingă — atingerea unui străin tulbură și spurcă încărcătura stocată și îi suge puterea. *\n\n**4. Siguranța înainte de toate.** Două reguli nu se negociază. Întâi: **nu ingera niciodată** un condensator — e făcut pentru uz exterior, nu pentru consum. Al doilea: ține-l departe de alții, mai ales de copii. Iar principiul care le încadrează pe toate: ajutorul exterior amplifică, dar **caracterul direcționează**. Cum e omul, așa va fi și lucrarea — cu condensator sau fără.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,7 +61,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Ellenőrző kvíz",
-        "en": "Check Quiz"
+        "en": "Check Quiz",
+        "ro": "Chestionar de verificare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -62,7 +71,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi a fluidkondenzátor alapvető szerepe a mágikus munkában?",
-              "en": "What is the fundamental role of a fluid condenser in magical work?"
+              "en": "What is the fundamental role of a fluid condenser in magical work?",
+              "ro": "Care este rolul fundamental al unui condensator de fluide în lucrarea magică?"
             },
             "options": {
               "hu": [
@@ -76,6 +86,12 @@
                 "As an amplifier it attracts and condenses the fluids, but never substitutes for trained ability",
                 "It generates forces by itself, independently of the magician",
                 "It is purely symbolic decoration with no practical role"
+              ],
+              "ro": [
+                "Înlocuiește practica îndelungată, deci funcționează fără nicio capacitate antrenată",
+                "Ca amplificator atrage și condensează fluidele, dar nu înlocuiește niciodată capacitatea antrenată",
+                "Generează forțe de la sine, independent de magician",
+                "Este pură decorație simbolică, fără niciun rol practic"
               ]
             },
             "correctIndex": 1
@@ -84,7 +100,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Melyik felsorolás tartalmaz klasszikus szilárd kondenzátor-anyagokat?",
-              "en": "Which list contains classic solid condenser materials?"
+              "en": "Which list contains classic solid condenser materials?",
+              "ro": "Care listă conține materiale clasice de condensator solid?"
             },
             "options": {
               "hu": [
@@ -98,6 +115,12 @@
                 "Only distilled water and sugar",
                 "Paper, plastic and glass wool",
                 "Any food that you eat"
+              ],
+              "ro": [
+                "Rășini, anumite metale și minerale",
+                "Doar apă distilată și zahăr",
+                "Hârtie, plastic și vată de sticlă",
+                "Orice mâncare pe care o mănânci"
               ]
             },
             "correctIndex": 0
@@ -106,7 +129,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Hogyan kezeld helyesen az elkészített kondenzátort?",
-              "en": "How should you handle a finished condenser correctly?"
+              "en": "How should you handle a finished condenser correctly?",
+              "ro": "Cum trebuie să mânuiești corect un condensator isprăvit?"
             },
             "options": {
               "hu": [
@@ -120,6 +144,12 @@
                 "Drink it regularly so it works from within",
                 "Keep it personal, covered and labeled, and never ingest it",
                 "Leave it open in sunlight so it charges by itself"
+              ],
+              "ro": [
+                "Împarte-l cu alții ca să devină mai puternic",
+                "Bea-l regulat ca să lucreze din interior",
+                "Ține-l personal, acoperit și etichetat, și nu-l ingera niciodată",
+                "Lasă-l deschis la soare ca să se încarce singur"
               ]
             },
             "correctIndex": 2
@@ -132,11 +162,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare a responsabilității"
       },
       "text": {
         "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
-        "en": "*A study aid based on Franz Bardon's „Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, consult a professional. Carry out the exercises ethically and patiently; mastery is the goal, not speed.*"
+        "en": "*A study aid based on Franz Bardon's „Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, consult a professional. Carry out the exercises ethically and patiently; mastery is the goal, not speed.*",
+        "ro": "*Un material de studiu bazat pe „Initiation Into Hermetics” a lui Franz Bardon. Textul este un rezumat original, nu un citat textual — pentru instrucțiunile complete citește întotdeauna cartea originală.*\n\n*Acesta nu este sfat medical sau psihologic. Dacă întâmpini dificultăți mentale sau emoționale, consultă un profesionist. Fă exercițiile cu etică și răbdare; țelul este măiestria, nu viteza.*"
       }
     }
   ]

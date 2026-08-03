@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Távérzékelés és a hely — az intuitív helyérzékelés gyakorlata",
-    "en": "Remote Viewing and Place — Intuitive Sensing of Location"
+    "en": "Remote Viewing and Place — Intuitive Sensing of Location",
+    "ro": "Remote Viewing și Locul — Simțirea intuitivă a locației"
   },
   "description": {
     "hu": "A hely intuitív érzékelésének becsületes gyakorlata a távérzékelés hagyománya nyomán: egy ismert vagy magad választotta, ellenőrizhető helyszín jellemének rétegzett érzékelése — előbb a nyers benyomás, majd a tágabb táj, végül a legközelebbi jellegzetesség —, azután a valósággal való összevetés mint kalibráció. A hagyomány saját modelljeként mutatjuk be, amelyet a belső gyümölcsei mérnek: a figyelem, az intuíció és az őszinte önértékelés éveken át tartó csiszolódása. Nem jóslás, nem eltűnt személyek keresése — önirányított belső gyakorlat.",
-    "en": "An honest practice of the intuitive sensing of place, after the remote-viewing tradition: the layered sensing of the character of a known or self-chosen, verifiable location — first the raw impression, then the wider landscape, finally the nearest feature — and then a comparison against reality as calibration. Presented as the tradition’s own model, measured by its inner fruits: the years-long honing of attention, intuition and honest self-assessment. Not divination, not the search for missing persons — a self-directed inner practice."
+    "en": "An honest practice of the intuitive sensing of place, after the remote-viewing tradition: the layered sensing of the character of a known or self-chosen, verifiable location — first the raw impression, then the wider landscape, finally the nearest feature — and then a comparison against reality as calibration. Presented as the tradition’s own model, measured by its inner fruits: the years-long honing of attention, intuition and honest self-assessment. Not divination, not the search for missing persons — a self-directed inner practice.",
+    "ro": "O practică onestă a simțirii intuitive a locului, după tradiția remote-viewing: simțirea pe straturi a caracterului unui loc cunoscut sau ales de tine, verificabil — mai întâi impresia brută, apoi peisajul mai larg, în cele din urmă trăsătura cea mai apropiată — și apoi o comparație cu realitatea ca calibrare. Prezentată ca modelul propriu al tradiției, măsurat după roadele sale lăuntrice: șlefuirea de-a lungul anilor a atenției, a intuiției și a autoevaluării oneste. Nu divinație, nu căutarea persoanelor dispărute — o practică interioară autodirijată."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.place/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a küszöbön",
-        "en": "Introduction — at the Threshold"
+        "en": "Introduction — at the Threshold",
+        "ro": "Introducere — la Prag"
       },
       "text": {
         "hu": "Álljunk meg a küszöbön, mert ez a modul egy sokat vitatott gyakorlatot vesz kézbe. A távérzékelés hagyománya szerint a figyelmed átível bármilyen távolságon: egy messzi vagy sosem látott helyszín jelleme eleven benyomásként bontakozik ki a lelki szemed előtt — a színei, a formái, a hangulata úgy érkeznek, mintha ott állnál. * A modul mégis becsületes marad: a benyomásaidat mindig a valósághoz méred, és közben az éles figyelmet, a türelmesebb intuíciót és mindenekelőtt az őszinte önértékelést csiszolod.\n\nAmit itt **megtartunk**: egy magad választotta vagy jól ismert, később **ellenőrizhető** helyszín jellemének rétegzett érzékelése, majd a valósággal való összevetés mint kalibráció. Ez becsületes figyelem- és intuíció-edzés, napló és őszinte önpontozás — semmi több, és semmi kevesebb.\n\nAmit **elhagyunk** — és később élesen kimondunk: eltűnt emberek, holttestek, bűncselekmények áldozatainak keresését; koordináták küldését bárkinek; szerencsejátékot, tőzsdét, „pénzt a pszível”; végítélet-jóslást és félelemből való készletezést; és bárki **megnevezett** ember beleegyezés nélküli célba vételét. A gyakorlat **önirányított**.\n\nA cél nem az, hogy bizonyíts egy erőt, hanem hogy **edzd a figyelmet és a megkülönböztetést** — és közben megtanuld, hol húzódik a határ a becsületes belső munka és a káros önámítás között.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "Let us pause at the threshold, for this module takes up a much-disputed practice. In the remote-viewing tradition, your attention reaches across any distance: the character of a far-off or never-seen place unfolds before your inner eye as a living impression — its colours, its shapes, its mood arriving as though you stood there. * Yet the module stays honest: you always measure your impressions against reality, honing meanwhile keen attention, more patient intuition and above all honest self-assessment.\n\nWhat we **keep** here: the layered sensing of the character of a self-chosen or well-known, later **verifiable** location, then the comparison against reality as calibration. This is honest training of attention and intuition, a journal and honest self-scoring — nothing more, and nothing less.\n\nWhat we **leave out** — and later state plainly: the search for missing people, bodies, or victims of crime; sending coordinates to anyone; gambling, trading, ‘money by psi’; doomsday prophecy and stockpiling from fear; and the targeting of any **named** person without consent. The practice is **self-directed**.\n\nThe aim is not to prove a power but to **train attention and discernment** — and, along the way, to learn where the boundary runs between honest inner work and harmful self-deception.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "Let us pause at the threshold, for this module takes up a much-disputed practice. In the remote-viewing tradition, your attention reaches across any distance: the character of a far-off or never-seen place unfolds before your inner eye as a living impression — its colours, its shapes, its mood arriving as though you stood there. * Yet the module stays honest: you always measure your impressions against reality, honing meanwhile keen attention, more patient intuition and above all honest self-assessment.\n\nWhat we **keep** here: the layered sensing of the character of a self-chosen or well-known, later **verifiable** location, then the comparison against reality as calibration. This is honest training of attention and intuition, a journal and honest self-scoring — nothing more, and nothing less.\n\nWhat we **leave out** — and later state plainly: the search for missing people, bodies, or victims of crime; sending coordinates to anyone; gambling, trading, ‘money by psi’; doomsday prophecy and stockpiling from fear; and the targeting of any **named** person without consent. The practice is **self-directed**.\n\nThe aim is not to prove a power but to **train attention and discernment** — and, along the way, to learn where the boundary runs between honest inner work and harmful self-deception.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Să ne oprim o clipă la prag, căci acest modul abordează o practică mult disputată. În tradiția remote-viewing, atenția ta ajunge dincolo de orice distanță: caracterul unui loc îndepărtat sau niciodată văzut se desfășoară înaintea ochiului tău interior ca o impresie vie — culorile lui, formele lui, atmosfera lui sosind ca și cum ai fi acolo. * Totuși modulul rămâne onest: îți măsori întotdeauna impresiile față de realitate, șlefuind între timp o atenție ascuțită, o intuiție mai răbdătoare și mai ales o autoevaluare onestă.\n\nCe **păstrăm** aici: simțirea pe straturi a caracterului unui loc ales de tine sau bine cunoscut, ulterior **verificabil**, apoi comparația cu realitatea ca calibrare. Acesta este antrenament onest al atenției și intuiției, un jurnal și o notare onestă de sine — nimic mai mult și nimic mai puțin.\n\nCe **lăsăm deoparte** — și o spunem mai târziu pe față: căutarea persoanelor dispărute, a cadavrelor sau a victimelor infracțiunilor; trimiterea de coordonate oricui; jocuri de noroc, tranzacții, «bani prin psi»; profeții apocaliptice și stocarea de provizii din frică; și țintirea oricărei persoane **numite** fără consimțământ. Practica este **autodirijată**.\n\nScopul nu este să dovedești o putere, ci să **antrenezi atenția și discernământul** — și, pe drum, să înveți unde trece granița dintre munca interioară onestă și autoamăgirea dăunătoare.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A hagyomány modellje — a hűvös, tárgyilagos jelenlét",
-        "en": "The Tradition’s Model — Cool, Detached Presence"
+        "en": "The Tradition’s Model — Cool, Detached Presence",
+        "ro": "Modelul Tradiției — Prezență rece, detașată"
       },
       "text": {
         "hu": "A hagyomány egy egyszerű, de fegyelmezett modellel dolgozik, és érdemes a saját nyelvén megérteni — anélkül, hogy igaznak vagy hamisnak kiáltanánk ki.\n\n— **Egyetlen benyomás megbízhatatlan.** A hagyomány maga is elismeri, hogy bármely önálló ülés tele lehet zajjal, tévedéssel, a vágyaid vetületével. Ezért nem egy villanásra épít, hanem **sok, ismételt ülés mintázatára**. Ami egyszer felbukkan, az lehet véletlen; ami újra és újra visszatér a független ülésekben, az a helyszín valódi jele, amely áttör a benyomások zaján. *\n\n— **A hűvös, tárgyilagos jelenlét.** A hagyomány szerint az érzelmi befektetés torzít: ha nagyon *akarsz* egy eredményt, a vágyad kitölti az ürességet, és elhiszed, amit remélsz. A gyakorló ezért igyekszik **higgadt, semleges, majdnem tárgyilagos** maradni — rögzíti a nyers benyomást, és nem sző belőle történetet. Ez ugyanaz a nyugalom, amit Bardon egyensúlya és Thot semleges írnoka tanít.\n\n— **A kalibráció mint mérce.** A gyakorlat lelke nem a „találat”, hanem a **visszamérés**: leírod a benyomást, majd összeveted a valósággal, és **őszintén** megpontozod, mi egyezett és mi nem. Nem a sikert ünnepled és a kudarcot felejted — épp fordítva: a tévedés a tanítód. Ez a szelektív emlékezet csapdájának pontos ellentéte.\n\nA becsületes mérce tehát végig **belső**: nem az, hogy „megtaláltál-e” valamit, hanem hogy élesebb, türelmesebb és őszintébb lettél-e hónapról hónapra. Ha valaha azon kapod magad, hogy a benyomásaidat tényként kezeled, vagy döntéseket építesz rájuk — állj meg. A modell **gyakorlat**, nem orákulum.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The tradition works with a simple but disciplined model, and it is worth understanding in its own language — without declaring it either true or false.\n\n— **A single impression is unreliable.** The tradition itself admits that any lone session can be full of noise, error, the projection of your wishes. So it builds not on one flash but on the **pattern across many, repeated sessions**. What surfaces once may be chance; what returns again and again across independent sessions is the place's true signal breaking through the noise of impressions. *\n\n— **Cool, detached presence.** The tradition holds that emotional investment distorts: if you strongly *want* a result, your desire fills the emptiness and you believe what you hope. The practitioner therefore tries to stay **calm, neutral, almost matter-of-fact** — recording the raw impression and weaving no story from it. This is the same steadiness taught by Bardon’s equilibrium and Thoth’s neutral scribe.\n\n— **Calibration as the measure.** The soul of the practice is not the ‘hit’ but the **checking back**: you write down the impression, then compare it with reality and **honestly** score what matched and what did not. You do not celebrate the success and forget the failure — quite the reverse: error is your teacher. This is the exact opposite of the trap of selective memory.\n\nThe honest measure, then, is throughout **inner**: not whether you ‘found’ something, but whether you have become sharper, more patient and more honest month by month. If you ever catch yourself treating your impressions as facts, or building decisions on them — stop. The model is a **practice**, not an oracle.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The tradition works with a simple but disciplined model, and it is worth understanding in its own language — without declaring it either true or false.\n\n— **A single impression is unreliable.** The tradition itself admits that any lone session can be full of noise, error, the projection of your wishes. So it builds not on one flash but on the **pattern across many, repeated sessions**. What surfaces once may be chance; what returns again and again across independent sessions is the place's true signal breaking through the noise of impressions. *\n\n— **Cool, detached presence.** The tradition holds that emotional investment distorts: if you strongly *want* a result, your desire fills the emptiness and you believe what you hope. The practitioner therefore tries to stay **calm, neutral, almost matter-of-fact** — recording the raw impression and weaving no story from it. This is the same steadiness taught by Bardon’s equilibrium and Thoth’s neutral scribe.\n\n— **Calibration as the measure.** The soul of the practice is not the ‘hit’ but the **checking back**: you write down the impression, then compare it with reality and **honestly** score what matched and what did not. You do not celebrate the success and forget the failure — quite the reverse: error is your teacher. This is the exact opposite of the trap of selective memory.\n\nThe honest measure, then, is throughout **inner**: not whether you ‘found’ something, but whether you have become sharper, more patient and more honest month by month. If you ever catch yourself treating your impressions as facts, or building decisions on them — stop. The model is a **practice**, not an oracle.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Tradiția lucrează cu un model simplu, dar disciplinat, și merită să-l înțelegi în limbajul lui propriu — fără a-l declara nici adevărat, nici fals.\n\n— **O singură impresie este nesigură.** Tradiția însăși recunoaște că orice sesiune izolată poate fi plină de zgomot, eroare, proiecția dorințelor tale. Așa că nu se bazează pe un singur fulger, ci pe **tiparul de-a lungul multor sesiuni repetate**. Ce apare o dată poate fi întâmplare; ce se întoarce iar și iar de-a lungul sesiunilor independente este semnalul adevărat al locului care străbate zgomotul impresiilor. *\n\n— **Prezență rece, detașată.** Tradiția susține că investiția emoțională distorsionează: dacă *vrei* cu putere un rezultat, dorința ta umple golul și crezi ceea ce speri. Practicianul încearcă deci să rămână **calm, neutru, aproape sec** — înregistrând impresia brută și fără a țese o poveste din ea. Aceasta este aceeași statornicie pe care o predă echilibrul lui Bardon și scribul neutru al lui Thoth.\n\n— **Calibrarea ca măsură.** Sufletul practicii nu este «nimerirea», ci **verificarea înapoi**: notezi impresia, apoi o compari cu realitatea și notezi **onest** ce s-a potrivit și ce nu. Nu celebrezi reușita și uiți eșecul — dimpotrivă: greșeala este învățătorul tău. Acesta este exact opusul capcanei memoriei selective.\n\nMăsura onestă, așadar, este pe tot parcursul **lăuntrică**: nu dacă ai «găsit» ceva, ci dacă ai devenit mai ascuțit, mai răbdător și mai onest lună de lună. Dacă te prinzi vreodată tratându-ți impresiile ca pe fapte, sau clădind decizii pe ele — oprește-te. Modelul este o **practică**, nu un oracol.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A módszer — a rétegzett érzékelés lépései",
-        "en": "The Method — Steps of Layered Sensing"
+        "en": "The Method — Steps of Layered Sensing",
+        "ro": "Metoda — Pașii simțirii pe straturi"
       },
       "text": {
         "hu": "A módszer magja egyszerű: **a durvától a finom felé haladsz, majd összeveted a valósággal.** Így épül fel egy ülés.\n\n— **A célpont — ellenőrizhető és etikus.** Válassz olyan helyszínt, amelyet később **tényleg ellenőrizni tudsz**: egy jól ismert helyet, amelyet frissen, elfogulatlanul írsz le, vagy kérj meg egy megbízható társat, hogy zárjon borítékba egy **hétköznapi, nyilvános hely** (tér, park, épület, tájrészlet) fényképét — soha nem embert, nem magánlakást, nem eltűnt személyt. A szabály: legyen **visszamérhető**, és legyen **ártalmatlan**.\n\n— **A horgony-leírás (nyers benyomás).** Ülj le a lezárt cédulával vagy a választott hellyel, csendesedj el, és **rögzítsd a nyers benyomásokat** — anélkül, hogy értelmeznéd. Építmény-e vagy nyílt tér? Föld felett vagy alatt? Milyen a felülete, a színe, a hangja, a hőmérséklete? És különösen: milyen az **összhatása, a hangulata** — nyugodt, nyüzsgő, tágas, zárt? Ne szőj történetet, ne találgass nevet. A nyers adat a legértékesebb; a magyarázat rontja el.\n\n— **A rétegek — a tágtól a közelig.** Ha megvan az első benyomás, tágíts ki: a **tágabb táj** kitárul a belső látásod előtt, és a környék legmarkánsabb jele élesen kirajzolódik, mintha fentről lebegnél fölötte. * Aztán szűkíts: a **helyszínhez legközelebbi feltűnő jellegzetesség** magától lép elő a képből. * Így fokozatosan élesíted a képet, ahelyett, hogy egyetlen tippre ugranál.\n\n— **Az összevetés és az őszinte pontozás.** Csak ezután nézd meg a valóságot — a fényképet, a helyet, a térképet. Vesd össze pontról pontra: mi egyezett, mi nem, mi volt közeli, mi teljes tévedés. Írd le **becsületesen**, a kudarcot is. Majd — a hagyomány szava szerint — **ismételd**: újabb ülés, újabb célpont, hétről hétre. Nem egy tökéletes ülésre törekszel, hanem a **mintázat és az önismeret** lassú épülésére.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The core of the method is simple: **you move from the coarse to the fine, then compare with reality.** A session is built like this.\n\n— **The target — verifiable and ethical.** Choose a location you can **actually check** afterwards: a well-known place you describe freshly and without bias, or ask a trusted partner to seal in an envelope a photo of an **ordinary, public place** (a square, a park, a building, a stretch of landscape) — never a person, never a private home, never a missing individual. The rule: it must be **checkable**, and it must be **harmless**.\n\n— **The anchor description (raw impression).** Sit with the sealed slip or the chosen place, grow quiet, and **record the raw impressions** — without interpreting. Is it a structure or open ground? Above or below the earth? What is its surface, its colour, its sound, its temperature? And especially: what is its **overall feel, its mood** — calm, bustling, spacious, enclosed? Weave no story, guess no name. The raw data is the most valuable; explanation spoils it.\n\n— **The layers — from wide to near.** Once you have the first impression, widen out: the **broader landscape** opens before your inner eye, and the region’s most striking mark stands out sharply, as though you hovered above it. * Then narrow in: the **most notable feature nearest the site** steps forward of its own accord. * In this way you sharpen the picture gradually, instead of leaping to a single guess.\n\n— **The comparison and the honest scoring.** Only then look at reality — the photo, the place, the map. Compare point by point: what matched, what did not, what was close, what was wholly wrong. Write it down **honestly**, the failures too. Then — in the tradition’s word — **repeat**: another session, another target, week by week. You aim not for one perfect session but for the slow building of **pattern and self-knowledge**.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The core of the method is simple: **you move from the coarse to the fine, then compare with reality.** A session is built like this.\n\n— **The target — verifiable and ethical.** Choose a location you can **actually check** afterwards: a well-known place you describe freshly and without bias, or ask a trusted partner to seal in an envelope a photo of an **ordinary, public place** (a square, a park, a building, a stretch of landscape) — never a person, never a private home, never a missing individual. The rule: it must be **checkable**, and it must be **harmless**.\n\n— **The anchor description (raw impression).** Sit with the sealed slip or the chosen place, grow quiet, and **record the raw impressions** — without interpreting. Is it a structure or open ground? Above or below the earth? What is its surface, its colour, its sound, its temperature? And especially: what is its **overall feel, its mood** — calm, bustling, spacious, enclosed? Weave no story, guess no name. The raw data is the most valuable; explanation spoils it.\n\n— **The layers — from wide to near.** Once you have the first impression, widen out: the **broader landscape** opens before your inner eye, and the region’s most striking mark stands out sharply, as though you hovered above it. * Then narrow in: the **most notable feature nearest the site** steps forward of its own accord. * In this way you sharpen the picture gradually, instead of leaping to a single guess.\n\n— **The comparison and the honest scoring.** Only then look at reality — the photo, the place, the map. Compare point by point: what matched, what did not, what was close, what was wholly wrong. Write it down **honestly**, the failures too. Then — in the tradition’s word — **repeat**: another session, another target, week by week. You aim not for one perfect session but for the slow building of **pattern and self-knowledge**.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Nucleul metodei este simplu: **treci de la grosier la fin, apoi compari cu realitatea.** O sesiune se construiește astfel.\n\n— **Ținta — verificabilă și etică.** Alege o locație pe care o poți **verifica cu adevărat** după aceea: un loc bine cunoscut pe care îl descrii proaspăt și fără prejudecăți, sau roagă un partener de încredere să sigileze într-un plic o fotografie a unui **loc obișnuit, public** (o piață, un parc, o clădire, o întindere de peisaj) — niciodată o persoană, niciodată o casă particulară, niciodată o persoană dispărută. Regula: trebuie să fie **verificabilă** și trebuie să fie **inofensivă**.\n\n— **Descrierea-ancoră (impresia brută).** Stai cu biletul sigilat sau cu locul ales, liniștește-te și **înregistrează impresiile brute** — fără a interpreta. Este o structură sau teren deschis? Deasupra sau sub pământ? Care este suprafața lui, culoarea, sunetul, temperatura? Și mai ales: care este **senzația de ansamblu, atmosfera lui** — calm, aglomerat, spațios, închis? Nu țese nicio poveste, nu ghici niciun nume. Datele brute sunt cele mai valoroase; explicația le strică.\n\n— **Straturile — de la larg la aproape.** Odată ce ai prima impresie, lărgește: **peisajul mai larg** se deschide înaintea ochiului tău interior, iar semnul cel mai izbitor al regiunii se conturează clar, ca și cum ai pluti deasupra lui. * Apoi îngustează: **cea mai notabilă trăsătură din imediata apropiere a locului** iese înainte de la sine. * În felul acesta ascuți treptat imaginea, în loc să sari la o singură ghicitură.\n\n— **Comparația și notarea onestă.** Abia atunci privește realitatea — fotografia, locul, harta. Compară punct cu punct: ce s-a potrivit, ce nu, ce a fost aproape, ce a fost cu totul greșit. Scrie **onest**, și eșecurile. Apoi — în cuvântul tradiției — **repetă**: o altă sesiune, o altă țintă, săptămână de săptămână. Nu țintești o sesiune perfectă, ci construirea lentă a **tiparului și a cunoașterii de sine**.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,27 +61,31 @@
       "kind": "timer",
       "nevek": {
         "hu": "A horgony-ülés — 12 perc",
-        "en": "The Anchor Session — 12 min"
+        "en": "The Anchor Session — 12 min",
+        "ro": "Sesiunea Ancoră — 12 min"
       },
       "timer": {
         "durationSeconds": 720,
         "instructions": {
           "hu": "Készíts elő egy lezárt cédulát egy hétköznapi, nyilvános helyről, vagy válassz egy jól ismert helyet. Csendesedj el néhány lélegzettel. Aztán rögzíts írásban minden nyers benyomást: építmény vagy nyílt tér, fent vagy lent, felület, szín, hang, hőmérséklet, és az összhatás hangulata. Ne értelmezz, ne találgass nevet — csak a nyers adat. A vége felé állj meg, és semmit ne told hozzá. Az összevetést most még ne végezd el.",
-          "en": "Prepare a sealed slip for an ordinary, public place, or choose a well-known one. Grow quiet with a few breaths. Then record in writing every raw impression: structure or open ground, above or below, surface, colour, sound, temperature, and the mood of the whole. Do not interpret, do not guess a name — only the raw data. Toward the end, stop and add nothing more. Do not do the comparison yet."
+          "en": "Prepare a sealed slip for an ordinary, public place, or choose a well-known one. Grow quiet with a few breaths. Then record in writing every raw impression: structure or open ground, above or below, surface, colour, sound, temperature, and the mood of the whole. Do not interpret, do not guess a name — only the raw data. Toward the end, stop and add nothing more. Do not do the comparison yet.",
+          "ro": "Pregătește un bilet sigilat pentru un loc obișnuit, public, sau alege unul bine cunoscut. Liniștește-te cu câteva respirații. Apoi notează în scris fiecare impresie brută: structură sau teren deschis, deasupra sau dedesubt, suprafață, culoare, sunet, temperatură și starea de spirit a întregului. Nu interpreta, nu ghici un nume — doar datele brute. Spre final, oprește-te și nu mai adăuga nimic. Nu face încă comparația."
         },
         "intervals": [
           {
             "atSecond": 360,
             "label": {
               "hu": "Csak a nyers adat",
-              "en": "Only the raw data"
+              "en": "Only the raw data",
+              "ro": "Doar datele brute"
             }
           },
           {
             "atSecond": 660,
             "label": {
               "hu": "Zárd le — ne told hozzá",
-              "en": "Close it — add nothing"
+              "en": "Close it — add nothing",
+              "ro": "Închide — nu mai adăuga nimic"
             }
           }
         ]
@@ -84,20 +96,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "A rétegek — a tágtól a közelig — 10 perc",
-        "en": "The Layers — from Wide to Near — 10 min"
+        "en": "The Layers — from Wide to Near — 10 min",
+        "ro": "Straturile — de la Larg la Aproape — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "A horgony-ülésre építve. Az első felében tágíts ki: érzékeld és jegyezd le a tágabb táj legjellegzetesebb, legmarkánsabb vonását — mintha messziről néznéd a környéket. A második felében szűkíts: mi a helyszínhez legközelebbi, legfeltűnőbb jellegzetesség? Végül rögzítsd az összhatást, a hely hangulatát egy-két szóban. Maradj higgadt és tárgyilagos; ne ugorj tippre, és a valóságot még ne nézd meg.",
-          "en": "Building on the anchor session. In the first half, widen out: sense and note the most characteristic, most striking feature of the broader landscape — as if viewing the region from afar. In the second half, narrow in: what is the most notable feature nearest the site? Finally, record the overall feel, the mood of the place, in a word or two. Stay calm and matter-of-fact; do not leap to a guess, and do not look at reality yet."
+          "en": "Building on the anchor session. In the first half, widen out: sense and note the most characteristic, most striking feature of the broader landscape — as if viewing the region from afar. In the second half, narrow in: what is the most notable feature nearest the site? Finally, record the overall feel, the mood of the place, in a word or two. Stay calm and matter-of-fact; do not leap to a guess, and do not look at reality yet.",
+          "ro": "Pornind de la sesiunea ancoră. În prima jumătate, lărgește-te: simte și notează cea mai caracteristică, cea mai izbitoare trăsătură a peisajului mai larg — ca și cum ai privi regiunea de departe. În a doua jumătate, apropie-te: care este cea mai notabilă trăsătură cea mai apropiată de loc? În final, notează senzația de ansamblu, starea locului, într-un cuvânt sau două. Rămâi calm și obiectiv; nu sari la o ghicitură și nu te uita încă la realitate."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "Most a legközelebbi jellegzetesség",
-              "en": "Now the nearest feature"
+              "en": "Now the nearest feature",
+              "ro": "Acum trăsătura cea mai apropiată"
             }
           }
         ]
@@ -108,11 +123,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Megkülönböztetés és etika — a szilárd kerítés",
-        "en": "Discernment and Ethics — the Firm Fence"
+        "en": "Discernment and Ethics — the Firm Fence",
+        "ro": "Discernământ și Etică — Gardul Ferm"
       },
       "text": {
         "hu": "Ez a modul legfontosabb lecke, és nem alku tárgya. A távérzékelés hagyományában sok minden **káros vagy veszélyes** — ezeket itt **elutasítjuk**, és megmondjuk, miért.\n\n— **Eltűnt emberek, holttestek, áldozatok — soha.** Ne használd ezt a gyakorlatot eltűnt személy, holttest vagy bűncselekmény áldozatának keresésére, és **soha ne küldj „koordinátákat” vagy tippeket** családoknak vagy hatóságoknak. Egy jó szándékú, de téves nyom valódi embereket terel félre, valódi nyomozásokat mérgez meg, és valódi fájdalmat okoz. Ez nem a te dolgod — ez a szakembereké.\n\n— **Semmi haszonszerzés.** Nincs szerencsejáték, nincs tőzsde, nincs „pénzt a pszível”. Aki nyereséget ígér intuícióból, az önmagát vagy téged csap be.\n\n— **Semmi végítélet-jóslás.** A gyakorlat nem katasztrófa-dátumokra, félelemből való készletezésre vagy a szomszédaidtól való elzárkózásra való. A félelem rossz tanácsadó és rossz mágia.\n\n— **Megnevezett másik ember csak beleegyezéssel.** Ne vedd célba, ne „olvasd”, ne figyeld egy konkrét, megnevezett ember magánéletét a hozzájárulása nélkül. Bardon etikája világos: tiszteld a **szabad akaratot**. A gyakorlat **önirányított** — magadról, magad választotta, ártalmatlan helyszínekről szól.\n\n— **Orvosi kerítés — komolyan.** Ez a gyakorlat képzelet- és figyelem-munka, nem gyógymód, és **nem** helyettesít semmilyen orvosi vagy pszichológiai ellátást. Ha **parancsoló hangokat** hallasz, ha úgy érzed, egy „üzenet” arra késztet, hogy **magadban vagy másban kárt tegyél**, vagy ha elveszíted a kapcsolatot a valósággal — az **orvosi vészhelyzet**. Azonnal fordulj szakemberhez vagy a sürgősségi szolgálathoz. Ez nem gyengeség, hanem józanság; és semmilyen belső gyakorlat nem halaszthatja vagy pótolhatja az ellátást.\n\n**A becsületes keret, még egyszer:** a benyomásaid **nem tények**. Ne építs rájuk döntést, ne riogass velük senkit, ne add ki magad látónak. A mérce belső: több figyelem, több türelem, több őszinteség. Ha ezt tartod, a gyakorlat gazdagít; ha elengeded, önámítássá és mások megkárosításává válik.",
-        "en": "This is the module’s most important lesson, and it is not open to bargaining. Much in the remote-viewing tradition is **harmful or dangerous** — these things we **refuse** here, and we say why.\n\n— **Missing people, bodies, victims — never.** Do not use this practice to search for a missing person, a body, or the victim of a crime, and **never send ‘coordinates’ or guesses** to families or authorities. A well-meaning but mistaken lead misdirects real people, poisons real investigations, and causes real pain. This is not your task — it belongs to professionals.\n\n— **No gain.** No gambling, no trading, no ‘money by psi’. Whoever promises profit from intuition is deceiving themselves or you.\n\n— **No doomsday prophecy.** The practice is not for catastrophe dates, stockpiling from fear, or shutting yourself off from your neighbours. Fear is a poor counsellor and poor magic.\n\n— **A named other person only with consent.** Do not target, ‘read’, or observe the private life of a specific, named person without their consent. Bardon’s ethics are clear: honour **free will**. The practice is **self-directed** — about yourself, about self-chosen, harmless locations.\n\n— **A medical fence — in earnest.** This practice is work of imagination and attention, not a cure, and it **does not** replace any medical or psychological care. If you hear **commanding voices**, if you feel a ‘message’ urging you to **harm yourself or another**, or if you lose contact with reality — that is a **medical emergency**. Turn at once to a professional or the emergency services. This is not weakness but sanity; and no inner practice may ever delay or replace care.\n\n**The honest frame, once more:** your impressions are **not facts**. Build no decision on them, frighten no one with them, do not pass yourself off as a seer. The measure is inner: more attention, more patience, more honesty. Hold to this and the practice enriches you; let it go and it becomes self-deception and harm to others."
+        "en": "This is the module’s most important lesson, and it is not open to bargaining. Much in the remote-viewing tradition is **harmful or dangerous** — these things we **refuse** here, and we say why.\n\n— **Missing people, bodies, victims — never.** Do not use this practice to search for a missing person, a body, or the victim of a crime, and **never send ‘coordinates’ or guesses** to families or authorities. A well-meaning but mistaken lead misdirects real people, poisons real investigations, and causes real pain. This is not your task — it belongs to professionals.\n\n— **No gain.** No gambling, no trading, no ‘money by psi’. Whoever promises profit from intuition is deceiving themselves or you.\n\n— **No doomsday prophecy.** The practice is not for catastrophe dates, stockpiling from fear, or shutting yourself off from your neighbours. Fear is a poor counsellor and poor magic.\n\n— **A named other person only with consent.** Do not target, ‘read’, or observe the private life of a specific, named person without their consent. Bardon’s ethics are clear: honour **free will**. The practice is **self-directed** — about yourself, about self-chosen, harmless locations.\n\n— **A medical fence — in earnest.** This practice is work of imagination and attention, not a cure, and it **does not** replace any medical or psychological care. If you hear **commanding voices**, if you feel a ‘message’ urging you to **harm yourself or another**, or if you lose contact with reality — that is a **medical emergency**. Turn at once to a professional or the emergency services. This is not weakness but sanity; and no inner practice may ever delay or replace care.\n\n**The honest frame, once more:** your impressions are **not facts**. Build no decision on them, frighten no one with them, do not pass yourself off as a seer. The measure is inner: more attention, more patience, more honesty. Hold to this and the practice enriches you; let it go and it becomes self-deception and harm to others.",
+        "ro": "Aceasta este cea mai importantă lecție a modulului și nu este deschisă negocierii. Mult din tradiția remote-viewing este **dăunător sau periculos** — aceste lucruri le **refuzăm** aici și spunem de ce.\n\n— **Persoane dispărute, cadavre, victime — niciodată.** Nu folosi această practică pentru a căuta o persoană dispărută, un cadavru sau victima unei crime și **nu trimite niciodată «coordonate» sau ghicituri** familiilor sau autorităților. O pistă bine intenționată, dar greșită, îndrumă greșit oameni reali, otrăvește investigații reale și provoacă durere reală. Aceasta nu este sarcina ta — aparține profesioniștilor.\n\n— **Fără câștig.** Fără jocuri de noroc, fără tranzacții, fără «bani prin psi». Cine promite profit din intuiție se înșală pe sine sau pe tine.\n\n— **Fără profeții apocaliptice.** Practica nu este pentru date de catastrofă, aprovizionare din frică sau izolarea de vecini. Frica este un sfătuitor prost și o magie proastă.\n\n— **O altă persoană numită doar cu consimțământ.** Nu ținti, nu «citi» și nu observa viața privată a unei persoane anume, numite, fără consimțământul ei. Etica lui Bardon este clară: onorează **liberul arbitru**. Practica este **orientată spre sine** — despre tine, despre locuri alese de tine, inofensive.\n\n— **Un gard medical — pe bune.** Această practică este muncă de imaginație și atenție, nu un leac, și **nu** înlocuiește nicio îngrijire medicală sau psihologică. Dacă auzi **voci care poruncesc**, dacă simți un «mesaj» care te îndeamnă să **te rănești pe tine sau pe altcineva**, sau dacă pierzi contactul cu realitatea — aceasta este o **urgență medicală**. Îndreaptă-te de îndată către un profesionist sau serviciile de urgență. Aceasta nu este slăbiciune, ci sănătate mintală; și nicio practică interioară nu poate amâna sau înlocui vreodată îngrijirea.\n\n**Cadrul onest, încă o dată:** impresiile tale **nu sunt fapte**. Nu clădi nicio decizie pe ele, nu speria pe nimeni cu ele, nu te da drept văzător. Măsura este lăuntrică: mai multă atenție, mai multă răbdare, mai multă onestitate. Ține-te de asta și practica te îmbogățește; las-o deoparte și devine autoamăgire și vătămare a altora."
       }
     },
     {
@@ -120,20 +137,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "A belső menedék — 12 perc",
-        "en": "The Inner Sanctuary — 12 min"
+        "en": "The Inner Sanctuary — 12 min",
+        "ro": "Sanctuarul Interior — 12 min"
       },
       "timer": {
         "durationSeconds": 720,
         "instructions": {
           "hu": "Ez tisztán belső gyakorlat — a képzelet menedéke, nem egy valós hely, amit el kell foglalni, és semmi köze katasztrófához vagy meneküléshez. Csukd le a szemed, és építs fel gondolatban egy helyet, ahol teljes nyugalomban és biztonságban vagy: lehet ismert vagy elképzelt — szoba, kert, tengerpart, erdei tisztás. Rakd hozzá a részleteket rétegről rétegre: a fényt, a hangokat, a felületeket, a levegő hőmérsékletét, amíg eleven lesz. Időzz benne csendesen. Ez a hely a tiéd; bármikor visszatérhetsz ide lecsendesedni, egy érzékelő ülés előtt vagy után.",
-          "en": "This is a purely inner practice — a sanctuary of the imagination, not a real place to be occupied, and nothing to do with catastrophe or flight. Close your eyes and build in thought a place where you are wholly at peace and safe: it may be known or imagined — a room, a garden, a shore, a forest clearing. Add the details layer by layer: the light, the sounds, the surfaces, the temperature of the air, until it is vivid. Rest in it quietly. This place is yours; you may return here anytime to grow calm, before or after a sensing session."
+          "en": "This is a purely inner practice — a sanctuary of the imagination, not a real place to be occupied, and nothing to do with catastrophe or flight. Close your eyes and build in thought a place where you are wholly at peace and safe: it may be known or imagined — a room, a garden, a shore, a forest clearing. Add the details layer by layer: the light, the sounds, the surfaces, the temperature of the air, until it is vivid. Rest in it quietly. This place is yours; you may return here anytime to grow calm, before or after a sensing session.",
+          "ro": "Aceasta este o practică pur interioară — un sanctuar al imaginației, nu un loc real de ocupat, și nu are nimic de-a face cu catastrofa sau fuga. Închide ochii și construiește în gând un loc unde ești pe deplin în pace și în siguranță: poate fi cunoscut sau imaginat — o cameră, o grădină, un țărm, o poiană. Adaugă detaliile strat cu strat: lumina, sunetele, suprafețele, temperatura aerului, până devine viu. Odihnește-te în el în liniște. Acest loc este al tău; te poți întoarce oricând aici ca să te liniștești, înainte sau după o sesiune de simțire."
         },
         "intervals": [
           {
             "atSecond": 360,
             "label": {
               "hu": "Told hozzá a részleteket",
-              "en": "Add the details"
+              "en": "Add the details",
+              "ro": "Adaugă detaliile"
             }
           }
         ]
@@ -144,7 +164,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A gyakorlat ellenőrzőlistája",
-        "en": "The Practice Checklist"
+        "en": "The Practice Checklist",
+        "ro": "Lista de Verificare a Practicii"
       },
       "checklist": {
         "items": [
@@ -152,49 +173,56 @@
             "key": "rvp-c1",
             "nevek": {
               "hu": "A célpont ellenőrizhető ÉS etikus — hétköznapi, nyilvános hely, soha nem személy",
-              "en": "The target is verifiable AND ethical — an ordinary, public place, never a person"
+              "en": "The target is verifiable AND ethical — an ordinary, public place, never a person",
+              "ro": "Ținta este verificabilă ȘI etică — un loc obișnuit, public, niciodată o persoană"
             }
           },
           {
             "key": "rvp-c2",
             "nevek": {
               "hu": "A horgony-leírás nyersen elkészült, értelmezés és névtalálgatás nélkül",
-              "en": "The anchor description done raw, without interpretation or name-guessing"
+              "en": "The anchor description done raw, without interpretation or name-guessing",
+              "ro": "Descrierea ancoră făcută brut, fără interpretare sau ghicit de nume"
             }
           },
           {
             "key": "rvp-c3",
             "nevek": {
               "hu": "A rétegek begyakorolva: tágabb táj, majd legközelebbi jellegzetesség",
-              "en": "The layers practised: broader landscape, then nearest feature"
+              "en": "The layers practised: broader landscape, then nearest feature",
+              "ro": "Straturile exersate: peisajul mai larg, apoi trăsătura cea mai apropiată"
             }
           },
           {
             "key": "rvp-c4",
             "nevek": {
               "hu": "Összevetés a valósággal és őszinte pontozás — a tévedéseket is leírva",
-              "en": "Compared with reality and honestly scored — the misses written down too"
+              "en": "Compared with reality and honestly scored — the misses written down too",
+              "ro": "Comparat cu realitatea și evaluat cu onestitate — și rateurile notate"
             }
           },
           {
             "key": "rvp-c5",
             "nevek": {
               "hu": "Napló vezetve több ülésen át — a mintázatot figyelem, nem az egy találatot",
-              "en": "A journal kept across several sessions — I watch the pattern, not the single hit"
+              "en": "A journal kept across several sessions — I watch the pattern, not the single hit",
+              "ro": "Un jurnal ținut pe parcursul mai multor sesiuni — privesc tiparul, nu lovitura izolată"
             }
           },
           {
             "key": "rvp-c6",
             "nevek": {
               "hu": "A hűvös, tárgyilagos jelenlét megtartva — a vágyam nem töltötte ki az ürességet",
-              "en": "The cool, detached presence held — my desire did not fill the emptiness"
+              "en": "The cool, detached presence held — my desire did not fill the emptiness",
+              "ro": "Prezența rece, detașată menținută — dorința mea nu a umplut golul"
             }
           },
           {
             "key": "rvp-c7",
             "nevek": {
               "hu": "A kerítés tiszta: semmi eltűnt személy, semmi haszon, semmi jóslat, semmi megnevezett másik; vészhelyzet → szakember",
-              "en": "The fence is clear: no missing persons, no profit, no prophecy, no named other; emergency → professional"
+              "en": "The fence is clear: no missing persons, no profit, no prophecy, no named other; emergency → professional",
+              "ro": "Gardul este clar: fără persoane dispărute, fără profit, fără profeție, fără altcineva numit; urgență → profesionist"
             }
           }
         ]
@@ -205,7 +233,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "Az érzékelő jellemvonásai",
-        "en": "Traits of the Sensing Practitioner"
+        "en": "Traits of the Sensing Practitioner",
+        "ro": "Trăsăturile Practicianului Simțirii"
       },
       "aspektusPack": [
         {
@@ -214,7 +243,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Vágyvezérelt vetítés",
-            "en": "Wishful projection"
+            "en": "Wishful projection",
+            "ro": "Proiecție din dorință"
           }
         },
         {
@@ -223,7 +253,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Görcsös ragaszkodás az eredményhez",
-            "en": "Grasping attachment to the result"
+            "en": "Grasping attachment to the result",
+            "ro": "Atașament agățat de rezultat"
           }
         },
         {
@@ -232,7 +263,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Nyughatatlan türelmetlenség",
-            "en": "Restless impatience"
+            "en": "Restless impatience",
+            "ro": "Nerăbdare agitată"
           }
         },
         {
@@ -241,7 +273,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Önámítás",
-            "en": "Self-deception"
+            "en": "Self-deception",
+            "ro": "Autoamăgire"
           }
         },
         {
@@ -250,7 +283,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Éles figyelem",
-            "en": "Keen attention"
+            "en": "Keen attention",
+            "ro": "Atenție ascuțită"
           }
         },
         {
@@ -259,7 +293,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Hűvös egyensúly",
-            "en": "Cool equanimity"
+            "en": "Cool equanimity",
+            "ro": "Echilibru calm"
           }
         },
         {
@@ -268,7 +303,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Kérlelhetetlen őszinteség",
-            "en": "Unflinching honesty"
+            "en": "Unflinching honesty",
+            "ro": "Onestitate neclintită"
           }
         },
         {
@@ -277,7 +313,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Kitartó türelem",
-            "en": "Persevering patience"
+            "en": "Persevering patience",
+            "ro": "Răbdare perseverentă"
           }
         }
       ]
@@ -287,7 +324,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "A kalibráció naplója",
-        "en": "The Calibration Journal"
+        "en": "The Calibration Journal",
+        "ro": "Jurnalul de Calibrare"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -295,7 +333,8 @@
         ],
         "prompts": {
           "hu": "A CÉLPONT — Milyen ártalmatlan, ellenőrizhető helyszínt választottam ma: ___\n\nA NYERS BENYOMÁS — Amit értelmezés nélkül érzékeltem (építmény/nyílt tér, fent/lent, felület, szín, hang, hangulat): ___\n\nA RÉTEGEK — A tágabb táj legjellegzetesebb vonása és a legközelebbi feltűnő jel: ___\n\nAz ÖSSZEVETÉS — Mi egyezett a valósággal, és mi nem (a tévedést is leírom): ___\n\nA HŰVÖS JELENLÉT — Hol vitt el a vágyam vagy a türelmetlenségem, és hol maradtam higgadt: ___\n\nA GYÜMÖLCS — Egy jele annak, hogy a figyelmem vagy az őszinteségem ma csiszolódott: ___",
-          "en": "THE TARGET — What harmless, verifiable location I chose today: ___\n\nTHE RAW IMPRESSION — What I sensed without interpreting (structure/open ground, above/below, surface, colour, sound, mood): ___\n\nTHE LAYERS — The most characteristic feature of the broader landscape and the nearest notable mark: ___\n\nTHE COMPARISON — What matched reality and what did not (I write the misses too): ___\n\nTHE COOL PRESENCE — Where my desire or impatience carried me off, and where I stayed calm: ___\n\nTHE FRUIT — One sign that my attention or my honesty was honed today: ___"
+          "en": "THE TARGET — What harmless, verifiable location I chose today: ___\n\nTHE RAW IMPRESSION — What I sensed without interpreting (structure/open ground, above/below, surface, colour, sound, mood): ___\n\nTHE LAYERS — The most characteristic feature of the broader landscape and the nearest notable mark: ___\n\nTHE COMPARISON — What matched reality and what did not (I write the misses too): ___\n\nTHE COOL PRESENCE — Where my desire or impatience carried me off, and where I stayed calm: ___\n\nTHE FRUIT — One sign that my attention or my honesty was honed today: ___",
+          "ro": "ȚINTA — Ce locație inofensivă, verificabilă am ales azi: ___\n\nIMPRESIA BRUTĂ — Ce am simțit fără să interpretez (structură/teren deschis, deasupra/dedesubt, suprafață, culoare, sunet, atmosferă): ___\n\nSTRATURILE — Cea mai caracteristică trăsătură a peisajului mai larg și cel mai apropiat reper notabil: ___\n\nCOMPARAȚIA — Ce s-a potrivit cu realitatea și ce nu (scriu și greșelile): ___\n\nPREZENȚA CALMĂ — Unde m-au dus dorința sau nerăbdarea și unde am rămas calm: ___\n\nRODUL — Un semn că atenția sau onestitatea mea s-a ascuțit azi: ___"
         }
       }
     },
@@ -304,7 +343,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Megkülönböztető önellenőrzés",
-        "en": "Discernment Self-Check"
+        "en": "Discernment Self-Check",
+        "ro": "Autoverificare a discernământului"
       },
       "quiz": {
         "passThreshold": 3,
@@ -313,7 +353,8 @@
             "id": "rvp-q1",
             "prompt": {
               "hu": "Hogyan kezeld a gyakorlat során felmerülő benyomásaidat?",
-              "en": "How should you treat the impressions that arise in the practice?"
+              "en": "How should you treat the impressions that arise in the practice?",
+              "ro": "Cum ar trebui să tratezi impresiile care apar în practică?"
             },
             "options": {
               "hu": [
@@ -327,6 +368,12 @@
                 "As a practice you honestly measure against reality — never as facts",
                 "As divine messages to pass on to others",
                 "As proof that you have psychic power"
+              ],
+              "ro": [
+                "Ca fapte pe care poți clădi decizii",
+                "Ca pe o practică pe care o măsori onest față de realitate — niciodată ca pe fapte",
+                "Ca mesaje divine de transmis altora",
+                "Ca dovadă că ai putere psihică"
               ]
             },
             "correctIndex": 1
@@ -335,7 +382,8 @@
             "id": "rvp-q2",
             "prompt": {
               "hu": "Mit teszel, ha egy ülés mintha eltűnt személyre vagy holttestre „mutatna”?",
-              "en": "What do you do if a session seems to ‘point’ to a missing person or a body?"
+              "en": "What do you do if a session seems to ‘point’ to a missing person or a body?",
+              "ro": "Ce faci dacă o sesiune pare să ‚indice’ o persoană dispărută sau un cadavru?"
             },
             "options": {
               "hu": [
@@ -349,6 +397,12 @@
                 "This is not the purpose of the practice: I send a guess to no one — it belongs to professionals",
                 "I make it public to gain recognition",
                 "I repeat until I get an exact address"
+              ],
+              "ro": [
+                "Trimit coordonatele familiei sau poliției",
+                "Acesta nu este scopul practicii: nu trimit nicio ghicitură nimănui — aparține profesioniștilor",
+                "O fac publică ca să câștig recunoaștere",
+                "Repet până obțin o adresă exactă"
               ]
             },
             "correctIndex": 1
@@ -357,7 +411,8 @@
             "id": "rvp-q3",
             "prompt": {
               "hu": "Mi a gyakorlat becsületes mércéje?",
-              "en": "What is the honest measure of the practice?"
+              "en": "What is the honest measure of the practice?",
+              "ro": "Care este măsura onestă a practicii?"
             },
             "options": {
               "hu": [
@@ -371,6 +426,12 @@
                 "The inner fruits: sharpening attention, patience and honest self-assessment",
                 "Convincing others of your abilities",
                 "The money you earn from your hunches"
+              ],
+              "ro": [
+                "Numărul de reușite și de predicții exacte",
+                "Roadele lăuntrice: ascuțirea atenției, răbdarea și autoevaluarea onestă",
+                "Convingerea altora de abilitățile tale",
+                "Banii pe care îi câștigi din bănuielile tale"
               ]
             },
             "correctIndex": 1
@@ -379,7 +440,8 @@
             "id": "rvp-q4",
             "prompt": {
               "hu": "Mit teszel, ha parancsoló hangokat hallasz, vagy késztetést érzel, hogy magadban vagy másban kárt tegyél?",
-              "en": "What do you do if you hear commanding voices, or feel an urge to harm yourself or another?"
+              "en": "What do you do if you hear commanding voices, or feel an urge to harm yourself or another?",
+              "ro": "Ce faci dacă auzi voci care îți poruncesc sau simți impulsul de a te răni pe tine sau pe altcineva?"
             },
             "options": {
               "hu": [
@@ -393,6 +455,12 @@
                 "This is a medical emergency: I turn at once to a professional or the emergency services",
                 "I follow the ‘message’, because it is intuition",
                 "I wait for it to pass on its own"
+              ],
+              "ro": [
+                "Continui sesiunile, fiindcă face parte din practică",
+                "Aceasta este o urgență medicală: mă adresez de îndată unui profesionist sau serviciilor de urgență",
+                "Urmez ‚mesajul’, pentru că este intuiție",
+                "Aștept să treacă de la sine"
               ]
             },
             "correctIndex": 1
@@ -405,11 +473,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare de responsabilitate"
       },
       "text": {
         "hu": "*Tanulási segédlet a távérzékelés (remote viewing) hagyományának módszertana nyomán, egy fizetős tanfolyam-átirat áttanulmányozásából leszűrve. A szöveg **eredeti összefoglaló és átdolgozás** a saját szavainkkal — nem szó szerinti idézet, és szándékosan nem veszi át a forrás megfogalmazásait, jellegzetes hasonlatait, anekdotáit, megnevezett példáit vagy szkriptelt mondatait. A módszer (a durvától a finom felé haladó, rétegzett érzékelés és a valósággal való összevetés) általános, nem védett eljárás; itt az alkalmazás becsületes, önirányított magját tanítjuk.*\n\n*Becsületes keret: a távérzékelés rendkívüli állításait a hagyomány **saját modelljeként** mutatjuk be, nem tényként és nem ígért eredményként. A gyakorlat értékét a belső gyümölcsei mérik: a figyelem, az intuíció és az őszinte önértékelés csiszolódása. A modul **szándékosan elhagyja** a forrás káros alkalmazásait — eltűnt személyek, holttestek vagy áldozatok keresését és koordináták küldését; a szerencsejátékot, tőzsdét és haszonszerzést; a végítélet-jóslást és a félelemből való készletezést; valamint bármely megnevezett ember beleegyezés nélküli célba vételét (Bardon etikája: tiszteld a szabad akaratot).*\n\n*Ez nem orvosi és nem pszichológiai tanács, és nem helyettesíti a szakellátást. Parancsoló hangok, önmagad vagy mások bántására irányuló késztetés, vagy a valósággal való kapcsolat elvesztése esetén azonnal fordulj szakemberhez vagy a sürgősségi szolgálathoz — soha ne halaszd vagy pótold vele az ellátást.*",
-        "en": "*A study aid after the methodology of the remote-viewing tradition, distilled from a study of a paid course transcript. The text is an **original summary and reworking** in our own words — not a verbatim quotation, and it deliberately does not take over the source’s phrasings, signature metaphors, anecdotes, named examples, or scripted lines. The method (layered sensing from coarse to fine, and comparison against reality) is a general, unprotected procedure; here we teach the honest, self-directed core of its application.*\n\n*An honest frame: the extraordinary claims of remote viewing are presented as the tradition’s **own model**, not as fact and not as a promised outcome. The worth of the practice is measured by its inner fruits: the honing of attention, intuition and honest self-assessment. The module **deliberately omits** the source’s harmful applications — the search for missing persons, bodies or victims and the sending of coordinates; gambling, trading and profit-seeking; doomsday prophecy and stockpiling from fear; and the targeting of any named person without consent (Bardon’s ethics: honour free will).*\n\n*This is not medical or psychological advice and does not replace professional care. In the case of commanding voices, urges to harm yourself or others, or a loss of contact with reality, turn at once to a professional or the emergency services — never delay or replace care with it.*"
+        "en": "*A study aid after the methodology of the remote-viewing tradition, distilled from a study of a paid course transcript. The text is an **original summary and reworking** in our own words — not a verbatim quotation, and it deliberately does not take over the source’s phrasings, signature metaphors, anecdotes, named examples, or scripted lines. The method (layered sensing from coarse to fine, and comparison against reality) is a general, unprotected procedure; here we teach the honest, self-directed core of its application.*\n\n*An honest frame: the extraordinary claims of remote viewing are presented as the tradition’s **own model**, not as fact and not as a promised outcome. The worth of the practice is measured by its inner fruits: the honing of attention, intuition and honest self-assessment. The module **deliberately omits** the source’s harmful applications — the search for missing persons, bodies or victims and the sending of coordinates; gambling, trading and profit-seeking; doomsday prophecy and stockpiling from fear; and the targeting of any named person without consent (Bardon’s ethics: honour free will).*\n\n*This is not medical or psychological advice and does not replace professional care. In the case of commanding voices, urges to harm yourself or others, or a loss of contact with reality, turn at once to a professional or the emergency services — never delay or replace care with it.*",
+        "ro": "*Un material de studiu după metodologia tradiției remote viewing, distilat din studiul transcriptului unui curs plătit. Textul este un **rezumat și o reelaborare originală** în cuvintele noastre — nu un citat textual, și în mod deliberat nu preia formulările sursei, metaforele ei distinctive, anecdotele, exemplele numite sau replicile scriptate. Metoda (percepție pe straturi de la grosier la fin, și compararea cu realitatea) este o procedură generală, neprotejată; aici predăm nucleul onest, autodirijat al aplicării ei.*\n\n*Un cadru onest: pretențiile extraordinare ale remote viewing sunt prezentate ca **modelul propriu** al tradiției, nu ca fapt și nu ca rezultat promis. Valoarea practicii se măsoară după roadele ei lăuntrice: ascuțirea atenției, a intuiției și a autoevaluării oneste. Modulul **omite în mod deliberat** aplicațiile dăunătoare ale sursei — căutarea persoanelor dispărute, a cadavrelor sau a victimelor și trimiterea de coordonate; jocurile de noroc, tranzacționarea și căutarea de profit; profețiile apocaliptice și stocarea din frică; și țintirea oricărei persoane numite fără consimțământ (etica lui Bardon: onorează liberul arbitru).*\n\n*Acesta nu este sfat medical sau psihologic și nu înlocuiește îngrijirea profesională. În cazul vocilor care poruncesc, al impulsurilor de a te răni pe tine sau pe alții, sau al pierderii contactului cu realitatea, adresează-te de îndată unui profesionist sau serviciilor de urgență — nu amâna niciodată și nu înlocui îngrijirea cu aceasta.*"
       }
     }
   ]

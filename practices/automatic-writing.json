@@ -3,7 +3,8 @@
   "id": "practice-pack-automatic-writing",
   "nevek": {
     "hu": "Automatikus írás — gyakorlatok",
-    "en": "Automatic Writing — practices"
+    "en": "Automatic Writing — practices",
+    "ro": "Scrierea automată — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,37 +16,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Elcsendesedés — a kéz előkészítése",
-        "en": "Quieting — preparing the hand"
+        "en": "Quieting — preparing the hand",
+        "ro": "Liniștirea — pregătirea mâinii"
       },
       "cel": {
         "hu": "Megtanulni az írás előtti lecsendesedést: ellazult test, laza csukló, terv és elvárás nélküli jelenlét — minden ülés közös kapuja.",
-        "en": "To learn the quieting before writing: a relaxed body, a loose wrist, presence without plan or expectation — the shared gate of every session."
+        "en": "To learn the quieting before writing: a relaxed body, a loose wrist, presence without plan or expectation — the shared gate of every session.",
+        "ro": "Ca să înveți liniștirea dinaintea scrierii: un corp relaxat, o încheietură liberă, prezență fără plan sau așteptare — poarta comună a fiecărei sesiuni."
       },
       "modszer": [
         {
           "hu": "Ülj le zavartalan helyen, talpad a talajon, papír és toll előtted.",
-          "en": "Sit in an undisturbed spot, feet on the ground, paper and pen before you."
+          "en": "Sit in an undisturbed spot, feet on the ground, paper and pen before you.",
+          "ro": "Așază-te într-un loc netulburat, cu picioarele pe pământ, hârtia și stiloul în fața ta."
         },
         {
           "hu": "Lélegezz néhány percig lassan és mélyen, és minden kilégzéssel engedj el egy területet: váll, állkapocs, alkar, kéz.",
-          "en": "Breathe slowly and deeply for a few minutes, and with each out-breath release one region: shoulders, jaw, forearm, hand."
+          "en": "Breathe slowly and deeply for a few minutes, and with each out-breath release one region: shoulders, jaw, forearm, hand.",
+          "ro": "Respiră încet și adânc câteva minute și, cu fiecare expirație, eliberează o zonă: umerii, maxilarul, antebrațul, mâna."
         },
         {
           "hu": "Vedd kézbe a tollat lazán — a kéz súlya pihenjen a papíron, mintha csak ott felejtetted volna.",
-          "en": "Take the pen loosely — let the hand's weight rest on the paper, as if you had simply left it there."
+          "en": "Take the pen loosely — let the hand's weight rest on the paper, as if you had simply left it there.",
+          "ro": "Ia stiloul lejer — lasă greutatea mâinii să se odihnească pe hârtie, ca și cum ai fi lăsat-o pur și simplu acolo."
         },
         {
           "hu": "Figyeld a csendet még egy-két percig, anélkül hogy bármit írnál vagy várnál.",
-          "en": "Watch the stillness for another minute or two, without writing or expecting anything."
+          "en": "Watch the stillness for another minute or two, without writing or expecting anything.",
+          "ro": "Privește liniștea încă un minut sau două, fără să scrii și fără să aștepți nimic."
         },
         {
           "hu": "Jegyezd meg testből ezt az állapotot: innen indul majd minden ülés.",
-          "en": "Memorize this state in the body: every session will start from here."
+          "en": "Memorize this state in the body: every session will start from here.",
+          "ro": "Memorează această stare în corp: fiecare sesiune va porni de aici."
         }
       ],
       "keret": {
         "hu": "Egyszerű, tanulható lecsendesítés — rokona a Bardon-lépések gondolatfegyelmének. Semmi rendkívülit nem ígér; a mérce az, hogy a kéz és a felszín valóban elcsendesül-e.",
-        "en": "A simple, learnable quieting — kin to the thought-discipline of the Bardon steps. It promises nothing extraordinary; the measure is whether the hand and the surface truly grow quiet."
+        "en": "A simple, learnable quieting — kin to the thought-discipline of the Bardon steps. It promises nothing extraordinary; the measure is whether the hand and the surface truly grow quiet.",
+        "ro": "O liniștire simplă, care se poate învăța — înrudită cu disciplina gândului din treptele lui Bardon. Nu promite nimic extraordinar; măsura este dacă mâna și suprafața devin cu adevărat liniștite."
       },
       "sorszam": 1
     },
@@ -57,37 +66,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Bemelegítő áramlás — öt perc tét nélkül",
-        "en": "Warm-up flow — five minutes with nothing at stake"
+        "en": "Warm-up flow — five minutes with nothing at stake",
+        "ro": "Flux de încălzire — cinci minute fără miză"
       },
       "cel": {
         "hu": "A folyamatosan mozgó kéz begyakorlása rövid, tét nélküli ülésben: megállás, javítás és ítélkezés nélkül írni, bármi is jön.",
-        "en": "To train the continuously moving hand in a short, no-stakes sitting: writing without stopping, correcting or judging, whatever comes."
+        "en": "To train the continuously moving hand in a short, no-stakes sitting: writing without stopping, correcting or judging, whatever comes.",
+        "ro": "Ca să antrenezi mâna care se mișcă continuu într-o ședință scurtă, fără miză: scrii fără să te oprești, să corectezi sau să judeci, orice vine."
       },
       "modszer": [
         {
           "hu": "Csendesedj el röviden az előző gyakorlat szerint.",
-          "en": "Quiet yourself briefly as in the previous practice."
+          "en": "Quiet yourself briefly as in the previous practice.",
+          "ro": "Liniștește-te pe scurt ca în practica anterioară."
         },
         {
           "hu": "Indíts öt percet, és írj folyamatosan — téma nélkül, arról, ami épp jön.",
-          "en": "Start five minutes and write continuously — without a topic, about whatever comes."
+          "en": "Start five minutes and write continuously — without a topic, about whatever comes.",
+          "ro": "Pornește cinci minute și scrie continuu — fără un subiect, despre orice vine."
         },
         {
           "hu": "Ne állj meg, ne javíts, ne olvasd vissza írás közben — a helyesírás és az értelem most nem számít.",
-          "en": "Do not stop, correct or re-read while writing — spelling and sense do not matter now."
+          "en": "Do not stop, correct or re-read while writing — spelling and sense do not matter now.",
+          "ro": "Nu te opri, nu corecta și nu reciti în timp ce scrii — ortografia și sensul nu contează acum."
         },
         {
           "hu": "Ha zagyvaság jön, hadd jöjjön: a zagyvaság a bemelegítés természetes hangja.",
-          "en": "If gibberish comes, let it come: gibberish is the natural sound of warming up."
+          "en": "If gibberish comes, let it come: gibberish is the natural sound of warming up.",
+          "ro": "Dacă vine ceva fără noimă, lasă-l să vină: ceva fără noimă este sunetul natural al încălzirii."
         },
         {
           "hu": "Az öt perc végén tedd félre a lapot olvasatlanul — az olvasás külön gyakorlat.",
-          "en": "At the end of the five minutes set the page aside unread — reading is a separate practice."
+          "en": "At the end of the five minutes set the page aside unread — reading is a separate practice.",
+          "ro": "La finalul celor cinci minute pune pagina deoparte necitită — citirea este o practică separată."
         }
       ],
       "keret": {
         "hu": "Ugyanaz a mozdulat, amit a kreatív írás free-writingnak hív: a szerkesztő elme kikapcsolása rövid időre. Tét nélkül tanulod, hogy élesben már menjen — a mérce a kéz folyamatossága, nem a szöveg szépsége.",
-        "en": "The same movement creative writing calls free-writing: switching off the editing mind for a short while. You learn it with nothing at stake so it works when it counts — the measure is the hand's continuity, not the beauty of the text."
+        "en": "The same movement creative writing calls free-writing: switching off the editing mind for a short while. You learn it with nothing at stake so it works when it counts — the measure is the hand's continuity, not the beauty of the text.",
+        "ro": "Același gest pe care scrierea creativă îl numește scriere liberă: oprirea minții care editează pentru un scurt timp. Îl înveți fără miză ca să funcționeze când contează — măsura este continuitatea mâinii, nu frumusețea textului."
       },
       "sorszam": 2
     },
@@ -99,37 +116,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Az áthidaló mondat — elakadásból áramlás",
-        "en": "The bridge sentence — from stall into flow"
+        "en": "The bridge sentence — from stall into flow",
+        "ro": "Propoziția-punte — din blocaj în flux"
       },
       "cel": {
         "hu": "A technika legfontosabb fogásának begyakorlása: az elakadást nem megállással, hanem az áthidaló mondat írásával oldani, amíg az áramlás magától újraindul.",
-        "en": "To train the technique's most important move: resolving a stall not by stopping but by writing the bridge sentence until the flow restarts by itself."
+        "en": "To train the technique's most important move: resolving a stall not by stopping but by writing the bridge sentence until the flow restarts by itself.",
+        "ro": "Ca să antrenezi cea mai importantă mișcare a tehnicii: rezolvarea unui blocaj nu prin oprire, ci scriind propoziția-punte până când fluxul repornește de la sine."
       },
       "modszer": [
         {
           "hu": "Kezdj egy bemelegítő áramlást a szokott módon.",
-          "en": "Begin a warm-up flow in the usual way."
+          "en": "Begin a warm-up flow in the usual way.",
+          "ro": "Începe un flux de încălzire în felul obișnuit."
         },
         {
           "hu": "Amikor elakadsz, írd le szó szerint: „nem tudom, mit írjak” — és írd újra, ahányszor kell.",
-          "en": "When you stall, write literally: 'I don't know what to write' — and write it again as many times as needed."
+          "en": "When you stall, write literally: 'I don't know what to write' — and write it again as many times as needed.",
+          "ro": "Când te blochezi, scrie literal: 'Nu știu ce să scriu' — și scrie-o din nou de câte ori e nevoie."
         },
         {
           "hu": "Figyeld meg a pillanatot, amikor a kéz magától új mondatba fordul — ne te fordítsd, hagyd megtörténni.",
-          "en": "Notice the moment the hand turns into a new sentence by itself — do not turn it, let it happen."
+          "en": "Notice the moment the hand turns into a new sentence by itself — do not turn it, let it happen.",
+          "ro": "Observă momentul în care mâna trece de la sine într-o propoziție nouă — nu o întoarce tu, lasă să se întâmple."
         },
         {
           "hu": "Az ülés után számold össze, hány hídra volt szükség, és jegyezd fel a naplóba.",
-          "en": "After the session count how many bridges were needed and note it in the journal."
+          "en": "After the session count how many bridges were needed and note it in the journal.",
+          "ro": "După sesiune numără câte punți au fost necesare și notează în jurnal."
         },
         {
           "hu": "Ismételd néhány napon át: a hidak száma magától csökken, ahogy a cenzor tanulja, hogy nem kap tollat.",
-          "en": "Repeat over a few days: the number of bridges drops by itself as the censor learns it does not get the pen."
+          "en": "Repeat over a few days: the number of bridges drops by itself as the censor learns it does not get the pen.",
+          "ro": "Repetă pe parcursul câtorva zile: numărul de punți scade de la sine pe măsură ce cenzorul învață că nu primește stiloul."
         }
       ],
       "keret": {
         "hu": "A híd nem varázsmondat, hanem mozgásban tartott motor: amíg a kéz ír, a szerkesztő elme nem tudja visszavenni az irányítást. Egyszerű figyelmi fogás — és a mérőszáma ellenőrizhető a naplódban.",
-        "en": "The bridge is no magic sentence but a motor kept running: while the hand writes, the editing mind cannot take back control. A plain attentional device — with a metric you can check in your journal."
+        "en": "The bridge is no magic sentence but a motor kept running: while the hand writes, the editing mind cannot take back control. A plain attentional device — with a metric you can check in your journal.",
+        "ro": "Puntea nu e o propoziție magică, ci un motor ținut în funcțiune: cât timp mâna scrie, mintea care editează nu poate prelua din nou controlul. Un simplu dispozitiv atențional — cu o metrică pe care o poți verifica în jurnal."
       },
       "sorszam": 3
     },
@@ -141,41 +166,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Nyitott ülés — a teljes alapgyakorlat",
-        "en": "The open session — the complete base practice"
+        "en": "The open session — the complete base practice",
+        "ro": "Sesiunea deschisă — practica de bază completă"
       },
       "cel": {
         "hu": "A teljes ülés végigvitele kérdés nélkül: elcsendesedés, tíz-tizenöt perc folyamatos írás, lezárás — és az anyag félretétele a későbbi olvasásra.",
-        "en": "To carry a full session through without a question: quieting, ten to fifteen minutes of continuous writing, closing — and setting the material aside for later reading."
+        "en": "To carry a full session through without a question: quieting, ten to fifteen minutes of continuous writing, closing — and setting the material aside for later reading.",
+        "ro": "Ca să duci la capăt o sesiune completă fără o întrebare: liniștire, zece până la cincisprezece minute de scriere continuă, închidere — și punerea materialului deoparte pentru citire ulterioară."
       },
       "modszer": [
         {
           "hu": "Csendesedj el, és mondd ki magadban a nyitott szándékot: „ami jönni akar, jöhet.”",
-          "en": "Quiet yourself and speak the open intention inwardly: 'whatever wants to come, may come.'"
+          "en": "Quiet yourself and speak the open intention inwardly: 'whatever wants to come, may come.'",
+          "ro": "Liniștește-te și rostește intenția deschisă în interior: 'orice vrea să vină, să vină.'"
         },
         {
           "hu": "Írj folyamatosan tíz-tizenöt percig, megállás, javítás és ítélkezés nélkül.",
-          "en": "Write continuously for ten to fifteen minutes, without stopping, correcting or judging."
+          "en": "Write continuously for ten to fifteen minutes, without stopping, correcting or judging.",
+          "ro": "Scrie continuu zece până la cincisprezece minute, fără să te oprești, să corectezi sau să judeci."
         },
         {
           "hu": "Elakadásnál használd az áthidaló mondatot, amíg az áramlás újraindul.",
-          "en": "At a stall use the bridge sentence until the flow restarts."
+          "en": "At a stall use the bridge sentence until the flow restarts.",
+          "ro": "La un blocaj folosește propoziția-punte până când fluxul repornește."
         },
         {
           "hu": "Az idő leteltével hagyd az utolsó mondatot lassan lezárulni, és vegyél egy mély lélegzetet.",
-          "en": "When the time is up, let the last sentence come slowly to a close, and take a deep breath."
+          "en": "When the time is up, let the last sentence come slowly to a close, and take a deep breath.",
+          "ro": "Când timpul s-a scurs, lasă ultima propoziție să se încheie încet, și respiră adânc."
         },
         {
           "hu": "Tedd félre a lapot olvasatlanul, állj fel, igyál egy pohár vizet — a távolság a következő gyakorlat dolga.",
-          "en": "Set the page aside unread, stand up, drink a glass of water — distance is the next practice's business."
+          "en": "Set the page aside unread, stand up, drink a glass of water — distance is the next practice's business.",
+          "ro": "Pune pagina deoparte necitită, ridică-te, bea un pahar cu apă — distanța e treaba practicii următoare."
         }
       ],
       "keret": {
         "hu": "Hogy a kezet külső intelligencia vagy a felsőbb én vezetné, a hagyomány elbeszélése — mi úgy jegyezzük fel: a tudatküszöb alatti anyag kap utat, és ez önmagában arany. A mérce nem az élmény különössége, hanem amit utóbb, józanul kiolvasol belőle.",
-        "en": "That the hand would be guided by an external intelligence or the higher self is the tradition's narrative — we record it thus: material from beneath the threshold is given a path, and that alone is gold. The measure is not the strangeness of the experience but what you later, soberly, read out of it."
+        "en": "That the hand would be guided by an external intelligence or the higher self is the tradition's narrative — we record it thus: material from beneath the threshold is given a path, and that alone is gold. The measure is not the strangeness of the experience but what you later, soberly, read out of it.",
+        "ro": "Că mâna ar fi ghidată de o inteligență externă sau de Sinele Superior este narațiunea tradiției — o consemnăm astfel: materialului de sub prag i se dă o cale, și numai asta e aur. Măsura nu e ciudățenia experienței, ci ceea ce citești mai târziu, cu luciditate, din ea."
       },
       "etika": {
         "hu": "Akut lelki instabilitásban — krízisben, friss gyász mélyén — a gyakorlat kerülendő: előbb stabilitás, aztán mélymunka. Bármit ír a kéz, az mérlegelendő gondolat, nem parancs; ha a szöveg tartósan külsőnek, parancsolónak érződik és nyomaszt, tedd le a gyakorlatot, és fordulj szakemberhez.",
-        "en": "In acute psychological instability — in crisis, in the depth of fresh grief — the practice is to be avoided: stability first, deep work after. Whatever the hand writes is thought to be weighed, not a command; if the text persistently feels external and commanding and it distresses you, put the practice down and turn to a professional."
+        "en": "In acute psychological instability — in crisis, in the depth of fresh grief — the practice is to be avoided: stability first, deep work after. Whatever the hand writes is thought to be weighed, not a command; if the text persistently feels external and commanding and it distresses you, put the practice down and turn to a professional.",
+        "ro": "În instabilitate psihologică acută — în criză, în adâncul unei dureri proaspete — practica e de evitat: mai întâi stabilitatea, munca profundă după. Orice scrie mâna e gând de cântărit, nu o poruncă; dacă textul se simte persistent extern și poruncitor și te tulbură, lasă practica și apelează la un profesionist."
       },
       "sorszam": 4
     },
@@ -186,41 +220,50 @@
       "sik": "szellem",
       "cim": {
         "hu": "Távolság-olvasás — az anyag mint anyag",
-        "en": "Distance reading — the material as material"
+        "en": "Distance reading — the material as material",
+        "ro": "Citirea de la distanță — materialul ca material"
       },
       "cel": {
         "hu": "Az elkészült szöveg olvasásának begyakorlása: távolságból, anyagként, három vezérkérdéssel — hogy a gyakorlat önismereti munka maradjon, ne babona.",
-        "en": "To train the reading of the finished text: from a distance, as material, with three guiding questions — so the practice remains self-knowledge work, not superstition."
+        "en": "To train the reading of the finished text: from a distance, as material, with three guiding questions — so the practice remains self-knowledge work, not superstition.",
+        "ro": "Pentru a antrena citirea textului terminat: de la distanță, ca material, cu trei întrebări călăuzitoare — astfel practica rămâne muncă de autocunoaștere, nu superstiție."
       },
       "modszer": [
         {
           "hu": "Várj legalább néhány órát az ülés után — vagy olvasd másnap.",
-          "en": "Wait at least a few hours after the session — or read the next day."
+          "en": "Wait at least a few hours after the session — or read the next day.",
+          "ro": "Așteaptă cel puțin câteva ore după sesiune — sau citește a doua zi."
         },
         {
           "hu": "Olvasd a szöveget úgy, mintha másvalaki írta volna, és húzd alá, amiben érdemi tartalom van.",
-          "en": "Read the text as if someone else had written it, and underline whatever carries substance."
+          "en": "Read the text as if someone else had written it, and underline whatever carries substance.",
+          "ro": "Citește textul ca și cum l-ar fi scris altcineva, și subliniază tot ce poartă substanță."
         },
         {
           "hu": "Tedd fel a három kérdést: mire ismerek rá? mi lep meg? mi kér mérlegelést?",
-          "en": "Ask the three questions: what do I recognize? what surprises me? what asks to be weighed?"
+          "en": "Ask the three questions: what do I recognize? what surprises me? what asks to be weighed?",
+          "ro": "Pune cele trei întrebări: ce recunosc? ce mă surprinde? ce cere să fie cântărit?"
         },
         {
           "hu": "Emelj ki ülésenként legfeljebb egy-három mérlegelendő gondolatot — az egyetlen ülés túlértelmezése a leggyakoribb hiba.",
-          "en": "Lift out at most one to three thoughts worth weighing per session — over-interpreting a single session is the most common mistake."
+          "en": "Lift out at most one to three thoughts worth weighing per session — over-interpreting a single session is the most common mistake.",
+          "ro": "Extrage cel mult unul până la trei gânduri demne de cântărit pe sesiune — supra-interpretarea unei singure sesiuni e greșeala cea mai frecventă."
         },
         {
           "hu": "Ami üres, azt engedd el dráma nélkül; ami érdemi, azt készítsd elő a napló-betáplálásra.",
-          "en": "Let go of what is empty, without drama; prepare what is substantial for the journal feeding."
+          "en": "Let go of what is empty, without drama; prepare what is substantial for the journal feeding.",
+          "ro": "Lasă deoparte ce e gol, fără dramă; pregătește ce e substanțial pentru hrănirea jurnalului."
         }
       ],
       "keret": {
         "hu": "A távolság véd a két szélsőségtől: a vak hittől és a lekicsinyléstől. Ami rezonál, rólad beszél — és ami idegennek érződik, az is informatív. A rend rokona az RV-modul fegyelmének: előbb rögzítesz, csak utána ítélsz.",
-        "en": "Distance protects from both extremes: blind belief and dismissal. What resonates speaks about you — and what feels foreign is informative too. The order is kin to the RV module's discipline: record first, judge later."
+        "en": "Distance protects from both extremes: blind belief and dismissal. What resonates speaks about you — and what feels foreign is informative too. The order is kin to the RV module's discipline: record first, judge later.",
+        "ro": "Distanța protejează de ambele extreme: credința oarbă și respingerea. Ce rezonează vorbește despre tine — și ce se simte străin e informativ de asemenea. Ordinea e înrudită cu disciplina modulului RV: mai întâi consemnezi, judeci mai târziu."
       },
       "etika": {
         "hu": "Az aláhúzott mondat sem utasítás. Semmit nem teszel meg pusztán azért, mert a lapon áll — a szöveg minden sora mérlegelendő gondolat marad.",
-        "en": "Even an underlined sentence is no instruction. You do nothing merely because it stands on the page — every line of the text remains thought to be weighed."
+        "en": "Even an underlined sentence is no instruction. You do nothing merely because it stands on the page — every line of the text remains thought to be weighed.",
+        "ro": "Chiar și o propoziție subliniată nu e o instrucțiune. Nu faci nimic doar pentru că stă pe pagină — fiecare rând al textului rămâne gând de cântărit."
       },
       "sorszam": 5
     },
@@ -232,37 +275,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Napló-betáplálás — az ülés hazatalál",
-        "en": "Journal feeding — the session finds home"
+        "en": "Journal feeding — the session finds home",
+        "ro": "Hrănirea jurnalului — sesiunea își găsește casa"
       },
       "cel": {
         "hu": "Az útválasztás szokássá tétele: minden ülés érdemi anyaga a három app-napló egyikébe kerül — álom, intuíció vagy manifesztáció —, dátummal és mérleg-mondattal.",
-        "en": "To make routing a habit: every session's substance enters one of the three app journals — dream, intuition or manifestation — with a date and a weighing sentence."
+        "en": "To make routing a habit: every session's substance enters one of the three app journals — dream, intuition or manifestation — with a date and a weighing sentence.",
+        "ro": "Pentru a face din dirijare un obicei: substanța fiecărei sesiuni intră într-unul din cele trei jurnale ale aplicației — vis, intuiție sau manifestare — cu o dată și o propoziție de cântărire."
       },
       "modszer": [
         {
           "hu": "A távolság-olvasás után döntsd el az anyag jellegét: álomszerű kép vagy hajnali termés → álom-napló; sejtés, hirtelen tudás → intuíció-napló; cél, vágy, belső akadály → manifesztáció-napló.",
-          "en": "After the distance reading decide the material's character: dreamlike image or dawn harvest → dream journal; hunch, sudden knowing → intuition journal; goal, desire, inner obstacle → manifestation journal."
+          "en": "After the distance reading decide the material's character: dreamlike image or dawn harvest → dream journal; hunch, sudden knowing → intuition journal; goal, desire, inner obstacle → manifestation journal.",
+          "ro": "După citirea de la distanță decide caracterul materialului: imagine onirică sau recoltă de zori → jurnal de vise; presimțire, cunoaștere bruscă → jurnal de intuiție; țel, dorință, obstacol interior → jurnal de manifestare."
         },
         {
           "hu": "Másold át a legerősebb mondatokat dátummal — az egész szöveg nem kell, a mag kell.",
-          "en": "Copy over the strongest sentences with the date — the whole text is not needed, the core is."
+          "en": "Copy over the strongest sentences with the date — the whole text is not needed, the core is.",
+          "ro": "Copiază propozițiile cele mai puternice cu data — nu e nevoie de tot textul, nucleul e."
         },
         {
           "hu": "Jelöld a bejegyzésnél: automatikus írásból jött, kérdésre vagy nyitottan.",
-          "en": "Mark on the entry: it came from automatic writing, on a question or open."
+          "en": "Mark on the entry: it came from automatic writing, on a question or open.",
+          "ro": "Notează pe însemnare: a venit din scriere automată, pe o întrebare sau deschisă."
         },
         {
           "hu": "Tegyél mellé egyetlen mérleg-mondatot: mit tartasz meg mérlegelendő gondolatként, és mit teszel félre.",
-          "en": "Place one weighing sentence beside it: what you keep as thought to be weighed, and what you set aside."
+          "en": "Place one weighing sentence beside it: what you keep as thought to be weighed, and what you set aside.",
+          "ro": "Pune alături o propoziție de cântărire: ce păstrezi ca gând de cântărit, și ce lași deoparte."
         },
         {
           "hu": "Hetente ellenőrizd, nem maradt-e ülés napló nélkül — az árva szöveg elvész, a betáplált dolgozni kezd.",
-          "en": "Weekly, check that no session was left without a journal — an orphaned text is lost, a fed-in text starts to work."
+          "en": "Weekly, check that no session was left without a journal — an orphaned text is lost, a fed-in text starts to work.",
+          "ro": "Săptămânal, verifică că nicio sesiune n-a rămas fără jurnal — un text orfan e pierdut, un text hrănit începe să lucreze."
         }
       ],
       "keret": {
         "hu": "Az automatikus írás ebben a rendszerben nem különálló sziget, hanem a naplók betáplálója: a manifesztáció-naplóba került blokk-mondatok például a Saint Germain-modul bőség-munkájának legjobb nyersanyagai. Az érték a visszaolvasható ívben nő, nem az egyes lapokban.",
-        "en": "In this system automatic writing is not a separate island but the feeder of the journals: the block sentences entering the manifestation journal, for instance, are the best raw material for the abundance work of the Saint Germain module. The value grows in the re-readable arc, not in single pages."
+        "en": "In this system automatic writing is not a separate island but the feeder of the journals: the block sentences entering the manifestation journal, for instance, are the best raw material for the abundance work of the Saint Germain module. The value grows in the re-readable arc, not in single pages.",
+        "ro": "În acest sistem scrierea automată nu e o insulă separată, ci hrănitorul jurnalelor: propozițiile-bloc care intră în jurnalul de manifestare, de pildă, sunt cea mai bună materie primă pentru munca de abundență a modulului Saint Germain. Valoarea crește în arcul recitibil, nu în pagini izolate."
       },
       "sorszam": 6
     },
@@ -274,41 +325,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "Kérdés-vezetett ülés — fókuszált áramlás",
-        "en": "The question-led session — focused flow"
+        "en": "The question-led session — focused flow",
+        "ro": "Sesiunea ghidată de întrebare — flux concentrat"
       },
       "cel": {
         "hu": "Egy valódi, nyitott kérdés köré rendezni az áramlást: a kérdés fókuszálja az anyagot, a válasz pedig nézőpont marad a mérlegeléshez — sosem ítélet.",
-        "en": "To gather the flow around a real, open question: the question focuses the material, and the answer remains a viewpoint for weighing — never a verdict."
+        "en": "To gather the flow around a real, open question: the question focuses the material, and the answer remains a viewpoint for weighing — never a verdict.",
+        "ro": "Pentru a aduna fluxul în jurul unei întrebări reale, deschise: întrebarea focalizează materialul, iar răspunsul rămâne un punct de vedere de cântărit — niciodată un verdict."
       },
       "modszer": [
         {
           "hu": "Válassz egyetlen őszinte, feltáró kérdést — olyat, amely megértést kér, nem döntést: „mi kér most figyelmet…?”, ne „megtegyem-e…?”.",
-          "en": "Choose a single honest, exploratory question — one that asks for understanding, not a decision: 'what asks for attention now…?', not 'should I do…?'."
+          "en": "Choose a single honest, exploratory question — one that asks for understanding, not a decision: 'what asks for attention now…?', not 'should I do…?'.",
+          "ro": "Alege o singură întrebare onestă, exploratorie — una care cere înțelegere, nu o decizie: 'ce cere atenție acum…?', nu 'ar trebui să fac…?'."
         },
         {
           "hu": "Csendesedj el, és írd a kérdést éber kézzel a lap tetejére.",
-          "en": "Quiet yourself and write the question at the top of the page with a waking hand."
+          "en": "Quiet yourself and write the question at the top of the page with a waking hand.",
+          "ro": "Liniștește-te și scrie întrebarea în partea de sus a paginii cu o mână trează."
         },
         {
           "hu": "Engedd el a kezed, és írj folyamatosan tíz-tizenöt percig — elakadásnál az áthidaló mondattal.",
-          "en": "Release your hand and write continuously for ten to fifteen minutes — with the bridge sentence at a stall."
+          "en": "Release your hand and write continuously for ten to fifteen minutes — with the bridge sentence at a stall.",
+          "ro": "Eliberează-ți mâna și scrie continuu zece până la cincisprezece minute — cu propoziția-punte la o blocare."
         },
         {
           "hu": "Ha az áramlás elkanyarodik a kérdéstől, hagyd: a kerülőút gyakran maga a válasz.",
-          "en": "If the flow bends away from the question, let it: the detour is often the answer itself."
+          "en": "If the flow bends away from the question, let it: the detour is often the answer itself.",
+          "ro": "Dacă fluxul se abate de la întrebare, lasă-l: ocolul e adesea răspunsul însuși."
         },
         {
           "hu": "Zárd le, tedd félre — és a távolság-olvasás után vezesd be az anyagot a megfelelő naplóba, a döntést pedig saját indoklásoddal jegyezd.",
-          "en": "Close, set it aside — and after the distance reading enter the material into the fitting journal, recording any decision with your own reasons."
+          "en": "Close, set it aside — and after the distance reading enter the material into the fitting journal, recording any decision with your own reasons.",
+          "ro": "Încheie, pune-l deoparte — și după citirea de la distanță introdu materialul în jurnalul potrivit, consemnând orice decizie cu propriile tale motive."
         }
       ],
       "keret": {
         "hu": "A kérdés a figyelmet hangolja: a küszöb alatti anyag a kérdés körül rendeződik — ez lélektanilag is jól érthető fókusz-hatás, nem jóslás. A válasz nyersanyag; az értéke abban áll, mit vált ki belőled a mérlegelésnél.",
-        "en": "The question tunes attention: the material beneath the threshold arranges itself around it — a focus effect well understood psychologically, not divination. The answer is raw material; its worth lies in what it stirs in you at the weighing."
+        "en": "The question tunes attention: the material beneath the threshold arranges itself around it — a focus effect well understood psychologically, not divination. The answer is raw material; its worth lies in what it stirs in you at the weighing.",
+        "ro": "Întrebarea acordează atenția: materialul de sub prag se așază în jurul ei — un efect de focus bine înțeles psihologic, nu divinație. Răspunsul e materie primă; valoarea lui stă în ce stârnește în tine la cântărire."
       },
       "etika": {
         "hu": "Döntést soha nem a toll hoz: a válasz nézőpont a mérlegeléshez, a döntés a tiéd, és a naplóban indokolod. Bűnügyek vagy eltűnt személyek „felkutatása” tilos terep — az ilyen kérdés élő embereknek árthat; a hatóság az egyetlen helyes cím.",
-        "en": "A decision is never made by the pen: the answer is a viewpoint for weighing, the decision is yours, and you give your reasons in the journal. 'Investigating' crimes or missing persons is forbidden ground — such questions can harm living people; the authorities are the only right address."
+        "en": "A decision is never made by the pen: the answer is a viewpoint for weighing, the decision is yours, and you give your reasons in the journal. 'Investigating' crimes or missing persons is forbidden ground — such questions can harm living people; the authorities are the only right address.",
+        "ro": "O decizie nu e niciodată luată de condei: răspunsul e un punct de vedere de cântărit, decizia e a ta, și îți dai motivele în jurnal. «Investigarea» crimelor sau a persoanelor dispărute e teren interzis — astfel de întrebări pot dăuna oamenilor în viață; autoritățile sunt singura adresă potrivită."
       },
       "sorszam": 7
     },
@@ -320,41 +380,50 @@
       "elem": "Ido",
       "cim": {
         "hu": "Hajnali utóírás — az álom küszöbén",
-        "en": "Dawn after-writing — on the threshold of the dream"
+        "en": "Dawn after-writing — on the threshold of the dream",
+        "ro": "Scrierea de după zori — pe pragul visului"
       },
       "cel": {
         "hu": "Az ébredés utáni laza percek kihasználása: az álom hangulatából induló automatikus írás, amelynek termése az álom-naplóba fut.",
-        "en": "To use the loose minutes after waking: automatic writing starting from the dream's mood, whose harvest flows into the dream journal."
+        "en": "To use the loose minutes after waking: automatic writing starting from the dream's mood, whose harvest flows into the dream journal.",
+        "ro": "Să folosești minutele libere de după trezire: scriere automată pornind de la starea visului, a cărei recoltă curge în jurnalul de vise."
       },
       "modszer": [
         {
           "hu": "Este készíts papírt és tollat az ágy mellé.",
-          "en": "In the evening place paper and pen by the bed."
+          "en": "In the evening place paper and pen by the bed.",
+          "ro": "Seara pune hârtie și stilou lângă pat."
         },
         {
           "hu": "Ébredéskor maradj még mozdulatlan, és idézd fel az álmot vagy a hangulatát — jegyezd le röviden.",
-          "en": "On waking stay still a moment and recall the dream or its mood — note it briefly."
+          "en": "On waking stay still a moment and recall the dream or its mood — note it briefly.",
+          "ro": "La trezire stai nemișcat o clipă și reamintește-ți visul sau starea lui — notează pe scurt."
         },
         {
           "hu": "Ezután indíts öt-tíz perc automatikus írást az álom hangulatából: ne leírd az álmot, hanem folytasd a fonalát, ítélkezés nélkül.",
-          "en": "Then start five to ten minutes of automatic writing from the dream's mood: do not describe the dream, continue its thread, without judging."
+          "en": "Then start five to ten minutes of automatic writing from the dream's mood: do not describe the dream, continue its thread, without judging.",
+          "ro": "Apoi începe cinci până la zece minute de scriere automată din starea visului: nu descrie visul, continuă firul lui, fără să judeci."
         },
         {
           "hu": "Elakadásnál az áthidaló mondat — hajnalban különösen gyorsan újraindítja az áramlást.",
-          "en": "At a stall, the bridge sentence — at dawn it restarts the flow especially fast."
+          "en": "At a stall, the bridge sentence — at dawn it restarts the flow especially fast.",
+          "ro": "La un blocaj, propoziția-punte — în zori repornește fluxul deosebit de repede."
         },
         {
           "hu": "Az álomjegyzetet és az utóírás legerősebb mondatait együtt vezesd be az álom-naplóba, dátummal.",
-          "en": "Enter the dream note and the after-writing's strongest sentences together into the dream journal, with the date."
+          "en": "Enter the dream note and the after-writing's strongest sentences together into the dream journal, with the date.",
+          "ro": "Trece nota de vis și cele mai puternice propoziții ale scrierii de după împreună în jurnalul de vise, cu data."
         }
       ],
       "keret": {
         "hu": "Az ébredés utáni küszöb-állapotban a cenzor még félálomban van — ezért gazdagabb az anyag; ehhez nem kell rendkívüli magyarázat. Az álom-emlékezet és az automatikus írás kölcsönösen erősítik egymást, ahogy a modul napló-leckéje is tanítja.",
-        "en": "In the threshold state after waking the censor is still half asleep — hence the richer material; no extraordinary explanation is needed. Dream recall and automatic writing strengthen each other, as the module's journal lesson also teaches."
+        "en": "In the threshold state after waking the censor is still half asleep — hence the richer material; no extraordinary explanation is needed. Dream recall and automatic writing strengthen each other, as the module's journal lesson also teaches.",
+        "ro": "În starea de prag de după trezire cenzorul e încă pe jumătate adormit — de aici materialul mai bogat; nu e nevoie de nicio explicație extraordinară. Rememorarea viselor și scrierea automată se întăresc reciproc, așa cum predă și lecția de jurnal a modulului."
       },
       "etika": {
         "hu": "Az álom és az utóírás nem lelet: se magadnak, se másnak ne állíts fel belőle diagnózist, és fontos döntést ne alapozz rá egyedül. A megfejtés joga az álmodóé — és az is mérlegelendő gondolat marad.",
-        "en": "The dream and the after-writing are not a lab result: diagnose neither yourself nor others from them, and never base an important decision on them alone. Interpretation belongs to the dreamer — and even that remains thought to be weighed."
+        "en": "The dream and the after-writing are not a lab result: diagnose neither yourself nor others from them, and never base an important decision on them alone. Interpretation belongs to the dreamer — and even that remains thought to be weighed.",
+        "ro": "Visul și scrierea de după nu sunt un rezultat de laborator: nu te diagnostica pe tine și nici pe alții din ele, și nu întemeia niciodată o decizie importantă doar pe ele. Interpretarea îi aparține celui care visează — și chiar și aceea rămâne gând de cântărit."
       },
       "sorszam": 8
     },
@@ -366,41 +435,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "A megkülönböztetés-rosta",
-        "en": "The discernment sieve"
+        "en": "The discernment sieve",
+        "ro": "Sita discernământului"
       },
       "cel": {
         "hu": "Az anyag mesterfokú rostálása: mi jön felismerhetően belülről, mi érződik külsőnek, mi kíván mérlegelést — és mi az, amit jelzésként kell kezelni, nem tartalomként.",
-        "en": "Master-level sifting of the material: what recognizably comes from within, what feels external, what calls for weighing — and what must be treated as a signal, not as content."
+        "en": "Master-level sifting of the material: what recognizably comes from within, what feels external, what calls for weighing — and what must be treated as a signal, not as content.",
+        "ro": "Cernerea la nivel de maestru a materialului: ce vine recunoscut dinăuntru, ce se simte extern, ce cere cântărire — și ce trebuie tratat ca semnal, nu ca conținut."
       },
       "modszer": [
         {
           "hu": "Végy elő egy ülés-szöveget, és jelölj hármas rostával: ami felismerhetően a tiéd (emlék, vágy, félelem nyomán); ami meglepő, de táplál; ami idegennek vagy parancsolónak érződik.",
-          "en": "Take a session text and mark with a threefold sieve: what is recognizably yours (traceable to memory, desire, fear); what is surprising but nourishing; what feels foreign or commanding."
+          "en": "Take a session text and mark with a threefold sieve: what is recognizably yours (traceable to memory, desire, fear); what is surprising but nourishing; what feels foreign or commanding.",
+          "ro": "Ia un text de sesiune și marchează-l cu o sită triplă: ce e recunoscut al tău (trasabil la memorie, dorință, frică); ce e surprinzător dar hrănitor; ce se simte străin sau poruncitor."
         },
         {
           "hu": "Az első két réteget vezesd a naplókba, és mérlegeld — ez a gyakorlat termése.",
-          "en": "Lead the first two layers into the journals and weigh them — this is the practice's harvest."
+          "en": "Lead the first two layers into the journals and weigh them — this is the practice's harvest.",
+          "ro": "Du primele două straturi în jurnale și cântărește-le — aceasta e recolta practicii."
         },
         {
           "hu": "A parancsoló hangnál alkalmazd a Kaspirovszkij-lecke kritikus szünetét: állj meg, és vizsgáld meg, mielőtt bármit beengednél — a parancs-jelleg önmagában leértékeli a tartalmat.",
-          "en": "At a commanding tone apply the critical pause of the Kaspirovsky lesson: stop and examine before letting anything in — the commanding character itself devalues the content."
+          "en": "At a commanding tone apply the critical pause of the Kaspirovsky lesson: stop and examine before letting anything in — the commanding character itself devalues the content.",
+          "ro": "La un ton poruncitor aplică pauza critică din lecția Kaspirovsky: oprește-te și examinează înainte de a lăsa ceva să intre — caracterul poruncitor însuși devalorizează conținutul."
         },
         {
           "hu": "Hívd a mentalizmus-pajzsot: kérdezd meg, milyen fogással akar hatni rád a mondat — sürgetés, hízelgés, félelemkeltés —, és nevezd meg a fogást.",
-          "en": "Call the mentalism shield: ask what device the sentence uses to work on you — urgency, flattery, fear — and name the device."
+          "en": "Call the mentalism shield: ask what device the sentence uses to work on you — urgency, flattery, fear — and name the device.",
+          "ro": "Cheamă scutul mentalismului: întreabă ce artificiu folosește propoziția ca să acționeze asupra ta — urgență, lingușire, frică — și numește artificiul."
         },
         {
           "hu": "Vezess rosta-statisztikát a naplóban: a három réteg aránya ülésről ülésre — az arány változása többet mond bármelyik ülésnél.",
-          "en": "Keep sieve statistics in the journal: the ratio of the three layers from session to session — the change of ratio says more than any single session."
+          "en": "Keep sieve statistics in the journal: the ratio of the three layers from session to session — the change of ratio says more than any single session.",
+          "ro": "Ține statistici ale sitei în jurnal: raportul celor trei straturi de la sesiune la sesiune — schimbarea raportului spune mai mult decât orice sesiune izolată."
         }
       ],
       "keret": {
         "hu": "A rosta a médiumság-modul megkülönböztetés-leckéjének írásos gyakorlóterepe: mi belülről jövő, mi külsőnek tűnő, mi mérlegelendő. A „külső” érzet önmagában nem bizonyíték semmire — élmény-minőség, amelyet ugyanúgy rostálunk, mint minden mást.",
-        "en": "The sieve is the written training ground of the mediumship module's discernment lesson: what comes from within, what seems external, what needs weighing. The 'external' feel is in itself proof of nothing — an experiential quality, sifted like everything else."
+        "en": "The sieve is the written training ground of the mediumship module's discernment lesson: what comes from within, what seems external, what needs weighing. The 'external' feel is in itself proof of nothing — an experiential quality, sifted like everything else.",
+        "ro": "Sita este terenul de antrenament scris al lecției de discernământ din modulul de mediumnitate: ce vine dinăuntru, ce pare extern, ce are nevoie de cântărire. Sentimentul de «extern» nu e în sine dovadă a nimic — o calitate experiențială, cernută ca orice altceva."
       },
       "etika": {
         "hu": "Ha a parancsoló, külsőnek érződő hang tartósan visszatér, és nyomaszt vagy ijeszt: tedd le a gyakorlatot, és fordulj szakemberhez — ez a felelős gyakorló mozdulata, nem kudarc. Kényszeres gyakorlás, növekvő félelem, elszigetelő „utasítások” — bármelyik jelentkezik, előbb szünet és józan ránézés.",
-        "en": "If the commanding, external-feeling voice returns persistently and it distresses or frightens you: put the practice down and turn to a professional — this is the responsible practitioner's move, not failure. Compulsive practice, growing fear, isolating 'instructions' — if any appear, first a pause and a sober look."
+        "en": "If the commanding, external-feeling voice returns persistently and it distresses or frightens you: put the practice down and turn to a professional — this is the responsible practitioner's move, not failure. Compulsive practice, growing fear, isolating 'instructions' — if any appear, first a pause and a sober look.",
+        "ro": "Dacă vocea poruncitoare, cu senzație de extern, revine stăruitor și te neliniștește sau te înspăimântă: lasă practica deoparte și apelează la un profesionist — aceasta e mișcarea practicianului responsabil, nu un eșec. Practică compulsivă, frică crescândă, «instrucțiuni» care te izolează — dacă apare oricare, mai întâi o pauză și o privire trează."
       },
       "sorszam": 9
     },
@@ -412,37 +490,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "Heti minta-olvasás — a hosszú ív",
-        "en": "Weekly pattern reading — the long arc"
+        "en": "Weekly pattern reading — the long arc",
+        "ro": "Citirea săptămânală a tiparelor — arcul lung"
       },
       "cel": {
         "hu": "A hét összes ülésének együttes visszaolvasása: a visszatérő szavak, képek és témák kigyűjtése — mert a minta többet mond, mint bármelyik ülés önmagában.",
-        "en": "Reading back all the week's sessions together: collecting the recurring words, images and themes — for the pattern says more than any single session on its own."
+        "en": "Reading back all the week's sessions together: collecting the recurring words, images and themes — for the pattern says more than any single session on its own.",
+        "ro": "Recitirea tuturor sesiunilor săptămânii împreună: culegerea cuvintelor, imaginilor și temelor care revin — căci tiparul spune mai mult decât orice sesiune izolată de una singură."
       },
       "modszer": [
         {
           "hu": "Hetente egyszer, nyugodt órán olvasd végig a hét ülés-szövegeit és a hozzájuk tartozó naplóbejegyzéseket.",
-          "en": "Once a week, in a quiet hour, read through the week's session texts and their journal entries."
+          "en": "Once a week, in a quiet hour, read through the week's session texts and their journal entries.",
+          "ro": "O dată pe săptămână, într-o oră liniștită, citește textele de sesiune ale săptămânii și însemnările lor din jurnal."
         },
         {
           "hu": "Gyűjtsd ki a visszatérő szavakat, képeket, témákat — külön lapra vagy külön bejegyzésbe.",
-          "en": "Collect the recurring words, images, themes — on a separate page or in a separate entry."
+          "en": "Collect the recurring words, images, themes — on a separate page or in a separate entry.",
+          "ro": "Culege cuvintele, imaginile, temele care revin — pe o pagină separată sau într-o însemnare separată."
         },
         {
           "hu": "Kérdezd meg: mit mutat a visszatérés a hetemről, és mi az, amit egyetlen ülésből nem láttam volna meg?",
-          "en": "Ask: what does the recurrence show about my week, and what would I not have seen from a single session?"
+          "en": "Ask: what does the recurrence show about my week, and what would I not have seen from a single session?",
+          "ro": "Întreabă: ce arată reapariția despre săptămâna mea, și ce n-aș fi văzut dintr-o singură sesiune?"
         },
         {
           "hu": "Ha egy jellemvonás rajzolódik ki, tápláld be a Bardon-lépések lélek-tükrébe — fekete vagy fehér oldalra, őszintén.",
-          "en": "If a character trait takes shape, feed it into the soul mirror of the Bardon steps — onto the black or the white side, honestly."
+          "en": "If a character trait takes shape, feed it into the soul mirror of the Bardon steps — onto the black or the white side, honestly.",
+          "ro": "Dacă se conturează o trăsătură de caracter, trece-o în oglinda sufletului din treptele Bardon — pe partea neagră sau pe cea albă, cu onestitate."
         },
         {
           "hu": "Zárd a heti olvasást egyetlen kérdéssel a következő hétre — ez lehet a következő kérdés-vezetett ülés magja.",
-          "en": "Close the weekly reading with a single question for the coming week — it can become the seed of the next question-led session."
+          "en": "Close the weekly reading with a single question for the coming week — it can become the seed of the next question-led session.",
+          "ro": "Încheie citirea săptămânală cu o singură întrebare pentru săptămâna care vine — poate deveni sămânța următoarei sesiuni ghidate de întrebare."
         }
       ],
       "keret": {
         "hu": "Egyetlen ülés sosem mond sokat; húsz ülés íve annál többet. A minta a küszöb alatti anyag kézírása — és a heti olvasás az, ami az automatikus írást alkalmi élményből önismereti munkává teszi. A mérce a gyümölcs: tisztábban látod-e magad, mint egy hónapja.",
-        "en": "One session never says much; the arc of twenty sessions says a great deal. The pattern is the handwriting of the material beneath the threshold — and the weekly reading is what turns automatic writing from an occasional experience into self-knowledge work. The measure is the fruit: whether you see yourself more clearly than a month ago."
+        "en": "One session never says much; the arc of twenty sessions says a great deal. The pattern is the handwriting of the material beneath the threshold — and the weekly reading is what turns automatic writing from an occasional experience into self-knowledge work. The measure is the fruit: whether you see yourself more clearly than a month ago.",
+        "ro": "O sesiune nu spune niciodată mult; arcul a douăzeci de sesiuni spune foarte mult. Tiparul este scrisul de mână al materialului de sub prag — iar citirea săptămânală e ceea ce transformă scrierea automată dintr-o experiență ocazională în muncă de cunoaștere de sine. Măsura e rodul: dacă te vezi pe tine mai limpede decât acum o lună."
       },
       "sorszam": 10
     }

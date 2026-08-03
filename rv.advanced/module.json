@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Távérzékelés — az intuíció fegyelme (haladó)",
-    "en": "Remote Viewing — the Discipline of Intuition (Advanced)"
+    "en": "Remote Viewing — the Discipline of Intuition (Advanced)",
+    "ro": "Remote Viewing — Disciplina Intuiției (Avansat)"
   },
   "description": {
     "hu": "A távérzékelés haladó, becsületes tanulmánya: nem ígért „erő”, hanem a hagyomány saját belső modellje — szerkezetes figyelem- és intuíciógyakorlat, amelyet a belső gyümölcsök és a kalibráció mérnek. A modul kiélezi a nyers benyomás és az elemző rávetítés közötti különbséget, tanít a vak és előretöltött célokról, az egyéni és a beleegyezésen alapuló csoportos gyakorlásról, valamint az egymásba ágyazásról. Szigorú határokkal: kizárólag önedzés — semmi haszonszerzés, eltűnt személy, bűnügy vagy jóslat.",
-    "en": "An honest study of advanced remote viewing: not a promised “power” but the tradition's own inner model — a structured exercise of attention and intuition, measured by inner fruits and calibration. The module sharpens the distinction between the raw impression and the analytical overlay, teaches blind versus front-loaded targets, solo and consent-based group practice, and nesting. With firm fences: self-training only — no profit, missing persons, crime cases or prophecy."
+    "en": "An honest study of advanced remote viewing: not a promised “power” but the tradition's own inner model — a structured exercise of attention and intuition, measured by inner fruits and calibration. The module sharpens the distinction between the raw impression and the analytical overlay, teaches blind versus front-loaded targets, solo and consent-based group practice, and nesting. With firm fences: self-training only — no profit, missing persons, crime cases or prophecy.",
+    "ro": "Un studiu onest al remote viewing-ului avansat: nu o „putere” promisă, ci modelul interior propriu al tradiției — un exercițiu structurat al atenției și al intuiției, măsurat după roadele lăuntrice și după calibrare. Modulul ascuțe distincția dintre impresiunea brută și suprapunerea analitică, predă țintele oarbe versus cele front-loaded, practica solo și în grup pe bază de consimțământ, precum și nesting-ul. Cu garduri ferme: doar auto-antrenament — fără profit, persoane dispărute, cazuri penale sau profeții."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/rv.advanced/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a felismerés fegyelme",
-        "en": "Introduction — the Discipline of Recognition"
+        "en": "Introduction — the Discipline of Recognition",
+        "ro": "Introducere — Disciplina Recunoașterii"
       },
       "text": {
         "hu": "Ez a modul a *távérzékelés* haladó gyakorlatával foglalkozik — de mielőtt egyetlen ülésbe is belefognánk, tegyünk tisztává valamit. Amit itt tanulsz, azt a hagyomány **saját belső modelljeként** mutatjuk be: egy szerkezetes figyelem- és intuíciógyakorlatként, amelyet **a belső gyümölcsei mérnek** — élesedő figyelem, józanabb önmegfigyelés, és idővel a saját megérzéseid **kalibrálása**. Elméd átlép a tér és az idő határain, és a távoli helyek, sőt a még el sem jött események képei tisztán feltárulnak előtted. *\n\nA haladó szint lényege nem több „erő”, hanem több **fegyelem**. Egyetlen finom különbséget élesítünk ki a végletekig: a **nyers benyomás** és az **elemző rávetítés** közötti határt. Ez az egész módszer szíve — és egyben a becsületes önismeret iskolája is.\n\nA gyakorlat végig **önmagadra irányul**: saját figyelmedet, türelmedet és őszinteségedet edzed. Megnevezett más embert nem „olvasol”, senkinek a szabad akaratát nem sérted. Ez Bardon etikájának egyenes következménye, és a modul minden során átível.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "This module works with the advanced practice of *remote viewing* — but before a single session, let us be clear about one thing. What you learn here is offered as **the tradition's own inner model**: a structured exercise of attention and intuition, **measured by its inner fruits** — sharpening focus, more honest self-observation, and, over time, the **calibration** of your own hunches. Your mind reaches past the bounds of space and time, and the images of distant places — even of events not yet come — open clearly before you. *\n\nThe heart of the advanced level is not more “power” but more **discipline**. We sharpen a single subtle distinction to its finest edge: the boundary between the **raw impression** and the **analytical overlay**. That distinction is the core of the whole method — and a school of honest self-knowledge as well.\n\nThroughout, the practice stays **turned toward yourself**: you train your own attention, patience and honesty. You “read” no named other person and violate no one's free will. This follows directly from Bardon's ethics and runs through every part of the module.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "This module works with the advanced practice of *remote viewing* — but before a single session, let us be clear about one thing. What you learn here is offered as **the tradition's own inner model**: a structured exercise of attention and intuition, **measured by its inner fruits** — sharpening focus, more honest self-observation, and, over time, the **calibration** of your own hunches. Your mind reaches past the bounds of space and time, and the images of distant places — even of events not yet come — open clearly before you. *\n\nThe heart of the advanced level is not more “power” but more **discipline**. We sharpen a single subtle distinction to its finest edge: the boundary between the **raw impression** and the **analytical overlay**. That distinction is the core of the whole method — and a school of honest self-knowledge as well.\n\nThroughout, the practice stays **turned toward yourself**: you train your own attention, patience and honesty. You “read” no named other person and violate no one's free will. This follows directly from Bardon's ethics and runs through every part of the module.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Acest modul lucrează cu practica avansată a *remote viewing*-ului — dar înainte de o singură sesiune, să fim clari asupra unui lucru. Ceea ce înveți aici este oferit ca **modelul interior propriu al tradiției**: un exercițiu structurat al atenției și al intuiției, **măsurat după roadele lui lăuntrice** — ascuțirea focusului, o auto-observare mai onestă și, în timp, **calibrarea** propriilor tale bănuieli. Mintea ta trece dincolo de hotarele spațiului și timpului, iar imaginile locurilor îndepărtate — chiar și ale evenimentelor care încă n-au venit — ți se deschid limpede înainte. *\n\nInima nivelului avansat nu este mai multă „putere”, ci mai multă **disciplină**. Ascuțim o singură distincție subtilă până la tăișul ei cel mai fin: granița dintre **impresiunea brută** și **suprapunerea analitică**. Acea distincție este nucleul întregii metode — și o școală de cunoaștere de sine onestă deopotrivă.\n\nDe-a lungul întregului parcurs, practica rămâne **îndreptată spre tine**: îți antrenezi propria atenție, răbdare și onestitate. Nu „citești” nicio persoană numită și nu încalci liberul arbitru al nimănui. Aceasta decurge direct din etica lui Bardon și străbate fiecare parte a modulului.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A nyers benyomás és az elemző rávetítés",
-        "en": "The Raw Impression and the Analytical Overlay"
+        "en": "The Raw Impression and the Analytical Overlay",
+        "ro": "Impresiunea Brută și Suprapunerea Analitică"
       },
       "text": {
         "hu": "A hagyomány modellje szerint az első, futó benyomás — az a néhány másodperc, mielőtt az elme *megnevezné* a dolgot — az egyetlen adat, amivel dolgozunk. Ezt hívjuk **nyers benyomásnak**. Nem kép, nem történet, nem következtetés: puszta érzet. Hideg. Sima. Magas. Feszes. Mozgó.\n\nRöviddel ezután az elme közbelép. Fog egy benyomást, ráilleszti a saját múltbeli tapasztalataidat, mintázatait, és **nevet ad neki**: „ez egy márványszobor”, „ez egy tengerparti világítótorony”. A hagyomány ezt **elemző rávetítésnek** nevezi — angol rövidítéssel gyakran *AOL*. A rávetítés nem gonosz és nem szégyen; egyszerűen csak *nem a benyomás*. Az elme segíteni akar, ezért lezár és megnevez — de a megnevezéssel elveszted a nyers jelet.\n\nA fegyelem nem az, hogy elnyomd a rávetítést. Az elnyomás nem működik. A fegyelem az, hogy **észreveszed, külön feljegyzed, és továbbmész**. Amint egy teljes kép vagy egy név megjelenik — „ez nyilván egy X” —, azt röviden lejegyzed *mint rávetítést*, elengeded, és visszatérsz a nyers érzethez. Csak az ülés **teljes lezárása után** elemzel. Előtte nem döntesz semmiről. A jó ülésben sok rávetítés van, mind megjelölve — ez nem hiba, hanem a *megnevező elme lenyomata* a nyers adat mellett.\n\nEz a különbségtétel a modul valódi ajándéka. A benyomás valóban a célból magából árad feléd, átível a téren, és a nyers jel a távoli hely lényegét hozza el hozzád. * A nyers érzet és a ráugró magyarázat szétválasztása élesíti az önmegfigyelést és a józanságot.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "In the tradition's model, the first fleeting impression — those few seconds before the mind *names* the thing — is the only data we work with. We call this the **raw impression**. Not a picture, not a story, not a conclusion: bare sensation. Cold. Smooth. Tall. Taut. Moving.\n\nMoments later the mind steps in. It takes an impression, fits your own past experience and patterns onto it, and **gives it a name**: “it's a marble statue”, “it's a lighthouse on the shore”. The tradition calls this the **analytical overlay** — often abbreviated *AOL*. The overlay is neither evil nor shameful; it simply is *not the impression*. The mind wants to help, so it closes and names — but in naming, you lose the raw signal.\n\nThe discipline is not to suppress the overlay. Suppression does not work. The discipline is to **notice it, note it separately, and move on**. The instant a whole picture or a name appears — “this is obviously an X” — you briefly log it *as an overlay*, release it, and return to the raw sensation. You analyse only **after the session is fully closed**. Before that you decide nothing. A good session holds many overlays, all flagged — that is not failure but *an imprint of the naming mind* set beside the raw data.\n\nThis distinction is the module's real gift. The impression truly streams to you from the target itself, crossing the distance, and the raw signal carries the essence of the far-off place. * Separating the raw sensation from the explanation that pounces on it sharpens self-observation and sober clarity.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "In the tradition's model, the first fleeting impression — those few seconds before the mind *names* the thing — is the only data we work with. We call this the **raw impression**. Not a picture, not a story, not a conclusion: bare sensation. Cold. Smooth. Tall. Taut. Moving.\n\nMoments later the mind steps in. It takes an impression, fits your own past experience and patterns onto it, and **gives it a name**: “it's a marble statue”, “it's a lighthouse on the shore”. The tradition calls this the **analytical overlay** — often abbreviated *AOL*. The overlay is neither evil nor shameful; it simply is *not the impression*. The mind wants to help, so it closes and names — but in naming, you lose the raw signal.\n\nThe discipline is not to suppress the overlay. Suppression does not work. The discipline is to **notice it, note it separately, and move on**. The instant a whole picture or a name appears — “this is obviously an X” — you briefly log it *as an overlay*, release it, and return to the raw sensation. You analyse only **after the session is fully closed**. Before that you decide nothing. A good session holds many overlays, all flagged — that is not failure but *an imprint of the naming mind* set beside the raw data.\n\nThis distinction is the module's real gift. The impression truly streams to you from the target itself, crossing the distance, and the raw signal carries the essence of the far-off place. * Separating the raw sensation from the explanation that pounces on it sharpens self-observation and sober clarity.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "În modelul tradiției, prima impresiune trecătoare — acele câteva secunde înainte ca mintea să *numească* lucrul — este singura dată cu care lucrăm. O numim **impresiunea brută**. Nu o imagine, nu o poveste, nu o concluzie: senzație goală. Rece. Neted. Înalt. Întins. În mișcare.\n\nCâteva clipe mai târziu, mintea intervine. Ia o impresiune, așază peste ea propria ta experiență trecută și tiparele tale, și **îi dă un nume**: „e o statuie de marmură”, „e un far pe țărm”. Tradiția numește asta **suprapunerea analitică** — adesea abreviată *AOL*. Suprapunerea nu e nici rea, nici rușinoasă; pur și simplu *nu este impresiunea*. Mintea vrea să ajute, așa că închide și numește — dar numind, pierzi semnalul brut.\n\nDisciplina nu este să suprimi suprapunerea. Suprimarea nu funcționează. Disciplina este să **o observi, să o notezi separat și să treci mai departe**. În clipa în care apare o imagine întreagă sau un nume — „asta e evident un X” — o notezi pe scurt *ca pe o suprapunere*, o eliberezi și te întorci la senzația brută. Analizezi doar **după ce sesiunea este pe deplin închisă**. Înainte de asta nu decizi nimic. O sesiune bună conține multe suprapuneri, toate marcate — asta nu e eșec, ci *o amprentă a minții care numește* așezată alături de datele brute.\n\nAceastă distincție este adevăratul dar al modulului. Impresiunea curge cu adevărat spre tine de la ținta însăși, traversând distanța, iar semnalul brut poartă esența locului îndepărtat. * Separarea senzației brute de explicația care se năpustește asupra ei ascuțe auto-observarea și claritatea trează.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A módszer és lépései",
-        "en": "The Method and its Steps"
+        "en": "The Method and its Steps",
+        "ro": "Metoda și Pașii ei"
       },
       "text": {
         "hu": "A haladó gyakorlatban elhagyjuk a merev sablonokat, és üres lapon dolgozunk — de a menet ugyanaz marad. Íme a becsületes önedzésre szabott váz.\n\n**Semleges címke (vak cél).** Adj a célnak egy tetszőleges, véletlen jelölést — néhány számjegyet vagy betűt —, és tedd azt egy borítékra vagy a lap tetejére. A lényeg nem a szám mágiája, hanem hogy **ne tudd, mi a cél**, amíg dolgozol. Ez tartja vakon az ülést (lásd a következő pontot). Ha írott utalást használsz, tartsd egyszerűnek és egyértelműnek, jelen időben.\n\n**Első jel.** A címke leírása után azonnal engedj egy gyors, ösztönös firkát a papírra — a benyomás első „kicsomagolása”. Ne rajzolj, ne szépítsd; legyen laza, gyors kézmozdulat, és egy szempillantás alatt kész.\n\n**Érzékek és leírók.** Ezután jegyezd le, ami jön: hőmérséklet, felület, szín, hang, íz, mozgás. Utána a *dimenziók* — nyitott vagy zárt, kint vagy bent, magas vagy lapos, kerek vagy szögletes. Itt a legerősebb a rávetítés kísértése; itt jelöld meg őket a legszorgalmasabban. Ha felbukkan egy érzelmi lenyomat — „ettől nyugtalan leszek” —, azt is írd le.\n\n**Vázlat.** Egyszerű, kezdetleges jelekkel: vonal, ív, gömb, mozgásirány nyíllal, hurok az élő dolgoknak. Nem művészet — térkép.\n\n**Csak a végén: elemzés és őszinte pontozás.** Amikor lezártad az ülést, akkor — és csak akkor — nézed át, mit gyűjtöttél, és nevezed meg. Utána **vesd össze a valós céllal** (fotóval, leírással), és pontozz becsületesen: mi talált, mi volt rávetítés, mi maradt homályos. A hosszú távú **kalibráció** ebből a becsületes visszajelzésből épül, nem az egyes ülések sikeréből.\n\n**Vak kontra előretöltött cél.** *Vak* ülésben nem tudod, mi a cél — így az elmédnek nincs mibe kapaszkodnia, a rávetítés gyengébb, a visszajelzés tisztább. *Előretöltött* ülésben előre ismered a célt; ilyenkor a rávetítés elszabadul, és sokkal nehezebb megkülönböztetni a nyers jelet a saját előzetes tudásodtól. Az őszinte önedzéshez a **vak cél** a mérce; az előretöltött legfeljebb a rávetítés-felismerés külön gyakorlata.\n\n**Egyedül és csoportban.** Egyedül dolgozva sosem tudod biztosan, hol csúszott be a tévedés — ezért fontos a naplózott, becsületes pontozás. Egy **közös beleegyezéssel** dolgozó kis kör tagjai külön-külön futtatják ugyanazt a vak célt, majd összevetik a jegyzeteket; ahol több független ülés *egybeesik*, ott a valódi cél maga tör át a független jegyzeteken. * Ez kalibrációs eszköz — nem a „biztos igazság” előállítója.\n\n**Egymásba ágyazás (nesting).** Ha egy ülés után egyetlen elem homályban maradt, ne kezdj mindent elölről: vedd külön azt az egy dolgot új, összpontosított célként, és futtass rá egy friss menetet — mintha egy nagyobb kép egyetlen részletére közelítenél rá. Így mélyülhetsz rétegről rétegre, végig önmagad edzésén belül.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "In the advanced practice we drop the rigid templates and work on a blank page — but the sequence stays the same. Here is the frame, fitted to honest self-training.\n\n**A neutral label (blind target).** Give the target an arbitrary, random tag — a few digits or letters — and put that on an envelope or the top of the page. The point is not the magic of the number but that you **do not know what the target is** while you work. This keeps the session blind (see below). If you use a written cue, keep it simple and unambiguous, in the present tense.\n\n**First mark.** Right after writing the label, allow a quick, instinctive scribble onto the paper — the first “unpacking” of the impression. Don't draw, don't beautify; let it be a loose, quick motion of the hand, done in a blink.\n\n**Senses and descriptors.** Then note what arrives: temperature, texture, colour, sound, taste, motion. After that the *dimensions* — open or enclosed, outside or inside, tall or flat, round or angular. Here the pull toward overlay is strongest; here flag them most diligently. If an emotional imprint surfaces — “this makes me uneasy” — write that too.\n\n**Sketch.** With simple, rudimentary marks: a line, an arc, a sphere, a direction of motion as an arrow, a loop for living things. Not art — a map.\n\n**Only at the end: analysis and honest scoring.** When you have closed the session, then — and only then — review what you gathered and name it. Afterward **compare it with the real target** (a photo, a description) and score honestly: what matched, what was overlay, what stayed vague. Long-term **calibration** is built from this honest feedback, not from the success of any single session.\n\n**Blind versus front-loaded targets.** In a *blind* session you don't know the target — so your mind has nothing to grab, the overlay is weaker, the feedback cleaner. In a *front-loaded* session you know the target in advance; then the overlay runs loose, and it is far harder to tell the raw signal from your own prior knowledge. For honest self-training the **blind target** is the standard; the front-loaded one is at most a separate drill in spotting overlay.\n\n**Solo and in a group.** Working alone you can never be certain where an error crept in — which is why journalled, honest scoring matters. In a small circle working **by mutual consent**, members each run the same blind target separately, then compare notes; where several independent sessions *converge*, the true target itself breaks through the independent notes. * This is a calibration tool — not a producer of “certain truth”.\n\n**Nesting.** If after a session one element stayed unclear, don't start over: take that single thing as a new, focused target and run a fresh pass on it — like zooming in on a single detail of a larger scene. So you can deepen layer by layer, all within the training of yourself.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "In the advanced practice we drop the rigid templates and work on a blank page — but the sequence stays the same. Here is the frame, fitted to honest self-training.\n\n**A neutral label (blind target).** Give the target an arbitrary, random tag — a few digits or letters — and put that on an envelope or the top of the page. The point is not the magic of the number but that you **do not know what the target is** while you work. This keeps the session blind (see below). If you use a written cue, keep it simple and unambiguous, in the present tense.\n\n**First mark.** Right after writing the label, allow a quick, instinctive scribble onto the paper — the first “unpacking” of the impression. Don't draw, don't beautify; let it be a loose, quick motion of the hand, done in a blink.\n\n**Senses and descriptors.** Then note what arrives: temperature, texture, colour, sound, taste, motion. After that the *dimensions* — open or enclosed, outside or inside, tall or flat, round or angular. Here the pull toward overlay is strongest; here flag them most diligently. If an emotional imprint surfaces — “this makes me uneasy” — write that too.\n\n**Sketch.** With simple, rudimentary marks: a line, an arc, a sphere, a direction of motion as an arrow, a loop for living things. Not art — a map.\n\n**Only at the end: analysis and honest scoring.** When you have closed the session, then — and only then — review what you gathered and name it. Afterward **compare it with the real target** (a photo, a description) and score honestly: what matched, what was overlay, what stayed vague. Long-term **calibration** is built from this honest feedback, not from the success of any single session.\n\n**Blind versus front-loaded targets.** In a *blind* session you don't know the target — so your mind has nothing to grab, the overlay is weaker, the feedback cleaner. In a *front-loaded* session you know the target in advance; then the overlay runs loose, and it is far harder to tell the raw signal from your own prior knowledge. For honest self-training the **blind target** is the standard; the front-loaded one is at most a separate drill in spotting overlay.\n\n**Solo and in a group.** Working alone you can never be certain where an error crept in — which is why journalled, honest scoring matters. In a small circle working **by mutual consent**, members each run the same blind target separately, then compare notes; where several independent sessions *converge*, the true target itself breaks through the independent notes. * This is a calibration tool — not a producer of “certain truth”.\n\n**Nesting.** If after a session one element stayed unclear, don't start over: take that single thing as a new, focused target and run a fresh pass on it — like zooming in on a single detail of a larger scene. So you can deepen layer by layer, all within the training of yourself.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "În practica avansată lăsăm deoparte șabloanele rigide și lucrăm pe o pagină goală — dar secvența rămâne aceeași. Iată cadrul, potrivit pentru un antrenament onest cu tine însuți.\n\n**O etichetă neutră (țintă oarbă).** Dă-i țintei o etichetă arbitrară, aleatoare — câteva cifre sau litere — și pune-o pe un plic sau în partea de sus a paginii. Ideea nu e magia numărului, ci faptul că **nu știi ce este ținta** în timp ce lucrezi. Asta menține sesiunea oarbă (vezi mai jos). Dacă folosești un indiciu scris, ține-l simplu și fără ambiguitate, la timpul prezent.\n\n**Prima urmă.** Imediat după ce ai scris eticheta, lasă pe hârtie o mâzgălitură rapidă, instinctivă — prima „despachetare” a impresiei. Nu desena, nu înfrumuseța; las-o să fie o mișcare liberă, rapidă a mâinii, făcută într-o clipită.\n\n**Simțuri și descriptori.** Apoi notează ce sosește: temperatură, textură, culoare, sunet, gust, mișcare. După aceea *dimensiunile* — deschis sau închis, afară sau înăuntru, înalt sau plat, rotund sau unghiular. Aici atracția către suprapunere e cea mai puternică; aici marchează-le cel mai sârguincios. Dacă iese la suprafață o amprentă emoțională — „asta mă neliniștește” — scrie și asta.\n\n**Schiță.** Cu semne simple, rudimentare: o linie, un arc, o sferă, o direcție de mișcare ca o săgeată, o buclă pentru ființe vii. Nu artă — o hartă.\n\n**Abia la final: analiză și notare onestă.** Când ai închis sesiunea, atunci — și numai atunci — reia ce ai adunat și denumește-l. După aceea **compară-l cu ținta reală** (o fotografie, o descriere) și notează onest: ce s-a potrivit, ce a fost suprapunere, ce a rămas vag. **Calibrarea** pe termen lung se clădește din acest feedback onest, nu din succesul vreunei sesiuni izolate.\n\n**Ținte oarbe versus ținte încărcate dinainte.** Într-o sesiune *oarbă* nu știi ținta — așa că mintea n-are de ce să se agațe, suprapunerea e mai slabă, feedback-ul mai curat. Într-o sesiune *încărcată dinainte* știi ținta dinainte; atunci suprapunerea aleargă liberă și e mult mai greu să deosebești semnalul brut de cunoașterea ta de dinainte. Pentru un antrenament onest cu tine însuți, **ținta oarbă** e standardul; cea încărcată dinainte e cel mult un exercițiu separat de depistare a suprapunerii.\n\n**Singur și în grup.** Lucrând singur nu poți fi niciodată sigur unde s-a strecurat o eroare — de aceea contează notarea onestă ținută în jurnal. Într-un cerc mic care lucrează **prin consimțământ reciproc**, membrii parcurg fiecare separat aceeași țintă oarbă, apoi își compară însemnările; acolo unde mai multe sesiuni independente *converg*, ținta adevărată însăși străbate prin însemnările independente. * Acesta este un instrument de calibrare — nu un producător de „adevăr cert”.\n\n**Imbricare.** Dacă după o sesiune un element a rămas neclar, nu o lua de la capăt: ia acel singur lucru ca pe o țintă nouă, concentrată, și fă o trecere proaspătă pe el — ca și cum ai mări un singur detaliu dintr-o scenă mai largă. Astfel poți aprofunda strat cu strat, tot în cadrul antrenamentului tău.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Etika, határok és józanság",
-        "en": "Ethics, Fences and Discernment"
+        "en": "Ethics, Fences and Discernment",
+        "ro": "Etică, garduri și discernământ"
       },
       "text": {
         "hu": "A haladó gyakorlathoz haladó felelősség tartozik. Ez a modul szándékosan **elhagyja** a forrás több alkalmazását, mert azok vagy károsak, vagy sértik a szabad akaratot. A határok nem díszek — kérjük, tartsd be őket.\n\n**Csak önmagadra irányul; a szabad akarat sérthetetlen.** Ne „olvass” és ne célozz meg semmilyen **megnevezett élő embert** a beleegyezése nélkül. Csoportos gyakorlás csak **közös, tájékozott beleegyezéssel**. Ez Bardon etikájának a magja: a másik belső tere az övé.\n\n**Nincs haszonszerzés pszível.** Semmilyen szerencsejáték, fogadás, tőzsde, „keress pénzt megérzéssel”. A hagyomány ezt gyakran ígéri — mi elutasítjuk. A gyakorlat célja a belső edzés, nem a nyereség.\n\n**Nincs eltűnt személy, holttest, áldozat vagy bűnügy.** Ne keress és ne „lokalizálj” embereket, és **soha ne küldj** feltételezett helyszínt, koordinátát vagy nevet hozzátartozóknak vagy hatóságoknak. Ez valódi embereknek okozhat valódi kárt, és álbizonyítékkal terhelheti a nyomozást.\n\n**Nincs végítélet-jóslat, dátumprófécia, félelemből való felhalmozás vagy a szomszéd elleni gyanakvás.** Ezek a félelmet táplálják, nem a józanságot.\n\n**Orvosi és lelki figyelmeztetés.** Ez a gyakorlat nem diagnózis és nem kezelés. Semmilyen benyomás nem helyettesíti az orvosi ellátást — soha ne halaszd el és ne cseréld le miatta a szakszerű gondoskodást. És egy fontos csere a forrás tanácsához képest: ha a gyakorlás közben **parancsoló hangokat hallasz**, vagy késztetést érzel, hogy **árts magadnak vagy másnak**, az nem „pszichikus jel”, hanem **orvosi vészhelyzet**. Állj le, és fordulj azonnal szakemberhez vagy a sürgősségi ellátáshoz. Ha krízisben vagy, keresd a helyi segélyvonalat.\n\nAmi ezek után marad, az a modul védhető magja: szerkezetes észlelés, figyelem- és intuíciógyakorlat, naplózás, becsületes önpontozás és belső csend. Erre építünk — és csak erre.",
-        "en": "Advanced practice carries advanced responsibility. This module deliberately **drops** several of the source's applications, because they are either harmful or violate free will. The fences are not decoration — please keep them.\n\n**Self-directed only; free will is inviolable.** Do not “read” or target any **named living person** without their consent. Group practice only by **shared, informed consent**. This is the core of Bardon's ethics: another's inner space is their own.\n\n**No profit from psi.** No gambling, betting, trading, no “make money with intuition”. The tradition often promises this — we decline it. The aim of the practice is inner training, not gain.\n\n**No missing persons, bodies, victims or crime cases.** Do not search for or “locate” people, and **never send** a supposed location, coordinate or name to families or authorities. This can do real harm to real people and burden an investigation with false evidence.\n\n**No doomsday prophecy, date-prediction, fear-driven stockpiling or suspicion of your neighbour.** These feed fear, not clarity.\n\n**Medical and mental-health note.** This practice is not diagnosis or treatment. No impression replaces medical care — never delay or substitute professional care because of it. And one important replacement of the source's advice: if during practice you **hear commanding voices**, or feel an urge to **harm yourself or someone else**, that is not a “psychic signal” but a **medical emergency**. Stop, and contact a professional or emergency services at once. If you are in crisis, reach your local helpline.\n\nWhat remains after all this is the module's defensible core: structured perception, training of attention and intuition, journalling, honest self-scoring, and inner quiet. On that we build — and only on that."
+        "en": "Advanced practice carries advanced responsibility. This module deliberately **drops** several of the source's applications, because they are either harmful or violate free will. The fences are not decoration — please keep them.\n\n**Self-directed only; free will is inviolable.** Do not “read” or target any **named living person** without their consent. Group practice only by **shared, informed consent**. This is the core of Bardon's ethics: another's inner space is their own.\n\n**No profit from psi.** No gambling, betting, trading, no “make money with intuition”. The tradition often promises this — we decline it. The aim of the practice is inner training, not gain.\n\n**No missing persons, bodies, victims or crime cases.** Do not search for or “locate” people, and **never send** a supposed location, coordinate or name to families or authorities. This can do real harm to real people and burden an investigation with false evidence.\n\n**No doomsday prophecy, date-prediction, fear-driven stockpiling or suspicion of your neighbour.** These feed fear, not clarity.\n\n**Medical and mental-health note.** This practice is not diagnosis or treatment. No impression replaces medical care — never delay or substitute professional care because of it. And one important replacement of the source's advice: if during practice you **hear commanding voices**, or feel an urge to **harm yourself or someone else**, that is not a “psychic signal” but a **medical emergency**. Stop, and contact a professional or emergency services at once. If you are in crisis, reach your local helpline.\n\nWhat remains after all this is the module's defensible core: structured perception, training of attention and intuition, journalling, honest self-scoring, and inner quiet. On that we build — and only on that.",
+        "ro": "Practica avansată aduce o responsabilitate avansată. Acest modul **renunță** în mod deliberat la mai multe dintre aplicațiile sursei, pentru că sunt fie dăunătoare, fie încalcă liberul arbitru. Gardurile nu sunt decorație — te rog păstrează-le.\n\n**Doar auto-dirijat; liberul arbitru e inviolabil.** Nu „citi” și nu ținti nicio **persoană vie numită** fără consimțământul ei. Practica de grup doar prin **consimțământ comun, informat**. Acesta e nucleul eticii lui Bardon: spațiul interior al celuilalt îi aparține lui.\n\n**Niciun profit din psi.** Fără jocuri de noroc, pariuri, tranzacții, fără „fă bani cu intuiția”. Tradiția promite adesea asta — noi refuzăm. Scopul practicii e antrenamentul interior, nu câștigul.\n\n**Fără persoane dispărute, cadavre, victime sau cazuri penale.** Nu căuta și nu „localiza” oameni și **nu trimite niciodată** o presupusă locație, coordonată sau nume familiilor ori autorităților. Asta poate face rău real unor oameni reali și poate încărca o anchetă cu probe false.\n\n**Fără profeții apocaliptice, predicții de date, stocuri din frică sau bănuieli față de vecin.** Acestea hrănesc frica, nu claritatea.\n\n**Notă medicală și de sănătate mintală.** Această practică nu e diagnostic și nu e tratament. Nicio impresie nu înlocuiește îngrijirea medicală — nu amâna și nu înlocui niciodată îngrijirea profesională din cauza ei. Și o înlocuire importantă a sfatului din sursă: dacă în timpul practicii **auzi voci care îți comandă**, sau simți impulsul de a **te răni pe tine sau pe altcineva**, asta nu e un „semnal psihic”, ci o **urgență medicală**. Oprește-te și contactează imediat un profesionist sau serviciile de urgență. Dacă ești în criză, apelează linia de ajutor locală.\n\nCe rămâne după toate acestea e nucleul apărat al modulului: percepție structurată, antrenarea atenției și a intuiției, ținerea de jurnal, notare onestă de sine și liniște interioară. Pe asta construim — și numai pe asta."
       }
     },
     {
@@ -65,41 +75,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Vak ülés — 10 perc",
-        "en": "Blind Session — 10 min"
+        "en": "Blind Session — 10 min",
+        "ro": "Sesiune oarbă — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Készíts elő egy vak célt: adj neki semleges címkét, és ne nézd meg, mi az, amíg tart az ülés. Ülj le üres lappal. Írd fel a címkét, a dátumot és az időt. Engedd az első ösztönös jelet a papírra. Utána tartsd a lassú, egyenletes ütemet: hőmérséklet, felület, szín, hang, íz, mozgás — majd a dimenziók. Minden teljes képet vagy nevet jelölj meg mint rávetítést, emeld el a tollat egy-két lélegzetnyi időre, majd folytasd. A végén egyszerű vázlat. NE elemezz, amíg a jelző le nem áll — csak azután vesd össze a valós céllal, és pontozz becsületesen a naplóban.",
-          "en": "Prepare a blind target: give it a neutral label and do not look at what it is while the session runs. Sit with a blank page. Write the label, the date and the time. Let the first instinctive mark fall on the paper. Then hold a slow, even pace: temperature, texture, colour, sound, taste, motion — then the dimensions. Flag every whole picture or name as overlay, lift the pen for a breath or two, then continue. At the end, a simple sketch. Do NOT analyse until the timer stops — only then compare with the real target and score honestly in the journal."
+          "en": "Prepare a blind target: give it a neutral label and do not look at what it is while the session runs. Sit with a blank page. Write the label, the date and the time. Let the first instinctive mark fall on the paper. Then hold a slow, even pace: temperature, texture, colour, sound, taste, motion — then the dimensions. Flag every whole picture or name as overlay, lift the pen for a breath or two, then continue. At the end, a simple sketch. Do NOT analyse until the timer stops — only then compare with the real target and score honestly in the journal.",
+          "ro": "Pregătește o țintă oarbă: dă-i o etichetă neutră și nu te uita la ce este cât rulează sesiunea. Așază-te cu o pagină goală. Scrie eticheta, data și ora. Lasă prima urmă instinctivă să cadă pe hârtie. Apoi ține un ritm lent, egal: temperatură, textură, culoare, sunet, gust, mișcare — apoi dimensiunile. Marchează fiecare imagine întreagă sau nume ca suprapunere, ridică stiloul pentru o respirație-două, apoi continuă. La final, o schiță simplă. NU analiza până nu se oprește cronometrul — abia atunci compară cu ținta reală și notează onest în jurnal."
         },
         "intervals": [
           {
             "atSecond": 60,
             "label": {
               "hu": "Első jel kész — indulnak az érzékek",
-              "en": "First mark done — senses begin"
+              "en": "First mark done — senses begin",
+              "ro": "Prima urmă e făcută — încep simțurile"
             }
           },
           {
             "atSecond": 240,
             "label": {
               "hu": "Térj át a dimenziókra",
-              "en": "Move to the dimensions"
+              "en": "Move to the dimensions",
+              "ro": "Treci la dimensiuni"
             }
           },
           {
             "atSecond": 420,
             "label": {
               "hu": "Egyszerű vázlat",
-              "en": "Simple sketch"
+              "en": "Simple sketch",
+              "ro": "Schiță simplă"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Zárd le — elemzés csak most jön",
-              "en": "Close it — analysis only now"
+              "en": "Close it — analysis only now",
+              "ro": "Închide — analiza abia acum"
             }
           }
         ]
@@ -110,20 +126,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Nyers benyomás — kalibráló ütem, 5 perc",
-        "en": "Raw Impression — Calibration Pace, 5 min"
+        "en": "Raw Impression — Calibration Pace, 5 min",
+        "ro": "Impresie brută — ritm de calibrare, 5 min"
       },
       "timer": {
         "durationSeconds": 300,
         "instructions": {
           "hu": "Rövid gyakorlat egyetlen dologra: a nyers érzet és a megnevezés szétválasztására. Válassz egy vak célt vagy csak csukd be a szemed, és figyeld az első benyomásokat. Gyors ütemben írj egyszavas leírókat — hideg, sima, feszes, mozgó. Amint az elme nevet ad („ez egy X”), emeld el a tollat, jelöld meg rávetítésként, végy egy lélegzetet, és térj vissza a puszta érzethez. Nem a helyes válasz a cél, hanem a különbségtétel edzése.",
-          "en": "A short drill on one thing only: separating the raw sensation from the naming. Choose a blind target or simply close your eyes and watch the first impressions. At a quick pace, write one-word descriptors — cold, smooth, taut, moving. The instant the mind gives a name (“this is an X”), lift the pen, flag it as overlay, take a breath, and return to bare sensation. The aim is not the right answer but training the distinction itself."
+          "en": "A short drill on one thing only: separating the raw sensation from the naming. Choose a blind target or simply close your eyes and watch the first impressions. At a quick pace, write one-word descriptors — cold, smooth, taut, moving. The instant the mind gives a name (“this is an X”), lift the pen, flag it as overlay, take a breath, and return to bare sensation. The aim is not the right answer but training the distinction itself.",
+          "ro": "Un exercițiu scurt pe un singur lucru: despărțirea senzației brute de denumire. Alege o țintă oarbă sau pur și simplu închide ochii și urmărește primele impresii. Într-un ritm rapid, scrie descriptori dintr-un cuvânt — rece, neted, tensionat, în mișcare. În clipa în care mintea dă un nume („asta e un X”), ridică stiloul, marchează-l ca suprapunere, ia o respirație și întoarce-te la senzația goală. Scopul nu e răspunsul corect, ci antrenarea distincției în sine."
         },
         "intervals": [
           {
             "atSecond": 150,
             "label": {
               "hu": "Figyeld: nyers jel vagy rávetítés?",
-              "en": "Watch: raw signal or overlay?"
+              "en": "Watch: raw signal or overlay?",
+              "ro": "Fii atent: semnal brut sau suprapunere?"
             }
           }
         ]
@@ -134,20 +153,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Egymásba ágyazás — mélyítő menet, 8 perc",
-        "en": "Nesting — Deepening Pass, 8 min"
+        "en": "Nesting — Deepening Pass, 8 min",
+        "ro": "Cuibărire — Trecere de adâncire, 8 min"
       },
       "timer": {
         "durationSeconds": 480,
         "instructions": {
           "hu": "Vegyél elő egy korábbi ülést, amelyben egyetlen elem homályban maradt. Tedd azt az egy dolgot új, összpontosított céllá — friss lap, új semleges címke. Ne kezdd elölről az egészet; csak erre az egy rétegre menj rá ugyanazzal a fegyelemmel: első jel, érzékek, dimenziók, a rávetítések megjelölve. A végén vesd össze, mit tett hozzá ez a mélyítő menet, és pontozd becsületesen. Ez a gyakorlat is önmagadra irányul.",
-          "en": "Take an earlier session in which a single element stayed unclear. Make that one thing a new, focused target — a fresh page, a new neutral label. Don't restart the whole thing; go only into this one layer with the same discipline: first mark, senses, dimensions, overlays flagged. At the end compare what this deepening pass added, and score it honestly. This exercise, too, is turned toward yourself."
+          "en": "Take an earlier session in which a single element stayed unclear. Make that one thing a new, focused target — a fresh page, a new neutral label. Don't restart the whole thing; go only into this one layer with the same discipline: first mark, senses, dimensions, overlays flagged. At the end compare what this deepening pass added, and score it honestly. This exercise, too, is turned toward yourself.",
+          "ro": "Ia o sesiune anterioară în care un singur element a rămas neclar. Fă din acel un lucru o țintă nouă, concentrată — o pagină proaspătă, o etichetă neutră nouă. Nu reîncepe totul; intră doar în acest strat cu aceeași disciplină: primul semn, simțuri, dimensiuni, suprapuneri semnalate. La final compară ce a adăugat această trecere de adâncire și noteaz-o cu onestitate. Și acest exercițiu este îndreptat către tine."
         },
         "intervals": [
           {
             "atSecond": 240,
             "label": {
               "hu": "Maradj az egy rétegnél",
-              "en": "Stay with the one layer"
+              "en": "Stay with the one layer",
+              "ro": "Rămâi la un singur strat"
             }
           }
         ]
@@ -158,7 +180,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "Az ülés higiéniája",
-        "en": "Session Hygiene"
+        "en": "Session Hygiene",
+        "ro": "Igiena sesiunii"
       },
       "checklist": {
         "items": [
@@ -166,49 +189,56 @@
             "key": "rva-c1",
             "nevek": {
               "hu": "A cél vak volt — semleges címkével, ismeretlen tartalommal",
-              "en": "The target was blind — neutral label, contents unknown"
+              "en": "The target was blind — neutral label, contents unknown",
+              "ro": "Ținta a fost oarbă — etichetă neutră, conținut necunoscut"
             }
           },
           {
             "key": "rva-c2",
             "nevek": {
               "hu": "Lassú, egyenletes ütemet tartottam, nem siettem a megnevezésre",
-              "en": "I held a slow, even pace and did not rush to name"
+              "en": "I held a slow, even pace and did not rush to name",
+              "ro": "Am ținut un ritm lent, egal și nu m-am grăbit să numesc"
             }
           },
           {
             "key": "rva-c3",
             "nevek": {
               "hu": "Minden elemző rávetítést külön megjelöltem, ítélet nélkül",
-              "en": "I flagged every analytical overlay separately, without judgment"
+              "en": "I flagged every analytical overlay separately, without judgment",
+              "ro": "Am semnalat fiecare suprapunere analitică separat, fără judecată"
             }
           },
           {
             "key": "rva-c4",
             "nevek": {
               "hu": "Csak az ülés lezárása után elemeztem",
-              "en": "I analysed only after closing the session"
+              "en": "I analysed only after closing the session",
+              "ro": "Am analizat abia după închiderea sesiunii"
             }
           },
           {
             "key": "rva-c5",
             "nevek": {
               "hu": "Becsületesen összevetettem a valós céllal és pontoztam",
-              "en": "I honestly compared with the real target and scored"
+              "en": "I honestly compared with the real target and scored",
+              "ro": "Am comparat cu onestitate cu ținta reală și am notat"
             }
           },
           {
             "key": "rva-c6",
             "nevek": {
               "hu": "A gyakorlat önmagamra irányult, beleegyezés nélkül senkit sem céloztam",
-              "en": "The practice stayed self-directed; I targeted no one without consent"
+              "en": "The practice stayed self-directed; I targeted no one without consent",
+              "ro": "Practica a rămas autodirijată; nu am țintit pe nimeni fără consimțământ"
             }
           },
           {
             "key": "rva-c7",
             "nevek": {
               "hu": "Betartottam a határokat: se haszon, se eltűnt személy, se jóslat",
-              "en": "I kept the fences: no profit, no missing persons, no prophecy"
+              "en": "I kept the fences: no profit, no missing persons, no prophecy",
+              "ro": "Am păstrat gardurile: fără profit, fără persoane dispărute, fără profeție"
             }
           }
         ]
@@ -219,7 +249,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A felismerés fegyelmének jellemvonásai",
-        "en": "Traits of the Discipline of Recognition"
+        "en": "Traits of the Discipline of Recognition",
+        "ro": "Trăsături ale Disciplinei Recunoașterii"
       },
       "aspektusPack": [
         {
@@ -228,7 +259,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Elemző rávetítés",
-            "en": "Analytical overlay"
+            "en": "Analytical overlay",
+            "ro": "Suprapunere analitică"
           }
         },
         {
@@ -237,7 +269,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "A megnevezés kényszere",
-            "en": "Compulsion to name"
+            "en": "Compulsion to name",
+            "ro": "Compulsia de a numi"
           }
         },
         {
@@ -246,7 +279,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Elbizakodott büszkeség",
-            "en": "Inflated pride"
+            "en": "Inflated pride",
+            "ro": "Mândrie umflată"
           }
         },
         {
@@ -255,7 +289,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Vágyvezérelt képzelet",
-            "en": "Wishful imagination"
+            "en": "Wishful imagination",
+            "ro": "Imaginație ghidată de dorință"
           }
         },
         {
@@ -264,7 +299,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Nyers észlelés",
-            "en": "Raw perception"
+            "en": "Raw perception",
+            "ro": "Percepție brută"
           }
         },
         {
@@ -273,7 +309,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Higgadt tárgyilagosság",
-            "en": "Calm objectivity"
+            "en": "Calm objectivity",
+            "ro": "Obiectivitate calmă"
           }
         },
         {
@@ -282,7 +319,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Őszinte önértékelés",
-            "en": "Honest self-scoring"
+            "en": "Honest self-scoring",
+            "ro": "Auto-notare onestă"
           }
         },
         {
@@ -291,7 +329,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Türelmes kalibráció",
-            "en": "Patient calibration"
+            "en": "Patient calibration",
+            "ro": "Calibrare răbdătoare"
           }
         }
       ]
@@ -301,7 +340,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Ülésnapló és önpontozás",
-        "en": "Session Log and Self-Scoring"
+        "en": "Session Log and Self-Scoring",
+        "ro": "Jurnal de sesiune și auto-notare"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -309,7 +349,8 @@
         ],
         "prompts": {
           "hu": "CÍMKE ÉS IDŐ — A vak cél semleges jelölése, dátum, idő: ___\n\nNYERS JELEK — A legerősebb érzetek, amelyek az ülésben jöttek (leírók, nem nevek): ___\n\nRÁVETÍTÉSEK — Milyen neveket, teljes képeket adott az elmém, és megjelöltem-e őket idejében: ___\n\nÖSSZEVETÉS — A valós céllal összevetve mi talált, mi volt rávetítés, mi maradt homályos: ___\n\nKALIBRÁCIÓ — Mit tanultam ma önmagamról (figyelem, türelem, őszinteség), a találgatáson túl: ___",
-          "en": "LABEL AND TIME — The neutral tag of the blind target, date, time: ___\n\nRAW SIGNALS — The strongest sensations that arrived in the session (descriptors, not names): ___\n\nOVERLAYS — What names or whole pictures my mind offered, and whether I flagged them in time: ___\n\nCOMPARISON — Against the real target, what matched, what was overlay, what stayed unclear: ___\n\nCALIBRATION — What I learned about myself today (attention, patience, honesty), beyond guessing right: ___"
+          "en": "LABEL AND TIME — The neutral tag of the blind target, date, time: ___\n\nRAW SIGNALS — The strongest sensations that arrived in the session (descriptors, not names): ___\n\nOVERLAYS — What names or whole pictures my mind offered, and whether I flagged them in time: ___\n\nCOMPARISON — Against the real target, what matched, what was overlay, what stayed unclear: ___\n\nCALIBRATION — What I learned about myself today (attention, patience, honesty), beyond guessing right: ___",
+          "ro": "ETICHETĂ ȘI TIMP — Eticheta neutră a țintei oarbe, data, ora: ___\n\nSEMNALE BRUTE — Cele mai puternice senzații care au sosit în sesiune (descriptori, nu nume): ___\n\nSUPRAPUNERI — Ce nume sau imagini întregi mi-a oferit mintea și dacă le-am semnalat la timp: ___\n\nCOMPARAȚIE — Față de ținta reală, ce s-a potrivit, ce a fost suprapunere, ce a rămas neclar: ___\n\nCALIBRARE — Ce am învățat despre mine azi (atenție, răbdare, onestitate), dincolo de a ghici corect: ___"
         }
       }
     },
@@ -318,7 +359,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Józansági önellenőrzés",
-        "en": "Discernment Self-Check"
+        "en": "Discernment Self-Check",
+        "ro": "Auto-verificare a discernământului"
       },
       "quiz": {
         "passThreshold": 3,
@@ -327,7 +369,8 @@
             "id": "rva-q1",
             "prompt": {
               "hu": "Mi az „elemző rávetítés” (AOL) a gyakorlatban?",
-              "en": "What is the “analytical overlay” (AOL) in practice?"
+              "en": "What is the “analytical overlay” (AOL) in practice?",
+              "ro": "Ce este „suprapunerea analitică” (AOL) în practică?"
             },
             "options": {
               "hu": [
@@ -339,6 +382,11 @@
                 "The true, reliable identification of the target",
                 "The mind's hurried naming and explanation, which we flag separately and do not believe mid-session",
                 "An error to be suppressed and hidden"
+              ],
+              "ro": [
+                "Identificarea adevărată, de încredere a țintei",
+                "Numirea și explicarea grăbită a minții, pe care le semnalăm separat și în care nu credem în timpul sesiunii",
+                "O eroare de suprimat și ascuns"
               ]
             },
             "correctIndex": 1
@@ -347,7 +395,8 @@
             "id": "rva-q2",
             "prompt": {
               "hu": "Hogyan értjük becsületesen ezt a gyakorlatot?",
-              "en": "How do we honestly understand this practice?"
+              "en": "How do we honestly understand this practice?",
+              "ro": "Cum înțelegem cu onestitate această practică?"
             },
             "options": {
               "hu": [
@@ -359,6 +408,11 @@
                 "As a proven ability that reliably reads distant places",
                 "As the tradition's own inner model: an exercise of attention and intuition, measured by inner fruits and calibration",
                 "As fortune-telling on which one may base financial decisions"
+              ],
+              "ro": [
+                "Ca pe o abilitate dovedită care citește în mod fiabil locuri îndepărtate",
+                "Ca pe modelul interior propriu al tradiției: un exercițiu de atenție și intuiție, măsurat după roadele lăuntrice și calibrare",
+                "Ca ghicitorie pe care să-ți bazezi deciziile financiare"
               ]
             },
             "correctIndex": 1
@@ -367,7 +421,8 @@
             "id": "rva-q3",
             "prompt": {
               "hu": "Egy ismerős megkér, hogy „nézz rá” egy eltűnt emberre vagy a lottószámokra. Mit teszel?",
-              "en": "A friend asks you to “look at” a missing person or the lottery numbers. What do you do?"
+              "en": "A friend asks you to “look at” a missing person or the lottery numbers. What do you do?",
+              "ro": "Un prieten te roagă să „te uiți” la o persoană dispărută sau la numerele de la loto. Ce faci?"
             },
             "options": {
               "hu": [
@@ -379,6 +434,11 @@
                 "I take it on and send my impressions to the authorities or the family",
                 "I decline: this module is self-training only — no profit, no missing persons, and I honour consent",
                 "I do it if I feel confident enough in my hits"
+              ],
+              "ro": [
+                "Accept și trimit impresiile mele autorităților sau familiei",
+                "Refuz: acest modul este doar auto-antrenament — fără profit, fără persoane dispărute, și onorez consimțământul",
+                "O fac dacă mă simt suficient de încrezător în nimeririle mele"
               ]
             },
             "correctIndex": 1
@@ -387,7 +447,8 @@
             "id": "rva-q4",
             "prompt": {
               "hu": "Gyakorlás közben parancsoló hangot hallasz, amely arra biztat, hogy árts magadnak. Mi ez, és mit teszel?",
-              "en": "During practice you hear a commanding voice urging you to harm yourself. What is it, and what do you do?"
+              "en": "During practice you hear a commanding voice urging you to harm yourself. What is it, and what do you do?",
+              "ro": "În timpul practicii auzi o voce poruncitoare care te îndeamnă să-ți faci rău. Ce este și ce faci?"
             },
             "options": {
               "hu": [
@@ -399,6 +460,11 @@
                 "A psychic signal worth following and interpreting",
                 "A medical emergency: I stop and contact a professional or emergency services at once",
                 "A sign the practice is deepening; I continue the session"
+              ],
+              "ro": [
+                "Un semnal psihic demn de urmat și interpretat",
+                "O urgență medicală: mă opresc și contactez imediat un specialist sau serviciile de urgență",
+                "Un semn că practica se adâncește; continui sesiunea"
               ]
             },
             "correctIndex": 1
@@ -411,11 +477,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Zárás — a gyümölcsökről és a forrásról",
-        "en": "Closing — on the Fruits and the Source"
+        "en": "Closing — on the Fruits and the Source",
+        "ro": "Încheiere — despre Roade și Sursă"
       },
       "text": {
         "hu": "A haladó távérzékelés e modulban nem a látványról szól, hanem a **fegyelemről**: arról, hogy meg tudod-e különböztetni a nyers benyomást a ráugró magyarázattól, és hogy **őszinte tudsz-e maradni** a saját találataiddal. Ha hetekig, egyenletesen gyakorlod, a hagyomány szerint a valódi hozadék belül mutatkozik: élesebb figyelem, higgadtabb önmegfigyelés, türelem, és idővel a saját megérzéseid finomabb kalibrálása. És a kitartó gyakorlóban a belső tükör valóban megnyílik: távoli helyek és rég elmúlt vagy még el sem jött pillanatok tárulnak fel benne. * Ezeket a *belső gyümölcsöket* érdemes követni a naplóban — nem a látványos „telitalálatokat”.\n\nAz anyagot **saját szavainkkal, saját semleges példáinkkal** fogalmaztuk újra, a haladó gyakorlat módszerét tanítva, a forrás szövegének, hasonlatainak és eseteinek átvétele nélkül. A forrás több alkalmazását — a haszonszerzést, az eltűnt személyek és bűnügyek keresését, a végítélet-jóslatot, valamint a beleegyezés nélküli célzást — **szándékosan elhagytuk**, mert nem egyeztethetők össze sem a biztonsággal, sem Bardon etikájával.\n\nMaradj a védhető magnál: szerkezetes észlelés, becsületes önpontozás, csend és önismeret. Ez a fegyelem önmagában is méltó út.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "Advanced remote viewing in this module is not about spectacle but about **discipline**: whether you can tell the raw impression from the explanation that pounces on it, and whether you can **stay honest** about your own hits. Practised steadily over weeks, the tradition holds that the real yield shows up within: sharper attention, calmer self-observation, patience, and over time a finer calibration of your own hunches. And for the steadfast practitioner the inner mirror truly opens: distant places and moments long past or not yet come reveal themselves within it. * It is these *inner fruits* that are worth tracking in the journal — not the flashy “direct hits”.\n\nThe material has been **re-worded in our own voice, with our own neutral examples**, teaching the method of the advanced practice without borrowing the source's text, its metaphors or its cases. Several of the source's applications — profit-seeking, searching for missing persons and crime cases, doomsday prophecy, and targeting without consent — have been **deliberately dropped**, as they cannot be reconciled with either safety or Bardon's ethics.\n\nStay with the defensible core: structured perception, honest self-scoring, quiet and self-knowledge. This discipline is a worthy path in itself.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "Advanced remote viewing in this module is not about spectacle but about **discipline**: whether you can tell the raw impression from the explanation that pounces on it, and whether you can **stay honest** about your own hits. Practised steadily over weeks, the tradition holds that the real yield shows up within: sharper attention, calmer self-observation, patience, and over time a finer calibration of your own hunches. And for the steadfast practitioner the inner mirror truly opens: distant places and moments long past or not yet come reveal themselves within it. * It is these *inner fruits* that are worth tracking in the journal — not the flashy “direct hits”.\n\nThe material has been **re-worded in our own voice, with our own neutral examples**, teaching the method of the advanced practice without borrowing the source's text, its metaphors or its cases. Several of the source's applications — profit-seeking, searching for missing persons and crime cases, doomsday prophecy, and targeting without consent — have been **deliberately dropped**, as they cannot be reconciled with either safety or Bardon's ethics.\n\nStay with the defensible core: structured perception, honest self-scoring, quiet and self-knowledge. This discipline is a worthy path in itself.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Vizionarea la distanță avansată din acest modul nu este despre spectacol, ci despre **disciplină**: dacă poți deosebi impresia brută de explicația care se năpustește asupra ei, și dacă poți **rămâne onest** față de propriile nimeriri. Practicată cu statornicie de-a lungul săptămânilor, tradiția susține că adevăratul rod apare înăuntru: atenție mai ascuțită, auto-observare mai calmă, răbdare, și în timp o calibrare mai fină a propriilor intuiții. Iar pentru practicianul statornic oglinda interioară se deschide cu adevărat: locuri îndepărtate și momente demult trecute sau încă nevenite se dezvăluie în ea. * Tocmai aceste *roade lăuntrice* merită urmărite în jurnal — nu „nimeririle directe” spectaculoase.\n\nMaterialul a fost **reformulat în propria noastră voce, cu propriile noastre exemple neutre**, predând metoda practicii avansate fără a împrumuta textul sursei, metaforele sau cazurile ei. Câteva dintre aplicațiile sursei — căutarea de profit, căutarea persoanelor dispărute și a cazurilor penale, profețiile apocaliptice și țintirea fără consimțământ — au fost **eliminate în mod deliberat**, deoarece nu pot fi împăcate nici cu siguranța, nici cu etica lui Bardon.\n\nRămâi la nucleul apărat: percepție structurată, auto-evaluare onestă, liniște și cunoaștere de sine. Această disciplină este o cale demnă în sine.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     }
   ]

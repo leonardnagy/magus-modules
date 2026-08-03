@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "A csodák tanítása — a Kurzus",
-    "en": "A Course in Miracles — the Course"
+    "en": "A Course in Miracles — the Course",
+    "ro": "Un curs de miracole — Cursul"
   },
   "description": {
     "hu": "Helen Schucman és William Thetford hét éven át lejegyzett műve (1965–1972) tíz leckében: tudás és érzékelés, a csoda mint érzékelés-váltás, az ego és a két tanító, a vetítés, a megbocsátás útja, a különleges és a szent kapcsolat, a szent pillanat, a Munkafüzet 365 napos módszere és a tanítói út — szent pillanat-időzítővel, munkafüzet-stílusú reggeli üléssel, aspektusokkal, Csoda-naplóval és önellenőrzéssel.",
-    "en": "The work taken down by Helen Schucman with William Thetford over seven years (1965–1972), in ten lessons: knowledge and perception, the miracle as a shift of perception, the ego and the two teachers, projection, the way of forgiveness, special and holy relationships, the holy instant, the Workbook's 365-day method and the teacher's path — with a holy-instant timer, a workbook-style morning session, aspects, a Miracle Journal and a self-check."
+    "en": "The work taken down by Helen Schucman with William Thetford over seven years (1965–1972), in ten lessons: knowledge and perception, the miracle as a shift of perception, the ego and the two teachers, projection, the way of forgiveness, special and holy relationships, the holy instant, the Workbook's 365-day method and the teacher's path — with a holy-instant timer, a workbook-style morning session, aspects, a Miracle Journal and a self-check.",
+    "ro": "Lucrarea consemnată de Helen Schucman împreună cu William Thetford de-a lungul a șapte ani (1965–1972), în zece lecții: cunoașterea și percepția, miracolul ca schimbare de percepție, ego-ul și cei doi învățători, proiecția, calea iertării, relațiile speciale și sfinte, clipa sfântă, metoda de 365 de zile a Caietului de exerciții și calea învățătorului — cu un cronometru pentru clipa sfântă, o sesiune de dimineață în stilul caietului, aspecte, un Jurnal al Miracolului și o autoevaluare."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/acim.course/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Keletkezés és felépítés",
-        "en": "Origins and Structure"
+        "en": "Origins and Structure",
+        "ro": "Origini și structură"
       },
       "text": {
         "hu": "A csodák tanítása (A Course in Miracles) nem egy guru műve: két New York-i pszichológus feszült munkakapcsolatából született. **Helen Schucman** és **William Thetford** a Columbia Egyetem orvosi karán dolgoztak együtt — versengésben, súrlódásban. Egy napon Thetford kijelentette: elege van az egymást mérgező viszonyokból, és biztosan létezik ennél jobb út is. Schucman — meggyőződéses ateista, szigorú akadémikus — ráállt, hogy közösen megkeressék.\n\nHárom hónapnyi szimbolikus álom és belső kép után Schucman egyfajta gyors, belső **tollbamondást** kezdett tapasztalni: egy hangot, amely nem kívülről szólt, hanem belülről diktált, és önmagát Jézussal azonosította — nem áhítat tárgyaként, hanem „idősebb testvérként”. * A folyamat nem volt önkívület: Schucman bármikor megszakíthatta és folytathatta, gyorsírással jegyzett, Thetford gépelte le. Hét évig tartott (1965–1972), és a szövegen csak minimális szerkesztés történt.\n\n**A mű három része:**\n\n— **Törzsszöveg** — az elméleti alap: tudás és érzékelés, ego, vetítés, megbocsátás.\n— **Munkafüzet** — 365 számozott napi lecke: egy teljes év gyakorlati elmetréningje.\n— **Tanári kézikönyv** — kérdés-válasz formában, a haladóknak.\n\nA borítóra szándékosan nem került szerzői név: a Kurzus nem mozgalmat akar alapítani, hanem utat mutat a mindenkiben lakozó **Belső Tanítóhoz**. Ez a modul is így kezeli: tananyagként, nem tekintélyként — azt tartsd meg belőle, ami a saját tapasztalatodban igazolódik.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "A Course in Miracles is not the work of a guru: it was born of the strained working relationship of two New York psychologists. **Helen Schucman** and **William Thetford** worked together at the medical school of Columbia University — in rivalry and friction. One day Thetford declared he was fed up with the relationships poisoning each other, and that there had to be a better way. Schucman — a committed atheist and strict academic — agreed to search for it with him.\n\nAfter three months of symbolic dreams and inner images, Schucman began to experience a kind of rapid inner **dictation**: a voice that did not speak from outside but dictated from within, and identified itself as Jesus — not as an object of veneration, but as an 'elder brother'. * The process was no trance: Schucman could interrupt and resume it at will, took it down in shorthand, and Thetford typed it out. It lasted seven years (1965–1972), and the text received only minimal editing.\n\n**The three parts of the work:**\n\n— **The Text** — the theoretical foundation: knowledge and perception, ego, projection, forgiveness.\n— **The Workbook** — 365 numbered daily lessons: a full year of practical mind training.\n— **The Manual for Teachers** — in question-and-answer form, for the advanced.\n\nNo author's name was placed on the cover, deliberately: the Course does not want to found a movement — it points a way to the **Inner Teacher** dwelling in everyone. This module treats it the same way: as study material, not as authority — keep what is confirmed in your own experience.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "A Course in Miracles is not the work of a guru: it was born of the strained working relationship of two New York psychologists. **Helen Schucman** and **William Thetford** worked together at the medical school of Columbia University — in rivalry and friction. One day Thetford declared he was fed up with the relationships poisoning each other, and that there had to be a better way. Schucman — a committed atheist and strict academic — agreed to search for it with him.\n\nAfter three months of symbolic dreams and inner images, Schucman began to experience a kind of rapid inner **dictation**: a voice that did not speak from outside but dictated from within, and identified itself as Jesus — not as an object of veneration, but as an 'elder brother'. * The process was no trance: Schucman could interrupt and resume it at will, took it down in shorthand, and Thetford typed it out. It lasted seven years (1965–1972), and the text received only minimal editing.\n\n**The three parts of the work:**\n\n— **The Text** — the theoretical foundation: knowledge and perception, ego, projection, forgiveness.\n— **The Workbook** — 365 numbered daily lessons: a full year of practical mind training.\n— **The Manual for Teachers** — in question-and-answer form, for the advanced.\n\nNo author's name was placed on the cover, deliberately: the Course does not want to found a movement — it points a way to the **Inner Teacher** dwelling in everyone. This module treats it the same way: as study material, not as authority — keep what is confirmed in your own experience.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Un curs de miracole nu este opera unui guru: s-a născut din relația de muncă tensionată a doi psihologi newyorkezi. **Helen Schucman** și **William Thetford** lucrau împreună la școala de medicină a Universității Columbia — în rivalitate și fricțiuni. Într-o zi Thetford a declarat că s-a săturat de relațiile care se otrăveau reciproc și că trebuia să existe o cale mai bună. Schucman — o ateistă convinsă și o academică strictă — a acceptat să o caute împreună cu el.\n\nDupă trei luni de vise simbolice și imagini interioare, Schucman a început să experimenteze un fel de **dictare** interioară rapidă: o voce care nu vorbea din afară, ci dicta dinăuntru, și care s-a identificat ca Iisus — nu ca obiect de venerație, ci ca un «frate mai mare». * Procesul nu era o transă: Schucman putea să-l întrerupă și să-l reia după voia ei, îl nota în stenografie, iar Thetford îl dactilografia. A durat șapte ani (1965–1972), iar textul a primit doar o editare minimală.\n\n**Cele trei părți ale lucrării:**\n\n— **Textul** — fundamentul teoretic: cunoașterea și percepția, ego-ul, proiecția, iertarea.\n— **Caietul de exerciții** — 365 de lecții zilnice numerotate: un an întreg de antrenament practic al minții.\n— **Manualul pentru învățători** — sub formă de întrebări și răspunsuri, pentru cei avansați.\n\nPe copertă nu a fost pus deliberat niciun nume de autor: Cursul nu vrea să întemeieze o mișcare — arată o cale către **Învățătorul Interior** care locuiește în fiecare. Acest modul îl tratează la fel: ca material de studiu, nu ca autoritate — păstrează ce se confirmă în propria ta experiență.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Tudás és érzékelés",
-        "en": "Knowledge and Perception"
+        "en": "Knowledge and Perception",
+        "ro": "Cunoașterea și percepția"
       },
       "text": {
         "hu": "A Kurzus egész gondolati rendszere egyetlen kettősségre épül: **tudás** és **érzékelés**.\n\n**A tudás** Isten szintje: maga a bizonyosság — nem ismer fokozatot, nem ismer ellenfelet, és az idő nem fog rajta. Nem kérdez, mert benne kérdés sem születhet. Nem tanulható — csak a kinyilatkoztatás közvetíti, amely mindig egy irányba mutat: Istentől feléd.\n\n**Az érzékelés** terepe ezzel szemben minden, ami keletkezik és elmúlik. Nem azt rögzíti, ami van, hanem azt, ahogyan **magyarázod**: a képhez mindig te adod a jelentést. Részrehajlóan válogat, folyton ítél, és a testhez kötődik — ezért félrevezethető tanú.\n\nA Kurzus célja meglepően szerény, és mégis hatalmas: **nem a tudást tanítja** — az meghaladja a tanítást —, hanem az érzékelést gyógyítja. Amikor az érzékelésed igaz érzékeléssé tisztul, előkészül a talaj a záró szakaszhoz — azt a hagyomány szerint már nem a tanuló teszi meg: ajándékként érkezik.\n\nA mű nyitó gondolata — saját szavainkkal —: ami igazán valós benned és a világban, azt semmilyen erő nem sebezheti meg; ami pedig sebezhető és mulandó, az sosem volt maga a valóság. Aki ezt a két mondatot egyszer mélyen átlátja, abban elcsendesül a félelem — és ez a csend Isten békéje.\n\n**Gyakorlat:** ma egyszer, egy feszült pillanatban kérdezd meg magadtól: *amit most fenyegetve érzek — a valós lényem az, vagy csak egy kép, amit magamról őrzök?*",
-        "en": "The Course's whole system of thought rests on a single duality: **knowledge** and **perception**.\n\n**Knowledge** is God's level: certainty itself — it knows no degrees, knows no rival, and time cannot touch it. It asks no questions, because within it no question can even arise. It cannot be taught — only revelation conveys it, and revelation always points one way: from God to you.\n\n**Perception**, by contrast, moves wherever things arise and pass away. It does not record what is, but how you **explain** it: you are the one who gives the picture its meaning. It selects with bias, judges constantly, and is bound to the body — a witness easily misled.\n\nThe Course's aim is surprisingly modest, and yet vast: it does **not teach knowledge** — that is beyond teaching — it heals perception. When your perception clears into true perception, the ground is prepared for the closing passage — which, the tradition holds, is no longer the student's doing: it arrives as a gift.\n\nThe work's opening thought — in our own words —: whatever is truly real in you and in the world cannot be wounded by any force; and whatever can be wounded and passes away was never reality itself. Whoever once sees through these two sentences deeply finds fear growing quiet — and that quiet is the peace of God.\n\n**Practice:** once today, in a tense moment, ask yourself: *what I now feel to be threatened — is it my real being, or only an image I keep of myself?*"
+        "en": "The Course's whole system of thought rests on a single duality: **knowledge** and **perception**.\n\n**Knowledge** is God's level: certainty itself — it knows no degrees, knows no rival, and time cannot touch it. It asks no questions, because within it no question can even arise. It cannot be taught — only revelation conveys it, and revelation always points one way: from God to you.\n\n**Perception**, by contrast, moves wherever things arise and pass away. It does not record what is, but how you **explain** it: you are the one who gives the picture its meaning. It selects with bias, judges constantly, and is bound to the body — a witness easily misled.\n\nThe Course's aim is surprisingly modest, and yet vast: it does **not teach knowledge** — that is beyond teaching — it heals perception. When your perception clears into true perception, the ground is prepared for the closing passage — which, the tradition holds, is no longer the student's doing: it arrives as a gift.\n\nThe work's opening thought — in our own words —: whatever is truly real in you and in the world cannot be wounded by any force; and whatever can be wounded and passes away was never reality itself. Whoever once sees through these two sentences deeply finds fear growing quiet — and that quiet is the peace of God.\n\n**Practice:** once today, in a tense moment, ask yourself: *what I now feel to be threatened — is it my real being, or only an image I keep of myself?*",
+        "ro": "Întregul sistem de gândire al Cursului se sprijină pe o singură dualitate: **cunoașterea** și **percepția**.\n\n**Cunoașterea** este nivelul lui Dumnezeu: certitudinea însăși — nu cunoaște grade, nu cunoaște rival și timpul nu o poate atinge. Nu pune întrebări, pentru că înăuntrul ei nicio întrebare nu poate nici măcar să apară. Nu poate fi predată — doar revelația o transmite, iar revelația arată întotdeauna într-o singură direcție: de la Dumnezeu către tine.\n\n**Percepția**, prin contrast, se mișcă acolo unde lucrurile apar și trec. Nu înregistrează ceea ce este, ci felul în care **explici** tu: tu ești cel care dă imaginii sensul ei. Selectează cu părtinire, judecă neîncetat și e legată de trup — un martor ușor de indus în eroare.\n\nȚelul Cursului este surprinzător de modest și totuși vast: **nu predă cunoașterea** — asta e dincolo de predare — vindecă percepția. Când percepția ta se limpezește în adevărata percepție, terenul e pregătit pentru trecerea de încheiere — care, potrivit tradiției, nu mai e fapta elevului: sosește ca un dar.\n\nGândul de deschidere al lucrării — în cuvintele noastre —: tot ce e cu adevărat real în tine și în lume nu poate fi rănit de nicio forță; iar tot ce poate fi rănit și trece n-a fost niciodată realitatea însăși. Cine vede odată în adâncime prin aceste două propoziții descoperă că frica se potolește — iar acea liniște e pacea lui Dumnezeu.\n\n**Practică:** o dată azi, într-un moment tensionat, întreabă-te: *ceea ce simt acum a fi amenințat — este ființa mea reală, sau doar o imagine pe care o țin despre mine?*"
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A csoda — érzékelés-váltás, nem varázslat",
-        "en": "The Miracle — a Shift of Perception, Not Magic"
+        "en": "The Miracle — a Shift of Perception, Not Magic",
+        "ro": "Miracolul — o schimbare de percepție, nu magie"
       },
       "text": {
         "hu": "A csoda a Kurzusban **nem természetfeletti látványosság** — nem vízen járás, nem villámgyógyulás. A csoda **érzékelés-váltás**: az a pillanat, amikor az elméd a félelemről a szeretetre áll át, és egy helyzetet, egy embert, önmagadat hirtelen másképp látod. A téves észlelés kiigazítása.\n\nAz első fejezet ötven alapelvben írja körül. A legfontosabbak:\n\n— **Nincs nehézségi sorrend.** Nincs kis és nagy csoda, mert mindegyik ugyanazt teszi: elválasztja az igazat a hamistól, és a hiány illúzióját teljességre cseréli. Egy évtizedes sérelem elengedése nem nehezebb csoda, mint egy apró bosszúságé.\n\n— **A csoda a szeretet természetes kifejeződése.** Ha hiányzik az életedből, az jelzés: valahol félelem áll a szeretet útjában.\n\n— **Aki ad, ugyanabban a pillanatban kap is.** A csoda az adónak és a befogadónak egyszerre ad — aki fényt visz egy helyzetbe, maga is tisztábban lát.\n\n— **A csoda időt takarít meg.** A hagyomány szerint egyetlen valódi érzékelés-váltás évezredes tanulást sűríthet össze: a vízszintes időszemléletet függőlegesre fordítja. *\n\n— **Nem neked kell válogatnod.** A csodákat nem tudatosan tervezed és nem te osztod be: a Belső Tanító irányítja, hol és mikor. A te egyetlen felelősséged a **Vezeklés** — a helyreigazítás — elfogadása önmagad számára.\n\n**Gyakorlat:** ma este idézd fel a nap egyetlen pontját, ahol átváltott az érzékelésed — a Csoda-napló pontosan ezt figyeli.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "In the Course the miracle is **not a supernatural spectacle** — no walking on water, no lightning cures. The miracle is a **shift of perception**: the moment your mind switches from fear to love, and you suddenly see a situation, a person, yourself differently. The correction of misperception.\n\nThe first chapter circles it in fifty principles. The most important:\n\n— **There is no order of difficulty.** There are no small and large miracles, for each does the same: it separates the true from the false and exchanges the illusion of lack for wholeness. Releasing a decade-old grievance is no harder a miracle than releasing a petty annoyance.\n\n— **The miracle is the natural expression of love.** If it is missing from your life, that is a signal: somewhere fear stands in love's way.\n\n— **Whoever gives receives in the same instant.** The miracle gives to giver and receiver at once — whoever brings light into a situation sees more clearly too.\n\n— **The miracle saves time.** The tradition holds that a single true shift of perception can condense millennia of learning: it turns the horizontal view of time vertical. *\n\n— **You are not the one to select them.** You do not plan miracles consciously, nor do you ration them: the Inner Teacher directs where and when. Your sole responsibility is accepting the **Atonement** — the correction — for yourself.\n\n**Practice:** this evening recall one single point of the day where your perception switched — the Miracle Journal watches exactly this.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "In the Course the miracle is **not a supernatural spectacle** — no walking on water, no lightning cures. The miracle is a **shift of perception**: the moment your mind switches from fear to love, and you suddenly see a situation, a person, yourself differently. The correction of misperception.\n\nThe first chapter circles it in fifty principles. The most important:\n\n— **There is no order of difficulty.** There are no small and large miracles, for each does the same: it separates the true from the false and exchanges the illusion of lack for wholeness. Releasing a decade-old grievance is no harder a miracle than releasing a petty annoyance.\n\n— **The miracle is the natural expression of love.** If it is missing from your life, that is a signal: somewhere fear stands in love's way.\n\n— **Whoever gives receives in the same instant.** The miracle gives to giver and receiver at once — whoever brings light into a situation sees more clearly too.\n\n— **The miracle saves time.** The tradition holds that a single true shift of perception can condense millennia of learning: it turns the horizontal view of time vertical. *\n\n— **You are not the one to select them.** You do not plan miracles consciously, nor do you ration them: the Inner Teacher directs where and when. Your sole responsibility is accepting the **Atonement** — the correction — for yourself.\n\n**Practice:** this evening recall one single point of the day where your perception switched — the Miracle Journal watches exactly this.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "În Curs, miracolul **nu este un spectacol supranatural** — nici umblare pe ape, nici vindecări fulgerătoare. Miracolul este o **schimbare de percepție**: clipa în care mintea ta trece de la frică la iubire și vezi dintr-odată altfel o situație, o persoană, pe tine însuți. Corectarea percepției greșite.\n\nPrimul capitol îl înconjoară în cincizeci de principii. Cele mai importante:\n\n— **Nu există o ordine a dificultății.** Nu există miracole mici și mari, căci fiecare face același lucru: desparte adevărul de fals și schimbă iluzia lipsei pe deplinătate. Eliberarea unei ranchiuni vechi de un deceniu nu e un miracol mai greu decât eliberarea unei iritări mărunte.\n\n— **Miracolul este expresia naturală a iubirii.** Dacă lipsește din viața ta, e un semnal: undeva frica stă în calea iubirii.\n\n— **Cine dă primește în aceeași clipă.** Miracolul dă deodată dăruitorului și primitorului — cine aduce lumină într-o situație vede și el mai limpede.\n\n— **Miracolul economisește timp.** Tradiția susține că o singură schimbare adevărată de percepție poate condensa milenii de învățare: întoarce privirea orizontală a timpului pe verticală. *\n\n— **Nu tu ești cel care le alege.** Nu planifici conștient miracolele și nici nu le dozezi: Învățătorul Interior îndrumă unde și când. Singura ta responsabilitate e să accepți **Ispășirea** — corectarea — pentru tine însuți.\n\n**Practică:** în seara asta amintește-ți un singur moment al zilei în care percepția ți s-a schimbat — Jurnalul Miracolului urmărește exact asta.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az ego és a két tanító",
-        "en": "The Ego and the Two Teachers"
+        "en": "The Ego and the Two Teachers",
+        "ro": "Ego-ul și cei doi învățători"
       },
       "text": {
         "hu": "Az **ego** a Kurzusban nem a hétköznapi önérzet és nem a freudi fogalom. Az ego az elkülönülés-hiedelem után összeállt énkép: az elme kísérlete arra, hogy olyannak lássa magát, amilyen lenni **szeretne** — nem amilyen valójában.\n\n**Hogyan működik?** A hiány hiedelméből él: összehasonlít, szerezni akar, alkuban gondolkodik — „adj, hogy kapj”. A testet választja otthonának, miközben neheztel is rá. És minden helyzetet önfenntartásra használ: még a kérdést is eltünteti a tudatodból, ha a létét veszélyezteti.\n\n**A kulcs:** az ego kizárólag a belé vetett hitedből él. Nem legyőzni kell, nem megbüntetni, nem is szégyellni — hanem **megvonni tőle a hűséget**. Amivel harcolsz, azt erősíted; amit hit nélkül hagysz, az elhalványul.\n\nAz egóval szemben áll a **Szentlélek** — a Kurzus nyelvén a Belső Tanító: a hagyomány szerint valós Közvetítő a két világ között, aki ismeri az illúzióidat is és az igazságot is, de csak az utóbbiban hisz. *\n\nÍgy az elméd minden pillanatban **két tanító** között választ: két hang, két gondolati rendszer — félelem vagy szeretet. A kettő nem keverhető: nem szolgálhatsz két urat. És van egy csalhatatlan műszered: az érzéseid. Minden rossz kedélyállapot annak jele, hogy az imént rosszul választottál — mire a Kurzus visszatérő refrénje felel: **ennek nem kell így lennie.**\n\n**Gyakorlat:** amikor ma megbillen a hangulatod, ne a kiváltó okot elemezd először — kérdezd meg: *melyik tanítóra hallgattam az előbb?* Aztán válassz újra.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "In the Course the **ego** is neither everyday self-esteem nor the Freudian concept. The ego is the self-image assembled after the belief in separation: the mind's attempt to see itself as it would **like** to be — not as it truly is.\n\n**How does it work?** It lives off the belief in lack: it compares, it wants to acquire, it thinks in bargains — 'give to get'. It chooses the body for its home while also resenting it. And it uses every situation for self-maintenance: it will even make the question vanish from your awareness if the question threatens its existence.\n\n**The key:** the ego lives solely on the faith you invest in it. It is not to be defeated, not punished, not even to be ashamed of — but to have your **allegiance withdrawn** from it. What you fight, you strengthen; what you leave without belief fades away.\n\nOpposite the ego stands the **Holy Spirit** — in the Course's language the Inner Teacher: according to the tradition a real Mediator between the two worlds, who knows your illusions as well as the truth, yet believes only the truth. *\n\nThus in every moment your mind chooses between **two teachers**: two voices, two thought systems — fear or love. The two cannot be mixed: you cannot serve two masters. And you carry an infallible instrument: your feelings. Every dark mood is the sign that a moment ago you chose wrongly — to which the Course's returning refrain replies: **it need not be this way.**\n\n**Practice:** when your mood tips today, do not analyze the trigger first — ask: *which teacher was I just listening to?* Then choose again.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "In the Course the **ego** is neither everyday self-esteem nor the Freudian concept. The ego is the self-image assembled after the belief in separation: the mind's attempt to see itself as it would **like** to be — not as it truly is.\n\n**How does it work?** It lives off the belief in lack: it compares, it wants to acquire, it thinks in bargains — 'give to get'. It chooses the body for its home while also resenting it. And it uses every situation for self-maintenance: it will even make the question vanish from your awareness if the question threatens its existence.\n\n**The key:** the ego lives solely on the faith you invest in it. It is not to be defeated, not punished, not even to be ashamed of — but to have your **allegiance withdrawn** from it. What you fight, you strengthen; what you leave without belief fades away.\n\nOpposite the ego stands the **Holy Spirit** — in the Course's language the Inner Teacher: according to the tradition a real Mediator between the two worlds, who knows your illusions as well as the truth, yet believes only the truth. *\n\nThus in every moment your mind chooses between **two teachers**: two voices, two thought systems — fear or love. The two cannot be mixed: you cannot serve two masters. And you carry an infallible instrument: your feelings. Every dark mood is the sign that a moment ago you chose wrongly — to which the Course's returning refrain replies: **it need not be this way.**\n\n**Practice:** when your mood tips today, do not analyze the trigger first — ask: *which teacher was I just listening to?* Then choose again.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "În Curs **ego-ul** nu este nici stima de sine cotidiană, nici conceptul freudian. Ego-ul este imaginea de sine asamblată după credința în separare: încercarea minții de a se vedea așa cum **ar dori** să fie — nu așa cum este cu adevărat.\n\n**Cum funcționează?** Trăiește din credința în lipsă: compară, vrea să dobândească, gândește în târguri — «dă ca să primești». Alege corpul drept casă, în timp ce îl resimte cu resentiment. Și folosește fiecare situație pentru auto-menținere: va face chiar ca întrebarea să dispară din conștiința ta dacă întrebarea îi amenință existența.\n\n**Cheia:** ego-ul trăiește doar din credința pe care o investești în el. Nu e de învins, nu de pedepsit, nici măcar de care să-ți fie rușine — ci de a-ți **retrage loialitatea** de la el. Ceea ce lupți, întărești; ceea ce lași fără credință se estompează.\n\nÎn fața ego-ului stă **Duhul Sfânt** — în limbajul Cursului, Învățătorul Interior: potrivit tradiției, un adevărat Mijlocitor între cele două lumi, care cunoaște atât iluziile tale, cât și adevărul, dar crede doar adevărul. *\n\nAstfel, în fiecare clipă mintea ta alege între **doi învățători**: două voci, două sisteme de gândire — frica sau iubirea. Cele două nu pot fi amestecate: nu poți sluji la doi stăpâni. Și porți un instrument infailibil: sentimentele tale. Fiecare stare întunecată este semnul că acum o clipă ai ales greșit — la care refrenul care revine al Cursului răspunde: **nu trebuie să fie așa.**\n\n**Practică:** când dispoziția ți se schimbă azi, nu analiza mai întâi declanșatorul — întreabă: *căruia dintre învățători tocmai îi ascultam?* Apoi alege din nou.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Vetítés — a világ mint belső mozi",
-        "en": "Projection — the World as an Inner Cinema"
+        "en": "Projection — the World as an Inner Cinema",
+        "ro": "Proiecția — Lumea ca un Cinema Interior"
       },
       "text": {
         "hu": "Az elme alaptörvénye a Kurzus szerint, hogy **kifelé árad**. Ugyanaz a törvény két kézben két különböző dolog:\n\n— a Szentlélek kezében **kiterjedés**: a szeretet megosztása, amely adót és kapót egyszerre gazdagít;\n— az ego kezében **kivetítés**: a nem kívánt bűntudat kihelyezése — másokra, a világra.\n\nA sorrend mindig ugyanaz: előbb **befelé** nézel, eldöntöd, milyen világot akarsz látni — aztán kivetíted, és azt látod. A hagyomány erős állítása szerint a látott világ teljes egészében belülről vetített kép: olyan, mint egy mozi, amelynek vászna odakint van, de a filmje benned pereg. * Ha a vásznon nem tetszik valami, a vásznat hiába kapargatod — a világ csak azt adja vissza, amit beleadtál.\n\n**A kivetítés csapdája,** hogy nem működik. Amit másra hárítasz, azt éppen **megtartod** — hiszen soha nem hagyta el az elmédet. Ezért kényszerül a kivetítő ember állandó éberségre és aktivitásra: nehogy észre kelljen vennie, hogy amit odakint támad, az odabent lakik. Amikor a testvéredet bűnösnek ítéled, a saját titkos bűntudatodat látod benne — és erősíted meg magadban.\n\n**A gyógyulás iránya** ezért a felelősség visszavétele: a harag sosem a másikról szól. Ez nem önvád — hanem hazatérés: elismered, hogy a hiba a saját elmédben van, mert **csak ott tudod átadni** helyreigazításra a Belső Tanítónak.\n\n**Gyakorlat:** amikor ma valaki felbosszant, kérdezd meg: *mit látok benne, amit magamban nem akarok látni?* — és a választ ne ítéletként, hanem leletként kezeld.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The mind's basic law, says the Course, is that it **flows outward**. The same law in two hands is two different things:\n\n— in the Holy Spirit's hand it is **extension**: the sharing of love, enriching giver and receiver at once;\n— in the ego's hand it is **projection**: placing unwanted guilt outside — onto others, onto the world.\n\nThe order is always the same: first you look **inward**, decide what world you want to see — then you project it, and that is what you see. The tradition's strong claim is that the world you see is entirely an image projected from within: like a cinema whose screen is out there while its film runs inside you. * If you dislike something on the screen, scratching the screen is useless — the world only gives back what you put into it.\n\n**The trap of projection** is that it does not work. What you push onto another you precisely **keep** — for it never left your mind. That is why the projecting person is forced into constant vigilance and activity: lest they have to notice that what they attack out there lives within. When you judge your brother guilty, you are seeing your own secret guilt in him — and confirming it in yourself.\n\n**The direction of healing** is therefore taking responsibility back: anger is never about the other. This is not self-blame — it is homecoming: you acknowledge that the error is in your own mind, because **only there can you hand it over** to the Inner Teacher for correction.\n\n**Practice:** when someone irritates you today, ask: *what do I see in them that I refuse to see in myself?* — and treat the answer not as a verdict but as a finding.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The mind's basic law, says the Course, is that it **flows outward**. The same law in two hands is two different things:\n\n— in the Holy Spirit's hand it is **extension**: the sharing of love, enriching giver and receiver at once;\n— in the ego's hand it is **projection**: placing unwanted guilt outside — onto others, onto the world.\n\nThe order is always the same: first you look **inward**, decide what world you want to see — then you project it, and that is what you see. The tradition's strong claim is that the world you see is entirely an image projected from within: like a cinema whose screen is out there while its film runs inside you. * If you dislike something on the screen, scratching the screen is useless — the world only gives back what you put into it.\n\n**The trap of projection** is that it does not work. What you push onto another you precisely **keep** — for it never left your mind. That is why the projecting person is forced into constant vigilance and activity: lest they have to notice that what they attack out there lives within. When you judge your brother guilty, you are seeing your own secret guilt in him — and confirming it in yourself.\n\n**The direction of healing** is therefore taking responsibility back: anger is never about the other. This is not self-blame — it is homecoming: you acknowledge that the error is in your own mind, because **only there can you hand it over** to the Inner Teacher for correction.\n\n**Practice:** when someone irritates you today, ask: *what do I see in them that I refuse to see in myself?* — and treat the answer not as a verdict but as a finding.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Legea de bază a minții, spune Cursul, este că ea **curge în afară**. Aceeași lege în două mâini este două lucruri diferite:\n\n— în mâna Duhului Sfânt este **extindere**: împărtășirea iubirii, care îmbogățește deodată pe dăruitor și pe primitor;\n— în mâna ego-ului este **proiecție**: așezarea vinei nedorite în afară — pe alții, pe lume.\n\nOrdinea este întotdeauna aceeași: mai întâi privești **înăuntru**, decizi ce lume vrei să vezi — apoi o proiectezi, și asta este ceea ce vezi. Afirmația puternică a tradiției este că lumea pe care o vezi este în întregime o imagine proiectată din interior: ca un cinema al cărui ecran e afară, în timp ce filmul rulează în tine. * Dacă ceva de pe ecran nu-ți place, a zgâria ecranul e inutil — lumea îți dă înapoi doar ce ai pus în ea.\n\n**Capcana proiecției** este că nu funcționează. Ceea ce împingi asupra altuia tocmai **păstrezi** — căci nu a părăsit niciodată mintea ta. De aceea cel care proiectează e silit la o vigilență și o activitate constantă: ca nu cumva să observe că ceea ce atacă afară trăiește înăuntru. Când îl judeci pe fratele tău vinovat, vezi în el propria ta vină secretă — și o confirmi în tine.\n\n**Direcția vindecării** este deci preluarea responsabilității înapoi: mânia nu e niciodată despre celălalt. Aceasta nu e auto-învinovățire — e întoarcere acasă: recunoști că greșeala e în propria ta minte, pentru că **doar acolo o poți preda** Învățătorului Interior spre corectare.\n\n**Practică:** când cineva te irită azi, întreabă: *ce văd în el pe care refuz să-l văd în mine?* — și tratează răspunsul nu ca pe un verdict, ci ca pe o constatare.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -77,11 +89,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A megbocsátás útja",
-        "en": "The Way of Forgiveness"
+        "en": "The Way of Forgiveness",
+        "ro": "Calea Iertării"
       },
       "text": {
         "hu": "A Kurzus megbocsátása gyökeresen más, mint a hétköznapi. Nem az, hogy nagyvonalúan elnézel egy valós gonoszságot — hanem annak felismerése, hogy **amit láttál, nem az igazság volt**.\n\nA kulcs a **bűn és a tévedés** megkülönböztetése. A bűn — ha létezne — megtorlásért kiáltana, és jóvátehetetlen lenne. A tévedés viszont kijavítható. A Kurzus radikális tanítása: **bűn nincs, csak tévedés van** — ezért a bűntudat mindig indokolatlan. Minden támadás — a másoké és a tiéd is — valójában **segélykérés**: a szeretet hiányának jele, nem a gonoszság bizonyítéka.\n\nA bűntudat az, ami felhőként eltakarja a benned lévő fényt. És itt a fordulat, amit a hétköznapi gondolkodás nem lát: amíg akár **egyetlen emberben** igazoltnak látod a bűnt, addig magadban is fenntartod a bűntudatot. Megbocsátva a testvérednek **önmagadnak bocsátasz meg** — az ajándék itt is egyszerre érkezik mindkét irányba.\n\nA megbocsátásban megtisztult világ — a Kurzus szavával a **valós világ** — a hagyomány szerint küszöb, nem végállomás. A megbocsátás csak eltávolítja a valótlant; a záró szakaszt, az érzékelésből a tudásba emelést már nem a tanuló teszi meg — az ajándékként érkezik. A Mennyben nincs megbocsátás, mert ott nincs mit megbocsátani — itt viszont ez az egyetlen igazán értelmes ima, és a béke egyetlen útja.\n\n**Egy éles határ:** a megbocsátás belső munka. Nem kötelez kapcsolattartásra, kibékülésre, és semmiképp sem arra, hogy ártalomban maradj. Bántalmazó helyzetben az első lépés nem a belső átkeretezés, hanem a határ, a távolság és a segítségkérés.\n\n**Gyakorlat:** válassz ma egyetlen sérelmet — a legkisebbet. Ne azt mondd: „megbocsátom, amit tett” — kérdezd inkább: *lehet, hogy amit láttam, nem a teljes igazság?* Ennyi elég a kezdethez.",
-        "en": "The Course's forgiveness is radically unlike the everyday kind. It is not generously overlooking a real evil — it is the recognition that **what you saw was not the truth**.\n\nThe key is distinguishing **sin from error**. Sin — if it existed — would cry out for retribution and be beyond repair. Error, however, can be corrected. The Course's radical teaching: **there is no sin, only error** — and therefore guilt is never justified. Every attack — others' and your own — is in truth a **call for help**: a sign of love's absence, not proof of evil.\n\nGuilt is what covers the light within you like a cloud. And here is the turn that ordinary thinking misses: as long as you see sin as justified in even **one person**, you maintain guilt in yourself as well. Forgiving your brother you **forgive yourself** — here too the gift lands on both sides at once.\n\nThe world cleansed in forgiveness — in the Course's phrase the **real world** — is, the tradition holds, a threshold, not a final stop. Forgiveness only removes the unreal; the closing passage, the lifting from perception into knowledge, is no longer the student's doing — it arrives as a gift. In Heaven there is no forgiveness, for there is nothing to forgive — here, however, it is the only truly meaningful prayer, and the only road to peace.\n\n**One sharp boundary:** forgiveness is inner work. It obliges you neither to stay in contact, nor to reconcile — and never to remain in harm's way. In an abusive situation the first step is not inner reframing but boundary, distance and asking for help.\n\n**Practice:** choose one single grievance today — the smallest one. Do not say 'I forgive what they did' — ask instead: *could it be that what I saw was not the whole truth?* That much is enough to begin."
+        "en": "The Course's forgiveness is radically unlike the everyday kind. It is not generously overlooking a real evil — it is the recognition that **what you saw was not the truth**.\n\nThe key is distinguishing **sin from error**. Sin — if it existed — would cry out for retribution and be beyond repair. Error, however, can be corrected. The Course's radical teaching: **there is no sin, only error** — and therefore guilt is never justified. Every attack — others' and your own — is in truth a **call for help**: a sign of love's absence, not proof of evil.\n\nGuilt is what covers the light within you like a cloud. And here is the turn that ordinary thinking misses: as long as you see sin as justified in even **one person**, you maintain guilt in yourself as well. Forgiving your brother you **forgive yourself** — here too the gift lands on both sides at once.\n\nThe world cleansed in forgiveness — in the Course's phrase the **real world** — is, the tradition holds, a threshold, not a final stop. Forgiveness only removes the unreal; the closing passage, the lifting from perception into knowledge, is no longer the student's doing — it arrives as a gift. In Heaven there is no forgiveness, for there is nothing to forgive — here, however, it is the only truly meaningful prayer, and the only road to peace.\n\n**One sharp boundary:** forgiveness is inner work. It obliges you neither to stay in contact, nor to reconcile — and never to remain in harm's way. In an abusive situation the first step is not inner reframing but boundary, distance and asking for help.\n\n**Practice:** choose one single grievance today — the smallest one. Do not say 'I forgive what they did' — ask instead: *could it be that what I saw was not the whole truth?* That much is enough to begin.",
+        "ro": "Iertarea din Curs este radical diferită de cea de zi cu zi. Nu este a trece cu generozitate cu vederea un rău real — este recunoașterea că **ceea ce ai văzut nu era adevărul**.\n\nCheia este a deosebi **păcatul de greșeală**. Păcatul — dacă ar exista — ar striga după răzbunare și ar fi dincolo de reparare. Greșeala, însă, poate fi corectată. Învățătura radicală a Cursului: **nu există păcat, ci doar greșeală** — și de aceea vina nu e niciodată justificată. Fiecare atac — al altora și al tău — este în realitate un **strigăt de ajutor**: un semn al absenței iubirii, nu o dovadă a răului.\n\nVina este ceea ce acoperă lumina din tine ca un nor. Și iată cotitura pe care gândirea obișnuită o ratează: atâta timp cât vezi păcatul ca justificat măcar la **o singură persoană**, menții vina și în tine. Iertându-l pe fratele tău, te **ierți pe tine** — și aici darul aterizează deodată pe ambele părți.\n\nLumea curățată în iertare — în formularea Cursului, **lumea reală** — este, ține tradiția, un prag, nu o oprire finală. Iertarea înlătură doar nerealul; trecerea de încheiere, ridicarea din percepție în cunoaștere, nu mai e fapta elevului — sosește ca un dar. În Cer nu există iertare, căci nu e nimic de iertat — aici, însă, este singura rugăciune cu adevărat plină de sens, și singurul drum spre pace.\n\n**O graniță ascuțită:** iertarea este muncă interioară. Nu te obligă nici să rămâi în contact, nici să te împaci — și niciodată să rămâi în calea răului. Într-o situație de abuz, primul pas nu e reîncadrarea interioară, ci granița, distanța și cererea de ajutor.\n\n**Practică:** alege azi o singură supărare — pe cea mai mică. Nu spune «iert ce au făcut» — întreabă în schimb: *se poate ca ceea ce am văzut să nu fi fost tot adevărul?* Atât e de ajuns ca să începi."
       }
     },
     {
@@ -89,11 +103,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Különleges és szent kapcsolat",
-        "en": "Special and Holy Relationships"
+        "en": "Special and Holy Relationships",
+        "ro": "Relații Speciale și Sfinte"
       },
       "text": {
         "hu": "A Kurzus szerint minden kapcsolatod **tanterem** — a kérdés csak az, melyik tanító tanít benne.\n\n**A különleges kapcsolat** az ego fő eszköze. A hiány elvén áll: mindkét fél úgy hiszi, a másikban van meg az, ami belőle hiányzik. Az ilyen „szeretet” valójában **alku**: azért ad, hogy kapjon — és továbbáll, ha már nincs mit elvennie. A különleges kapcsolat a bűntudat hordozója és áthárításának terepe: kirekesztésre épül — mi ketten a világ ellen —, és a legmélyebb magányt termeli: két ember egy fedél alatt, mégis világnyi távolságban.\n\n**A szent kapcsolat** fordított alapról indul: mindkét fél **teljesnek** látja magát, és a teljességét kiterjeszteni akarja, nem pótolni. A különbségek helyett az azonosságot nézi.\n\nÉs itt a legpraktikusabb tanítás: a fordulathoz **nem lecserélni** kell a kapcsolatot, hanem a **célját átadni**. Ugyanaz a kapcsolat, ugyanazzal az emberrel — de új céllal: ha a Belső Tanítóra bízod, ugyanaz a kapcsolat a megbocsátás tantermévé, a gyógyulás helyévé válik. Az újjászületett kapcsolat eleinte olyan, mint egy csecsemő: törékeny, zavaros, ingerlékeny — ez nem a kudarc jele, hanem az átmeneté. A hagyomány szerint minden szent kapcsolat egy-egy sejtje annak, ahogy a föld Mennyé válik.\n\n**Fontos határ:** az új cél nem maradási kötelezettség. Ha egy kapcsolat bántalmazó — erőszakos, fenyegető vagy rendszeresen megalázó —, ott a következő lépés nem az átkeretezés, hanem a határ, a távolság és a segítségkérés; a belső munka ráér biztonságban.\n\n**Gyakorlat:** válassz egy nehéz — de nem bántalmazó — kapcsolatot, és egy csendes percben mondd ki: *ennek a kapcsolatnak új célt adok — azt akarom benne látni, ami igaz.*",
-        "en": "According to the Course every relationship of yours is a **classroom** — the only question is which teacher teaches in it.\n\n**The special relationship** is the ego's chief device. It stands on the principle of lack: each partner believes the other holds what is missing from themselves. Such 'love' is in truth a **bargain**: it gives in order to get — and moves on when there is nothing left to take. The special relationship is the carrier of guilt and the arena for shifting it: it is built on exclusion — the two of us against the world — and it manufactures the deepest loneliness: two people under one roof, yet worlds apart.\n\n**The holy relationship** starts from the reversed ground: both partners see themselves as **whole**, and want to extend their wholeness, not to patch it. It looks at sameness instead of differences.\n\nAnd here is the most practical teaching: the turn requires **not replacing** the relationship but **handing over its purpose**. The same relationship, with the same person — but with a new goal: entrusted to the Inner Teacher, the very same relationship becomes a classroom of forgiveness, a place of healing. The reborn relationship is at first like an infant: fragile, confused, irritable — not a sign of failure but of transition. The tradition holds that every holy relationship is a cell of the earth becoming Heaven.\n\n**An important boundary:** the new purpose is no obligation to stay. If a relationship is abusive — violent, threatening or systematically demeaning — the next step there is not reframing but boundary, distance and asking for help; the inner work can wait until you are safe.\n\n**Practice:** pick a hard — but not abusive — relationship, and in a quiet minute say: *I give this relationship a new purpose — I want to see in it what is true.*"
+        "en": "According to the Course every relationship of yours is a **classroom** — the only question is which teacher teaches in it.\n\n**The special relationship** is the ego's chief device. It stands on the principle of lack: each partner believes the other holds what is missing from themselves. Such 'love' is in truth a **bargain**: it gives in order to get — and moves on when there is nothing left to take. The special relationship is the carrier of guilt and the arena for shifting it: it is built on exclusion — the two of us against the world — and it manufactures the deepest loneliness: two people under one roof, yet worlds apart.\n\n**The holy relationship** starts from the reversed ground: both partners see themselves as **whole**, and want to extend their wholeness, not to patch it. It looks at sameness instead of differences.\n\nAnd here is the most practical teaching: the turn requires **not replacing** the relationship but **handing over its purpose**. The same relationship, with the same person — but with a new goal: entrusted to the Inner Teacher, the very same relationship becomes a classroom of forgiveness, a place of healing. The reborn relationship is at first like an infant: fragile, confused, irritable — not a sign of failure but of transition. The tradition holds that every holy relationship is a cell of the earth becoming Heaven.\n\n**An important boundary:** the new purpose is no obligation to stay. If a relationship is abusive — violent, threatening or systematically demeaning — the next step there is not reframing but boundary, distance and asking for help; the inner work can wait until you are safe.\n\n**Practice:** pick a hard — but not abusive — relationship, and in a quiet minute say: *I give this relationship a new purpose — I want to see in it what is true.*",
+        "ro": "Potrivit Cursului, fiecare relație a ta este o **sală de clasă** — singura întrebare e care învățător predă în ea.\n\n**Relația specială** este principalul instrument al eului. Se sprijină pe principiul lipsei: fiecare partener crede că celălalt deține ceea ce îi lipsește sieși. O astfel de «iubire» este în adevăr un **târg**: dă ca să primească — și trece mai departe când nu mai e nimic de luat. Relația specială este purtătoarea vinei și arena deplasării ei: e construită pe excludere — noi doi împotriva lumii — și fabrică cea mai adâncă singurătate: doi oameni sub același acoperiș, totuși lumi depărtate.\n\n**Relația sfântă** pornește de pe terenul inversat: ambii parteneri se văd pe sine ca **întregi** și vor să-și extindă întregimea, nu să o cârpească. Privește asemănarea în locul diferențelor.\n\nȘi iată cea mai practică învățătură: cotitura cere **nu înlocuirea** relației, ci **predarea scopului ei**. Aceeași relație, cu aceeași persoană — dar cu un scop nou: încredințată Învățătorului Interior, însăși aceeași relație devine o sală de clasă a iertării, un loc de vindecare. Relația renăscută e la început ca un prunc: fragilă, confuză, iritabilă — nu un semn de eșec, ci de tranziție. Tradiția susține că fiecare relație sfântă este o celulă a pământului care devine Cer.\n\n**O graniță importantă:** noul scop nu e o obligație de a rămâne. Dacă o relație e abuzivă — violentă, amenințătoare sau sistematic umilitoare — pasul următor acolo nu e reîncadrarea, ci granița, distanța și cererea de ajutor; munca interioară poate aștepta până ești în siguranță.\n\n**Practică:** alege o relație grea — dar nu abuzivă — și într-un minut de liniște spune: *Dau acestei relații un scop nou — vreau să văd în ea ceea ce e adevărat.*"
       }
     },
     {
@@ -101,11 +117,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A szent pillanat",
-        "en": "The Holy Instant"
+        "en": "The Holy Instant",
+        "ro": "Clipa sfântă"
       },
       "text": {
         "hu": "A **szent pillanat** a Kurzus legkisebb és legnagyobb gyakorlata: az az időrés, amelyben elengeded a múltat és a jövőt, és teljesen a jelenbe lépsz.\n\nMiért éppen a jelen? Mert a bűntudat a **múlthoz** láncol, a félelem pedig a múltat vetíti a **jövőbe**. Az egyetlen pont, ahol az igazság elérhet, a **most** — az egyetlen idő, amelyben az ego nem tud megélni.\n\nEgyetlen másodperc elég. A szent pillanatban a testvéredet a **múltja nélkül** látod: nem azt, amit tegnap mondott, nem azt, amit tíz éve tett — hanem azt, aki most, ebben a pillanatban. Ezzel felkínálod neki — és magadnak — a szabadulást. Két ember, aki egy pillanatra közös célban egyesül a bűntudattól való szabadulásért: a hagyomány szerint ide érkezik meg a szeretet hírnöke, amely a megbocsátáson túlról emlékeztet Istenre. *\n\n**A legfelszabadítóbb rész:** nem neked kell előidézned. A te részed csupán a **kevés hajlandóság** — egy őszinte „hajlandó vagyok másképp látni ezt”. A többit a hagyomány szerint a Belső Tanító adja hozzá. * Nem teljesítmény tehát, hanem megengedés.\n\nA szent pillanat így az egész Kurzus sűrítménye: időelengedés, érzékelés-váltás és egyesülés — egyetlen megtapasztalható másodpercben. A lenti időzítő pontosan erre való: három perc, amely akár három másodpercre is rövidülhet, ha már ismered az utat.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The **holy instant** is the Course's smallest and greatest practice: the gap in time in which you release past and future and step fully into the present.\n\nWhy the present? Because guilt chains you to the **past**, and fear projects the past into the **future**. The only point where truth can reach you is **now** — the one time in which the ego cannot survive.\n\nA single second is enough. In the holy instant you see your brother **without his past**: not what he said yesterday, not what he did ten years ago — but who he is now, in this moment. With this you offer him — and yourself — release. Two people united for one moment in the common aim of freedom from guilt: the tradition holds that here the messenger of love arrives, reminding you of God from beyond forgiveness. *\n\n**The most liberating part:** you do not have to produce it. Your part is only the **little willingness** — an honest 'I am willing to see this differently'. The rest, the tradition says, the Inner Teacher adds. * Not achievement, then, but allowing.\n\nThe holy instant is thus the whole Course condensed: the release of time, the shift of perception and union — in one experienceable second. The timer below serves exactly this: three minutes that may shorten to three seconds once you know the way.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The **holy instant** is the Course's smallest and greatest practice: the gap in time in which you release past and future and step fully into the present.\n\nWhy the present? Because guilt chains you to the **past**, and fear projects the past into the **future**. The only point where truth can reach you is **now** — the one time in which the ego cannot survive.\n\nA single second is enough. In the holy instant you see your brother **without his past**: not what he said yesterday, not what he did ten years ago — but who he is now, in this moment. With this you offer him — and yourself — release. Two people united for one moment in the common aim of freedom from guilt: the tradition holds that here the messenger of love arrives, reminding you of God from beyond forgiveness. *\n\n**The most liberating part:** you do not have to produce it. Your part is only the **little willingness** — an honest 'I am willing to see this differently'. The rest, the tradition says, the Inner Teacher adds. * Not achievement, then, but allowing.\n\nThe holy instant is thus the whole Course condensed: the release of time, the shift of perception and union — in one experienceable second. The timer below serves exactly this: three minutes that may shorten to three seconds once you know the way.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": " **Clipa sfântă** este practica cea mai mică și cea mai mare a Cursului: intervalul din timp în care eliberezi trecutul și viitorul și pășești pe deplin în prezent.\n\nDe ce prezentul? Pentru că vina te leagă de **trecut**, iar frica proiectează trecutul în **viitor**. Singurul punct în care adevărul te poate atinge este **acum** — singurul timp în care eul nu poate supraviețui.\n\nO singură secundă e de ajuns. În clipa sfântă îl vezi pe fratele tău **fără trecutul lui**: nu ce a spus ieri, nu ce a făcut acum zece ani — ci cine este el acum, în acest moment. Cu aceasta îi oferi lui — și ție — eliberare. Doi oameni uniți pentru o clipă în scopul comun al libertății de vină: tradiția susține că aici sosește mesagerul iubirii, amintindu-ți de Dumnezeu dincolo de iertare. *\n\n**Partea cea mai eliberatoare:** nu trebuie s-o produci. Partea ta e doar **mica bunăvoință** — un sincer «Sunt dispus să văd asta altfel». Restul, spune tradiția, îl adaugă Învățătorul Interior. * Nu realizare, așadar, ci îngăduire.\n\nClipa sfântă este astfel întregul Curs condensat: eliberarea timpului, schimbarea percepției și unirea — într-o singură secundă experimentabilă. Cronometrul de mai jos servește exact acestui scop: trei minute care se pot scurta la trei secunde odată ce cunoști calea.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -113,11 +131,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A Munkafüzet módszere",
-        "en": "The Workbook Method"
+        "en": "The Workbook Method",
+        "ro": "Metoda Caietului de exerciții"
       },
       "text": {
         "hu": "A **Munkafüzet** a Kurzus gyakorlati szíve: 365 számozott lecke — egy teljes év elmetréningje. A módszere legalább annyira zseniális, mint a tartalma.\n\n**Az alapszabályok:**\n\n— **Napi egy lecke — soha több.** Lassítani szabad, gyorsítani nem. Ha kihagytál egy napot, nincs lemaradás és nincs szégyen: ugyanott folytatod.\n\n— **Nem kell hinned benne.** A Munkafüzet egyetlen dolgot kér: hogy a gyakorlatot **elvégezd**. Meggyőződés nélkül is működik — az ellenállásod nem veszi el az erejét. A szkepszis megengedett; egyedül a kihagyás nem visz előre.\n\n— **Kivétel nélkül.** A napi gondolatot válogatás nélkül alkalmazd mindenre és mindenkire — egyetlen szándékosan megtartott kivétel az egész képzést gyengíti. Ugyanakkor nem kell mindenre alkalmaznod: csak tudatosan kizárni tilos.\n\n**Egy nap felépítése** a haladással bővül: eleinte napi két-három egyperces gyakorlat; a 20. leckétől óránkénti emlékeztetők; később 10–15 perces reggeli és esti ülések. És a legfontosabb réteg: az **eseményvezérelt alkalmazás** — amikor zaklatottság tör rád, a napi gondolatot konkrétan, az adott helyzetre behelyettesítve mondod ki.\n\n**Beépített szelídség:** ha egy gyakorlat felkavar, rövidítsd le vagy hagyd abba — az erőltetés és a neheztelés kontraproduktív. Elmulasztott emlékeztetőért semmi önostorozás: egyszerűen térj vissza.\n\n**A leckék íve:** érzékelés-lazítás → ok és okozat megfordítása → identitás-építés → megbocsátás mint életfeladat → végül a II. rész, ahol a szavak elcsendesülnek, és rövid, imaformájú szövegek vezetnek a csendbe. Közben ismétlő szakaszok fűzik össze a gondolatokat egyetlen rendszerré.\n\n**Az appban:** a lenti 10 perces időzítő egy munkafüzet-stílusú reggeli ülés kerete; az esti Csoda-napló pedig a nap zárása.",
-        "en": "The **Workbook** is the practical heart of the Course: 365 numbered lessons — a full year of mind training. Its method is at least as ingenious as its content.\n\n**The ground rules:**\n\n— **One lesson a day — never more.** Slowing down is allowed, speeding up is not. If you missed a day there is no falling behind and no shame: you continue right where you were.\n\n— **You do not have to believe it.** The Workbook asks one thing only: that you **do** the exercise. It works without conviction — your resistance does not take away its power. Skepticism is permitted; only skipping fails to carry you forward.\n\n— **Without exception.** Apply the day's thought indiscriminately to everything and everyone — a single deliberately kept exception weakens the whole training. At the same time you need not apply it to everything: only conscious exclusion is forbidden.\n\n**The structure of a day** grows with progress: at first two or three one-minute practices; from lesson 20 onward hourly reminders; later 10–15-minute morning and evening sessions. And the most important layer: **event-driven application** — when upset strikes you, you speak the day's thought concretely, filled in for the given situation.\n\n**Built-in gentleness:** if an exercise disturbs you, shorten it or stop — forcing and resentment are counterproductive. No self-flogging over a missed reminder: simply return.\n\n**The arc of the lessons:** loosening perception → reversing cause and effect → building identity → forgiveness as one's life task → finally Part II, where words grow quiet and short prayer-like texts lead into silence. Along the way, review sections weave the thoughts into a single system.\n\n**In the app:** the 10-minute timer below frames a workbook-style morning session; the evening Miracle Journal closes the day."
+        "en": "The **Workbook** is the practical heart of the Course: 365 numbered lessons — a full year of mind training. Its method is at least as ingenious as its content.\n\n**The ground rules:**\n\n— **One lesson a day — never more.** Slowing down is allowed, speeding up is not. If you missed a day there is no falling behind and no shame: you continue right where you were.\n\n— **You do not have to believe it.** The Workbook asks one thing only: that you **do** the exercise. It works without conviction — your resistance does not take away its power. Skepticism is permitted; only skipping fails to carry you forward.\n\n— **Without exception.** Apply the day's thought indiscriminately to everything and everyone — a single deliberately kept exception weakens the whole training. At the same time you need not apply it to everything: only conscious exclusion is forbidden.\n\n**The structure of a day** grows with progress: at first two or three one-minute practices; from lesson 20 onward hourly reminders; later 10–15-minute morning and evening sessions. And the most important layer: **event-driven application** — when upset strikes you, you speak the day's thought concretely, filled in for the given situation.\n\n**Built-in gentleness:** if an exercise disturbs you, shorten it or stop — forcing and resentment are counterproductive. No self-flogging over a missed reminder: simply return.\n\n**The arc of the lessons:** loosening perception → reversing cause and effect → building identity → forgiveness as one's life task → finally Part II, where words grow quiet and short prayer-like texts lead into silence. Along the way, review sections weave the thoughts into a single system.\n\n**In the app:** the 10-minute timer below frames a workbook-style morning session; the evening Miracle Journal closes the day.",
+        "ro": "**Caietul de exerciții** este inima practică a Cursului: 365 de lecții numerotate — un an întreg de antrenament al minții. Metoda lui e cel puțin la fel de ingenioasă ca și conținutul.\n\n**Regulile de bază:**\n\n— **O lecție pe zi — niciodată mai mult.** Încetinirea e permisă, accelerarea nu. Dacă ai ratat o zi, nu există rămânere în urmă și nici rușine: continui exact de unde erai.\n\n— **Nu trebuie să crezi.** Caietul de exerciții cere un singur lucru: să **faci** exercițiul. Funcționează fără convingere — rezistența ta nu-i ia puterea. Scepticismul e permis; doar săritul peste nu te duce înainte.\n\n— **Fără excepție.** Aplică gândul zilei fără discriminare la tot și la toți — o singură excepție păstrată deliberat slăbește întregul antrenament. În același timp nu trebuie să-l aplici la tot: doar excluderea conștientă e interzisă.\n\n**Structura unei zile** crește pe măsură ce progresezi: la început două sau trei practici de un minut; de la lecția 20 încolo mementouri orare; mai târziu sesiuni de 10–15 minute dimineața și seara. Și stratul cel mai important: **aplicarea declanșată de evenimente** — când te lovește tulburarea, spui gândul zilei concret, completat pentru situația dată.\n\n**Blândețea încorporată:** dacă un exercițiu te deranjează, scurtează-l sau oprește-te — forțarea și resentimentul sunt contraproductive. Fără autoflagelare pentru un memento ratat: pur și simplu revino.\n\n**Arcul lecțiilor:** slăbirea percepției → inversarea cauzei și efectului → construirea identității → iertarea ca sarcină de viață → în cele din urmă Partea a II-a, unde cuvintele se potolesc și texte scurte de tip rugăciune te conduc în tăcere. Pe parcurs, secțiunile de recapitulare țes gândurile într-un singur sistem.\n\n**În aplicație:** cronometrul de 10 minute de mai jos încadrează o sesiune de dimineață în stilul caietului; Jurnalul de Miracole de seară închide ziua."
       }
     },
     {
@@ -125,11 +145,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A tanító útja — és a józan lencse",
-        "en": "The Teacher's Path — and the Sober Lens"
+        "en": "The Teacher's Path — and the Sober Lens",
+        "ro": "Calea Învățătorului — și lentila trează"
       },
       "text": {
         "hu": "A **Tanári kézikönyv** kérdés-válasz formában zárja a művet. Legfontosabb üzenete meglepő: Isten tanítója **bárki lehet** — nincs képesítés, nincs felekezet, még hit sem feltétel. Egyetlen belépő van: egy pillanat, amelyben valaki a saját érdekét **egynek látta** egy másik ember érdekével.\n\n**Tanítani = lenni.** A tanítás nem előadás: minden pillanatban azt tanítod — demonstrálod —, amit önmagadról hiszel. Ezért a tanító nem áll a tanuló felett: csak időben jár előtte. És nem tökéletes — épp azért tanít, hogy közben maga is megtanulja.\n\n**A tíz jellemvonás,** amely az úton kifejlődik: bizalom, őszinteség (gondolat, szó és tett egysége), tolerancia, szelídség, öröm, védekezésnélküliség, nagylelkűség (adni = megtartani), türelem, állhatatosság, nyitott elme. Mind az elsőre épül: a **bizalomra** — amelynek hat lépcsője van, és amelyben a nyugtalanság időszaka nem visszaesés, hanem normális válságfázis: annak felismerése, hogy eddig nem tudtad, mi az igazán értékes.\n\n**Az út vége:** a Kurzus kimondja önmagáról, hogy kezdet, nem vég. Nincs több kijelölt lecke — a tanuló minden kérdését a Belső Tanítónak adja át, és nem egyedül jár: ezért a kudarc lehetetlen.\n\n---\n\n**Józan lencse.** A Kurzus keresztény szókincse mögött egyetemes belső munka zajlik, amelyet a lélektan is jól ismer: a **vetítés visszavonása** (amit másban gyűlölök, azt magamban dolgozom fel), a **kognitív átkeretezés** (nem a helyzet szorít, hanem az értelmezésem), a **bűntudat feloldása** és a jelen pillanat figyelme. Így hívő és nem hívő ugyanazzal a haszonnal gyakorolhatja.\n\nHárom határ viszont éles. A Kurzus kijelentései a betegségről és a világról a hagyomány saját keretei — **soha ne helyettesítsenek orvosi vagy pszichológiai ellátást**. A betegség nem szégyen, és nem a te „rossz gondolkodásod” vádirata. Testi tünettel orvoshoz, tartós lelki teherrel pszichológushoz fordulj — akut krízisben pedig azonnal szakemberhez. Ez a gyakorlás mindezek **mellé** való, nem helyettük. És a harmadik: a megbocsátás és az átkeretezés belső munka — nem kötelez sem kapcsolattartásra, sem kibékülésre, sem ártalomban maradásra. Bántalmazó helyzetben az első lépés a határ, a távolság és a segítségkérés.",
-        "en": "The **Manual for Teachers** closes the work in question-and-answer form. Its most important message is surprising: **anyone** can be a teacher of God — no qualification, no denomination, not even belief is a condition. There is a single entrance: one moment in which someone saw their own interest as **one** with another person's.\n\n**To teach = to be.** Teaching is not lecturing: in every moment you teach — demonstrate — what you believe about yourself. Hence the teacher does not stand above the pupil: he only walks ahead in time. And he is not perfect — he teaches precisely in order to learn it himself along the way.\n\n**The ten characteristics** that develop along the road: trust, honesty (the unity of thought, word and deed), tolerance, gentleness, joy, defenselessness, generosity (to give is to keep), patience, faithfulness, open-mindedness. All rest on the first, **trust** — which has six stages, and in which the period of unsettling is not relapse but a normal phase of crisis: the recognition that until now you did not know what was truly valuable.\n\n**The end of the road:** the Course says of itself that it is a beginning, not an end. There are no more assigned lessons — the pupil hands every question to the Inner Teacher, and does not walk alone: therefore failure is impossible.\n\n---\n\n**The sober lens.** Behind the Course's Christian vocabulary runs universal inner work that psychology knows well: the **withdrawal of projection** (what I hate in another, I process in myself), **cognitive reframing** (it is not the situation that grips me but my interpretation), the **dissolving of guilt**, and present-moment attention. Believer and non-believer alike can therefore practice it with the same profit.\n\nThree boundaries, however, are sharp. The Course's statements about sickness and the world are the tradition's own frame — they must **never replace medical or psychological care**. Illness is not a shame, and not an indictment of your 'wrong thinking'. Take bodily symptoms to a doctor, lasting mental burdens to a psychologist — and in an acute crisis turn to a professional immediately. This practice belongs **alongside** those, never instead of them. And the third: forgiveness and reframing are inner work — they oblige you neither to stay in contact, nor to reconcile, nor to remain in harm's way. In an abusive situation the first step is boundary, distance and asking for help."
+        "en": "The **Manual for Teachers** closes the work in question-and-answer form. Its most important message is surprising: **anyone** can be a teacher of God — no qualification, no denomination, not even belief is a condition. There is a single entrance: one moment in which someone saw their own interest as **one** with another person's.\n\n**To teach = to be.** Teaching is not lecturing: in every moment you teach — demonstrate — what you believe about yourself. Hence the teacher does not stand above the pupil: he only walks ahead in time. And he is not perfect — he teaches precisely in order to learn it himself along the way.\n\n**The ten characteristics** that develop along the road: trust, honesty (the unity of thought, word and deed), tolerance, gentleness, joy, defenselessness, generosity (to give is to keep), patience, faithfulness, open-mindedness. All rest on the first, **trust** — which has six stages, and in which the period of unsettling is not relapse but a normal phase of crisis: the recognition that until now you did not know what was truly valuable.\n\n**The end of the road:** the Course says of itself that it is a beginning, not an end. There are no more assigned lessons — the pupil hands every question to the Inner Teacher, and does not walk alone: therefore failure is impossible.\n\n---\n\n**The sober lens.** Behind the Course's Christian vocabulary runs universal inner work that psychology knows well: the **withdrawal of projection** (what I hate in another, I process in myself), **cognitive reframing** (it is not the situation that grips me but my interpretation), the **dissolving of guilt**, and present-moment attention. Believer and non-believer alike can therefore practice it with the same profit.\n\nThree boundaries, however, are sharp. The Course's statements about sickness and the world are the tradition's own frame — they must **never replace medical or psychological care**. Illness is not a shame, and not an indictment of your 'wrong thinking'. Take bodily symptoms to a doctor, lasting mental burdens to a psychologist — and in an acute crisis turn to a professional immediately. This practice belongs **alongside** those, never instead of them. And the third: forgiveness and reframing are inner work — they oblige you neither to stay in contact, nor to reconcile, nor to remain in harm's way. In an abusive situation the first step is boundary, distance and asking for help.",
+        "ro": "**Manualul pentru profesori** închide lucrarea sub formă de întrebări și răspunsuri. Mesajul său cel mai important este surprinzător: **oricine** poate fi un profesor al lui Dumnezeu — nicio calificare, nicio confesiune, nici măcar credința nu este o condiție. Există o singură poartă de intrare: un moment în care cineva și-a văzut propriul interes ca fiind **unul** cu al altei persoane.\n\n**A preda = a fi.** Predarea nu este a ține prelegeri: în fiecare clipă predai — demonstrezi — ceea ce crezi despre tine. De aceea profesorul nu stă deasupra elevului: el doar merge înainte în timp. Și nu este perfect — predă tocmai ca să învețe el însuși pe drum.\n\n**Cele zece caracteristici** care se dezvoltă pe parcurs: încrederea, onestitatea (unitatea gândului, cuvântului și faptei), toleranța, blândețea, bucuria, neapărarea, generozitatea (a da înseamnă a păstra), răbdarea, fidelitatea, deschiderea minții. Toate se sprijină pe prima, **încrederea** — care are șase etape, și în care perioada de tulburare nu este o recădere, ci o fază normală de criză: recunoașterea că până acum nu știai ce era cu adevărat de preț.\n\n**Sfârșitul drumului:** Cursul spune despre sine că este un început, nu un sfârșit. Nu mai există lecții atribuite — elevul încredințează fiecare întrebare Învățătorului Interior și nu merge singur: de aceea eșecul este imposibil.\n\n---\n\n**Lentila trează.** În spatele vocabularului creștin al Cursului se desfășoară o lucrare interioară universală pe care psihologia o cunoaște bine: **retragerea proiecției** (ceea ce urăsc la altul, prelucrez în mine), **reîncadrarea cognitivă** (nu situația mă strânge, ci interpretarea mea), **dizolvarea vinei** și atenția la momentul prezent. Credinciosul și necredinciosul pot deci să o practice cu același folos.\n\nTrei granițe, însă, sunt clare. Afirmațiile Cursului despre boală și lume sunt cadrul propriu al tradiției — ele **nu trebuie niciodată să înlocuiască îngrijirea medicală sau psihologică**. Boala nu este o rușine și nu este o acuzație a «gândirii tale greșite». Du simptomele trupești la un medic, poverile mentale de durată la un psiholog — iar într-o criză acută apelează imediat la un profesionist. Această practică stă **alături** de ele, niciodată în locul lor. Iar a treia: iertarea și reîncadrarea sunt lucrare interioară — nu te obligă nici să rămâi în contact, nici să te împaci, nici să stai în calea răului. Într-o situație de abuz, primul pas este granița, distanța și cererea de ajutor."
       }
     },
     {
@@ -137,20 +159,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Szent pillanat — 3 perc",
-        "en": "Holy Instant — 3 min"
+        "en": "Holy Instant — 3 min",
+        "ro": "Clipa sfântă — 3 min"
       },
       "timer": {
         "durationSeconds": 180,
         "instructions": {
           "hu": "Állj meg. Erre a három percre engedd el a múltat és a jövőt. Idézz magad elé egy embert — vagy önmagadat —, és nézd a múltja nélkül: ne azt, amit tett, hanem azt, aki most. Pihenj a jelenben; a te részed csak a kevés hajlandóság.",
-          "en": "Stop. For these three minutes release the past and the future. Bring one person to mind — or yourself — and look without the past: not at what was done, but at who is here now. Rest in the present; your part is only the little willingness."
+          "en": "Stop. For these three minutes release the past and the future. Bring one person to mind — or yourself — and look without the past: not at what was done, but at who is here now. Rest in the present; your part is only the little willingness.",
+          "ro": "Oprește-te. Pentru aceste trei minute eliberează trecutul și viitorul. Adu în minte o persoană — sau pe tine însuți — și privește fără trecut: nu la ce s-a făcut, ci la cine este aici acum. Odihnește-te în prezent; partea ta este doar mica bunăvoință."
         },
         "intervals": [
           {
             "atSecond": 90,
             "label": {
               "hu": "Most engedd el a múltját — lásd azt, aki most",
-              "en": "Now release their past — see who they are now"
+              "en": "Now release their past — see who they are now",
+              "ro": "Acum eliberează trecutul lor — vezi cine sunt acum"
             }
           }
         ]
@@ -161,34 +186,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Munkafüzet-stílusú reggeli ülés — 10 perc",
-        "en": "Workbook-Style Morning Session — 10 min"
+        "en": "Workbook-Style Morning Session — 10 min",
+        "ro": "Sesiune de dimineață în stilul Caietului de exerciții — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Ülj le csendben, és válassz egy mag-gondolatot a mai napra (például: a békémet ma nem a helyzetek döntik el). Ismételd lassan, majd alkalmazd válogatás nélkül mindarra, ami az elmédben felmerül — személyre, helyzetre, gondolatra. Ha elkalandozol, szelíden térj vissza. Az utolsó percekben engedd el a szavakat is.",
-          "en": "Sit down in silence and choose a core thought for the day (for example: my peace today is not decided by situations). Repeat it slowly, then apply it without selection to whatever arises in your mind — a person, a situation, a thought. If you wander, return gently. In the last minutes release even the words."
+          "en": "Sit down in silence and choose a core thought for the day (for example: my peace today is not decided by situations). Repeat it slowly, then apply it without selection to whatever arises in your mind — a person, a situation, a thought. If you wander, return gently. In the last minutes release even the words.",
+          "ro": "Așază-te în tăcere și alege un gând de bază pentru zi (de exemplu: pacea mea de azi nu este hotărâtă de situații). Repetă-l încet, apoi aplică-l fără selecție la tot ce apare în mintea ta — o persoană, o situație, un gând. Dacă rătăcești, întoarce-te blând. În ultimele minute eliberează chiar și cuvintele."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Alkalmazd a gondolatot mindenre, ami felmerül — kivétel nélkül",
-              "en": "Apply the thought to everything that arises — without exception"
+              "en": "Apply the thought to everything that arises — without exception",
+              "ro": "Aplică gândul la tot ce apare — fără excepție"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Ha elkalandoztál, szelíden térj vissza a mondathoz",
-              "en": "If you have wandered, gently return to the sentence"
+              "en": "If you have wandered, gently return to the sentence",
+              "ro": "Dacă ai rătăcit, întoarce-te blând la propoziție"
             }
           },
           {
             "atSecond": 480,
             "label": {
               "hu": "Záró csend — engedd el a szavakat is",
-              "en": "Closing silence — release even the words"
+              "en": "Closing silence — release even the words",
+              "ro": "Tăcere de încheiere — eliberează chiar și cuvintele"
             }
           }
         ]
@@ -199,7 +229,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A Kurzus-tanítvány jellemvonásai",
-        "en": "The Course Student's character traits"
+        "en": "The Course Student's character traits",
+        "ro": "Trăsăturile de caracter ale elevului Cursului"
       },
       "aspektusPack": [
         {
@@ -208,7 +239,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Támadás-gondolat",
-            "en": "The attack thought"
+            "en": "The attack thought",
+            "ro": "Gândul de atac"
           }
         },
         {
@@ -217,7 +249,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Sérelem-őrzés",
-            "en": "Keeping grievances"
+            "en": "Keeping grievances",
+            "ro": "Păstrarea nemulțumirilor"
           }
         },
         {
@@ -226,7 +259,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Bűntudat-vetítés",
-            "en": "Projecting guilt"
+            "en": "Projecting guilt",
+            "ro": "Proiectarea vinei"
           }
         },
         {
@@ -235,7 +269,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Különlegesség-igény",
-            "en": "The demand for specialness"
+            "en": "The demand for specialness",
+            "ro": "Cererea de specialitate"
           }
         },
         {
@@ -244,7 +279,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Megbocsátó tekintet",
-            "en": "The forgiving gaze"
+            "en": "The forgiving gaze",
+            "ro": "Privirea iertătoare"
           }
         },
         {
@@ -253,7 +289,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Szent-pillanat megállás",
-            "en": "The holy-instant pause"
+            "en": "The holy-instant pause",
+            "ro": "Pauza clipei sfinte"
           }
         },
         {
@@ -262,7 +299,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "A Belső Tanítóra hallgatás",
-            "en": "Listening to the Inner Teacher"
+            "en": "Listening to the Inner Teacher",
+            "ro": "Ascultarea Învățătorului Interior"
           }
         },
         {
@@ -271,7 +309,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Csak-szeretet válasz",
-            "en": "The only-love response"
+            "en": "The only-love response",
+            "ro": "Răspunsul numai-iubire"
           }
         }
       ]
@@ -281,7 +320,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Csoda-napló",
-        "en": "Miracle Journal"
+        "en": "Miracle Journal",
+        "ro": "Jurnalul miracolelor"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -289,7 +329,8 @@
         ],
         "prompts": {
           "hu": "SÉRELEM — ma mit tartottam számon és hogyan engedtem el: ___\n\nVETÍTÉS — mit láttam kint, ami bennem volt: ___\n\nSZENT PILLANAT — hol álltam meg ma: ___\n\nLECKE — a mai munkafüzet-gyakorlatom és mélysége (1–10): ___\n\nCSODA — hol váltott át az érzékelésem: ___",
-          "en": "GRIEVANCE — what I kept score of today and how I released it: ___\n\nPROJECTION — what I saw outside that was within me: ___\n\nHOLY INSTANT — where I paused today: ___\n\nLESSON — my workbook practice today and its depth (1–10): ___\n\nMIRACLE — where my perception shifted: ___"
+          "en": "GRIEVANCE — what I kept score of today and how I released it: ___\n\nPROJECTION — what I saw outside that was within me: ___\n\nHOLY INSTANT — where I paused today: ___\n\nLESSON — my workbook practice today and its depth (1–10): ___\n\nMIRACLE — where my perception shifted: ___",
+          "ro": "NEMULȚUMIRE — ce am ținut socoteală azi și cum am eliberat-o: ___\n\nPROIECȚIE — ce am văzut afară care era în mine: ___\n\nCLIPĂ SFÂNTĂ — unde m-am oprit azi: ___\n\nLECȚIE — practica mea din caietul de exerciții azi și adâncimea ei (1–10): ___\n\nMIRACOL — unde s-a schimbat percepția mea: ___"
         }
       }
     },
@@ -298,7 +339,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A gyakorlat elsajátítása",
-        "en": "Mastery of the Practice"
+        "en": "Mastery of the Practice",
+        "ro": "Stăpânirea practicii"
       },
       "checklist": {
         "items": [
@@ -306,49 +348,56 @@
             "key": "c1",
             "nevek": {
               "hu": "Napi egy mag-gondolat — soha nem több egynél, kihagyott nap után szégyen nélkül folytatva",
-              "en": "One core thought a day — never more than one, continued without shame after a missed day"
+              "en": "One core thought a day — never more than one, continued without shame after a missed day",
+              "ro": "Un gând de bază pe zi — niciodată mai mult de unul, reluat fără rușine după o zi ratată"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Munkafüzet-stílusú reggeli ülés legalább egy héten át",
-              "en": "Workbook-style morning session for at least one week"
+              "en": "Workbook-style morning session for at least one week",
+              "ro": "Sesiune de dimineață în stilul caietului de exerciții timp de cel puțin o săptămână"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Óránkénti emlékezés kipróbálva legalább egy teljes napon át",
-              "en": "Hourly remembering tried for at least one full day"
+              "en": "Hourly remembering tried for at least one full day",
+              "ro": "Reamintirea din oră în oră încercată cel puțin o zi întreagă"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Zaklatottságnál a napi gondolat behelyettesítve, konkrétan alkalmazva",
-              "en": "At a moment of upset, the day's thought applied concretely, filled in"
+              "en": "At a moment of upset, the day's thought applied concretely, filled in",
+              "ro": "Într-un moment de tulburare, gândul zilei aplicat concret, completat"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Egy sérelem tudatosan újranézve: bűn helyett kijavítható tévedésként",
-              "en": "One grievance consciously re-seen: as correctable error, not sin"
+              "en": "One grievance consciously re-seen: as correctable error, not sin",
+              "ro": "O nemulțumire re-văzută conștient: ca eroare corectabilă, nu ca păcat"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Szent pillanat gyakorlat naponta — akár egyetlen másodpercre is",
-              "en": "Holy-instant practice daily — even for a single second"
+              "en": "Holy-instant practice daily — even for a single second",
+              "ro": "Practica clipei sfinte zilnic — chiar și pentru o singură secundă"
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "Csoda-napló esténként kitöltve egy héten át",
-              "en": "Miracle Journal filled in each evening for a week"
+              "en": "Miracle Journal filled in each evening for a week",
+              "ro": "Jurnalul miracolelor completat în fiecare seară timp de o săptămână"
             }
           }
         ]
@@ -359,7 +408,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Auto-verificare"
       },
       "quiz": {
         "passThreshold": 4,
@@ -368,7 +418,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi a csoda a Kurzus szerint?",
-              "en": "What is the miracle according to the Course?"
+              "en": "What is the miracle according to the Course?",
+              "ro": "Ce este miracolul potrivit Cursului?"
             },
             "options": {
               "hu": [
@@ -382,6 +433,12 @@
                 "A rare grace granted only to a few",
                 "A shift of perception: the mind switching from fear to love",
                 "Wish fulfillment achieved through strong visualization"
+              ],
+              "ro": [
+                "Un eveniment supranatural care suspendă legile fizicii",
+                "Un har rar acordat doar câtorva",
+                "O schimbare de percepție: mintea care trece de la frică la iubire",
+                "Îndeplinirea dorințelor obținută prin vizualizare puternică"
               ]
             },
             "correctIndex": 2
@@ -390,7 +447,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Miben különbözik a Kurzus megbocsátása a hétköznapitól?",
-              "en": "How does the Course's forgiveness differ from the everyday kind?"
+              "en": "How does the Course's forgiveness differ from the everyday kind?",
+              "ro": "Cum diferă iertarea din Curs de cea de zi cu zi?"
             },
             "options": {
               "hu": [
@@ -404,6 +462,12 @@
                 "It is due only when the other has apologized",
                 "It recognizes that what we saw as evil was not the truth — it sees correctable error instead of sin",
                 "It forgets what happened, as if it had never occurred"
+              ],
+              "ro": [
+                "Trece cu generozitate cu vederea un păcat real",
+                "Se cuvine doar când celălalt și-a cerut iertare",
+                "Recunoaște că ceea ce am văzut ca rău nu era adevărul — vede o greșeală corectabilă în loc de păcat",
+                "Uită ce s-a întâmplat, ca și cum nu s-ar fi petrecut niciodată"
               ]
             },
             "correctIndex": 2
@@ -412,7 +476,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mi a Munkafüzet két alapszabálya?",
-              "en": "What are the Workbook's two ground rules?"
+              "en": "What are the Workbook's two ground rules?",
+              "ro": "Care sunt cele două reguli de bază ale Caietului de exerciții?"
             },
             "options": {
               "hu": [
@@ -426,6 +491,12 @@
                 "At least five lessons a day, and strong faith in the thoughts",
                 "Practice is allowed only in the morning, and every lesson must be memorized",
                 "Hard lessons may be skipped, favorites may be repeated"
+              ],
+              "ro": [
+                "Mai mult de o lecție pe zi este interzis — iar credința nu este necesară, ci doar practicarea",
+                "Cel puțin cinci lecții pe zi și o credință puternică în gânduri",
+                "Practica este permisă doar dimineața, iar fiecare lecție trebuie memorată",
+                "Lecțiile grele pot fi sărite, iar favoritele pot fi repetate"
               ]
             },
             "correctIndex": 0
@@ -434,7 +505,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mit tanít a Kurzus a kivetítésről?",
-              "en": "What does the Course teach about projection?"
+              "en": "What does the Course teach about projection?",
+              "ro": "Ce învață Cursul despre proiecție?"
             },
             "options": {
               "hu": [
@@ -448,6 +520,12 @@
                 "Projection is useful because it frees you from guilt",
                 "Only bad people project",
                 "What you push onto another you keep — the world you see mirrors your inner state"
+              ],
+              "ro": [
+                "Lumea este un fapt obiectiv la care trebuie să te adaptezi",
+                "Proiecția este utilă pentru că te eliberează de vinovăție",
+                "Doar oamenii răi proiectează",
+                "Ceea ce împingi asupra altuia păstrezi — lumea pe care o vezi oglindește starea ta lăuntrică"
               ]
             },
             "correctIndex": 3
@@ -456,7 +534,8 @@
             "id": "q5",
             "prompt": {
               "hu": "Mi az egyetlen felelősséged a Kurzus szerint?",
-              "en": "What is your sole responsibility according to the Course?"
+              "en": "What is your sole responsibility according to the Course?",
+              "ro": "Care este singura ta responsabilitate potrivit Cursului?"
             },
             "options": {
               "hu": [
@@ -470,6 +549,12 @@
                 "Accepting the Atonement — the correction — for yourself",
                 "Fixing the world",
                 "Repaying the past with self-blame and penance"
+              ],
+              "ro": [
+                "Corectarea greșelilor altora",
+                "Acceptarea Ispășirii — corectarea — pentru tine însuți",
+                "Repararea lumii",
+                "Răscumpărarea trecutului prin autoînvinovățire și pocăință"
               ]
             },
             "correctIndex": 1

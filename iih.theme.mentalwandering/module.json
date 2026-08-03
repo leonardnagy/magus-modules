@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Mentális vándorlás",
-    "en": "Mental Wandering"
+    "en": "Mental Wandering",
+    "ro": "Rătăcire mentală"
   },
   "description": {
     "hu": "Elmélyülő modul a mentális vándorlásról: a tudat képzett áthelyezése a fizikai testen kívülre, először közeli, jól ismert helyekre, majd fokozatosan messzebb. Megtanulod a nyugodt, sosem erőltetett módszert, a tudatos visszatérést és az utólagos ellenőrzést, amely a vándorlást megkülönbözteti a képzelettől.",
-    "en": "A deep-dive module on mental wandering: the trained transfer of consciousness beyond the physical body, first to nearby, well-known places and then gradually farther. You will learn the calm, never-forced method, the conscious return, and the after-the-fact verification that distinguishes wandering from imagination."
+    "en": "A deep-dive module on mental wandering: the trained transfer of consciousness beyond the physical body, first to nearby, well-known places and then gradually farther. You will learn the calm, never-forced method, the conscious return, and the after-the-fact verification that distinguishes wandering from imagination.",
+    "ro": "Un modul aprofundat despre rătăcirea mentală: transferul antrenat al conștiinței dincolo de corpul fizic, mai întâi spre locuri apropiate, bine cunoscute, apoi treptat tot mai departe. Vei învăța metoda calmă, niciodată forțată, întoarcerea conștientă și verificarea de după care deosebește rătăcirea de imaginație."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.theme.mentalwandering/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Mi a mentális vándorlás?",
-        "en": "What Is Mental Wandering?"
+        "en": "What Is Mental Wandering?",
+        "ro": "Ce este rătăcirea mentală?"
       },
       "text": {
         "hu": "A mentális vándorlás a rendszeres képzés nyolcadik fokán jelenik meg, és sokak számára ez az első gyakorlat, amely kézzelfoghatóvá teszi, mit épített fel az összes korábbi lépés. A lényege egyszerűen megfogalmazható: a tudatod — a mentális tested — **valóságosan kilép** a fizikai testedből, átkerül egy másik helyre, és ott a fizikai érzékeiden túl, közvetlenül figyel, észlel és tapasztal. *\n\n**1. Nem képzelgés.** A döntő különbség a fantáziálással szemben nem az élmény élénksége, hanem az **ellenőrizhetőség**. A valódi vándorlásban csakugyan azt észleled, ami a távoli helyen tőled függetlenül történik: a tudatod ott van, és a valóságot látja, nem kitalálja. * Épp ezért lehet és kell utólag ellenőrizni; hogy valóban észlelés történt-e, vagy csak a képzelet dolgozott, azt egyedül az utólagos ellenőrzés mutatja meg.\n\n**2. A test szerepe.** Miközben a tudatod máshol jár, a tested zavartalanul pihen — nyugodt, biztonságos helyen, kényelmesen elhelyezve. Ez nem transz-mutatvány és nem erőltetett állapot: a korábbi lépések koncentrációs és tudatossági munkája teszi lehetővé, hogy a tudatod valóságosan kilépjen a testből, miközben a test érintetlenül pihen. *\n\n**3. Mire való.** A gyakorlott vándorlással távoli helyeket figyelhetsz meg úgy, mintha ott állnál, tanulhatsz és jelen lehetsz ott, ahol a tested nincs. * És itt egy megkerülhetetlen szabály áll: **mindig etikusan**. Soha nem kémkedésre, soha nem mások magánszférájának megsértésére. Aki visszaél vele, magát a képességet ássa alá — a belső fejlődés útján jellem és képesség nem választható szét.\n\n**4. A helyes hozzáállás.** Türelem és fokozatosság. Először egy közeli, jól ismert helyre mész, részleteket figyelsz meg, majd nyugodtan visszatérsz. Ahogy az ellenőrzések igazolják az észleléseidet, úgy tágul a kör — de a sorrendet soha nem ugorhatod át.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "Mental wandering appears at the eighth step of the systematic training, and for many practitioners it is the first exercise that makes tangible what all the earlier steps have been building. Its essence is simply stated: your consciousness — your mental body — **genuinely steps out** of your physical body, crosses over to another place, and there it watches, perceives, and experiences directly, beyond your physical senses. *\n\n**1. Not fantasy.** The decisive difference from daydreaming is not the vividness of the experience but its **verifiability**. In genuine wandering you truly perceive what is happening at the distant place independently of you: your consciousness is there and sees the reality, it does not invent it. * That is exactly why it can and must be checked afterwards; whether real perception took place or only imagination was at work is something only the after-the-fact check can show.\n\n**2. The role of the body.** While your consciousness is elsewhere, your body rests undisturbed — in a quiet, safe place, comfortably settled. This is no trance stunt and no forced state: the concentration and awareness work of the earlier steps is what lets your consciousness genuinely step out of the body while the body rests untouched. *\n\n**3. What it is for.** With practised wandering you can observe distant places as if you stood there, learn, and be present where your body is not. * And here stands an unavoidable rule: **always ethically**. Never for spying, never for violating anyone's privacy. Whoever abuses the ability undermines the ability itself — on the path of inner development, character and capacity cannot be separated.\n\n**4. The right attitude.** Patience and gradualness. First you go to a nearby, well-known place, observe details, then return calmly. As the verifications confirm your perceptions, the circle widens — but the order can never be skipped.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "Mental wandering appears at the eighth step of the systematic training, and for many practitioners it is the first exercise that makes tangible what all the earlier steps have been building. Its essence is simply stated: your consciousness — your mental body — **genuinely steps out** of your physical body, crosses over to another place, and there it watches, perceives, and experiences directly, beyond your physical senses. *\n\n**1. Not fantasy.** The decisive difference from daydreaming is not the vividness of the experience but its **verifiability**. In genuine wandering you truly perceive what is happening at the distant place independently of you: your consciousness is there and sees the reality, it does not invent it. * That is exactly why it can and must be checked afterwards; whether real perception took place or only imagination was at work is something only the after-the-fact check can show.\n\n**2. The role of the body.** While your consciousness is elsewhere, your body rests undisturbed — in a quiet, safe place, comfortably settled. This is no trance stunt and no forced state: the concentration and awareness work of the earlier steps is what lets your consciousness genuinely step out of the body while the body rests untouched. *\n\n**3. What it is for.** With practised wandering you can observe distant places as if you stood there, learn, and be present where your body is not. * And here stands an unavoidable rule: **always ethically**. Never for spying, never for violating anyone's privacy. Whoever abuses the ability undermines the ability itself — on the path of inner development, character and capacity cannot be separated.\n\n**4. The right attitude.** Patience and gradualness. First you go to a nearby, well-known place, observe details, then return calmly. As the verifications confirm your perceptions, the circle widens — but the order can never be skipped.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Rătăcirea mentală apare la al optulea pas al antrenamentului sistematic, și pentru mulți practicanți este primul exercițiu care face tangibil ceea ce toți pașii anteriori au construit. Esența ei se spune simplu: conștiința ta — corpul tău mental — **iese cu adevărat** din corpul fizic, trece într-un alt loc, și acolo privește, percepe și experimentează direct, dincolo de simțurile tale fizice. *\n\n**1. Nu este fantezie.** Diferența decisivă față de visarea cu ochii deschiși nu este vivacitatea experienței, ci **verificabilitatea** ei. În rătăcirea autentică percepi cu adevărat ce se întâmplă în locul îndepărtat independent de tine: conștiința ta este acolo și vede realitatea, nu o inventează. * Tocmai de aceea poate și trebuie verificată după; dacă a avut loc o percepție reală sau a lucrat doar imaginația, numai verificarea de după o poate arăta.\n\n**2. Rolul corpului.** În timp ce conștiința ta este în altă parte, corpul tău se odihnește netulburat — într-un loc liniștit, sigur, așezat confortabil. Nu este nici un truc de transă, nici o stare forțată: munca de concentrare și de conștiență a pașilor anteriori este ceea ce permite conștiinței tale să iasă cu adevărat din corp în timp ce corpul se odihnește neatins. *\n\n**3. La ce servește.** Cu rătăcirea exersată poți observa locuri îndepărtate ca și cum ai sta acolo, poți învăța și poți fi prezent acolo unde corpul tău nu este. * Și aici stă o regulă de neocolit: **întotdeauna etic**. Niciodată pentru spionaj, niciodată pentru a încălca intimitatea cuiva. Cine abuzează de abilitate subminează abilitatea însăși — pe calea dezvoltării interioare, caracterul și capacitatea nu pot fi separate.\n\n**4. Atitudinea potrivită.** Răbdare și gradualitate. Mai întâi te duci într-un loc apropiat, bine cunoscut, observi detalii, apoi te întorci calm. Pe măsură ce verificările îți confirmă percepțiile, cercul se lărgește — dar ordinea nu poate fi niciodată sărită.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Módszer: fokozatosság és ellenőrzés",
-        "en": "Method: Gradualness and Verification"
+        "en": "Method: Gradualness and Verification",
+        "ro": "Metodă: gradualitate și verificare"
       },
       "text": {
         "hu": "A módszer három pilléren áll: nyugalom, fokozatosság, ellenőrzés. Egyik sem hagyható el.\n\n**1. Előkészület.** Csak akkor gyakorolj, ha nyugodt, egészséges és kipihent vagy. Félelemben, betegen vagy kimerülten a gyakorlatot el kell halasztani — ez nem gyengeség, hanem a módszer része. A testedet helyezd kényelembe, zavartalan helyen; az ülések legyenek rövidek, néhány perctől indulva.\n\n**2. Az áthelyezés.** Válassz egy közeli, jól ismert helyet — a szomszéd szobát, egy ismerős utcasarkot. Helyezd oda a tudatodat nyugodtan, erőltetés nélkül — és a tudatod valóban ott lesz, a hely pedig a maga valóságában tárul fel előtted. * Ha nem megy, ne küzdj, hanem fejezd be, és próbáld máskor. A helyszínen figyelj: milyen ott a fény, mi hol áll, mi változott legutóbb óta?\n\n**3. A visszatérés.** Minden alkalommal **tudatosan és szelíden** térj vissza a testedbe. A visszaút ugyanolyan fontos, mint a kiindulás — soha nem kapkodó, soha nem elhanyagolt. Idővel a ki- és visszalépés természetes, begyakorolt mozdulattá válik.\n\n**4. Az ellenőrzés.** A gyakorlat után vesd össze az észlelteket a valósággal: nézd meg a helyet, kérdezz rá, ellenőrizd a részleteket. Ami stimmel, megerősít; ami nem, megmutatja, hol keveredett képzelet az észlelésbe. **Ez az ellenőrzés a módszer szíve** — nélküle a vándorlás önámítássá válik.\n\n**5. A tágulás.** Csak akkor menj messzebbre, amikor a közeli helyszíneken az észleléseid megbízhatóan igazolódnak. A kör fokozatosan tágul: ismerős helyekről kevésbé ismertekre, közeliről távolabbira. A mérce mindig ugyanaz marad: nyugalom kifelé, szelídség visszafelé, becsületes ellenőrzés utána.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The method rests on three pillars: calm, gradualness, verification. None of them may be dropped.\n\n**1. Preparation.** Practise only when you are calm, healthy, and rested. In fear, illness, or exhaustion the exercise must be postponed — this is not weakness, it is part of the method. Settle your body comfortably in an undisturbed place; keep the sessions short, starting from just a few minutes.\n\n**2. The transfer.** Choose a nearby, well-known place — the next room, a familiar street corner. Place your consciousness there calmly, without forcing — and your consciousness will truly be there, the place opening before you in its own reality. * If it does not work, do not struggle — end the session and try another time. On site, observe: what is the light like, what stands where, what has changed since you last saw it?\n\n**3. The return.** Every single time, return to your body **consciously and gently**. The way back matters as much as the going out — never rushed, never neglected. In time, stepping out and stepping back become one natural, practised movement.\n\n**4. Verification.** After the exercise, compare what you perceived with reality: look at the place, ask about it, check the details. What matches confirms you; what does not shows you where imagination crept into perception. **This verification is the heart of the method** — without it, wandering degenerates into self-deception.\n\n**5. Widening the circle.** Go farther only once your perceptions at nearby locations are reliably confirmed. The circle widens gradually: from familiar places to less familiar ones, from near to farther away. The measure always stays the same: calm on the way out, gentleness on the way back, honest verification afterwards.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The method rests on three pillars: calm, gradualness, verification. None of them may be dropped.\n\n**1. Preparation.** Practise only when you are calm, healthy, and rested. In fear, illness, or exhaustion the exercise must be postponed — this is not weakness, it is part of the method. Settle your body comfortably in an undisturbed place; keep the sessions short, starting from just a few minutes.\n\n**2. The transfer.** Choose a nearby, well-known place — the next room, a familiar street corner. Place your consciousness there calmly, without forcing — and your consciousness will truly be there, the place opening before you in its own reality. * If it does not work, do not struggle — end the session and try another time. On site, observe: what is the light like, what stands where, what has changed since you last saw it?\n\n**3. The return.** Every single time, return to your body **consciously and gently**. The way back matters as much as the going out — never rushed, never neglected. In time, stepping out and stepping back become one natural, practised movement.\n\n**4. Verification.** After the exercise, compare what you perceived with reality: look at the place, ask about it, check the details. What matches confirms you; what does not shows you where imagination crept into perception. **This verification is the heart of the method** — without it, wandering degenerates into self-deception.\n\n**5. Widening the circle.** Go farther only once your perceptions at nearby locations are reliably confirmed. The circle widens gradually: from familiar places to less familiar ones, from near to farther away. The measure always stays the same: calm on the way out, gentleness on the way back, honest verification afterwards.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Metoda se sprijină pe trei piloni: calm, gradualitate, verificare. Niciunul dintre ei nu poate fi lăsat deoparte.\n\n**1. Pregătirea.** Exersează numai când ești calm, sănătos și odihnit. În frică, boală sau epuizare exercițiul trebuie amânat — aceasta nu este slăbiciune, ci parte din metodă. Așază-ți corpul confortabil într-un loc netulburat; ține sesiunile scurte, începând de la doar câteva minute.\n\n**2. Transferul.** Alege un loc apropiat, bine cunoscut — camera alăturată, un colț de stradă familiar. Plasează-ți conștiința acolo calm, fără a forța — și conștiința ta va fi cu adevărat acolo, locul deschizându-se înaintea ta în propria sa realitate. * Dacă nu funcționează, nu te lupta — încheie sesiunea și încearcă altă dată. La fața locului, observă: cum e lumina, ce stă unde, ce s-a schimbat de când ai văzut ultima oară?\n\n**3. Întoarcerea.** De fiecare dată, întoarce-te în corp **conștient și blând**. Calea înapoi contează la fel de mult ca ieșirea — niciodată grăbită, niciodată neglijată. Cu timpul, ieșirea și întoarcerea devin o singură mișcare naturală, exersată.\n\n**4. Verificarea.** După exercițiu, compară ce ai perceput cu realitatea: uită-te la loc, întreabă despre el, verifică detaliile. Ce se potrivește te confirmă; ce nu se potrivește îți arată unde s-a strecurat imaginația în percepție. **Această verificare este inima metodei** — fără ea, rătăcirea degenerează în autoamăgire.\n\n**5. Lărgirea cercului.** Mergi mai departe numai după ce percepțiile tale din locațiile apropiate sunt confirmate în mod de încredere. Cercul se lărgește treptat: de la locuri familiare la unele mai puțin familiare, de la aproape la mai departe. Măsura rămâne întotdeauna aceeași: calm la ieșire, blândețe la întoarcere, verificare cinstită după.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,20 +47,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Mentális vándorlás — 10 perc",
-        "en": "Mental Wandering — 10 min"
+        "en": "Mental Wandering — 10 min",
+        "ro": "Rătăcire mentală — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Helyezd a tudatod egy közeli, jól ismert helyre. Figyeld meg a részleteket, majd térj vissza nyugodtan. Utólag ellenőrizd, mit láttál pontosan.",
-          "en": "Transfer your awareness to a nearby, well-known place. Observe details, then return calmly. Verify afterwards what you perceived."
+          "en": "Transfer your awareness to a nearby, well-known place. Observe details, then return calmly. Verify afterwards what you perceived.",
+          "ro": "Transferă-ți conștiința într-un loc apropiat, bine cunoscut. Observă detalii, apoi întoarce-te calm. Verifică după ce ai perceput."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "Félidő — maradj nyugodt, jegyezd meg a részleteket",
-              "en": "Halfway — stay calm, memorise the details"
+              "en": "Halfway — stay calm, memorise the details",
+              "ro": "La jumătate — rămâi calm, memorează detaliile"
             }
           }
         ]
@@ -65,7 +74,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Ellenőrző kvíz",
-        "en": "Knowledge Check"
+        "en": "Knowledge Check",
+        "ro": "Verificarea cunoștințelor"
       },
       "quiz": {
         "passThreshold": 3,
@@ -74,7 +84,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi különbözteti meg a mentális vándorlást a puszta képzelgéstől?",
-              "en": "What distinguishes mental wandering from mere imagination?"
+              "en": "What distinguishes mental wandering from mere imagination?",
+              "ro": "Ce deosebește rătăcirea mentală de simpla imaginație?"
             },
             "options": {
               "hu": [
@@ -88,6 +99,12 @@
                 "The length of the session",
                 "Verification afterwards: you check what you perceived against reality",
                 "How great a distance you covered"
+              ],
+              "ro": [
+                "Vivacitatea și culoarea experienței",
+                "Durata sesiunii",
+                "Verificarea de după: confrunți ce ai perceput cu realitatea",
+                "Cât de mare distanță ai parcurs"
               ]
             },
             "correctIndex": 2
@@ -96,7 +113,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Hová irányulnak az első vándorlások?",
-              "en": "Where do the first wanderings go?"
+              "en": "Where do the first wanderings go?",
+              "ro": "Încotro se îndreaptă primele rătăciri?"
             },
             "options": {
               "hu": [
@@ -110,6 +128,12 @@
                 "To distant, exotic landscapes",
                 "To invented, imaginary locations",
                 "Into other people's homes to observe them"
+              ],
+              "ro": [
+                "Spre un loc apropiat, bine cunoscut",
+                "Spre peisaje îndepărtate, exotice",
+                "Spre locații inventate, imaginare",
+                "În casele altora ca să-i observi"
               ]
             },
             "correctIndex": 0
@@ -118,7 +142,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mi igaz a visszatérésre?",
-              "en": "What is true of the return?"
+              "en": "What is true of the return?",
+              "ro": "Ce este adevărat despre întoarcere?"
             },
             "options": {
               "hu": [
@@ -132,6 +157,12 @@
                 "It is conscious and gentle every time — as important as the going out",
                 "The faster, the better",
                 "It is only necessary if something disturbs you"
+              ],
+              "ro": [
+                "Se întâmplă de la sine, nu e nevoie de atenție",
+                "Este conștientă și blândă de fiecare dată — la fel de importantă ca ieșirea",
+                "Cu cât mai rapid, cu atât mai bine",
+                "Este necesară numai dacă ceva te deranjează"
               ]
             },
             "correctIndex": 1
@@ -144,11 +175,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare a răspunderii"
       },
       "text": {
         "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács, és nem helyettesíti a szakellátást. A gyakorlás önkéntes és önirányított. Nem gyerekeknek való, és nem ajánlott akut lelki válságban lévőknek; ha disszociatív vagy súlyos pszichés állapottal élsz, csak szakember útmutatásával gyakorolj. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez; sürgős esetben keresd a helyi sürgősségi ellátást. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
-        "en": "*A study aid based on Franz Bardon's „Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice and does not replace professional care. The practice is voluntary and self-directed. It is not for children and is not recommended for anyone in acute crisis; if you live with a dissociative or serious mental-health condition, practise only under professional guidance. If you experience mental or emotional difficulties, consult a professional; in an emergency, contact your local emergency services. Practise ethically and patiently; mastery is the goal, not speed.*"
+        "en": "*A study aid based on Franz Bardon's „Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice and does not replace professional care. The practice is voluntary and self-directed. It is not for children and is not recommended for anyone in acute crisis; if you live with a dissociative or serious mental-health condition, practise only under professional guidance. If you experience mental or emotional difficulties, consult a professional; in an emergency, contact your local emergency services. Practise ethically and patiently; mastery is the goal, not speed.*",
+        "ro": "*Un material de studiu bazat pe „Initiation Into Hermetics” de Franz Bardon. Textul este un rezumat original, nu un citat textual — pentru instrucțiunile complete, citește întotdeauna cartea originală.*\n\n*Acesta nu este sfat medical sau psihologic și nu înlocuiește îngrijirea de specialitate. Practica este voluntară și autodirijată. Nu este destinată copiilor și nu este recomandată nimănui aflat în criză acută; dacă trăiești cu o afecțiune disociativă sau o problemă serioasă de sănătate mintală, exersează numai sub îndrumare profesională. Dacă întâmpini dificultăți mentale sau emoționale, consultă un specialist; în caz de urgență, contactează serviciile locale de urgență. Exersează etic și cu răbdare; măiestria este țelul, nu viteza.*"
       }
     }
   ]

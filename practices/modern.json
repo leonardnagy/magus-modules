@@ -3,7 +3,8 @@
   "id": "practice-pack-modern",
   "nevek": {
     "hu": "Modern mesterek és a pajzs",
-    "en": "Modern masters & the shield"
+    "en": "Modern masters & the shield",
+    "ro": "Maeștri moderni & scutul"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "Az indukció ujjlenyomatai",
-        "en": "The Fingerprints of Induction"
+        "en": "The Fingerprints of Induction",
+        "ro": "Amprentele inducției"
       },
       "cel": {
         "hu": "Megtanulni felismerni azokat a lélektani eszközöket, amelyekkel a média, a reklám és a karizmatikus szónokok befolyásolják a figyelmet, hogy tudatosabban dönthess. A hagyomány szerint a felismerés önmagában véd.",
-        "en": "To learn to recognize the psychological devices by which media, advertising and charismatic speakers steer attention, so you can choose more consciously. The tradition holds that recognition alone protects."
+        "en": "To learn to recognize the psychological devices by which media, advertising and charismatic speakers steer attention, so you can choose more consciously. The tradition holds that recognition alone protects.",
+        "ro": "Să înveți să recunoști dispozitivele psihologice prin care media, publicitatea și vorbitorii carismatici îți dirijează atenția, ca să poți alege mai conștient. Tradiția susține că recunoașterea singură te protejează."
       },
       "modszer": [
         {
           "hu": "Válassz ki naponta egy tartalmat (hírfolyam, reklám, felszólalás), és nézd meg pusztán a formáját, ne a tartalmát.",
-          "en": "Each day pick one piece of content (feed, advert, speech) and look purely at its form, not its message."
+          "en": "Each day pick one piece of content (feed, advert, speech) and look purely at its form, not its message.",
+          "ro": "În fiecare zi alege un conținut (feed, reclamă, discurs) și privește-i pur forma, nu mesajul."
         },
         {
           "hu": "Keresd az ismétlést és a ritmust: ugyanaz az üzenet visszatér-e addig, míg ismerőssé kopik?",
-          "en": "Look for repetition and rhythm: does the same message return until it wears familiar?"
+          "en": "Look for repetition and rhythm: does the same message return until it wears familiar?",
+          "ro": "Caută repetiția și ritmul: se întoarce același mesaj până devine familiar?"
         },
         {
           "hu": "Figyeld az érzelmi felpörgetést (félelem, felháborodás, sürgetés) és a társas bizonyítékot ('milliók már…').",
-          "en": "Watch for emotional revving (fear, outrage, urgency) and social proof ('millions already…')."
+          "en": "Watch for emotional revving (fear, outrage, urgency) and social proof ('millions already…').",
+          "ro": "Fii atent la accelerarea emoțională (frică, indignare, urgență) și la dovada socială («milioane deja…»)."
         },
         {
           "hu": "Nevezd meg a tekintély-jelmezt: a cím, a köpeny, a stúdiófény nem azonos az igazsággal.",
-          "en": "Name the authority costume: title, coat, studio light are not the same as truth."
+          "en": "Name the authority costume: title, coat, studio light are not the same as truth.",
+          "ro": "Numește costumul autorității: titlul, halatul, lumina de studio nu sunt același lucru cu adevărul."
         },
         {
           "hu": "Jegyezd fel a naplóba, mit vettél észre, és hogy megváltozott-e a hozzáállásod a tartalomhoz.",
-          "en": "Note in the journal what you spotted, and whether your stance toward the content changed."
+          "en": "Note in the journal what you spotted, and whether your stance toward the content changed.",
+          "ro": "Notează în jurnal ce ai observat și dacă atitudinea ta față de conținut s-a schimbat."
         }
       ],
       "keret": {
         "hu": "Ezek a mintázatok a tömeglélektan jól dokumentált eszközei; a felismerésük higiénia, nem paranoia.",
-        "en": "These patterns are well-documented devices of mass psychology; recognizing them is hygiene, not paranoia."
+        "en": "These patterns are well-documented devices of mass psychology; recognizing them is hygiene, not paranoia.",
+        "ro": "Aceste tipare sunt dispozitive bine documentate ale psihologiei de masă; a le recunoaște este igienă, nu paranoia."
       },
       "etika": {
         "hu": "A cél a saját tisztánlátásod, nem mások leleplezése vagy megvádolása. A befolyásolás felismerése nem jogosít fel arra, hogy mások meggyőződését lekicsinyeld.",
-        "en": "The aim is your own clear sight, not exposing or accusing others. Recognizing influence does not entitle you to belittle others' convictions."
+        "en": "The aim is your own clear sight, not exposing or accusing others. Recognizing influence does not entitle you to belittle others' convictions.",
+        "ro": "Țelul este propria ta privire limpede, nu demascarea sau acuzarea altora. A recunoaște influența nu îți dă dreptul să disprețuiești convingerile altora."
       },
       "sorszam": 1
     },
@@ -61,33 +71,40 @@
       "elem": "Ido",
       "cim": {
         "hu": "A kritikus szünet",
-        "en": "The Critical Pause"
+        "en": "The Critical Pause",
+        "ro": "Pauza critică"
       },
       "cel": {
         "hu": "Egy egyszerű időbeli fék beépítése, amely megvéd az érzelmi csúcson hozott elhamarkodott döntésektől: hittől, vásárlástól, elköteleződéstől.",
-        "en": "To build in a simple temporal brake that guards against rash decisions made at an emotional peak: belief, purchase, commitment."
+        "en": "To build in a simple temporal brake that guards against rash decisions made at an emotional peak: belief, purchase, commitment.",
+        "ro": "Să integrezi o frână temporală simplă care te apără de deciziile pripite luate la un vârf emoțional: credință, cumpărare, angajament."
       },
       "modszer": [
         {
           "hu": "Amikor egy üzenet erős érzelmi hullámot kelt benned, és azonnali cselekvésre sürget, ismerd fel ezt a pillanatot.",
-          "en": "When a message stirs a strong emotional wave and urges immediate action, recognize that moment."
+          "en": "When a message stirs a strong emotional wave and urges immediate action, recognize that moment.",
+          "ro": "Când un mesaj stârnește un val emoțional puternic și te îndeamnă la acțiune imediată, recunoaște acel moment."
         },
         {
           "hu": "Adj magadnak egy éjszakát: halaszd a döntést másnapra, mielőtt elhinnél vagy megvennél bármit.",
-          "en": "Give yourself one night: postpone the decision to tomorrow before believing or buying anything."
+          "en": "Give yourself one night: postpone the decision to tomorrow before believing or buying anything.",
+          "ro": "Dă-ți o noapte: amână decizia pe mâine înainte de a crede sau de a cumpăra ceva."
         },
         {
           "hu": "Tedd fel a kérdést: kinek az érdeke, hogy ezt most azonnal elhiggyem vagy megtegyem?",
-          "en": "Ask: whose interest is it that I believe or do this right now?"
+          "en": "Ask: whose interest is it that I believe or do this right now?",
+          "ro": "Întreabă-te: al cui interes este ca eu să cred sau să fac asta chiar acum?"
         },
         {
           "hu": "Másnap, higgadtan mérlegeld újra. Ami holnap is igaz, az ráért holnapig.",
-          "en": "The next day, weigh it again calmly. What is still true tomorrow could wait until tomorrow."
+          "en": "The next day, weigh it again calmly. What is still true tomorrow could wait until tomorrow.",
+          "ro": "A doua zi, cântărește din nou cu calm. Ce e încă adevărat mâine putea aștepta până mâine."
         }
       ],
       "keret": {
         "hu": "A sürgetés a befolyásolás egyik legrégibb fogása, mert a gyors döntés kikapcsolja a mérlegelést; a szünet visszaadja azt.",
-        "en": "Urgency is one of influence's oldest devices, because a fast decision switches off weighing; the pause restores it."
+        "en": "Urgency is one of influence's oldest devices, because a fast decision switches off weighing; the pause restores it.",
+        "ro": "Urgența este unul dintre cele mai vechi dispozitive ale influenței, pentru că o decizie rapidă oprește cântărirea; pauza o restabilește."
       },
       "sorszam": 2
     },
@@ -98,37 +115,45 @@
       "sik": "szellem",
       "cim": {
         "hu": "A saját mérleg megtartása",
-        "en": "Keeping Your Own Scale"
+        "en": "Keeping Your Own Scale",
+        "ro": "Păstrarea propriei balanțe"
       },
       "cel": {
         "hu": "Kialakítani azt a belső tartást, amely nem ad ki a döntés jogát semmilyen tekintélynek — se gurunak, se képernyőnek, se tömegnek —, miközben nyitott marad. Az érett gyakorló ismérve nem a hitetlenség, hanem a mérleg birtoklása.",
-        "en": "To form the inner stance that hands the right to judge to no authority — not a guru, a screen, or a crowd — while staying open. The mature practitioner's mark is not disbelief but owning the scale."
+        "en": "To form the inner stance that hands the right to judge to no authority — not a guru, a screen, or a crowd — while staying open. The mature practitioner's mark is not disbelief but owning the scale.",
+        "ro": "Să formezi atitudinea interioară care nu cedează dreptul de a judeca niciunei autorități — nici unui guru, nici unui ecran, nici unei mulțimi — rămânând totodată deschis. Semnul practicantului matur nu este necredința, ci stăpânirea balanței."
       },
       "modszer": [
         {
           "hu": "Amikor egy állítást hallasz, tartsd külön a kérdést: mit érzek iránta, és mi ennek a bizonyítéka?",
-          "en": "When you hear a claim, keep separate: what do I feel toward it, and what is its evidence?"
+          "en": "When you hear a claim, keep separate: what do I feel toward it, and what is its evidence?",
+          "ro": "Când auzi o afirmație, ține separate: ce simt față de ea și care sunt dovezile ei?"
         },
         {
           "hu": "Figyeld, mikor akarsz elhinni valamit azért, mert jólesik vagy mert a csoport is hiszi — ez a hízelgés és a nyomás kapuja.",
-          "en": "Notice when you want to believe something because it feels good or the group believes it — that is the gate of flattery and pressure."
+          "en": "Notice when you want to believe something because it feels good or the group believes it — that is the gate of flattery and pressure.",
+          "ro": "Observă când vrei să crezi ceva pentru că se simte bine sau pentru că grupul crede — aceasta este poarta lingușirii și a presiunii."
         },
         {
           "hu": "Engedd, hogy Thot semleges írnoka üljön benned akkor is, amikor a terem tapsol.",
-          "en": "Let Thoth's neutral scribe sit in you even when the hall applauds."
+          "en": "Let Thoth's neutral scribe sit in you even when the hall applauds.",
+          "ro": "Lasă scribul neutru al lui Thoth să stea în tine chiar și când sala aplaudă."
         },
         {
           "hu": "Se ne hidd el vakon, se ne tagadd reflexből: tedd a mérlegre, és hagyd nyitva, amit még nem tapasztaltál.",
-          "en": "Neither believe blindly nor deny by reflex: put it on the scale, and leave open what you have not yet experienced."
+          "en": "Neither believe blindly nor deny by reflex: put it on the scale, and leave open what you have not yet experienced.",
+          "ro": "Nici nu crede orbește, nici nu nega din reflex: pune pe balanță și lasă deschis ceea ce nu ai experimentat încă."
         }
       ],
       "keret": {
         "hu": "Ez nem cinizmus és nem hiszékenység, hanem a kettő közötti éber középút, amelyet a hagyomány a szabadság feltételének tart.",
-        "en": "This is neither cynicism nor credulity, but the wakeful middle path between them, which the tradition holds to be the condition of freedom."
+        "en": "This is neither cynicism nor credulity, but the wakeful middle path between them, which the tradition holds to be the condition of freedom.",
+        "ro": "Aceasta nu este nici cinism, nici credulitate, ci calea de mijloc trează dintre ele, pe care tradiția o ține drept condiția libertății."
       },
       "etika": {
         "hu": "A mérleg megtartása a saját döntéseidre vonatkozik, nem mások meggyőzésének fegyvere. Tiszteld mások jogát, hogy másként mérlegeljenek.",
-        "en": "Keeping the scale applies to your own decisions, not as a weapon to convert others. Respect others' right to weigh differently."
+        "en": "Keeping the scale applies to your own decisions, not as a weapon to convert others. Respect others' right to weigh differently.",
+        "ro": "Păstrarea balanței se aplică propriilor tale decizii, nu ca armă pentru a-i converti pe alții. Respectă dreptul altora de a cântări altfel."
       },
       "sorszam": 3
     },
@@ -139,37 +164,45 @@
       "sik": "test",
       "cim": {
         "hu": "Az egészség kőkemény határvonala",
-        "en": "The Iron Boundary of Health"
+        "en": "The Iron Boundary of Health",
+        "ro": "Granița de fier a sănătății"
       },
       "cel": {
         "hu": "Egyértelmű belső szabályt rögzíteni: bármilyen belső vagy energetikai munka a kezelés MELLETT áll, sosem helyette. Aki a kezelés elhagyására bátorít, attól el kell fordulni, akármilyen meggyőző.",
-        "en": "To fix a clear inner rule: any inner or energetic work stands BESIDE treatment, never instead of it. Turn away from whoever encourages abandoning treatment, however convincing."
+        "en": "To fix a clear inner rule: any inner or energetic work stands BESIDE treatment, never instead of it. Turn away from whoever encourages abandoning treatment, however convincing.",
+        "ro": "Să fixezi o regulă interioară clară: orice muncă interioară sau energetică stă ALĂTURI de tratament, niciodată în locul lui. Întoarce-te de la oricine te încurajează să abandonezi tratamentul, oricât de convingător ar fi."
       },
       "modszer": [
         {
           "hu": "Mondd ki magadnak előre, nyugodt fejjel: betegség esetén az első lépés mindig az orvos.",
-          "en": "State to yourself in advance, with a calm head: in illness the first step is always the physician."
+          "en": "State to yourself in advance, with a calm head: in illness the first step is always the physician.",
+          "ro": "Spune-ți dinainte, cu mintea limpede: în boală primul pas este întotdeauna medicul."
         },
         {
           "hu": "Ha valaki — előadó, gyógyító, közösség — a kezelésed elhagyására vagy halogatására bátorít, tekintsd ezt vészjelnek.",
-          "en": "If anyone — a speaker, healer, or community — encourages you to abandon or postpone your treatment, treat it as a warning sign."
+          "en": "If anyone — a speaker, healer, or community — encourages you to abandon or postpone your treatment, treat it as a warning sign.",
+          "ro": "Dacă cineva — un vorbitor, un vindecător sau o comunitate — te încurajează să abandonezi sau să amâni tratamentul, tratează-l ca pe un semn de avertizare."
         },
         {
           "hu": "A rendkívüli gyógyulás-ígéreteknél kérdezd meg, van-e mögötte orvosi igazolás, vagy csak tanúságtétel.",
-          "en": "With extraordinary healing promises, ask whether there is medical verification behind it, or only testimony."
+          "en": "With extraordinary healing promises, ask whether there is medical verification behind it, or only testimony.",
+          "ro": "La promisiuni extraordinare de vindecare, întreabă dacă există verificare medicală în spate, sau doar mărturii."
         },
         {
           "hu": "A belső nyugalmat és reményt használd a kezelésed támogatására: a nyugodt ember jobban tűri és segíti a gyógyulást.",
-          "en": "Use inner calm and hope to support your treatment: the calm person bears and aids healing better."
+          "en": "Use inner calm and hope to support your treatment: the calm person bears and aids healing better.",
+          "ro": "Folosește calmul interior și speranța ca să-ți susții tratamentul: omul calm suportă și ajută vindecarea mai bine."
         }
       ],
       "keret": {
         "hu": "A tömegszuggesztió dokumentált kára jórészt abból állt, hogy egyesek a csodára várva halogatták a valódi kezelést; ez a határvonal élet kérdése, nem hité.",
-        "en": "Mass suggestion's documented harm consisted largely of people postponing real treatment while awaiting a miracle; this boundary is a question of life, not of faith."
+        "en": "Mass suggestion's documented harm consisted largely of people postponing real treatment while awaiting a miracle; this boundary is a question of life, not of faith.",
+        "ro": "Răul documentat al sugestiei de masă a constat în mare parte din oameni care amânau tratamentul real așteptând o minune; această graniță este o chestiune de viață, nu de credință."
       },
       "etika": {
         "hu": "Semmilyen gyakorlat nem helyettesíti az orvosi és pszichológiai ellátást. Ez a szabály másokra is vonatkozik: soha ne bátoríts senkit a kezelése elhagyására, és tiszteld a szabad akaratát a döntésben.",
-        "en": "No practice replaces medical or psychological care. This rule extends to others: never encourage anyone to abandon their treatment, and respect their free will in the choice."
+        "en": "No practice replaces medical or psychological care. This rule extends to others: never encourage anyone to abandon their treatment, and respect their free will in the choice.",
+        "ro": "Nicio practică nu înlocuiește îngrijirea medicală sau psihologică. Această regulă se extinde și asupra altora: nu încuraja pe nimeni să-și părăsească tratamentul și respectă-le liberul arbitru în alegere."
       },
       "sorszam": 4
     },
@@ -181,37 +214,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Az Aranykor mint napi iránytű",
-        "en": "The Golden Age as Daily Compass"
+        "en": "The Golden Age as Daily Compass",
+        "ro": "Epoca de Aur ca Busolă Zilnică"
       },
       "cel": {
         "hu": "A Szeretet–Jóság–Fény hármasát nem jövőbeli jóslatként, hanem napi tettek iránytűjeként használni, hogy a nagy vízió a jelen apró cselekedeteiben öltsön testet.",
-        "en": "To use the triad of Love–Goodness–Light not as a future prophecy but as a compass for daily deeds, so the great vision takes form in the small acts of the present."
+        "en": "To use the triad of Love–Goodness–Light not as a future prophecy but as a compass for daily deeds, so the great vision takes form in the small acts of the present.",
+        "ro": "Să folosești triada Iubire–Bunătate–Lumină nu ca pe o profeție de viitor, ci ca pe o busolă pentru faptele zilnice, astfel încât marea viziune să prindă formă în actele mici ale prezentului."
       },
       "modszer": [
         {
           "hu": "Reggel tedd fel a Szeretet kérdését: ma, ebben a helyzetben mi a szeretet TETTE — nem az érzés, hanem a tett?",
-          "en": "In the morning ask the question of Love: today, in this situation, what is the DEED of love — not the feeling, but the deed?"
+          "en": "In the morning ask the question of Love: today, in this situation, what is the DEED of love — not the feeling, but the deed?",
+          "ro": "Dimineața pune întrebarea Iubirii: astăzi, în această situație, care este FAPTA iubirii — nu sentimentul, ci fapta?"
         },
         {
           "hu": "Napközben a Jóság kérdése: hol tudok jóságot vinni oda, ahol hiány van belőle, látványosság nélkül?",
-          "en": "During the day, the question of Goodness: where can I carry goodness to where it is lacking, without display?"
+          "en": "During the day, the question of Goodness: where can I carry goodness to where it is lacking, without display?",
+          "ro": "În timpul zilei, întrebarea Bunătății: unde pot duce bunătatea acolo unde lipsește, fără ostentație?"
         },
         {
           "hu": "Este a Fény kérdése: mit hoztam ma világosságra — egy igazságot, egy tudást, egy elhallgatott dolgot?",
-          "en": "In the evening, the question of Light: what did I bring to light today — a truth, a knowledge, a thing left unspoken?"
+          "en": "In the evening, the question of Light: what did I bring to light today — a truth, a knowledge, a thing left unspoken?",
+          "ro": "Seara, întrebarea Luminii: ce am adus la lumină astăzi — un adevăr, o cunoaștere, un lucru lăsat nespus?"
         },
         {
           "hu": "Jegyezd fel egy sorban a nap egyetlen konkrét tettét a hármas jegyében.",
-          "en": "Note in one line the day's single concrete deed in the sign of the triad."
+          "en": "Note in one line the day's single concrete deed in the sign of the triad.",
+          "ro": "Notează pe un rând singura faptă concretă a zilei sub semnul triadei."
         }
       ],
       "keret": {
         "hu": "A vízió itt nem várni való jövő, hanem gyakorlat: nem elhiszed, hanem csinálod, egy emberben, egy háztartásban kezdve.",
-        "en": "The vision here is not a future to await but a practice: you do not believe it, you do it, beginning in one person, one household."
+        "en": "The vision here is not a future to await but a practice: you do not believe it, you do it, beginning in one person, one household.",
+        "ro": "Viziunea aici nu este un viitor de așteptat, ci o practică: nu o crezi, o faci, începând de la o persoană, o gospodărie."
       },
       "etika": {
         "hu": "A jóság tettei mások szabadságát tisztelve történjenek; a jó szándék nem jogosít fel arra, hogy mások életébe kéretlenül beavatkozz.",
-        "en": "Let deeds of goodness respect others' freedom; good intent does not entitle you to intervene uninvited in others' lives."
+        "en": "Let deeds of goodness respect others' freedom; good intent does not entitle you to intervene uninvited in others' lives.",
+        "ro": "Lasă faptele de bunătate să respecte libertatea altora; intenția bună nu-ți dă dreptul să intervii nepoftit în viețile altora."
       },
       "sorszam": 5
     },
@@ -223,33 +264,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "A tartalék-képességek forgó edzése",
-        "en": "The Rotating Training of Reserve Capacities"
+        "en": "The Rotating Training of Reserve Capacities",
+        "ro": "Antrenamentul Rotativ al Capacităților de Rezervă"
       },
       "cel": {
         "hu": "Az emberben szunnyadó tartalékokat — emlékezet, koncentráció, vizualizáció, energia-érzékelés — rendszeres, forgó heti rendben edzeni. A hagyomány szerint a 'fenomén' nem csodalény, hanem ember, aki kibontotta, amit a legtöbben sosem edzenek.",
-        "en": "To train the reserves dormant in a person — memory, concentration, visualization, energy sensing — in a regular, rotating weekly order. The tradition holds that the 'phenomenon' is no miracle-being but a human who unfolded what most never train."
+        "en": "To train the reserves dormant in a person — memory, concentration, visualization, energy sensing — in a regular, rotating weekly order. The tradition holds that the 'phenomenon' is no miracle-being but a human who unfolded what most never train.",
+        "ro": "Să antrenezi rezervele adormite din om — memoria, concentrația, vizualizarea, simțirea energiei — într-o ordine săptămânală regulată, rotativă. Tradiția ține că «fenomenul» nu este o ființă-minune, ci un om care a desfășurat ceea ce majoritatea nu antrenează niciodată."
       },
       "modszer": [
         {
           "hu": "Hétfőn és csütörtökön emlékezet: esti visszapörgetés (a nap eseményei visszafelé, képekben) és egy rövid lista megjegyzése.",
-          "en": "On Monday and Thursday, memory: the evening rewind (the day's events backwards, in images) and memorizing a short list."
+          "en": "On Monday and Thursday, memory: the evening rewind (the day's events backwards, in images) and memorizing a short list.",
+          "ro": "Luni și joi, memoria: derularea de seară (evenimentele zilei pe dos, în imagini) și memorarea unei liste scurte."
         },
         {
           "hu": "Kedden és pénteken koncentráció: egy tárgy, öt perc, az elkalandozásokat számolva.",
-          "en": "On Tuesday and Friday, concentration: one object, five minutes, counting the wanderings."
+          "en": "On Tuesday and Friday, concentration: one object, five minutes, counting the wanderings.",
+          "ro": "Marți și vineri, concentrația: un obiect, cinci minute, numărând rătăcirile."
         },
         {
           "hu": "Szerdán és szombaton vizualizáció: egy ismerős arc vagy tárgy felidézése minden érzékkel.",
-          "en": "On Wednesday and Saturday, visualization: recalling a familiar face or object with every sense."
+          "en": "On Wednesday and Saturday, visualization: recalling a familiar face or object with every sense.",
+          "ro": "Miercuri și sâmbătă, vizualizarea: evocarea unei fețe sau a unui obiect familiar cu toate simțurile."
         },
         {
           "hu": "Vasárnap összegzés a naplóban: melyik tartalék mozdult a héten?",
-          "en": "On Sunday, a summary in the journal: which reserve moved this week?"
+          "en": "On Sunday, a summary in the journal: which reserve moved this week?",
+          "ro": "Duminică, un rezumat în jurnal: care rezervă s-a mișcat săptămâna aceasta?"
         }
       ],
       "keret": {
         "hu": "Ezek edzhető, hétköznapi képességek, amelyek gyakorlással mérhetően fejlődnek; a rendkívüli távoli-hatás állításokat hagyd a saját mérlegeden.",
-        "en": "These are trainable, everyday faculties that improve measurably with practice; leave the extraordinary distant-effect claims on your own scale."
+        "en": "These are trainable, everyday faculties that improve measurably with practice; leave the extraordinary distant-effect claims on your own scale.",
+        "ro": "Acestea sunt facultăți cotidiene, antrenabile, care se îmbunătățesc măsurabil cu practica; lasă pretențiile extraordinare de efect la distanță pe cântarul tău."
       },
       "sorszam": 6
     },
@@ -261,37 +309,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Az élő víz gyakorlata",
-        "en": "The Living Water Practice"
+        "en": "The Living Water Practice",
+        "ro": "Practica Apei Vii"
       },
       "cel": {
         "hu": "A vizet a jelenlét és az öngondoskodás napi horgonyaként inni: egy tudatos szándékkal töltött pohár, amely a napi ritmusba köti a figyelmet. A hagyomány a vizet információ-hordozónak tekinti.",
-        "en": "To drink water as a daily anchor of presence and self-care: a glass filled with conscious intention that ties attention into the day's rhythm. The tradition regards water as an information-carrier."
+        "en": "To drink water as a daily anchor of presence and self-care: a glass filled with conscious intention that ties attention into the day's rhythm. The tradition regards water as an information-carrier.",
+        "ro": "Să bei apa ca pe o ancoră zilnică a prezenței și a grijii de sine: un pahar umplut cu intenție conștientă care leagă atenția de ritmul zilei. Tradiția privește apa ca pe un purtător de informație."
       },
       "modszer": [
         {
           "hu": "Tölts egy pohár tiszta vizet, és fogd a két tenyered közé.",
-          "en": "Pour a glass of clean water and hold it between your two palms."
+          "en": "Pour a glass of clean water and hold it between your two palms.",
+          "ro": "Toarnă un pahar cu apă curată și ține-l între cele două palme."
         },
         {
           "hu": "Egy percig időzz a szándékban: egészség, világosság vagy nyugalom — amire ma szükséged van.",
-          "en": "Dwell a minute in the intention: health, clarity, or calm — whatever you need today."
+          "en": "Dwell a minute in the intention: health, clarity, or calm — whatever you need today.",
+          "ro": "Zăbovește un minut în intenție: sănătate, claritate sau calm — orice ai nevoie astăzi."
         },
         {
           "hu": "Mondj ki fölötte egy köszönetet vagy a napi formuládat.",
-          "en": "Speak over it a thanksgiving or your daily formula."
+          "en": "Speak over it a thanksgiving or your daily formula.",
+          "ro": "Spune deasupra lui o mulțumire sau formula ta zilnică."
         },
         {
           "hu": "Idd meg lassan, teljes jelenléttel, figyelve az ízre és az érzetre.",
-          "en": "Drink it slowly, with full presence, attending to taste and sensation."
+          "en": "Drink it slowly, with full presence, attending to taste and sensation.",
+          "ro": "Bea-l încet, cu prezență deplină, fiind atent la gust și senzație."
         }
       ],
       "keret": {
         "hu": "Hogy a víz 'megjegyzi-e' a szándékot, azt hagyd a mérlegeden; amit biztosan tesz, az a te figyelmedet horgonyozza le a jelenben.",
-        "en": "Whether the water 'remembers' the intention, leave on your scale; what it certainly does is anchor your own attention in the present."
+        "en": "Whether the water 'remembers' the intention, leave on your scale; what it certainly does is anchor your own attention in the present.",
+        "ro": "Dacă apa «ține minte» intenția, lasă pe cântarul tău; ceea ce face cu certitudine este să-ți ancoreze propria atenție în prezent."
       },
       "etika": {
         "hu": "Ez öngondoskodó jelenlét-gyakorlat, nem orvosi kezelés, és nem helyettesíti az orvosi ellátást. Betegség esetén az első lépés mindig az orvos. A víz maradjon tiszta, iható víz.",
-        "en": "This is a self-care presence practice, not medical treatment, and does not replace medical care. In illness the first step is always the physician. Keep the water clean, drinkable water."
+        "en": "This is a self-care presence practice, not medical treatment, and does not replace medical care. In illness the first step is always the physician. Keep the water clean, drinkable water.",
+        "ro": "Aceasta este o practică de prezență și grijă de sine, nu un tratament medical, și nu înlocuiește îngrijirea medicală. În boală primul pas este întotdeauna medicul. Păstrează apa curată, potabilă."
       },
       "sorszam": 7
     },
@@ -303,33 +359,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Az élő Föld heti tette",
-        "en": "The Living Earth's Weekly Deed"
+        "en": "The Living Earth's Weekly Deed",
+        "ro": "Fapta Săptămânală a Pământului Viu"
       },
       "cel": {
         "hu": "Hetente egy tudatos, apró tettel megélni a Földdel való kapcsolatot: nem elvont környezetvédelemként, hanem konkrét, jelenléttel végzett energia-gyakorlatként. A kozmohumanista számára a Föld élő rendszer, amelynek sejtje vagy.",
-        "en": "To live the connection with the Earth through one conscious small deed a week: not as abstract environmentalism but as a concrete energy practice done with presence. For the cosmohumanist the Earth is a living system of which you are a cell."
+        "en": "To live the connection with the Earth through one conscious small deed a week: not as abstract environmentalism but as a concrete energy practice done with presence. For the cosmohumanist the Earth is a living system of which you are a cell.",
+        "ro": "Să trăiești legătura cu Pământul printr-o mică faptă conștientă pe săptămână: nu ca pe un ecologism abstract, ci ca pe o practică energetică concretă făcută cu prezență. Pentru cosmoumanist, Pământul este un sistem viu din care tu ești o celulă."
       },
       "modszer": [
         {
           "hu": "Válassz hetente egy konkrét tettet: szemetet felszedni, vizet megkímélni, egy fát megöntözni, egy helyet rendbe tenni.",
-          "en": "Choose one concrete deed a week: pick up litter, spare water, water a tree, set a place in order."
+          "en": "Choose one concrete deed a week: pick up litter, spare water, water a tree, set a place in order.",
+          "ro": "Alege o faptă concretă pe săptămână: ridică gunoiul, economisește apa, udă un copac, pune un loc în ordine."
         },
         {
           "hu": "Végezd teljes jelenléttel, ne kötelességből, hanem a kapcsolat tudatosításaként.",
-          "en": "Do it with full presence, not from duty, but as an awareness of connection."
+          "en": "Do it with full presence, not from duty, but as an awareness of connection.",
+          "ro": "Fă-o cu prezență deplină, nu din datorie, ci ca pe o conștientizare a legăturii."
         },
         {
           "hu": "Figyeld, mit érzel közben és utána: a hely és te is megváltoztatok-e valamennyit.",
-          "en": "Notice what you feel during and after: whether the place and you both changed a little."
+          "en": "Notice what you feel during and after: whether the place and you both changed a little.",
+          "ro": "Observă ce simți în timpul și după: dacă locul și tu v-ați schimbat amândoi puțin."
         },
         {
           "hu": "Jegyezd fel a naplóban a heti tettet és a tapasztalatot.",
-          "en": "Note the weekly deed and the experience in the journal."
+          "en": "Note the weekly deed and the experience in the journal.",
+          "ro": "Notează fapta săptămânală și experiența în jurnal."
         }
       ],
       "keret": {
         "hu": "Ez a tett akkor is értékes és valóságos, ha a mögötte álló metafizikát nem fogadod el; a gondoskodás gyümölcse a helyben és benned mérhető.",
-        "en": "This deed is valuable and real even if you do not accept the metaphysics behind it; the fruit of care is measurable in the place and in you."
+        "en": "This deed is valuable and real even if you do not accept the metaphysics behind it; the fruit of care is measurable in the place and in you.",
+        "ro": "Această faptă este valoroasă și reală chiar dacă nu accepți metafizica din spatele ei; roadele grijii sunt măsurabile în loc și în tine."
       },
       "sorszam": 8
     },
@@ -341,37 +404,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A mikro-jelek olvasása",
-        "en": "Reading the Micro-Signals"
+        "en": "Reading the Micro-Signals",
+        "ro": "Citirea Micro-Semnalelor"
       },
       "cel": {
         "hu": "Kifejleszteni azt a valódi, becsületes érzékenységet, amellyel az emberek akaratlan testi jelzéseit — feszülés, légzés-megtorpanás, tekintet-rebbenés — észreveszed. Ez a képesség Bardon érzékenység-munkájának rokona, és a 'gondolatolvasás' látszatának hétköznapi magja.",
-        "en": "To develop the real, honest sensitivity by which you notice people's involuntary bodily signals — tension, a catch in the breath, a flicker of the gaze. This faculty is kin to Bardon's sensitivity work, and the mundane kernel behind the appearance of 'mind-reading'."
+        "en": "To develop the real, honest sensitivity by which you notice people's involuntary bodily signals — tension, a catch in the breath, a flicker of the gaze. This faculty is kin to Bardon's sensitivity work, and the mundane kernel behind the appearance of 'mind-reading'.",
+        "ro": "Pentru a dezvolta sensibilitatea reală, onestă prin care observi semnalele corporale involuntare ale oamenilor — tensiune, o oprire a respirației, o tresărire a privirii. Această facultate este înrudită cu munca de sensibilitate a lui Bardon, și nucleul mundan din spatele aparenței de «citire a gândurilor»."
       },
       "modszer": [
         {
           "hu": "Egy beszélgetésben figyeld a fordulópontokat: mikor torpan meg a légzés, mikor rebben a tekintet, mikor kap a hang egy árnyalatot.",
-          "en": "In a conversation watch the turning points: when the breath catches, when the gaze flickers, when the voice takes on a shade."
+          "en": "In a conversation watch the turning points: when the breath catches, when the gaze flickers, when the voice takes on a shade.",
+          "ro": "Într-o conversație, urmărește punctele de cotitură: când respirația se taie, când privirea tresare, când vocea capătă o nuanță."
         },
         {
           "hu": "Nézd, mit mond a kéz és a testtartás, amit a szó nem: hol feszül, hol enged.",
-          "en": "See what the hand and posture say that words do not: where they tense, where they release."
+          "en": "See what the hand and posture say that words do not: where they tense, where they release.",
+          "ro": "Vezi ce spun mâna și postura pe care cuvintele nu le spun: unde se încordează, unde se eliberează."
         },
         {
           "hu": "Vezesd vissza a jelet a lehetséges érzelemre, de ne állítsd biztosnak: a jel nyom, nem bizonyíték.",
-          "en": "Trace the sign back to a possible emotion, but do not assert it as certain: the sign is a trace, not proof."
+          "en": "Trace the sign back to a possible emotion, but do not assert it as certain: the sign is a trace, not proof.",
+          "ro": "Urmărește semnul înapoi până la o posibilă emoție, dar nu-l afirma ca pe ceva sigur: semnul este o urmă, nu o dovadă."
         },
         {
           "hu": "Jegyezd fel a naplóba egy jelzést, amit ma észrevettél, amit korábban nem láttál volna.",
-          "en": "Note in the journal one signal you noticed today that you would not have seen before."
+          "en": "Note in the journal one signal you noticed today that you would not have seen before.",
+          "ro": "Notează în jurnal un semnal pe care l-ai observat azi pe care nu l-ai fi văzut înainte."
         }
       ],
       "keret": {
         "hu": "Ez valódi, átvihető és teljesen becsületes megfigyelő-készség; a világ tele van jelzéssel, a mester az, aki fogja őket.",
-        "en": "This is a real, transferable and perfectly honest observational skill; the world is full of signals, and the master is the one who catches them."
+        "en": "This is a real, transferable and perfectly honest observational skill; the world is full of signals, and the master is the one who catches them.",
+        "ro": "Aceasta este o abilitate de observație reală, transferabilă și perfect onestă; lumea e plină de semnale, iar maestrul este cel care le prinde."
       },
       "etika": {
         "hu": "A jelek olvasása mások megértésére és a saját éberségedre való, nem arra, hogy manipuláld vagy 'leolvasd' azt, aki nem tud a jeleiről. A rád bízott bizalommal ne élj vissza.",
-        "en": "Reading signs is for understanding others and your own alertness, not for manipulating or 'reading' one unaware of their signs. Do not abuse the trust placed in you."
+        "en": "Reading signs is for understanding others and your own alertness, not for manipulating or 'reading' one unaware of their signs. Do not abuse the trust placed in you.",
+        "ro": "Citirea semnelor este pentru a-i înțelege pe alții și propria ta vigilență, nu pentru a manipula sau a «citi» pe cineva neconștient de semnele sale. Nu abuza de încrederea pusă în tine."
       },
       "sorszam": 9
     },
@@ -383,37 +454,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A Barnum-hatás és a hidegolvasás pajzsa",
-        "en": "The Shield Against the Barnum Effect and Cold Reading"
+        "en": "The Shield Against the Barnum Effect and Cold Reading",
+        "ro": "Scutul împotriva Efectului Barnum și a Citirii la Rece"
       },
       "cel": {
         "hu": "Felismerni a jellemolvasás mechanizmusát, amellyel egy jós vagy ál-médium pontosnak tűnik: valójában a hallgató olvassa önmagát. A cél a megtéveszthetetlenség, különösen a sebezhető pillanatokban.",
-        "en": "To recognize the mechanism of 'character reading' by which a fortune-teller or fake medium seems accurate: in truth the listener reads themselves. The aim is to be unfoolable, especially in vulnerable moments."
+        "en": "To recognize the mechanism of 'character reading' by which a fortune-teller or fake medium seems accurate: in truth the listener reads themselves. The aim is to be unfoolable, especially in vulnerable moments.",
+        "ro": "Pentru a recunoaște mecanismul «citirii caracterului» prin care un ghicitor sau un medium fals pare precis: în realitate ascultătorul se citește pe sine. Scopul este să fii de neînșelat, mai ales în momentele vulnerabile."
       },
       "modszer": [
         {
           "hu": "Ismerd fel a kétélű állítást: 'erős vagy, de van benned egy sebezhető rész' — mindkét fele mindenkire igaz.",
-          "en": "Recognize the two-edged statement: 'you are strong, yet there is a vulnerable part in you' — both halves are true of everyone."
+          "en": "Recognize the two-edged statement: 'you are strong, yet there is a vulnerable part in you' — both halves are true of everyone.",
+          "ro": "Recunoaște afirmația cu două tăișuri: «ești puternic, totuși există o parte vulnerabilă în tine» — ambele jumătăți sunt adevărate pentru oricine."
         },
         {
           "hu": "Figyeld a halászást: a jós tág kijelentést dob be, a te reakciódat olvassa, majd úgy tesz, mintha ő tudta volna.",
-          "en": "Watch for fishing: the reader casts a broad claim, reads your reaction, then acts as if they knew it."
+          "en": "Watch for fishing: the reader casts a broad claim, reads your reaction, then acts as if they knew it.",
+          "ro": "Fii atent la pescuit: cititorul aruncă o afirmație largă, îți citește reacția, apoi se poartă ca și cum ar fi știut-o."
         },
         {
           "hu": "Vedd észre a szelektív emlékezetet és a hízelgés kapuját: a tíz tévedést elfelejted, az egy találatot csodaként őrzöd; ami a hiúságnak jólesik, azt kritika nélkül beengeded.",
-          "en": "Notice selective memory and the gate of flattery: you forget the ten misses and treasure the one hit as a miracle; what pleases your vanity you admit without scrutiny."
+          "en": "Notice selective memory and the gate of flattery: you forget the ten misses and treasure the one hit as a miracle; what pleases your vanity you admit without scrutiny.",
+          "ro": "Observă memoria selectivă și poarta lingușirii: uiți cele zece rateuri și prețuiești singura nimerire ca pe un miracol; ce place vanității tale accepți fără cercetare."
         },
         {
           "hu": "Tedd fel a kulcskérdést: tőlem tudja ezt, vagy tényleg tudja?",
-          "en": "Ask the key question: do they know this from me, or do they really know it?"
+          "en": "Ask the key question: do they know this from me, or do they really know it?",
+          "ro": "Pune întrebarea-cheie: știu asta de la mine, sau chiar o știu?"
         }
       ],
       "keret": {
         "hu": "A Barnum- (Forer-) hatás jól dokumentált lélektani jelenség; a felismerése egyszerre tesz jobb kommunikátorrá és védettebbé a manipulációval szemben.",
-        "en": "The Barnum (Forer) effect is a well-documented psychological phenomenon; recognizing it makes you at once a better communicator and better guarded against manipulation."
+        "en": "The Barnum (Forer) effect is a well-documented psychological phenomenon; recognizing it makes you at once a better communicator and better guarded against manipulation.",
+        "ro": "Efectul Barnum (Forer) este un fenomen psihologic bine documentat; recunoașterea lui te face deodată un comunicator mai bun și mai bine protejat împotriva manipulării."
       },
       "etika": {
         "hu": "Ez a lecke a saját és szeretteid védelmére szolgál, legfőképp a gyászra vadászó ál-médiumokkal szemben; sosem arra, hogy magad csapj be másokat ezekkel az eszközökkel.",
-        "en": "This lesson serves the protection of yourself and your loved ones, above all against fake mediums preying on grief; never to deceive others with these devices yourself."
+        "en": "This lesson serves the protection of yourself and your loved ones, above all against fake mediums preying on grief; never to deceive others with these devices yourself.",
+        "ro": "Această lecție servește protecției tale și a celor dragi, mai ales împotriva mediumilor falși care se hrănesc din durere; niciodată ca să-i înșeli pe alții tu însuți cu aceste unelte."
       },
       "sorszam": 10
     },
@@ -425,37 +504,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Az igaz szó tálalása",
-        "en": "Serving the True Word"
+        "en": "Serving the True Word",
+        "ro": "Servirea Cuvântului Adevărat"
       },
       "cel": {
         "hu": "Megtanulni az előadás becsületes eszközeit — a keretezést, a csend erejét, a ritmust —, hogy a valódi tudásod és igaz szavad elérje az embert. A cél igazat mondani jól, nem ürességet csillogásba csomagolni.",
-        "en": "To learn presentation's honest tools — framing, the power of silence, rhythm — so your genuine knowledge and true word reach a person. The aim is to speak truth well, not to wrap emptiness in glitter."
+        "en": "To learn presentation's honest tools — framing, the power of silence, rhythm — so your genuine knowledge and true word reach a person. The aim is to speak truth well, not to wrap emptiness in glitter.",
+        "ro": "Pentru a învăța uneltele oneste ale prezentării — încadrarea, puterea tăcerii, ritmul — astfel încât cunoașterea ta autentică și cuvântul tău adevărat să ajungă la o persoană. Scopul este să spui adevărul bine, nu să învelești golul în sclipici."
       },
       "modszer": [
         {
           "hu": "Figyeld, hogy a keret teremti a jelentést: ahogyan bevezetsz valamit, meghatározza, hogyan élik meg — ez Ptah teremtő szava.",
-          "en": "Notice that the frame creates the meaning: how you introduce something determines how it is experienced — this is Ptah's creative word."
+          "en": "Notice that the frame creates the meaning: how you introduce something determines how it is experienced — this is Ptah's creative word.",
+          "ro": "Observă că cadrul creează sensul: felul în care introduci ceva determină cum este experimentat — acesta este cuvântul creator al lui Ptah."
         },
         {
           "hu": "Gyakorold a csend erejét: a kezdő betölti a csendet, a mester használja; a szünet a várakozás motorja.",
-          "en": "Practice the power of silence: the beginner fills the silence, the master uses it; the pause is the engine of anticipation."
+          "en": "Practice the power of silence: the beginner fills the silence, the master uses it; the pause is the engine of anticipation.",
+          "ro": "Exersează puterea tăcerii: începătorul umple tăcerea, maestrul o folosește; pauza este motorul anticipării."
         },
         {
           "hu": "Építsd a ritmust: lassú felépítés, egyre feszesebb figyelem, egy tető, majd elengedés.",
-          "en": "Build the rhythm: slow build, ever-tighter attention, a peak, then release."
+          "en": "Build the rhythm: slow build, ever-tighter attention, a peak, then release.",
+          "ro": "Construiește ritmul: creștere lentă, atenție tot mai strânsă, un vârf, apoi eliberare."
         },
         {
           "hu": "Emlékezz a pajzs élére: a rendíthetetlen magabiztosság nem az igazság bizonyítéka, csak az érzelmi meggyőzés csatornája — magadnál is figyeld ezt.",
-          "en": "Remember the shield's edge: unshakable confidence is not evidence of truth, only the channel of emotional persuasion — watch for this in yourself too."
+          "en": "Remember the shield's edge: unshakable confidence is not evidence of truth, only the channel of emotional persuasion — watch for this in yourself too.",
+          "ro": "Amintește-ți tăișul scutului: încrederea de neclintit nu este dovadă a adevărului, ci doar canalul persuasiunii emoționale — fii atent la asta și în tine."
         }
       ],
       "keret": {
         "hu": "Ptahhotep szavával a szép beszéd a hallgatás és az igazság gyümölcse; ezt a művészetet arra tanuld, hogy igazat mondj, ne hogy megtévessz.",
-        "en": "In Ptahhotep's word, fine speech is the fruit of listening and of truth; learn this art to speak truth, not to deceive."
+        "en": "In Ptahhotep's word, fine speech is the fruit of listening and of truth; learn this art to speak truth, not to deceive.",
+        "ro": "În cuvântul lui Ptahhotep, vorbirea frumoasă este rodul ascultării și al adevărului; învață această artă ca să spui adevărul, nu ca să înșeli."
       },
       "etika": {
         "hu": "Az előadás eszközeit etikusan használd: igaz szó tálalására, sosem mások megtévesztésére, kifosztására vagy hamis tekintély építésére.",
-        "en": "Use presentation's tools ethically: to serve a true word, never to deceive, exploit, or build false authority over others."
+        "en": "Use presentation's tools ethically: to serve a true word, never to deceive, exploit, or build false authority over others.",
+        "ro": "Folosește uneltele prezentării în mod etic: ca să servești un cuvânt adevărat, niciodată ca să înșeli, să exploatezi sau să construiești o autoritate falsă asupra altora."
       },
       "sorszam": 11
     },
@@ -467,33 +554,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "A szimuláció és a valódi mű határvonala",
-        "en": "The Boundary Between Simulation and the Genuine Work"
+        "en": "The Boundary Between Simulation and the Genuine Work",
+        "ro": "Granița Dintre Simulare și Lucrarea Autentică"
       },
       "cel": {
         "hu": "Élesen látni a különbséget a percek alatt bemutatott 'csoda' (eszközzel dolgozó szimuláció) és a benne magában, évek alatt épülő valódi képesség között. E határ ismerete óvja meg a valódi utat a látványtól.",
-        "en": "To see sharply the difference between the 'miracle' shown in minutes (a simulation working with instruments) and the genuine faculty built within oneself over years. Knowing this boundary guards the real path from the spectacle."
+        "en": "To see sharply the difference between the 'miracle' shown in minutes (a simulation working with instruments) and the genuine faculty built within oneself over years. Knowing this boundary guards the real path from the spectacle.",
+        "ro": "Pentru a vedea clar diferența dintre «miracolul» arătat în minute (o simulare care lucrează cu instrumente) și facultatea autentică construită în sine de-a lungul anilor. Cunoașterea acestei granițe apără calea reală de spectacol."
       },
       "modszer": [
         {
           "hu": "Amikor látványos képességet látsz, kérdezd: van-e mögötte hétköznapi csatorna? Egy valódi képességnek nincs, egy trükknek mindig van.",
-          "en": "When you see a spectacular ability, ask: is there a mundane channel behind it? A genuine faculty has none, a trick always has one."
+          "en": "When you see a spectacular ability, ask: is there a mundane channel behind it? A genuine faculty has none, a trick always has one.",
+          "ro": "Când vezi o abilitate spectaculoasă, întreabă: există un canal mundan în spatele ei? O facultate autentică nu are niciunul, un truc are întotdeauna unul."
         },
         {
           "hu": "Ne tévesd össze a mutatványt az elért állapottal — se másban, se magadban: a valódi út mércéje nem a hatás, hanem a gyümölcs.",
-          "en": "Do not mistake the feat for the attained state — neither in others nor in yourself: the measure of the real path is not the effect but the fruit."
+          "en": "Do not mistake the feat for the attained state — neither in others nor in yourself: the measure of the real path is not the effect but the fruit.",
+          "ro": "Nu confunda isprava cu starea atinsă — nici la alții, nici la tine: măsura căii reale nu este efectul, ci rodul."
         },
         {
           "hu": "Becsüld meg a valódi munka lassúságát: amikor látod, milyen könnyű színlelni a csodát, jobban érted, milyen értékes valóban kimunkálni.",
-          "en": "Honour the slowness of the real work: seeing how easy it is to simulate a miracle, you understand better how precious it is to truly forge it."
+          "en": "Honour the slowness of the real work: seeing how easy it is to simulate a miracle, you understand better how precious it is to truly forge it.",
+          "ro": "Cinstește încetineala lucrului real: văzând cât de ușor e să simulezi o minune, înțelegi mai bine cât de prețios e să o forjezi cu adevărat."
         },
         {
           "hu": "Jegyezd fel a naplóba, hol különböztetted meg ma a látványt a valódi gyümölcstől.",
-          "en": "Note in the journal where today you distinguished the spectacle from the genuine fruit."
+          "en": "Note in the journal where today you distinguished the spectacle from the genuine fruit.",
+          "ro": "Notează în jurnal unde ai deosebit azi spectacolul de rodul autentic."
         }
       ],
       "keret": {
         "hu": "A trükk elkápráztat egy pillanatra; a kimunkált lélek egy életen át világít — a valódi mű mércéje a türelmesebb, tisztább, igazabb élet.",
-        "en": "The trick dazzles for a moment; the forged soul shines for a lifetime — the measure of the genuine work is a more patient, clearer, truer life."
+        "en": "The trick dazzles for a moment; the forged soul shines for a lifetime — the measure of the genuine work is a more patient, clearer, truer life.",
+        "ro": "Trucul orbește o clipă; sufletul forjat strălucește o viață întreagă — măsura lucrului autentic este o viață mai răbdătoare, mai limpede, mai adevărată."
       },
       "sorszam": 12
     }

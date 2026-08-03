@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Joe Dispenza — Engedd el önmagad, válj új emberré",
-    "en": "Joe Dispenza — Breaking the Habit of Being Yourself"
+    "en": "Joe Dispenza — Breaking the Habit of Being Yourself",
+    "ro": "Joe Dispenza — Rupe obiceiul de a fi tu însuți"
   },
   "description": {
     "hu": "Joe Dispenza módszerének saját szavainkkal újrafogalmazott gyakorlati íve: a régi én mint betanult érzelmek és automatizmusok hálója, a meditáció mint a betanultság oldása, és az új én tudatos begyakorlása emelt érzelemmel és tiszta szándékkal. A modul Dispenza saját modelljeként — nem tényként — mutatja be a kvantummező-narratívát, és a belső gyümölcsökön méri: szokásváltozás, hangulat, jelenlét. Nem orvosi program; akut válságban fordulj szakemberhez. Kizárólag önmagadra irányuló munka.",
-    "en": "A practical arc re-taught in our own words from Joe Dispenza's method: the old self as a web of memorized emotions and automatic reactions, meditation as the unlearning of that web, and the deliberate rehearsal of a new self with elevated emotion and clear intention. The module presents the quantum-field narrative as Dispenza's own model — not as fact — and measures it by inner fruits: habit change, mood, presence. Not a medical program; in an acute crisis seek professional help. Self-directed work only."
+    "en": "A practical arc re-taught in our own words from Joe Dispenza's method: the old self as a web of memorized emotions and automatic reactions, meditation as the unlearning of that web, and the deliberate rehearsal of a new self with elevated emotion and clear intention. The module presents the quantum-field narrative as Dispenza's own model — not as fact — and measures it by inner fruits: habit change, mood, presence. Not a medical program; in an acute crisis seek professional help. Self-directed work only.",
+    "ro": "Un arc practic redat în cuvintele noastre din metoda lui Joe Dispenza: vechiul sine ca o rețea de emoții memorate și reacții automate, meditația ca dezvățare a acelei rețele, și repetarea deliberată a unui sine nou cu emoție elevată și intenție clară. Modulul prezintă narațiunea câmpului cuantic ca modelul propriu al lui Dispenza — nu ca fapt — și o măsoară după roadele lăuntrice: schimbarea obiceiurilor, starea de spirit, prezența. Nu este un program medical; într-o criză acută caută ajutor profesionist. Doar lucru autodirijat."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.newself/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A régi én: betanult érzelmek hálója",
-        "en": "The Old Self: A Web of Memorized Emotions"
+        "en": "The Old Self: A Web of Memorized Emotions",
+        "ro": "Vechiul sine: o rețea de emoții memorate"
       },
       "text": {
         "hu": "Dispenza egyik visszatérő gondolata, hogy az igazi változás ott kezdődik, ahol túllépünk az élet pusztán fizikai, megszokott szintjén — ez a modul kiindulópontja is.\n\nDispenza kiindulópontja egyszerű és kényelmetlen: az, amit „önmagamnak” hívsz, nagyrészt ismétlés. Egy gondolat érzést szül, az érzés ugyanolyan gondolatot hív elő, és a kör évek alatt annyira begyakorlódik, hogy a test már fejből tudja a szerepet. A harag, a sértettség, az aggodalom nem friss válasz a mai napra — sokszor csak a tegnap betanult érzelme, amelyet a test reggelente magától felölt. Így válik a személyiség a múlt memorizált változatává: a környezet ismerős ingerei, a test megszokott feszültségei és az idő rutinja együtt tartják fenn.\n\nDispenza ezt egy tágabb látomásba ágyazza: a figyelmed a végtelen lehetőségek élő mezejébe nyúl, és abban a pillanatban, amikor a gondolat és az emelt érzés egyetlen jellé olvad össze, együtt húzzák ki a hozzájuk illő valóságot ebből a mezőből, egyenesen az életedbe. * Tartsd ezt a hagyomány saját állításának, és figyeld a saját naplódban látható gyümölcsökön. Változik-e a szokás? Nyugodtabb-e a hangulat? Több-e a jelenlét? Ha igen, a gyakorlat működik számodra — a magyarázattól függetlenül.\n\nMegjegyzés: ez a munka önismereti gyakorlás, nem orvoslás. Semmilyen kezelést nem helyettesít, és nem ígér gyógyulást.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "One of Dispenza's recurring ideas is that real change begins where we move past the merely physical, habitual surface of life — and that is where this module begins too.\n\nDispenza's starting point is simple and uncomfortable: what you call “yourself” is largely repetition. A thought produces a feeling, the feeling summons the same kind of thought, and over years the loop becomes so rehearsed that the body knows the role by heart. Anger, resentment, worry are often not fresh responses to today — they are yesterday's memorized emotion, which the body puts on by itself each morning. The personality becomes a memorized edition of the past, held in place by familiar cues in the environment, habitual tensions in the body, and the routine of time.\n\nDispenza sets this inside a wider vision: your attention reaches into a living field of infinite possibility, and the instant thought and elevated feeling fuse into a single signal, they draw a matching reality out of that field and into your life. * Hold this as the tradition's own claim and watch for it in the fruits visible in your own diary. Is the habit changing? Is the mood steadier? Is there more presence? If so, the practice is working for you — whatever the explanation.\n\nNote: this work is self-knowledge practice, not medicine. It replaces no treatment and promises no cure.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "One of Dispenza's recurring ideas is that real change begins where we move past the merely physical, habitual surface of life — and that is where this module begins too.\n\nDispenza's starting point is simple and uncomfortable: what you call “yourself” is largely repetition. A thought produces a feeling, the feeling summons the same kind of thought, and over years the loop becomes so rehearsed that the body knows the role by heart. Anger, resentment, worry are often not fresh responses to today — they are yesterday's memorized emotion, which the body puts on by itself each morning. The personality becomes a memorized edition of the past, held in place by familiar cues in the environment, habitual tensions in the body, and the routine of time.\n\nDispenza sets this inside a wider vision: your attention reaches into a living field of infinite possibility, and the instant thought and elevated feeling fuse into a single signal, they draw a matching reality out of that field and into your life. * Hold this as the tradition's own claim and watch for it in the fruits visible in your own diary. Is the habit changing? Is the mood steadier? Is there more presence? If so, the practice is working for you — whatever the explanation.\n\nNote: this work is self-knowledge practice, not medicine. It replaces no treatment and promises no cure.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Una dintre ideile recurente ale lui Dispenza este că schimbarea reală începe acolo unde trecem dincolo de suprafața pur fizică, obișnuită a vieții — și acolo începe și acest modul.\n\nPunctul de plecare al lui Dispenza este simplu și inconfortabil: ceea ce numești „tu însuți” este în mare parte repetiție. Un gând produce un sentiment, sentimentul cheamă același tip de gând, iar de-a lungul anilor bucla devine atât de exersată încât corpul știe rolul pe de rost. Furie, resentiment, îngrijorare nu sunt adesea răspunsuri proaspete la ziua de azi — sunt emoția memorată de ieri, pe care corpul o îmbracă de la sine în fiecare dimineață. Personalitatea devine o ediție memorată a trecutului, ținută pe loc de indicii familiare din mediu, de tensiunile obișnuite din corp și de rutina timpului.\n\nDispenza așază asta într-o viziune mai largă: atenția ta ajunge într-un câmp viu de posibilitate infinită, iar în clipa în care gândul și sentimentul elevat se topesc într-un singur semnal, ele atrag din acel câmp o realitate potrivită în viața ta. * Ține asta ca pe afirmația proprie a tradiției și urmărește-o în roadele vizibile în propriul tău jurnal. Se schimbă obiceiul? E starea de spirit mai stabilă? E mai multă prezență? Dacă da, practica lucrează pentru tine — oricare ar fi explicația.\n\nNotă: această lucrare este practică de cunoaștere de sine, nu medicină. Nu înlocuiește niciun tratament și nu promite nicio vindecare.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Híd a fekete tükörhöz",
-        "en": "The Bridge to the Black Mirror"
+        "en": "The Bridge to the Black Mirror",
+        "ro": "Podul către Oglinda Neagră"
       },
       "text": {
         "hu": "Ez a modul azért illik ebbe a naplóba, mert Dispenza és Bardon ugyanarra a kapura mutat, két nyelven. A fekete tükör munkája abból áll, hogy leltárba veszed reflex-vonásaidat — azokat a válaszokat, amelyek nálad hamarabb lépnek, mint te —, majd türelmes, napi figyelemmel feloldod őket. Dispenza „régi énje” pontosan ez a leltár, csak más szótárral: betanult érzelmek, memorizált reakciók, a test által fejből fújt szerep.\n\nA módszertan is összecseng. A tükörmunka első lépése a kíméletlen, ítélet nélküli megfigyelés; Dispenzánál ez a felismerés és a csendes beismerés. A tükörmunka oldó szakasza a vonás elengedése és az ellentétes erény tudatos táplálása; Dispenzánál ez a megadás, majd az új én begyakorlása. Amit Bardon az elemek egyensúlyaként ír le, azt Dispenza a gondolat és az érzelem összehangolásaként — a cél ugyanaz: hogy ne a reflex éljen helyetted.\n\nEbben a modulban ezért a régi én reflexeit fekete tükrös aspektusként, az új én készülő erényeit fehér tükrösként vezetjük. A dispenzai meditáció így nem idegen betét, hanem a tükörmunka egyik szerszáma: esténként oldod, amit a nap felszínre hozott, és előre gyakorlod azt, akivé válni akarsz.",
-        "en": "This module belongs in this diary because Dispenza and Bardon point at the same gate in two languages. The black-mirror work consists of taking inventory of your reflex-traits — the responses that move faster than you do — and then dissolving them with patient daily attention. Dispenza's “old self” is precisely that inventory in another vocabulary: memorized emotions, rehearsed reactions, a role the body recites by heart.\n\nThe methods rhyme as well. The first step of mirror work is ruthless observation without judgment; in Dispenza this is recognition and quiet admission. The dissolving phase of mirror work is releasing the trait and deliberately feeding the opposite virtue; in Dispenza this is surrender, then rehearsing the new self. What Bardon frames as balancing the elements, Dispenza frames as aligning thought with emotion — the aim is the same: that the reflex no longer lives your life for you.\n\nIn this module, therefore, the reflexes of the old self are tracked as black-mirror aspects and the forming virtues of the new self as white-mirror ones. The Dispenza meditation is thus not a foreign insert but one more tool of mirror work: in the evening you dissolve what the day surfaced, and you rehearse in advance the person you intend to become."
+        "en": "This module belongs in this diary because Dispenza and Bardon point at the same gate in two languages. The black-mirror work consists of taking inventory of your reflex-traits — the responses that move faster than you do — and then dissolving them with patient daily attention. Dispenza's “old self” is precisely that inventory in another vocabulary: memorized emotions, rehearsed reactions, a role the body recites by heart.\n\nThe methods rhyme as well. The first step of mirror work is ruthless observation without judgment; in Dispenza this is recognition and quiet admission. The dissolving phase of mirror work is releasing the trait and deliberately feeding the opposite virtue; in Dispenza this is surrender, then rehearsing the new self. What Bardon frames as balancing the elements, Dispenza frames as aligning thought with emotion — the aim is the same: that the reflex no longer lives your life for you.\n\nIn this module, therefore, the reflexes of the old self are tracked as black-mirror aspects and the forming virtues of the new self as white-mirror ones. The Dispenza meditation is thus not a foreign insert but one more tool of mirror work: in the evening you dissolve what the day surfaced, and you rehearse in advance the person you intend to become.",
+        "ro": "Acest modul își are locul în acest jurnal pentru că Dispenza și Bardon arată spre aceeași poartă în două limbi. Lucrul cu oglinda neagră constă în a face inventarul trăsăturilor-reflex — răspunsurile care se mișcă mai repede decât tine — și apoi a le dizolva cu atenție zilnică răbdătoare. „Vechiul sine” al lui Dispenza este tocmai acel inventar în alt vocabular: emoții memorate, reacții exersate, un rol pe care corpul îl recită pe de rost.\n\nMetodele se rimă și ele. Primul pas al lucrului cu oglinda este observarea necruțătoare fără judecată; la Dispenza aceasta este recunoașterea și admiterea liniștită. Faza de dizolvare a lucrului cu oglinda este eliberarea trăsăturii și hrănirea deliberată a virtuții opuse; la Dispenza aceasta este predarea, apoi repetarea noului sine. Ceea ce Bardon formulează ca echilibrarea elementelor, Dispenza formulează ca alinierea gândului cu emoția — ținta e aceeași: ca reflexul să nu-ți mai trăiască viața în locul tău.\n\nÎn acest modul, așadar, reflexele vechiului sine sunt urmărite ca aspecte de oglindă neagră, iar virtuțile în formare ale noului sine ca aspecte de oglindă albă. Meditația Dispenza nu este deci un insert străin, ci încă un instrument al lucrului cu oglinda: seara dizolvi ce a scos la iveală ziua, și repeți dinainte persoana pe care intenționezi să devii."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A meditáció íve: oldás és teremtés",
-        "en": "The Arc of the Meditation: Dissolving and Creating"
+        "en": "The Arc of the Meditation: Dissolving and Creating",
+        "ro": "Arcul meditației: Dizolvarea și Crearea"
       },
       "text": {
         "hu": "A gyakorlat íve saját szavainkkal, lépésről lépésre.\n\n**1. Lecsendesítés.** Ülj le, csukd be a szemed, és vidd a figyelmet lassan végig a testen, majd a test körüli téren. A cél, hogy a figyelem leváljon a megszokott ingerekről — a testről, a környezetről, az óráról —, és nyitott, tágas éberség maradjon. Ez a kapu; sietség nélkül érdemes átlépni rajta.\n\n**2. Felismerés.** Válaszd ki a régi én egyetlen vonását — egy betanult érzelmet, amelyet oldani akarsz. Figyeld meg ítélet nélkül: milyen gondolat táplálja, hol ül a testben, milyen helyzetek kapcsolják be.\n\n**3. Csendes beismerés.** Nevezd meg magadban, őszintén és röviden, hogy ez a vonás eddig hozzád tartozott. A kimondás nem önostorozás — leltár, amely megtöri a titkosságot.\n\n**4. Megadás.** Engedd el a vonás fölötti görcsös irányítást. Nem elfojtod és nem elemzed tovább: leteszed, ahogy egy régóta cipelt csomagot.\n\n**5. Nagyvonalú jelen.** Időzz abban a pillanatban, amely se nem a múlt emléke, se nem a jövő szorongása. Dispenza ezt a nyitott mostot tartja a változás egyetlen műhelyének — itt nem a régi én válaszol.\n\n**6. Teremtés és begyakorlás.** Fogalmazd meg tisztán a szándékot: ki az, akivé válsz? Majd hívd mellé az emelt érzelmet — hálát, csendes örömöt —, mintha a változás már megtörtént volna. A kettő együtt számít: szándék érzelem nélkül üres terv, érzelem szándék nélkül hangulat. Mentálisan próbáld el az új én egy konkrét napját, ahogy egy zenész gyakorol előadás előtt.\n\nNapi egy teljes ív elegendő; a rövidebb ülések a részlépéseket mélyítik.",
-        "en": "The arc of the practice in our own words, step by step.\n\n**1. Settling.** Sit, close the eyes, and move attention slowly through the body, then through the space around it. The aim is for attention to detach from its usual anchors — body, surroundings, clock — leaving an open, spacious wakefulness. This is the gate; cross it without hurry.\n\n**2. Recognition.** Choose a single trait of the old self — one memorized emotion you intend to dissolve. Observe it without judgment: what thought feeds it, where it sits in the body, which situations switch it on.\n\n**3. Quiet admission.** Name to yourself, honestly and briefly, that this trait has belonged to you. Naming is not self-flagellation — it is inventory, and it breaks the secrecy.\n\n**4. Surrender.** Release the clenched control over the trait. You neither suppress it nor keep analyzing it: you set it down like a bag carried too long.\n\n**5. The generous present.** Rest in the moment that is neither a memory of the past nor an anxiety about the future. Dispenza treats this open now as the only workshop of change — here the old self is not the one answering.\n\n**6. Creation and rehearsal.** State the intention clearly: who is it you are becoming? Then invite the elevated emotion beside it — gratitude, quiet joy — as if the change had already occurred. The pair is what counts: intention without emotion is an empty plan, emotion without intention a mere mood. Mentally rehearse one concrete day of the new self, the way a musician rehearses before a performance.\n\nOne full arc a day is enough; shorter sittings deepen the individual steps."
+        "en": "The arc of the practice in our own words, step by step.\n\n**1. Settling.** Sit, close the eyes, and move attention slowly through the body, then through the space around it. The aim is for attention to detach from its usual anchors — body, surroundings, clock — leaving an open, spacious wakefulness. This is the gate; cross it without hurry.\n\n**2. Recognition.** Choose a single trait of the old self — one memorized emotion you intend to dissolve. Observe it without judgment: what thought feeds it, where it sits in the body, which situations switch it on.\n\n**3. Quiet admission.** Name to yourself, honestly and briefly, that this trait has belonged to you. Naming is not self-flagellation — it is inventory, and it breaks the secrecy.\n\n**4. Surrender.** Release the clenched control over the trait. You neither suppress it nor keep analyzing it: you set it down like a bag carried too long.\n\n**5. The generous present.** Rest in the moment that is neither a memory of the past nor an anxiety about the future. Dispenza treats this open now as the only workshop of change — here the old self is not the one answering.\n\n**6. Creation and rehearsal.** State the intention clearly: who is it you are becoming? Then invite the elevated emotion beside it — gratitude, quiet joy — as if the change had already occurred. The pair is what counts: intention without emotion is an empty plan, emotion without intention a mere mood. Mentally rehearse one concrete day of the new self, the way a musician rehearses before a performance.\n\nOne full arc a day is enough; shorter sittings deepen the individual steps.",
+        "ro": "Arcul practicii în cuvintele noastre, pas cu pas.\n\n**1. Așezarea.** Stai jos, închide ochii și mută atenția încet prin corp, apoi prin spațiul din jur. Ținta e ca atenția să se desprindă de ancorele ei obișnuite — corp, împrejurimi, ceas — lăsând o trezie deschisă, spațioasă. Aceasta e poarta; trece-o fără grabă.\n\n**2. Recunoașterea.** Alege o singură trăsătură a vechiului sine — o emoție memorată pe care intenționezi s-o dizolvi. Observ-o fără judecată: ce gând o hrănește, unde stă în corp, care situații o aprind.\n\n**3. Admiterea liniștită.** Spune-ți, sincer și pe scurt, că această trăsătură ți-a aparținut. Numirea nu e autoflagelare — e inventar, și rupe secretul.\n\n**4. Predarea.** Eliberează controlul încleștat asupra trăsăturii. Nici n-o suprimi, nici nu continui s-o analizezi: o lași jos ca pe o geantă purtată prea mult.\n\n**5. Prezentul generos.** Odihnește-te în clipa care nu e nici amintire a trecutului, nici anxietate față de viitor. Dispenza tratează acest acum deschis ca pe singurul atelier al schimbării — aici vechiul sine nu e cel care răspunde.\n\n**6. Crearea și repetarea.** Enunță intenția clar: cine ești pe cale să devii? Apoi invită alături emoția elevată — recunoștință, bucurie liniștită — ca și cum schimbarea s-ar fi petrecut deja. Perechea e ceea ce contează: intenția fără emoție e un plan gol, emoția fără intenție o simplă stare. Repetă mental o zi concretă a noului sine, așa cum un muzician repetă înainte de un concert.\n\nUn arc complet pe zi e de ajuns; ședințele mai scurte adâncesc pașii individuali."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Élet az új énként",
-        "en": "Living as the New Self"
+        "en": "Living as the New Self",
+        "ro": "A trăi ca noul sine"
       },
       "text": {
         "hu": "A meditáció párnán kezdődik, de a vizsgája a nap. A régi én legerősebb szövetségese az ismerős inger: a reggeli rutin, egy bizonyos hang, a megszokott bosszúság. Dispenza gyakorlati tanácsa két mozdulat. **Megfigyelés és emlékeztetés:** napközben tartsd szemmel, mikor indulna a betanult válasz, és emlékeztesd magad még a mozdulat előtt: ez a régi én hangja lenne. **Átirányítás:** a felismerés pillanatában fordítsd a figyelmet a begyakorolt új válasz felé — egy lélegzet, a szándék felidézése, az emelt érzés egy cseppje.\n\nSzámíts rá, hogy a régi érzelmek visszajárnak; a test hűséges, és eleinte a megszokottat kéri. Ez nem kudarc, hanem a folyamat természete. Aki este a naplóban rögzíti, hol győzött a reflex és hol az új válasz, az nem hibázik — méréseket végez.\n\nA cél végül az, amit Dispenza áttetszőségnek nevez, és amit a tükörmunka is ismer: hogy a belső szándék és a külső viselkedés között ne legyen rés. Nem szerep, amelyet felveszel, hanem válasz, amely már magától érkezik — csak most már a te választásod szerint.",
-        "en": "The meditation begins on the cushion, but its examination is the day. The old self's strongest ally is the familiar cue: the morning routine, a certain tone of voice, the customary irritation. Dispenza's practical counsel is two movements. **Observe and remind:** through the day, watch for the moment the memorized response would launch, and remind yourself before the movement completes: this would be the old self speaking. **Redirect:** in the instant of recognition, turn attention toward the rehearsed new response — one breath, the recalled intention, a drop of the elevated feeling.\n\nExpect the old emotions to keep visiting; the body is loyal, and at first it asks for what it knows. This is not failure but the nature of the process. Whoever records in the evening diary where the reflex won and where the new response did is not failing — they are taking measurements.\n\nThe eventual aim is what Dispenza calls transparency, and what mirror work also knows: no gap between inner intention and outward conduct. Not a role you put on, but a response that now arrives on its own — only now, by your choosing."
+        "en": "The meditation begins on the cushion, but its examination is the day. The old self's strongest ally is the familiar cue: the morning routine, a certain tone of voice, the customary irritation. Dispenza's practical counsel is two movements. **Observe and remind:** through the day, watch for the moment the memorized response would launch, and remind yourself before the movement completes: this would be the old self speaking. **Redirect:** in the instant of recognition, turn attention toward the rehearsed new response — one breath, the recalled intention, a drop of the elevated feeling.\n\nExpect the old emotions to keep visiting; the body is loyal, and at first it asks for what it knows. This is not failure but the nature of the process. Whoever records in the evening diary where the reflex won and where the new response did is not failing — they are taking measurements.\n\nThe eventual aim is what Dispenza calls transparency, and what mirror work also knows: no gap between inner intention and outward conduct. Not a role you put on, but a response that now arrives on its own — only now, by your choosing.",
+        "ro": "Meditația începe pe pernă, dar examinarea ei este ziua. Cel mai puternic aliat al vechiului sine este indiciul familiar: rutina de dimineață, un anumit ton al vocii, iritarea obișnuită. Sfatul practic al lui Dispenza sunt două mișcări. **Observă și amintește-ți:** de-a lungul zilei, veghează momentul în care răspunsul memorat s-ar declanșa și amintește-ți înainte ca mișcarea să se încheie: acesta ar fi vechiul sine care vorbește. **Redirecționează:** în clipa recunoașterii, întoarce atenția către noul răspuns exersat — o respirație, intenția reamintită, o picătură din sentimentul elevat.\n\nAșteaptă-te ca vechile emoții să tot vină în vizită; corpul e loial și la început cere ceea ce știe. Asta nu e eșec, ci natura procesului. Cine notează seara în jurnal unde a învins reflexul și unde a răspuns noul sine nu eșuează — ia măsurători.\n\nȚinta finală este ceea ce Dispenza numește transparență și ceea ce și lucrul cu oglinda cunoaște: niciun decalaj între intenția lăuntrică și purtarea din afară. Nu un rol pe care ți-l pui, ci un răspuns care acum sosește de la sine — doar acum, prin alegerea ta."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Keretek: mérték, egészség, irány",
-        "en": "Boundaries: Measure, Health, Direction"
+        "en": "Boundaries: Measure, Health, Direction",
+        "ro": "Limite: Măsură, Sănătate, Direcție"
       },
       "text": {
         "hu": "Három keret tartja biztonságban ezt a munkát.\n\n**Nem orvoslás.** Dispenza könyveiben egészségjavulásokról szóló történetek is szerepelnek; ez a modul ilyet nem ígér, és nem is ígérhet. A meditáció nem diagnózis, nem terápia és nem gyógymód. Betegség esetén az orvosi kezelés az első — a gyakorlás legfeljebb mellette élhet, soha helyette. Ha a gyakorlás során tartósan romló hangulatot, felkavaró élményeket tapasztalsz, szüneteltesd, és beszélj szakemberrel.\n\n**Nem akut válságra való.** Ez a munka nyugodt, hétköznapi állapotra tervezett önnevelés. Akut lelki válságban — önveszélyes gondolatok, összeomlás, friss trauma — nem befelé fordulás a teendő, hanem segítségkérés: orvos, pszichológus, krízisvonal.\n\n**Csak önmagadra.** A szándék és a begyakorlás kizárólag a saját vonásaidra irányulhat. Más ember megváltoztatása, befolyásolása — akár jó szándékkal is — kívül esik ezen a gyakorlaton, ahogy a tükörmunka egészén is. A mérce mindvégig belső: a saját naplód gyümölcsei, nem mások viselkedése.",
-        "en": "Three boundaries keep this work safe.\n\n**Not medicine.** Dispenza's books include stories of health improvements; this module promises none and can promise none. Meditation is not diagnosis, not therapy, not a cure. In illness, medical care comes first — practice may live alongside it, never instead of it. If practice brings a persistently sinking mood or distressing experiences, pause it and speak with a professional.\n\n**Not for acute crisis.** This is self-education designed for calm, ordinary conditions. In an acute psychological crisis — thoughts of self-harm, collapse, fresh trauma — the right move is not turning inward but reaching out: a doctor, a psychologist, a crisis line.\n\n**Self-directed only.** Intention and rehearsal may aim only at your own traits. Changing or influencing another person — even benevolently — lies outside this practice, as it lies outside mirror work as a whole. The measure remains inner throughout: the fruits in your own diary, not the behavior of others."
+        "en": "Three boundaries keep this work safe.\n\n**Not medicine.** Dispenza's books include stories of health improvements; this module promises none and can promise none. Meditation is not diagnosis, not therapy, not a cure. In illness, medical care comes first — practice may live alongside it, never instead of it. If practice brings a persistently sinking mood or distressing experiences, pause it and speak with a professional.\n\n**Not for acute crisis.** This is self-education designed for calm, ordinary conditions. In an acute psychological crisis — thoughts of self-harm, collapse, fresh trauma — the right move is not turning inward but reaching out: a doctor, a psychologist, a crisis line.\n\n**Self-directed only.** Intention and rehearsal may aim only at your own traits. Changing or influencing another person — even benevolently — lies outside this practice, as it lies outside mirror work as a whole. The measure remains inner throughout: the fruits in your own diary, not the behavior of others.",
+        "ro": "Trei limite țin această lucrare în siguranță.\n\n**Nu este medicină.** Cărțile lui Dispenza includ povești de îmbunătățiri ale sănătății; acest modul nu promite niciuna și nu poate promite niciuna. Meditația nu este diagnostic, nu este terapie, nu este leac. În boală, îngrijirea medicală vine întâi — practica poate trăi alături de ea, niciodată în locul ei. Dacă practica aduce o stare de spirit care coboară persistent sau experiențe tulburătoare, întrerupe-o și vorbește cu un profesionist.\n\n**Nu pentru criză acută.** Aceasta este autoeducație concepută pentru condiții calme, obișnuite. Într-o criză psihologică acută — gânduri de autovătămare, prăbușire, traumă proaspătă — mișcarea potrivită nu este să te întorci înăuntru, ci să ceri ajutor: un medic, un psiholog, o linie de criză.\n\n**Doar auto-direcționat.** Intenția și exersarea pot viza doar propriile tale trăsături. Schimbarea sau influențarea altei persoane — chiar cu bunăvoință — stă în afara acestei practici, așa cum stă în afara lucrului cu oglinda în ansamblu. Măsura rămâne interioară pe tot parcursul: roadele din propriul tău jurnal, nu comportamentul altora."
       }
     },
     {
@@ -77,34 +89,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Lecsendesítő ülés",
-        "en": "Settling Sit"
+        "en": "Settling Sit",
+        "ro": "Ședința de așezare"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Ülj kényelmesen, csukott szemmel. Vezesd a figyelmet lassan végig a testen, majd érzékeld a testet körülvevő teret. Ha gondolat visz el, térj vissza oda, ahol tartottál. A cél nem üresség, hanem nyitott, tágas éberség.",
-          "en": "Sit comfortably with eyes closed. Guide attention slowly through the body, then sense the space surrounding it. When a thought carries you off, return to where you left off. The aim is not blankness but open, spacious wakefulness."
+          "en": "Sit comfortably with eyes closed. Guide attention slowly through the body, then sense the space surrounding it. When a thought carries you off, return to where you left off. The aim is not blankness but open, spacious wakefulness.",
+          "ro": "Așază-te confortabil cu ochii închiși. Ghidează atenția încet prin corp, apoi simte spațiul care îl înconjoară. Când un gând te poartă departe, întoarce-te de unde ai rămas. Ținta nu este golul, ci o trezvie deschisă, spațioasă."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Figyelem a testben: fejtetőtől lefelé",
-              "en": "Attention in the body: crown downward"
+              "en": "Attention in the body: crown downward",
+              "ro": "Atenția în corp: de la creștet în jos"
             }
           },
           {
             "atSecond": 480,
             "label": {
               "hu": "Érzékeld a test körüli teret",
-              "en": "Sense the space around the body"
+              "en": "Sense the space around the body",
+              "ro": "Simte spațiul din jurul corpului"
             }
           },
           {
             "atSecond": 720,
             "label": {
               "hu": "Pihenj a nyitott éberségben",
-              "en": "Rest in open wakefulness"
+              "en": "Rest in open wakefulness",
+              "ro": "Odihnește-te în trezvia deschisă"
             }
           }
         ]
@@ -115,41 +132,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Oldó ülés: a régi vonás letétele",
-        "en": "Dissolving Sit: Setting Down the Old Trait"
+        "en": "Dissolving Sit: Setting Down the Old Trait",
+        "ro": "Ședința de dizolvare: Lăsarea jos a vechii trăsături"
       },
       "timer": {
         "durationSeconds": 1200,
         "instructions": {
           "hu": "Rövid lecsendesítés után dolgozz egyetlen kiválasztott régi vonással: figyeld meg, ismerd be csendben, majd add át — tedd le, mint egy régóta cipelt csomagot. Az ülés végén időzz a nyitott jelenben, ahol nem a régi én válaszol.",
-          "en": "After a brief settling, work with one chosen old trait: observe it, admit it quietly, then surrender it — set it down like a bag carried too long. End the sit resting in the open present, where the old self is not the one answering."
+          "en": "After a brief settling, work with one chosen old trait: observe it, admit it quietly, then surrender it — set it down like a bag carried too long. End the sit resting in the open present, where the old self is not the one answering.",
+          "ro": "După o scurtă așezare, lucrează cu o veche trăsătură aleasă: observ-o, recunoaște-o în liniște, apoi predă-o — las-o jos ca pe o geantă purtată prea mult. Încheie ședința odihnindu-te în prezentul deschis, unde vechiul sine nu este cel care răspunde."
         },
         "intervals": [
           {
             "atSecond": 180,
             "label": {
               "hu": "Felismerés: hol ül, mi táplálja?",
-              "en": "Recognition: where does it sit, what feeds it?"
+              "en": "Recognition: where does it sit, what feeds it?",
+              "ro": "Recunoaștere: unde stă, ce o hrănește?"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Csendes beismerés: nevezd meg",
-              "en": "Quiet admission: name it"
+              "en": "Quiet admission: name it",
+              "ro": "Admitere liniștită: numește-o"
             }
           },
           {
             "atSecond": 840,
             "label": {
               "hu": "Megadás: engedd el a fogást",
-              "en": "Surrender: release the grip"
+              "en": "Surrender: release the grip",
+              "ro": "Predare: eliberează strânsoarea"
             }
           },
           {
             "atSecond": 1080,
             "label": {
               "hu": "Időzz a nagyvonalú jelenben",
-              "en": "Rest in the generous present"
+              "en": "Rest in the generous present",
+              "ro": "Odihnește-te în prezentul generos"
             }
           }
         ]
@@ -160,34 +183,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Teremtő ülés: az új én próbája",
-        "en": "Creating Sit: Rehearsing the New Self"
+        "en": "Creating Sit: Rehearsing the New Self",
+        "ro": "Ședința de creare: Exersarea noului sine"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Lecsendesítés után fogalmazd meg tisztán a szándékot: ki az, akivé válsz? Hívd mellé az emelt érzelmet — hálát, csendes örömöt —, mintha a változás már megtörtént volna. Próbáld el gondolatban az új én egy konkrét napját, jelenetről jelenetre.",
-          "en": "After settling, state the intention clearly: who is it you are becoming? Invite the elevated emotion beside it — gratitude, quiet joy — as if the change had already occurred. Mentally rehearse one concrete day of the new self, scene by scene."
+          "en": "After settling, state the intention clearly: who is it you are becoming? Invite the elevated emotion beside it — gratitude, quiet joy — as if the change had already occurred. Mentally rehearse one concrete day of the new self, scene by scene.",
+          "ro": "După așezare, enunță intenția clar: cine este cel care devii? Invită emoția elevată alături de ea — recunoștință, bucurie liniștită — ca și cum schimbarea ar fi avut deja loc. Exersează mental o zi concretă a noului sine, scenă cu scenă."
         },
         "intervals": [
           {
             "atSecond": 150,
             "label": {
               "hu": "Tiszta szándék: fogalmazd meg",
-              "en": "Clear intention: state it"
+              "en": "Clear intention: state it",
+              "ro": "Intenție clară: enunț-o"
             }
           },
           {
             "atSecond": 420,
             "label": {
               "hu": "Emelt érzelem: hála, mintha már így volna",
-              "en": "Elevated emotion: gratitude, as if already so"
+              "en": "Elevated emotion: gratitude, as if already so",
+              "ro": "Emoție elevată: recunoștință, ca și cum ar fi deja așa"
             }
           },
           {
             "atSecond": 690,
             "label": {
               "hu": "Mentális próba: az új én egy napja",
-              "en": "Mental rehearsal: one day of the new self"
+              "en": "Mental rehearsal: one day of the new self",
+              "ro": "Exersare mentală: o zi a noului sine"
             }
           }
         ]
@@ -198,7 +226,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "Napi gyakorlási lista",
-        "en": "Daily Practice Checklist"
+        "en": "Daily Practice Checklist",
+        "ro": "Lista de verificare a practicii zilnice"
       },
       "checklist": {
         "items": [
@@ -206,42 +235,48 @@
             "key": "c1",
             "nevek": {
               "hu": "Reggel: egy meditációs ülés (lecsendesítő, oldó vagy teremtő)",
-              "en": "Morning: one meditation sit (settling, dissolving, or creating)"
+              "en": "Morning: one meditation sit (settling, dissolving, or creating)",
+              "ro": "Dimineața: o ședință de meditație (așezare, dizolvare sau creare)"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "A mai régi vonás kiválasztva, egy mondatban megnevezve",
-              "en": "Today's old trait chosen and named in one sentence"
+              "en": "Today's old trait chosen and named in one sentence",
+              "ro": "Trăsătura veche de azi aleasă și numită într-o propoziție"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Napközben legalább egyszer: megfigyelés és emlékeztetés a reflex előtt",
-              "en": "At least once today: observe and remind before the reflex completes"
+              "en": "At least once today: observe and remind before the reflex completes",
+              "ro": "Cel puțin o dată azi: observă și amintește-ți înainte ca reflexul să se încheie"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Legalább egy átirányítás: lélegzet, szándék, csepp emelt érzés",
-              "en": "At least one redirection: a breath, the intention, a drop of elevated feeling"
+              "en": "At least one redirection: a breath, the intention, a drop of elevated feeling",
+              "ro": "Cel puțin o redirecționare: o respirație, intenția, o picătură de sentiment elevat"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Este: naplóbejegyzés — hol győzött a reflex, hol az új válasz",
-              "en": "Evening: diary entry — where the reflex won, where the new response did"
+              "en": "Evening: diary entry — where the reflex won, where the new response did",
+              "ro": "Seara: însemnare în jurnal — unde a învins reflexul, unde a răspuns noul"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Keretek ellenőrizve: csak önmagamra irányult, ígéretek nélkül mértem",
-              "en": "Boundaries checked: self-directed only, measured without promises"
+              "en": "Boundaries checked: self-directed only, measured without promises",
+              "ro": "Limitele verificate: doar auto-direcționat, măsurat fără promisiuni"
             }
           }
         ]
@@ -252,7 +287,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A régi és az új én aspektusai",
-        "en": "Aspects of the Old and the New Self"
+        "en": "Aspects of the Old and the New Self",
+        "ro": "Aspecte ale vechiului și ale noului sine"
       },
       "aspektusPack": [
         {
@@ -261,7 +297,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Betanult sérelem — régi bántások érzelmi visszajátszása",
-            "en": "Memorized resentment — emotional replay of old hurts"
+            "en": "Memorized resentment — emotional replay of old hurts",
+            "ro": "Resentiment memorat — reluare emoțională a rănilor vechi"
           }
         },
         {
@@ -270,7 +307,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Panaszkodó belső monológ — a nap automatikus kommentálása",
-            "en": "Complaining inner monologue — automatic commentary on the day"
+            "en": "Complaining inner monologue — automatic commentary on the day",
+            "ro": "Monolog interior plângăreț — comentariu automat asupra zilei"
           }
         },
         {
@@ -279,7 +317,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Jövőt pásztázó szorongás — a holnap előre átélt vészforgatókönyvei",
-            "en": "Future-scanning anxiety — tomorrow's disaster scripts lived in advance"
+            "en": "Future-scanning anxiety — tomorrow's disaster scripts lived in advance",
+            "ro": "Anxietate de scanare a viitorului — scenariile de dezastru de mâine trăite dinainte"
           }
         },
         {
@@ -288,7 +327,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Ingervezérelt szokáskör — a test megszokott válasza a megszokott jelre",
-            "en": "Cue-driven habit loop — the body's customary answer to the customary signal"
+            "en": "Cue-driven habit loop — the body's customary answer to the customary signal",
+            "ro": "Buclă de obicei declanșată de semnal — răspunsul obișnuit al corpului la semnalul obișnuit"
           }
         },
         {
@@ -297,7 +337,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Emelt hála — előlegezett köszönet, amely érzéssé érik",
-            "en": "Elevated gratitude — thanks given in advance, ripening into feeling"
+            "en": "Elevated gratitude — thanks given in advance, ripening into feeling",
+            "ro": "Recunoștință elevată — mulțumiri date dinainte, coapte în sentiment"
           }
         },
         {
@@ -306,7 +347,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Tiszta szándék — pontosan megfogalmazott, kitartott irány",
-            "en": "Clear intention — a precisely stated, steadily held direction"
+            "en": "Clear intention — a precisely stated, steadily held direction",
+            "ro": "Intenție clară — o direcție formulată precis, ținută cu statornicie"
           }
         },
         {
@@ -315,7 +357,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Nyugodt jelenlét — otthonosság a nagyvonalú jelenben",
-            "en": "Settled presence — being at home in the generous present"
+            "en": "Settled presence — being at home in the generous present",
+            "ro": "Prezență așezată — a fi acasă în prezentul generos"
           }
         }
       ]
@@ -325,7 +368,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Esti mérés: régi én, új én",
-        "en": "Evening Measurement: Old Self, New Self"
+        "en": "Evening Measurement: Old Self, New Self",
+        "ro": "Măsurătoare de seară: Sinele vechi, Sinele nou"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -334,7 +378,8 @@
         ],
         "prompts": {
           "hu": "Melyik régi vonás jelentkezett ma, és mi kapcsolta be? Sikerült-e a reflex előtt emlékeztetned magad — és ha igen, mire irányítottad át a figyelmet? Volt-e ma egy pillanat, amikor az új én válaszolt helyetted régi éned helyett? Írd le tárgyilagosan, ítélet és ígéret nélkül: mit mértél ma a szokásban, a hangulatban, a jelenlétben?",
-          "en": "Which old trait showed up today, and what switched it on? Did you manage to remind yourself before the reflex completed — and if so, where did you redirect attention? Was there a moment today when the new self answered in place of the old one? Record it plainly, without judgment or promises: what did you measure today in habit, in mood, in presence?"
+          "en": "Which old trait showed up today, and what switched it on? Did you manage to remind yourself before the reflex completed — and if so, where did you redirect attention? Was there a moment today when the new self answered in place of the old one? Record it plainly, without judgment or promises: what did you measure today in habit, in mood, in presence?",
+          "ro": "Ce trăsătură veche s-a arătat azi, și ce a declanșat-o? Ai reușit să te aduci aminte înainte ca reflexul să se încheie — și dacă da, unde ți-ai redirecționat atenția? A existat un moment azi când sinele nou a răspuns în locul celui vechi? Notează-l simplu, fără judecată și fără promisiuni: ce ai măsurat azi în obicei, în stare de spirit, în prezență?"
         }
       }
     },
@@ -343,7 +388,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Ellenőrző kérdések",
-        "en": "Check Questions"
+        "en": "Check Questions",
+        "ro": "Întrebări de verificare"
       },
       "quiz": {
         "passThreshold": 2,
@@ -352,7 +398,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi a „régi én” ebben a modellben?",
-              "en": "What is the “old self” in this model?"
+              "en": "What is the “old self” in this model?",
+              "ro": "Ce este „sinele vechi” în acest model?"
             },
             "options": {
               "hu": [
@@ -364,6 +411,11 @@
                 "The sum of childhood memories, to be recalled in detail",
                 "A web of memorized emotions and automatic reactions the body recites by heart",
                 "A bad character that must be suppressed by willpower"
+              ],
+              "ro": [
+                "Suma amintirilor din copilărie, de rechemat în detaliu",
+                "O rețea de emoții memorate și reacții automate pe care corpul le recită pe de rost",
+                "Un caracter rău care trebuie suprimat prin forța voinței"
               ]
             },
             "correctIndex": 1
@@ -372,7 +424,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Hogyan kezeli ez a modul a kvantummező-narratívát?",
-              "en": "How does this module treat the quantum-field narrative?"
+              "en": "How does this module treat the quantum-field narrative?",
+              "ro": "Cum tratează acest modul narațiunea câmpului cuantic?"
             },
             "options": {
               "hu": [
@@ -384,6 +437,11 @@
                 "As proven scientific fact that must be accepted",
                 "As superstition to be discarded along with the practice",
                 "As Dispenza's own working model, measured by inner fruits"
+              ],
+              "ro": [
+                "Ca fapt științific dovedit care trebuie acceptat",
+                "Ca superstiție de aruncat odată cu practica",
+                "Ca modelul de lucru propriu al lui Dispenza, măsurat după roadele lăuntrice"
               ]
             },
             "correctIndex": 2
@@ -392,7 +450,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mi tartozik az új én begyakorlásához?",
-              "en": "What belongs to rehearsing the new self?"
+              "en": "What belongs to rehearsing the new self?",
+              "ro": "Ce ține de exersarea sinelui nou?"
             },
             "options": {
               "hu": [
@@ -404,6 +463,11 @@
                 "Clear intention joined with elevated emotion, rehearsed in the present",
                 "Imagining changes in other people's behavior",
                 "Analyzing the old traits in detail for the whole sit"
+              ],
+              "ro": [
+                "Intenție clară unită cu emoție elevată, exersate în prezent",
+                "A-ți imagina schimbări în comportamentul altor oameni",
+                "Analizarea în detaliu a trăsăturilor vechi pe tot parcursul ședinței"
               ]
             },
             "correctIndex": 0
@@ -412,7 +476,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mi a teendő akut lelki válság esetén?",
-              "en": "What is the right move in an acute psychological crisis?"
+              "en": "What is the right move in an acute psychological crisis?",
+              "ro": "Care este mișcarea potrivită într-o criză psihologică acută?"
             },
             "options": {
               "hu": [
@@ -424,6 +489,11 @@
                 "Process it alone with a longer dissolving meditation",
                 "Reach out for help: a doctor, a psychologist, or a crisis line",
                 "Rehearse the new self even more intensively"
+              ],
+              "ro": [
+                "Să o prelucrezi singur cu o meditație de dizolvare mai lungă",
+                "Să ceri ajutor: un medic, un psiholog sau o linie de criză",
+                "Să exersezi sinele nou și mai intens"
               ]
             },
             "correctIndex": 1

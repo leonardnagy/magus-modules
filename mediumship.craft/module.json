@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Mediumitás és megkülönböztetés — beszéd a holtakkal",
-    "en": "Mediumship and Discernment — Speaking with the Dead"
+    "en": "Mediumship and Discernment — Speaking with the Dead",
+    "ro": "Mediumnitate și discernământ — Vorbind cu morții"
   },
   "description": {
     "hu": "A holtakkal való „beszéd” hagyományának gyengéd, becsületes tanulmánya — nem ígéret és nem bizonyosság, hanem egy csendes belső gyakorlat: elcsendesedés, meghívás, figyelmes hallgatás és a jelek naplózása. A hagyomány saját modelljét mutatja be, amelyet nem a túlvilág bizonyítékával, hanem belső gyümölcseivel mérünk: a figyelem, az intuíció, a hálás emlékezés és a lassú belső változás. A legfontosabb lecke a megkülönböztetés és a biztonság. Ez nem helyettesíti a gyász szakszerű gondozását, és nem orvosi tanács.",
-    "en": "A gentle, honest study of the tradition of „speaking” with the dead — not a promise and not a certainty, but a quiet inner practice: stillness, invitation, attentive listening, and the journaling of signs. It presents the tradition's own model, measured not by proof of an afterlife but by its inner fruits: attention, intuition, grateful remembrance, and slow inner change. The most important lesson is discernment and safety. This is not a substitute for professional grief care, and it is not medical advice."
+    "en": "A gentle, honest study of the tradition of „speaking” with the dead — not a promise and not a certainty, but a quiet inner practice: stillness, invitation, attentive listening, and the journaling of signs. It presents the tradition's own model, measured not by proof of an afterlife but by its inner fruits: attention, intuition, grateful remembrance, and slow inner change. The most important lesson is discernment and safety. This is not a substitute for professional grief care, and it is not medical advice.",
+    "ro": "Un studiu blând și onest al tradiției de a „vorbi” cu morții — nu o promisiune și nu o certitudine, ci o practică interioară liniștită: liniște, invitație, ascultare atentă și notarea semnelor în jurnal. Prezintă modelul propriu al tradiției, măsurat nu prin dovezi ale unei vieți de apoi, ci prin roadele sale lăuntrice: atenție, intuiție, amintire recunoscătoare și schimbare interioară lentă. Cea mai importantă lecție este discernământul și siguranța. Aceasta nu înlocuiește îngrijirea profesională a doliului și nu este sfat medical."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/mediumship.craft/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a gyász csendes gyakorlata",
-        "en": "Introduction — a Quiet Practice of Grief"
+        "en": "Introduction — a Quiet Practice of Grief",
+        "ro": "Introducere — o practică liniștită a doliului"
       },
       "text": {
         "hu": "Álljunk meg egy pillanatra, gyengéden. Ez a modul olyasmiről szól, amit sokan a legfájdalmasabb helyükön hordoznak: a **hiányról**, egy szeretett halott utáni vágyakozásról. A hagyomány, amelyet itt bemutatunk, azt tanítja, hogy le lehet ülni a csendben, meg lehet hívni ennek a hiánynak a jelenlétét, és **figyelni** lehet arra, ami belül feltámad. Ezt sok kultúra művelte az ősök tiszteletében, az emlékezés szertartásaiban, a halottak melletti virrasztásban.\n\nMielőtt tovább mennénk, három dolgot **világosan** kimondunk:\n\n— Ez a modul **nem állítja**, hogy a holtak jelen vannak, hallanak, vagy üzennek. A hagyomány *modelljét* tanuljuk — egy belső gyakorlatot —, nem egy tényt a világról. Amit átélsz, az a te elméd, emlékezeted és szíved munkája; hogy van-e rajta túl bármi, arról ez a gyakorlat **nem** dönt, és nem is ígér semmit.\n\n— A gyakorlatot nem a „bizonyíték” méri, hanem a **gyümölcse**: nyugodtabb figyelem, élesebb intuíció, hálásabb emlékezés, lassú belső gyógyulás. Ha ezek nőnek, a gyakorlat jót tett — akár „megszólalt” bárki, akár nem.\n\n— Ez **nem** helyettesíti a gyász szakszerű gondozását. Ha a veszteség elviselhetetlen, ha a fájdalom nem enyhül, keress gyászcsoportot, terapeutát vagy orvost. Ez a modul csendes társ lehet a gyász mellett — soha nem a gondozás helyett.\n\nA következő leckék a hagyomány saját nyelvén beszélnek majd az „elcsendesedésről”, a „meghívásról” és a „hallgatásról”. Olvasd őket úgy, mint egy szertartás gyengéd térképét — nem mint a valóság kijelentését.",
-        "en": "Let us pause a moment, gently. This module touches something many carry in their most painful place: **absence**, the longing for a beloved who has died. The tradition presented here teaches that one can sit in stillness, invite the presence of that absence, and **attend** to what rises within. Many cultures have practised this in honouring ancestors, in rites of remembrance, in the vigil beside the dead.\n\nBefore we go further, we say three things **plainly**:\n\n— This module **does not claim** that the dead are present, that they hear, or that they send messages. We study the tradition's *model* — an inner practice — not a fact about the world. What you experience is the work of your own mind, memory and heart; whether anything lies beyond that, this practice **does not** decide and does not promise.\n\n— The practice is measured not by „proof” but by its **fruit**: calmer attention, sharper intuition, more grateful remembrance, slow inner healing. If these grow, the practice has done good — whether or not anyone „spoke”.\n\n— This is **not** a substitute for professional grief care. If the loss is unbearable, if the pain does not ease, seek a grief group, a therapist, or a physician. This module can be a quiet companion alongside grief — never in place of care.\n\nThe lessons that follow will speak in the tradition's own language of „stillness”, „invitation” and „listening”. Read them as the gentle map of a rite — not as a statement about reality."
+        "en": "Let us pause a moment, gently. This module touches something many carry in their most painful place: **absence**, the longing for a beloved who has died. The tradition presented here teaches that one can sit in stillness, invite the presence of that absence, and **attend** to what rises within. Many cultures have practised this in honouring ancestors, in rites of remembrance, in the vigil beside the dead.\n\nBefore we go further, we say three things **plainly**:\n\n— This module **does not claim** that the dead are present, that they hear, or that they send messages. We study the tradition's *model* — an inner practice — not a fact about the world. What you experience is the work of your own mind, memory and heart; whether anything lies beyond that, this practice **does not** decide and does not promise.\n\n— The practice is measured not by „proof” but by its **fruit**: calmer attention, sharper intuition, more grateful remembrance, slow inner healing. If these grow, the practice has done good — whether or not anyone „spoke”.\n\n— This is **not** a substitute for professional grief care. If the loss is unbearable, if the pain does not ease, seek a grief group, a therapist, or a physician. This module can be a quiet companion alongside grief — never in place of care.\n\nThe lessons that follow will speak in the tradition's own language of „stillness”, „invitation” and „listening”. Read them as the gentle map of a rite — not as a statement about reality.",
+        "ro": "Să ne oprim o clipă, cu blândețe. Acest modul atinge ceva ce mulți poartă în locul lor cel mai dureros: **absența**, dorul după o ființă iubită care a murit. Tradiția prezentată aici învață că poți sta în liniște, să inviți prezența acelei absențe și să **fii atent** la ceea ce se ridică înăuntru. Multe culturi au practicat aceasta cinstind strămoșii, în rituri de pomenire, în priveghiul de lângă morți.\n\nÎnainte de a merge mai departe, spunem trei lucruri **limpede**:\n\n— Acest modul **nu pretinde** că morții sunt prezenți, că aud sau că trimit mesaje. Studiem *modelul* tradiției — o practică interioară — nu un fapt despre lume. Ceea ce trăiești este lucrarea propriei tale minți, memorii și inimi; dacă ceva stă dincolo de asta, această practică **nu** decide și nu promite.\n\n— Practica se măsoară nu prin „dovezi”, ci prin **roadele** ei: atenție mai calmă, intuiție mai ascuțită, amintire mai recunoscătoare, vindecare interioară lentă. Dacă acestea cresc, practica a făcut bine — indiferent dacă cineva a „vorbit” sau nu.\n\n— Aceasta **nu** înlocuiește îngrijirea profesională a doliului. Dacă pierderea este de nesuportat, dacă durerea nu se potolește, caută un grup de doliu, un terapeut sau un medic. Acest modul poate fi un companion liniștit alături de doliu — niciodată în locul îngrijirii.\n\nLecțiile care urmează vor vorbi în limbajul propriu al tradiției despre „liniște”, „invitație” și „ascultare”. Citește-le ca pe harta blândă a unui rit — nu ca pe o afirmație despre realitate."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A becsületes keret — mit mérünk valójában",
-        "en": "The Honest Frame — What We Actually Measure"
+        "en": "The Honest Frame — What We Actually Measure",
+        "ro": "Cadrul onest — Ce măsurăm de fapt"
       },
       "text": {
         "hu": "Miért érdemes egy őszinte belső naplóban helyet adni egy ilyen gyakorlatnak? Nem azért, mert bizonyítja a túlvilágot — hanem azért, mert a **figyelem, az emlékezés és a szív** iskolája, ha becsületesen művelik.\n\n**A hagyomány modellje.** A hagyomány saját hangján azok, akiket elvesztettél, valóban jelen vannak: figyelnek a hívásodra, közel hajolnak a csendben, és jelekkel felelnek annak, aki figyelmes szívvel hallgat. * A hagyomány úgy beszél, mintha az ősök, a szeretett holtak „jelen” volnának, „figyelnének”, „üzennének”. Ez a modell **belső nyelv** — a hiány, a szeretet és az emlékezet megszemélyesítése —, nem a fizika állítása. Ahogy egy imában megszólíthatunk valakit, aki nincs a szobában, úgy szólítja meg ez a gyakorlat a hiányt. A megszólítás **igaz lehet érzelmileg**, anélkül hogy tényként állítanánk bármit a szoba láthatatlan lakóiról.\n\n**Amit valóban edzel.** A gyakorlat magja három, teljesen becsületes és átvihető készség:\n\n— **A figyelem.** Csendben ülni, a gondolatok zaját elengedni, a jelen pillanatra hangolódni — ez ugyanaz a mag, amit Bardon koncentrációja és a meditáció művel.\n\n— **Az intuíció.** A hagyomány hangján a tudás egészben és gyorsan érkezik hozzád, a gondolat előtt, megérintve azt, amit az érzékek nem foghatnak meg. * Megtanulni észrevenni ezt a halk, gyors belső megérzést, és megkülönböztetni a lassabb, magyarázó gondolattól — éles önismeret, nem varázslat.\n\n— **A hálás emlékezés.** Tudatosan feléleszteni egy szeretett ember emlékét — a hangját, a szokásait, a tanításait —, és hagyni, hogy a hála és a szeretet dolgozzon benned. Ez a gyász egyik legrégibb gyógyító mozdulata.\n\n**A mérce — a gyümölcs, nem a hatás.** Soha nem azt kérdezzük: „megjelent-e valaki?” Azt kérdezzük: *nyugodtabb, tisztább, hálásabb, szeretőbb lettem-e ettől a gyakorlattól?* Ha igen, jó úton jársz. Ha a gyakorlat félelmet, rögeszmét, a valóságtól való elszakadást vagy a gyász megkerülését táplálja — akkor **állj meg**, és fordulj a következő leckében leírt megkülönböztetéshez.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "Why give a practice like this a place in an honest inner diary? Not because it proves an afterlife — but because it is a school of **attention, remembrance and the heart**, when practised honestly.\n\n**The tradition's model.** In the tradition's own voice those you have lost are truly present, attending to your call, drawing near in the stillness, answering with signs the attentive heart can read. * The tradition speaks as if the ancestors, the beloved dead, were „present”, „attending”, „sending messages”. This model is an **inner language** — a personification of absence, love and memory — not a claim of physics. As in prayer we may address someone not in the room, so this practice addresses the absence. The address can be **emotionally true** without our asserting anything as fact about invisible occupants of the room.\n\n**What you actually train.** The core of the practice is three wholly honest, transferable skills:\n\n— **Attention.** To sit in stillness, to let the noise of thought go, to tune to the present moment — the same core that Bardon's concentration and meditation cultivate.\n\n— **Intuition.** In the tradition's telling a knowing reaches you whole and swift, ahead of thought, brushing what the senses cannot touch. * To learn to notice that faint, fast inner sense, and to distinguish it from the slower, explaining thought, is keen self-knowledge, not sorcery.\n\n— **Grateful remembrance.** To deliberately revive a beloved person's memory — their voice, their habits, their teachings — and to let gratitude and love work in you. This is one of grief's oldest healing gestures.\n\n**The measure — the fruit, not the effect.** We never ask „did someone appear?” We ask: *have I become calmer, clearer, more grateful, more loving through this practice?* If yes, you walk a good path. If the practice feeds fear, obsession, detachment from reality, or the bypassing of grief — then **stop**, and turn to the discernment set out in the next lesson.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "Why give a practice like this a place in an honest inner diary? Not because it proves an afterlife — but because it is a school of **attention, remembrance and the heart**, when practised honestly.\n\n**The tradition's model.** In the tradition's own voice those you have lost are truly present, attending to your call, drawing near in the stillness, answering with signs the attentive heart can read. * The tradition speaks as if the ancestors, the beloved dead, were „present”, „attending”, „sending messages”. This model is an **inner language** — a personification of absence, love and memory — not a claim of physics. As in prayer we may address someone not in the room, so this practice addresses the absence. The address can be **emotionally true** without our asserting anything as fact about invisible occupants of the room.\n\n**What you actually train.** The core of the practice is three wholly honest, transferable skills:\n\n— **Attention.** To sit in stillness, to let the noise of thought go, to tune to the present moment — the same core that Bardon's concentration and meditation cultivate.\n\n— **Intuition.** In the tradition's telling a knowing reaches you whole and swift, ahead of thought, brushing what the senses cannot touch. * To learn to notice that faint, fast inner sense, and to distinguish it from the slower, explaining thought, is keen self-knowledge, not sorcery.\n\n— **Grateful remembrance.** To deliberately revive a beloved person's memory — their voice, their habits, their teachings — and to let gratitude and love work in you. This is one of grief's oldest healing gestures.\n\n**The measure — the fruit, not the effect.** We never ask „did someone appear?” We ask: *have I become calmer, clearer, more grateful, more loving through this practice?* If yes, you walk a good path. If the practice feeds fear, obsession, detachment from reality, or the bypassing of grief — then **stop**, and turn to the discernment set out in the next lesson.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "De ce să dai unei practici ca aceasta un loc într-un jurnal interior onest? Nu pentru că dovedește o viață de apoi — ci pentru că este o școală a **atenției, amintirii și inimii**, când e practicată cu onestitate.\n\n**Modelul tradiției.** În vocea proprie a tradiției, cei pe care i-ai pierdut sunt cu adevărat prezenți, luând aminte la chemarea ta, apropiindu-se în liniște, răspunzând cu semne pe care inima atentă le poate citi. * Tradiția vorbește ca și cum strămoșii, morții iubiți, ar fi „prezenți”, „atenți”, „trimițând mesaje”. Acest model este un **limbaj interior** — o personificare a absenței, iubirii și memoriei — nu o afirmație de fizică. Așa cum în rugăciune ne putem adresa cuiva care nu e în cameră, tot așa această practică se adresează absenței. Adresarea poate fi **emoțional adevărată** fără să afirmăm ceva ca fapt despre ocupanți invizibili ai camerei.\n\n**Ce antrenezi de fapt.** Miezul practicii sunt trei deprinderi pe deplin oneste și transferabile:\n\n— **Atenția.** Să stai în liniște, să lași zgomotul gândului să treacă, să te acorzi la clipa prezentă — același miez pe care îl cultivă concentrarea și meditația lui Bardon.\n\n— **Intuiția.** În spusele tradiției, o cunoaștere te ajunge întreagă și iute, înaintea gândului, atingând ceea ce simțurile nu pot atinge. * Să înveți să observi acel simț interior slab și rapid și să-l deosebești de gândul mai lent, care explică, este o cunoaștere de sine ascuțită, nu vrăjitorie.\n\n— **Amintirea recunoscătoare.** Să reînvii în mod deliberat memoria unei persoane iubite — vocea ei, obiceiurile ei, învățăturile ei — și să lași recunoștința și iubirea să lucreze în tine. Acesta este unul dintre cele mai vechi gesturi vindecătoare ale doliului.\n\n**Măsura — roadele, nu efectul.** Nu întrebăm niciodată „a apărut cineva?”. Întrebăm: *am devenit mai calm, mai limpede, mai recunoscător, mai iubitor prin această practică?* Dacă da, umbli pe un drum bun. Dacă practica hrănește frica, obsesia, desprinderea de realitate sau ocolirea doliului — atunci **oprește-te** și întoarce-te la discernământul prezentat în lecția următoare.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A módszer — elcsendesedés, meghívás, hallgatás, naplózás",
-        "en": "The Method — Stillness, Invitation, Listening, Journaling"
+        "en": "The Method — Stillness, Invitation, Listening, Journaling",
+        "ro": "Metoda — Liniște, invitație, ascultare, jurnal"
       },
       "text": {
         "hu": "A hagyomány gyakorlata egyszerű és szertartásos. Négy mozdulatból áll, és mindegyik önmagában is becsületes belső munka.\n\n**Egy — a csendes hely.** Sokan szánnak egy kis, nyugodt sarkot az emlékezésnek: egy fénykép, egy gyertya, egy pohár friss víz, egy tárgy, ami a szeretett emberre emlékeztet. Ez nem babona, hanem a **figyelem lehorgonyzása** — ugyanaz, amit egy emlékasztal vagy egy sírlátogatás tesz. A hagyomány azt tanácsolja, hogy ez a hely ne ott legyen, ahol alszol; egyszerűbben szólva: a gyakorlásnak legyen **külön ideje és tere**, ne folyjon bele az álmodba és a mindennapjaidba.\n\n**Kettő — a szánt idő (a „határ”).** A hagyomány külön, ismétlődő időt javasol — hetente vagy havonta ugyanakkor. Ennek józan magja a **határ**: a gyász és az emlékezés kapjon dedikált teret, hogy ne folyjon szét az egész életedbe — a munkádba, a pihenésedbe, a kapcsolataidba. Ha bármikor azt éreznéd, hogy a gyakorlat „nem enged el”, tolakszik, kontrollálhatatlan — az a jele, hogy a határt meg kell erősíteni, nem lazítani.\n\n**Három — a meghívás és a lezárás.** A szertartásnak van **nyitása** és **zárása**. A nyitás egy csendes, jó szándékú meghívás: hogy csak a szeretet, a világosság és a béke szelleme legyen jelen ebben az órában. Ebben a csendben kimondva a meghívás közel hívja ezt a jelenlétet, és az óra megnyílik felé. * A zárás ugyanilyen fontos: hálát adsz, elengeded a gyakorlatot, és **visszatérsz** a jelenbe. A lezárás nem misztikus szükség, hanem lélektani higiénia: tisztán kilépsz abból az állapotból, amelybe beléptél.\n\n**Négy — a hallgatás és a naplózás.** Leülsz a csendbe, és **figyelsz** — nem erőltetsz semmit. A hagyomány szerint, akit hívtál, közel jön ebben a csendben, és ami eléd tárul, az ő felelete, amely átér hozzád a küszöbön. * Ami feltámad — egy kép, egy szó, egy érzés, egy emlék —, azt utólag **leírod**, ítélet nélkül. A hagyomány szerint a leírt benyomás megőrződik, a leíratlan elillan, mint a reggeli álom. A naplóról külön lecke szól; ez a gyakorlat igazi, hosszú távú magja.\n\nEgyetlen figyelmeztetés már itt: a hagyomány óva int attól, hogy **bármit is szó szerint kövess**, ami egy ilyen ülésen „elhangzik”. A benyomás lehet a szereteted, az emlékezeted vagy a fáradtságod terméke. Kezeld gyengéden, kíváncsian — és a következő lecke megkülönböztetésével.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The tradition's practice is simple and ceremonial. It has four movements, and each is honest inner work in itself.\n\n**One — the quiet place.** Many set aside a small, calm corner for remembrance: a photograph, a candle, a glass of fresh water, an object that recalls the beloved. This is not superstition but the **anchoring of attention** — the same thing a memorial table or a visit to a grave does. The tradition advises that this place not be where you sleep; put more plainly: let the practice have its **own time and space**, not bleeding into your sleep and your daily life.\n\n**Two — the appointed time (the „boundary”).** The tradition suggests a separate, recurring time — the same hour each week or month. Its sane core is the **boundary**: let grief and remembrance have a dedicated space, so they do not overflow into the rest of your life — your work, your rest, your relationships. If at any point you feel the practice „will not let go”, intrudes, is uncontrollable — that is a sign the boundary must be strengthened, not loosened.\n\n**Three — the invitation and the closing.** The rite has an **opening** and a **closing**. The opening is a quiet, well-meaning invitation: that only the spirit of love, of light and of peace be present in this hour. Spoken in this stillness, the invitation calls such a presence near, and the hour grows answerable to it. * The closing matters just as much: you give thanks, you release the practice, and you **return** to the present. The closing is no mystical necessity but psychological hygiene: you step cleanly out of the state you stepped into.\n\n**Four — the listening and the journaling.** You sit in stillness and **attend** — forcing nothing. In the tradition's telling, the one you have called draws near in this silence, and what rises to meet you is their answer across the threshold. * Whatever rises — an image, a word, a feeling, a memory — you afterwards **write down**, without judgment. The tradition holds that the written impression is kept, the unwritten one slips away like a morning dream. The journal has its own lesson; it is the true, long-term core of the practice.\n\nOne caution already here: the tradition itself warns against **following literally** anything that seems to be „said” in such a sitting. The impression may be the product of your love, your memory, or your fatigue. Hold it gently, with curiosity — and with the discernment of the next lesson.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The tradition's practice is simple and ceremonial. It has four movements, and each is honest inner work in itself.\n\n**One — the quiet place.** Many set aside a small, calm corner for remembrance: a photograph, a candle, a glass of fresh water, an object that recalls the beloved. This is not superstition but the **anchoring of attention** — the same thing a memorial table or a visit to a grave does. The tradition advises that this place not be where you sleep; put more plainly: let the practice have its **own time and space**, not bleeding into your sleep and your daily life.\n\n**Two — the appointed time (the „boundary”).** The tradition suggests a separate, recurring time — the same hour each week or month. Its sane core is the **boundary**: let grief and remembrance have a dedicated space, so they do not overflow into the rest of your life — your work, your rest, your relationships. If at any point you feel the practice „will not let go”, intrudes, is uncontrollable — that is a sign the boundary must be strengthened, not loosened.\n\n**Three — the invitation and the closing.** The rite has an **opening** and a **closing**. The opening is a quiet, well-meaning invitation: that only the spirit of love, of light and of peace be present in this hour. Spoken in this stillness, the invitation calls such a presence near, and the hour grows answerable to it. * The closing matters just as much: you give thanks, you release the practice, and you **return** to the present. The closing is no mystical necessity but psychological hygiene: you step cleanly out of the state you stepped into.\n\n**Four — the listening and the journaling.** You sit in stillness and **attend** — forcing nothing. In the tradition's telling, the one you have called draws near in this silence, and what rises to meet you is their answer across the threshold. * Whatever rises — an image, a word, a feeling, a memory — you afterwards **write down**, without judgment. The tradition holds that the written impression is kept, the unwritten one slips away like a morning dream. The journal has its own lesson; it is the true, long-term core of the practice.\n\nOne caution already here: the tradition itself warns against **following literally** anything that seems to be „said” in such a sitting. The impression may be the product of your love, your memory, or your fatigue. Hold it gently, with curiosity — and with the discernment of the next lesson.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Practica tradiției este simplă și ceremonială. Are patru mișcări, iar fiecare este în sine o muncă interioară cinstită.\n\n**Unu — locul liniștit.** Mulți își rezervă un colț mic și calm pentru aducere-aminte: o fotografie, o lumânare, un pahar cu apă proaspătă, un obiect care amintește de cel iubit. Aceasta nu e superstiție, ci **ancorarea atenției** — același lucru pe care îl face o masă de pomenire sau o vizită la mormânt. Tradiția sfătuiește ca acest loc să nu fie acolo unde dormi; spus mai pe șleau: lasă practica să aibă **propriul ei timp și spațiu**, fără să se reverse în somnul tău și în viața de zi cu zi.\n\n**Doi — timpul rânduit („granița”).** Tradiția sugerează un timp separat, care se repetă — aceeași oră în fiecare săptămână sau lună. Miezul ei sănătos este **granița**: lasă doliul și aducerea-aminte să aibă un spațiu dedicat, ca să nu se reverse în restul vieții tale — munca, odihna, relațiile. Dacă la un moment dat simți că practica „nu te lasă”, intră peste tine, e de necontrolat — acesta e un semn că granița trebuie întărită, nu slăbită.\n\n**Trei — invitația și închiderea.** Ritul are o **deschidere** și o **închidere**. Deschiderea este o invitație liniștită, binevoitoare: ca numai spiritul iubirii, al luminii și al păcii să fie prezent în acest ceas. Rostită în această liniște, invitația cheamă aproape o astfel de prezență, iar ceasul devine răspunzător față de ea. * Închiderea contează la fel de mult: mulțumești, eliberezi practica și **te întorci** în prezent. Închiderea nu e o necesitate mistică, ci igienă psihologică: ieși curat din starea în care ai intrat.\n\n**Patru — ascultarea și jurnalul.** Stai în liniște și **iei aminte** — fără să forțezi nimic. După spusele tradiției, cel pe care l-ai chemat se apropie în această tăcere, iar ceea ce se ridică în întâmpinarea ta este răspunsul lui de dincolo de prag. * Orice s-ar ridica — o imagine, un cuvânt, un sentiment, o amintire — **notezi** după aceea, fără judecată. Tradiția ține că impresia scrisă se păstrează, iar cea nescrisă se scurge ca un vis de dimineață. Jurnalul are propria lui lecție; el este adevăratul nucleu pe termen lung al practicii.\n\nO precauție încă de aici: tradiția însăși te avertizează să nu **urmezi la literă** orice pare a fi „spus” într-o astfel de ședință. Impresia poate fi rodul iubirii tale, al memoriei sau al oboselii. Ține-o cu blândețe, cu curiozitate — și cu discernământul lecției următoare.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,20 +61,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Elcsendesedés — 8 perc",
-        "en": "Settling into Stillness — 8 min"
+        "en": "Settling into Stillness — 8 min",
+        "ro": "Așezarea în liniște — 8 min"
       },
       "timer": {
         "durationSeconds": 480,
         "instructions": {
           "hu": "Ülj kényelmesen, csendes helyen. Néhány lassú légzéssel engedd el a nap zaját. Nem hívsz még senkit — csak megérkezel a jelenbe. Figyeld a légzést, a test súlyát, a szoba csendjét. Ha gondolat jön, engedd tovaúszni, mint felhőt. A gyakorlat egyetlen célja, hogy nyugodt, éber, nyitott figyelemhez érj — ez önmagában is teljes.",
-          "en": "Sit comfortably, in a quiet place. With a few slow breaths, let the day's noise go. You invite no one yet — you simply arrive in the present. Watch the breath, the weight of the body, the silence of the room. When a thought comes, let it drift by like a cloud. The sole aim of this practice is to reach a calm, alert, open attention — which is complete in itself."
+          "en": "Sit comfortably, in a quiet place. With a few slow breaths, let the day's noise go. You invite no one yet — you simply arrive in the present. Watch the breath, the weight of the body, the silence of the room. When a thought comes, let it drift by like a cloud. The sole aim of this practice is to reach a calm, alert, open attention — which is complete in itself.",
+          "ro": "Așază-te confortabil, într-un loc liniștit. Cu câteva respirații lente, lasă zgomotul zilei să plece. Nu inviți pe nimeni încă — pur și simplu ajungi în prezent. Urmărește respirația, greutatea trupului, tăcerea camerei. Când vine un gând, lasă-l să treacă ca un nor. Singurul țel al acestei practici este să ajungi la o atenție calmă, trează, deschisă — care e deplină în sine."
         },
         "intervals": [
           {
             "atSecond": 240,
             "label": {
               "hu": "Elmélyülés — csak a jelen",
-              "en": "Deepen — only the present"
+              "en": "Deepen — only the present",
+              "ro": "Aprofundează — numai prezentul"
             }
           }
         ]
@@ -77,27 +88,31 @@
       "kind": "timer",
       "nevek": {
         "hu": "Az ülés — meghívás, hallgatás, lezárás — 12 perc",
-        "en": "The Sitting — Invitation, Listening, Closing — 12 min"
+        "en": "The Sitting — Invitation, Listening, Closing — 12 min",
+        "ro": "Ședința — Invitație, Ascultare, Închidere — 12 min"
       },
       "timer": {
         "durationSeconds": 720,
         "instructions": {
           "hu": "Miután elcsendesedtél, csendben, jó szándékkal fogalmazd meg a meghívást: hogy csak a szeretet, a világosság és a béke legyen jelen ebben az órában. Aztán egyszerűen HALLGASS — ne erőltess semmit. Ha kép, szó, érzés vagy emlék támad, vedd tudomásul gyengéden, és engedd tovább. Ne kövess szó szerint semmilyen „utasítást” vagy „jóslatot”; csak megfigyelsz. A végén adj hálát, engedd el a gyakorlatot, és térj vissza a jelenbe. Utána írd le, amit észleltél.",
-          "en": "After you have grown still, quietly and with good will form the invitation: that only love, light and peace be present in this hour. Then simply LISTEN — force nothing. If an image, word, feeling or memory rises, acknowledge it gently and let it pass. Do not follow literally any „instruction” or „prophecy”; you are only observing. At the end give thanks, release the practice, and return to the present. Afterwards write down what you noticed."
+          "en": "After you have grown still, quietly and with good will form the invitation: that only love, light and peace be present in this hour. Then simply LISTEN — force nothing. If an image, word, feeling or memory rises, acknowledge it gently and let it pass. Do not follow literally any „instruction” or „prophecy”; you are only observing. At the end give thanks, release the practice, and return to the present. Afterwards write down what you noticed.",
+          "ro": "După ce te-ai liniștit, formează în liniște și cu bunăvoință invitația: ca numai iubirea, lumina și pacea să fie prezente în acest ceas. Apoi pur și simplu ASCULTĂ — nu forța nimic. Dacă se ridică o imagine, un cuvânt, un sentiment sau o amintire, recunoaște-o blând și las-o să treacă. Nu urma la literă nicio „instrucțiune” sau „profeție”; tu doar observi. La final mulțumește, eliberează practica și întoarce-te în prezent. După aceea notează ce ai observat."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "A csendes meghívás",
-              "en": "The quiet invitation"
+              "en": "The quiet invitation",
+              "ro": "Invitația liniștită"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Hála és lezárás — visszatérés",
-              "en": "Thanks and closing — return"
+              "en": "Thanks and closing — return",
+              "ro": "Mulțumirea și închiderea — întoarcerea"
             }
           }
         ]
@@ -108,20 +123,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Hálás emlékezés — 10 perc",
-        "en": "Grateful Remembrance — 10 min"
+        "en": "Grateful Remembrance — 10 min",
+        "ro": "Aducere-aminte recunoscătoare — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Ez a gyakorlat teljesen befelé fordul — az emlékezet és a hála munkája. Idézd fel egy szeretett elhunyt alakját: a hangját, egy szokását, egy közös pillanatot, valamit, amit tőle tanultál. Ne szomorúságot keress, hanem HÁLÁT azért, ami volt. Ha könny jön, hagyd — a gyász és a szeretet ugyanabból a forrásból ered. A cél az, hogy a hiányt gyengéd, hálás emlékezéssé lágyítsd. Ha a fájdalom elviselhetetlenné válik, állj meg, és fordulj emberi támaszhoz.",
-          "en": "This practice turns wholly inward — the work of memory and gratitude. Call up the image of a beloved who has died: their voice, a habit, a shared moment, something you learned from them. Seek not sadness but GRATITUDE for what was. If tears come, let them — grief and love spring from the same source. The aim is to soften absence into gentle, grateful remembrance. If the pain becomes unbearable, stop, and turn to human support."
+          "en": "This practice turns wholly inward — the work of memory and gratitude. Call up the image of a beloved who has died: their voice, a habit, a shared moment, something you learned from them. Seek not sadness but GRATITUDE for what was. If tears come, let them — grief and love spring from the same source. The aim is to soften absence into gentle, grateful remembrance. If the pain becomes unbearable, stop, and turn to human support.",
+          "ro": "Această practică se întoarce cu totul înăuntru — munca memoriei și a recunoștinței. Cheamă imaginea unei persoane iubite care a murit: vocea ei, un obicei, un moment împărtășit, ceva ce ai învățat de la ea. Nu căuta tristețea, ci RECUNOȘTINȚA pentru ce a fost. Dacă vin lacrimile, lasă-le — doliul și iubirea izvorăsc din același izvor. Țelul este să înmoi absența într-o aducere-aminte blândă, recunoscătoare. Dacă durerea devine de nesuportat, oprește-te și apelează la sprijin omenesc."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "A hálától a békéig",
-              "en": "From gratitude to peace"
+              "en": "From gratitude to peace",
+              "ro": "De la recunoștință la pace"
             }
           }
         ]
@@ -132,11 +150,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A megkülönböztetés és a biztonság — a legfontosabb lecke",
-        "en": "Discernment and Safety — the Most Important Lesson"
+        "en": "Discernment and Safety — the Most Important Lesson",
+        "ro": "Discernământ și siguranță — cea mai importantă lecție"
       },
       "text": {
         "hu": "Ez a modul legfontosabb leckéje. A gyengéd gyakorlatnál sokkal fontosabb, hogy **biztonságban** és **tisztán** maradj. Olvasd el figyelmesen, akár a többit átugrod.\n\n**Először a biztonság — ezt semmi nem írja felül.** Ha valaha **parancsoló hangokat** hallasz, amelyek azt mondják, árts magadnak vagy másnak; ha késztetést érzel, hogy bántsd magad vagy bárkit; ha a benyomások félelmetessé, kontrollálhatatlanná válnak, elszakítanak a valóságtól, vagy nem tudod megkülönböztetni őket a valóságtól — **ez nem szellemi gyakorlat kérdése, hanem egészségügyi vészhelyzet.** Azonnal állj meg, és **fordulj szakemberhez**: hívj orvost, mentőt vagy a helyi sürgősségi/krízisvonalat. Ez nem gyengeség és nem kudarc — ez a helyes, bátor lépés. Semmilyen hagyomány, semmilyen „szellem”, semmilyen tanító nem előzheti meg az életed és az épséged védelmét.\n\n(Fontos: a régi ezoterikus szövegek gyakran a lelki tüneteket „a holtak hívásának” magyarázzák, és arra biztatnak, hogy „ne ismerd el”, hanem „vidd végig”. Ezt a tanácsot itt **határozottan elvetjük**. A tartós szorongás, a hallucináció, a valóságtól való elszakadás, az öngyilkos vagy másokat veszélyeztető gondolat **orvosi figyelmet** kíván — soha nem több gyakorlást.)\n\n**Ez nem a gyász gondozásának pótléka.** Ha a veszteség elviselhetetlen, ha hónapok után sem enyhül a fájdalom, ha nem tudsz működni — az emberi támasz a helyes út: gyászcsoport, terapeuta, orvos, közösség. Ez a modul csendes társ lehet **a gondozás mellett**, de soha nem helyette. És ez semmiképp nem orvosi tanács: egészségi kérdésben soha ne halaszd és ne cseréld le a szakszerű ellátást.\n\n**A megkülönböztetés — te vagy a kapuőr.** A hagyomány maga is óva int: ne légy „rádió” vagy „gépíró”, amely mindent szó szerint továbbít. Amit egy ülésen észlelsz, azt **mérlegeld**, ne kövesd vakon:\n\n— **A vágy nem bizonyíték.** Amit nagyon szeretnél hallani, azt könnyen „hallod” is. A hízelgő, megnyugtató, pont-a-fájdalmadra-illő üzenet a leggyanúsabb.\n\n— **A jóslatot tedd félre.** Ha egy benyomás jövendőt mond — főleg dátumhoz kötött katasztrófát, „a világ jövő héten véget ér” fajtát —, **ne** rendezd át köré az életed, ne halmozz fel félelemből, ne fordulj a szeretteid ellen. A félelemből fakadó jóslat a gyakorlat egyik legkárosabb terméke; hagyd elmúlni.\n\n— **Az emlékezet betölti a réseket.** Az elme szeret magyarázni és képet vetíteni. Egy találatra emlékszünk, tíz tévedést elfelejtünk. Tudd ezt, és maradj alázatos.\n\n**A tiszteletlenség és a visszaélés kerülése — a kerítés.** Ez a gyakorlat **önmagadra irányul**: a saját gyászodra, a saját emlékezésedre. Ezért néhány dolgot **nem** teszünk, és ez a modul sem tanít:\n\n— **Nem** ígér, és nem is céloz „üzenetet” egy megnevezett halottól más ember számára — se bizonyítékként, se vigaszárként, se pénzért. Egy gyászolónak „a halottja szavát” eladni a legsúlyosabb visszaélés; ez a hagyomány védelmét fordítja fegyverré a legsebezhetőbb ember ellen.\n\n— **Nem** szolgál eltűnt emberek, holttestek vagy bűnügyi áldozatok „felkutatására”, és nem küld „koordinátákat” családoknak vagy hatóságoknak. Ez hamis reményt, félrevezetést és valódi kárt okoz.\n\n— **Nem** olvas és nem „céloz meg” megnevezett, beleegyezését nem adó másik embert. A gyakorlat önirányú; tiszteld mindenki szabad akaratát — ez Bardon etikájának is a magja.\n\n— **Nem** használ pszi-t nyereségért: se szerencsejátékért, se tőzsdéért, se „pénzt-csinálok-a-megérzésből” ígéretért. A becsületes gyakorlat gyümölcse belső, nem anyagi.\n\n— **Nem** táplál végítélet-hangulatot, dátum-jóslatot, félelemből való felhalmozást vagy a szomszéd iránti bizalmatlanságot.\n\n**A kereső szabálya:** *a szeretet gyengéd, szabaddá tesz és a jelenbe hoz vissza; a félelem szorongat, rögeszmét szül és eltávolít a valóságtól.* Ha egy benyomás félelmet, engedelmességet vagy elszigetelődést követel — az a jele, hogy le kell zárnod az ülést, és emberi, hétköznapi támaszhoz fordulnod.",
-        "en": "This is the module's most important lesson. Far more important than the gentle practice is that you remain **safe** and **clear**. Read it carefully, even if you skip the rest.\n\n**Safety first — nothing overrides this.** If you ever hear **commanding voices** telling you to harm yourself or another; if you feel an urge to hurt yourself or anyone; if the impressions become frightening, uncontrollable, detach you from reality, or you cannot tell them apart from reality — **this is not a matter of spiritual practice but a medical emergency.** Stop at once and **turn to a professional**: call a doctor, emergency services, or your local crisis line. This is not weakness and not failure — it is the right, brave step. No tradition, no „spirit”, no teacher may come before the protection of your life and your soundness.\n\n(Important: old esoteric texts often explain psychological symptoms as „the call of the dead” and urge you „not to admit” them but to „see it through”. We **firmly reject** that advice here. Persistent anxiety, hallucination, detachment from reality, thoughts of suicide or of endangering others require **medical attention** — never more practice.)\n\n**This is not a substitute for grief care.** If the loss is unbearable, if the pain does not ease after months, if you cannot function — human support is the right path: a grief group, a therapist, a physician, a community. This module can be a quiet companion **alongside care**, but never in its place. And this is in no way medical advice: in any health matter, never delay or replace professional care.\n\n**Discernment — you are the gatekeeper.** The tradition itself warns: do not be a „radio” or a „typist” that relays everything literally. Whatever you notice in a sitting, **weigh** it, do not follow it blindly:\n\n— **Desire is not proof.** What you long to hear, you easily „hear”. The flattering, soothing message that fits your pain exactly is the most suspect.\n\n— **Set prophecy aside.** If an impression foretells the future — especially a date-bound catastrophe, the „the world ends next week” kind — do **not** rearrange your life around it, do not stockpile from fear, do not turn against your loved ones. Prophecy born of fear is one of the practice's most harmful products; let it pass.\n\n— **Memory fills the gaps.** The mind loves to explain and to project an image. We remember one hit and forget ten misses. Know this, and stay humble.\n\n**Avoiding disrespect and abuse — the fence.** This practice is **turned toward yourself**: your own grief, your own remembrance. So there are things we do **not** do, and this module does not teach:\n\n— It does **not** promise or imply a „message” from a named dead person for someone else — not as proof, not as consolation, not for money. To sell a griever „their dead one's words” is the gravest abuse; it turns the tradition's shelter into a weapon against the most vulnerable person.\n\n— It does **not** serve the „locating” of missing people, bodies or crime victims, and sends no „coordinates” to families or authorities. This causes false hope, misdirection and real harm.\n\n— It does **not** read or „target” a named other person who has not consented. The practice is self-directed; honour everyone's free will — this too is the core of Bardon's ethics.\n\n— It does **not** use psi for gain: not for gambling, not for the markets, not for any „I make money from intuition” promise. The fruit of honest practice is inner, not material.\n\n— It does **not** feed a doomsday mood, date-prophecy, hoarding from fear, or distrust of one's neighbour.\n\n**The seeker's rule:** *love is gentle, sets free and returns you to the present; fear constricts, breeds obsession and pulls you from reality.* If an impression demands fear, obedience or isolation — that is the sign to close the sitting and turn to human, ordinary support."
+        "en": "This is the module's most important lesson. Far more important than the gentle practice is that you remain **safe** and **clear**. Read it carefully, even if you skip the rest.\n\n**Safety first — nothing overrides this.** If you ever hear **commanding voices** telling you to harm yourself or another; if you feel an urge to hurt yourself or anyone; if the impressions become frightening, uncontrollable, detach you from reality, or you cannot tell them apart from reality — **this is not a matter of spiritual practice but a medical emergency.** Stop at once and **turn to a professional**: call a doctor, emergency services, or your local crisis line. This is not weakness and not failure — it is the right, brave step. No tradition, no „spirit”, no teacher may come before the protection of your life and your soundness.\n\n(Important: old esoteric texts often explain psychological symptoms as „the call of the dead” and urge you „not to admit” them but to „see it through”. We **firmly reject** that advice here. Persistent anxiety, hallucination, detachment from reality, thoughts of suicide or of endangering others require **medical attention** — never more practice.)\n\n**This is not a substitute for grief care.** If the loss is unbearable, if the pain does not ease after months, if you cannot function — human support is the right path: a grief group, a therapist, a physician, a community. This module can be a quiet companion **alongside care**, but never in its place. And this is in no way medical advice: in any health matter, never delay or replace professional care.\n\n**Discernment — you are the gatekeeper.** The tradition itself warns: do not be a „radio” or a „typist” that relays everything literally. Whatever you notice in a sitting, **weigh** it, do not follow it blindly:\n\n— **Desire is not proof.** What you long to hear, you easily „hear”. The flattering, soothing message that fits your pain exactly is the most suspect.\n\n— **Set prophecy aside.** If an impression foretells the future — especially a date-bound catastrophe, the „the world ends next week” kind — do **not** rearrange your life around it, do not stockpile from fear, do not turn against your loved ones. Prophecy born of fear is one of the practice's most harmful products; let it pass.\n\n— **Memory fills the gaps.** The mind loves to explain and to project an image. We remember one hit and forget ten misses. Know this, and stay humble.\n\n**Avoiding disrespect and abuse — the fence.** This practice is **turned toward yourself**: your own grief, your own remembrance. So there are things we do **not** do, and this module does not teach:\n\n— It does **not** promise or imply a „message” from a named dead person for someone else — not as proof, not as consolation, not for money. To sell a griever „their dead one's words” is the gravest abuse; it turns the tradition's shelter into a weapon against the most vulnerable person.\n\n— It does **not** serve the „locating” of missing people, bodies or crime victims, and sends no „coordinates” to families or authorities. This causes false hope, misdirection and real harm.\n\n— It does **not** read or „target” a named other person who has not consented. The practice is self-directed; honour everyone's free will — this too is the core of Bardon's ethics.\n\n— It does **not** use psi for gain: not for gambling, not for the markets, not for any „I make money from intuition” promise. The fruit of honest practice is inner, not material.\n\n— It does **not** feed a doomsday mood, date-prophecy, hoarding from fear, or distrust of one's neighbour.\n\n**The seeker's rule:** *love is gentle, sets free and returns you to the present; fear constricts, breeds obsession and pulls you from reality.* If an impression demands fear, obedience or isolation — that is the sign to close the sitting and turn to human, ordinary support.",
+        "ro": "Aceasta este cea mai importantă lecție a modulului. Mult mai important decât practica blândă este să rămâi **în siguranță** și **limpede**. Citește-o cu atenție, chiar dacă sari peste restul.\n\n**Siguranța pe primul loc — nimic nu trece peste asta.** Dacă auzi vreodată **voci poruncitoare** care îți spun să te rănești pe tine sau pe altcineva; dacă simți impulsul de a te răni pe tine sau pe oricine; dacă impresiile devin înfricoșătoare, de necontrolat, te desprind de realitate sau nu le mai poți deosebi de realitate — **aceasta nu este o chestiune de practică spirituală, ci o urgență medicală.** Oprește-te imediat și **apelează la un profesionist**: sună un medic, serviciile de urgență sau linia locală de criză. Nu este slăbiciune și nu este eșec — este pasul corect, curajos. Nicio tradiție, niciun „spirit”, niciun învățător nu poate trece înaintea protejării vieții tale și a sănătății tale mintale.\n\n(Important: textele ezoterice vechi explică adesea simptomele psihologice ca pe „chemarea morților” și te îndeamnă „să nu le recunoști”, ci „să treci prin ele”. Noi **respingem ferm** acest sfat aici. Anxietatea persistentă, halucinația, desprinderea de realitate, gândurile de sinucidere sau de a pune pe alții în pericol cer **atenție medicală** — niciodată mai multă practică.)\n\n**Aceasta nu înlocuiește îngrijirea doliului.** Dacă pierderea este de nesuportat, dacă durerea nu se potolește după luni de zile, dacă nu poți funcționa — sprijinul omenesc este calea potrivită: un grup de doliu, un terapeut, un medic, o comunitate. Acest modul poate fi un companion liniștit **alături de îngrijire**, dar niciodată în locul ei. Și aceasta nu este în niciun fel sfat medical: în orice chestiune de sănătate, nu amâna și nu înlocui niciodată îngrijirea profesională.\n\n**Discernământul — tu ești paznicul porții.** Tradiția însăși te previne: nu fi un „radio” sau un „dactilograf” care transmite totul la literă. Orice observi într-o ședință, **cântărește**-l, nu-l urma orbește:\n\n— **Dorința nu este dovadă.** Ce tânjești să auzi, „auzi” cu ușurință. Mesajul măgulitor, liniștitor, care se potrivește exact cu durerea ta, este cel mai suspect.\n\n— **Pune profeția deoparte.** Dacă o impresie prevestește viitorul — mai ales o catastrofă legată de o dată, de genul „lumea se termină săptămâna viitoare” — **nu** îți rearanja viața în jurul ei, nu face stocuri din frică, nu te întoarce împotriva celor dragi. Profeția născută din frică este unul dintre cele mai dăunătoare produse ale practicii; las-o să treacă.\n\n— **Memoria umple golurile.** Mintea iubește să explice și să proiecteze o imagine. Ținem minte o nimerire și uităm zece rateuri. Știi asta și rămâi smerit.\n\n**Evitarea lipsei de respect și a abuzului — gardul.** Această practică este **îndreptată spre tine**: propriul tău doliu, propria ta amintire. Așa că sunt lucruri pe care **nu** le facem, și pe care acest modul nu le predă:\n\n— **Nu** promite și nu sugerează un „mesaj” de la o persoană moartă numită pentru altcineva — nici ca dovadă, nici ca mângâiere, nici pe bani. A vinde unui îndoliat „cuvintele mortului său” este cel mai grav abuz; transformă adăpostul tradiției într-o armă împotriva celei mai vulnerabile persoane.\n\n— **Nu** servește la „localizarea” persoanelor dispărute, a cadavrelor sau a victimelor infracțiunilor și nu trimite „coordonate” familiilor sau autorităților. Aceasta cauzează speranțe false, rătăciri și rău real.\n\n— **Nu** citește și nu „țintește” o altă persoană numită care nu și-a dat consimțământul. Practica este îndreptată spre sine; onorează liberul arbitru al fiecăruia — aceasta este și miezul eticii lui Bardon.\n\n— **Nu** folosește psi-ul pentru câștig: nici pentru jocuri de noroc, nici pentru piețe, nici pentru vreo promisiune de tip „fac bani din intuiție”. Rodul practicii sincere este lăuntric, nu material.\n\n— **Nu** hrănește o stare de apocalipsă, profeții cu date, acumulare din frică sau neîncredere față de aproapele.\n\n**Regula căutătorului:** *iubirea este blândă, eliberează și te întoarce în prezent; frica strânge, naște obsesie și te smulge din realitate.* Dacă o impresie cere frică, supunere sau izolare — acesta este semnul să închizi ședința și să te îndrepți spre sprijin omenesc, obișnuit."
       }
     },
     {
@@ -144,7 +164,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A biztonságos és becsületes gyakorlat",
-        "en": "The Safe and Honest Practice"
+        "en": "The Safe and Honest Practice",
+        "ro": "Practica sigură și cinstită"
       },
       "checklist": {
         "items": [
@@ -152,49 +173,56 @@
             "key": "med-c1",
             "nevek": {
               "hu": "Értem: a gyakorlat a hagyomány modellje, nem a holtak jelenlétének bizonyítéka",
-              "en": "I understand: the practice is the tradition's model, not proof the dead are present"
+              "en": "I understand: the practice is the tradition's model, not proof the dead are present",
+              "ro": "Înțeleg: practica este modelul tradiției, nu o dovadă că morții sunt prezenți"
             }
           },
           {
             "key": "med-c2",
             "nevek": {
               "hu": "A gyakorlatot a gyümölcse méri (figyelem, hála, béke), nem a „hatás”",
-              "en": "The practice is measured by its fruit (attention, gratitude, peace), not the „effect”"
+              "en": "The practice is measured by its fruit (attention, gratitude, peace), not the „effect”",
+              "ro": "Practica se măsoară după rodul ei (atenție, recunoștință, pace), nu după „efect”"
             }
           },
           {
             "key": "med-c3",
             "nevek": {
               "hu": "Van külön ideje és tere; a nyitást mindig lezárás követi, visszatérés a jelenbe",
-              "en": "It has its own time and space; the opening is always followed by a closing, a return to the present"
+              "en": "It has its own time and space; the opening is always followed by a closing, a return to the present",
+              "ro": "Are timpul și spațiul ei; deschiderea este întotdeauna urmată de o închidere, o întoarcere în prezent"
             }
           },
           {
             "key": "med-c4",
             "nevek": {
               "hu": "Amit észlelek, azt mérlegelem — nem követek szó szerint jóslatot vagy utasítást",
-              "en": "Whatever I notice, I weigh — I do not follow prophecy or instruction literally"
+              "en": "Whatever I notice, I weigh — I do not follow prophecy or instruction literally",
+              "ro": "Orice observ, cântăresc — nu urmez profeția sau instrucțiunea la literă"
             }
           },
           {
             "key": "med-c5",
             "nevek": {
               "hu": "A gyakorlat önmagamra irányul: nem célzok meg beleegyezés nélküli másik embert",
-              "en": "The practice is self-directed: I target no other person without consent"
+              "en": "The practice is self-directed: I target no other person without consent",
+              "ro": "Practica este îndreptată spre sine: nu țintesc nicio altă persoană fără consimțământ"
             }
           },
           {
             "key": "med-c6",
             "nevek": {
               "hu": "Tudom a vészhelyzet jelét: parancsoló hang vagy önmagam/mások bántásának késztetése → azonnal szakember",
-              "en": "I know the emergency sign: commanding voices or urges to harm self/others → a professional at once"
+              "en": "I know the emergency sign: commanding voices or urges to harm self/others → a professional at once",
+              "ro": "Cunosc semnul de urgență: voci poruncitoare sau impulsuri de a răni pe sine/pe alții → un profesionist imediat"
             }
           },
           {
             "key": "med-c7",
             "nevek": {
               "hu": "Tudom, hogy ez nem a gyász gondozásának pótléka, és nem orvosi tanács",
-              "en": "I know this is not a substitute for grief care, and not medical advice"
+              "en": "I know this is not a substitute for grief care, and not medical advice",
+              "ro": "Știu că aceasta nu înlocuiește îngrijirea doliului și nu este sfat medical"
             }
           }
         ]
@@ -205,7 +233,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "Az emlékezés és a megkülönböztetés jellemvonásai",
-        "en": "Traits of Remembrance and Discernment"
+        "en": "Traits of Remembrance and Discernment",
+        "ro": "Trăsături ale amintirii și discernământului"
       },
       "aspektusPack": [
         {
@@ -214,7 +243,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Vágyvezérelt hiszékenység",
-            "en": "Wishful credulity"
+            "en": "Wishful credulity",
+            "ro": "Credulitate născută din dorință"
           }
         },
         {
@@ -223,7 +253,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Mindenben jelet látni",
-            "en": "Seeing signs in everything"
+            "en": "Seeing signs in everything",
+            "ro": "A vedea semne în toate"
           }
         },
         {
@@ -232,7 +263,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Babonás rettegés",
-            "en": "Superstitious dread"
+            "en": "Superstitious dread",
+            "ro": "Spaimă superstițioasă"
           }
         },
         {
@@ -241,7 +273,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "A gyász megkerülése",
-            "en": "Bypassing grief"
+            "en": "Bypassing grief",
+            "ro": "Ocolirea doliului"
           }
         },
         {
@@ -250,7 +283,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Csendes jelenlét",
-            "en": "Quiet presence"
+            "en": "Quiet presence",
+            "ro": "Prezență liniștită"
           }
         },
         {
@@ -259,7 +293,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Megkülönböztető józanság",
-            "en": "Discerning clarity"
+            "en": "Discerning clarity",
+            "ro": "Claritate cu discernământ"
           }
         },
         {
@@ -268,7 +303,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Hálás emlékezés",
-            "en": "Grateful remembrance"
+            "en": "Grateful remembrance",
+            "ro": "Amintire recunoscătoare"
           }
         },
         {
@@ -277,7 +313,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Türelmes gyász",
-            "en": "Patient grieving"
+            "en": "Patient grieving",
+            "ro": "Doliu răbdător"
           }
         }
       ]
@@ -287,7 +324,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Az emlékezés és a megkülönböztetés naplója",
-        "en": "The Journal of Remembrance and Discernment"
+        "en": "The Journal of Remembrance and Discernment",
+        "ro": "Jurnalul amintirii și discernământului"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -295,7 +333,8 @@
         ],
         "prompts": {
           "hu": "ELCSENDESEDÉS — Milyen volt ma a csend és a figyelem minősége? ___\n\nBENYOMÁS — Milyen kép, szó, érzés vagy emlék támadt fel? (Írd le ítélet nélkül, ne magyarázd.) ___\n\nMEGKÜLÖNBÖZTETÉS — Vágyat, félelmet vagy jóslatot hordozott-e? Mit teszek félre belőle, és mit tartok meg gyengéden? ___\n\nGYÜMÖLCS — Nyugodtabb, hálásabb, szeretőbb lettem-e? ___\n\nBIZTONSÁG — Minden a béke és a jelen felé vitt? (Ha nem — kihez fordulok emberi támaszért?) ___",
-          "en": "STILLNESS — What was the quality of the silence and attention today? ___\n\nIMPRESSION — What image, word, feeling or memory rose? (Write it without judgment; do not explain it.) ___\n\nDISCERNMENT — Did it carry desire, fear or prophecy? What do I set aside, and what do I keep gently? ___\n\nFRUIT — Have I become calmer, more grateful, more loving? ___\n\nSAFETY — Did everything lead toward peace and the present? (If not — whom will I turn to for human support?) ___"
+          "en": "STILLNESS — What was the quality of the silence and attention today? ___\n\nIMPRESSION — What image, word, feeling or memory rose? (Write it without judgment; do not explain it.) ___\n\nDISCERNMENT — Did it carry desire, fear or prophecy? What do I set aside, and what do I keep gently? ___\n\nFRUIT — Have I become calmer, more grateful, more loving? ___\n\nSAFETY — Did everything lead toward peace and the present? (If not — whom will I turn to for human support?) ___",
+          "ro": "LINIȘTE — Care a fost calitatea tăcerii și a atenției azi? ___\n\nIMPRESIE — Ce imagine, cuvânt, sentiment sau amintire s-a ridicat? (Scrie-o fără judecată; nu o explica.) ___\n\nDISCERNĂMÂNT — A purtat dorință, frică sau profeție? Ce pun deoparte și ce păstrez blând? ___\n\nROD — Am devenit mai calm, mai recunoscător, mai iubitor? ___\n\nSIGURANȚĂ — A condus totul spre pace și prezent? (Dacă nu — la cine mă voi îndrepta pentru sprijin omenesc?) ___"
         }
       }
     },
@@ -304,7 +343,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Megkülönböztető önellenőrzés",
-        "en": "Discernment Self-Check"
+        "en": "Discernment Self-Check",
+        "ro": "Autoverificare a discernământului"
       },
       "quiz": {
         "passThreshold": 3,
@@ -313,7 +353,8 @@
             "id": "med-q1",
             "prompt": {
               "hu": "Mit állít ez a gyakorlat a holtakról?",
-              "en": "What does this practice claim about the dead?"
+              "en": "What does this practice claim about the dead?",
+              "ro": "Ce pretinde această practică despre morți?"
             },
             "options": {
               "hu": [
@@ -327,6 +368,12 @@
                 "It claims nothing as fact; it studies the tradition's inner model, measured by its fruit",
                 "It guarantees contact if you practise persistently enough",
                 "That the dead foretell the future, which must be followed"
+              ],
+              "ro": [
+                "Dovedește că morții sunt prezenți și trimit mesaje",
+                "Nu pretinde nimic ca fapt; studiază modelul lăuntric al tradiției, măsurat după rodul său",
+                "Garantează contactul dacă practici suficient de stăruitor",
+                "Că morții prevestesc viitorul, care trebuie urmat"
               ]
             },
             "correctIndex": 1
@@ -335,7 +382,8 @@
             "id": "med-q2",
             "prompt": {
               "hu": "Parancsoló hangokat hallasz, amelyek arra biztatnak, hogy árts magadnak. Mi a helyes lépés?",
-              "en": "You hear commanding voices urging you to harm yourself. What is the right step?"
+              "en": "You hear commanding voices urging you to harm yourself. What is the right step?",
+              "ro": "Auzi voci poruncitoare care te îndeamnă să te rănești. Care este pasul corect?"
             },
             "options": {
               "hu": [
@@ -349,6 +397,12 @@
                 "Do not admit it, lest you „become” it",
                 "Stop at once and turn to a professional — this is a medical emergency",
                 "Drive the voices out with a stronger invitation"
+              ],
+              "ro": [
+                "Du practica până la capăt, pentru că morții te pun la încercare",
+                "Nu o recunoaște, ca nu cumva să „devii” asta",
+                "Oprește-te imediat și apelează la un profesionist — aceasta este o urgență medicală",
+                "Alungă vocile cu o invitație mai puternică"
               ]
             },
             "correctIndex": 2
@@ -357,7 +411,8 @@
             "id": "med-q3",
             "prompt": {
               "hu": "Egy ülésen „üzenet” érkezik, amely dátumhoz kötött katasztrófát jósol. Mit teszel?",
-              "en": "In a sitting a „message” arrives foretelling a date-bound catastrophe. What do you do?"
+              "en": "In a sitting a „message” arrives foretelling a date-bound catastrophe. What do you do?",
+              "ro": "Într-o ședință sosește un „mesaj” care prevestește o catastrofă legată de o dată. Ce faci?"
             },
             "options": {
               "hu": [
@@ -371,6 +426,12 @@
                 "I warn my loved ones and grow distrustful of those around me",
                 "I set it aside: prophecy born of fear is a harmful product; I let it pass",
                 "I send the prophecy to the authorities"
+              ],
+              "ro": [
+                "Îmi rearanjez viața și fac provizii ca să mă pregătesc",
+                "Îi avertizez pe cei dragi și devin neîncrezător față de cei din jur",
+                "Îl pun deoparte: profeția născută din frică este un produs dăunător; o las să treacă",
+                "Trimit profeția autorităților"
               ]
             },
             "correctIndex": 2
@@ -379,7 +440,8 @@
             "id": "med-q4",
             "prompt": {
               "hu": "Egy gyászoló barát megkér, hogy „hozz üzenetet” a megnevezett halottjától. Mi a becsületes válasz?",
-              "en": "A grieving friend asks you to „bring a message” from their named dead. What is the honest response?"
+              "en": "A grieving friend asks you to „bring a message” from their named dead. What is the honest response?",
+              "ro": "Un prieten îndoliat te roagă să „aduci un mesaj” de la mortul său pe nume. Care este răspunsul onest?"
             },
             "options": {
               "hu": [
@@ -393,6 +455,12 @@
                 "I do not: the practice is self-directed, and to give a griever a „message” is a grave abuse — instead I offer human compassion and support",
                 "I take it on and assert firmly that the dead one is present",
                 "I foretell my friend's future too, to reassure them"
+              ],
+              "ro": [
+                "Accept contra cost, fiindcă aduce mângâiere",
+                "Nu o fac: practica este autodirijată, iar a da unui îndoliat un „mesaj” este un abuz grav — în schimb ofer compasiune omenească și sprijin",
+                "Accept și afirm cu tărie că mortul este prezent",
+                "Îi prevestesc și viitorul prietenului, ca să-l liniștesc"
               ]
             },
             "correctIndex": 1
@@ -405,11 +473,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare a responsabilității"
       },
       "text": {
         "hu": "*Tanulási segédlet a holtakkal való „beszéd” népi és ezoterikus hagyományainak közismert elemei nyomán — az elcsendesedés, az emlékezés-hely, a szánt idő, a meghívás és lezárás, a figyelmes hallgatás és a benyomások naplózása. A szöveg eredeti, saját szavakkal írt összefoglaló és értelmezés; nem szó szerinti idézet, és nem vesz át egyetlen forrás jellegzetes megfogalmazásait, metaforáit, anekdotáit vagy szövegeit sem.*\n\n*Becsületes keret: a modul nem állítja, hogy a holtak jelen vannak, hallanak vagy üzennek. A hagyomány belső gyakorlatát tanítja, amelynek mércéje nem a túlvilág bizonyítéka, hanem a belső gyümölcs: a figyelem, az intuíció, a hálás emlékezés és a lassú belső gyógyulás. Ígéretet semmilyen rendkívüli eredményre nem tesz.*\n\n*Fontos határok: ez a modul kizárja a forrás káros alkalmazásait — a nyereségvágyból való jóslást, eltűnt emberek vagy holttestek „felkutatását”, a végítélet- és dátum-jóslatot, valamint a beleegyezés nélküli, megnevezett másik ember „megcélzását”. A gyakorlat önmagadra irányul, és tiszteli mindenki szabad akaratát.*\n\n*Egészségügyi nyilatkozat: ez nem orvosi és nem pszichológiai tanács, és nem helyettesíti a gyász szakszerű gondozását. Parancsoló hangok, önmagad vagy mások bántásának késztetése, a valóságtól való tartós elszakadás egészségügyi vészhelyzet — azonnal fordulj orvoshoz, mentőhöz vagy krízisvonalhoz. Egészségi kérdésben soha ne halaszd és ne cseréld le a szakszerű ellátást.*",
-        "en": "*A study aid after the well-known elements of the folk and esoteric traditions of „speaking” with the dead — stillness, the place of remembrance, the appointed time, the invitation and closing, attentive listening, and the journaling of impressions. The text is an original summary and interpretation in its own words; it is not a verbatim quotation, and it borrows no source's characteristic phrasings, metaphors, anecdotes or scripts.*\n\n*An honest frame: the module does not claim that the dead are present, hear, or send messages. It teaches the tradition's inner practice, whose measure is not proof of an afterlife but the inner fruit: attention, intuition, grateful remembrance, and slow inner healing. It promises no extraordinary result.*\n\n*Firm boundaries: this module excludes the source's harmful applications — divination for gain, the „locating” of missing people or bodies, doomsday and date-prophecy, and the „targeting” of a named other person without consent. The practice is self-directed and honours everyone's free will.*\n\n*Health disclaimer: this is not medical or psychological advice, and it is not a substitute for professional grief care. Commanding voices, urges to harm yourself or others, or persistent detachment from reality are a medical emergency — turn at once to a physician, emergency services, or a crisis line. In any health matter, never delay or replace professional care.*"
+        "en": "*A study aid after the well-known elements of the folk and esoteric traditions of „speaking” with the dead — stillness, the place of remembrance, the appointed time, the invitation and closing, attentive listening, and the journaling of impressions. The text is an original summary and interpretation in its own words; it is not a verbatim quotation, and it borrows no source's characteristic phrasings, metaphors, anecdotes or scripts.*\n\n*An honest frame: the module does not claim that the dead are present, hear, or send messages. It teaches the tradition's inner practice, whose measure is not proof of an afterlife but the inner fruit: attention, intuition, grateful remembrance, and slow inner healing. It promises no extraordinary result.*\n\n*Firm boundaries: this module excludes the source's harmful applications — divination for gain, the „locating” of missing people or bodies, doomsday and date-prophecy, and the „targeting” of a named other person without consent. The practice is self-directed and honours everyone's free will.*\n\n*Health disclaimer: this is not medical or psychological advice, and it is not a substitute for professional grief care. Commanding voices, urges to harm yourself or others, or persistent detachment from reality are a medical emergency — turn at once to a physician, emergency services, or a crisis line. In any health matter, never delay or replace professional care.*",
+        "ro": "*Un auxiliar de studiu după elementele bine-cunoscute ale tradițiilor populare și ezoterice de „vorbire” cu morții — liniștea, locul de pomenire, ceasul rânduit, invitația și încheierea, ascultarea atentă și notarea impresiilor. Textul este un rezumat și o interpretare originală, în cuvinte proprii; nu este un citat textual și nu împrumută formulările caracteristice, metaforele, anecdotele sau scenariile niciunei surse.*\n\n*Un cadru onest: modulul nu pretinde că morții sunt prezenți, aud sau trimit mesaje. Predă practica interioară a tradiției, a cărei măsură nu este dovada unei vieți de apoi, ci rodul lăuntric: atenția, intuiția, pomenirea recunoscătoare și vindecarea interioară lentă. Nu promite niciun rezultat extraordinar.*\n\n*Limite ferme: acest modul exclude aplicațiile dăunătoare ale sursei — divinația pe bani, „localizarea” persoanelor sau trupurilor dispărute, profețiile de apocalipsă și pe dată, și „țintirea” unei alte persoane pe nume fără consimțământ. Practica este autodirijată și onorează liberul arbitru al fiecăruia.*\n\n*Avertisment de sănătate: acesta nu este sfat medical sau psihologic și nu înlocuiește îngrijirea profesională a doliului. Vocile care poruncesc, impulsurile de a-ți face rău ție sau altora, ori desprinderea persistentă de realitate sunt o urgență medicală — apelează de îndată la un medic, la serviciile de urgență sau la o linie de criză. În orice chestiune de sănătate, nu amâna și nu înlocui niciodată îngrijirea profesională.*"
       }
     }
   ]

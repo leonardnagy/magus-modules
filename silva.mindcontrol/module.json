@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "José Silva — Agykontroll: az alfa-szint iskolája",
-    "en": "José Silva — Mind Control: the School of the Alpha Level"
+    "en": "José Silva — Mind Control: the School of the Alpha Level",
+    "ro": "José Silva — Mind Control: Școala Nivelului Alfa"
   },
   "description": {
     "hu": "José Silva módszerének naplóbarát iskolája: alfa-szintű ellazulás, belső képernyő, hármujj-technika, gyorstanulás, álom-munka és szokásformálás – saját megfogalmazásban, őszinte kerettel és józan határokkal. Nem orvosi módszer; kizárólag önmagadon végzett munka.",
-    "en": "A diary-friendly school of José Silva's method: alpha-level relaxation, the inner screen, the three-fingers anchor, accelerated learning, dream work and habit shaping – retold in our own words, honestly framed and firmly fenced. Not a medical method; self-directed work only."
+    "en": "A diary-friendly school of José Silva's method: alpha-level relaxation, the inner screen, the three-fingers anchor, accelerated learning, dream work and habit shaping – retold in our own words, honestly framed and firmly fenced. Not a medical method; self-directed work only.",
+    "ro": "O școală prietenoasă cu jurnalul a metodei lui José Silva: relaxare la nivel alfa, ecranul interior, ancora celor trei degete, învățare accelerată, lucrul cu visele și modelarea obiceiurilor – redată în cuvintele noastre, încadrată onest și delimitată ferm. Nu este o metodă medicală; doar lucru autodirijat."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/silva.mindcontrol/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezetés – ki volt José Silva?",
-        "en": "Introduction – who was José Silva?"
+        "en": "Introduction – who was José Silva?",
+        "ro": "Introducere – cine a fost José Silva?"
       },
       "text": {
         "hu": "„Nem, nem én. Te tetted, a te agyad.” — José Silva\n\nJosé Silva (1914–1999) a texasi Laredóban élő, önerőből tanult rádió- és elektroműszerész volt. Az 1940-es évek közepétől azt kutatta, hogyan javítható a figyelem, a tanulás és az emlékezet ellazult, befelé forduló tudatállapotokban. Több évtizedes kísérletezés után 1966-ban tartotta első nyilvános tanfolyamát, és módszere – az *Agykontroll* – világszerte elterjedt.\n\nA módszer magja egyszerű és gyakorolható: **ellazult, mégis éber belső állapotba** – a hagyomány szavával *alfa-szintre* – tanulunk meg akaratlagosan belépni, és ott fegyelmezett képzeleti munkát végezni: képet vetíteni, felidézni, átformálni. Erre épülnek az alkalmazások: emlékezetjavítás, gyorstanulás, álom-munka, szokásformálás.\n\nA Silva-hagyomány szerint az alfa-szinten kinyílik a belső érzékelés: a megérzés előre jelzi az eseményeket, a tudat elér távoli helyekre és emberekhez, és a test magától fordul a gyógyulásba. * Ebben a modulban ezeket **a hagyomány saját elbeszéléseként** kezeljük, nem bizonyított tényként. A munkát úgy mérjük, ahogy egy mágikus napló szelleméhez illik: a **belső gyümölcsökön** – nyugalom, összeszedettség, jobb alvás, szelídülő szokások –, nem pedig csodákon.\n\nBardon tanítványaként ismerős terepen jársz: a lépcsőzetes koncentráció, az érzékletes képzeletmunka és az önmegfigyelés itt is a gerinc. Tekintsd ezt a modult kiegészítő iskolának az elmecsend és a képalkotás gyakorlásához – *saját magadon, saját felelősségedre, józan ésszel*.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "„No, not me. You did it – your own brain.” — José Silva (translated)\n\nJosé Silva (1914–1999) was a self-taught radio and electronics repairman from Laredo, Texas. From the mid-1940s onward he explored how attention, learning and memory might improve in relaxed, inward-turned states of mind. After decades of experimenting he held his first public course in 1966, and his method – *Mind Control* – spread around the world.\n\nThe core of the method is simple and trainable: we learn to enter, at will, a **relaxed yet alert inner state** – in the tradition's language, the *alpha level* – and to do disciplined imaginative work there: projecting, recalling and reshaping images. The applications are built on this: memory improvement, accelerated learning, dream work, habit shaping.\n\nThe Silva tradition holds that at the alpha level the inner senses open: intuition foretells events before they arrive, the mind reaches out to distant places and people, and the body turns of its own accord toward healing. * In this module we treat these as **the tradition's own narrative**, not as established fact. We measure the work the way a magical diary should: by its **inner fruits** – calm, collectedness, better sleep, gentler habits – never by miracles.\n\nAs a student of Bardon you are on familiar ground: stepwise concentration, sensory imagination and self-observation form the backbone here too. Take this module as a supplementary school for stillness of mind and image-building – *on yourself, at your own responsibility, with sober judgement*.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "„No, not me. You did it – your own brain.” — José Silva (translated)\n\nJosé Silva (1914–1999) was a self-taught radio and electronics repairman from Laredo, Texas. From the mid-1940s onward he explored how attention, learning and memory might improve in relaxed, inward-turned states of mind. After decades of experimenting he held his first public course in 1966, and his method – *Mind Control* – spread around the world.\n\nThe core of the method is simple and trainable: we learn to enter, at will, a **relaxed yet alert inner state** – in the tradition's language, the *alpha level* – and to do disciplined imaginative work there: projecting, recalling and reshaping images. The applications are built on this: memory improvement, accelerated learning, dream work, habit shaping.\n\nThe Silva tradition holds that at the alpha level the inner senses open: intuition foretells events before they arrive, the mind reaches out to distant places and people, and the body turns of its own accord toward healing. * In this module we treat these as **the tradition's own narrative**, not as established fact. We measure the work the way a magical diary should: by its **inner fruits** – calm, collectedness, better sleep, gentler habits – never by miracles.\n\nAs a student of Bardon you are on familiar ground: stepwise concentration, sensory imagination and self-observation form the backbone here too. Take this module as a supplementary school for stillness of mind and image-building – *on yourself, at your own responsibility, with sober judgement*.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "„Nu, nu eu. Tu ai făcut-o – propriul tău creier.” — José Silva (tradus)\n\nJosé Silva (1914–1999) a fost un reparator autodidact de radio și electronică din Laredo, Texas. Din mijlocul anilor 1940 încolo a explorat cum atenția, învățarea și memoria s-ar putea îmbunătăți în stări de minte relaxate, întoarse spre interior. După decenii de experimentare a ținut primul său curs public în 1966, iar metoda sa – *Mind Control* – s-a răspândit în toată lumea.\n\nNucleul metodei este simplu și antrenabil: învățăm să intrăm, după voie, într-o **stare interioară relaxată, dar trează** – în limbajul tradiției, *nivelul alfa* – și să facem acolo o muncă imaginativă disciplinată: proiectarea, rechemarea și remodelarea imaginilor. Aplicațiile se clădesc pe aceasta: îmbunătățirea memoriei, învățarea accelerată, lucrul cu visele, modelarea obiceiurilor.\n\nTradiția Silva susține că la nivelul alfa simțurile interioare se deschid: intuiția prevestește evenimentele înainte să sosească, mintea se întinde spre locuri și oameni îndepărtați, iar corpul se orientează de la sine spre vindecare. * În acest modul le tratăm ca pe **narațiunea proprie a tradiției**, nu ca pe fapte stabilite. Măsurăm lucrul așa cum se cuvine unui jurnal magic: după **roadele lui lăuntrice** – calm, reculegere, somn mai bun, obiceiuri mai blânde – niciodată după minuni.\n\nCa elev al lui Bardon ești pe teren cunoscut: concentrarea treptată, imaginația senzorială și auto-observarea formează și aici coloana vertebrală. Ia acest modul ca pe o școală suplimentară pentru liniștea minții și construirea imaginilor – *asupra ta, pe propria răspundere, cu judecată trează*.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az alfa-szint modellje – őszinte keretben",
-        "en": "The alpha-level model – honestly framed"
+        "en": "The alpha-level model – honestly framed",
+        "ro": "Modelul nivelului alfa – încadrat onest"
       },
       "text": {
         "hu": "A Silva-módszer nyelvezete az agyhullám-kutatás korai korszakából származik. A hagyomány négy sávról beszél: *béta* – hétköznapi, kifelé forduló éberség; *alfa* – ellazult, befelé forduló éberség; *théta* – mély ellazulás, félálom; *delta* – mély alvás. A tanítás szerint az alfa-állapotban a képzelet szinte kézzelfoghatóvá elevenedik, a rég elveszettnek hitt emlék magától a felszínre tör, és a kimondott szó parancsként rendezi át a testet és a szokásokat. *\n\nMit kezdjünk ezzel? Hogy az ellazult, befelé forduló állapotok léteznek, és bennük másképp dolgozik a figyelem – ezt a saját tapasztalatod gyorsan visszaigazolja. A hagyomány szerint ez az állapot **érzékeken túli észlelést, távoli befolyást és a test gyógyulását** nyitja meg: a tudat átlát a falakon, ráérez mások állapotára, és a szó a távolba is elér. * Ezt a hagyomány *saját modelljeként* jegyezzük fel, és nem állítjuk tényként. A napló szempontjából ez nem is fontos: a gyakorlat értékét nem a magyarázat adja, hanem a gyümölcse.\n\n**A vágy–hit–elvárás hármasa.** A módszer szerint egy belső cél akkor dolgozik, ha valóban kívánod, hihetőnek tartod, és számítasz is rá. Ez lélektanilag értelmes: a hiteles, konkrét, elérhető cél irányítja a figyelmet és a viselkedést. Ne fordítsd mágikus ígéretté – fordítsd inkább arra, hogy céljaid *őszinték és reálisak* legyenek.\n\n**A kártétel kérdése.** A hagyomány úgy tartja, hogy ezen a szinten ártó szándékkal egyszerűen nem lehet dolgozni: a rossz akarat elakad, mielőtt hatna. * Szép gondolat – de az etika nem múlhat ezen. A mi szabályunk egyszerűbb és szigorúbb: **kizárólag önmagadon dolgozol**; mások befolyásolása, „kezelése” vagy diagnosztizálása nem tárgya ennek a modulnak.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The language of the Silva method comes from the early era of brainwave research. The tradition speaks of four bands: *beta* – ordinary, outward-facing wakefulness; *alpha* – relaxed, inward-facing wakefulness; *theta* – deep relaxation, the edge of sleep; *delta* – deep sleep. The teaching holds that at the alpha level imagination grows almost tangible, a memory long thought lost surges up on its own, and the spoken word reorders the body and its habits like a command. *\n\nHow should we hold this? That relaxed, inward-turned states exist, and that attention works differently within them – your own experience will confirm this quickly. The tradition holds that this state opens **perception beyond the senses, influence at a distance, and the body's own healing**: the mind sees through walls, senses the condition of others, and the word reaches even into the distance. * This we record as *the tradition's own model*, never asserting it as fact. For the diary it hardly matters: the value of a practice lies not in its explanation but in its fruit.\n\n**The triad of desire–belief–expectancy.** The method says an inner goal works when you truly want it, find it believable, and actually expect it. Psychologically this makes sense: an honest, concrete, reachable goal steers attention and behaviour. Do not turn it into a magical promise – turn it into a reason to keep your goals *sincere and realistic*.\n\n**The question of harm.** The tradition holds that at this level harmful intent simply cannot operate: ill will stalls before it can act. * A beautiful thought – but ethics must not rest on it. Our rule is simpler and stricter: **you work on yourself alone**; influencing, „treating” or diagnosing others is no part of this module.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The language of the Silva method comes from the early era of brainwave research. The tradition speaks of four bands: *beta* – ordinary, outward-facing wakefulness; *alpha* – relaxed, inward-facing wakefulness; *theta* – deep relaxation, the edge of sleep; *delta* – deep sleep. The teaching holds that at the alpha level imagination grows almost tangible, a memory long thought lost surges up on its own, and the spoken word reorders the body and its habits like a command. *\n\nHow should we hold this? That relaxed, inward-turned states exist, and that attention works differently within them – your own experience will confirm this quickly. The tradition holds that this state opens **perception beyond the senses, influence at a distance, and the body's own healing**: the mind sees through walls, senses the condition of others, and the word reaches even into the distance. * This we record as *the tradition's own model*, never asserting it as fact. For the diary it hardly matters: the value of a practice lies not in its explanation but in its fruit.\n\n**The triad of desire–belief–expectancy.** The method says an inner goal works when you truly want it, find it believable, and actually expect it. Psychologically this makes sense: an honest, concrete, reachable goal steers attention and behaviour. Do not turn it into a magical promise – turn it into a reason to keep your goals *sincere and realistic*.\n\n**The question of harm.** The tradition holds that at this level harmful intent simply cannot operate: ill will stalls before it can act. * A beautiful thought – but ethics must not rest on it. Our rule is simpler and stricter: **you work on yourself alone**; influencing, „treating” or diagnosing others is no part of this module.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Limbajul metodei Silva vine din epoca timpurie a cercetării undelor cerebrale. Tradiția vorbește despre patru benzi: *beta* – starea de veghe obișnuită, orientată spre exterior; *alpha* – starea de veghe relaxată, orientată spre interior; *theta* – relaxare profundă, pragul somnului; *delta* – somn profund. Învățătura susține că la nivelul alfa imaginația devine aproape palpabilă, o amintire crezută de mult pierdută țâșnește de la sine, iar cuvântul rostit reordonează corpul și obiceiurile lui ca pe o comandă. *\n\nCum să ne raportăm la asta? Că stările relaxate, întoarse spre interior există, și că atenția lucrează altfel înăuntrul lor – propria ta experiență o va confirma repede. Tradiția susține că această stare deschide **percepția dincolo de simțuri, influența la distanță și propria vindecare a corpului**: mintea vede prin ziduri, simte starea altora, iar cuvântul ajunge chiar și în depărtare. * Pe acestea le consemnăm ca pe *modelul propriu al tradiției*, fără a le afirma ca fapte. Pentru jurnal aproape că nu contează: valoarea unei practici nu stă în explicația ei, ci în rodul ei.\n\n**Triada dorință–credință–așteptare.** Metoda spune că un țel interior funcționează când îl vrei cu adevărat, îl găsești credibil și chiar te aștepți la el. Psihologic are sens: un țel onest, concret, realizabil orientează atenția și comportamentul. Nu-l transforma într-o promisiune magică – transformă-l într-un motiv să-ți ții țelurile *sincere și realiste*.\n\n**Chestiunea vătămării.** Tradiția susține că la acest nivel intenția vătămătoare pur și simplu nu poate opera: reaua-voință se blochează înainte să poată acționa. * Un gând frumos – dar etica nu trebuie să se sprijine pe el. Regula noastră e mai simplă și mai strictă: **lucrezi numai asupra ta**; influențarea, „tratarea” sau diagnosticarea altora nu fac parte din acest modul.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az alapmódszer – belépés, kilépés, képernyő",
-        "en": "The core method – entering, leaving, the screen"
+        "en": "The core method – entering, leaving, the screen",
+        "ro": "Metoda de bază – intrarea, ieșirea, ecranul"
       },
       "text": {
         "hu": "**Reggeli belépés.** Ébredés után maradj fekve, csukd be a szemed, és fordítsd tekinteted kissé – nagyjából húsz fokkal – fölfelé a csukott szemhéj mögött. Lassan, nyugodt ütemben számolj visszafelé százról egyre, két-két másodpercet hagyva a számok között, figyelmedet a számoláson tartva. A hagyomány fokozatosságot javasol: körülbelül tíz reggelen át százról indulj, majd tíz-tíz reggelen át ötvenről, huszonötről, tízről, végül ötről. Ha elalszol közben, semmi baj – ezért érdemes néhány perccel későbbre ébresztőt állítani.\n\n**Kilépés – mindig ugyanúgy.** Számolj egytől ötig, és közben mondd magadnak saját szavaiddal, hogy a számolás végén nyitott szemmel, teljesen éberen, frissen térsz vissza. A mindig azonos kilépés rendet és biztonságot ad a gyakorlatnak.\n\n**Napközbeni belépés.** Ülj kényelmesen, talpad a padlón, fejed egyensúlyban. Járd végig a tested a lábfejtől a fejtetőig, és tudatosan engedd el a feszültséget. Válassz egy pontot a szemmagasság fölött, nézd, míg szemhéjad elnehezül, majd hunyd le, és számolj visszafelé – eleinte ötvenről, később tízről, végül ötről egyre. Napi két-három rövid, negyedórás ülés bőven elég.\n\n**A belső képernyő.** A szinten képzelj magad elé, mintegy két méterre, egy nagy vetítővásznat – ne töltse ki az egész belső látóteret. Vetíts rá egyetlen egyszerű tárgyat, például egy gyümölcsöt, és türelmesen tedd egyre elevenebbé: szín, forma, térbeliség, részletek. Ha elkalandozol, szelíden térj vissza. Ez az egyetlen képre irányuló, érzékletes munka minden későbbi alkalmazás alapja – közeli rokona a bardoni érzékkoncentrációnak. A hagyomány szokása szerint a jövő képei balról érkeznek a vászonra, a múltéi jobbra távoznak; vedd át, ha segít a rendben.",
-        "en": "**Morning entry.** After waking, stay lying down, close your eyes, and turn your gaze slightly upward – about twenty degrees – behind your closed lids. Slowly, at an unhurried pace, count backwards from one hundred to one, leaving about two seconds between numbers, keeping your attention on the counting. The tradition recommends gradual steps: begin from one hundred for roughly ten mornings, then ten mornings each from fifty, twenty-five, ten, and finally five. If you fall asleep, no harm done – which is why an alarm set a few minutes later is a good idea.\n\n**Leaving – always the same way.** Count from one to five, telling yourself in your own words that at the end of the count you will return with open eyes, fully awake and refreshed. Leaving the level the same way every time gives the practice order and safety.\n\n**Entering during the day.** Sit comfortably, feet flat on the floor, head balanced. Travel through your body from the feet to the crown, consciously releasing tension. Choose a point above eye level, gaze at it until your eyelids grow heavy, then let them close and count backwards – from fifty at first, later from ten, finally from five to one. Two or three short sittings of about a quarter hour a day are quite enough.\n\n**The inner screen.** At your level, imagine a large projection screen about two metres in front of you – it should not fill your whole inner field of view. Project a single simple object onto it, a fruit for instance, and patiently make it more and more alive: colour, form, depth, detail. When you drift, return gently. This vivid work on a single image is the foundation of every later application – a close cousin of Bardon's sense-concentration exercises. By the tradition's convention, images of the future arrive on the screen from the left and images of the past depart to the right; adopt this if the order helps you."
+        "en": "**Morning entry.** After waking, stay lying down, close your eyes, and turn your gaze slightly upward – about twenty degrees – behind your closed lids. Slowly, at an unhurried pace, count backwards from one hundred to one, leaving about two seconds between numbers, keeping your attention on the counting. The tradition recommends gradual steps: begin from one hundred for roughly ten mornings, then ten mornings each from fifty, twenty-five, ten, and finally five. If you fall asleep, no harm done – which is why an alarm set a few minutes later is a good idea.\n\n**Leaving – always the same way.** Count from one to five, telling yourself in your own words that at the end of the count you will return with open eyes, fully awake and refreshed. Leaving the level the same way every time gives the practice order and safety.\n\n**Entering during the day.** Sit comfortably, feet flat on the floor, head balanced. Travel through your body from the feet to the crown, consciously releasing tension. Choose a point above eye level, gaze at it until your eyelids grow heavy, then let them close and count backwards – from fifty at first, later from ten, finally from five to one. Two or three short sittings of about a quarter hour a day are quite enough.\n\n**The inner screen.** At your level, imagine a large projection screen about two metres in front of you – it should not fill your whole inner field of view. Project a single simple object onto it, a fruit for instance, and patiently make it more and more alive: colour, form, depth, detail. When you drift, return gently. This vivid work on a single image is the foundation of every later application – a close cousin of Bardon's sense-concentration exercises. By the tradition's convention, images of the future arrive on the screen from the left and images of the past depart to the right; adopt this if the order helps you.",
+        "ro": "**Intrarea de dimineață.** După trezire, rămâi întins, închide ochii și întoarce-ți privirea ușor în sus – cam douăzeci de grade – în spatele pleoapelor închise. Încet, într-un ritm nestresat, numără invers de la o sută la unu, lăsând cam două secunde între numere, ținându-ți atenția pe numărare. Tradiția recomandă pași treptați: începe de la o sută timp de aproximativ zece dimineți, apoi câte zece dimineți de la cincizeci, de la douăzeci și cinci, de la zece și în cele din urmă de la cinci. Dacă adormi, nu e nicio problemă – de aceea un deșteptător setat câteva minute mai târziu e o idee bună.\n\n**Ieșirea – întotdeauna la fel.** Numără de la unu la cinci, spunându-ți în propriile cuvinte că la sfârșitul numărătorii te vei întoarce cu ochii deschiși, pe deplin treaz și odihnit. Ieșirea din nivel în același fel de fiecare dată dă practicii ordine și siguranță.\n\n**Intrarea pe parcursul zilei.** Așază-te confortabil, tălpile pe podea, capul echilibrat. Parcurge-ți corpul de la picioare până la creștet, eliberând conștient tensiunea. Alege un punct deasupra nivelului ochilor, privește-l până când pleoapele ți se îngreunează, apoi lasă-le să se închidă și numără invers – la început de la cincizeci, mai târziu de la zece, în cele din urmă de la cinci la unu. Două sau trei ședințe scurte de cam un sfert de oră pe zi sunt destule.\n\n**Ecranul interior.** La nivelul tău, imaginează-ți un ecran mare de proiecție la cam doi metri în fața ta – nu trebuie să-ți umple tot câmpul interior de vedere. Proiectează pe el un singur obiect simplu, de pildă un fruct, și fă-l cu răbdare tot mai viu: culoare, formă, adâncime, detaliu. Când te rătăcești, revino blând. Această muncă vie pe o singură imagine este temelia fiecărei aplicații ulterioare – o rudă apropiată a exercițiilor de concentrare senzorială ale lui Bardon. După convenția tradiției, imaginile viitorului sosesc pe ecran din stânga, iar imaginile trecutului pleacă spre dreapta; adoptă asta dacă ordinea te ajută."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Alkalmazott technikák",
-        "en": "The applied techniques"
+        "en": "The applied techniques",
+        "ro": "Tehnicile aplicate"
       },
       "text": {
         "hu": "**Három ujj.** A szinten érintsd össze az egyik kezed hüvelyk-, mutató- és középső ujját, és mondd ki mindig azonos, saját szavaiddal, hogy ez a mozdulat – komoly okból – azonnal ebbe az összeszedett állapotba hoz. Ismételd naponta, körülbelül egy héten át. Ezután a mozdulat *horgonyként* szolgálhat: felidézés, vizsga vagy kísértés pillanatában egy mély lélegzettel és az ujjak összeérintésével hívhatod elő a nyugodt összpontosítást.\n\n**Gyorstanulás.** Olvasd fel hangosan a megtanulandó anyagot, és rögzítsd. Utána menj a szintedre, és ott hallgasd vissza, saját hangodra figyelve. Néhány nap múlva ismételd meg mindkét lépést. A hagyomány szerint az éber felolvasás és a szinten való ellazult visszahallgatás mélyen az emlékezetbe süllyeszti az anyagot, és a felidézés pillanatában a válasz magától a felszínre emelkedik. *\n\n**Emlékezet.** Ami „elfelejtődött”, legtöbbször csak nehezen hívható elő. A szinten idézd fel érzékletesen a helyzetet, amelyben az információt kaptad – hol voltál, mit láttál, hallottál –, és hagyd, hogy a keresett részlet magától felmerüljön. Az erőlködés gátol; az ellazult újraélés segít. A hagyomány számokhoz kötött képekkel, *emlékfogasokkal* is dolgozik: minden számhoz állandó képet társít, és az új elemet ehhez a képhez kapcsolja egy eleven, akár képtelen jelenetben.\n\n**Álom-munka.** Első lépés az emlékezés: elalvás előtt a szinten mondd ki, hogy emlékezni akarsz és fogsz az álmodra; papír és ceruza legyen az ágynál, és ébredéskor azonnal jegyezz. Amikor ez már megy, kérj álmot egy valódi, téged foglalkoztató kérdéshez: a hagyomány szerint az alfa-szinten föltett kérés választ hív elő, és a megoldás az álom képében mutatkozik meg. * Reggel írd le, majd *te magad* keresd a jelentését – a megfejtés joga az álmodóé. A hagyomány ismer egy egyszerű emlékeztető szertartást is: egy pohár víz felét elalvás előtt, másik felét ébredés után issza meg az ember, a kérdésre gondolva. Vedd emlékeztetőnek, ne varázsszernek.\n\n**A szavak ereje.** Figyeld meg, milyen mondatokkal írod le magad és a napod. Az állandó panasz-fordulatok hangulatot és viselkedést formálnak. A *gondolat-nagytakarítás*: az ilyen kifejezéseket tudatosan cseréld mértéktartó, jóindulatú megfogalmazásra – éber szinten és a gyakorlatban egyaránt.\n\n**Szokásformálás.** Az akarat ostroma helyett a képzelet vonzerejét használd. Előbb józanul, éber szinten elemezd a szokást és a változás valódi hasznát – táplálkozási vagy egészségi kérdésben kérd ki orvosod tanácsát. A szinten aztán lásd a képernyőn a mostani állapotot, engedd el, és balról úsztass be egy képet magadról, amint a cél már valóság – érzékletesen, minden érzékkel, reális léptékben. Dohányzásnál a hagyomány óránkénti, türelmes visszahódítást ajánl: egy-egy napszakot látsz magad előtt, amelyben már szabadon, cigaretta nélkül élsz. Kis lépések, napi ismétlés, türelem.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "**Three fingers.** At your level, touch together the thumb, index and middle finger of one hand and say – always in the same words of your own – that this gesture, made for a serious reason, brings you at once into this collected state. Repeat daily for about a week. From then on the gesture can serve as an *anchor*: at a moment of recall, an exam, or temptation, one deep breath and the joined fingers can help summon calm concentration.\n\n**Accelerated learning.** Read the material aloud and record it. Then go to your level and listen back, attending to your own voice. Repeat both steps a few days later. In the tradition, alert reading aloud and relaxed listening at your level sink the material deep into memory, so that at the moment of recall the answer rises to the surface on its own. *\n\n**Memory.** What seems „forgotten” is usually just hard to retrieve. At your level, vividly recreate the situation in which you received the information – where you were, what you saw and heard – and let the missing detail surface on its own. Straining blocks; relaxed re-living helps. The tradition also works with number-bound images, *memory pegs*: each number carries a fixed image, and the new item is linked to that image in a vivid, even absurd scene.\n\n**Dream work.** The first step is recall: before sleep, at your level, state that you want to and will remember your dream; keep paper and pencil by the bed and write immediately on waking. Once this works, ask for a dream about a real question that concerns you: in the tradition, a request set at the alpha level calls forth an answer, and the solution shows itself in the image of the dream. * Write it down in the morning and search for its meaning *yourself* – interpretation belongs to the dreamer. The tradition also knows a simple reminder ritual: drink half a glass of water before sleep and the other half on waking, holding the question in mind. Take it as a reminder, not a charm.\n\n**The power of words.** Notice the sentences you use about yourself and your day. Habitual complaint-phrases shape mood and behaviour. The *mental housecleaning*: consciously replace such turns of phrase with measured, kindly wording – in waking life and in practice alike.\n\n**Habit shaping.** Instead of the siege of willpower, use the pull of imagination. First analyse the habit soberly, at the waking level, along with the real benefit of changing it – on questions of diet or health, ask your doctor's advice. Then, at your level, see the present state on the screen, release it, and let an image glide in from the left showing yourself with the goal already real – vividly, with every sense, at a realistic scale. For smoking the tradition suggests a patient, hour-by-hour reclamation: you picture one part of the day at a time in which you already live freely, without a cigarette. Small steps, daily repetition, patience.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "**Three fingers.** At your level, touch together the thumb, index and middle finger of one hand and say – always in the same words of your own – that this gesture, made for a serious reason, brings you at once into this collected state. Repeat daily for about a week. From then on the gesture can serve as an *anchor*: at a moment of recall, an exam, or temptation, one deep breath and the joined fingers can help summon calm concentration.\n\n**Accelerated learning.** Read the material aloud and record it. Then go to your level and listen back, attending to your own voice. Repeat both steps a few days later. In the tradition, alert reading aloud and relaxed listening at your level sink the material deep into memory, so that at the moment of recall the answer rises to the surface on its own. *\n\n**Memory.** What seems „forgotten” is usually just hard to retrieve. At your level, vividly recreate the situation in which you received the information – where you were, what you saw and heard – and let the missing detail surface on its own. Straining blocks; relaxed re-living helps. The tradition also works with number-bound images, *memory pegs*: each number carries a fixed image, and the new item is linked to that image in a vivid, even absurd scene.\n\n**Dream work.** The first step is recall: before sleep, at your level, state that you want to and will remember your dream; keep paper and pencil by the bed and write immediately on waking. Once this works, ask for a dream about a real question that concerns you: in the tradition, a request set at the alpha level calls forth an answer, and the solution shows itself in the image of the dream. * Write it down in the morning and search for its meaning *yourself* – interpretation belongs to the dreamer. The tradition also knows a simple reminder ritual: drink half a glass of water before sleep and the other half on waking, holding the question in mind. Take it as a reminder, not a charm.\n\n**The power of words.** Notice the sentences you use about yourself and your day. Habitual complaint-phrases shape mood and behaviour. The *mental housecleaning*: consciously replace such turns of phrase with measured, kindly wording – in waking life and in practice alike.\n\n**Habit shaping.** Instead of the siege of willpower, use the pull of imagination. First analyse the habit soberly, at the waking level, along with the real benefit of changing it – on questions of diet or health, ask your doctor's advice. Then, at your level, see the present state on the screen, release it, and let an image glide in from the left showing yourself with the goal already real – vividly, with every sense, at a realistic scale. For smoking the tradition suggests a patient, hour-by-hour reclamation: you picture one part of the day at a time in which you already live freely, without a cigarette. Small steps, daily repetition, patience.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "**Trei degete.** La nivelul tău, unește degetul mare, arătătorul și degetul mijlociu ale unei mâini și spune – mereu cu aceleași cuvinte ale tale – că acest gest, făcut dintr-un motiv serios, te aduce deodată în această stare adunată. Repetă zilnic cam o săptămână. De atunci înainte gestul poate sluji ca *ancoră*: într-un moment de reamintire, la un examen sau la o ispită, o respirație adâncă și degetele unite te pot ajuta să chemi concentrarea calmă.\n\n**Învățare accelerată.** Citește materialul cu voce tare și înregistrează-l. Apoi coboară la nivelul tău și ascultă înregistrarea, fiind atent la propria voce. Repetă ambele trepte câteva zile mai târziu. În tradiție, citirea atentă cu voce tare și ascultarea relaxată la nivelul tău scufundă materialul adânc în memorie, astfel încât în momentul reamintirii răspunsul urcă la suprafață de la sine. *\n\n**Memoria.** Ceea ce pare „uitat” e de obicei doar greu de regăsit. La nivelul tău, recreează viu situația în care ai primit informația – unde erai, ce vedeai și auzeai – și lasă detaliul lipsă să iasă la suprafață de la sine. Încordarea blochează; retrăirea relaxată ajută. Tradiția lucrează și cu imagini legate de numere, *memory pegs*: fiecare număr poartă o imagine fixă, iar noul element e legat de acea imagine într-o scenă vie, chiar absurdă.\n\n**Lucrul cu visele.** Primul pas e reamintirea: înainte de somn, la nivelul tău, afirmă că vrei și vei să-ți amintești visul; ține hârtie și creion lângă pat și scrie imediat la trezire. Odată ce asta funcționează, cere un vis despre o întrebare reală care te preocupă: în tradiție, o cerere pusă la nivelul alfa cheamă un răspuns, iar soluția se arată în imaginea visului. * Notează-l dimineața și caută-i sensul *tu însuți* – interpretarea îi aparține celui care visează. Tradiția cunoaște și un ritual simplu de amintire: bea jumătate de pahar de apă înainte de somn și cealaltă jumătate la trezire, ținând întrebarea în minte. Ia-l ca pe un memento, nu ca pe o vrajă.\n\n**Puterea cuvintelor.** Observă propozițiile pe care le folosești despre tine și despre ziua ta. Frazele obișnuite de plângere modelează starea de spirit și comportamentul. *Curățenia mentală*: înlocuiește conștient astfel de formulări cu o exprimare măsurată, blândă – atât în viața de veghe, cât și în practică.\n\n**Modelarea obiceiurilor.** În locul asediului voinței, folosește atracția imaginației. Mai întâi analizează obiceiul cu luciditate, la nivelul de veghe, împreună cu beneficiul real al schimbării – la chestiuni de dietă sau sănătate, cere sfatul medicului. Apoi, la nivelul tău, vezi starea prezentă pe ecran, elibereaz-o și lasă să alunece din stânga o imagine care te arată pe tine cu țelul deja împlinit – viu, cu toate simțurile, la o scară realistă. Pentru fumat, tradiția sugerează o recuperare răbdătoare, oră cu oră: îți imaginezi pe rând câte o parte a zilei în care trăiești deja liber, fără țigară. Pași mici, repetiție zilnică, răbdare.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Józanság, határok, etika",
-        "en": "Discernment, limits, ethics"
+        "en": "Discernment, limits, ethics",
+        "ro": "Discernământ, limite, etică"
       },
       "text": {
         "hu": "**Nem orvoslás.** Ez a modul szemléleti és önnevelési gyakorlat, nem egészségügyi ellátás. Az ellazulás és a képzeleti munka jólesően hathat a közérzetre, de **nem diagnosztizál, nem gyógyít, és semmilyen orvosi vagy lélektani kezelést nem helyettesít**. Panasz, tünet vagy betegség esetén fordulj orvoshoz, és a szükséges ellátást soha ne halaszd el, ne szakítsd meg és ne váltsd ki gyakorlással. A Silva-hagyomány gyógyulástörténeteit tiszteld a hagyomány részeként – de ne tekintsd őket ígéretnek.\n\n**Ne diagnosztizálj – se magadnak, se másnak.** A hagyomány távoli „esetmunkáról”, mások állapotának belső szemléléséről is beszél. Ezt itt tudatosan elhagyjuk: mások egészségéről képzeleti úton véleményt alkotni felelőtlen, és kárt okozhat. **Kizárólag önmagadon dolgozol**; mások beleegyezés nélküli „programozása”, befolyásolása kizárt.\n\n**Rendkívüli állítások.** Megérzés-történetek, sorsdöntő álmok, érzéken túli észlelés – a hagyomány elbeszélései, nem bizonyított tények. Nem kell harcolnod velük: jegyezd fel, amit tapasztalsz, és maradj annál, ami ellenőrizhető. A mérce a naplódban van: *nyugodtabb vagy-e, jobban alszol-e, összeszedettebb-e a figyelmed, szelídültek-e a szokásaid?*\n\n**Mérték.** Napi két-három rövid ülés elegendő. Ha a gyakorlás szorongást, nyomasztó élményeket vagy a hétköznapoktól való elfordulást hozna, tarts szünetet, és beszélj hozzáértővel. A cél a világban állás – nem a menekülés belőle.",
-        "en": "**Not medicine.** This module is a practice of outlook and self-education, not healthcare. Relaxation and imaginative work can feel good and support wellbeing, but they **do not diagnose, do not cure, and do not replace any medical or psychological treatment**. If you have a complaint, a symptom or an illness, see a doctor – and never delay, interrupt or substitute needed care because of practice. Honour the healing stories of the Silva tradition as part of the tradition – but never read them as a promise.\n\n**Do not diagnose – neither yourself nor others.** The tradition also speaks of distant „case work”, of inwardly viewing another person's condition. Here we deliberately leave that aside: forming opinions about someone's health by imagination is irresponsible and can cause harm. **You work on yourself alone**; „programming” or influencing others without their consent is excluded.\n\n**Extraordinary claims.** Stories of intuition, fateful dreams, perception beyond the senses – these are the tradition's narratives, not established facts. You need not fight them: record what you experience and stay with what can be checked. The measure lives in your diary: *are you calmer, sleeping better, more collected in attention, gentler in your habits?*\n\n**Moderation.** Two or three short sittings a day are enough. If practice ever brings anxiety, oppressive experiences or a turning away from daily life, pause and speak with a qualified professional. The goal is to stand in the world – not to escape it."
+        "en": "**Not medicine.** This module is a practice of outlook and self-education, not healthcare. Relaxation and imaginative work can feel good and support wellbeing, but they **do not diagnose, do not cure, and do not replace any medical or psychological treatment**. If you have a complaint, a symptom or an illness, see a doctor – and never delay, interrupt or substitute needed care because of practice. Honour the healing stories of the Silva tradition as part of the tradition – but never read them as a promise.\n\n**Do not diagnose – neither yourself nor others.** The tradition also speaks of distant „case work”, of inwardly viewing another person's condition. Here we deliberately leave that aside: forming opinions about someone's health by imagination is irresponsible and can cause harm. **You work on yourself alone**; „programming” or influencing others without their consent is excluded.\n\n**Extraordinary claims.** Stories of intuition, fateful dreams, perception beyond the senses – these are the tradition's narratives, not established facts. You need not fight them: record what you experience and stay with what can be checked. The measure lives in your diary: *are you calmer, sleeping better, more collected in attention, gentler in your habits?*\n\n**Moderation.** Two or three short sittings a day are enough. If practice ever brings anxiety, oppressive experiences or a turning away from daily life, pause and speak with a qualified professional. The goal is to stand in the world – not to escape it.",
+        "ro": "**Nu e medicină.** Acest modul e o practică de privire și de autoeducație, nu de îngrijire a sănătății. Relaxarea și lucrul cu imaginația pot face bine și pot susține starea de bine, dar ele **nu diagnostichează, nu vindecă și nu înlocuiesc niciun tratament medical sau psihologic**. Dacă ai o plângere, un simptom sau o boală, vezi un medic – și nu amâna, nu întrerupe și nu înlocui niciodată îngrijirea necesară din pricina practicii. Onorează poveștile de vindecare ale tradiției Silva ca parte a tradiției – dar nu le citi niciodată ca pe o promisiune.\n\n**Nu diagnostica – nici pe tine, nici pe alții.** Tradiția vorbește și despre „lucrul pe cazuri” la distanță, despre privirea lăuntrică a stării altcuiva. Aici lăsăm asta deoparte în mod deliberat: a-ți forma păreri despre sănătatea cuiva prin imaginație e iresponsabil și poate face rău. **Lucrezi numai asupra ta**; „programarea” sau influențarea altora fără consimțământul lor e exclusă.\n\n**Afirmații extraordinare.** Poveștile despre intuiție, vise fatidice, percepție dincolo de simțuri – acestea sunt narațiunile tradiției, nu fapte stabilite. Nu e nevoie să le combati: notează ce trăiești și rămâi la ce se poate verifica. Măsura trăiește în jurnalul tău: *ești mai calm, dormi mai bine, ești mai adunat în atenție, mai blând în obiceiuri?*\n\n**Măsură.** Două sau trei ședințe scurte pe zi sunt de ajuns. Dacă practica aduce vreodată anxietate, experiențe apăsătoare sau o îndepărtare de viața de zi cu zi, oprește-te și vorbește cu un profesionist calificat. Țelul e să stai în lume – nu să fugi de ea."
       }
     },
     {
@@ -77,41 +89,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Reggeli alfa-gyakorlat – visszaszámlálás",
-        "en": "Morning alpha practice – the countdown"
+        "en": "Morning alpha practice – the countdown",
+        "ro": "Practica alfa de dimineață – numărătoarea inversă"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Ébredés után, fekve vagy ülve. Csukott szem, tekintet kissé fölfelé. Járd végig és lazítsd el a tested, majd számolj lassan visszafelé a szintednek megfelelő számtól (100, 50, 25, 10 vagy 5) egyre. Időzz el a csendben, tarts meg egyetlen egyszerű képet. A végén egytől ötig számolva, frissen és éberen térj vissza.",
-          "en": "After waking, lying or sitting. Eyes closed, gaze turned slightly upward. Travel through and relax the body, then count slowly backwards from the number of your current stage (100, 50, 25, 10 or 5) down to one. Rest in the stillness, holding a single simple image. At the end, count from one to five and return refreshed and fully awake."
+          "en": "After waking, lying or sitting. Eyes closed, gaze turned slightly upward. Travel through and relax the body, then count slowly backwards from the number of your current stage (100, 50, 25, 10 or 5) down to one. Rest in the stillness, holding a single simple image. At the end, count from one to five and return refreshed and fully awake.",
+          "ro": "După trezire, culcat sau așezat. Ochii închiși, privirea ușor în sus. Parcurge și relaxează corpul, apoi numără încet înapoi de la numărul etapei tale actuale (100, 50, 25, 10 sau 5) până la unu. Odihnește-te în liniște, ținând o singură imagine simplă. La final, numără de la unu la cinci și revino odihnit și pe deplin treaz."
         },
         "intervals": [
           {
             "atSecond": 60,
             "label": {
               "hu": "Test végigjárása, ellazítás",
-              "en": "Travel through the body, release tension"
+              "en": "Travel through the body, release tension",
+              "ro": "Parcurge corpul, eliberează tensiunea"
             }
           },
           {
             "atSecond": 150,
             "label": {
               "hu": "Kezdd a lassú visszaszámlálást",
-              "en": "Begin the slow countdown"
+              "en": "Begin the slow countdown",
+              "ro": "Începe numărătoarea inversă lentă"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Csendes időzés – egyetlen egyszerű kép",
-              "en": "Quiet resting – one simple image"
+              "en": "Quiet resting – one simple image",
+              "ro": "Odihnă liniștită – o singură imagine simplă"
             }
           },
           {
             "atSecond": 840,
             "label": {
               "hu": "Egytől ötig – éber visszatérés",
-              "en": "One to five – return fully awake"
+              "en": "One to five – return fully awake",
+              "ro": "De la unu la cinci – revino pe deplin treaz"
             }
           }
         ]
@@ -122,34 +140,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "A belső képernyő – egyetlen kép",
-        "en": "The mental screen – a single image"
+        "en": "The mental screen – a single image",
+        "ro": "Ecranul mental – o singură imagine"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Ülj kényelmesen, menj a szintedre a napközbeni módszerrel. Építsd fel magad előtt, mintegy két méterre, a nagy vetítővásznat, és vetíts rá egyetlen egyszerű tárgyat. Türelmesen mélyítsd: szín, forma, térbeliség, részlet. Ha elkalandozol, szelíden térj vissza a képhez. A végén egytől ötig számolva lépj ki.",
-          "en": "Sit comfortably and go to your level with the daytime method. Build the large projection screen about two metres in front of you and project a single simple object onto it. Deepen it patiently: colour, form, depth, detail. When you drift, return gently to the image. At the end, leave by counting from one to five."
+          "en": "Sit comfortably and go to your level with the daytime method. Build the large projection screen about two metres in front of you and project a single simple object onto it. Deepen it patiently: colour, form, depth, detail. When you drift, return gently to the image. At the end, leave by counting from one to five.",
+          "ro": "Așază-te confortabil și coboară la nivelul tău cu metoda de zi. Construiește ecranul mare de proiecție la aproximativ doi metri în fața ta și proiectează pe el un singur obiect simplu. Aprofundează-l cu răbdare: culoare, formă, adâncime, detaliu. Când te rătăcești, revino blând la imagine. La final, ieși numărând de la unu la cinci."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "A vászon áll – vetítsd ki a tárgyat",
-              "en": "The screen stands – project the object"
+              "en": "The screen stands – project the object",
+              "ro": "Ecranul stă – proiectează obiectul"
             }
           },
           {
             "atSecond": 330,
             "label": {
               "hu": "Mélyítés: szín, tér, részletek",
-              "en": "Deepen: colour, depth, detail"
+              "en": "Deepen: colour, depth, detail",
+              "ro": "Aprofundează: culoare, adâncime, detaliu"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Egytől ötig – kilépés",
-              "en": "One to five – leave the level"
+              "en": "One to five – leave the level",
+              "ro": "De la unu la cinci – părăsește nivelul"
             }
           }
         ]
@@ -160,34 +183,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Esti áttekintés és álom-előkészítés",
-        "en": "Evening review and dream preparation"
+        "en": "Evening review and dream preparation",
+        "ro": "Recapitularea de seară și pregătirea visului"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Lefekvés előtt, ülve vagy fekve menj a szintedre. Tekintsd át röviden a napot a képernyőn, ítélkezés nélkül. Zárd le egy saját szavaiddal megfogalmazott, mértéktartó, jóindulatú mondattal. Ha szeretnéd, mondd ki az álom-szándékot: emlékezni akarsz és fogsz az álmodra. Papír és ceruza legyen az ágynál. Innen átcsúszhatsz az alvásba, vagy egytől ötig számolva kiléphetsz.",
-          "en": "Before bed, sitting or lying down, go to your level. Briefly review the day on the screen, without judgement. Close with a measured, kindly sentence phrased in your own words. If you wish, state the dream intention: you want to and will remember your dream. Keep paper and pencil by the bed. From here you may drift into sleep, or leave by counting from one to five."
+          "en": "Before bed, sitting or lying down, go to your level. Briefly review the day on the screen, without judgement. Close with a measured, kindly sentence phrased in your own words. If you wish, state the dream intention: you want to and will remember your dream. Keep paper and pencil by the bed. From here you may drift into sleep, or leave by counting from one to five.",
+          "ro": "Înainte de culcare, așezat sau culcat, coboară la nivelul tău. Recapitulează pe scurt ziua pe ecran, fără judecată. Încheie cu o propoziție măsurată, blândă, formulată în cuvintele tale. Dacă vrei, afirmă intenția de vis: vrei și vei să-ți amintești visul. Ține hârtie și creion lângă pat. De aici poți aluneca în somn, sau poți ieși numărând de la unu la cinci."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "A nap képei – ítélkezés nélkül",
-              "en": "Images of the day – without judgement"
+              "en": "Images of the day – without judgement",
+              "ro": "Imaginile zilei – fără judecată"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Jóindulatú zárómondat",
-              "en": "A kindly closing sentence"
+              "en": "A kindly closing sentence",
+              "ro": "O propoziție de încheiere blândă"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Álom-szándék, majd lezárás",
-              "en": "Dream intention, then close"
+              "en": "Dream intention, then close",
+              "ro": "Intenție de vis, apoi închide"
             }
           }
         ]
@@ -198,7 +226,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "Napi gyakorlási lista",
-        "en": "Daily practice checklist"
+        "en": "Daily practice checklist",
+        "ro": "Listă de verificare a practicii zilnice"
       },
       "checklist": {
         "items": [
@@ -206,42 +235,48 @@
             "key": "c1",
             "nevek": {
               "hu": "Reggeli visszaszámlálás elvégezve",
-              "en": "Morning countdown completed"
+              "en": "Morning countdown completed",
+              "ro": "Numărătoarea inversă de dimineață completată"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Minden kilépés az egytől ötig számolással",
-              "en": "Every exit made with the one-to-five count"
+              "en": "Every exit made with the one-to-five count",
+              "ro": "Fiecare ieșire făcută cu numărătoarea de la unu la cinci"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Képernyő-gyakorlat: egy kép, érzékletesen",
-              "en": "Screen practice: one image, vividly"
+              "en": "Screen practice: one image, vividly",
+              "ro": "Practica ecranului: o imagine, în mod viu"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Önbeszéd figyelve – egy negatív fordulat lecserélve",
-              "en": "Self-talk watched – one negative phrase replaced"
+              "en": "Self-talk watched – one negative phrase replaced",
+              "ro": "Vorbirea cu sine urmărită – o frază negativă înlocuită"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Álomjegyzet reggel (papír az ágynál)",
-              "en": "Dream note in the morning (paper by the bed)"
+              "en": "Dream note in the morning (paper by the bed)",
+              "ro": "Notă de vis dimineața (hârtie lângă pat)"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Naplóbejegyzés a belső gyümölcsökről",
-              "en": "Journal entry on the inner fruits"
+              "en": "Journal entry on the inner fruits",
+              "ro": "Însemnare în jurnal despre roadele lăuntrice"
             }
           }
         ]
@@ -252,7 +287,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "Aspektusok – az alfa-iskola tükre",
-        "en": "Aspects – the mirror of the alpha school"
+        "en": "Aspects – the mirror of the alpha school",
+        "ro": "Aspecte – oglinda școlii alpha"
       },
       "aspektusPack": [
         {
@@ -261,7 +297,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Szétszórt figyelem – a kép nem áll meg a vásznon",
-            "en": "Scattered attention – the image will not stay on the screen"
+            "en": "Scattered attention – the image will not stay on the screen",
+            "ro": "Atenție risipită – imaginea nu va rămâne pe ecran"
           }
         },
         {
@@ -270,7 +307,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Türelmetlenség – azonnali eredményt követelsz a gyakorlástól",
-            "en": "Impatience – demanding instant results from practice"
+            "en": "Impatience – demanding instant results from practice",
+            "ro": "Nerăbdare – a pretinde rezultate imediate de la practică"
           }
         },
         {
@@ -279,7 +317,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Negatív önbeszéd – panasz-fordulatok, önleértékelés",
-            "en": "Negative self-talk – complaint-phrases, self-belittling"
+            "en": "Negative self-talk – complaint-phrases, self-belittling",
+            "ro": "Vorbire negativă cu sine – fraze de plângere, auto-înjosire"
           }
         },
         {
@@ -288,7 +327,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Hiszékenység – rendkívüli állítások ellenőrzés nélküli átvétele",
-            "en": "Credulity – adopting extraordinary claims without checking"
+            "en": "Credulity – adopting extraordinary claims without checking",
+            "ro": "Credulitate – a prelua pretenții extraordinare fără a verifica"
           }
         },
         {
@@ -297,7 +337,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Kitartás – a napi gyakorlás csendes hűsége",
-            "en": "Perseverance – the quiet fidelity of daily practice"
+            "en": "Perseverance – the quiet fidelity of daily practice",
+            "ro": "Perseverență – fidelitatea tăcută a practicii zilnice"
           }
         },
         {
@@ -306,7 +347,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Belső nyugalom – ellazult éberség a nap közepén is",
-            "en": "Inner calm – relaxed alertness even in the middle of the day"
+            "en": "Inner calm – relaxed alertness even in the middle of the day",
+            "ro": "Calm lăuntric – vigilență relaxată chiar și în mijlocul zilei"
           }
         },
         {
@@ -315,7 +357,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Eleven, fegyelmezett képzelet – a kép szolgál, nem sodor",
-            "en": "Vivid, disciplined imagination – the image serves, it does not sweep you away"
+            "en": "Vivid, disciplined imagination – the image serves, it does not sweep you away",
+            "ro": "Imaginație vie, disciplinată – imaginea slujește, nu te ia pe sus"
           }
         },
         {
@@ -324,7 +367,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Józan ítélőképesség – a gyümölcs mér, nem a csoda",
-            "en": "Sober discernment – the fruit is the measure, not the miracle"
+            "en": "Sober discernment – the fruit is the measure, not the miracle",
+            "ro": "Discernământ treaz – roada este măsura, nu miracolul"
           }
         }
       ]
@@ -334,7 +378,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Esti napló – gyakorlat és józanság",
-        "en": "Evening journal – practice and discernment"
+        "en": "Evening journal – practice and discernment",
+        "ro": "Jurnal de seară – practică și discernământ"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -342,7 +387,8 @@
         ],
         "prompts": {
           "hu": "Melyik gyakorlatot végezted ma, és milyen mélységig jutottál? Milyen belső gyümölcsöt észleltél – nyugalom, összeszedettség, alvás, szokások? Hol kellett ma józanul megítélned egy állítást vagy késztetést, és hogyan döntöttél? Mit készítesz elő estére – reálisnak és őszintének érzed-e a célt?",
-          "en": "Which practice did you do today, and how deep did you go? What inner fruit did you notice – calm, collectedness, sleep, habits? Where did you have to judge a claim or an urge soberly today, and how did you decide? What are you preparing for tonight – does the goal feel realistic and sincere?"
+          "en": "Which practice did you do today, and how deep did you go? What inner fruit did you notice – calm, collectedness, sleep, habits? Where did you have to judge a claim or an urge soberly today, and how did you decide? What are you preparing for tonight – does the goal feel realistic and sincere?",
+          "ro": "Ce practică ai făcut azi și cât de adânc ai mers? Ce roadă lăuntrică ai observat – calm, adunare, somn, obiceiuri? Unde a trebuit să judeci treaz o pretenție sau un impuls azi, și cum ai decis? Ce pregătești pentru noaptea asta – țelul ți se pare realist și sincer?"
         }
       }
     },
@@ -351,7 +397,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés – józanság és határok",
-        "en": "Self-check – discernment and limits"
+        "en": "Self-check – discernment and limits",
+        "ro": "Auto-verificare – discernământ și limite"
       },
       "quiz": {
         "passThreshold": 2,
@@ -360,7 +407,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mivel mérjük ennek a munkának az eredményét?",
-              "en": "By what do we measure the results of this work?"
+              "en": "By what do we measure the results of this work?",
+              "ro": "După ce măsurăm rezultatele acestei lucrări?"
             },
             "options": {
               "hu": [
@@ -374,6 +422,12 @@
                 "By inner fruits – calm, collectedness, better sleep, gentler habits",
                 "By whether I can „read” other people",
                 "By luck and winnings"
+              ],
+              "ro": [
+                "După experiențe extraordinare și intuiții",
+                "După roadele lăuntrice – calm, adunare, somn mai bun, obiceiuri mai blânde",
+                "După dacă pot „citi” alți oameni",
+                "După noroc și câștiguri"
               ]
             },
             "correctIndex": 1
@@ -382,7 +436,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Tünetet vagy panaszt észlelsz. Mi a helyes lépés?",
-              "en": "You notice a symptom or complaint. What is the right step?"
+              "en": "You notice a symptom or complaint. What is the right step?",
+              "ro": "Observi un simptom sau o plângere. Care este pasul potrivit?"
             },
             "options": {
               "hu": [
@@ -396,6 +451,12 @@
                 "I double my practice and drop the treatment",
                 "I see a doctor; practice neither replaces nor may delay care",
                 "I ask a practitioner to examine me from a distance"
+              ],
+              "ro": [
+                "Îl „reprogramez” la nivelul meu, fără medic",
+                "Îmi dublez practica și renunț la tratament",
+                "Merg la medic; practica nici nu înlocuiește, nici nu poate amâna îngrijirea",
+                "Cer unui practician să mă examineze de la distanță"
               ]
             },
             "correctIndex": 2
@@ -404,7 +465,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Egy ismerős megkér, hogy a szinteden „nézd meg” a betegségét. Mit teszel?",
-              "en": "An acquaintance asks you to „look at” their illness at your level. What do you do?"
+              "en": "An acquaintance asks you to „look at” their illness at your level. What do you do?",
+              "ro": "Un cunoscut te roagă să-i „privești” boala la nivelul tău. Ce faci?"
             },
             "options": {
               "hu": [
@@ -418,6 +480,12 @@
                 "Instead of diagnosing I direct them to a doctor; I examine no one by imagination",
                 "I only do it for close friends",
                 "I try it in secret and only report good news"
+              ],
+              "ro": [
+                "Accept dacă insistă",
+                "În loc să diagnostichez, îi îndrum spre un medic; nu examinez pe nimeni prin imaginație",
+                "O fac doar pentru prieteni apropiați",
+                "Încerc pe ascuns și raportez doar vești bune"
               ]
             },
             "correctIndex": 1
@@ -426,7 +494,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Hogyan kezeld a hagyomány rendkívüli történeteit – sorsdöntő álmok, távészlelés?",
-              "en": "How should you hold the tradition's extraordinary stories – fateful dreams, distant perception?"
+              "en": "How should you hold the tradition's extraordinary stories – fateful dreams, distant perception?",
+              "ro": "Cum ar trebui să privești poveștile extraordinare ale tradiției – vise fatidice, percepție la distanță?"
             },
             "options": {
               "hu": [
@@ -440,6 +509,12 @@
                 "As lies, which makes the whole method worthless",
                 "As the tradition's own narrative – with respect, but not taken as proven",
                 "As a challenge: I must produce the same myself"
+              ],
+              "ro": [
+                "Ca fapte dovedite, pentru că le-am citit într-o carte",
+                "Ca minciuni, ceea ce face întreaga metodă lipsită de valoare",
+                "Ca narațiunea proprie a tradiției – cu respect, dar nu luate ca dovedite",
+                "Ca pe o provocare: trebuie să produc eu însumi același lucru"
               ]
             },
             "correctIndex": 2

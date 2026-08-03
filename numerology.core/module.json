@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Numerológia — a számok tükre",
-    "en": "Numerology — the Mirror of Numbers"
+    "en": "Numerology — the Mirror of Numbers",
+    "ro": "Numerologie — Oglinda Numerelor"
   },
   "description": {
     "hu": "Pithagoraszi numerológia önreflexiós keretben: az életút-, a kifejezés- és a lélek-szám kiszámítása, a számjegyek hagyomány-minőségei, valamint a józan lencse a Barnum-hatás őszinte megnevezésével. A szám itt nem sors és nem jóslás, hanem lencse, amin át az életedre nézel — és a napló teszi a nézést munkává.",
-    "en": "Pythagorean numerology in a self-reflective frame: calculating the life path, expression and soul numbers, the digits' traditional qualities, and a sober lens that honestly names the Barnum effect. Here the number is neither fate nor divination but a lens through which you look at your life — and the journal turns the looking into work."
+    "en": "Pythagorean numerology in a self-reflective frame: calculating the life path, expression and soul numbers, the digits' traditional qualities, and a sober lens that honestly names the Barnum effect. Here the number is neither fate nor divination but a lens through which you look at your life — and the journal turns the looking into work.",
+    "ro": "Numerologia pitagoreică într-un cadru de auto-reflecție: calcularea numerelor căii vieții, expresiei și sufletului, calitățile tradiționale ale cifrelor și o lentilă sobră care numește onest efectul Barnum. Aici numărul nu este nici soartă, nici divinație, ci o lentilă prin care te uiți la viața ta — iar jurnalul transformă privirea în muncă."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/numerology.core/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a szám mint lencse",
-        "en": "Introduction — the Number as a Lens"
+        "en": "Introduction — the Number as a Lens",
+        "ro": "Introducere — Numărul ca Lentilă"
       },
       "text": {
         "hu": "Van egy szám, amit a születésed dátuma ad ki, és van kettő, amit a neved betűi. A numerológia hagyománya szerint ezek a számok jellem-minőségeket hordoznak * — mi ebben a modulban másképp fogjuk meg: a szám **lencse**, amin át az életedre nézel.\n\nA modul négy pillére:\n\n— **Három számítás** — életút-, kifejezés- és lélek-szám: pontos, követhető konvenciók.\n— **A hagyomány minőségei** — mit mond a hagyomány az 1-től 9-ig terjedő jegyekről és a mesterszámokról.\n— **A józan lencse** — a Barnum-hatás őszinte megnevezésével: miért ismersz magadra szinte bármelyik leírásban.\n— **A tükör-munka** — a naplós gyakorlat, amitől mindez önismereti munkává válik.\n\n**Vaskeret, már az elején:** a szám nem sors és nem jóslás. Nem mondja meg, ki vagy, és főleg nem mondja meg, mit tegyél. Az érték nem a számban van, hanem abban a gondolkodásban, amit a leírás rólad kivált — és a nem-stimmelő rész ugyanolyan informatív, mint a stimmelő.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "There is a number your birth date yields, and two more that come from the letters of your name. According to the tradition of numerology these numbers carry character qualities * — in this module we take a different hold: the number is a **lens** through which you look at your life.\n\nThe module's four pillars:\n\n— **Three calculations** — life path, expression and soul number: precise, followable conventions.\n— **The tradition's qualities** — what the tradition says about the digits 1 to 9 and the master numbers.\n— **The sober lens** — with the Barnum effect named honestly: why you recognize yourself in almost any description.\n— **The mirror work** — the journal practice that turns all of this into self-knowledge.\n\n**An iron frame, right from the start:** the number is not fate and not divination. It does not tell you who you are, and above all it does not tell you what to do. The value is not in the number but in the thinking the description provokes about you — and the part that does not fit is every bit as informative as the part that does.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "There is a number your birth date yields, and two more that come from the letters of your name. According to the tradition of numerology these numbers carry character qualities * — in this module we take a different hold: the number is a **lens** through which you look at your life.\n\nThe module's four pillars:\n\n— **Three calculations** — life path, expression and soul number: precise, followable conventions.\n— **The tradition's qualities** — what the tradition says about the digits 1 to 9 and the master numbers.\n— **The sober lens** — with the Barnum effect named honestly: why you recognize yourself in almost any description.\n— **The mirror work** — the journal practice that turns all of this into self-knowledge.\n\n**An iron frame, right from the start:** the number is not fate and not divination. It does not tell you who you are, and above all it does not tell you what to do. The value is not in the number but in the thinking the description provokes about you — and the part that does not fit is every bit as informative as the part that does.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Există un număr pe care ți-l dă data nașterii și încă două care vin din literele numelui tău. Potrivit tradiției numerologiei, aceste numere poartă calități de caracter * — în acest modul luăm o altă priză: numărul este o **lentilă** prin care te uiți la viața ta.\n\nCei patru stâlpi ai modulului:\n\n— **Trei calcule** — calea vieții, expresia și numărul sufletului: convenții precise, ușor de urmat.\n— **Calitățile tradiției** — ce spune tradiția despre cifrele de la 1 la 9 și despre numerele stăpâne.\n— **Lentila sobră** — cu efectul Barnum numit onest: de ce te recunoști în aproape orice descriere.\n— **Munca oglinzii** — practica de jurnal care transformă toate acestea în cunoaștere de sine.\n\n**Un cadru de fier, chiar de la început:** numărul nu este soartă și nu este divinație. Nu-ți spune cine ești și, mai ales, nu-ți spune ce să faci. Valoarea nu stă în număr, ci în gândirea pe care ți-o stârnește descrierea despre tine — iar partea care nu se potrivește este la fel de informativă ca partea care se potrivește.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Pithagoraszi gyökerek — a szám mint minőség",
-        "en": "Pythagorean Roots — the Number as Quality"
+        "en": "Pythagorean Roots — the Number as Quality",
+        "ro": "Rădăcini Pitagoreice — Numărul ca Calitate"
       },
       "text": {
         "hu": "A pithagoraszi iskola a számokat nem pusztán mennyiségeknek tekintette, hanem minőségeknek: a kettő a kettősség, a négy a rend elve *. Ez a szemlélet — a szám mint jelleg, nem csak mérték — az ókori hagyomány öröksége; angolul Thomas Taylor foglalta össze 1816-ban (*The Theoretic Arithmetic of the Pythagoreans*).\n\nA ma ismert numerológia ennél jóval fiatalabb: a 19–20. század fordulóján, főként Amerikában épült személyiség-rendszerré. L. Dow Balliett könyvei (az 1900-as évek eleje), Sepharial *The Kabala of Numbers*-e (1911) és Cheiro *Book of Numbers*-e (1926) formálták azzá, amit ma ismerünk: a születési dátum és a név betűi számokká alakíthatók, és e számok a hagyomány szerint jellem-minőségeket hordoznak *.\n\nKét réteget érdemes szétválasztani, és ebben a modulban végig szét is választjuk:\n\n— **A számítás konvenció.** Pontosan követhető szabály, mint egy játékszabály — ez a tény-réteg: mindenki ugyanarra az eredményre jut.\n— **A jelentés hagyomány.** Hogy a 4 „rendet\" jelent, azt nem a matematika mondja, hanem az átörökített elbeszélés *.\n\nA modul ereje éppen ebben a kettéválasztásban van: a számítást megtanulod tényként, a jelentést pedig tükörként használod — nem hittételként.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The Pythagorean school regarded numbers not merely as quantities but as qualities: two as the principle of duality, four as the principle of order *. This outlook — the number as character, not just measure — is the legacy of the ancient tradition; in English it was summarized by Thomas Taylor in 1816 (*The Theoretic Arithmetic of the Pythagoreans*).\n\nThe numerology we know today is far younger: it grew into a personality system around the turn of the 19th and 20th centuries, mostly in America. The books of L. Dow Balliett (early 1900s), Sepharial's *The Kabala of Numbers* (1911) and Cheiro's *Book of Numbers* (1926) shaped it into its present form: the birth date and the letters of the name can be converted into numbers, and according to the tradition these numbers carry character qualities *.\n\nTwo layers are worth separating, and in this module we keep them separate throughout:\n\n— **The calculation is a convention.** A precisely followable rule, like the rule of a game — this is the fact layer: everyone arrives at the same result.\n— **The meaning is tradition.** That 4 means 'order' is said not by mathematics but by the inherited narrative *.\n\nThe module's strength lies exactly in this separation: you learn the calculation as fact, and you use the meaning as a mirror — not as an article of faith.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The Pythagorean school regarded numbers not merely as quantities but as qualities: two as the principle of duality, four as the principle of order *. This outlook — the number as character, not just measure — is the legacy of the ancient tradition; in English it was summarized by Thomas Taylor in 1816 (*The Theoretic Arithmetic of the Pythagoreans*).\n\nThe numerology we know today is far younger: it grew into a personality system around the turn of the 19th and 20th centuries, mostly in America. The books of L. Dow Balliett (early 1900s), Sepharial's *The Kabala of Numbers* (1911) and Cheiro's *Book of Numbers* (1926) shaped it into its present form: the birth date and the letters of the name can be converted into numbers, and according to the tradition these numbers carry character qualities *.\n\nTwo layers are worth separating, and in this module we keep them separate throughout:\n\n— **The calculation is a convention.** A precisely followable rule, like the rule of a game — this is the fact layer: everyone arrives at the same result.\n— **The meaning is tradition.** That 4 means 'order' is said not by mathematics but by the inherited narrative *.\n\nThe module's strength lies exactly in this separation: you learn the calculation as fact, and you use the meaning as a mirror — not as an article of faith.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Școala pitagoreică privea numerele nu doar ca pe cantități, ci ca pe calități: doiul ca principiu al dualității, patru ca principiu al ordinii *. Această privire — numărul ca caracter, nu doar ca măsură — este moștenirea tradiției antice; în engleză a fost rezumată de Thomas Taylor în 1816 (*The Theoretic Arithmetic of the Pythagoreans*).\n\nNumerologia pe care o cunoaștem azi e mult mai tânără: s-a conturat ca sistem de personalitate pe la cumpăna secolelor 19 și 20, mai ales în America. Cărțile lui L. Dow Balliett (începutul anilor 1900), *The Kabala of Numbers* a lui Sepharial (1911) și *Book of Numbers* a lui Cheiro (1926) i-au dat forma de azi: data nașterii și literele numelui pot fi convertite în numere, iar potrivit tradiției aceste numere poartă calități de caracter *.\n\nMerită să separăm două straturi și în acest modul le ținem separate pe tot parcursul:\n\n— **Calculul este o convenție.** O regulă precis de urmat, ca regula unui joc — acesta e stratul de fapt: toată lumea ajunge la același rezultat.\n— **Sensul este tradiție.** Că 4 înseamnă «ordine» nu o spune matematica, ci narațiunea moștenită *.\n\nPuterea modulului stă tocmai în această separare: înveți calculul ca pe un fapt și folosești sensul ca pe o oglindă — nu ca pe un articol de credință.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az életút-szám",
-        "en": "The Life Path Number"
+        "en": "The Life Path Number",
+        "ro": "Numărul Căii Vieții"
       },
       "text": {
         "hu": "**A konvenció** (ez a tény-réteg): írd le a teljes születési dátumodat, add össze az összes számjegyét, majd redukáld egyjegyűre — vagyis add össze az eredmény számjegyeit, amíg egyetlen jegy marad.\n\n**Példa:** 1990. 07. 14. → 1+9+9+0+0+7+1+4 = 31 → 3+1 = **4**.\n\n**Mesterszámok:** ha a redukció közben 11 vagy 22 adódik ki (egyes ágakban a 33 is), a hagyomány nem redukálja tovább, hanem „mesterszámként\" külön minőségnek tekinti *.\n\n**Így csináld:**\n\n1. Számolj papíron, ne fejben — a cél a pontosság, nem a bravúr.\n2. Másnap számold újra frissen; csak az egyező eredményt tekintsd véglegesnek.\n3. Jegyezd fel a naplóba a számot — egyelőre jelentés nélkül, csak a tényt.\n\nA hagyomány az életút-számot a születéskor kapott alap-iránynak olvassa *. Mi ennél kevesebbet és többet mondunk: ez lesz az első lencséd — az első szűrő, amin át rendezetten rá tudsz nézni a saját mintáidra.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "**The convention** (this is the fact layer): write down your full birth date, add up all of its digits, then reduce to a single digit — that is, keep adding the digits of the result until one digit remains.\n\n**Example:** 1990-07-14 → 1+9+9+0+0+7+1+4 = 31 → 3+1 = **4**.\n\n**Master numbers:** if an 11 or a 22 turns up during the reduction (in some branches a 33 as well), the tradition does not reduce it further but treats it as a distinct 'master number' quality *.\n\n**How to do it:**\n\n1. Calculate on paper, not in your head — the goal is accuracy, not bravado.\n2. Recalculate the next day with fresh eyes; treat only a matching result as final.\n3. Record the number in the journal — for now without meaning, just the fact.\n\nThe tradition reads the life path number as the basic direction received at birth *. We say both less and more: this will be your first lens — the first filter through which you can look at your own patterns in an orderly way.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "**The convention** (this is the fact layer): write down your full birth date, add up all of its digits, then reduce to a single digit — that is, keep adding the digits of the result until one digit remains.\n\n**Example:** 1990-07-14 → 1+9+9+0+0+7+1+4 = 31 → 3+1 = **4**.\n\n**Master numbers:** if an 11 or a 22 turns up during the reduction (in some branches a 33 as well), the tradition does not reduce it further but treats it as a distinct 'master number' quality *.\n\n**How to do it:**\n\n1. Calculate on paper, not in your head — the goal is accuracy, not bravado.\n2. Recalculate the next day with fresh eyes; treat only a matching result as final.\n3. Record the number in the journal — for now without meaning, just the fact.\n\nThe tradition reads the life path number as the basic direction received at birth *. We say both less and more: this will be your first lens — the first filter through which you can look at your own patterns in an orderly way.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "**Convenția** (acesta e stratul de fapt): scrie data ta completă de naștere, adună toate cifrele ei, apoi reduce la o singură cifră — adică continuă să aduni cifrele rezultatului până rămâne una singură.\n\n**Exemplu:** 1990-07-14 → 1+9+9+0+0+7+1+4 = 31 → 3+1 = **4**.\n\n**Numere stăpâne:** dacă pe parcursul reducerii apare un 11 sau un 22 (în unele ramuri și un 33), tradiția nu-l mai reduce, ci îl tratează ca pe o calitate distinctă de «număr stăpân» *.\n\n**Cum să procedei:**\n\n1. Calculează pe hârtie, nu din cap — ținta e acuratețea, nu bravura.\n2. Recalculează a doua zi cu ochi proaspeți; tratează ca final doar un rezultat care se potrivește.\n3. Notează numărul în jurnal — deocamdată fără sens, doar faptul.\n\nTradiția citește numărul căii vieții ca pe direcția de bază primită la naștere *. Noi spunem și mai puțin, și mai mult: aceasta va fi prima ta lentilă — primul filtru prin care poți privi propriile tipare într-un mod ordonat.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A kifejezés-szám és a betű-tábla",
-        "en": "The Expression Number and the Letter Table"
+        "en": "The Expression Number and the Letter Table",
+        "ro": "Numărul Expresiei și Tabelul Literelor"
       },
       "text": {
         "hu": "**A pithagoraszi betű-tábla** (konvenció): a betűk 1-től 9-ig kapnak számot, majd a sor újraindul.\n\nA J S = 1 · B K T = 2 · C L U = 3 · D M V = 4 · E N W = 5 · F O X = 6 · G P Y = 7 · H Q Z = 8 · I R = 9\n\n**A számítás:** a teljes születési neved (ahogy az anyakönyvben áll) minden betűjéhez rendeld hozzá a számát, add össze mind, és redukáld egyjegyűre — a 11-et és a 22-t itt is jegyezd fel külön.\n\n**Gyakorlati konvenciónk:** az ékezetes betűt vedd az alapbetűjének (á → a, ő → o); az **y mindig mássalhangzó** (Károly, Györgyi nevében is); a magyar **kettős betűket az alkotó latin betűnként** számoljuk (gy = g+y, sz = s+z, cs = c+s, ny = n+y). Ez nem „az igazi\" szabály — ilyen nincs —, hanem a mi rögzített megállapodásunk, hogy mindig ugyanazt az eredményt kapd.\n\nA hagyomány a kifejezés-számot (más néven sors-számot) a kibontakozásra váró képességeid térképének olvassa *. És itt egy őszinte megjegyzés: a káldeus rendszer ugyanerre a névre más számot ad. Ezt nem eltitkolni kell, hanem megjegyezni — még találkozunk vele a józan lencsénél.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "**The Pythagorean letter table** (a convention): the letters receive numbers from 1 to 9, then the row starts over.\n\nA J S = 1 · B K T = 2 · C L U = 3 · D M V = 4 · E N W = 5 · F O X = 6 · G P Y = 7 · H Q Z = 8 · I R = 9\n\n**The calculation:** assign its number to every letter of your full birth name (as it stands on the birth record), add them all up, and reduce to a single digit — noting an 11 or a 22 separately here as well.\n\n**Our practical convention:** treat an accented letter as its base letter (á → a, ő → o); **y always counts as a consonant** (in names like Károly or Györgyi too); and count Hungarian **digraphs as their component Latin letters** (gy = g+y, sz = s+z, cs = c+s, ny = n+y). This is not 'the true' rule — there is no such thing — but our fixed agreement so that you always get the same result.\n\nThe tradition reads the expression number (also called the destiny number) as a map of the abilities waiting to unfold in you *. And here an honest remark: the Chaldean system assigns different numbers to the very same name. This is not something to hide but something to remember — we will meet it again at the sober lens.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "**The Pythagorean letter table** (a convention): the letters receive numbers from 1 to 9, then the row starts over.\n\nA J S = 1 · B K T = 2 · C L U = 3 · D M V = 4 · E N W = 5 · F O X = 6 · G P Y = 7 · H Q Z = 8 · I R = 9\n\n**The calculation:** assign its number to every letter of your full birth name (as it stands on the birth record), add them all up, and reduce to a single digit — noting an 11 or a 22 separately here as well.\n\n**Our practical convention:** treat an accented letter as its base letter (á → a, ő → o); **y always counts as a consonant** (in names like Károly or Györgyi too); and count Hungarian **digraphs as their component Latin letters** (gy = g+y, sz = s+z, cs = c+s, ny = n+y). This is not 'the true' rule — there is no such thing — but our fixed agreement so that you always get the same result.\n\nThe tradition reads the expression number (also called the destiny number) as a map of the abilities waiting to unfold in you *. And here an honest remark: the Chaldean system assigns different numbers to the very same name. This is not something to hide but something to remember — we will meet it again at the sober lens.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "**Tabelul pitagoreic al literelor** (o convenție): literele primesc numere de la 1 la 9, apoi rândul reîncepe.\n\nA J S = 1 · B K T = 2 · C L U = 3 · D M V = 4 · E N W = 5 · F O X = 6 · G P Y = 7 · H Q Z = 8 · I R = 9\n\n**Calculul:** atribuie numărul ei fiecărei litere din numele tău complet de naștere (așa cum stă pe actul de naștere), adună-le pe toate și reduce la o singură cifră — notând separat și aici un 11 sau un 22.\n\n**Convenția noastră practică:** tratează o literă cu diacritice ca pe litera de bază (á → a, ő → o); **y contează întotdeauna ca o consoană** (și în nume ca Károly sau Györgyi); și numără **digrafele maghiare ca literele lor latine componente** (gy = g+y, sz = s+z, cs = c+s, ny = n+y). Aceasta nu e «regula adevărată» — nu există așa ceva — ci acordul nostru fix, ca să obții mereu același rezultat.\n\nTradiția citește numărul expresiei (numit și numărul destinului) ca pe o hartă a abilităților care așteaptă să se desfășoare în tine *. Și aici o observație onestă: sistemul caldeean atribuie numere diferite aceluiași nume. Nu e ceva de ascuns, ci ceva de ținut minte — ne vom întâlni din nou cu asta la lentila sobră.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A lélek-szám — a magánhangzók",
-        "en": "The Soul Number — the Vowels"
+        "en": "The Soul Number — the Vowels",
+        "ro": "Numărul Sufletului — Vocalele"
       },
       "text": {
         "hu": "**Lélek-szám:** ugyanaz a betű-tábla, de csak a születési neved **magánhangzóit** számolod össze, és redukálod egyjegyűre. A hagyomány úgy olvassa: ez a legbelső mozgatód — az, amire a lelked szomjazik *.\n\n**Személyiség-szám (kiegészítés):** a **mássalhangzókból** ugyanígy — a hagyomány szerint az a réteg, amit a világ először lát belőled *.\n\n**Így csináld:**\n\n1. Vedd elő a betű-táblát és a teljes születési nevedet.\n2. Húzd alá a magánhangzókat, és csak azokat számold.\n3. Redukálj egyjegyűre, és jegyezd fel.\n4. Ha kedved tartja, számold ki a mássalhangzókból a személyiség-számot is.\n\nEzzel megvan a három számod: **életút, kifejezés, lélek**. A napló-kérdés innentől nem az, hogy „mit jelentenek\" — hanem hogy **mit hoznak ki belőled**: melyik leírásnál rezdülsz meg, melyiknél tiltakozol, és mindkettő mit árul el rólad.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "**Soul number:** the same letter table, but you add up only the **vowels** of your birth name and reduce to a single digit. The tradition reads it as your innermost motive — what your soul thirsts for *.\n\n**Personality number (a supplement):** the same done with the **consonants** — according to the tradition, the layer the world sees of you first *.\n\n**How to do it:**\n\n1. Take out the letter table and your full birth name.\n2. Underline the vowels and count only those.\n3. Reduce to a single digit and record it.\n4. If you feel like it, calculate the personality number from the consonants as well.\n\nWith this you have your three numbers: **life path, expression, soul**. From here on the journal question is not 'what do they mean' — but **what they draw out of you**: which description stirs you, which one you protest against, and what both reveal about you.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "**Soul number:** the same letter table, but you add up only the **vowels** of your birth name and reduce to a single digit. The tradition reads it as your innermost motive — what your soul thirsts for *.\n\n**Personality number (a supplement):** the same done with the **consonants** — according to the tradition, the layer the world sees of you first *.\n\n**How to do it:**\n\n1. Take out the letter table and your full birth name.\n2. Underline the vowels and count only those.\n3. Reduce to a single digit and record it.\n4. If you feel like it, calculate the personality number from the consonants as well.\n\nWith this you have your three numbers: **life path, expression, soul**. From here on the journal question is not 'what do they mean' — but **what they draw out of you**: which description stirs you, which one you protest against, and what both reveal about you.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "**Numărul sufletului:** aceeași tabelă de litere, dar aduni doar **vocalele** din numele tău de naștere și reduci la o singură cifră. Tradiția îl citește ca pe motivul tău cel mai lăuntric — ceea ce însetează sufletul tău *.\n\n**Numărul personalității (un supliment):** același lucru făcut cu **consoanele** — după tradiție, stratul pe care lumea îl vede mai întâi la tine *.\n\n**Cum se face:**\n\n1. Ia tabela de litere și numele tău complet de naștere.\n2. Subliniază vocalele și numără doar pe acelea.\n3. Redu la o singură cifră și noteaz-o.\n4. Dacă ai chef, calculează și numărul personalității din consoane.\n\nCu asta ai cele trei numere ale tale: **calea vieții, expresia, sufletul**. De aici înainte întrebarea din jurnal nu e „ce înseamnă” — ci **ce scot ele din tine**: care descriere te mișcă, pe care o respingi și ce dezvăluie amândouă despre tine.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -77,11 +89,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A számjegyek minőségei a hagyományban",
-        "en": "The Digits' Qualities in the Tradition"
+        "en": "The Digits' Qualities in the Tradition",
+        "ro": "Calitățile Cifrelor în Tradiție"
       },
       "text": {
         "hu": "A hagyomány minden jegyhez jellegzetes minőség-nyalábot társít *. Így szól a lista — végig a hagyomány saját nyelvén:\n\n— **1** — kezdet, önállóság, úttörés\n— **2** — együttműködés, befogadás, diplomácia\n— **3** — kifejezés, kreativitás, játék\n— **4** — rend, munka, megbízható alap\n— **5** — változás, szabadság, mozgás\n— **6** — gondoskodás, harmónia, felelősség\n— **7** — elemzés, befelé fordulás, kutató szellem\n— **8** — erő, szervezés, anyagi megvalósítás\n— **9** — lezárás, együttérzés, tág látókör\n\n**Mesterszámok** a hagyományban: **11** — intuíció, finom érzékelés; **22** — a „mester-építő\", nagy léptékű megvalósítás *.\n\n**Hogyan olvasd ezt a listát?** Ne személyleírásként — hanem **minőség-szótárként**. Mind a kilenc minőség ismerős neked valahonnan, mert mind a kilenc emberi. A kérdés, amit a tükör-munkában felteszünk, nem az, hogy „ez vagyok-e\" — hanem hogy **mikor, hol és milyen áron** élsz egy-egy minőséget. És minden minőségnek két pólusa van: a rend érett formája a megbízhatóság, túlhajtott árnyéka a merevség. A saját számodnál mindkét pólust keresd majd meg.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition attaches a characteristic bundle of qualities to each digit *. Here is the list — throughout in the tradition's own language:\n\n— **1** — beginning, independence, pioneering\n— **2** — cooperation, receptivity, diplomacy\n— **3** — expression, creativity, play\n— **4** — order, work, a dependable foundation\n— **5** — change, freedom, movement\n— **6** — care, harmony, responsibility\n— **7** — analysis, turning inward, an inquiring spirit\n— **8** — power, organization, material accomplishment\n— **9** — completion, compassion, a wide horizon\n\n**Master numbers** in the tradition: **11** — intuition, subtle perception; **22** — the 'master builder', accomplishment on a grand scale *.\n\n**How to read this list?** Not as a personal profile — but as a **dictionary of qualities**. All nine qualities are familiar to you from somewhere, because all nine are human. The question we ask in the mirror work is not 'is this me' — but **when, where and at what cost** you live a given quality. And every quality has two poles: the mature form of order is dependability, its overdriven shadow is rigidity. At your own number, go looking for both poles.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The tradition attaches a characteristic bundle of qualities to each digit *. Here is the list — throughout in the tradition's own language:\n\n— **1** — beginning, independence, pioneering\n— **2** — cooperation, receptivity, diplomacy\n— **3** — expression, creativity, play\n— **4** — order, work, a dependable foundation\n— **5** — change, freedom, movement\n— **6** — care, harmony, responsibility\n— **7** — analysis, turning inward, an inquiring spirit\n— **8** — power, organization, material accomplishment\n— **9** — completion, compassion, a wide horizon\n\n**Master numbers** in the tradition: **11** — intuition, subtle perception; **22** — the 'master builder', accomplishment on a grand scale *.\n\n**How to read this list?** Not as a personal profile — but as a **dictionary of qualities**. All nine qualities are familiar to you from somewhere, because all nine are human. The question we ask in the mirror work is not 'is this me' — but **when, where and at what cost** you live a given quality. And every quality has two poles: the mature form of order is dependability, its overdriven shadow is rigidity. At your own number, go looking for both poles.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Tradiția leagă de fiecare cifră un mănunchi caracteristic de calități *. Iată lista — pe tot parcursul în limbajul propriu al tradiției:\n\n— **1** — început, independență, pionierat\n— **2** — cooperare, receptivitate, diplomație\n— **3** — expresie, creativitate, joacă\n— **4** — ordine, muncă, o temelie de nădejde\n— **5** — schimbare, libertate, mișcare\n— **6** — grijă, armonie, responsabilitate\n— **7** — analiză, întoarcere spre interior, un spirit iscoditor\n— **8** — putere, organizare, împlinire materială\n— **9** — desăvârșire, compasiune, un orizont larg\n\n**Numerele maestru** în tradiție: **11** — intuiție, percepție subtilă; **22** — „maestrul constructor”, împlinire pe scară largă *.\n\n**Cum să citești această listă?** Nu ca pe un profil personal — ci ca pe un **dicționar de calități**. Toate cele nouă calități îți sunt familiare de undeva, pentru că toate nouă sunt omenești. Întrebarea pe care o punem în lucrul cu oglinda nu e „sunt eu asta” — ci **când, unde și cu ce preț** trăiești o anume calitate. Și fiecare calitate are doi poli: forma matură a ordinii e fiabilitatea, umbra ei exagerată e rigiditatea. La numărul tău, caută amândoi polii.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -89,34 +103,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Szám-szemlélet — 10 perc",
-        "en": "Number Contemplation — 10 min"
+        "en": "Number Contemplation — 10 min",
+        "ro": "Contemplarea Numărului — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Ülj le csendben, néhány mély lélegzet. Idézd a belső látóteredbe az életút-számod jegyét mint egyszerű képet — forma, vonal. Tartsd rajta nyugodtan a figyelmed; engedd, hogy asszociációk merüljenek fel, erőltetés nélkül. A végén jegyezd le, ami jött — értékelés nélkül.",
-          "en": "Sit down in silence, a few deep breaths. Bring the digit of your life path number into your inner field of view as a simple image — form, line. Rest your attention on it calmly; let associations surface without forcing. At the end, write down what came — without judging it."
+          "en": "Sit down in silence, a few deep breaths. Bring the digit of your life path number into your inner field of view as a simple image — form, line. Rest your attention on it calmly; let associations surface without forcing. At the end, write down what came — without judging it.",
+          "ro": "Așază-te în tăcere, câteva respirații adânci. Adu cifra numărului căii tale de viață în câmpul tău interior de vedere ca pe o imagine simplă — formă, linie. Odihnește-ți atenția pe ea cu calm; lasă asociațiile să iasă la suprafață fără să forțezi. La final, notează ce a venit — fără să judeci."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "A jegy képe — csak nézd",
-              "en": "The image of the digit — just look"
+              "en": "The image of the digit — just look",
+              "ro": "Imaginea cifrei — doar privește"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Engedd az asszociációkat",
-              "en": "Let the associations come"
+              "en": "Let the associations come",
+              "ro": "Lasă asociațiile să vină"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Zárás — mi maradt veled?",
-              "en": "Closing — what stayed with you?"
+              "en": "Closing — what stayed with you?",
+              "ro": "Încheiere — ce ți-a rămas?"
             }
           }
         ]
@@ -127,11 +146,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A józan lencse — a Barnum-hatás",
-        "en": "The Sober Lens — the Barnum Effect"
+        "en": "The Sober Lens — the Barnum Effect",
+        "ro": "Lentila trează — Efectul Barnum"
       },
       "text": {
         "hu": "Most álljunk meg, és nézzünk a rendszerre kívülről — ez a lecke a modul gerince.\n\n**Amit tudni érdemes:**\n\n— **Empirikus alátámasztása nincs.** A numerológiai leírások és a mérhető személyiségjegyek között nem mutatható ki összefüggés.\n— **A hozzárendelés konvenció.** A káldeus rendszer ugyanarra a névre más számokat ad, mint a pithagoraszi — ha a szám a név „valódi rezgése\" volna, ez nem fordulhatna elő. A rendszerfüggőség önmagában elárulja: megállapodásról van szó, nem természeti törvényről.\n— **A Barnum-hatás.** Az általános megfogalmazású jellemzésekben — „képes vagy mély érzésekre, de nem mindig mutatod ki\" — szinte mindenki magára ismer. Ezért érzed találónak a számod leírását, és ezért érezted volna találónak jórészt a szomszéd számét is. Ezt a modul nem rejtegeti, hanem kiindulópontnak teszi meg.\n\n**És mégis — miért dolgozunk vele?** Mert a tükörnek nem kell mágikusnak lennie ahhoz, hogy lásd magad benne. Amikor egy leírás megrezdít, az a rezdülés **rólad** szól: a figyelmed odafordulásáról, a vágyaidról, az önképedről. A Barnum-hatás nem cáfolja az önismereti munkát — hanem megmutatja, hol folyik valójában: benned, nem a számban.\n\n**Kapcsolódás:** a mentalizmus-pajzs leckéje ugyanezt tanítja más oldalról — aki ismeri a hatáskeltés technikáit, arra nem hatnak észrevétlenül; ez a lecke a te Barnum-oltásod. És idézd meg a Kaspirovszkij-lecke kritikus szünetét is: mielőtt bármilyen leírást beengedsz magadról, állj meg egy lélegzetre, és vizsgáld meg.",
-        "en": "Now let us stop and look at the system from the outside — this lesson is the backbone of the module.\n\n**What is worth knowing:**\n\n— **There is no empirical support.** No connection can be shown between numerological descriptions and measurable personality traits.\n— **The assignment is a convention.** The Chaldean system gives different numbers for the very same name than the Pythagorean — if the number were the name's 'true vibration', this could not happen. The system-dependence alone gives it away: this is an agreement, not a law of nature.\n— **The Barnum effect.** In generally worded characterizations — 'you are capable of deep feeling, but you do not always show it' — almost everyone recognizes themselves. That is why your number's description feels accurate, and why your neighbour's number would largely have felt accurate too. The module does not hide this — it makes it the starting point.\n\n**And yet — why do we work with it?** Because a mirror does not have to be magical for you to see yourself in it. When a description stirs you, that stirring is **about you**: about where your attention turns, about your longings, about your self-image. The Barnum effect does not refute the work of self-knowledge — it shows where that work actually happens: in you, not in the number.\n\n**Connection:** the mentalism-shield lesson teaches the same from another side — whoever knows the techniques of effect is not swayed by them unnoticed; this lesson is your Barnum inoculation. And summon the Kashpirovsky lesson's critical pause as well: before you let any description of yourself in, stop for one breath and examine it."
+        "en": "Now let us stop and look at the system from the outside — this lesson is the backbone of the module.\n\n**What is worth knowing:**\n\n— **There is no empirical support.** No connection can be shown between numerological descriptions and measurable personality traits.\n— **The assignment is a convention.** The Chaldean system gives different numbers for the very same name than the Pythagorean — if the number were the name's 'true vibration', this could not happen. The system-dependence alone gives it away: this is an agreement, not a law of nature.\n— **The Barnum effect.** In generally worded characterizations — 'you are capable of deep feeling, but you do not always show it' — almost everyone recognizes themselves. That is why your number's description feels accurate, and why your neighbour's number would largely have felt accurate too. The module does not hide this — it makes it the starting point.\n\n**And yet — why do we work with it?** Because a mirror does not have to be magical for you to see yourself in it. When a description stirs you, that stirring is **about you**: about where your attention turns, about your longings, about your self-image. The Barnum effect does not refute the work of self-knowledge — it shows where that work actually happens: in you, not in the number.\n\n**Connection:** the mentalism-shield lesson teaches the same from another side — whoever knows the techniques of effect is not swayed by them unnoticed; this lesson is your Barnum inoculation. And summon the Kashpirovsky lesson's critical pause as well: before you let any description of yourself in, stop for one breath and examine it.",
+        "ro": "Acum să ne oprim și să privim sistemul din afară — această lecție e coloana vertebrală a modulului.\n\n**Ce merită să știi:**\n\n— **Nu există sprijin empiric.** Nu se poate arăta nicio legătură între descrierile numerologice și trăsăturile de personalitate măsurabile.\n— **Atribuirea e o convenție.** Sistemul caldeean dă numere diferite pentru același nume față de cel pitagoreic — dacă numărul ar fi „adevărata vibrație” a numelui, asta nu s-ar putea întâmpla. Singură dependența de sistem o dă de gol: e o înțelegere, nu o lege a naturii.\n— **Efectul Barnum.** În caracterizări formulate general — „ești capabil de sentimente adânci, dar nu le arăți întotdeauna” — aproape toată lumea se recunoaște. De aceea descrierea numărului tău ți se pare exactă, și de aceea descrierea numărului vecinului tău ți s-ar fi părut în mare măsură exactă și ea. Modulul nu ascunde asta — o face punct de plecare.\n\n**Și totuși — de ce lucrăm cu el?** Pentru că o oglindă nu trebuie să fie magică ca să te vezi în ea. Când o descriere te mișcă, acea mișcare e **despre tine**: despre unde ți se întoarce atenția, despre dorințele tale, despre imaginea ta de sine. Efectul Barnum nu infirmă lucrul de autocunoaștere — arată unde se întâmplă de fapt acel lucru: în tine, nu în număr.\n\n**Legătură:** lecția scutului-mentalism predă același lucru din altă parte — cine cunoaște tehnicile efectului nu e clătinat de ele pe neobservate; această lecție e inocularea ta Barnum. Și cheamă și pauza critică din lecția Kashpirovsky: înainte să lași să intre orice descriere despre tine, oprește-te o respirație și examineaz-o."
       }
     },
     {
@@ -139,11 +160,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A tükör-munka — így dolgozz a számaiddal",
-        "en": "The Mirror Work — How to Work with Your Numbers"
+        "en": "The Mirror Work — How to Work with Your Numbers",
+        "ro": "Lucrul cu Oglinda — Cum să Lucrezi cu Numerele Tale"
       },
       "text": {
         "hu": "Így válik a három számod munkaeszközzé.\n\n**A menet:**\n\n1. **Számítás** — mindhárom számod megvan, kétszer ellenőrizve (életút, kifejezés, lélek).\n2. **Olvasás** — olvasd el a számod hagyomány-minőségét a minőség-szótárból.\n3. **Három oszlop** — jegyezd: *stimmel* / *nem stimmel* / *részben* — és minden tételhez konkrét élet-példát írj, ne benyomást.\n4. **A lencse-kérdés** — a napló fő kérdése: *„Mit mond rólam az, AMIRE rezonáltam?\"* A ráismerés a te műved — tehát rólad beszél.\n5. **Ellenpróba** — a nem-stimmelő rész ugyanolyan informatív: mi az, amit elutasítasz, és miért?\n6. **Két pólus** — keresd meg a minőséged érett formáját és túlhajtott árnyékát a saját életedben.\n\n**Kapcsolódás:** ha jártad a Bardon-lépéseket, pontosan ismered ezt a mozdulatot — a fekete és fehér lélektükör ugyanígy két pólusban gyűjti a jellemvonásokat; a modul aspektus-csomagja ehhez ad numerológiai szótárat.\n\n**Biztonsági kerítés:**\n\n— **Döntést soha nem a szám hoz.** A szám kérdést adhat a mérlegeléshez — a döntés és az indoklás a tiéd, és a naplóban a saját érveiddel rögzíted.\n— **Egészségi, pénzügyi vagy más nagy horderejű kérdésben** a számoknak nincs helye: ott orvos, szakértő és józan tervezés dolgozik.\n— **Ha a gyakorlat szorongást táplál** — kényszeres újraszámolás, „rossz szám\" miatti félelem —, az leállító jel: tedd le, és ha a minta tartós, beszélj szakemberrel.\n— A numerológia **nem alkalmas** eltűnt személyek, bűnügyek vagy mások „elemzésére\" — a tükör a te arcodra való, nem másokéra.",
-        "en": "This is how your three numbers become a working tool.\n\n**The procedure:**\n\n1. **Calculation** — you have all three numbers, double-checked (life path, expression, soul).\n2. **Reading** — read your number's traditional quality from the dictionary of qualities.\n3. **Three columns** — note: *fits* / *does not fit* / *partly* — and for each entry write a concrete life example, not an impression.\n4. **The lens question** — the journal's main question: *'What do the things I resonated with say about me?'* The recognition is your doing — so it speaks about you.\n5. **Counter-check** — the part that does not fit is just as informative: what is it you reject, and why?\n6. **Two poles** — find the mature form of your quality and its overdriven shadow in your own life.\n\n**Connection:** if you have walked the Bardon steps, you know this movement exactly — the black and white soul mirror gathers character traits in two poles the same way; the module's aspect pack gives it a numerological vocabulary.\n\n**Safety fence:**\n\n— **A decision is never made by the number.** The number may offer a question for your weighing — the decision and its reasoning are yours, and you record them in the journal with your own arguments.\n— **In matters of health, money or any other high stakes** the numbers have no place: there a doctor, an expert and sober planning do the work.\n— **If the practice feeds anxiety** — compulsive recalculating, fear of a 'bad number' — that is a stop signal: put it down, and if the pattern persists, talk to a professional.\n— Numerology is **not suitable** for missing persons, criminal matters or 'analyzing' other people — the mirror is for your own face, not for theirs."
+        "en": "This is how your three numbers become a working tool.\n\n**The procedure:**\n\n1. **Calculation** — you have all three numbers, double-checked (life path, expression, soul).\n2. **Reading** — read your number's traditional quality from the dictionary of qualities.\n3. **Three columns** — note: *fits* / *does not fit* / *partly* — and for each entry write a concrete life example, not an impression.\n4. **The lens question** — the journal's main question: *'What do the things I resonated with say about me?'* The recognition is your doing — so it speaks about you.\n5. **Counter-check** — the part that does not fit is just as informative: what is it you reject, and why?\n6. **Two poles** — find the mature form of your quality and its overdriven shadow in your own life.\n\n**Connection:** if you have walked the Bardon steps, you know this movement exactly — the black and white soul mirror gathers character traits in two poles the same way; the module's aspect pack gives it a numerological vocabulary.\n\n**Safety fence:**\n\n— **A decision is never made by the number.** The number may offer a question for your weighing — the decision and its reasoning are yours, and you record them in the journal with your own arguments.\n— **In matters of health, money or any other high stakes** the numbers have no place: there a doctor, an expert and sober planning do the work.\n— **If the practice feeds anxiety** — compulsive recalculating, fear of a 'bad number' — that is a stop signal: put it down, and if the pattern persists, talk to a professional.\n— Numerology is **not suitable** for missing persons, criminal matters or 'analyzing' other people — the mirror is for your own face, not for theirs.",
+        "ro": "Așa devin cele trei numere ale tale o unealtă de lucru.\n\n**Procedura:**\n\n1. **Calcul** — ai toate cele trei numere, verificate de două ori (calea vieții, expresie, suflet).\n2. **Lectură** — citește calitatea tradițională a numărului tău din dicționarul de calități.\n3. **Trei coloane** — notează: *se potrivește* / *nu se potrivește* / *parțial* — și pentru fiecare intrare scrie un exemplu concret din viață, nu o impresie.\n4. **Întrebarea-lentilă** — întrebarea principală a jurnalului: *«Ce spun despre mine lucrurile cu care am rezonat?»* Recunoașterea e treaba ta — deci vorbește despre tine.\n5. **Contra-verificare** — partea care nu se potrivește e la fel de informativă: ce anume respingi, și de ce?\n6. **Doi poli** — găsește forma matură a calității tale și umbra ei împinsă la extrem în propria ta viață.\n\n**Legătură:** dacă ai parcurs pașii lui Bardon, cunoști exact această mișcare — oglinda neagră și albă a sufletului adună trăsăturile de caracter în doi poli la fel; pachetul de aspecte al modulului îi dă un vocabular numerologic.\n\n**Gard de siguranță:**\n\n— **O decizie nu se ia niciodată după număr.** Numărul poate oferi o întrebare pentru cântărirea ta — decizia și raționamentul ei sunt ale tale, și le consemnezi în jurnal cu propriile argumente.\n— **În chestiuni de sănătate, bani sau orice altceva cu miză mare** numerele nu au loc: acolo un medic, un expert și o planificare trează fac treaba.\n— **Dacă practica hrănește anxietatea** — recalculări compulsive, frica de un «număr rău» — acesta e un semnal de oprire: las-o jos, și dacă tiparul persistă, vorbește cu un profesionist.\n— Numerologia **nu e potrivită** pentru persoane dispărute, chestiuni penale sau «analizarea» altor oameni — oglinda e pentru chipul tău, nu pentru al lor."
       }
     },
     {
@@ -151,27 +174,31 @@
       "kind": "timer",
       "nevek": {
         "hu": "Rezonancia-írás — 15 perc",
-        "en": "Resonance Writing — 15 min"
+        "en": "Resonance Writing — 15 min",
+        "ro": "Scrierea de rezonanță — 15 min"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Írj folyamatosan, három körben: először mi stimmel a számod leírásából — konkrét élet-példákkal; aztán mi nem stimmel; végül mit mond rólad az, amire rezonáltál. A kész szöveg a naplóba kerül.",
-          "en": "Write continuously, in three rounds: first what fits from your number's description — with concrete life examples; then what does not fit; finally what the things you resonated with say about you. The finished text goes into the journal."
+          "en": "Write continuously, in three rounds: first what fits from your number's description — with concrete life examples; then what does not fit; finally what the things you resonated with say about you. The finished text goes into the journal.",
+          "ro": "Scrie neîntrerupt, în trei runde: mai întâi ce se potrivește din descrierea numărului tău — cu exemple concrete din viață; apoi ce nu se potrivește; în final ce spun despre tine lucrurile cu care ai rezonat. Textul terminat intră în jurnal."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "Most: mi NEM stimmel?",
-              "en": "Now: what does NOT fit?"
+              "en": "Now: what does NOT fit?",
+              "ro": "Acum: ce NU se potrivește?"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Mit mond rólad, amire rezonáltál?",
-              "en": "What do your resonances say about you?"
+              "en": "What do your resonances say about you?",
+              "ro": "Ce spun rezonanțele tale despre tine?"
             }
           }
         ]
@@ -182,7 +209,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A szám-tükör jellemvonásai",
-        "en": "The Number Mirror's character traits"
+        "en": "The Number Mirror's character traits",
+        "ro": "Trăsăturile de caracter ale Oglinzii Numerelor"
       },
       "aspektusPack": [
         {
@@ -191,7 +219,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Sors-hit — a szám mint ítélet",
-            "en": "Fate-belief — the number as verdict"
+            "en": "Fate-belief — the number as verdict",
+            "ro": "Credința în destin — numărul ca verdict"
           }
         },
         {
@@ -200,7 +229,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Címke-identitás — a szám mint kifogás",
-            "en": "Label identity — the number as excuse"
+            "en": "Label identity — the number as excuse",
+            "ro": "Identitate-etichetă — numărul ca scuză"
           }
         },
         {
@@ -209,7 +239,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Kritikátlan ráismerés",
-            "en": "Uncritical self-recognition"
+            "en": "Uncritical self-recognition",
+            "ro": "Autorecunoaștere necritică"
           }
         },
         {
@@ -218,7 +249,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "A döntés kiszervezése",
-            "en": "Outsourcing the decision"
+            "en": "Outsourcing the decision",
+            "ro": "Externalizarea deciziei"
           }
         },
         {
@@ -227,7 +259,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Őszinte önreflexió",
-            "en": "Honest self-reflection"
+            "en": "Honest self-reflection",
+            "ro": "Autoreflecție sinceră"
           }
         },
         {
@@ -236,7 +269,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Józan mérték",
-            "en": "Sober measure"
+            "en": "Sober measure",
+            "ro": "Măsură trează"
           }
         },
         {
@@ -245,7 +279,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Játékos szimbólum-kedv",
-            "en": "Playful delight in symbols"
+            "en": "Playful delight in symbols",
+            "ro": "Bucurie jucăușă în simboluri"
           }
         },
         {
@@ -254,7 +289,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Megkülönböztetés — stimmel / nem stimmel",
-            "en": "Discernment — fits / does not fit"
+            "en": "Discernment — fits / does not fit",
+            "ro": "Discernământ — se potrivește / nu se potrivește"
           }
         }
       ]
@@ -264,7 +300,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Szám-tükör napló",
-        "en": "Number Mirror Journal"
+        "en": "Number Mirror Journal",
+        "ro": "Jurnalul Oglinzii Numerelor"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -272,7 +309,8 @@
         ],
         "prompts": {
           "hu": "SZÁMOK — Életút: ___ · Kifejezés: ___ · Lélek: ___\n\nTÜKÖR — Ma ebben ismertem magamra a számom leírásából (konkrét helyzettel): ___\n\nELLENPRÓBA — Ez nem stimmel, és ezt árulja el rólam: ___\n\nLENCSE — Mit mond rólam az, AMIRE rezonáltam: ___",
-          "en": "NUMBERS — Life path: ___ · Expression: ___ · Soul: ___\n\nMIRROR — Where I recognized myself today in my number's description (with a concrete situation): ___\n\nCOUNTER-CHECK — What does not fit, and what that reveals about me: ___\n\nLENS — What the things I resonated with say about me: ___"
+          "en": "NUMBERS — Life path: ___ · Expression: ___ · Soul: ___\n\nMIRROR — Where I recognized myself today in my number's description (with a concrete situation): ___\n\nCOUNTER-CHECK — What does not fit, and what that reveals about me: ___\n\nLENS — What the things I resonated with say about me: ___",
+          "ro": "NUMERE — Calea vieții: ___ · Expresie: ___ · Suflet: ___\n\nOGLINDĂ — Unde m-am recunoscut azi în descrierea numărului meu (cu o situație concretă): ___\n\nCONTRA-VERIFICARE — Ce nu se potrivește, și ce dezvăluie asta despre mine: ___\n\nLENTILĂ — Ce spun despre mine lucrurile cu care am rezonat: ___"
         }
       }
     },
@@ -281,7 +319,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A tükör-munka elsajátítása",
-        "en": "Mastery of the Mirror Work"
+        "en": "Mastery of the Mirror Work",
+        "ro": "Stăpânirea lucrului cu oglinda"
       },
       "checklist": {
         "items": [
@@ -289,49 +328,56 @@
             "key": "c1",
             "nevek": {
               "hu": "Életút-szám kiszámítva és másnap frissen ellenőrizve",
-              "en": "Life path number calculated and re-checked fresh the next day"
+              "en": "Life path number calculated and re-checked fresh the next day",
+              "ro": "Numărul căii vieții calculat și reverificat proaspăt a doua zi"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Kifejezés-szám kiszámítva a teljes születési névből",
-              "en": "Expression number calculated from the full birth name"
+              "en": "Expression number calculated from the full birth name",
+              "ro": "Numărul de expresie calculat din numele complet de naștere"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Lélek-szám kiszámítva a magánhangzókból",
-              "en": "Soul number calculated from the vowels"
+              "en": "Soul number calculated from the vowels",
+              "ro": "Numărul sufletului calculat din vocale"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Barnum-próba elvégezve: előbb egy idegen szám leírása, utána a sajátodé",
-              "en": "Barnum test done: first a foreign number's description, then your own"
+              "en": "Barnum test done: first a foreign number's description, then your own",
+              "ro": "Testul Barnum făcut: mai întâi descrierea unui număr străin, apoi a ta"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Egy hét rezonancia-napló vezetve a szám-tükör sablonnal",
-              "en": "One week of resonance journaling kept with the number mirror template"
+              "en": "One week of resonance journaling kept with the number mirror template",
+              "ro": "O săptămână de jurnal de rezonanță ținută cu șablonul oglinzii numerelor"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "A számod minőségének mindkét pólusa — érett forma és árnyék — naplózva",
-              "en": "Both poles of your number's quality — mature form and shadow — journaled"
+              "en": "Both poles of your number's quality — mature form and shadow — journaled",
+              "ro": "Ambii poli ai calității numărului tău — forma matură și umbra — consemnați în jurnal"
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "Egy mérlegelésnél a szám csak szempont volt — a döntést magad hoztad és indokoltad",
-              "en": "In one weighing the number was only a viewpoint — you made and reasoned the decision yourself"
+              "en": "In one weighing the number was only a viewpoint — you made and reasoned the decision yourself",
+              "ro": "Într-o cântărire numărul a fost doar un punct de vedere — tu ai luat și ai argumentat decizia"
             }
           }
         ]
@@ -342,7 +388,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Auto-verificare"
       },
       "quiz": {
         "passThreshold": 4,
@@ -351,7 +398,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Hogyan számolod ki az életút-számot?",
-              "en": "How do you calculate the life path number?"
+              "en": "How do you calculate the life path number?",
+              "ro": "Cum calculezi numărul căii vieții?"
             },
             "options": {
               "hu": [
@@ -365,6 +413,12 @@
                 "You add the last two digits of your birth year",
                 "You add up every digit of the full birth date and reduce to a single digit — the tradition does not reduce 11 and 22",
                 "You take the product of the month and the day"
+              ],
+              "ro": [
+                "Aduni consoanele numelui tău cu tabelul de litere",
+                "Aduni ultimele două cifre ale anului nașterii",
+                "Aduni fiecare cifră a datei complete de naștere și reduci la o singură cifră — tradiția nu reduce 11 și 22",
+                "Iei produsul lunii și al zilei"
               ]
             },
             "correctIndex": 2
@@ -373,7 +427,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Miből számolja a hagyomány a lélek-számot?",
-              "en": "From what does the tradition calculate the soul number?"
+              "en": "From what does the tradition calculate the soul number?",
+              "ro": "Din ce calculează tradiția numărul sufletului?"
             },
             "options": {
               "hu": [
@@ -387,6 +442,12 @@
                 "From the digits of the birth date",
                 "From the consonants of the name",
                 "From the first letter of the given name"
+              ],
+              "ro": [
+                "Din vocalele numelui de naștere, cu tabelul literelor",
+                "Din cifrele datei de naștere",
+                "Din consoanele numelui",
+                "Din prima literă a prenumelui"
               ]
             },
             "correctIndex": 0
@@ -395,7 +456,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mit jelent a Barnum-hatás?",
-              "en": "What does the Barnum effect mean?"
+              "en": "What does the Barnum effect mean?",
+              "ro": "Ce înseamnă efectul Barnum?"
             },
             "options": {
               "hu": [
@@ -409,6 +471,12 @@
                 "That it is easy to make mistakes in the calculation",
                 "That only the master numbers' descriptions are accurate",
                 "That almost anyone recognizes themselves in general characterizations — which is why the description feels accurate"
+              ],
+              "ro": [
+                "Că numerele poartă o vibrație secretă",
+                "Că este ușor să greșești în calcul",
+                "Că doar descrierile numerelor maestru sunt exacte",
+                "Că aproape oricine se regăsește în caracterizări generale — de aceea descrierea pare exactă"
               ]
             },
             "correctIndex": 3
@@ -417,7 +485,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mi ebben a modulban a számok kerete?",
-              "en": "What is the frame for numbers in this module?"
+              "en": "What is the frame for numbers in this module?",
+              "ro": "Care este cadrul pentru numere în acest modul?"
             },
             "options": {
               "hu": [
@@ -431,6 +500,12 @@
                 "A self-reflective mirror and symbol work — the number is a lens, not fate and not divination",
                 "A scientifically validated personality test",
                 "A casting of lots that appoints the right decision"
+              ],
+              "ro": [
+                "Un instrument pentru a prezice viitorul",
+                "O oglindă de auto-reflecție și lucru cu simboluri — numărul este o lentilă, nu soartă și nu divinație",
+                "Un test de personalitate validat științific",
+                "O tragere la sorți care desemnează decizia corectă"
               ]
             },
             "correctIndex": 1
@@ -439,7 +514,8 @@
             "id": "q5",
             "prompt": {
               "hu": "Mit mutat meg, hogy a káldeus rendszer ugyanarra a névre más számot ad, mint a pithagoraszi?",
-              "en": "What does it show that the Chaldean system gives a different number for the same name than the Pythagorean?"
+              "en": "What does it show that the Chaldean system gives a different number for the same name than the Pythagorean?",
+              "ro": "Ce arată faptul că sistemul caldeean dă un număr diferit pentru același nume față de cel pitagoreic?"
             },
             "options": {
               "hu": [
@@ -453,6 +529,12 @@
                 "That the Chaldean system is the more accurate one",
                 "That the name must be calculated in both systems and averaged",
                 "That numerology is mathematically proven"
+              ],
+              "ro": [
+                "Că atribuirea literă-număr este o convenție, nu o lege a naturii",
+                "Că sistemul caldeean este cel mai precis",
+                "Că numele trebuie calculat în ambele sisteme și făcută media",
+                "Că numerologia este dovedită matematic"
               ]
             },
             "correctIndex": 0

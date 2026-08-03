@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Inga és varázsvessző",
-    "en": "Pendulum and Dowsing"
+    "en": "Pendulum and Dowsing",
+    "ro": "Pendulul și radiestezia"
   },
   "description": {
     "hu": "Az inga és a varázsvessző kettős tanítása a mentalizmus-modul „két él” mintájára: egyszerre tanuljuk a hagyomány gyakorlatát — vessző, térképes keresés, kalibrálás, igen/nem protokoll — és a bizonyított mechanizmust, az ideomotoros hatást (Carpenter, Chevreul, Faraday). Az inga a tudatalattid kihangosítója: becsületes belső párbeszéd-eszköz, vak-tesztekkel és kemény kerítésekkel.",
-    "en": "The twin teaching of pendulum and dowsing rod, on the 'two edges' pattern of the mentalism module: we learn the tradition's practice — rod, map dowsing, calibration, yes/no protocol — together with the proven mechanism, the ideomotor effect (Carpenter, Chevreul, Faraday). The pendulum is the loudspeaker of your subconscious: an honest inner-dialogue tool, with blind tests and hard fences."
+    "en": "The twin teaching of pendulum and dowsing rod, on the 'two edges' pattern of the mentalism module: we learn the tradition's practice — rod, map dowsing, calibration, yes/no protocol — together with the proven mechanism, the ideomotor effect (Carpenter, Chevreul, Faraday). The pendulum is the loudspeaker of your subconscious: an honest inner-dialogue tool, with blind tests and hard fences.",
+    "ro": "Învățătura geamănă a pendulului și a baghetei de radiestezie, pe tiparul «celor două tăișuri» al modulului de mentalism: învățăm practica tradiției — baghetă, radiestezie pe hartă, calibrare, protocolul da/nu — împreună cu mecanismul dovedit, efectul ideomotor (Carpenter, Chevreul, Faraday). Pendulul este difuzorul subconștientului tău: un instrument onest de dialog interior, cu teste oarbe și garduri stricte."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/pendulum.dowsing/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a két él",
-        "en": "Introduction — the Two Edges"
+        "en": "Introduction — the Two Edges",
+        "ro": "Introducere — Cele două tăișuri"
       },
       "text": {
         "hu": "Ez a modul a mentalizmus-modul testvére: ugyanazzal a **két éllel** dolgozunk. Az egyik él a hagyomány — a varázsvessző és az inga évszázados gyakorlata. A másik él a bizonyított mechanizmus — az **ideomotoros hatás**, amely megmutatja, mi mozgatja valójában az ingát. A kettő együtt ad becsületes, használható eszközt; külön-külön csak babona vagy legyintés lenne belőle.\n\nA modul gerince egyetlen gondolat: **az inga a tudatalattid kihangosítója.** Nem külső erő válaszol rajta keresztül — a saját nem-tudatos hajlamaid, sejtéseid és elvárásaid válnak láthatóvá. Ez nem lefokozás, hanem felszabadítás: egy finoman hangolt belső párbeszéd-eszközt kapsz a kezedbe, amely rokona a bardoni önmegfigyelésnek.\n\nAmit tanulni fogsz:\n\n— **A hagyomány** — vessző, inga, térképes keresés: honnan jön, és mit állít magáról.\n— **A mechanizmus** — Carpenter, Chevreul és Faraday: mi mozgatja az ingát valójában.\n— **A mesterség** — kalibrálás, igen/nem protokoll, jegyzőkönyv.\n— **A próba** — vak-tesztek saját magadnak, találati aránnyal és véletlen-alapvonallal.\n— **A kerítés** — mit nem szabad SOHA ingára bízni.\n\nEgy szabályt már most véss kőbe: az inga válasza mindig **nyersanyag a tudatos mérlegeléshez** — sosem parancs.",
-        "en": "This module is the sibling of the mentalism module: we work with the same **two edges**. One edge is the tradition — the centuries-old practice of the dowsing rod and the pendulum. The other edge is the proven mechanism — the **ideomotor effect**, which shows what actually moves the pendulum. Together the two give an honest, usable tool; either one alone would leave only superstition or dismissal.\n\nThe spine of the module is a single thought: **the pendulum is the loudspeaker of your subconscious.** No outside force answers through it — your own non-conscious inclinations, hunches and expectations become visible. This is not a demotion but a liberation: you receive a finely tuned inner-dialogue tool, a relative of Bardon's self-observation.\n\nWhat you will learn:\n\n— **The tradition** — rod, pendulum, map dowsing: where it comes from and what it claims about itself.\n— **The mechanism** — Carpenter, Chevreul and Faraday: what actually moves the pendulum.\n— **The craft** — calibration, the yes/no protocol, record-keeping.\n— **The test** — blind tests for yourself, with hit rates and a chance baseline.\n— **The fence** — what must NEVER be entrusted to a pendulum.\n\nCarve one rule in stone right now: the pendulum's answer is always **raw material for conscious weighing** — never a command."
+        "en": "This module is the sibling of the mentalism module: we work with the same **two edges**. One edge is the tradition — the centuries-old practice of the dowsing rod and the pendulum. The other edge is the proven mechanism — the **ideomotor effect**, which shows what actually moves the pendulum. Together the two give an honest, usable tool; either one alone would leave only superstition or dismissal.\n\nThe spine of the module is a single thought: **the pendulum is the loudspeaker of your subconscious.** No outside force answers through it — your own non-conscious inclinations, hunches and expectations become visible. This is not a demotion but a liberation: you receive a finely tuned inner-dialogue tool, a relative of Bardon's self-observation.\n\nWhat you will learn:\n\n— **The tradition** — rod, pendulum, map dowsing: where it comes from and what it claims about itself.\n— **The mechanism** — Carpenter, Chevreul and Faraday: what actually moves the pendulum.\n— **The craft** — calibration, the yes/no protocol, record-keeping.\n— **The test** — blind tests for yourself, with hit rates and a chance baseline.\n— **The fence** — what must NEVER be entrusted to a pendulum.\n\nCarve one rule in stone right now: the pendulum's answer is always **raw material for conscious weighing** — never a command.",
+        "ro": "Acest modul este fratele modulului de mentalism: lucrăm cu aceleași **două tăișuri**. Un tăiș este tradiția — practica seculară a baghetei de radiestezie și a pendulului. Celălalt tăiș este mecanismul dovedit — **efectul ideomotor**, care arată ce mișcă de fapt pendulul. Împreună, cele două oferă un instrument onest și util; oricare dintre ele singur ar lăsa doar superstiție sau respingere.\n\nȘira spinării modulului este un singur gând: **pendulul este difuzorul subconștientului tău.** Nicio forță exterioară nu răspunde prin el — propriile tale înclinații, intuiții și așteptări non-conștiente devin vizibile. Aceasta nu este o retrogradare, ci o eliberare: primești un instrument fin reglat de dialog interior, o rudă a auto-observării lui Bardon.\n\nCe vei învăța:\n\n— **Tradiția** — baghetă, pendul, radiestezie pe hartă: de unde vine și ce pretinde despre sine.\n— **Mecanismul** — Carpenter, Chevreul și Faraday: ce mișcă de fapt pendulul.\n— **Meșteșugul** — calibrarea, protocolul da/nu, ținerea de evidență.\n— **Testul** — teste oarbe pentru tine însuți, cu rate de reușită și o linie de bază a întâmplării.\n— **Gardul** — ce NU trebuie NICIODATĂ încredințat unui pendul.\n\nGravează o regulă în piatră chiar acum: răspunsul pendulului este întotdeauna **materie primă pentru cântărirea conștientă** — niciodată un ordin."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A hagyomány — vessző, inga, térkép",
-        "en": "The Tradition — Rod, Pendulum, Map"
+        "en": "The Tradition — Rod, Pendulum, Map",
+        "ro": "Tradiția — Baghetă, pendul, hartă"
       },
       "text": {
         "hu": "A vesszőjárás régi mesterség. **Agricola** bányászati főműve, a *De re metallica* (1556) már leírja a szokást: a bányászok villás mogyoróvesszővel járták a hegyet érc után kutatva — és figyeld a finomságot: **már Agricola is kételkedett**, és azt tanácsolta, a jó bányász inkább a terep természetes jeleiből olvasson, ne a vesszőből.\n\nA hagyomány eszköztára:\n\n— **Y-vessző** — villás ág (klasszikusan mogyoró), két szára a két kézben, feszítés alatt; a hagyomány szerint a víz- vagy érclelőhely fölött magától lehajlik. *\n— **L-pálcák** — két derékszögben hajlított pálca, lazán tartva; a hagyomány szerint a célpont fölött keresztezik egymást. *\n— **Az inga** — zsinóron függő súly; kérdés-felelet eszközként a 19–20. századi okkult gyakorlatban terjedt el.\n— **Térképes ingázás** — későbbi fejlemény: a hagyomány szerint a gyakorló térkép fölött, a helyszíntől bármilyen távol is megtalálja a keresett helyet. *\n\nA hagyomány saját magyarázata kisugárzásokról, a hely „rezgéséről” beszél. A következő leckében megnézzük, mit mutattak a mérések — és meglátod: az igazi történet legalább ilyen érdekes, csak máshol lakik, mint hinnéd.\n\n[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "Dowsing is an old craft. **Agricola's** great mining treatise, *De re metallica* (1556), already describes the custom: miners roamed the hills with a forked hazel twig hunting for ore — and note the subtlety: **Agricola himself was already skeptical**, advising that a good miner should read the natural signs of the terrain rather than the twig.\n\nThe tradition's toolkit:\n\n— **The Y-rod** — a forked branch (classically hazel), its two arms held in the two hands under tension; according to the tradition it dips of its own accord above water or ore. *\n— **L-rods** — two rods bent at right angles, held loosely; according to the tradition they cross above the target. *\n— **The pendulum** — a weight hanging on a cord; as a question-and-answer tool it spread in the occult practice of the 19th–20th centuries.\n— **Map dowsing** — a later development: according to the tradition the practitioner finds the sought place over a map, at any distance from the site. *\n\nThe tradition's own explanation speaks of emanations, of the 'vibration' of a place. In the next lesson we look at what the measurements showed — and you will see: the true story is at least as interesting, it just lives somewhere other than you would think.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "Dowsing is an old craft. **Agricola's** great mining treatise, *De re metallica* (1556), already describes the custom: miners roamed the hills with a forked hazel twig hunting for ore — and note the subtlety: **Agricola himself was already skeptical**, advising that a good miner should read the natural signs of the terrain rather than the twig.\n\nThe tradition's toolkit:\n\n— **The Y-rod** — a forked branch (classically hazel), its two arms held in the two hands under tension; according to the tradition it dips of its own accord above water or ore. *\n— **L-rods** — two rods bent at right angles, held loosely; according to the tradition they cross above the target. *\n— **The pendulum** — a weight hanging on a cord; as a question-and-answer tool it spread in the occult practice of the 19th–20th centuries.\n— **Map dowsing** — a later development: according to the tradition the practitioner finds the sought place over a map, at any distance from the site. *\n\nThe tradition's own explanation speaks of emanations, of the 'vibration' of a place. In the next lesson we look at what the measurements showed — and you will see: the true story is at least as interesting, it just lives somewhere other than you would think.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Radiestezia este un meșteșug vechi. Marele tratat de minerit al lui **Agricola**, *De re metallica* (1556), descrie deja obiceiul: minerii cutreierau dealurile cu o nuia biforcată de alun vânând minereu — și observă subtilitatea: **Agricola însuși era deja sceptic**, sfătuind ca un bun miner să citească semnele naturale ale terenului mai degrabă decât nuiaua.\n\nTrusa de unelte a tradiției:\n\n— **Bagheta Y** — o ramură biforcată (clasic de alun), cu cele două brațe ținute în cele două mâini sub tensiune; potrivit tradiției, se apleacă de la sine deasupra apei sau a minereului. *\n— **Baghetele L** — două baghete îndoite în unghi drept, ținute lejer; potrivit tradiției, se încrucișează deasupra țintei. *\n— **Pendulul** — o greutate atârnată de un fir; ca instrument de întrebare-și-răspuns s-a răspândit în practica ocultă a secolelor XIX–XX.\n— **Radiestezia pe hartă** — o dezvoltare ulterioară: potrivit tradiției, practicianul găsește locul căutat pe o hartă, la orice distanță de sit. *\n\nExplicația proprie a tradiției vorbește de emanații, de «vibrația» unui loc. În lecția următoare privim ce au arătat măsurătorile — și vei vedea: povestea adevărată este cel puțin la fel de interesantă, doar că trăiește altundeva decât ai crede.\n\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az ideomotoros hatás — a valódi mechanizmus",
-        "en": "The Ideomotor Effect — the Real Mechanism"
+        "en": "The Ideomotor Effect — the Real Mechanism",
+        "ro": "Efectul ideomotor — mecanismul real"
       },
       "text": {
         "hu": "**William B. Carpenter** 1852-ben nevet adott a jelenségnek: **ideomotoros hatás** — a puszta gondolat, elvárás vagy belső kép apró, nem tudatos izommozgásokat indít. Nem kell hozzá szándék: elég, hogy a fejedben él a válasz képe, és a kezed már írja is — az inga pedig felnagyítja.\n\n**Chevreul**, a nagy kémikus, már 1833-tól vizsgálta az ingát, és 1854-es könyvében letette az asztalra a döntő megfigyelést: **ha a karod alá van támasztva, vagy becsukod a szemed, az inga elhal.** A mozgás forrása tehát nem a súlyban és nem egy külső mezőben van — hanem a karodban, pontosabban az elmédben.\n\n**Faraday** 1853-ban az asztaltáncot vizsgálta ugyanezzel a fegyelemmel: erőmérő lapocskái megmutatták, hogy a résztvevők maguk tolják az asztalt — jóhiszeműen, észrevétlenül.\n\nAz ideomotoros hatás az egyik legjobban dokumentált lélektani jelenség: ez áll a ouija-tábla, az asztaltánc és a facilitált kommunikáció mögött is.\n\n**És most jön a fordulat, amiért ez a modul létezik:** ez nem rossz hír. Az inga tényleg mozog, és tényleg jelez valamit — **téged**. A nem tudatos elvárásaid, hajlamaid, sejtéseid mozgatják. Az inga tehát nem orákulum, hanem tükör: a tudatalattid kihangosítója. Így használva valódi önismereti eszköz — és pontosan így fogjuk használni.",
-        "en": "**William B. Carpenter** named the phenomenon in 1852: the **ideomotor effect** — mere thought, expectation or inner image triggers tiny, non-conscious muscle movements. No intention is needed: it is enough that the image of the answer lives in your head, and your hand is already writing it — and the pendulum amplifies it.\n\n**Chevreul**, the great chemist, studied the pendulum from 1833 on, and in his 1854 book laid down the decisive observation: **when your arm is supported, or you close your eyes, the pendulum dies down.** The source of the motion is therefore not in the weight and not in an external field — but in your arm, more precisely in your mind.\n\n**Faraday** examined table-turning in 1853 with the same discipline: his force-measuring plates showed that the participants themselves push the table — in good faith, unnoticed.\n\nThe ideomotor effect is one of the best-documented psychological phenomena: it also stands behind the ouija board, table-turning and facilitated communication.\n\n**And here comes the turn this module exists for:** this is not bad news. The pendulum really does move, and it really does signal something — **you**. Your non-conscious expectations, inclinations and hunches move it. The pendulum is thus not an oracle but a mirror: the loudspeaker of your subconscious. Used this way it is a genuine tool of self-knowledge — and this is exactly how we will use it."
+        "en": "**William B. Carpenter** named the phenomenon in 1852: the **ideomotor effect** — mere thought, expectation or inner image triggers tiny, non-conscious muscle movements. No intention is needed: it is enough that the image of the answer lives in your head, and your hand is already writing it — and the pendulum amplifies it.\n\n**Chevreul**, the great chemist, studied the pendulum from 1833 on, and in his 1854 book laid down the decisive observation: **when your arm is supported, or you close your eyes, the pendulum dies down.** The source of the motion is therefore not in the weight and not in an external field — but in your arm, more precisely in your mind.\n\n**Faraday** examined table-turning in 1853 with the same discipline: his force-measuring plates showed that the participants themselves push the table — in good faith, unnoticed.\n\nThe ideomotor effect is one of the best-documented psychological phenomena: it also stands behind the ouija board, table-turning and facilitated communication.\n\n**And here comes the turn this module exists for:** this is not bad news. The pendulum really does move, and it really does signal something — **you**. Your non-conscious expectations, inclinations and hunches move it. The pendulum is thus not an oracle but a mirror: the loudspeaker of your subconscious. Used this way it is a genuine tool of self-knowledge — and this is exactly how we will use it.",
+        "ro": "**William B. Carpenter** a numit fenomenul în 1852: **efectul ideomotor** — simpla gândire, așteptare sau imagine interioară declanșează mișcări musculare minuscule, non-conștiente. Nu e nevoie de intenție: e de ajuns ca imaginea răspunsului să trăiască în capul tău, și mâna ta deja o scrie — iar pendulul o amplifică.\n\n**Chevreul**, marele chimist, a studiat pendulul din 1833 încolo, iar în cartea sa din 1854 a așezat observația decisivă: **când brațul tău e sprijinit, sau închizi ochii, pendulul se stinge.** Sursa mișcării nu e deci în greutate și nici într-un câmp exterior — ci în brațul tău, mai precis în mintea ta.\n\n**Faraday** a examinat învârtirea meselor în 1853 cu aceeași disciplină: plăcile lui de măsurare a forței au arătat că participanții înșiși împing masa — cu bună-credință, neobservat.\n\nEfectul ideomotor este unul dintre cele mai bine documentate fenomene psihologice: stă și în spatele planșetei ouija, al învârtirii meselor și al comunicării facilitate.\n\n**Și aici vine cotitura pentru care există acest modul:** aceasta nu e o veste proastă. Pendulul chiar se mișcă, și chiar semnalează ceva — **pe tine**. Așteptările, înclinațiile și intuițiile tale non-conștiente îl mișcă. Pendulul nu e deci un oracol, ci o oglindă: difuzorul subconștientului tău. Folosit astfel, e un instrument autentic de autocunoaștere — și exact așa îl vom folosi."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Kalibrálás — a három jel",
-        "en": "Calibration — the Three Signals"
+        "en": "Calibration — the Three Signals",
+        "ro": "Calibrarea — Cele trei semnale"
       },
       "text": {
         "hu": "Az ingamunka első mozdulata mindig a **kalibrálás** — enélkül ne kezdj ülést.\n\n**A tartás.** Ülj asztalhoz. Fogd a zsinórt hüvelyk- és mutatóujjad közé, mintegy 10–15 centit hagyva a súlyig. A kezed legyen nyugodt, de ne merev; a csuklód szabad. Bármilyen kis súly megteszi — gyűrű, anyacsavar, medál: nem az anyag számít, hanem a kéz.\n\n**A nyugalmi pont.** Hagyd az ingát elcsendesedni. Figyeld meg a mozdulatlanságát — innen indul minden jel.\n\n**A három jel.** Mondd ki magadban, nyugodtan: *„Mutass IGEN-t.”* — és várd meg, milyen mozgás bontakozik ki: előre-hátra lengés, körzés jobbra, bármi. Jegyezd fel. Ugyanígy kérd a *NEM*-et, majd a *NEM TUDOM*-ot. A mintázat személyes: a tiéd lesz, nem egy könyvből tanult.\n\n**Minden ülés elején újra.** A jelek a napszakkal, hangulattal együtt finoman változhatnak — a kalibrálás rögzíti az aznapi nyelvet.\n\n**Ha nem mozdul:** semmi baj. Lazíts, és képzeld el élénken a mozgást — emlékezz Carpenterre: pont az elképzelt mozgás az, ami elindítja. Ha ma nem szólal meg, holnap újra próbálod. Az erőltetés az egyetlen, ami biztosan nem segít.",
-        "en": "The first move of pendulum work is always **calibration** — never begin a session without it.\n\n**The hold.** Sit at a table. Take the cord between thumb and index finger, leaving about 10–15 centimetres to the weight. Your hand should be calm but not rigid; your wrist free. Any small weight will do — a ring, a nut, a locket: it is not the material that matters but the hand.\n\n**The resting point.** Let the pendulum settle. Observe its stillness — every signal starts from here.\n\n**The three signals.** Say inwardly, calmly: *'Show me YES.'* — and wait for the motion that unfolds: a back-and-forth swing, a clockwise circle, whatever. Write it down. Ask the same way for *NO*, then for *DON'T KNOW*. The pattern is personal: it will be yours, not learned from a book.\n\n**Again at the start of every session.** The signals may drift gently with the time of day and your mood — calibration records the language of the day.\n\n**If it does not move:** no harm done. Relax and vividly imagine the motion — remember Carpenter: it is precisely the imagined motion that starts it. If it stays silent today, you try again tomorrow. Forcing is the one thing guaranteed not to help."
+        "en": "The first move of pendulum work is always **calibration** — never begin a session without it.\n\n**The hold.** Sit at a table. Take the cord between thumb and index finger, leaving about 10–15 centimetres to the weight. Your hand should be calm but not rigid; your wrist free. Any small weight will do — a ring, a nut, a locket: it is not the material that matters but the hand.\n\n**The resting point.** Let the pendulum settle. Observe its stillness — every signal starts from here.\n\n**The three signals.** Say inwardly, calmly: *'Show me YES.'* — and wait for the motion that unfolds: a back-and-forth swing, a clockwise circle, whatever. Write it down. Ask the same way for *NO*, then for *DON'T KNOW*. The pattern is personal: it will be yours, not learned from a book.\n\n**Again at the start of every session.** The signals may drift gently with the time of day and your mood — calibration records the language of the day.\n\n**If it does not move:** no harm done. Relax and vividly imagine the motion — remember Carpenter: it is precisely the imagined motion that starts it. If it stays silent today, you try again tomorrow. Forcing is the one thing guaranteed not to help.",
+        "ro": "Primul pas al lucrului cu pendulul este întotdeauna **calibrarea** — nu începe niciodată o sesiune fără ea.\n\n**Ținerea.** Așază-te la o masă. Ia firul între degetul mare și arătător, lăsând cam 10–15 centimetri până la greutate. Mâna ta să fie calmă, dar nu rigidă; încheietura liberă. Orice greutate mică e bună — un inel, o piuliță, un medalion: nu materialul contează, ci mâna.\n\n**Punctul de repaus.** Lasă pendulul să se liniștească. Observă-i nemișcarea — fiecare semnal pornește de aici.\n\n**Cele trei semnale.** Spune în interior, calm: *«Arată-mi DA.»* — și așteaptă mișcarea care se desfășoară: un balans înainte-înapoi, un cerc în sens orar, orice ar fi. Noteaz-o. Cere la fel pentru *NU*, apoi pentru *NU ȘTIU*. Tiparul e personal: va fi al tău, nu învățat dintr-o carte.\n\n**Din nou la începutul fiecărei sesiuni.** Semnalele pot deriva ușor cu ora zilei și starea ta de spirit — calibrarea înregistrează limba zilei.\n\n**Dacă nu se mișcă:** nu e nicio problemă. Relaxează-te și imaginează-ți viu mișcarea — amintește-ți de Carpenter: tocmai mișcarea imaginată o pornește. Dacă tace azi, încerci din nou mâine. Forțarea e singurul lucru care cu siguranță nu ajută."
       }
     },
     {
@@ -65,34 +75,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Kalibrálás — 5 perc",
-        "en": "Calibration — 5 min"
+        "en": "Calibration — 5 min",
+        "ro": "Calibrare — 5 min"
       },
       "timer": {
         "durationSeconds": 300,
         "instructions": {
           "hu": "Ülj nyugodtan, fogd a zsinórt hüvelyk- és mutatóujjad közé, és hagyd az ingát elcsendesedni. Kérd sorban a jeleket: „Mutass IGEN-t” — figyeld és jegyezd; majd a NEM-et, végül a NEM TUDOM-ot. Ne erőltesd — figyelj.",
-          "en": "Sit calmly, take the cord between thumb and index finger, and let the pendulum settle. Ask for the signals in turn: 'Show me YES' — watch and note it; then NO, finally DON'T KNOW. Do not force — observe."
+          "en": "Sit calmly, take the cord between thumb and index finger, and let the pendulum settle. Ask for the signals in turn: 'Show me YES' — watch and note it; then NO, finally DON'T KNOW. Do not force — observe.",
+          "ro": "Stai liniștit, ia firul între degetul mare și arătător și lasă pendulul să se stabilizeze. Cere pe rând semnalele: «Arată-mi DA» — privește și notează-l; apoi NU, în final NU ȘTIU. Nu forța — observă."
         },
         "intervals": [
           {
             "atSecond": 60,
             "label": {
               "hu": "IGEN — figyeld a jelet",
-              "en": "YES — watch the signal"
+              "en": "YES — watch the signal",
+              "ro": "DA — privește semnalul"
             }
           },
           {
             "atSecond": 150,
             "label": {
               "hu": "NEM — figyeld a jelet",
-              "en": "NO — watch the signal"
+              "en": "NO — watch the signal",
+              "ro": "NU — privește semnalul"
             }
           },
           {
             "atSecond": 240,
             "label": {
               "hu": "NEM TUDOM — figyeld a jelet",
-              "en": "DON'T KNOW — watch the signal"
+              "en": "DON'T KNOW — watch the signal",
+              "ro": "NU ȘTIU — privește semnalul"
             }
           }
         ]
@@ -103,11 +118,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az igen/nem protokoll — belső párbeszéd",
-        "en": "The Yes/No Protocol — Inner Dialogue"
+        "en": "The Yes/No Protocol — Inner Dialogue",
+        "ro": "Protocolul Da/Nu — Dialog interior"
       },
       "text": {
         "hu": "Az inga nyelve az eldöntendő kérdés. A protokoll négy lépése:\n\n**1. Egy kérdés egyszerre.** Tisztán, egyértelműen, igen/nem formában. A „Mit tegyek az életemmel?” nem inga-kérdés; a „Húzódozom-e valójában ettől a meghívástól?” az.\n\n**2. Rögzítsd a kérdést** hangosan vagy írásban, mielőtt az ingára néznél — így nem tudod menet közben átértelmezni.\n\n**3. Várd ki a jelet, és jegyezd fel** kommentár nélkül. Az értelmezés az ülés végére való.\n\n**4. Zárd mérlegeléssel.** A válasz nyersanyag: tudatosan döntesz róla, mihez kezdesz vele.\n\n**Mire jó ez így?** A legjobb inga-kérdések rólad szólnak: *Valójában el akarok-e menni? Nyomaszt-e még az a beszélgetés? Kívánom-e ezt, vagy csak megszoktam?* Ilyenkor az inga azt hangosítja ki, amit a tudatos éned esetleg elhallgat. Rokona ez a bardoni önmegfigyelésnek és a fekete-fehér lélektükörnek az IIH első lépéseiből: ott listát írsz magadról, itt kérdezel magadtól — a két gyakorlat erősíti egymást.\n\n**Amit az inga tud:** a saját elvárásaid, sejtéseid, elfojtott preferenciáid. **Amit nem tud:** számodra ismeretlen külső tényeket. A következő lecke vak-tesztjei pontosan ezt a határt teszik láthatóvá — és aki ezt a határt ismeri, az használja az ingát becsületesen.",
-        "en": "The pendulum's language is the decidable question. The four steps of the protocol:\n\n**1. One question at a time.** Clean, unambiguous, in yes/no form. 'What should I do with my life?' is not a pendulum question; 'Am I actually reluctant about this invitation?' is.\n\n**2. Fix the question** aloud or in writing before you look at the pendulum — so you cannot reinterpret it midway.\n\n**3. Wait out the signal and record it** without commentary. Interpretation belongs at the end of the session.\n\n**4. Close with weighing.** The answer is raw material: you decide consciously what to do with it.\n\n**What is this good for?** The best pendulum questions are about you: *Do I actually want to go? Does that conversation still weigh on me? Do I want this, or am I merely used to it?* Here the pendulum voices what your conscious self may be keeping quiet. It is a relative of Bardon's self-observation and the black-and-white soul mirror from the first steps of IIH: there you write a list about yourself, here you ask yourself — the two practices strengthen each other.\n\n**What the pendulum knows:** your own expectations, hunches, suppressed preferences. **What it does not know:** external facts unknown to you. The blind tests of the next lesson make exactly this boundary visible — and whoever knows this boundary uses the pendulum honestly."
+        "en": "The pendulum's language is the decidable question. The four steps of the protocol:\n\n**1. One question at a time.** Clean, unambiguous, in yes/no form. 'What should I do with my life?' is not a pendulum question; 'Am I actually reluctant about this invitation?' is.\n\n**2. Fix the question** aloud or in writing before you look at the pendulum — so you cannot reinterpret it midway.\n\n**3. Wait out the signal and record it** without commentary. Interpretation belongs at the end of the session.\n\n**4. Close with weighing.** The answer is raw material: you decide consciously what to do with it.\n\n**What is this good for?** The best pendulum questions are about you: *Do I actually want to go? Does that conversation still weigh on me? Do I want this, or am I merely used to it?* Here the pendulum voices what your conscious self may be keeping quiet. It is a relative of Bardon's self-observation and the black-and-white soul mirror from the first steps of IIH: there you write a list about yourself, here you ask yourself — the two practices strengthen each other.\n\n**What the pendulum knows:** your own expectations, hunches, suppressed preferences. **What it does not know:** external facts unknown to you. The blind tests of the next lesson make exactly this boundary visible — and whoever knows this boundary uses the pendulum honestly.",
+        "ro": "Limbajul pendulului este întrebarea decidabilă. Cei patru pași ai protocolului:\n\n**1. O singură întrebare pe rând.** Curată, fără ambiguitate, în formă da/nu. «Ce ar trebui să fac cu viața mea?» nu este o întrebare de pendul; «Sunt de fapt reticent față de invitația asta?» este.\n\n**2. Fixează întrebarea** cu voce tare sau în scris înainte să te uiți la pendul — ca să nu o poți reinterpreta pe parcurs.\n\n**3. Așteaptă semnalul până la capăt și notează-l** fără comentarii. Interpretarea aparține sfârșitului sesiunii.\n\n**4. Închide cu cântărire.** Răspunsul este materie primă: tu decizi conștient ce faci cu el.\n\n**La ce e bun asta?** Cele mai bune întrebări de pendul sunt despre tine: *Vreau cu adevărat să merg? Mă mai apasă conversația aia? Vreau asta, sau doar m-am obișnuit cu ea?* Aici pendulul dă glas a ceea ce sinele tău conștient poate ține tăcut. Este o rudă a auto-observării lui Bardon și a oglinzii sufletului alb-negru din primii pași ai IIH: acolo scrii o listă despre tine, aici te întrebi pe tine — cele două practici se întăresc reciproc.\n\n**Ce știe pendulul:** propriile tale așteptări, bănuieli, preferințe reprimate. **Ce nu știe:** fapte externe necunoscute ție. Testele oarbe din lecția următoare fac exact această graniță vizibilă — și cine cunoaște această graniță folosește pendulul cu onestitate."
       }
     },
     {
@@ -115,34 +132,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Belső párbeszéd-ülés — 10 perc",
-        "en": "Inner Dialogue Session — 10 min"
+        "en": "Inner Dialogue Session — 10 min",
+        "ro": "Sesiune de dialog interior — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Kalibrálás → egy előre megfogalmazott, rólad szóló eldöntendő kérdés → a jel kivárása, a válasz jegyzése kommentár nélkül → újabb kérdés, ha van → zárás tudatos mérlegeléssel és naplóval.",
-          "en": "Calibration → one pre-formulated decidable question about yourself → wait out the signal, record the answer without commentary → another question if you have one → close with conscious weighing and the journal."
+          "en": "Calibration → one pre-formulated decidable question about yourself → wait out the signal, record the answer without commentary → another question if you have one → close with conscious weighing and the journal.",
+          "ro": "Calibrare → o întrebare decidabilă preformulată despre tine → așteaptă semnalul până la capăt, notează răspunsul fără comentarii → încă o întrebare dacă ai una → închide cu cântărire conștientă și jurnalul."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Kalibrálás kész — első kérdés",
-              "en": "Calibration done — first question"
+              "en": "Calibration done — first question",
+              "ro": "Calibrare făcută — prima întrebare"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Jegyezd a választ — jöhet a következő",
-              "en": "Record the answer — next one may come"
+              "en": "Record the answer — next one may come",
+              "ro": "Notează răspunsul — poate veni următoarea"
             }
           },
           {
             "atSecond": 480,
             "label": {
               "hu": "Zárás — mérlegelés és napló",
-              "en": "Closing — weighing and journal"
+              "en": "Closing — weighing and journal",
+              "ro": "Închidere — cântărire și jurnal"
             }
           }
         ]
@@ -153,11 +175,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Vak-tesztek — a becsület gyakorlata",
-        "en": "Blind Tests — the Practice of Honesty"
+        "en": "Blind Tests — the Practice of Honesty",
+        "ro": "Teste oarbe — practica onestității"
       },
       "text": {
         "hu": "A mentalizmus-modul hidegolvasás-pajzsa itt magad felé fordul: aki tudja, hogyan születnek a „találatok”, az magát sem csapja be velük. A vak-teszt a becsület gyakorlata.\n\n**Három bögre.** Egy segítő tárgyat rejt az egyik bögre alá — vagy magad kevered őket csukott szemmel, míg elveszted a fonalat. Ingázd ki, melyik alatt van. Jegyezd: próba, tipp, eredmény. Véletlen-alapvonal: **1/3**.\n\n**Piros-fekete.** Jól megkevert pakliból lefordított lapok: piros vagy fekete? A jelet a fordítás ELŐTT jegyzed, csak utána nézed meg. Húsz-harminc lapos sorozatok; alapvonal: **1/2**.\n\n**A számok fegyelme.** Kis mintán a nagy kilengés normális — tíz lapból hét találat még semmi. Vezess összesítést sok ülésen át, és a teljes arányt mérd az alapvonalhoz. Ez a jegyzőkönyv-fegyelem a távolbalátás- (RV-) modul rokona: ott is a vak-protokoll és az előre rögzített értékelés választja el a benyomást az önámítástól.\n\n**Mit mutattak a nagy tesztek?** A müncheni „pajta-kísérletekben” (1986–88) vesszős keresőknek egy pajta padlója alatt mozgatható csőben áramló vizet kellett megtalálniuk; Enright újraelemzése szerint az eredmény véletlen-szintű. A kasseli GWUP-teszt (1990) ugyanígy véletlen-szintet hozott. **Kettős-vak körülmények között a hatás rendre eltűnik.**\n\n**A tanulság nem az, hogy dobd el az ingát** — hanem hogy tudd, mit mér. Ahol a válasz benned van (preferencia, sejtés, elvárás), ott beszédes; ahol a válasz rajtad kívül van, és nem ismerheted, ott a találati arány a véletlenre ül vissza. Ez a határvonal az eszköz használati utasítása.",
-        "en": "The cold-reading shield of the mentalism module turns toward yourself here: whoever knows how 'hits' are born will not deceive themselves with them either. The blind test is the practice of honesty.\n\n**Three mugs.** A helper hides an object under one of the mugs — or you shuffle them yourself with closed eyes until you lose the thread. Dowse which one it is under. Record: trial, guess, result. Chance baseline: **1/3**.\n\n**Red-black.** Face-down cards from a well-shuffled deck: red or black? You record the signal BEFORE turning the card, and only then look. Series of twenty to thirty cards; baseline: **1/2**.\n\n**The discipline of numbers.** On a small sample large swings are normal — seven hits out of ten cards means nothing yet. Keep a running tally across many sessions and measure the overall rate against the baseline. This record-keeping discipline is a relative of the remote viewing (RV) module: there too, the blind protocol and pre-registered scoring separate impression from self-deception.\n\n**What did the big tests show?** In the Munich 'barn experiments' (1986–88) dowsers had to locate water flowing in a movable pipe beneath a barn floor; Enright's re-analysis found the results at chance level. The Kassel GWUP test (1990) likewise came out at chance level. **Under double-blind conditions the effect regularly disappears.**\n\n**The lesson is not to throw the pendulum away** — but to know what it measures. Where the answer is within you (preference, hunch, expectation), it is telling; where the answer lies outside you and cannot be known to you, the hit rate settles back to chance. This boundary line is the tool's instruction manual."
+        "en": "The cold-reading shield of the mentalism module turns toward yourself here: whoever knows how 'hits' are born will not deceive themselves with them either. The blind test is the practice of honesty.\n\n**Three mugs.** A helper hides an object under one of the mugs — or you shuffle them yourself with closed eyes until you lose the thread. Dowse which one it is under. Record: trial, guess, result. Chance baseline: **1/3**.\n\n**Red-black.** Face-down cards from a well-shuffled deck: red or black? You record the signal BEFORE turning the card, and only then look. Series of twenty to thirty cards; baseline: **1/2**.\n\n**The discipline of numbers.** On a small sample large swings are normal — seven hits out of ten cards means nothing yet. Keep a running tally across many sessions and measure the overall rate against the baseline. This record-keeping discipline is a relative of the remote viewing (RV) module: there too, the blind protocol and pre-registered scoring separate impression from self-deception.\n\n**What did the big tests show?** In the Munich 'barn experiments' (1986–88) dowsers had to locate water flowing in a movable pipe beneath a barn floor; Enright's re-analysis found the results at chance level. The Kassel GWUP test (1990) likewise came out at chance level. **Under double-blind conditions the effect regularly disappears.**\n\n**The lesson is not to throw the pendulum away** — but to know what it measures. Where the answer is within you (preference, hunch, expectation), it is telling; where the answer lies outside you and cannot be known to you, the hit rate settles back to chance. This boundary line is the tool's instruction manual.",
+        "ro": "Scutul de cold-reading al modulului de mentalism se îndreaptă aici către tine însuți: cine știe cum se nasc «nimeririle» nu se va amăgi nici pe sine cu ele. Testul orb este practica onestității.\n\n**Trei căni.** Un ajutor ascunde un obiect sub una dintre căni — sau le amesteci tu însuți cu ochii închiși până pierzi șirul. Află prin radiestezie sub care se află. Notează: încercare, ghicit, rezultat. Linia de bază a întâmplării: **1/3**.\n\n**Roșu-negru.** Cărți cu fața în jos dintr-un pachet bine amestecat: roșu sau negru? Notezi semnalul ÎNAINTE de a întoarce cartea, și abia apoi te uiți. Serii de douăzeci până la treizeci de cărți; linia de bază: **1/2**.\n\n**Disciplina numerelor.** Pe un eșantion mic oscilațiile mari sunt normale — șapte nimeriri din zece cărți nu înseamnă încă nimic. Ține un total pe parcursul multor sesiuni și măsoară rata generală față de linia de bază. Această disciplină a înregistrării este o rudă a modulului de remote viewing (RV): și acolo, protocolul orb și scorarea preînregistrată despart impresia de autoamăgire.\n\n**Ce au arătat marile teste?** În «experimentele din hambar» de la München (1986–88) radiesteziștii trebuiau să localizeze apa care curgea într-o țeavă mobilă sub podeaua unui hambar; reanaliza lui Enright a găsit rezultatele la nivelul întâmplării. Testul GWUP de la Kassel (1990) a ieșit de asemenea la nivelul întâmplării. **În condiții dublu-oarbe efectul dispare în mod regulat.**\n\n**Lecția nu este să arunci pendulul** — ci să știi ce măsoară. Unde răspunsul e în tine (preferință, bănuială, așteptare), e grăitor; unde răspunsul stă în afara ta și nu-ți poate fi cunoscut, rata de nimerire se așază înapoi la întâmplare. Această linie de graniță este manualul de instrucțiuni al uneltei."
       }
     },
     {
@@ -165,11 +189,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Vessző és térkép — a hagyomány gyakorlata",
-        "en": "Rod and Map — the Tradition's Practice"
+        "en": "Rod and Map — the Tradition's Practice",
+        "ro": "Varga și harta — practica tradiției"
       },
       "text": {
         "hu": "A hagyomány két klasszikus gyakorlata — játékos, becsületes kerettel.\n\n**A vessző.** Vágj villás ágat (a hagyomány a mogyorót kedveli), vagy hajlíts két L-pálcát drótból. Az Y-vessző két szárát tenyérrel felfelé, enyhe feszítés alatt tartod; az L-pálcákat lazán, ökölbe zárt kézben. A feszített tartás miatt parányi izommozdulat is nagy kilendülést ad — a vessző tehát még érzékenyebb ideomotoros erősítő, mint az inga. A hagyomány szerint a vessző a víz vagy az érc fölött magától lecsap. * Gyakorold nyílt terepen, ellenőrizhető célponttal — például a kerti vízvezeték fölött, amelynek nyomvonalát utána össze tudod vetni a valósággal.\n\n**A térképes ingázás.** A hagyomány szerint a gyakorló a térkép fölé függesztett ingával, a helyszíntől bármilyen távol megtalálja a keresett dolgot. * Becsületes keretben így játszd: ellenőrizhető célpont, előre rögzített tipp, utána tényleges ellenőrzés és jegyzőkönyv. Amit ilyenkor valóban edzel, az a térkép-olvasó intuíciód és az asszociációs emlékezeted — az is érték, ha nevén nevezed.\n\n**Házvonal, nem alku tárgya:** eltűnt személyt, bűnügyet, tragédiát SOHA ne keress se vesszővel, se ingával, se térképen. A „pszichikus nyomozók” dokumentált mérlege hamis nyomok és okozott fájdalom.\n\n[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "Two classic practices of the tradition — with a playful, honest frame.\n\n**The rod.** Cut a forked branch (the tradition favours hazel), or bend two L-rods from wire. You hold the two arms of the Y-rod palms up, under slight tension; the L-rods loosely, in closed fists. Because of the tensioned hold, a minuscule muscle movement produces a large deflection — the rod is thus an even more sensitive ideomotor amplifier than the pendulum. According to the tradition, the rod strikes down of its own accord above water or ore. * Practise in open ground with a verifiable target — for instance above the garden water pipe, whose route you can afterwards compare with reality.\n\n**Map dowsing.** According to the tradition, the practitioner finds the sought thing with a pendulum suspended over a map, at any distance from the site. * In an honest frame, play it like this: a verifiable target, a pre-registered guess, then actual verification and a written record. What you truly train here is your map-reading intuition and your associative memory — that too is of value, if you call it by its name.\n\n**House line, not negotiable:** NEVER search for a missing person, a crime or a tragedy — not with rod, not with pendulum, not on a map. The documented record of 'psychic detectives' is false leads and inflicted pain.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "Two classic practices of the tradition — with a playful, honest frame.\n\n**The rod.** Cut a forked branch (the tradition favours hazel), or bend two L-rods from wire. You hold the two arms of the Y-rod palms up, under slight tension; the L-rods loosely, in closed fists. Because of the tensioned hold, a minuscule muscle movement produces a large deflection — the rod is thus an even more sensitive ideomotor amplifier than the pendulum. According to the tradition, the rod strikes down of its own accord above water or ore. * Practise in open ground with a verifiable target — for instance above the garden water pipe, whose route you can afterwards compare with reality.\n\n**Map dowsing.** According to the tradition, the practitioner finds the sought thing with a pendulum suspended over a map, at any distance from the site. * In an honest frame, play it like this: a verifiable target, a pre-registered guess, then actual verification and a written record. What you truly train here is your map-reading intuition and your associative memory — that too is of value, if you call it by its name.\n\n**House line, not negotiable:** NEVER search for a missing person, a crime or a tragedy — not with rod, not with pendulum, not on a map. The documented record of 'psychic detectives' is false leads and inflicted pain.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Două practici clasice ale tradiției — într-un cadru jucăuș și onest.\n\n**Varga.** Taie o creangă furcată (tradiția preferă alunul), sau îndoaie două vargi în L din sârmă. Ții cele două brațe ale vargii în Y cu palmele în sus, sub o ușoară tensiune; vargile în L le ții lejer, în pumni închiși. Din cauza prinderii tensionate, o mișcare musculară minusculă produce o deviere mare — varga este astfel un amplificator ideomotor și mai sensibil decât pendulul. Potrivit tradiției, varga se apleacă de la sine deasupra apei sau a minereului. * Exersează pe teren deschis cu o țintă verificabilă — de pildă deasupra țevii de apă din grădină, al cărei traseu îl poți compara după aceea cu realitatea.\n\n**Radiestezia pe hartă.** Potrivit tradiției, practicianul găsește lucrul căutat cu un pendul suspendat deasupra unei hărți, la orice distanță de loc. * Într-un cadru onest, joacă-o așa: o țintă verificabilă, o ghicitură preînregistrată, apoi verificarea efectivă și o înregistrare scrisă. Ceea ce antrenezi cu adevărat aici este intuiția ta de citire a hărții și memoria ta asociativă — și asta are valoare, dacă o numești pe numele ei.\n\n**Linia casei, de nenegociat:** NU căuta NICIODATĂ o persoană dispărută, o crimă sau o tragedie — nici cu varga, nici cu pendulul, nici pe hartă. Dosarul documentat al «detectivilor psihici» este piste false și durere pricinuită.\n\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -177,11 +203,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A kerítés, a mérleg és a források",
-        "en": "The Fence, the Scales and the Sources"
+        "en": "The Fence, the Scales and the Sources",
+        "ro": "Gardul, cântarul și sursele"
       },
       "text": {
         "hu": "**A kerítés — kemény szabályok.**\n\n— **Orvosi kérdést SOHA ne ingázz.** Se diagnózist, se allergiát, se étrendet, se gyógyszert. Tünet esetén orvoshoz mész — az ellátást az inga se nem adja, se nem késleltetheti.\n— **Pénzügyi döntést SOHA ne ingázz.** Se befektetést, se vásárlást, se szerződést.\n— **Párkapcsolati és más életdöntést SOHA ne ingázz.** A „szeret-e?”, az „elhagyjam-e?” nem inga-kérdés.\n— **Bűnügy, eltűnt személy: tiltott terület.**\n— **Akut krízisben** — pánik, gyász, kétségbeesés — tedd le az ingát, és fordulj emberhez: baráthoz, segítőhöz, szakemberhez.\n\nMiért ilyen szigorú? Mert az inga a saját elvárásaidat hangosítja ki — nagy tétnél tehát pontosan a félelmeidet és vágyaidat kapnád vissza megfellebbezhetetlen orákulum-hangon. Az nem tisztánlátás, hanem visszhang.\n\n**Az arany szabály:** az inga válasza mindig **nyersanyag a tudatos mérlegeléshez, sosem parancs.** Kis tétnél beszédes tükör; nagy tétnél a döntés a tiéd — ébren, felelősen.\n\n**Források:** M. E. Chevreul: *De la baguette divinatoire, du pendule dit explorateur et des tables tournantes* (1854, közkincs); W. B. Carpenter az ideomotoros mozgásról (1852, közkincs); Agricola: *De re metallica* (1556, közkincs; Hoover-fordítás 1912). A szöveg saját összefoglaló, nem szó szerinti idézet.\n\n*Ez a modul önismereti és figyelem-edző gyakorlatokat tanít; nem orvosi, nem pénzügyi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez.*",
-        "en": "**The fence — hard rules.**\n\n— **NEVER dowse a medical question.** No diagnosis, no allergy, no diet, no medication. With a symptom you go to a doctor — the pendulum neither provides care nor may it delay it.\n— **NEVER dowse a financial decision.** No investment, no purchase, no contract.\n— **NEVER dowse a relationship or other life decision.** 'Do they love me?', 'Should I leave?' are not pendulum questions.\n— **Crime, missing persons: forbidden territory.**\n— **In acute crisis** — panic, grief, despair — put the pendulum down and turn to a human being: a friend, a helper, a professional.\n\nWhy so strict? Because the pendulum voices your own expectations — at high stakes you would therefore get back precisely your fears and desires, in an unappealable oracle voice. That is not clear sight; it is an echo.\n\n**The golden rule:** the pendulum's answer is always **raw material for conscious weighing, never a command.** At low stakes it is a telling mirror; at high stakes the decision is yours — awake, responsible.\n\n**Sources:** M. E. Chevreul: *De la baguette divinatoire, du pendule dit explorateur et des tables tournantes* (1854, public domain); W. B. Carpenter on ideomotor movement (1852, public domain); Agricola: *De re metallica* (1556, public domain; Hoover translation 1912). The text is an original summary, not verbatim quotation.\n\n*This module teaches practices of self-knowledge and attention training; it is not medical, financial or psychological advice. If you experience distress, consult a professional.*"
+        "en": "**The fence — hard rules.**\n\n— **NEVER dowse a medical question.** No diagnosis, no allergy, no diet, no medication. With a symptom you go to a doctor — the pendulum neither provides care nor may it delay it.\n— **NEVER dowse a financial decision.** No investment, no purchase, no contract.\n— **NEVER dowse a relationship or other life decision.** 'Do they love me?', 'Should I leave?' are not pendulum questions.\n— **Crime, missing persons: forbidden territory.**\n— **In acute crisis** — panic, grief, despair — put the pendulum down and turn to a human being: a friend, a helper, a professional.\n\nWhy so strict? Because the pendulum voices your own expectations — at high stakes you would therefore get back precisely your fears and desires, in an unappealable oracle voice. That is not clear sight; it is an echo.\n\n**The golden rule:** the pendulum's answer is always **raw material for conscious weighing, never a command.** At low stakes it is a telling mirror; at high stakes the decision is yours — awake, responsible.\n\n**Sources:** M. E. Chevreul: *De la baguette divinatoire, du pendule dit explorateur et des tables tournantes* (1854, public domain); W. B. Carpenter on ideomotor movement (1852, public domain); Agricola: *De re metallica* (1556, public domain; Hoover translation 1912). The text is an original summary, not verbatim quotation.\n\n*This module teaches practices of self-knowledge and attention training; it is not medical, financial or psychological advice. If you experience distress, consult a professional.*",
+        "ro": "**Gardul — reguli stricte.**\n\n— **NICIODATĂ nu pune o întrebare medicală la pendul.** Nici diagnostic, nici alergie, nici dietă, nici medicament. Cu un simptom te duci la doctor — pendulul nici nu oferă îngrijire, nici nu are voie să o amâne.\n— **NICIODATĂ nu pune o decizie financiară la pendul.** Nici investiție, nici cumpărare, nici contract.\n— **NICIODATĂ nu pune o relație sau altă decizie de viață la pendul.** «Mă iubește?», «Ar trebui să plec?» nu sunt întrebări de pendul.\n— **Crimă, persoane dispărute: teritoriu interzis.**\n— **În criză acută** — panică, doliu, disperare — lasă pendulul jos și întoarce-te către o ființă umană: un prieten, un ajutor, un profesionist.\n\nDe ce atât de strict? Pentru că pendulul dă glas așteptărilor tale proprii — la mize mari ai primi înapoi tocmai fricile și dorințele tale, pe un ton de oracol fără apel. Asta nu e vedere limpede; e un ecou.\n\n**Regula de aur:** răspunsul pendulului este întotdeauna **materie primă pentru cântărire conștientă, niciodată o poruncă.** La mize mici e o oglindă grăitoare; la mize mari decizia e a ta — treaz, responsabil.\n\n**Surse:** M. E. Chevreul: *De la baguette divinatoire, du pendule dit explorateur et des tables tournantes* (1854, domeniu public); W. B. Carpenter despre mișcarea ideomotorie (1852, domeniu public); Agricola: *De re metallica* (1556, domeniu public; traducerea Hoover 1912). Textul este un rezumat original, nu un citat textual.\n\n*Acest modul predă practici de autocunoaștere și antrenament al atenției; nu este sfat medical, financiar sau psihologic. Dacă treci prin suferință, consultă un profesionist.*"
       }
     },
     {
@@ -189,7 +217,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "Az ingázó jellemvonásai",
-        "en": "The Dowser's Character Traits"
+        "en": "The Dowser's Character Traits",
+        "ro": "Trăsăturile de caracter ale radiestezistului"
       },
       "aspektusPack": [
         {
@@ -198,7 +227,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Döntés-kiszervezés az ingára",
-            "en": "Outsourcing decisions to the pendulum"
+            "en": "Outsourcing decisions to the pendulum",
+            "ro": "Delegarea deciziilor către pendul"
           }
         },
         {
@@ -207,7 +237,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Vágyvezérelt kérdezés",
-            "en": "Wishful asking"
+            "en": "Wishful asking",
+            "ro": "Întrebarea ghidată de dorință"
           }
         },
         {
@@ -216,7 +247,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Orákulum-hit — a válasz mint parancs",
-            "en": "Oracle belief — the answer as command"
+            "en": "Oracle belief — the answer as command",
+            "ro": "Credința în oracol — răspunsul ca poruncă"
           }
         },
         {
@@ -225,7 +257,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Öncsalás a találatokkal",
-            "en": "Self-deception with the hits"
+            "en": "Self-deception with the hits",
+            "ro": "Autoamăgirea cu reușitele"
           }
         },
         {
@@ -234,7 +267,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Kalibrálási fegyelem",
-            "en": "Calibration discipline"
+            "en": "Calibration discipline",
+            "ro": "Disciplina calibrării"
           }
         },
         {
@@ -243,7 +277,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Önismereti őszinteség",
-            "en": "Self-honesty in the inner dialogue"
+            "en": "Self-honesty in the inner dialogue",
+            "ro": "Onestitatea față de sine în dialogul interior"
           }
         },
         {
@@ -252,7 +287,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "A vak-teszt bátorsága",
-            "en": "Courage to blind-test"
+            "en": "Courage to blind-test",
+            "ro": "Curajul de a face teste oarbe"
           }
         },
         {
@@ -261,7 +297,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Mérlegelő ítélet",
-            "en": "Weighing discernment"
+            "en": "Weighing discernment",
+            "ro": "Discernământul cântăririi"
           }
         }
       ]
@@ -271,7 +308,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Inga-napló",
-        "en": "Pendulum Log"
+        "en": "Pendulum Log",
+        "ro": "Jurnalul pendulului"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -279,7 +317,8 @@
         ],
         "prompts": {
           "hu": "KALIBRÁLÁS — A mai jeleim (IGEN / NEM / NEM TUDOM): ___\n\nKÉRDÉS — A mai kérdésem és a kapott válasz: ___\n\nVAK-TESZT — Sorozat: ___ próba, ___ találat (véletlen-alapvonal: ___): ___\n\nTÜKÖR — Mit mutatott meg rólam az inga (elvárás, sejtés, rejtett hajlam): ___\n\nMÉRLEG — Mit kezdek a válasszal tudatosan: ___",
-          "en": "CALIBRATION — My signals today (YES / NO / DON'T KNOW): ___\n\nQUESTION — Today's question and the answer received: ___\n\nBLIND TEST — Series: ___ trials, ___ hits (chance baseline: ___): ___\n\nMIRROR — What the pendulum showed about me (expectation, hunch, hidden inclination): ___\n\nSCALES — What I consciously do with the answer: ___"
+          "en": "CALIBRATION — My signals today (YES / NO / DON'T KNOW): ___\n\nQUESTION — Today's question and the answer received: ___\n\nBLIND TEST — Series: ___ trials, ___ hits (chance baseline: ___): ___\n\nMIRROR — What the pendulum showed about me (expectation, hunch, hidden inclination): ___\n\nSCALES — What I consciously do with the answer: ___",
+          "ro": "CALIBRARE — Semnalele mele de azi (DA / NU / NU ȘTIU): ___\n\nÎNTREBARE — Întrebarea de azi și răspunsul primit: ___\n\nTEST ORB — Serie: ___ încercări, ___ reușite (prag de șansă: ___): ___\n\nOGLINDĂ — Ce mi-a arătat pendulul despre mine (așteptare, bănuială, înclinație ascunsă): ___\n\nCÂNTAR — Ce fac conștient cu răspunsul: ___"
         }
       }
     },
@@ -288,7 +327,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A mesterség elsajátítása",
-        "en": "Mastery of the Craft"
+        "en": "Mastery of the Craft",
+        "ro": "Măiestria meșteșugului"
       },
       "checklist": {
         "items": [
@@ -296,42 +336,48 @@
             "key": "c1",
             "nevek": {
               "hu": "Saját IGEN / NEM / NEM TUDOM jelmintázat rögzítve; kalibrálás minden ülés elején",
-              "en": "Personal YES / NO / DON'T KNOW signal pattern recorded; calibration at the start of every session"
+              "en": "Personal YES / NO / DON'T KNOW signal pattern recorded; calibration at the start of every session",
+              "ro": "Modelul personal de semnale DA / NU / NU ȘTIU înregistrat; calibrare la începutul fiecărei sesiuni"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Chevreul-próba elvégezve: alátámasztott kar és csukott szem — a megfigyelés naplózva",
-              "en": "Chevreul test done: supported arm and closed eyes — the observation logged"
+              "en": "Chevreul test done: supported arm and closed eyes — the observation logged",
+              "ro": "Testul Chevreul făcut: braț sprijinit și ochi închiși — observația consemnată"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Egy-kérdés protokoll begyakorolva: eldöntendő kérdés, jel kivárva, válasz jegyezve kommentár nélkül",
-              "en": "One-question protocol practised: decidable question, signal waited out, answer recorded without commentary"
+              "en": "One-question protocol practised: decidable question, signal waited out, answer recorded without commentary",
+              "ro": "Protocolul cu o singură întrebare practicat: întrebare decidabilă, semnal așteptat până la capăt, răspuns consemnat fără comentariu"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Legalább egy vak-teszt sorozat összesítve, véletlen-alapvonalhoz mérve",
-              "en": "At least one blind-test series tallied and measured against the chance baseline"
+              "en": "At least one blind-test series tallied and measured against the chance baseline",
+              "ro": "Cel puțin o serie de teste oarbe numărată și măsurată față de pragul de șansă"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "A kerítés belsővé téve: orvosi, pénzügyi és életdöntés soha nem inga-kérdés",
-              "en": "The fence internalized: medical, financial and life decisions are never pendulum questions"
+              "en": "The fence internalized: medical, financial and life decisions are never pendulum questions",
+              "ro": "Gardul interiorizat: deciziile medicale, financiare și de viață nu sunt niciodată întrebări de pendul"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Napló vezetve és hetente visszaolvasva; a válasz nyersanyagként kezelve, nem parancsként",
-              "en": "Journal kept and re-read weekly; the answer treated as raw material, not as command"
+              "en": "Journal kept and re-read weekly; the answer treated as raw material, not as command",
+              "ro": "Jurnal ținut și recitit săptămânal; răspunsul tratat ca materie primă, nu ca poruncă"
             }
           }
         ]
@@ -342,7 +388,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Autoverificare"
       },
       "quiz": {
         "passThreshold": 4,
@@ -351,7 +398,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi mozgatja az ingát a bizonyított mechanizmus szerint?",
-              "en": "What moves the pendulum according to the proven mechanism?"
+              "en": "What moves the pendulum according to the proven mechanism?",
+              "ro": "Ce mișcă pendulul conform mecanismului dovedit?"
             },
             "options": {
               "hu": [
@@ -365,6 +413,12 @@
                 "Non-conscious micro-muscle movements — the ideomotor effect (Carpenter)",
                 "The Earth's magnetic field",
                 "The cord material's own vibration"
+              ],
+              "ro": [
+                "Un câmp energetic extern care acționează asupra greutății",
+                "Mișcări micro-musculare non-conștiente — efectul ideomotor (Carpenter)",
+                "Câmpul magnetic al Pământului",
+                "Vibrația proprie a materialului firului"
               ]
             },
             "correctIndex": 1
@@ -373,7 +427,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Mit mutatott ki Chevreul döntő megfigyelése?",
-              "en": "What did Chevreul's decisive observation show?"
+              "en": "What did Chevreul's decisive observation show?",
+              "ro": "Ce a arătat observația decisivă a lui Chevreul?"
             },
             "options": {
               "hu": [
@@ -387,6 +442,12 @@
                 "The pendulum only works on a silver cord",
                 "With the arm supported or the eyes closed the pendulum dies down — the source of motion is internal",
                 "The pendulum moves more strongly at night"
+              ],
+              "ro": [
+                "Pendulul se leagănă la fel și cu brațul sprijinit",
+                "Pendulul funcționează doar pe un fir de argint",
+                "Cu brațul sprijinit sau ochii închiși pendulul se oprește — sursa mișcării este internă",
+                "Pendulul se mișcă mai puternic noaptea"
               ]
             },
             "correctIndex": 2
@@ -395,7 +456,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mit tud az inga — és mit nem?",
-              "en": "What does the pendulum know — and what does it not?"
+              "en": "What does the pendulum know — and what does it not?",
+              "ro": "Ce știe pendulul — și ce nu știe?"
             },
             "options": {
               "hu": [
@@ -409,6 +471,12 @@
                 "It shows your own expectations, hunches and hidden inclinations — not external facts unknown to you",
                 "It sees only the future, not the past",
                 "Nothing — its motion is pure chance without meaning"
+              ],
+              "ro": [
+                "Știe tot ce se întâmplă în lume",
+                "Îți arată propriile așteptări, bănuieli și înclinații ascunse — nu fapte externe pe care nu le cunoști",
+                "Vede doar viitorul, nu trecutul",
+                "Nimic — mișcarea lui e pură întâmplare fără sens"
               ]
             },
             "correctIndex": 1
@@ -417,7 +485,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mi történt a kettős-vak tesztekben (müncheni pajta-kísérletek, kasseli GWUP-teszt)?",
-              "en": "What happened in the double-blind tests (Munich barn experiments, Kassel GWUP test)?"
+              "en": "What happened in the double-blind tests (Munich barn experiments, Kassel GWUP test)?",
+              "ro": "Ce s-a întâmplat în testele dublu-orb (experimentele din hambarul din München, testul GWUP din Kassel)?"
             },
             "options": {
               "hu": [
@@ -431,6 +500,12 @@
                 "The effect grew stronger as the stakes rose",
                 "The results were at chance level — the effect disappeared",
                 "The tests were never carried out"
+              ],
+              "ro": [
+                "Cei mai buni radiesteziști au reușit impecabil",
+                "Efectul s-a intensificat pe măsură ce miza creștea",
+                "Rezultatele au fost la nivelul șansei — efectul a dispărut",
+                "Testele nu au fost niciodată efectuate"
               ]
             },
             "correctIndex": 2
@@ -439,7 +514,8 @@
             "id": "q5",
             "prompt": {
               "hu": "Mi az ingamunka kerítés-szabálya?",
-              "en": "What is the fence rule of pendulum work?"
+              "en": "What is the fence rule of pendulum work?",
+              "ro": "Care este regula gardului în lucrul cu pendulul?"
             },
             "options": {
               "hu": [
@@ -453,6 +529,12 @@
                 "Medical, financial and life decisions are never entrusted to a pendulum — the answer is raw material for weighing, not a command",
                 "The pendulum's answer must always be carried out immediately",
                 "One may only dowse other people's questions"
+              ],
+              "ro": [
+                "Radiestezia e permisă doar la lună plină",
+                "Deciziile medicale, financiare și de viață nu se încredințează niciodată unui pendul — răspunsul e materie primă de cântărit, nu un ordin",
+                "Răspunsul pendulului trebuie întotdeauna pus în aplicare imediat",
+                "Poți radiestezia doar întrebările altora"
               ]
             },
             "correctIndex": 1

@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Silva — Gyógyíthatsz: a gyógyító képzelet iskolája",
-    "en": "Silva — You the Healer: the School of Healing Imagination"
+    "en": "Silva — You the Healer: the School of Healing Imagination",
+    "ro": "Silva — You the Healer: Școala Imaginației Vindecătoare"
   },
   "description": {
     "hu": "José Silva és Robert B. Stone „Gyógyíthatsz” című könyvének módszertana saját, nyugodt megfogalmazásban: napi ellazulás, a belső képernyő és a gyógyító képzelet gyakorlata — a hagyomány saját modellje szerint, belső gyümölcsökkel (nyugalom, remény, jobb hangulat, kitartás a kezelés mellett) mérve. Fontos határ: ez a modul nem orvosi kezelés, nem diagnosztikai eszköz, és soha nem helyettesíti az orvost — a képzeletmunka kizárólag a szakszerű ellátás mellett használható, sosem helyette. Panasz esetén először orvoshoz fordulj, vizsgálatot és kezelést soha ne halassz a gyakorlás miatt, gyógyszert csak kezelőorvosoddal egyeztetve módosíts, és más emberen soha ne dolgozz a képzeleteddel.",
-    "en": "The methods of José Silva and Robert B. Stone's “You the Healer”, re-taught in our own calm words: daily relaxation, the mental screen, and the practice of healing imagination — framed as the tradition's own model and measured by inner fruits (calm, hope, better mood, steadiness in one's treatment). Firm boundary: this module is not medical treatment, not a diagnostic tool, and never a replacement for doctors — imagination work may only be used alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and never work on another person with your imagination."
+    "en": "The methods of José Silva and Robert B. Stone's “You the Healer”, re-taught in our own calm words: daily relaxation, the mental screen, and the practice of healing imagination — framed as the tradition's own model and measured by inner fruits (calm, hope, better mood, steadiness in one's treatment). Firm boundary: this module is not medical treatment, not a diagnostic tool, and never a replacement for doctors — imagination work may only be used alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and never work on another person with your imagination.",
+    "ro": "Metodele lui José Silva și ale lui Robert B. Stone din „You the Healer”, re-predate în cuvintele noastre calme: relaxare zilnică, ecranul mental și practica imaginației vindecătoare — încadrate ca modelul propriu al tradiției și măsurate după roadele lăuntrice (calm, speranță, dispoziție mai bună, statornicie în tratamentul tău). Limită fermă: acest modul nu este tratament medical, nu este instrument de diagnostic și niciodată un înlocuitor al medicilor — munca cu imaginația poate fi folosită doar alături de îngrijirea profesională, niciodată în locul ei. Consultă mai întâi un medic pentru orice plângere, nu amâna niciodată un examen sau un tratament de dragul practicii, schimbă medicația doar de comun acord cu medicul tău și nu lucra niciodată asupra altei persoane cu imaginația ta."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/silva.healing/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezetés — mit tanít ez az iskola",
-        "en": "Introduction — what this school teaches"
+        "en": "Introduction — what this school teaches",
+        "ro": "Introducere — ce predă această școală"
       },
       "text": {
         "hu": "*Tanulj meg mélyen ellazulni, és a képzeletedet a jóllét szolgálatába állítani.* — Silva nyomán (parafrazált mottó)\n\nJosé Silva autodidakta kutató volt, aki évtizedeken át azt vizsgálta, mire képes az elme, ha az ember megtanul mélyen ellazulni és fegyelmezetten képzelni. A Robert B. Stone-nal közösen jegyzett „Gyógyíthatsz” című könyv ennek a munkának a gyakorlati összefoglalása: negyven napra elosztott, egyszerű reggeli gyakorlatok, amelyek az ellazulást, a belső képernyő használatát és a gyógyító képzeletet tanítják — azt a fegyelmezett belső képet, amelyről a hagyomány azt tartja, hogy magát a testet fordítja a gyógyulás felé. *\n\nEbben a modulban a módszer gerincét tanulod meg: a visszaszámlálásos ellazulást, a békés belső helyszín felépítését, a belső képernyőt és a három képből álló gyógyító képzeletgyakorlatot — mindezt naplóvezetéssel és önvizsgálattal kísérve, ahogy a mágikus napló szelleméhez illik.\n\n**A modul határa — ezt kérjük, olvasd el figyelmesen.** Ez a gyakorlatsor nem orvosi kezelés, nem diagnosztikai eszköz, és soha, semmilyen körülmények között nem helyettesíti az orvost. A képzeletmunka kizárólag a szakszerű ellátás mellett használható, sosem helyette. Panasz esetén először és mindig orvoshoz fordulj, és soha ne halogass vizsgálatot vagy kezelést a gyakorlás kedvéért. Gyógyszert, terápiát kizárólag kezelőorvosoddal egyeztetve módosíts. Más embert soha ne diagnosztizálj, és ne „dolgozz rajta” a képzeleteddel — feléje csak jelenlét és jóakarat irányulhat.\n\nAmit itt gyakorolsz, azt belső gyümölcseivel mérd: nyugodtabb vagy-e, több-e a reményed, jobb-e a hangulatod, kitartóbb vagy-e a kezelésed és a mindennapjaid mellett. Ez a mérce őszinte, és ez a mérce a tiéd.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "*Learn to relax deeply, and set your imagination in the service of well-being.* — after Silva (paraphrased motto)\n\nJosé Silva was a self-taught researcher who spent decades exploring what the mind can do when a person learns to relax deeply and imagine with discipline. “You the Healer”, written with Robert B. Stone, is the practical summary of that work: simple morning exercises spread over forty days, teaching relaxation, the use of the mental screen, and the healing imagination — the disciplined inner picture that, the tradition holds, turns the body itself toward health. *\n\nIn this module you learn the spine of the method: countdown relaxation, building a peaceful inner scene, the mental screen, and the three-image healing visualization — accompanied by journaling and self-examination, in the spirit of the magical diary.\n\n**The boundary of this module — please read carefully.** This practice is not medical treatment, not a diagnostic tool, and never, under any circumstances, a replacement for doctors. Imagination work may only be used alongside professional care, never instead of it. If you have symptoms, see a doctor first and always, and never delay an examination or treatment for the sake of practice. Change medication or therapy only in agreement with your treating physician. Never diagnose another person, and never “work on” anyone with your imagination — toward others, only presence and goodwill may flow.\n\nMeasure what you practice here by its inner fruits: are you calmer, do you have more hope, is your mood better, are you steadier in your treatment and your daily life. That measure is honest, and that measure is yours.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "*Learn to relax deeply, and set your imagination in the service of well-being.* — after Silva (paraphrased motto)\n\nJosé Silva was a self-taught researcher who spent decades exploring what the mind can do when a person learns to relax deeply and imagine with discipline. “You the Healer”, written with Robert B. Stone, is the practical summary of that work: simple morning exercises spread over forty days, teaching relaxation, the use of the mental screen, and the healing imagination — the disciplined inner picture that, the tradition holds, turns the body itself toward health. *\n\nIn this module you learn the spine of the method: countdown relaxation, building a peaceful inner scene, the mental screen, and the three-image healing visualization — accompanied by journaling and self-examination, in the spirit of the magical diary.\n\n**The boundary of this module — please read carefully.** This practice is not medical treatment, not a diagnostic tool, and never, under any circumstances, a replacement for doctors. Imagination work may only be used alongside professional care, never instead of it. If you have symptoms, see a doctor first and always, and never delay an examination or treatment for the sake of practice. Change medication or therapy only in agreement with your treating physician. Never diagnose another person, and never “work on” anyone with your imagination — toward others, only presence and goodwill may flow.\n\nMeasure what you practice here by its inner fruits: are you calmer, do you have more hope, is your mood better, are you steadier in your treatment and your daily life. That measure is honest, and that measure is yours.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "*Învață să te relaxezi profund și pune-ți imaginația în slujba stării de bine.* — după Silva (motto parafrazat)\n\nJosé Silva a fost un cercetător autodidact care a petrecut decenii explorând ce poate face mintea când o persoană învață să se relaxeze profund și să-și imagineze cu disciplină. „You the Healer”, scris împreună cu Robert B. Stone, este rezumatul practic al acelei munci: exerciții simple de dimineață întinse pe patruzeci de zile, care predau relaxarea, folosirea ecranului mental și imaginația vindecătoare — imaginea lăuntrică disciplinată care, ține tradiția, întoarce corpul însuși către sănătate. *\n\nÎn acest modul înveți coloana vertebrală a metodei: relaxarea prin numărătoare inversă, construirea unei scene lăuntrice pașnice, ecranul mental și vizualizarea vindecătoare în trei imagini — însoțite de jurnal și autoexaminare, în spiritul jurnalului magic.\n\n**Limita acestui modul — te rog citește cu atenție.** Această practică nu este tratament medical, nu este instrument de diagnostic și niciodată, sub nicio formă, un înlocuitor al medicilor. Munca cu imaginația poate fi folosită doar alături de îngrijirea profesională, niciodată în locul ei. Dacă ai simptome, consultă mai întâi și întotdeauna un medic și nu amâna niciodată un examen sau un tratament de dragul practicii. Schimbă medicația sau terapia doar de comun acord cu medicul tău curant. Nu diagnostica niciodată o altă persoană și nu „lucra asupra” nimănui cu imaginația ta — către ceilalți pot curge doar prezența și bunăvoința.\n\nMăsoară ce practici aici după roadele lui lăuntrice: ești mai calm, ai mai multă speranță, ți-e mai bună dispoziția, ești mai statornic în tratamentul tău și în viața de zi cu zi. Acea măsură e cinstită, și acea măsură e a ta.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az őszinte modell — hogyan érti önmagát a hagyomány",
-        "en": "The honest model — how the tradition understands itself"
+        "en": "The honest model — how the tradition understands itself",
+        "ro": "Modelul cinstit — cum se înțelege tradiția pe sine"
       },
       "text": {
         "hu": "A Silva-hagyomány saját modellje így hangzik: amikor mélyen ellazulsz, leszállsz az alfa szintre, és ott a nyugodt, kitartóan tartott belső képek átsuhannak a hétköznapi gondolkodáson, és egyenesen a testhez szólnak — az érzelmet, a szokást és magát az élő szövetet a rend és a gyógyulás felé mozdítják. * A módszer ezért két készséget gyakoroltat: a mély ellazulást és a fegyelmezett, derűs képalkotást.\n\nFontos, hogy ezt modellként kezeld, ne kinyilatkoztatásként. Annyi jól megfigyelhető: a rendszeres relaxáció csökkentheti a stresszt, a feszültséget és javíthatja az alvást és a közérzetet — ezt a mindennapi tapasztalat és a stresszkezelés gyakorlata is ismeri. És a hagyomány többet állít a puszta nyugalomnál: az alfa szinten tartott eleven gyógyító kép magára a testre hat — visszafordítja a betegséget, és a húst és a lélegzetet hazahívja a teljességbe. *\n\nA magyar kiadás orvos fordítója maga is így ajánlja a könyvet: nem vallás és nem dogma — a gyakorlatokat érdemes kipróbálni, az állításokat pedig szabad mérlegelni. Ezt a józan hozzáállást vedd át.\n\nMivel mérj tehát? Belső gyümölcsökkel: nyugalom, remény, elviselhetőbb szorongás, jobb hangulat, több erő a kezelés és a mindennapok teendőihez. Ha a gyakorlás ezeket hozza, jól szolgál. Ha szorongást, kényszeres méricskélést vagy az orvosi ellátástól való eltávolodást hozná, tedd le és beszélj orvosoddal. A gyakorlat a gyógyulást kísérő belső munka — a gyógyítás az orvosé.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The Silva tradition's own model runs like this: when you relax deeply you sink to the alpha level, and there your calm, steadily held inner images slip past ordinary thought and speak straight to the body — moving emotion, habit, and the living tissue itself toward order and health. * The method therefore trains two skills: deep relaxation and disciplined, serene image-making.\n\nIt matters that you treat this as a model, not as revelation. This much is plainly observable: regular relaxation can reduce stress and tension and can improve sleep and general well-being — everyday experience and the practice of stress management both know this. And the tradition claims more than calm: a vivid healing image, held at the alpha level, works upon the body itself — turning sickness back and calling flesh and breath home to wholeness. *\n\nThe physician who translated the Hungarian edition recommends the book in the same spirit: it is not a religion and not a dogma — the exercises are worth trying, and the claims may be weighed freely. Adopt that sober attitude.\n\nSo what do you measure by? Inner fruits: calm, hope, more bearable anxiety, better mood, more strength for treatment and for daily duties. If practice brings these, it serves you well. If it were to bring anxiety, compulsive self-monitoring, or drift away from medical care, set it down and speak with your doctor. The practice is inner work that accompanies healing — healing itself belongs to medicine.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The Silva tradition's own model runs like this: when you relax deeply you sink to the alpha level, and there your calm, steadily held inner images slip past ordinary thought and speak straight to the body — moving emotion, habit, and the living tissue itself toward order and health. * The method therefore trains two skills: deep relaxation and disciplined, serene image-making.\n\nIt matters that you treat this as a model, not as revelation. This much is plainly observable: regular relaxation can reduce stress and tension and can improve sleep and general well-being — everyday experience and the practice of stress management both know this. And the tradition claims more than calm: a vivid healing image, held at the alpha level, works upon the body itself — turning sickness back and calling flesh and breath home to wholeness. *\n\nThe physician who translated the Hungarian edition recommends the book in the same spirit: it is not a religion and not a dogma — the exercises are worth trying, and the claims may be weighed freely. Adopt that sober attitude.\n\nSo what do you measure by? Inner fruits: calm, hope, more bearable anxiety, better mood, more strength for treatment and for daily duties. If practice brings these, it serves you well. If it were to bring anxiety, compulsive self-monitoring, or drift away from medical care, set it down and speak with your doctor. The practice is inner work that accompanies healing — healing itself belongs to medicine.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Modelul propriu al tradiției Silva merge astfel: când te relaxezi profund cobori la nivelul alfa, și acolo imaginile tale lăuntrice calme, ținute cu statornicie, alunecă pe lângă gândul obișnuit și vorbesc drept către corp — mișcând emoția, obiceiul și țesutul viu însuși către ordine și sănătate. * Metoda antrenează deci două deprinderi: relaxarea profundă și crearea disciplinată, senină de imagini.\n\nContează să tratezi asta ca pe un model, nu ca pe o revelație. Atât e limpede observabil: relaxarea regulată poate reduce stresul și tensiunea și poate îmbunătăți somnul și starea generală de bine — experiența de zi cu zi și practica gestionării stresului știu amândouă asta. Iar tradiția pretinde mai mult decât calm: o imagine vindecătoare vie, ținută la nivelul alfa, lucrează asupra corpului însuși — întorcând boala din drum și chemând carnea și suflul acasă, la întregime. *\n\nMedicul care a tradus ediția maghiară recomandă cartea în același spirit: nu e o religie și nu e o dogmă — exercițiile merită încercate, iar pretențiile pot fi cântărite liber. Adoptă acea atitudine trează.\n\nDeci după ce măsori? Roade lăuntrice: calm, speranță, anxietate mai ușor de purtat, dispoziție mai bună, mai multă putere pentru tratament și pentru datoriile zilnice. Dacă practica aduce acestea, te servește bine. Dacă ar aduce anxietate, auto-monitorizare compulsivă sau îndepărtare de îngrijirea medicală, las-o deoparte și vorbește cu medicul tău. Practica e muncă lăuntrică ce însoțește vindecarea — vindecarea însăși aparține medicinei.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A módszer — visszaszámlálás, belső képernyő, három kép",
-        "en": "The method — countdown, mental screen, three images"
+        "en": "The method — countdown, mental screen, three images",
+        "ro": "Metoda — numărătoare inversă, ecranul mental, trei imagini"
       },
       "text": {
         "hu": "A gyakorlás magja a reggeli ellazulás. A hagyomány szerint ébredés után az elme még közel van az alfa állapothoz, ezért a könyv negyven napos, reggelenkénti gyakorlást ajánl.\n\n**A reggeli alapgyakorlat lépései, saját szavainkkal:**\n\n1. Ébredés után helyezkedj el kényelmesen — ha kell, előbb kelj fel rövid időre, aztán térj vissza. Hunyd le a szemed, és csukott szemhéjad mögött nézz enyhén, körülbelül húsz fokkal a vízszintes fölé. A hagyomány szerint ez a szemhelyzet segíti az elmélyülést.\n2. Végy néhány mély lélegzetet, és kilégzésnél engedd el a tested feszültségét — fejtől a lábujjakig.\n3. Számolj lassan, gondolatban visszafelé 100-tól 1-ig, számonként körülbelül egy másodperc szünettel. A visszaszámlálás lefelé visz, önmagadba — nem altatás, hanem elmélyítés. A hetek során rövidítheted: 50-től, 25-től, 10-től, végül 5-től 1-ig.\n4. A mélyponton idézz fel egy békés helyet, amelyet jól ismersz és szeretsz. Időzz ott. Ez a nyugalom horgonya.\n5. Mondd el gondolatban, saját szavaiddal, nyugodt szándékodat — például azt, hogy testedet és elmédet derűben, rendben kívánod tartani.\n6. Végül számolj fölfelé 1-től 5-ig azzal a gondolattal, hogy az 5-nél éberen és felfrissülve nyitod ki a szemed. Nyisd ki a szemed, és erősítsd meg ezt.\n\n**A belső képernyő.** Ellazult állapotban képzelj magad elé, kissé a szemmagasság fölé egy nagy, világos felületet — ezen jelennek meg a képeid. Ez a hagyomány munkafelülete.\n\n**A három kép gyakorlata.** A hagyomány gyógyító gyakorlata három, egymást követő képpel dolgozik a belső képernyőn: az első kép szelíden, félelemkeltés nélkül tudomásul veszi a jelen állapotot; a második a jobbulást, az erősödő rendet jeleníti meg — ki-ki a maga egyszerű jelképeivel; a harmadik pedig önmagadat mutatja derűsen, elevenen, teljességben. A képernyőn kitartóan tartva ezek a képek nem csupán vigasztalnak — a hagyomány azt tartja, hogy valódi változást munkálnak a testben, és hogy a test követi a képet a gyógyulás felé. * A képeken mindig előre haladj, és a záró képnél időzz a legtovább. A gyakorlatot hála és a nap teendői felé fordulás zárja.\n\n**A határ itt is érvényes:** ez a gyakorlat a belső állapotodat műveli — a nyugalmat, a reményt, az együttműködést a gyógyulásoddal. Nem kezelés és nem diagnózis; orvosi kérdésben mindig orvosod dönt.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "The core of the practice is morning relaxation. According to the tradition, the mind is still close to the alpha state after waking, which is why the book recommends forty days of morning practice.\n\n**The basic morning exercise, in our own words:**\n\n1. After waking, settle comfortably — rise briefly first if you need to, then return. Close your eyes and, behind closed lids, look gently upward, about twenty degrees above the horizontal. The tradition holds that this eye position aids deepening.\n2. Take a few deep breaths, and on each exhale release the tension of the body — from head to toes.\n3. Count slowly and mentally backward from 100 to 1, pausing about a second per number. The countdown leads downward, into yourself — it is not sleep, it is deepening. Over the weeks you may shorten it: from 50, from 25, from 10, finally from 5 to 1.\n4. At the deep point, recall a peaceful place you know well and love. Linger there. This is your anchor of calm.\n5. State your calm intention mentally, in your own words — for instance, that you wish to keep your body and mind in serenity and good order.\n6. Finally count upward from 1 to 5 with the thought that at 5 you will open your eyes alert and refreshed. Open your eyes and affirm it.\n\n**The mental screen.** In the relaxed state, imagine a large, bright surface in front of you, slightly above eye level — your images appear on it. This is the tradition's working surface.\n\n**The three-image practice.** The tradition's healing exercise works with three successive images on the mental screen: the first acknowledges the present state gently, without stirring fear; the second shows improvement, order gaining strength — each person in their own simple symbols; the third shows you serene, alive, whole. Held steadily on the screen, these images do not merely comfort — the tradition holds that they work real change in the body, and that the flesh follows the picture toward health. * Always move forward through the images, and linger longest on the final one. Close the practice with gratitude and a turn toward the day's tasks.\n\n**The boundary holds here too:** this exercise cultivates your inner state — calm, hope, cooperation with your own recovery. It is not treatment and not diagnosis; in medical questions your doctor always decides.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "The core of the practice is morning relaxation. According to the tradition, the mind is still close to the alpha state after waking, which is why the book recommends forty days of morning practice.\n\n**The basic morning exercise, in our own words:**\n\n1. After waking, settle comfortably — rise briefly first if you need to, then return. Close your eyes and, behind closed lids, look gently upward, about twenty degrees above the horizontal. The tradition holds that this eye position aids deepening.\n2. Take a few deep breaths, and on each exhale release the tension of the body — from head to toes.\n3. Count slowly and mentally backward from 100 to 1, pausing about a second per number. The countdown leads downward, into yourself — it is not sleep, it is deepening. Over the weeks you may shorten it: from 50, from 25, from 10, finally from 5 to 1.\n4. At the deep point, recall a peaceful place you know well and love. Linger there. This is your anchor of calm.\n5. State your calm intention mentally, in your own words — for instance, that you wish to keep your body and mind in serenity and good order.\n6. Finally count upward from 1 to 5 with the thought that at 5 you will open your eyes alert and refreshed. Open your eyes and affirm it.\n\n**The mental screen.** In the relaxed state, imagine a large, bright surface in front of you, slightly above eye level — your images appear on it. This is the tradition's working surface.\n\n**The three-image practice.** The tradition's healing exercise works with three successive images on the mental screen: the first acknowledges the present state gently, without stirring fear; the second shows improvement, order gaining strength — each person in their own simple symbols; the third shows you serene, alive, whole. Held steadily on the screen, these images do not merely comfort — the tradition holds that they work real change in the body, and that the flesh follows the picture toward health. * Always move forward through the images, and linger longest on the final one. Close the practice with gratitude and a turn toward the day's tasks.\n\n**The boundary holds here too:** this exercise cultivates your inner state — calm, hope, cooperation with your own recovery. It is not treatment and not diagnosis; in medical questions your doctor always decides.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Nucleul practicii este relaxarea de dimineață. Potrivit tradiției, mintea este încă aproape de starea alfa după trezire, de aceea cartea recomandă patruzeci de zile de practică matinală.\n\n**Exercițiul de bază de dimineață, în cuvintele noastre:**\n\n1. După trezire, așază-te confortabil — ridică-te pe scurt mai întâi dacă ai nevoie, apoi revino. Închide ochii și, pe sub pleoapele închise, privește blând în sus, cam la douăzeci de grade deasupra orizontalei. Tradiția susține că această poziție a ochilor ajută adâncirea.\n2. Ia câteva respirații adânci și, la fiecare expirație, eliberează tensiunea corpului — de la cap până la degetele de la picioare.\n3. Numără încet și mental înapoi de la 100 la 1, oprindu-te cam o secundă la fiecare număr. Numărătoarea duce în jos, în tine — nu este somn, este adâncire. De-a lungul săptămânilor o poți scurta: de la 50, de la 25, de la 10, în cele din urmă de la 5 la 1.\n4. În punctul adânc, amintește-ți un loc liniștit pe care îl cunoști bine și pe care îl iubești. Zăbovește acolo. Aceasta este ancora ta de calm.\n5. Enunță-ți mental intenția calmă, în propriile tale cuvinte — de pildă, că dorești să-ți păstrezi trupul și mintea în seninătate și bună rânduială.\n6. În cele din urmă numără în sus de la 1 la 5 cu gândul că la 5 vei deschide ochii treaz și odihnit. Deschide ochii și afirmă asta.\n\n**Ecranul mental.** În starea de relaxare, imaginează-ți o suprafață mare, luminoasă în fața ta, puțin deasupra nivelului ochilor — imaginile tale apar pe ea. Aceasta este suprafața de lucru a tradiției.\n\n**Practica celor trei imagini.** Exercițiul de vindecare al tradiției lucrează cu trei imagini succesive pe ecranul mental: prima recunoaște blând starea prezentă, fără a stârni frică; a doua arată îmbunătățirea, ordinea care prinde putere — fiecare în simbolurile lui simple; a treia te arată senin, viu, întreg. Ținute statornic pe ecran, aceste imagini nu doar mângâie — tradiția susține că ele lucrează o schimbare reală în trup și că carnea urmează imaginea către sănătate. * Mergi întotdeauna înainte prin imagini și zăbovește cel mai mult pe cea finală. Încheie practica cu recunoștință și cu o întoarcere către sarcinile zilei.\n\n**Granița se ține și aici:** acest exercițiu îți cultivă starea interioară — calm, speranță, cooperare cu propria ta însănătoșire. Nu este tratament și nu este diagnostic; în chestiuni medicale medicul tău decide întotdeauna.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Ha szeretted beteg — jelenlét és jóakarat",
-        "en": "When a loved one is ill — presence and goodwill"
+        "en": "When a loved one is ill — presence and goodwill",
+        "ro": "Când o persoană dragă este bolnavă — prezență și bunăvoință"
       },
       "text": {
         "hu": "A legtöbben nem magunk miatt nyúlunk egy ilyen könyvhöz, hanem mert valakit szeretünk, aki beteg. Ez a fejezet ezért a legfontosabbak egyike — és a legszigorúbb.\n\n**Amit soha nem teszel:** nem diagnosztizálod őt, sem képzeletben, sem szóban. Nem „kezeled” és nem „dolgozol rajta” a képzeleteddel — sem tudtával, sem tudta nélkül. Nem ígérsz neki gyógyulást, és nem sugallod, hogy a betegségét gondolkodása okozta volna — ez a teher kegyetlen és igaztalan. Nem beszéled le sem vizsgálatról, sem gyógyszerről, sem kezelésről — soha, semmilyen meggyőződés nevében.\n\n**Amit tehetsz — és ami sokkal több, mint gondolnád:** ott lehetsz. Meghallgathatod anélkül, hogy tanácsot osztanál. Elkísérheted a vizsgálatra, segíthetsz a gyógyszereit rendben tartani, főzhetsz, fuvarozhatsz, csendben mellette ülhetsz. A kezelését támogathatod türelemmel és biztatással — a gyógyítást pedig meghagyod az orvosainak.\n\n**A belső munkád ilyenkor is a sajátod.** A saját gyakorlásodban lazulhatsz el, hogy mellette nyugodt, teherbíró és derűs tudj maradni — ez a legvalódibb ajándékod neki. Ellazult állapotban irányíthatsz felé jóakaratot: egyszerű, csendes kívánságot, hogy jól legyen — úgy, ahogy egy imádság vagy egy jó gondolat száll valaki felé. Ez nem beavatkozás és nem terápia; ez szeretet, belső formában. Az ő útja, döntései és teste fölött nem a te képzeleted rendelkezik.\n\nHa a betegség súlyos, a magad lelkére is viselj gondot: beszélj valakivel, pihenj, kérj segítséget. A kísérő akkor tud kísérni, ha maga is áll a lábán.",
-        "en": "Most of us reach for a book like this not for ourselves but because someone we love is ill. That makes this chapter one of the most important — and the strictest.\n\n**What you never do:** you do not diagnose them, neither in imagination nor in words. You do not “treat” them and do not “work on” them with your imagination — neither with their knowledge nor without it. You do not promise them healing, and you do not suggest that their illness was caused by their thinking — that burden is cruel and untrue. You never talk them out of an examination, a medication, or a treatment — never, in the name of any conviction.\n\n**What you can do — and it is far more than you might think:** you can be there. You can listen without handing out advice. You can accompany them to appointments, help keep their medications in order, cook, drive, sit quietly beside them. You can support their treatment with patience and encouragement — and leave the healing to their doctors.\n\n**Your inner work remains your own.** In your own practice you may relax so that beside them you can stay calm, resilient, and serene — that is your most real gift to them. In the relaxed state you may direct goodwill toward them: a simple, quiet wish that they be well — the way a prayer or a kind thought goes out to someone. This is not intervention and not therapy; it is love in inner form. Their path, their choices, and their body are not governed by your imagination.\n\nIf the illness is grave, care for your own soul as well: talk to someone, rest, ask for help. A companion can only accompany if they themselves remain standing."
+        "en": "Most of us reach for a book like this not for ourselves but because someone we love is ill. That makes this chapter one of the most important — and the strictest.\n\n**What you never do:** you do not diagnose them, neither in imagination nor in words. You do not “treat” them and do not “work on” them with your imagination — neither with their knowledge nor without it. You do not promise them healing, and you do not suggest that their illness was caused by their thinking — that burden is cruel and untrue. You never talk them out of an examination, a medication, or a treatment — never, in the name of any conviction.\n\n**What you can do — and it is far more than you might think:** you can be there. You can listen without handing out advice. You can accompany them to appointments, help keep their medications in order, cook, drive, sit quietly beside them. You can support their treatment with patience and encouragement — and leave the healing to their doctors.\n\n**Your inner work remains your own.** In your own practice you may relax so that beside them you can stay calm, resilient, and serene — that is your most real gift to them. In the relaxed state you may direct goodwill toward them: a simple, quiet wish that they be well — the way a prayer or a kind thought goes out to someone. This is not intervention and not therapy; it is love in inner form. Their path, their choices, and their body are not governed by your imagination.\n\nIf the illness is grave, care for your own soul as well: talk to someone, rest, ask for help. A companion can only accompany if they themselves remain standing.",
+        "ro": "Cei mai mulți dintre noi ajung la o carte ca aceasta nu pentru noi înșine, ci pentru că cineva pe care îl iubim este bolnav. Asta face din acest capitol unul dintre cele mai importante — și cel mai strict.\n\n**Ce nu faci niciodată:** nu le pui diagnostic, nici în imaginație, nici în cuvinte. Nu îi „tratezi” și nu „lucrezi asupra” lor cu imaginația ta — nici cu știința lor, nici fără ea. Nu le promiți vindecare și nu le sugerezi că boala le-a fost pricinuită de gândirea lor — acea povară este crudă și neadevărată. Nu îi indupleci niciodată să renunțe la un consult, un medicament sau un tratament — niciodată, în numele vreunei convingeri.\n\n**Ce poți face — și este mult mai mult decât ai crede:** poți fi acolo. Poți asculta fără a împărți sfaturi. Poți să îi însoțești la programări, să ajuți la ținerea medicamentelor în ordine, să gătești, să conduci, să stai liniștit alături. Poți sprijini tratamentul lor cu răbdare și încurajare — și să lași vindecarea pe seama medicilor lor.\n\n**Lucrarea ta interioară rămâne a ta.** În propria ta practică te poți relaxa ca să poți rămâne calm, rezilient și senin alături de ei — acesta este cel mai real dar pe care li-l poți face. În starea de relaxare poți îndrepta bunăvoință către ei: o dorință simplă, liniștită ca ei să fie bine — așa cum o rugăciune sau un gând bun se îndreaptă către cineva. Aceasta nu este intervenție și nu este terapie; este iubire în formă interioară. Calea lor, alegerile lor și trupul lor nu sunt guvernați de imaginația ta.\n\nDacă boala este gravă, îngrijește-ți și sufletul tău: vorbește cu cineva, odihnește-te, cere ajutor. Un însoțitor nu poate însoți decât dacă el însuși rămâne în picioare."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Etika és orvosi határ — a modul törvénye",
-        "en": "Ethics and the medical boundary — the law of this module"
+        "en": "Ethics and the medical boundary — the law of this module",
+        "ro": "Etica și granița medicală — legea acestui modul"
       },
       "text": {
         "hu": "Ez a lecke a modul törvénye. Minden más lecke ennek van alárendelve, és kétség esetén mindig ez dönt.\n\n**Az orvosi határ, még egyszer és félreérthetetlenül:**\n\n- A képzeletgyakorlat nem orvosi kezelés, és nem diagnosztikai eszköz.\n- Soha nem helyettesíti az orvost — kizárólag a szakszerű ellátás mellett használható, sosem helyette.\n- Panasz, új tünet vagy rosszabbodás esetén először orvoshoz fordulsz; a gyakorlás kedvéért soha, egyetlen napot sem késleltetsz vizsgálatot vagy kezelést.\n- Gyógyszert és kezelést kizárólag kezelőorvosoddal egyeztetve módosítasz — akkor is, ha jobban érzed magad, és úgy hiszed, a gyakorlás miatt.\n- Más embert nem diagnosztizálsz, és nem „kezelsz” a képzeleteddel; feléje csak jelenlét és jóakarat irányulhat.\n\n**A becsületesség szabályai:**\n\n- A naplódban őszintén jegyezd fel a gyakorlás gyümölcseit — a jókat és a hiányukat is. A hagyomány értéke azon áll, hogy nem kell magadnak hazudnod hozzá.\n- Ne állítsd sem magadnak, sem másnak tényként, hogy a képzelet gyógyít. Modellként gyakorlod, gyümölcseiről beszélsz.\n- Beteg embernek soha ne hirdesd a módszert kéretlenül, és soha ne kelts benne bűntudatot betegsége miatt. A „magadnak okoztad” gondolat nem gyógyít — sebez.\n- Ha a gyakorlás szorongást, kényszerességet vagy a valóságtól való eltávolodást hoz, tedd félre, és beszélj orvosoddal vagy pszichológussal. A visszavonulás itt nem kudarc, hanem józanság.\n\nA mágikus napló szellemében: a munka mértéke az önuralom — a nyugodt kéz, a tiszta beszéd, a megtartott ígéret. Ezen a földön mérd ezt a modult is.",
-        "en": "This lesson is the law of the module. Every other lesson is subordinate to it, and in any doubt this one decides.\n\n**The medical boundary, once more and unmistakably:**\n\n- Imagination practice is not medical treatment and not a diagnostic tool.\n- It never replaces doctors — it may be used only alongside professional care, never instead of it.\n- With any complaint, new symptom, or worsening, you see a doctor first; for the sake of practice you never delay an examination or treatment, not by a single day.\n- You change medication and treatment only in agreement with your treating physician — even when you feel better and believe the practice is the reason.\n- You do not diagnose other people and do not “treat” them with your imagination; toward them, only presence and goodwill may flow.\n\n**The rules of honesty:**\n\n- Record the fruits of practice honestly in your diary — the good ones and their absence alike. The tradition's worth rests on your not having to lie to yourself for it.\n- Do not assert, to yourself or to anyone, that imagination heals as a matter of fact. You practice it as a model and speak of its fruits.\n- Never preach the method uninvited to a sick person, and never make anyone feel guilty for their illness. The thought “you brought this on yourself” does not heal — it wounds.\n- If practice brings anxiety, compulsion, or drift from reality, set it aside and speak with your doctor or a psychologist. Withdrawing here is not failure but sobriety.\n\nIn the spirit of the magical diary: the measure of the work is self-mastery — the steady hand, the clean word, the promise kept. Measure this module on that ground as well."
+        "en": "This lesson is the law of the module. Every other lesson is subordinate to it, and in any doubt this one decides.\n\n**The medical boundary, once more and unmistakably:**\n\n- Imagination practice is not medical treatment and not a diagnostic tool.\n- It never replaces doctors — it may be used only alongside professional care, never instead of it.\n- With any complaint, new symptom, or worsening, you see a doctor first; for the sake of practice you never delay an examination or treatment, not by a single day.\n- You change medication and treatment only in agreement with your treating physician — even when you feel better and believe the practice is the reason.\n- You do not diagnose other people and do not “treat” them with your imagination; toward them, only presence and goodwill may flow.\n\n**The rules of honesty:**\n\n- Record the fruits of practice honestly in your diary — the good ones and their absence alike. The tradition's worth rests on your not having to lie to yourself for it.\n- Do not assert, to yourself or to anyone, that imagination heals as a matter of fact. You practice it as a model and speak of its fruits.\n- Never preach the method uninvited to a sick person, and never make anyone feel guilty for their illness. The thought “you brought this on yourself” does not heal — it wounds.\n- If practice brings anxiety, compulsion, or drift from reality, set it aside and speak with your doctor or a psychologist. Withdrawing here is not failure but sobriety.\n\nIn the spirit of the magical diary: the measure of the work is self-mastery — the steady hand, the clean word, the promise kept. Measure this module on that ground as well.",
+        "ro": "Această lecție este legea modulului. Orice altă lecție îi este subordonată, și la orice îndoială aceasta decide.\n\n**Granița medicală, încă o dată și fără echivoc:**\n\n- Practica imaginației nu este tratament medical și nu este instrument de diagnostic.\n- Nu înlocuiește niciodată medicii — poate fi folosită doar alături de îngrijirea profesională, niciodată în locul ei.\n- La orice plângere, simptom nou sau înrăutățire, vezi mai întâi un medic; de dragul practicii nu amâni niciodată un consult sau un tratament, nici măcar cu o singură zi.\n- Schimbi medicamentele și tratamentul doar de comun acord cu medicul curant — chiar și când te simți mai bine și crezi că practica este pricina.\n- Nu pui diagnostic altor oameni și nu îi „tratezi” cu imaginația ta; către ei pot curge doar prezența și bunăvoința.\n\n**Regulile onestității:**\n\n- Notează roadele practicii cu onestitate în jurnal — pe cele bune și absența lor deopotrivă. Vrednicia tradiției se sprijină pe faptul că nu trebuie să te minți pe tine însuți pentru ea.\n- Nu afirma, nici ție, nici altcuiva, că imaginația vindecă ca pe un fapt. O practici ca pe un model și vorbești despre roadele ei.\n- Nu predica metoda nesolicitat unei persoane bolnave și nu face pe nimeni să se simtă vinovat pentru boala lui. Gândul „ți-ai atras-o singur” nu vindecă — rănește.\n- Dacă practica aduce anxietate, compulsie sau îndepărtare de realitate, pune-o deoparte și vorbește cu medicul tău sau cu un psiholog. A te retrage aici nu este eșec, ci trezvie.\n\nÎn spiritul jurnalului magic: măsura lucrării este stăpânirea de sine — mâna statornică, cuvântul curat, promisiunea ținută. Măsoară și acest modul pe acest temei."
       }
     },
     {
@@ -77,41 +89,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Reggeli ellazulás — visszaszámlálás",
-        "en": "Morning relaxation — the countdown"
+        "en": "Morning relaxation — the countdown",
+        "ro": "Relaxarea de dimineață — numărătoarea inversă"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Relaxációs gyakorlat — nem orvosi kezelés, nem diagnózis, és soha nem helyettesíti az orvost; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt, gyógyszert csak kezelőorvosoddal egyeztetve módosíts, és csak saját magadon dolgozz — más emberen soha. Ülj vagy feküdj kényelmesen. Hunyd le a szemed, tekints enyhén fölfelé a csukott szemhéj mögött. Néhány mély lélegzet után kezdd a lassú visszaszámlálást 100-tól 1-ig, majd időzz békés belső helyszíneden. A végén számolj fölfelé 1-től 5-ig, és nyisd ki a szemed frissen, éberen. Ha bármikor rosszullét vagy erős szorongás jelentkezik, nyisd ki a szemed és hagyd abba.",
-          "en": "A relaxation exercise — not medical treatment, not a diagnosis, and never a replacement for doctors; practice it only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and work only on yourself — never on another person. Sit or lie comfortably. Close your eyes and look gently upward behind closed lids. After a few deep breaths, begin the slow countdown from 100 to 1, then linger in your peaceful inner scene. At the end, count upward from 1 to 5 and open your eyes refreshed and alert. If faintness or strong anxiety arises at any point, open your eyes and stop."
+          "en": "A relaxation exercise — not medical treatment, not a diagnosis, and never a replacement for doctors; practice it only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and work only on yourself — never on another person. Sit or lie comfortably. Close your eyes and look gently upward behind closed lids. After a few deep breaths, begin the slow countdown from 100 to 1, then linger in your peaceful inner scene. At the end, count upward from 1 to 5 and open your eyes refreshed and alert. If faintness or strong anxiety arises at any point, open your eyes and stop.",
+          "ro": "Un exercițiu de relaxare — nu este tratament medical, nu este un diagnostic și niciodată un înlocuitor pentru medici; practică-l doar alături de îngrijirea profesională, niciodată în locul ei. Consultă mai întâi un medic pentru orice problemă, nu amâna niciodată o examinare sau un tratament de dragul practicii, schimbă medicația doar de comun acord cu medicul tău și lucrează doar asupra ta — niciodată asupra altei persoane. Stai sau întinde-te confortabil. Închide ochii și privește blând în sus pe sub pleoapele închise. După câteva respirații adânci, începe numărătoarea lentă de la 100 la 1, apoi zăbovește în scena ta interioară pașnică. La final, numără în sus de la 1 la 5 și deschide ochii odihnit și treaz. Dacă apare leșin sau o anxietate puternică în orice moment, deschide ochii și oprește-te."
         },
         "intervals": [
           {
             "atSecond": 60,
             "label": {
               "hu": "Test elengedése — fejtől lábujjig",
-              "en": "Release the body — head to toes"
+              "en": "Release the body — head to toes",
+              "ro": "Eliberează corpul — de la cap până la degetele de la picioare"
             }
           },
           {
             "atSecond": 120,
             "label": {
               "hu": "Visszaszámlálás 100-tól 1-ig, lassan",
-              "en": "Countdown from 100 to 1, slowly"
+              "en": "Countdown from 100 to 1, slowly",
+              "ro": "Numărătoare de la 100 la 1, încet"
             }
           },
           {
             "atSecond": 420,
             "label": {
               "hu": "Békés belső helyszín — időzz ott",
-              "en": "Peaceful inner scene — linger there"
+              "en": "Peaceful inner scene — linger there",
+              "ro": "Scenă interioară pașnică — zăbovește acolo"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Fölfelé számolás 1-től 5-ig, ébredés",
-              "en": "Count upward 1 to 5, return awake"
+              "en": "Count upward 1 to 5, return awake",
+              "ro": "Numără în sus de la 1 la 5, revino treaz"
             }
           }
         ]
@@ -122,48 +140,55 @@
       "kind": "timer",
       "nevek": {
         "hu": "A három kép — gyógyító képzeletgyakorlat",
-        "en": "The three images — healing visualization"
+        "en": "The three images — healing visualization",
+        "ro": "Cele trei imagini — vizualizare de vindecare"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Ez a gyakorlat a belső állapotodat műveli: nyugalmat, reményt, együttműködést a gyógyulásoddal. Nem orvosi kezelés, nem diagnózis, és soha nem helyettesíti az orvost — kizárólag a szakszerű ellátás mellett végezd, sosem helyette; kezelést, gyógyszert csak orvosoddal egyeztetve módosíts, és panaszt soha ne a gyakorlással „kezelj” — vizsgálatot vagy kezelést soha, egyetlen napot se halassz miatta. Csak saját magadon dolgozz — más embert ne. Lazulj el a visszaszámlálással, majd a belső képernyőn haladj végig a három képen: a jelen állapot szelíd tudomásulvétele, a jobbulás képe, végül önmagad derűben és teljességben. A záró képnél időzz a legtovább, majd hálával számolj fölfelé 1-től 5-ig.",
-          "en": "This exercise cultivates your inner state: calm, hope, cooperation with your own recovery. It is not medical treatment, not a diagnosis, and never a replacement for doctors — practice it only alongside professional care, never instead of it; change treatment or medication only in agreement with your physician, and never “treat” a complaint with practice alone — never delay an examination or treatment because of it, not by a single day. Work only on yourself — never on another person. Relax with the countdown, then move through the three images on your mental screen: gentle acknowledgment of the present state, the image of improvement, and finally yourself in serenity and wholeness. Linger longest on the final image, then count upward from 1 to 5 with gratitude."
+          "en": "This exercise cultivates your inner state: calm, hope, cooperation with your own recovery. It is not medical treatment, not a diagnosis, and never a replacement for doctors — practice it only alongside professional care, never instead of it; change treatment or medication only in agreement with your physician, and never “treat” a complaint with practice alone — never delay an examination or treatment because of it, not by a single day. Work only on yourself — never on another person. Relax with the countdown, then move through the three images on your mental screen: gentle acknowledgment of the present state, the image of improvement, and finally yourself in serenity and wholeness. Linger longest on the final image, then count upward from 1 to 5 with gratitude.",
+          "ro": "Acest exercițiu cultivă starea ta interioară: calm, speranță, cooperare cu propria ta vindecare. Nu este tratament medical, nu este un diagnostic și niciodată un înlocuitor pentru medici — practică-l doar alături de îngrijirea profesională, niciodată în locul ei; schimbă tratamentul sau medicația doar de comun acord cu medicul tău și nu „trata” niciodată o problemă doar cu practica — nu amâna niciodată o examinare sau un tratament din cauza ei, nici măcar cu o singură zi. Lucrează doar asupra ta — niciodată asupra altei persoane. Relaxează-te cu numărătoarea, apoi treci prin cele trei imagini pe ecranul tău mental: recunoașterea blândă a stării prezente, imaginea îmbunătățirii și, în final, pe tine în seninătate și deplinătate. Zăbovește cel mai mult pe imaginea finală, apoi numără în sus de la 1 la 5 cu recunoștință."
         },
         "intervals": [
           {
             "atSecond": 180,
             "label": {
               "hu": "Ellazulás és belső képernyő",
-              "en": "Relaxation and the mental screen"
+              "en": "Relaxation and the mental screen",
+              "ro": "Relaxarea și ecranul mental"
             }
           },
           {
             "atSecond": 330,
             "label": {
               "hu": "Első kép — a jelen, szelíden",
-              "en": "First image — the present, gently"
+              "en": "First image — the present, gently",
+              "ro": "Prima imagine — prezentul, cu blândețe"
             }
           },
           {
             "atSecond": 510,
             "label": {
               "hu": "Második kép — a jobbulás",
-              "en": "Second image — improvement"
+              "en": "Second image — improvement",
+              "ro": "A doua imagine — îmbunătățirea"
             }
           },
           {
             "atSecond": 690,
             "label": {
               "hu": "Harmadik kép — derű és teljesség",
-              "en": "Third image — serenity and wholeness"
+              "en": "Third image — serenity and wholeness",
+              "ro": "A treia imagine — seninătate și deplinătate"
             }
           },
           {
             "atSecond": 840,
             "label": {
               "hu": "Hála, fölfelé számolás 1-től 5-ig",
-              "en": "Gratitude, count upward 1 to 5"
+              "en": "Gratitude, count upward 1 to 5",
+              "ro": "Recunoștință, numără în sus de la 1 la 5"
             }
           }
         ]
@@ -174,34 +199,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Esti lecsendesedés — jóakarat és elengedés",
-        "en": "Evening settling — goodwill and release"
+        "en": "Evening settling — goodwill and release",
+        "ro": "Așezarea de seară — bunăvoință și eliberare"
       },
       "timer": {
         "durationSeconds": 300,
         "instructions": {
           "hu": "Rövid esti gyakorlat elalvás előtt — nem orvosi kezelés, nem diagnózis, és soha nem helyettesíti az orvost; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasszal először orvoshoz fordulj, vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt, gyógyszert csak kezelőorvosoddal egyeztetve módosíts. Hunyd le a szemed, végy néhány mély lélegzetet, és engedd el a nap feszültségét. Tekintsd át röviden a napot ítélkezés nélkül, majd — ha szeretteid közt beteg van — küldj felé csendes jóakaratot: egyszerű kívánságot, hogy jól legyen. Ne diagnosztizálj és ne „dolgozz rajta” — csak a jó szándék szálljon. Zárd a gyakorlatot egy nyugodt mondattal a holnapi ébredésről.",
-          "en": "A short evening practice before sleep — not medical treatment, not a diagnosis, and never a replacement for doctors; practice it only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, and change medication only in agreement with your physician. Close your eyes, take a few deep breaths, and release the tension of the day. Review the day briefly without judgment, and — if someone you love is ill — send them quiet goodwill: a simple wish that they be well. Do not diagnose and do not “work on” them — let only the kind intention travel. Close the practice with a calm sentence about waking tomorrow."
+          "en": "A short evening practice before sleep — not medical treatment, not a diagnosis, and never a replacement for doctors; practice it only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, and change medication only in agreement with your physician. Close your eyes, take a few deep breaths, and release the tension of the day. Review the day briefly without judgment, and — if someone you love is ill — send them quiet goodwill: a simple wish that they be well. Do not diagnose and do not “work on” them — let only the kind intention travel. Close the practice with a calm sentence about waking tomorrow.",
+          "ro": "O scurtă practică de seară înainte de somn — nu este tratament medical, nu este un diagnostic și niciodată un înlocuitor pentru medici; practică-o doar alături de îngrijirea profesională, niciodată în locul ei. Consultă mai întâi un medic pentru orice problemă, nu amâna niciodată o examinare sau un tratament de dragul practicii și schimbă medicația doar de comun acord cu medicul tău. Închide ochii, ia câteva respirații adânci și eliberează tensiunea zilei. Treci în revistă ziua pe scurt, fără judecată, și — dacă cineva pe care îl iubești este bolnav — trimite-i bunăvoință liniștită: o simplă dorință ca el să fie bine. Nu diagnostica și nu „lucra asupra” lui — lasă doar intenția blândă să călătorească. Încheie practica cu o propoziție calmă despre trezirea de mâine."
         },
         "intervals": [
           {
             "atSecond": 60,
             "label": {
               "hu": "A nap elengedése",
-              "en": "Releasing the day"
+              "en": "Releasing the day",
+              "ro": "Eliberarea zilei"
             }
           },
           {
             "atSecond": 150,
             "label": {
               "hu": "Csendes jóakarat szeretteid felé",
-              "en": "Quiet goodwill toward loved ones"
+              "en": "Quiet goodwill toward loved ones",
+              "ro": "Bunăvoință liniștită față de cei dragi"
             }
           },
           {
             "atSecond": 240,
             "label": {
               "hu": "Nyugodt zárómondat, átadás az alvásnak",
-              "en": "Calm closing sentence, surrender to sleep"
+              "en": "Calm closing sentence, surrender to sleep",
+              "ro": "Propoziție calmă de încheiere, predare somnului"
             }
           }
         ]
@@ -212,7 +242,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "Napi ellenőrzőlista — a gyakorlás rendje",
-        "en": "Daily checklist — the order of practice"
+        "en": "Daily checklist — the order of practice",
+        "ro": "Lista zilnică de verificare — ordinea practicii"
       },
       "checklist": {
         "items": [
@@ -220,56 +251,64 @@
             "key": "c1",
             "nevek": {
               "hu": "Reggel, ébredés után gyakoroltam, kényelmes testhelyzetben",
-              "en": "I practiced in the morning after waking, in a comfortable position"
+              "en": "I practiced in the morning after waking, in a comfortable position",
+              "ro": "Am practicat dimineața după trezire, într-o poziție confortabilă"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Lassan számoltam visszafelé, és hagytam magam elmélyülni",
-              "en": "I counted down slowly and let myself deepen"
+              "en": "I counted down slowly and let myself deepen",
+              "ro": "Am numărat în jos încet și m-am lăsat să mă adâncesc"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Időztem a békés belső helyszínemen",
-              "en": "I lingered in my peaceful inner scene"
+              "en": "I lingered in my peaceful inner scene",
+              "ro": "Am zăbovit în scena mea interioară pașnică"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "A három képen előre haladtam, és a derűs záróképnél időztem legtovább",
-              "en": "I moved forward through the three images and lingered longest on the serene final one"
+              "en": "I moved forward through the three images and lingered longest on the serene final one",
+              "ro": "Am trecut prin cele trei imagini și am zăbovit cel mai mult pe cea finală, senină"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Fölfelé számolással, frissen és éberen tértem vissza",
-              "en": "I returned with the upward count, refreshed and alert"
+              "en": "I returned with the upward count, refreshed and alert",
+              "ro": "M-am întors cu numărătoarea în sus, odihnit și treaz"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Orvosi teendőim rendben: gyógyszert szedtem, időpontot megtartottam, semmit sem halasztottam a gyakorlás miatt",
-              "en": "My medical duties are in order: medication taken, appointments kept, nothing postponed for the sake of practice"
+              "en": "My medical duties are in order: medication taken, appointments kept, nothing postponed for the sake of practice",
+              "ro": "Îndatoririle mele medicale sunt în ordine: medicația luată, programările respectate, nimic amânat de dragul practicii"
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "Mások felé csak jelenlét és jóakarat irányult — nem diagnosztizáltam, nem „kezeltem” senkit",
-              "en": "Toward others only presence and goodwill flowed — I diagnosed no one and “treated” no one"
+              "en": "Toward others only presence and goodwill flowed — I diagnosed no one and “treated” no one",
+              "ro": "Către alții a curs doar prezență și bunăvoință — nu am diagnosticat pe nimeni și nu am „tratat” pe nimeni"
             }
           },
           {
             "key": "c8",
             "nevek": {
               "hu": "A naplómba őszintén feljegyeztem a belső gyümölcsöket — vagy a hiányukat",
-              "en": "I honestly recorded the inner fruits in my diary — or their absence"
+              "en": "I honestly recorded the inner fruits in my diary — or their absence",
+              "ro": "Am consemnat cinstit roadele lăuntrice în jurnalul meu — sau absența lor"
             }
           }
         ]
@@ -280,7 +319,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A gyógyító képzelet aspektusai",
-        "en": "Aspects of the healing imagination"
+        "en": "Aspects of the healing imagination",
+        "ro": "Aspecte ale imaginației de vindecare"
       },
       "aspektusPack": [
         {
@@ -289,7 +329,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Nyugalom — a test és az elme elengedésének képessége",
-            "en": "Calm — the capacity to release body and mind"
+            "en": "Calm — the capacity to release body and mind",
+            "ro": "Calmul — capacitatea de a elibera corpul și mintea"
           }
         },
         {
@@ -298,7 +339,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Remény — derűs, előre néző belső hang",
-            "en": "Hope — a serene, forward-looking inner voice"
+            "en": "Hope — a serene, forward-looking inner voice",
+            "ro": "Speranța — o voce interioară senină, îndreptată spre viitor"
           }
         },
         {
@@ -307,7 +349,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Képfegyelem — a képzelet tudatos, szelíd vezetése",
-            "en": "Image discipline — conscious, gentle guidance of imagination"
+            "en": "Image discipline — conscious, gentle guidance of imagination",
+            "ro": "Disciplina imaginii — ghidarea conștientă și blândă a imaginației"
           }
         },
         {
@@ -316,7 +359,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Állhatatosság — a napi gyakorlás és a kezelés hűséges megtartása",
-            "en": "Steadfastness — faithful keeping of daily practice and of one's treatment"
+            "en": "Steadfastness — faithful keeping of daily practice and of one's treatment",
+            "ro": "Statornicie — păstrarea credincioasă a practicii zilnice și a tratamentului propriu"
           }
         },
         {
@@ -325,7 +369,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Félelemképek — a képzelet átengedése a betegségtől való rettegésnek",
-            "en": "Fear-images — surrendering the imagination to dread of illness"
+            "en": "Fear-images — surrendering the imagination to dread of illness",
+            "ro": "Imagini-frică — predarea imaginației groazei de boală"
           }
         },
         {
@@ -334,7 +379,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Türelmetlenség — azonnali csodát követelni a gyakorlástól",
-            "en": "Impatience — demanding instant miracles from practice"
+            "en": "Impatience — demanding instant miracles from practice",
+            "ro": "Nerăbdare — a cere minuni instantanee de la practică"
           }
         },
         {
@@ -343,7 +389,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Önáltatás — a képzelet gyümölcseit tényként hirdetni, a józan mérlegelés elhagyása",
-            "en": "Self-deception — proclaiming the fruits of imagination as fact, abandoning sober judgment"
+            "en": "Self-deception — proclaiming the fruits of imagination as fact, abandoning sober judgment",
+            "ro": "Autoamăgire — a proclama roadele imaginației drept fapte, părăsind judecata trează"
           }
         },
         {
@@ -352,7 +399,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Ellátás-halogatás — orvosi vizsgálat vagy kezelés késleltetése a gyakorlás kedvéért",
-            "en": "Care-postponement — delaying medical examination or treatment for the sake of practice"
+            "en": "Care-postponement — delaying medical examination or treatment for the sake of practice",
+            "ro": "Amânarea îngrijirii — a amâna examinarea medicală sau tratamentul de dragul practicii"
           }
         }
       ]
@@ -362,7 +410,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Naplósablon — a gyakorlás gyümölcsei",
-        "en": "Journal template — the fruits of practice"
+        "en": "Journal template — the fruits of practice",
+        "ro": "Șablon de jurnal — roadele practicii"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -373,7 +422,8 @@
         ],
         "prompts": {
           "hu": "Milyen mély volt ma az ellazulásom, és mi segítette vagy zavarta? Milyen képekkel dolgoztam a belső képernyőn, és milyen érzést hagytak bennem? Milyen belső gyümölcsöt észleltem ma — nyugalmat, reményt, jobb hangulatot, több erőt a teendőkhöz —, és mi az, ami elmaradt? Őszintén: orvosi teendőim (gyógyszer, időpont, vizsgálat) rendben vannak-e, és semmit sem halasztottam a gyakorlás miatt? Ha szerettemért aggódom: ma jelenléttel és jóakarattal voltam-e mellette, ítélkezés és „kezelgetés” nélkül?",
-          "en": "How deep was my relaxation today, and what helped or hindered it? What images did I work with on the mental screen, and what feeling did they leave in me? What inner fruit did I notice today — calm, hope, better mood, more strength for my duties — and what failed to appear? Honestly: are my medical matters (medication, appointments, examinations) in order, with nothing postponed for the sake of practice? If I worry for a loved one: was I present with goodwill today, without judging and without “treating” them?"
+          "en": "How deep was my relaxation today, and what helped or hindered it? What images did I work with on the mental screen, and what feeling did they leave in me? What inner fruit did I notice today — calm, hope, better mood, more strength for my duties — and what failed to appear? Honestly: are my medical matters (medication, appointments, examinations) in order, with nothing postponed for the sake of practice? If I worry for a loved one: was I present with goodwill today, without judging and without “treating” them?",
+          "ro": "Cât de adâncă a fost relaxarea mea azi, și ce a ajutat-o sau a împiedicat-o? Cu ce imagini am lucrat pe ecranul mental, și ce simțământ mi-au lăsat? Ce roadă interioară am observat azi — calm, speranță, dispoziție mai bună, mai multă putere pentru îndatoririle mele — și ce nu a apărut? Cu sinceritate: sunt treburile mele medicale (medicație, programări, examinări) în ordine, fără nimic amânat de dragul practicii? Dacă îmi fac griji pentru o persoană dragă: am fost prezent cu bunăvoință azi, fără a judeca și fără a o „trata”?"
         }
       }
     },
@@ -382,7 +432,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés — a határok ismerete",
-        "en": "Self-check — knowing the boundaries"
+        "en": "Self-check — knowing the boundaries",
+        "ro": "Autoverificare — cunoașterea limitelor"
       },
       "quiz": {
         "passThreshold": 2,
@@ -391,7 +442,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi a gyógyító képzeletgyakorlat helye a gyógyulásban?",
-              "en": "What is the place of healing visualization in recovery?"
+              "en": "What is the place of healing visualization in recovery?",
+              "ro": "Care este locul vizualizării vindecătoare în recuperare?"
             },
             "options": {
               "hu": [
@@ -405,6 +457,12 @@
                 "An inner, supportive practice used only alongside professional medical care, never instead of it",
                 "A diagnostic tool with which I can identify my illnesses",
                 "A method for adjusting my medication doses on my own"
+              ],
+              "ro": [
+                "Un leac dovedit care poate înlocui tratamentul medical",
+                "O practică interioară de sprijin, folosită doar alături de îngrijirea medicală profesională, niciodată în locul ei",
+                "Un instrument de diagnostic cu care îmi pot identifica bolile",
+                "O metodă de a-mi ajusta singur dozele de medicamente"
               ]
             },
             "correctIndex": 1
@@ -413,7 +471,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Új vagy rosszabbodó tünetet észlelsz. Mi a helyes lépés?",
-              "en": "You notice a new or worsening symptom. What is the right step?"
+              "en": "You notice a new or worsening symptom. What is the right step?",
+              "ro": "Observi un simptom nou sau care se agravează. Care este pasul potrivit?"
             },
             "options": {
               "hu": [
@@ -427,6 +486,12 @@
                 "I stop my medication so I can see the effect of imagination more clearly",
                 "I see a doctor promptly — practice never delays an examination or treatment",
                 "I ask the mental screen what the problem might be"
+              ],
+              "ro": [
+                "Mai întâi lucrez asupra lui cu practica celor trei imagini timp de câteva săptămâni",
+                "Îmi opresc medicamentele ca să văd mai clar efectul imaginației",
+                "Merg degrabă la medic — practica nu amână niciodată o examinare sau un tratament",
+                "Întreb ecranul mental care ar putea fi problema"
               ]
             },
             "correctIndex": 2
@@ -435,7 +500,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Szeretted beteg. Mit tehetsz a hagyomány és e modul szabályai szerint?",
-              "en": "A loved one is ill. What may you do under the rules of this tradition and module?"
+              "en": "A loved one is ill. What may you do under the rules of this tradition and module?",
+              "ro": "O persoană dragă este bolnavă. Ce poți face conform regulilor acestei tradiții și ale acestui modul?"
             },
             "options": {
               "hu": [
@@ -449,6 +515,12 @@
                 "I treat them with my imagination, even without their knowledge",
                 "I talk them out of treatment if I believe imagination is enough",
                 "I accompany them with presence and goodwill and support their treatment — diagnosis and treatment are never mine to give"
+              ],
+              "ro": [
+                "Explorez și diagnostichez boala lor în starea de relaxare",
+                "Îi tratez cu imaginația mea, chiar fără știrea lor",
+                "Îi conving să renunțe la tratament dacă cred că imaginația e de ajuns",
+                "Îi însoțesc cu prezență și bunăvoință și le susțin tratamentul — diagnosticul și tratamentul nu îmi aparțin niciodată"
               ]
             },
             "correctIndex": 3
@@ -457,7 +529,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mivel méri ez a modul a gyakorlás értékét?",
-              "en": "By what does this module measure the worth of the practice?"
+              "en": "By what does this module measure the worth of the practice?",
+              "ro": "După ce măsoară acest modul vrednicia practicii?"
             },
             "options": {
               "hu": [
@@ -471,6 +544,12 @@
                 "By proof that the illness vanished because of imagination",
                 "By how many people I persuaded of the method",
                 "By the length of sessions and the speed of the countdown"
+              ],
+              "ro": [
+                "După roadele interioare: calm, speranță, dispoziție mai bună, statornicie în tratamentul propriu",
+                "După dovada că boala a dispărut din cauza imaginației",
+                "După câți oameni am convins de metodă",
+                "După durata sesiunilor și viteza numărătoarei inverse"
               ]
             },
             "correctIndex": 0

@@ -3,7 +3,8 @@
   "id": "practice-pack-numerology-core",
   "nevek": {
     "hu": "Numerológia — a számok tükre — gyakorlatok",
-    "en": "Numerology — the Mirror of Numbers — practices"
+    "en": "Numerology — the Mirror of Numbers — practices",
+    "ro": "Numerologie — Oglinda Numerelor — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Fold",
       "cim": {
         "hu": "Az életút-szám kiszámítása",
-        "en": "Calculating the life path number"
+        "en": "Calculating the life path number",
+        "ro": "Calcularea numărului căii vieții"
       },
       "cel": {
         "hu": "A számítási konvenció pontos elsajátítása és az első saját szám rögzítése — egyelőre jelentés nélkül, csak tényként.",
-        "en": "To learn the calculation convention precisely and to record your first number — for now without meaning, purely as fact."
+        "en": "To learn the calculation convention precisely and to record your first number — for now without meaning, purely as fact.",
+        "ro": "Să înveți convenția de calcul cu precizie și să-ți notezi primul număr — deocamdată fără înțeles, pur ca fapt."
       },
       "modszer": [
         {
           "hu": "Írd le papírra a teljes születési dátumodat számjegyekkel: év, hónap, nap.",
-          "en": "Write your full birth date on paper in digits: year, month, day."
+          "en": "Write your full birth date on paper in digits: year, month, day.",
+          "ro": "Scrie pe hârtie data ta completă de naștere în cifre: an, lună, zi."
         },
         {
           "hu": "Add össze az összes számjegyet egyetlen összeggé — például 1990. 07. 14. esetén 1+9+9+0+0+7+1+4 = 31.",
-          "en": "Add up all the digits into a single sum — for 1990-07-14, for example, 1+9+9+0+0+7+1+4 = 31."
+          "en": "Add up all the digits into a single sum — for 1990-07-14, for example, 1+9+9+0+0+7+1+4 = 31.",
+          "ro": "Adună toate cifrele într-o singură sumă — pentru 1990-07-14, de exemplu, 1+9+9+0+0+7+1+4 = 31."
         },
         {
           "hu": "Redukáld egyjegyűre: add össze az eredmény számjegyeit, amíg egy jegy marad (31 → 3+1 = 4).",
-          "en": "Reduce to a single digit: keep adding the digits of the result until one digit remains (31 → 3+1 = 4)."
+          "en": "Reduce to a single digit: keep adding the digits of the result until one digit remains (31 → 3+1 = 4).",
+          "ro": "Redu la o singură cifră: continuă să aduni cifrele rezultatului până rămâne o singură cifră (31 → 3+1 = 4)."
         },
         {
           "hu": "Ha közben 11 vagy 22 adódik ki, jegyezd fel külön is — a hagyomány ezeket mesterszámként nem redukálja tovább.",
-          "en": "If an 11 or a 22 turns up along the way, note it separately as well — the tradition treats these as master numbers and does not reduce them further."
+          "en": "If an 11 or a 22 turns up along the way, note it separately as well — the tradition treats these as master numbers and does not reduce them further.",
+          "ro": "Dacă pe parcurs apare un 11 sau un 22, notează-l și separat — tradiția le tratează ca numere maestru și nu le reduce mai departe."
         },
         {
           "hu": "Másnap számold újra frissen; csak az egyező eredményt tekintsd véglegesnek.",
-          "en": "Recalculate the next day with fresh eyes; treat only a matching result as final."
+          "en": "Recalculate the next day with fresh eyes; treat only a matching result as final.",
+          "ro": "Recalculează a doua zi cu ochi proaspeți; tratează ca final doar un rezultat care se potrivește."
         },
         {
           "hu": "Írd be a naplóba: életút-szám = ___ — jelentés nélkül, egyelőre csak a tényt.",
-          "en": "Enter into the journal: life path number = ___ — without meaning, for now just the fact."
+          "en": "Enter into the journal: life path number = ___ — without meaning, for now just the fact.",
+          "ro": "Notează în jurnal: numărul căii vieții = ___ — fără înțeles, deocamdată doar faptul."
         }
       ],
       "keret": {
         "hu": "A számítás konvenció — olyan, mint egy játékszabály: pontosan követhető, és mindenki ugyanarra az eredményre jut. A jelentés-réteg már a hagyomány elbeszélése. A szám önmagában semleges; azzá lesz, amit a reflexiód kihoz belőle.",
-        "en": "The calculation is a convention — like the rule of a game: precisely followable, and everyone arrives at the same result. The meaning layer is the tradition's narrative. The number in itself is neutral; it becomes what your reflection draws out of it."
+        "en": "The calculation is a convention — like the rule of a game: precisely followable, and everyone arrives at the same result. The meaning layer is the tradition's narrative. The number in itself is neutral; it becomes what your reflection draws out of it.",
+        "ro": "Calculul este o convenție — ca regula unui joc: se poate urma cu precizie, și toată lumea ajunge la același rezultat. Stratul de sens este narațiunea tradiției. Numărul în sine este neutru; devine ceea ce reflexia ta scoate din el."
       },
       "sorszam": 1
     },
@@ -61,41 +71,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "A betű-tábla és a kifejezés-szám",
-        "en": "The letter table and the expression number"
+        "en": "The letter table and the expression number",
+        "ro": "Tabelul literelor și numărul de expresie"
       },
       "cel": {
         "hu": "A pithagoraszi betű-tábla használatának begyakorlása és a kifejezés-szám kiszámítása a teljes születési névből.",
-        "en": "To practise using the Pythagorean letter table and to calculate the expression number from the full birth name."
+        "en": "To practise using the Pythagorean letter table and to calculate the expression number from the full birth name.",
+        "ro": "Să exersezi folosirea tabelului pitagoreic al literelor și să calculezi numărul de expresie din numele complet de naștere."
       },
       "modszer": [
         {
           "hu": "Írd fel a táblát: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9.",
-          "en": "Write out the table: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9."
+          "en": "Write out the table: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9.",
+          "ro": "Scrie tabelul: A J S = 1, B K T = 2, C L U = 3, D M V = 4, E N W = 5, F O X = 6, G P Y = 7, H Q Z = 8, I R = 9."
         },
         {
           "hu": "Írd le a teljes születési nevedet, ahogy az anyakönyvben áll; az ékezetes betűt vedd az alapbetűjének (á → a, ő → o), az y-t mindig mássalhangzóként kezeld, a kettős betűket (gy, ny, sz, cs) pedig az alkotó latin betűnként számold (gy = g+y) — ez a mi rögzített konvenciónk.",
-          "en": "Write down your full birth name as it stands on the birth record; treat an accented letter as its base letter (á → a, ő → o), always treat y as a consonant, and count digraphs (gy, ny, sz, cs) as their component Latin letters (gy = g+y) — this is our fixed convention."
+          "en": "Write down your full birth name as it stands on the birth record; treat an accented letter as its base letter (á → a, ő → o), always treat y as a consonant, and count digraphs (gy, ny, sz, cs) as their component Latin letters (gy = g+y) — this is our fixed convention.",
+          "ro": "Scrie numele tău complet de naștere așa cum apare pe certificatul de naștere; tratează o literă accentuată ca pe litera ei de bază (á → a, ő → o), tratează întotdeauna y ca pe o consoană, și numără digrafele (gy, ny, sz, cs) ca literele lor latine componente (gy = g+y) — aceasta este convenția noastră fixă."
         },
         {
           "hu": "Rendelj minden betűhöz számot, és add össze mindet.",
-          "en": "Assign a number to every letter and add them all up."
+          "en": "Assign a number to every letter and add them all up.",
+          "ro": "Atribuie un număr fiecărei litere și adună-le pe toate."
         },
         {
           "hu": "Redukáld egyjegyűre; a 11-et és a 22-t itt is jegyezd fel külön.",
-          "en": "Reduce to a single digit; note an 11 or a 22 separately here as well."
+          "en": "Reduce to a single digit; note an 11 or a 22 separately here as well.",
+          "ro": "Redu la o singură cifră; notează un 11 sau un 22 și aici separat."
         },
         {
           "hu": "Ellenőrizd az összeadást a betűkön visszafelé haladva is.",
-          "en": "Check the addition by working back through the letters in reverse."
+          "en": "Check the addition by working back through the letters in reverse.",
+          "ro": "Verifică adunarea parcurgând literele în sens invers."
         },
         {
           "hu": "Jegyezd a naplóba: kifejezés-szám = ___.",
-          "en": "Enter into the journal: expression number = ___."
+          "en": "Enter into the journal: expression number = ___.",
+          "ro": "Notează în jurnal: numărul de expresie = ___."
         }
       ],
       "keret": {
         "hu": "A betű–szám hozzárendelés rendszerfüggő: a káldeus tábla ugyanerre a névre más számot ad. Ez önmagában megmutatja, hogy konvencióval dolgozol, nem természeti törvénnyel — és éppen ez teszi tisztává a szimbólum-munkát: tudod, mit tartasz a kezedben.",
-        "en": "The letter-number assignment is system-dependent: the Chaldean table gives a different number for the very same name. That alone shows you are working with a convention, not a law of nature — and exactly this keeps the symbol work clean: you know what you are holding."
+        "en": "The letter-number assignment is system-dependent: the Chaldean table gives a different number for the very same name. That alone shows you are working with a convention, not a law of nature — and exactly this keeps the symbol work clean: you know what you are holding.",
+        "ro": "Atribuirea literă-număr depinde de sistem: tabelul caldeean dă un număr diferit pentru același nume. Doar atât arată că lucrezi cu o convenție, nu cu o lege a naturii — și tocmai asta menține munca cu simbolul curată: știi ce ții în mână."
       },
       "sorszam": 2
     },
@@ -107,37 +126,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A lélek-szám — a magánhangzók",
-        "en": "The soul number — the vowels"
+        "en": "The soul number — the vowels",
+        "ro": "Numărul sufletului — vocalele"
       },
       "cel": {
         "hu": "A harmadik szám kiszámítása a név magánhangzóiból, és a három szám együttes rögzítése egy helyen.",
-        "en": "To calculate the third number from the vowels of the name, and to record all three numbers together in one place."
+        "en": "To calculate the third number from the vowels of the name, and to record all three numbers together in one place.",
+        "ro": "Să calculezi al treilea număr din vocalele numelui și să notezi toate cele trei numere împreună într-un singur loc."
       },
       "modszer": [
         {
           "hu": "Vedd elő a betű-táblát és a teljes születési nevedet az előző gyakorlatból.",
-          "en": "Take out the letter table and your full birth name from the previous practice."
+          "en": "Take out the letter table and your full birth name from the previous practice.",
+          "ro": "Scoate tabelul literelor și numele tău complet de naștere din practica anterioară."
         },
         {
           "hu": "Húzd alá a magánhangzókat (a, e, i, o, u, ö, ü és ékezetes változataik — az y konvenciónk szerint mindig mássalhangzó, ezért nem számít ide), és csak azokhoz rendelj számot.",
-          "en": "Underline the vowels (a, e, i, o, u, ö, ü and their accented forms — by our convention y is always a consonant, so it does not count here) and assign numbers only to those."
+          "en": "Underline the vowels (a, e, i, o, u, ö, ü and their accented forms — by our convention y is always a consonant, so it does not count here) and assign numbers only to those.",
+          "ro": "Subliniază vocalele (a, e, i, o, u, ö, ü și formele lor accentuate — după convenția noastră y este întotdeauna consoană, deci nu se numără aici) și atribuie numere doar acestora."
         },
         {
           "hu": "Add össze, és redukáld egyjegyűre — a mesterszámokat itt is jegyezd fel külön.",
-          "en": "Add them up and reduce to a single digit — noting master numbers separately here as well."
+          "en": "Add them up and reduce to a single digit — noting master numbers separately here as well.",
+          "ro": "Adună-le și redu la o singură cifră — notând și aici numerele maestru separat."
         },
         {
           "hu": "Ha kedved tartja, számold ki a mássalhangzókból a személyiség-számot is — kiegészítésként.",
-          "en": "If you feel like it, calculate the personality number from the consonants as well — as a supplement."
+          "en": "If you feel like it, calculate the personality number from the consonants as well — as a supplement.",
+          "ro": "Dacă ai chef, calculează și numărul personalității din consoane — ca un supliment."
         },
         {
           "hu": "Jegyezd fel mindhárom számodat egy helyre a naplóban: életút, kifejezés, lélek.",
-          "en": "Record all three of your numbers in one place in the journal: life path, expression, soul."
+          "en": "Record all three of your numbers in one place in the journal: life path, expression, soul.",
+          "ro": "Notează toate cele trei numere ale tale într-un singur loc în jurnal: calea vieții, expresia, sufletul."
         }
       ],
       "keret": {
         "hu": "A hagyomány a lélek-számot a legbelső mozgatóként olvassa — mi kérdésként használjuk: „mi mozgat legbelül?\" A kérdést a napló teszi fel, és te válaszolsz rá, nem a szám.",
-        "en": "The tradition reads the soul number as the innermost motive — we use it as a question: 'what moves me deepest down?' The journal asks the question, and you answer it, not the number."
+        "en": "The tradition reads the soul number as the innermost motive — we use it as a question: 'what moves me deepest down?' The journal asks the question, and you answer it, not the number.",
+        "ro": "Tradiția citește numărul sufletului ca pe motivul cel mai lăuntric — noi îl folosim ca pe o întrebare: «ce mă mișcă cel mai adânc?» Jurnalul pune întrebarea, iar tu răspunzi, nu numărul."
       },
       "sorszam": 3
     },
@@ -148,41 +175,50 @@
       "sik": "lelek",
       "cim": {
         "hu": "Az első tükör-olvasás",
-        "en": "The first mirror reading"
+        "en": "The first mirror reading",
+        "ro": "Prima lectură în oglindă"
       },
       "cel": {
         "hu": "A számod hagyomány-minőségének első, szerkezetes elolvasása — három oszloppal, konkrét élet-példákkal, benyomások helyett.",
-        "en": "A first, structured reading of your number's traditional quality — with three columns and concrete life examples instead of impressions."
+        "en": "A first, structured reading of your number's traditional quality — with three columns and concrete life examples instead of impressions.",
+        "ro": "O primă lectură structurată a calității tradiționale a numărului tău — cu trei coloane și exemple concrete din viață în loc de impresii."
       },
       "modszer": [
         {
           "hu": "Olvasd el a modul minőség-szótárából a saját életút-számod hagyomány-minőségét.",
-          "en": "Read your own life path number's traditional quality from the module's dictionary of qualities."
+          "en": "Read your own life path number's traditional quality from the module's dictionary of qualities.",
+          "ro": "Citește calitatea tradițională a numărului tău al căii vieții din dicționarul de calități al modulului."
         },
         {
           "hu": "Nyiss három oszlopot a naplóban: „stimmel\" — „nem stimmel\" — „részben\".",
-          "en": "Open three columns in the journal: 'fits' — 'does not fit' — 'partly'."
+          "en": "Open three columns in the journal: 'fits' — 'does not fit' — 'partly'.",
+          "ro": "Deschide trei coloane în jurnal: 'se potrivește' — 'nu se potrivește' — 'parțial'."
         },
         {
           "hu": "Minden „stimmel\" mellé írj egy konkrét élet-példát; ne érzésre hivatkozz, hanem helyzetre.",
-          "en": "Next to every 'fits' write one concrete life example; cite a situation, not a feeling."
+          "en": "Next to every 'fits' write one concrete life example; cite a situation, not a feeling.",
+          "ro": "Lângă fiecare 'se potrivește' scrie un exemplu concret din viață; citează o situație, nu un sentiment."
         },
         {
           "hu": "A „nem stimmel\" oszlopot ugyanilyen gonddal töltsd ki — ez ugyanolyan informatív.",
-          "en": "Fill the 'does not fit' column with the same care — it is every bit as informative."
+          "en": "Fill the 'does not fit' column with the same care — it is every bit as informative.",
+          "ro": "Completează coloana 'nu se potrivește' cu aceeași grijă — este la fel de informativă."
         },
         {
           "hu": "Zárd egyetlen mondattal: mit tudtam meg magamról ebből az olvasásból?",
-          "en": "Close with a single sentence: what did I learn about myself from this reading?"
+          "en": "Close with a single sentence: what did I learn about myself from this reading?",
+          "ro": "Încheie cu o singură propoziție: ce am învățat despre mine din această lectură?"
         }
       ],
       "keret": {
         "hu": "A leírás tükör-prompt: amit felismersz benne, az rólad beszél, nem a számról. A cél nem az egyezés megtalálása, hanem az őszinte szétválogatás — a tiltakozásod ugyanolyan értékes anyag, mint a ráismerésed.",
-        "en": "The description is a mirror prompt: what you recognize in it speaks about you, not about the number. The goal is not to find agreement but to sort honestly — your protest is material just as valuable as your recognition."
+        "en": "The description is a mirror prompt: what you recognize in it speaks about you, not about the number. The goal is not to find agreement but to sort honestly — your protest is material just as valuable as your recognition.",
+        "ro": "Descrierea este un impuls-oglindă: ceea ce recunoști în ea vorbește despre tine, nu despre număr. Scopul nu este să găsești acordul, ci să sortezi cu onestitate — protestul tău este un material la fel de prețios ca recunoașterea."
       },
       "etika": {
         "hu": "A leírás nem sors és nem diagnózis: se magadról, se másról ne állíts fel belőle ítéletet. Ha az olvasás nyugtalanít, tedd le, és térj vissza máskor — tartós nyugtalanságnál beszélj szakemberrel.",
-        "en": "The description is neither fate nor diagnosis: pass no verdict from it on yourself or on anyone else. If the reading unsettles you, put it down and return another time — with persistent unease, talk to a professional."
+        "en": "The description is neither fate nor diagnosis: pass no verdict from it on yourself or on anyone else. If the reading unsettles you, put it down and return another time — with persistent unease, talk to a professional.",
+        "ro": "Descrierea nu este nici soartă, nici diagnostic: nu da verdicte din ea asupra ta sau asupra altcuiva. Dacă lectura te tulbură, las-o deoparte și revino altă dată — iar dacă neliniștea persistă, vorbește cu un specialist."
       },
       "sorszam": 4
     },
@@ -194,37 +230,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A Barnum-próba — becsületes ellenkísérlet",
-        "en": "The Barnum test — an honest counter-experiment"
+        "en": "The Barnum test — an honest counter-experiment",
+        "ro": "Testul Barnum — un contraexperiment onest"
       },
       "cel": {
         "hu": "Saját tapasztalatban megmérni, mennyire általánosak a szám-leírások — és ebből megtanulni, hol folyik valójában az önismereti munka.",
-        "en": "To measure in your own experience how general the number descriptions are — and to learn from this where the work of self-knowledge actually happens."
+        "en": "To measure in your own experience how general the number descriptions are — and to learn from this where the work of self-knowledge actually happens.",
+        "ro": "Ca să măsori din propria experiență cât de generale sunt descrierile numerelor — și să înveți din asta unde se petrece cu adevărat munca de cunoaștere de sine."
       },
       "modszer": [
         {
           "hu": "Mielőtt a saját számod leírását újraolvasnád, olvasd el egy MÁSIK szám minőség-leírását úgy, mintha a tiéd volna.",
-          "en": "Before re-reading your own number's description, read ANOTHER number's quality description as if it were yours."
+          "en": "Before re-reading your own number's description, read ANOTHER number's quality description as if it were yours.",
+          "ro": "Înainte să recitiești descrierea numărului tău, citește descrierea calităților ALTUI număr ca și cum ar fi a ta."
         },
         {
           "hu": "Jegyezd fel, hány eleme „talál\" rád — jellemzően meglepően sok fog.",
-          "en": "Note how many of its elements 'hit' you — typically a surprising number will."
+          "en": "Note how many of its elements 'hit' you — typically a surprising number will.",
+          "ro": "Notează câte dintre elementele ei te 'nimeresc' — de obicei un număr surprinzător de mare."
         },
         {
           "hu": "Ezután olvasd el a saját számod leírását, és jegyezd ugyanígy a találatokat.",
-          "en": "Then read your own number's description and note the hits the same way."
+          "en": "Then read your own number's description and note the hits the same way.",
+          "ro": "Apoi citește descrierea numărului tău și notează nimeririle în același fel."
         },
         {
           "hu": "Hasonlítsd össze a két találat-arányt, és írd le, mit mutat ez a leírások általánosságáról.",
-          "en": "Compare the two hit rates and write down what this shows about the generality of the descriptions."
+          "en": "Compare the two hit rates and write down what this shows about the generality of the descriptions.",
+          "ro": "Compară cele două rate de nimerire și scrie ce arată asta despre generalitatea descrierilor."
         },
         {
           "hu": "Fogalmazd meg a tanulságot a naplóban: a ráismerés a te munkád, nem a szám tulajdonsága — és éppen ezért használható a szám tükörnek.",
-          "en": "Formulate the lesson in the journal: the recognition is your work, not a property of the number — and exactly for that reason the number can serve as a mirror."
+          "en": "Formulate the lesson in the journal: the recognition is your work, not a property of the number — and exactly for that reason the number can serve as a mirror.",
+          "ro": "Formulează lecția în jurnal: recunoașterea este munca ta, nu o proprietate a numărului — și tocmai de aceea numărul poate sluji ca oglindă."
         }
       ],
       "keret": {
         "hu": "Ez a Barnum-hatás saját bőrön megélt leckéje, és egyben oltás is: rokona a mentalizmus-pajzsnak — aki ismeri a hatáskeltés működését, arra az nem hat észrevétlenül. A próba nem rontja el a tükör-munkát, hanem megtisztítja: tudni fogod, mit csinálsz, amikor ráismersz valamire.",
-        "en": "This is the Barnum effect learned on your own skin, and an inoculation at the same time: a cousin of the mentalism shield — whoever knows how an effect works is not swayed by it unnoticed. The test does not spoil the mirror work, it cleans it: you will know what you are doing when you recognize something."
+        "en": "This is the Barnum effect learned on your own skin, and an inoculation at the same time: a cousin of the mentalism shield — whoever knows how an effect works is not swayed by it unnoticed. The test does not spoil the mirror work, it cleans it: you will know what you are doing when you recognize something.",
+        "ro": "Acesta este efectul Barnum învățat pe pielea ta și, totodată, un vaccin: o rudă a scutului de mentalism — cine știe cum funcționează un efect nu se lasă clătinat de el pe neobservate. Testul nu strică munca cu oglinda, o curăță: vei ști ce faci când recunoști ceva."
       },
       "sorszam": 5
     },
@@ -236,37 +280,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Rezonancia-napló — egy hét",
-        "en": "Resonance journal — one week"
+        "en": "Resonance journal — one week",
+        "ro": "Jurnal de rezonanță — o săptămână"
       },
       "cel": {
         "hu": "Egyhetes naplós munka a számod minőségeivel: napi egy minőség, napi egy konkrét helyzet — és a hét végén a saját mintáid kirajzolódása.",
-        "en": "A week of journal work with your number's qualities: one quality a day, one concrete situation a day — and at the week's end your own patterns taking shape."
+        "en": "A week of journal work with your number's qualities: one quality a day, one concrete situation a day — and at the week's end your own patterns taking shape.",
+        "ro": "O săptămână de lucru în jurnal cu calitățile numărului tău: o calitate pe zi, o situație concretă pe zi — iar la finalul săptămânii, propriile tipare care prind contur."
       },
       "modszer": [
         {
           "hu": "Egy héten át minden este nyisd meg a modul szám-tükör napló-sablonját.",
-          "en": "For one week, open the module's number mirror journal template every evening."
+          "en": "For one week, open the module's number mirror journal template every evening.",
+          "ro": "Timp de o săptămână, deschide în fiecare seară șablonul de jurnal-oglindă al numărului din modul."
         },
         {
           "hu": "Válassz naponta egyetlen minőséget a számod leírásából, és keresd meg a nap egy konkrét helyzetét, ahol megjelent — vagy épp feltűnően hiányzott.",
-          "en": "Each day choose a single quality from your number's description and find one concrete situation of the day where it appeared — or was conspicuously absent."
+          "en": "Each day choose a single quality from your number's description and find one concrete situation of the day where it appeared — or was conspicuously absent.",
+          "ro": "În fiecare zi alege o singură calitate din descrierea numărului tău și găsește o situație concretă din ziua respectivă în care a apărut — sau a lipsit în mod izbitor."
         },
         {
           "hu": "Írd le: „ma ebben ismertem magamra / ebben nem\" — mindig helyzettel, ne címkével.",
-          "en": "Write: 'today I recognized myself in this / not in this' — always with a situation, never with a label."
+          "en": "Write: 'today I recognized myself in this / not in this' — always with a situation, never with a label.",
+          "ro": "Scrie: 'azi m-am recunoscut în asta / nu m-am recunoscut în asta' — întotdeauna cu o situație, niciodată cu o etichetă."
         },
         {
           "hu": "A hét végén olvasd vissza mind a hét bejegyzést egyben.",
-          "en": "At the end of the week, read all seven entries back in one sitting."
+          "en": "At the end of the week, read all seven entries back in one sitting.",
+          "ro": "La finalul săptămânii, recitiți toate cele șapte însemnări dintr-o singură ședință."
         },
         {
           "hu": "Írj záró összegzést: mely minták tértek vissza tőlem — a számtól függetlenül is?",
-          "en": "Write a closing summary: which patterns kept returning from me — even independently of the number?"
+          "en": "Write a closing summary: which patterns kept returning from me — even independently of the number?",
+          "ro": "Scrie un rezumat de încheiere: care tipare s-au tot întors din mine — chiar independent de număr?"
         }
       ],
       "keret": {
         "hu": "A hét anyaga a tiéd: a szám csak a lencse volt, ami a figyelmedet naponta egy pontra gyűjtötte. A visszaolvasásnál már nem a számot látod, hanem magadat — és pontosan ez volt a cél.",
-        "en": "The week's material is yours: the number was only the lens that gathered your attention to one point each day. Reading back, you no longer see the number but yourself — and that was exactly the goal."
+        "en": "The week's material is yours: the number was only the lens that gathered your attention to one point each day. Reading back, you no longer see the number but yourself — and that was exactly the goal.",
+        "ro": "Materialul săptămânii este al tău: numărul a fost doar lentila care ți-a adunat atenția într-un singur punct în fiecare zi. Recitind, nu mai vezi numărul, ci pe tine — și exact acesta a fost scopul."
       },
       "sorszam": 6
     },
@@ -278,41 +330,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "Szám-szemlélet — a jegy mint kép",
-        "en": "Number contemplation — the digit as image"
+        "en": "Number contemplation — the digit as image",
+        "ro": "Contemplarea numărului — cifra ca imagine"
       },
       "cel": {
         "hu": "Csendes koncentrációs gyakorlat a saját számjegyeden: a figyelem tartása és a felmerülő asszociációk ítélkezésmentes fogadása.",
-        "en": "A quiet concentration practice on your own digit: holding attention and receiving the surfacing associations without judgement."
+        "en": "A quiet concentration practice on your own digit: holding attention and receiving the surfacing associations without judgement.",
+        "ro": "O practică liniștită de concentrare pe propria cifră: ținerea atenției și primirea asociațiilor care ies la suprafață, fără judecată."
       },
       "modszer": [
         {
           "hu": "Ülj le csendben, végy néhány mély lélegzetet.",
-          "en": "Sit down in silence and take a few deep breaths."
+          "en": "Sit down in silence and take a few deep breaths.",
+          "ro": "Așază-te în tăcere și ia câteva respirații adânci."
         },
         {
           "hu": "Idézd a belső látóteredbe az életút-számod jegyét mint egyszerű képet — formát, vonalat.",
-          "en": "Bring the digit of your life path number into your inner field of view as a simple image — form, line."
+          "en": "Bring the digit of your life path number into your inner field of view as a simple image — form, line.",
+          "ro": "Adu cifra numărului tău de cale a vieții în câmpul tău interior de vedere ca pe o imagine simplă — formă, linie."
         },
         {
           "hu": "Tartsd rajta nyugodtan a figyelmed; ha elkalandozol, szelíden térj vissza.",
-          "en": "Rest your attention on it calmly; when you drift, return gently."
+          "en": "Rest your attention on it calmly; when you drift, return gently.",
+          "ro": "Odihnește-ți atenția pe ea cu calm; când te rătăcești, revino blând."
         },
         {
           "hu": "Engedd, hogy asszociációk merüljenek fel — kép, emlék, szó —, erőltetés nélkül.",
-          "en": "Let associations surface — an image, a memory, a word — without forcing."
+          "en": "Let associations surface — an image, a memory, a word — without forcing.",
+          "ro": "Lasă asociațiile să iasă la suprafață — o imagine, o amintire, un cuvânt — fără a forța."
         },
         {
           "hu": "A végén jegyezd le, ami jött, értékelés nélkül — a napló majd megmutatja, mi tér vissza.",
-          "en": "At the end, write down what came, without evaluating it — the journal will show what keeps returning."
+          "en": "At the end, write down what came, without evaluating it — the journal will show what keeps returning.",
+          "ro": "La final, notează ce a venit, fără a evalua — jurnalul va arăta ce se tot întoarce."
         }
       ],
       "keret": {
         "hu": "Közeli rokona a bardoni érzékkoncentrációnak: egyetlen egyszerű tárgyon tartott figyelem. Ami az asszociációkban felmerül, az belőled jön — a jegy csendes vetítővászon, nem üzenő fél.",
-        "en": "A close cousin of Bardon's sense-concentration: attention held on a single simple object. What surfaces in the associations comes from you — the digit is a quiet projection screen, not a party sending messages."
+        "en": "A close cousin of Bardon's sense-concentration: attention held on a single simple object. What surfaces in the associations comes from you — the digit is a quiet projection screen, not a party sending messages.",
+        "ro": "O rudă apropiată a concentrării senzoriale a lui Bardon: atenția ținută pe un singur obiect simplu. Ce iese la suprafață în asociații vine din tine — cifra este un ecran liniștit de proiecție, nu o parte care trimite mesaje."
       },
       "etika": {
         "hu": "Ha nyomasztó tartalom merülne fel, zárd le nyugodtan a gyakorlatot, és térj vissza a hétköznapi figyelemhez. Tartós nyugtalanságnál beszélj szakemberrel — a gyakorlás sosem előzi meg a jóllétedet.",
-        "en": "If oppressive content surfaces, close the practice calmly and return to ordinary attention. With persistent unease, talk to a professional — practice never comes before your well-being."
+        "en": "If oppressive content surfaces, close the practice calmly and return to ordinary attention. With persistent unease, talk to a professional — practice never comes before your well-being.",
+        "ro": "Dacă iese la suprafață conținut apăsător, închide practica cu calm și revino la atenția obișnuită. Dacă neliniștea persistă, vorbește cu un profesionist — practica nu vine niciodată înaintea stării tale de bine."
       },
       "sorszam": 7
     },
@@ -324,41 +385,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "A szám két pólusa — fény és árnyék",
-        "en": "The number's two poles — light and shadow"
+        "en": "The number's two poles — light and shadow",
+        "ro": "Cei doi poli ai numărului — lumină și umbră"
       },
       "cel": {
         "hu": "A számod fő minőségének kétpólusú feltérképezése — érett forma és túlhajtott árnyék — konkrét helyzetekkel, és a minőség tudatos terelése az érett pólus felé.",
-        "en": "To map your number's main quality in two poles — mature form and overdriven shadow — with concrete situations, and to consciously steer the quality toward the mature pole."
+        "en": "To map your number's main quality in two poles — mature form and overdriven shadow — with concrete situations, and to consciously steer the quality toward the mature pole.",
+        "ro": "Să cartografiezi calitatea principală a numărului tău în doi poli — forma matură și umbra exagerată — cu situații concrete, și să orientezi conștient calitatea spre polul matur."
       },
       "modszer": [
         {
           "hu": "Vedd a számod fő minőségét (például a 4-nél: rend), és írd fel a két pólusát: érett formája (megbízhatóság) és túlhajtott árnyéka (merevség).",
-          "en": "Take your number's main quality (for 4, for example: order) and write down its two poles: its mature form (dependability) and its overdriven shadow (rigidity)."
+          "en": "Take your number's main quality (for 4, for example: order) and write down its two poles: its mature form (dependability) and its overdriven shadow (rigidity).",
+          "ro": "Ia calitatea principală a numărului tău (pentru 4, de exemplu: ordinea) și notează-i cei doi poli: forma matură (fiabilitatea) și umbra exagerată (rigiditatea)."
         },
         {
           "hu": "Keress az elmúlt hónapból egy-egy konkrét helyzetet mindkét pólusra.",
-          "en": "Find one concrete situation from the past month for each of the two poles."
+          "en": "Find one concrete situation from the past month for each of the two poles.",
+          "ro": "Găsește o situație concretă din ultima lună pentru fiecare dintre cei doi poli."
         },
         {
           "hu": "Írd le, mi billentette a minőséget árnyékba — fáradtság, félelem, megszokás?",
-          "en": "Write down what tipped the quality into shadow — tiredness, fear, habit?"
+          "en": "Write down what tipped the quality into shadow — tiredness, fear, habit?",
+          "ro": "Notează ce a basculat calitatea în umbră — oboseala, frica, obiceiul?"
         },
         {
           "hu": "Fogalmazz meg egy kicsi, konkrét lépést, ami a minőséget az érett pólus felé tereli.",
-          "en": "Formulate one small, concrete step that steers the quality toward the mature pole."
+          "en": "Formulate one small, concrete step that steers the quality toward the mature pole.",
+          "ro": "Formulează un pas mic, concret, care orientează calitatea spre polul matur."
         },
         {
           "hu": "Vezesd be mindkét pólust a modul aspektus-tükrébe, és kövesd őket a naplóban.",
-          "en": "Enter both poles into the module's aspect mirror and follow them in the journal."
+          "en": "Enter both poles into the module's aspect mirror and follow them in the journal.",
+          "ro": "Introdu ambii poli în oglinda de aspecte a modulului și urmărește-i în jurnal."
         }
       ],
       "keret": {
         "hu": "Ez a bardoni fekete–fehér lélektükör mozdulata, numerológiai szótárral: nem a szám ítél rólad, hanem te leltározol — két pólusban, ahogy a Bardon-lépések tanítják. A szám itt már csak rendezőelv; a munka a jellemvonásokon folyik.",
-        "en": "This is the movement of Bardon's black-and-white soul mirror, with a numerological vocabulary: the number does not judge you — you take inventory, in two poles, as the Bardon steps teach. Here the number is merely an organizing principle; the work happens on the character traits."
+        "en": "This is the movement of Bardon's black-and-white soul mirror, with a numerological vocabulary: the number does not judge you — you take inventory, in two poles, as the Bardon steps teach. Here the number is merely an organizing principle; the work happens on the character traits.",
+        "ro": "Aceasta este mișcarea oglinzii negre-albe a sufletului a lui Bardon, cu un vocabular numerologic: numărul nu te judecă — tu faci inventarul, în doi poli, așa cum învață treptele lui Bardon. Aici numărul este doar un principiu organizator; munca se face pe trăsăturile de caracter."
       },
       "etika": {
         "hu": "Az árnyék-munka önismeret, nem önostorozás: a leltár leírásra való, nem ítéletre. Akut lelki teher idején ne ezt gyakorold — előbb stabilizálódj, szükség esetén szakember segítségével.",
-        "en": "Shadow work is self-knowledge, not self-flagellation: the inventory is for describing, not for sentencing. In times of acute distress do not practise this — stabilize first, with professional help if needed."
+        "en": "Shadow work is self-knowledge, not self-flagellation: the inventory is for describing, not for sentencing. In times of acute distress do not practise this — stabilize first, with professional help if needed.",
+        "ro": "Lucrul cu umbra este cunoaștere de sine, nu autoflagelare: inventarul e pentru a descrie, nu pentru a condamna. În perioade de suferință acută nu practica asta — stabilizează-te mai întâi, cu ajutor profesionist dacă e nevoie."
       },
       "sorszam": 8
     },
@@ -370,41 +440,50 @@
       "elem": "Ido",
       "cim": {
         "hu": "Döntés-lencse — a józan használat",
-        "en": "The decision lens — sober use"
+        "en": "The decision lens — sober use",
+        "ro": "Lentila deciziei — folosire trează"
       },
       "cel": {
         "hu": "Megtanulni a szám egyetlen legitim döntés-közeli használatát: kérdést adhat a mérlegeléshez — a döntést és az indoklást mindig te írod.",
-        "en": "To learn the number's single legitimate use near decisions: it may contribute a question to the weighing — the decision and its reasoning are always written by you."
+        "en": "To learn the number's single legitimate use near decisions: it may contribute a question to the weighing — the decision and its reasoning are always written by you.",
+        "ro": "Să înveți singura folosire legitimă a numărului pe lângă decizii: poate contribui cu o întrebare la cântărire — decizia și raționamentul ei sunt întotdeauna scrise de tine."
       },
       "modszer": [
         {
           "hu": "Válassz egy valódi, de nem sürgős mérlegelnivalót.",
-          "en": "Choose a real but non-urgent matter to weigh."
+          "en": "Choose a real but non-urgent matter to weigh.",
+          "ro": "Alege o chestiune reală, dar neurgentă, pe care să o cântărești."
         },
         {
           "hu": "Írd le a helyzetet a szokásos józan szempontjaiddal: tények, lehetőségek, következmények.",
-          "en": "Write out the situation with your usual sober considerations: facts, options, consequences."
+          "en": "Write out the situation with your usual sober considerations: facts, options, consequences.",
+          "ro": "Scrie situația cu considerațiile tale obișnuite, treze: fapte, opțiuni, consecințe."
         },
         {
           "hu": "Ezután — külön bekezdésben — nézd meg a helyzetet a számod minősége felől mint egyetlen további szemponton át: mit venne észre itt a rend embere, vagy a változásé?",
-          "en": "Then — in a separate paragraph — look at the situation through your number's quality as one additional viewpoint: what would the person of order notice here, or the person of change?"
+          "en": "Then — in a separate paragraph — look at the situation through your number's quality as one additional viewpoint: what would the person of order notice here, or the person of change?",
+          "ro": "Apoi — într-un paragraf separat — privește situația prin calitatea numărului tău ca un punct de vedere suplimentar: ce ar observa aici persoana ordinii, sau persoana schimbării?"
         },
         {
           "hu": "Vesd össze: adott-e a lencse olyan szempontot, ami a józan listádból kimaradt?",
-          "en": "Compare: did the lens contribute a consideration your sober list had missed?"
+          "en": "Compare: did the lens contribute a consideration your sober list had missed?",
+          "ro": "Compară: a contribuit lentila cu o considerație pe care lista ta trează o omisese?"
         },
         {
           "hu": "Hozd meg a döntést a teljes listád alapján, és írd le a saját indoklásodat a naplóba — a döntés minden esetben a tiéd.",
-          "en": "Make the decision based on your complete list and write your own reasoning in the journal — the decision is yours in every case."
+          "en": "Make the decision based on your complete list and write your own reasoning in the journal — the decision is yours in every case.",
+          "ro": "Ia decizia pe baza listei tale complete și scrie-ți propriul raționament în jurnal — decizia este a ta în orice caz."
         }
       ],
       "keret": {
         "hu": "A szám sosem dönt — legfeljebb kérdezni tud. Ha azon kapod magad, hogy azt szeretnéd, döntsön helyetted, az a jel, hogy le kell tenned: a tükör visszakérdez, de nem válaszol helyetted.",
-        "en": "The number never decides — at most it can ask. If you catch yourself wishing it would decide for you, that is the signal to put it down: the mirror asks back, but it does not answer in your place."
+        "en": "The number never decides — at most it can ask. If you catch yourself wishing it would decide for you, that is the signal to put it down: the mirror asks back, but it does not answer in your place.",
+        "ro": "Numărul nu decide niciodată — cel mult poate întreba. Dacă te prinzi dorind ca el să decidă în locul tău, acesta e semnalul să-l lași deoparte: oglinda întreabă înapoi, dar nu răspunde în locul tău."
       },
       "etika": {
         "hu": "Pénzügyi, egészségi vagy más nagy horderejű döntést soha ne alapozz számokra: ilyen kérdésben a tárgyi oldalon orvos, szakértő és józan tervezés dolgozik — a gyakorlat kizárólag az ön-megfigyelést szolgálja. A döntések kiszervezése bármilyen eszköznek ellentétes e modul tanításával.",
-        "en": "Never base a financial, health or other high-stakes decision on numbers: in such matters the substantive side belongs to a doctor, an expert and sober planning — this practice serves self-observation only. Outsourcing decisions to any tool is contrary to this module's teaching."
+        "en": "Never base a financial, health or other high-stakes decision on numbers: in such matters the substantive side belongs to a doctor, an expert and sober planning — this practice serves self-observation only. Outsourcing decisions to any tool is contrary to this module's teaching.",
+        "ro": "Nu baza niciodată o decizie financiară, de sănătate sau de altă miză mare pe numere: în astfel de chestiuni partea de fond aparține unui medic, unui expert și planificării treze — această practică servește doar auto-observării. Externalizarea deciziilor către orice instrument este contrară învățăturii acestui modul."
       },
       "sorszam": 9
     }

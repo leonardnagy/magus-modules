@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Joe Dispenza — A placebo te magad légy",
-    "en": "Joe Dispenza — You Are the Placebo"
+    "en": "Joe Dispenza — You Are the Placebo",
+    "ro": "Joe Dispenza — You Are the Placebo"
   },
   "description": {
     "hu": "Gyakorlati modul Joe Dispenza hiedelem-átalakító meditációs módszeréhez: mentális próba, emelkedett érzelem és tiszta szándék párosítása. A modul Dispenza saját modelljeként mutatja be a tanítást, és a belső gyümölcsökkel — hangulat, szokások, szemlélet — méri a haladást. Nem orvosi kezelés, és nem helyettesíti azt.",
-    "en": "A practical module on Joe Dispenza’s belief-change meditation method: mental rehearsal and elevated emotion paired with clear intention. The teaching is presented as Dispenza’s own model, and progress is measured by inner fruits — mood, habits, outlook. This is not medical treatment and never replaces it."
+    "en": "A practical module on Joe Dispenza’s belief-change meditation method: mental rehearsal and elevated emotion paired with clear intention. The teaching is presented as Dispenza’s own model, and progress is measured by inner fruits — mood, habits, outlook. This is not medical treatment and never replaces it.",
+    "ro": "Un modul practic despre metoda de meditație a lui Joe Dispenza pentru schimbarea credințelor: repetiție mentală și emoție elevată asociate cu o intenție clară. Învățătura este prezentată ca modelul propriu al lui Dispenza, iar progresul se măsoară după roadele lăuntrice — dispoziție, obiceiuri, perspectivă. Aceasta nu este un tratament medical și nu îl înlocuiește niciodată."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/dispenza.placebo/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Ki Joe Dispenza, és mit ígér ez a modul?",
-        "en": "Who Is Joe Dispenza, and What Does This Module Promise?"
+        "en": "Who Is Joe Dispenza, and What Does This Module Promise?",
+        "ro": "Cine este Joe Dispenza și ce promite acest modul?"
       },
       "text": {
         "hu": "„Mindig is mi magunk voltunk a placebo.” — Joe Dispenza\n\nJoe Dispenza kiropraktőr, előadó és író, aki a placebohatás gondolatát fordította meg: ha az emberek egy hatóanyag nélküli tablettától is képesek jobban lenni pusztán azért, mert hisznek benne, akkor a hit és a várakozás belső állapota önmagában is átformálja a testet: amit a tudatod tartósan igaznak fogad el, azt a test előbb-utóbb magára ölti. * Könyve, „A placebo te magad légy”, erre a modellre épít: meditációval, mentális próbával és érzelmi átállítással tanítja az olvasót arra, hogy régi, önkorlátozó hiedelmeit új létállapotra cserélje.\n\n**Őszinte keret.** Ebben a modulban Dispenza tanítását az ő saját modelljeként mutatjuk be, nem bizonyított tényként. A könyvben szereplő gyógyulástörténetek és workshop-beszámolók a hagyomány állításai — inspirálóak lehetnek, de nem tekintjük őket bizonyítéknak. A gyakorlat értékét itt kizárólag belső gyümölcsökkel mérjük: nyugodtabb lettél-e, változtak-e a szokásaid, derűsebb-e a szemléleted, kitartóbb vagy-e a mindennapi fegyelmedben.\n\n**Orvosi korlát — ez nem alku tárgya.** Ez a gyakorlat nem orvosi kezelés, nem diagnózis és nem terápia. Soha ne hagyd abba és ne módosítsd a gyógyszereidet vagy a kezelésedet, kizárólag orvosoddal egyeztetve. A meditáció a gondozás mellett használható, soha nem helyette. Semmilyen gyógyulási eredményt nem ígérünk — csak egy fegyelmezett belső munkát, amelynek gyümölcseit te magad figyelheted meg a naplódban.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "„We ourselves have always been the placebo.” — Joe Dispenza\n\nJoe Dispenza is a chiropractor, lecturer and author who turned the idea of the placebo effect around: if people can improve after taking a pill with no active ingredient simply because they believe in it, then the inner state of belief and expectation itself remakes the body: what your mind holds as true for long enough, the flesh eventually takes on. * His book, You Are the Placebo, builds on this model: through meditation, mental rehearsal and emotional re-conditioning, he teaches the reader to exchange old, self-limiting beliefs for a new state of being.\n\n**Honest framing.** In this module Dispenza’s teaching is presented as his own model, not as established fact. The healing stories and workshop reports in the book are the tradition’s claims — they may inspire, but we do not treat them as proof. Here the value of the practice is measured only by inner fruits: whether you become calmer, whether your habits shift, whether your outlook brightens, whether your daily discipline deepens.\n\n**Medical fence — non-negotiable.** This practice is not medical treatment, diagnosis or therapy. Never stop or alter your medication or treatment except in consultation with your doctor. Meditation may be used alongside medical care, never instead of it. No healing outcome is promised — only a disciplined inner work whose fruits you can observe for yourself in your diary.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "„We ourselves have always been the placebo.” — Joe Dispenza\n\nJoe Dispenza is a chiropractor, lecturer and author who turned the idea of the placebo effect around: if people can improve after taking a pill with no active ingredient simply because they believe in it, then the inner state of belief and expectation itself remakes the body: what your mind holds as true for long enough, the flesh eventually takes on. * His book, You Are the Placebo, builds on this model: through meditation, mental rehearsal and emotional re-conditioning, he teaches the reader to exchange old, self-limiting beliefs for a new state of being.\n\n**Honest framing.** In this module Dispenza’s teaching is presented as his own model, not as established fact. The healing stories and workshop reports in the book are the tradition’s claims — they may inspire, but we do not treat them as proof. Here the value of the practice is measured only by inner fruits: whether you become calmer, whether your habits shift, whether your outlook brightens, whether your daily discipline deepens.\n\n**Medical fence — non-negotiable.** This practice is not medical treatment, diagnosis or therapy. Never stop or alter your medication or treatment except in consultation with your doctor. Meditation may be used alongside medical care, never instead of it. No healing outcome is promised — only a disciplined inner work whose fruits you can observe for yourself in your diary.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "„Noi înșine am fost întotdeauna placebo-ul.” — Joe Dispenza\n\nJoe Dispenza este chiropractician, lector și autor care a întors pe dos ideea efectului placebo: dacă oamenii se pot ameliora după ce iau o pastilă fără ingredient activ pur și simplu pentru că cred în ea, atunci starea interioară de credință și așteptare însăși reface corpul: ceea ce mintea ta ține drept adevărat suficient de mult timp, carnea sfârșește prin a lua asupra sa. * Cartea sa, You Are the Placebo, construiește pe acest model: prin meditație, repetiție mentală și recondiționare emoțională, el îl învață pe cititor să schimbe vechile credințe autolimitative cu o nouă stare de a fi.\n\n**Încadrare onestă.** În acest modul, învățătura lui Dispenza este prezentată ca modelul său propriu, nu ca fapt stabilit. Poveștile de vindecare și rapoartele de la workshopuri din carte sunt pretențiile tradiției — pot inspira, dar nu le tratăm ca dovezi. Aici valoarea practicii se măsoară doar după roadele lăuntrice: dacă devii mai calm, dacă ți se schimbă obiceiurile, dacă perspectiva ți se luminează, dacă disciplina ta zilnică se adâncește.\n\n**Gard medical — non-negociabil.** Această practică nu este tratament medical, diagnostic sau terapie. Nu opri și nu modifica niciodată medicația sau tratamentul decât consultându-te cu medicul tău. Meditația poate fi folosită alături de îngrijirea medicală, niciodată în locul ei. Niciun rezultat de vindecare nu este promis — doar o muncă lăuntrică disciplinată ale cărei roade le poți observa tu însuți în jurnal.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A modell: gondolatból hiedelem, hiedelemből percepció",
-        "en": "The Model: From Thought to Belief to Perception"
+        "en": "The Model: From Thought to Belief to Perception",
+        "ro": "Modelul: De la gând la credință la percepție"
       },
       "text": {
         "hu": "Dispenza modelljében a belső világ rétegesen épül fel. Egy gondolat, amelyet újra és újra elgondolunk és átérzünk, idővel **attitűddé** rögzül. Amikor több rokon attitűd hosszú időn át együtt jár, a modell szerint **hiedelem** szilárdul belőlük; a megcsontosodott hiedelmek összessége pedig **percepcióvá** válik — azzá a többnyire tudattalan szűrővé, amelyen át a világot és önmagunkat látjuk. Ezért egy hiedelmet észérvekkel megcáfolni soha nem elég: magát a testet is át kell hangolni, mert sokéves ismétlés után a test maga vált a tudatalatti elmévé, és onnantól önmagától irányítja az életed. *\n\nEbből következik a módszer két kulcsfogalma. Az első a **mentális próba**: ha egy cselekvést vagy állapotot képzeletben, összeszedett figyelemmel gyakorolsz, az idegrendszer pontosan úgy kezdi újrahangolni magát, mintha valóban végeznéd — és a változás legbelül végbemegy, még mielőtt egyetlen külső körülmény is elmozdulna. * A második az **emelkedett érzelem és a tiszta szándék párosítása**: egy világosan megfogalmazott új döntés önmagában csak gondolat; a test számára abban a pillanatban válik eleven valósággá, amint hálával, lelkesedéssel és szeretettel — felemelt érzelmi állapotban — átéled, mintha már meg is történt volna. *\n\nFontos józanul látni: ez Dispenza értelmezési kerete, amely tudományos fogalmakat — agyhullámok, gének, kvantummező — a saját tanítása nyelveként használ. A gyakorlónak nem kell elfogadnia a magyarázatot ahhoz, hogy a gyakorlatból hasznot merítsen. Amit mérni tudsz, az a saját tapasztalatod: figyelmed minősége, érzelmi alaphangod, döntéseid és szokásaid lassú átrendeződése.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "In Dispenza’s model the inner world is built in layers. A thought that is thought and felt again and again hardens over time into an **attitude**. When several kindred attitudes travel together long enough, the model holds, a **belief** solidifies out of them; and the sum of one’s hardened beliefs becomes a **perception** — the largely unconscious filter through which we see the world and ourselves. This is why refuting a belief with arguments alone is never enough: the body itself must be re-tuned, for after years of repetition the body has become the subconscious mind, running your life on its own. *\n\nTwo key concepts of the method follow from this. The first is **mental rehearsal**: when you practise an action or a state in imagination with gathered attention, the nervous system begins to retune itself exactly as if you were truly doing it, and the change takes hold within you long before a single outer circumstance has moved. * The second is the **pairing of elevated emotion with clear intention**: a clearly formulated new decision is, by itself, only a thought; it becomes a living reality in the body the moment you feel it with gratitude, enthusiasm and love — an uplifted emotional state the body receives as though it had already happened. *\n\nIt is important to stay sober here: this is Dispenza’s interpretive framework, which uses scientific vocabulary — brainwaves, genes, the quantum field — as the language of his own teaching. The practitioner need not accept the explanation in order to benefit from the exercise. What you can measure is your own experience: the quality of your attention, your emotional baseline, and the slow reordering of your decisions and habits.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "In Dispenza’s model the inner world is built in layers. A thought that is thought and felt again and again hardens over time into an **attitude**. When several kindred attitudes travel together long enough, the model holds, a **belief** solidifies out of them; and the sum of one’s hardened beliefs becomes a **perception** — the largely unconscious filter through which we see the world and ourselves. This is why refuting a belief with arguments alone is never enough: the body itself must be re-tuned, for after years of repetition the body has become the subconscious mind, running your life on its own. *\n\nTwo key concepts of the method follow from this. The first is **mental rehearsal**: when you practise an action or a state in imagination with gathered attention, the nervous system begins to retune itself exactly as if you were truly doing it, and the change takes hold within you long before a single outer circumstance has moved. * The second is the **pairing of elevated emotion with clear intention**: a clearly formulated new decision is, by itself, only a thought; it becomes a living reality in the body the moment you feel it with gratitude, enthusiasm and love — an uplifted emotional state the body receives as though it had already happened. *\n\nIt is important to stay sober here: this is Dispenza’s interpretive framework, which uses scientific vocabulary — brainwaves, genes, the quantum field — as the language of his own teaching. The practitioner need not accept the explanation in order to benefit from the exercise. What you can measure is your own experience: the quality of your attention, your emotional baseline, and the slow reordering of your decisions and habits.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "În modelul lui Dispenza, lumea interioară este construită pe straturi. Un gând care este gândit și simțit iar și iar se întărește în timp într-o **atitudine**. Când mai multe atitudini înrudite călătoresc împreună suficient de mult, modelul susține că o **credință** se solidifică din ele; iar suma credințelor întărite devine o **percepție** — filtrul în mare parte inconștient prin care vedem lumea și pe noi înșine. De aceea a combate o credință doar cu argumente nu este niciodată de ajuns: corpul însuși trebuie reacordat, căci după ani de repetiție corpul a devenit mintea subconștientă, care îți conduce viața de una singură. *\n\nDouă concepte-cheie ale metodei decurg de aici. Primul este **repetiția mentală**: când exersezi o acțiune sau o stare în imaginație cu atenția adunată, sistemul nervos începe să se reacordeze exact ca și cum ai face-o cu adevărat, iar schimbarea prinde rădăcini în tine cu mult înainte ca vreo împrejurare exterioară să se fi mișcat. * Al doilea este **asocierea emoției elevate cu o intenție clară**: o decizie nouă, formulată clar, este prin ea însăși doar un gând; devine o realitate vie în corp în clipa în care o simți cu recunoștință, entuziasm și iubire — o stare emoțională înălțată pe care corpul o primește ca și cum s-ar fi întâmplat deja. *\n\nEste important să rămâi lucid aici: acesta este cadrul interpretativ al lui Dispenza, care folosește vocabular științific — unde cerebrale, gene, câmpul cuantic — ca limbaj al propriei sale învățături. Practicianul nu trebuie să accepte explicația ca să beneficieze de exercițiu. Ceea ce poți măsura este propria ta experiență: calitatea atenției tale, linia ta de bază emoțională și reordonarea lentă a deciziilor și obiceiurilor tale.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A meditáció módszere lépésről lépésre",
-        "en": "The Meditation Method Step by Step"
+        "en": "The Meditation Method Step by Step",
+        "ro": "Metoda de meditație pas cu pas"
       },
       "text": {
         "hu": "A gyakorlat három szakaszból áll, és Dispenza szerint naponta érdemes végezni, lehetőleg ugyanabban az időben.\n\n**Előkészület.** A legalkalmasabb időpont közvetlenül ébredés után vagy lefekvés előtt, amikor az elme természetes módon lassabb, befelé fordulóbb állapotban van. Válassz csendes, zavartalan helyet — ne az ágyat —, ülj egyenes gerinccel, kapcsold ki a telefont, viselj kényelmes ruhát. A test lazuljon el, de a figyelem maradjon éber.\n\n**1. szakasz — nyitott fókusz (kb. 10–15 perc).** Csukott szemmel a figyelmedet nem tárgyakra, hanem a **térre** irányítod: előbb a tested egyes részei által elfoglalt térre, majd a tested körüli térre, végül a helyiség és az egész tér tágasságára. Mivel a tér nem „valami”, amin gondolkodni lehet, az elme fokozatosan elcsendesedik, és tágabb, nyugodtabb állapotba kerül.\n\n**2. szakasz — a jelen pillanat (kb. 10–15 perc).** Engedd el a nevedet, a szerepeidet, a teendőidet, a múltat és a várható jövőt, és időzz el egyszerű, tiszta tudatosságként a jelenben. Amikor a figyelem visszatér ismerős emberekhez, gondokhoz vagy a testhez, csak vedd észre — ítélkezés nélkül —, és tereld vissza a nyitott jelenlétbe: türelmesen, de határozottan, ahányszor csak szükséges.\n\n**3. szakasz — hiedelemváltás (kb. 20–30 perc).** Idézd fel az előre kiválasztott régi hiedelmet, és tedd fel a kérdést: akarom-e még ezt hinni? Ha nem, hozz olyan határozott belső döntést, amelynek ereje emlékezetes élménnyé teszi a pillanatot. Majd fogalmazd meg az új hiedelmet, és éld át — mentális próbaként — milyen lenne már most így élni: milyen döntéseket hoznál, hogyan viselkednél, mit éreznél. Párosítsd a tiszta szándékot emelkedett érzelemmel, végül zárd hálával, mintha a változás már elkezdődött volna, és jegyezd le a tapasztalatot a naplódba.",
-        "en": "The practice has three stages, and Dispenza recommends doing it daily, ideally at the same time.\n\n**Preparation.** The best times are right after waking or just before sleep, when the mind is naturally in a slower, more inward state. Choose a quiet, undisturbed place — not your bed —, sit with an upright spine, switch off the phone, wear comfortable clothes. Let the body relax while the attention stays alert.\n\n**Stage 1 — open focus (about 10–15 minutes).** With closed eyes, direct your attention not at objects but at **space**: first the space occupied by parts of your body, then the space around your body, finally the spaciousness of the room and of space itself. Because space is not a thing one can think about, the mind gradually grows quiet and settles into a wider, calmer state.\n\n**Stage 2 — the present moment (about 10–15 minutes).** Release your name, your roles, your tasks, the past and the expected future, and rest as simple, clear awareness in the present. Whenever attention drifts back to familiar people, problems or the body, simply notice it — without judgement — and guide it back into open presence: patiently but firmly, as many times as it takes.\n\n**Stage 3 — belief change (about 20–30 minutes).** Bring up the old belief you chose in advance and ask: do I still want to believe this? If not, make an inner decision so firm that its intensity turns the moment into a memorable experience. Then formulate the new belief and live it as a mental rehearsal: what decisions would you make, how would you act, what would you feel if you already lived this way. Pair the clear intention with an elevated emotion, close with gratitude as if the change had already begun, and record the experience in your diary."
+        "en": "The practice has three stages, and Dispenza recommends doing it daily, ideally at the same time.\n\n**Preparation.** The best times are right after waking or just before sleep, when the mind is naturally in a slower, more inward state. Choose a quiet, undisturbed place — not your bed —, sit with an upright spine, switch off the phone, wear comfortable clothes. Let the body relax while the attention stays alert.\n\n**Stage 1 — open focus (about 10–15 minutes).** With closed eyes, direct your attention not at objects but at **space**: first the space occupied by parts of your body, then the space around your body, finally the spaciousness of the room and of space itself. Because space is not a thing one can think about, the mind gradually grows quiet and settles into a wider, calmer state.\n\n**Stage 2 — the present moment (about 10–15 minutes).** Release your name, your roles, your tasks, the past and the expected future, and rest as simple, clear awareness in the present. Whenever attention drifts back to familiar people, problems or the body, simply notice it — without judgement — and guide it back into open presence: patiently but firmly, as many times as it takes.\n\n**Stage 3 — belief change (about 20–30 minutes).** Bring up the old belief you chose in advance and ask: do I still want to believe this? If not, make an inner decision so firm that its intensity turns the moment into a memorable experience. Then formulate the new belief and live it as a mental rehearsal: what decisions would you make, how would you act, what would you feel if you already lived this way. Pair the clear intention with an elevated emotion, close with gratitude as if the change had already begun, and record the experience in your diary.",
+        "ro": "Practica are trei etape, iar Dispenza recomandă să o faci zilnic, ideal la aceeași oră.\n\n**Pregătire.** Cele mai bune momente sunt imediat după trezire sau chiar înainte de somn, când mintea se află firesc într-o stare mai lentă, mai întoarsă spre interior. Alege un loc liniștit, unde nu ești deranjat — nu patul tău —, stai cu coloana dreaptă, închide telefonul, poartă haine confortabile. Lasă corpul să se relaxeze în timp ce atenția rămâne trează.\n\n**Etapa 1 — focus deschis (aproximativ 10–15 minute).** Cu ochii închiși, îndreaptă-ți atenția nu spre obiecte, ci spre **spațiu**: mai întâi spațiul ocupat de părțile corpului tău, apoi spațiul din jurul corpului, în cele din urmă spațialitatea camerei și a spațiului însuși. Pentru că spațiul nu este un lucru la care te poți gândi, mintea se liniștește treptat și se așază într-o stare mai largă, mai calmă.\n\n**Etapa 2 — momentul prezent (aproximativ 10–15 minute).** Eliberează-ți numele, rolurile, sarcinile, trecutul și viitorul așteptat, și odihnește-te ca simplă, clară conștiență în prezent. Ori de câte ori atenția alunecă înapoi spre oameni familiari, probleme sau corp, observă pur și simplu — fără judecată — și ghideaz-o înapoi în prezența deschisă: cu răbdare, dar ferm, de câte ori e nevoie.\n\n**Etapa 3 — schimbarea credinței (aproximativ 20–30 minute).** Adu în față vechea credință pe care ai ales-o dinainte și întreabă-te: mai vreau să cred asta? Dacă nu, ia o decizie interioară atât de fermă încât intensitatea ei transformă momentul într-o experiență memorabilă. Apoi formulează noua credință și trăiește-o ca pe o repetiție mentală: ce decizii ai lua, cum ai acționa, ce ai simți dacă ai trăi deja așa. Asociază intenția clară cu o emoție elevată, încheie cu recunoștință ca și cum schimbarea ar fi început deja, și notează experiența în jurnal."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Egy hiedelem átírása a gyakorlatban",
-        "en": "Rewriting a Belief in Practice"
+        "en": "Rewriting a Belief in Practice",
+        "ro": "Rescrierea unei credințe în practică"
       },
       "text": {
         "hu": "A meditáció előtt papírmunka vár rád — ez adja a gyakorlat gerincét.\n\n**1. Válaszd ki a régi hiedelmet.** Fogj egy lapot, és húzd ketté egy függőleges vonallal. A bal oldalra írd fel azt az egy-két önkorlátozó hiedelmet vagy percepciót, amelyet le akarsz cserélni. Ilyen lehet például: „az élet küzdelem”, „én már nem tudok megváltozni”, „nem vagyok elég jó”. Légy pontos: minél konkrétabb a régi mondat, annál világosabb a munka.\n\n**2. Fogalmazd meg az újat.** A jobb oldalra írd fel, mit akarsz ehelyett hinni és észlelni — és azt is, milyen **érzés** volna már ebben élni. Az új mondat legyen tömör, jelen idejű és belülről fakadó; ne külső eredményt ígérjen, hanem létállapotot fogalmazzon meg.\n\n**3. Dolgozz naponta.** A meditáció 3. szakaszában ezzel a lappal dolgozol: régi hiedelem — döntés — új hiedelem — átélt érzelem — hála. Kezdőknek Dispenza fokozatos felépítést ajánl: az első héten csak a nyitott fókuszt gyakorold, a másodikon vedd hozzá a jelen pillanatot, a harmadiktól a teljes folyamatot.\n\n**4. Mérj belső gyümölcsökkel.** Ne azt figyeld, „megtörtént-e a csoda”, hanem azt, ami valóban megfigyelhető: nyugodtabban ébredsz-e, ritkábban ragadnak el a régi érzelmi körök, könnyebben tartod-e a napi fegyelmet, derűsebben nézel-e az emberekre. Ezeket jegyezd a naplódba minden gyakorlás után. Ha egészségi állapotot érintő hiedelmen dolgozol, a keret változatlan: a gyakorlat a kezelésed **mellett** fut, soha nem helyette, és minden gyógyszert pontosan úgy szedsz tovább, ahogy orvosod rendelte.",
-        "en": "Before the meditation there is paperwork — it forms the backbone of the practice.\n\n**1. Choose the old belief.** Take a sheet of paper and divide it with a vertical line. On the left, write the one or two self-limiting beliefs or perceptions you want to replace. For example: life is a struggle; I can no longer change; I am not good enough. Be precise: the more concrete the old sentence, the clearer the work.\n\n**2. Formulate the new one.** On the right, write what you want to believe and perceive instead — and also what it would **feel** like to live in it already. The new sentence should be short, present-tense and inwardly sourced; it should describe a state of being, not promise an external outcome.\n\n**3. Work daily.** In stage 3 of the meditation you work with this sheet: old belief — decision — new belief — felt emotion — gratitude. For beginners Dispenza recommends a gradual build-up: in the first week practise only the open focus, in the second add the present moment, from the third do the whole process.\n\n**4. Measure by inner fruits.** Do not watch for a miracle; watch what is actually observable: do you wake calmer, do the old emotional loops seize you less often, is your daily discipline easier to keep, do you look at people with more warmth. Note these in your diary after every session. If you work on a health-related belief, the frame does not change: the practice runs **alongside** your treatment, never instead of it, and you keep taking every medication exactly as your doctor prescribed."
+        "en": "Before the meditation there is paperwork — it forms the backbone of the practice.\n\n**1. Choose the old belief.** Take a sheet of paper and divide it with a vertical line. On the left, write the one or two self-limiting beliefs or perceptions you want to replace. For example: life is a struggle; I can no longer change; I am not good enough. Be precise: the more concrete the old sentence, the clearer the work.\n\n**2. Formulate the new one.** On the right, write what you want to believe and perceive instead — and also what it would **feel** like to live in it already. The new sentence should be short, present-tense and inwardly sourced; it should describe a state of being, not promise an external outcome.\n\n**3. Work daily.** In stage 3 of the meditation you work with this sheet: old belief — decision — new belief — felt emotion — gratitude. For beginners Dispenza recommends a gradual build-up: in the first week practise only the open focus, in the second add the present moment, from the third do the whole process.\n\n**4. Measure by inner fruits.** Do not watch for a miracle; watch what is actually observable: do you wake calmer, do the old emotional loops seize you less often, is your daily discipline easier to keep, do you look at people with more warmth. Note these in your diary after every session. If you work on a health-related belief, the frame does not change: the practice runs **alongside** your treatment, never instead of it, and you keep taking every medication exactly as your doctor prescribed.",
+        "ro": "Înainte de meditație există munca pe hârtie — ea formează coloana vertebrală a practicii.\n\n**1. Alege vechea credință.** Ia o foaie de hârtie și împarte-o cu o linie verticală. În stânga, scrie una sau două credințe ori percepții care te limitează și pe care vrei să le înlocuiești. De exemplu: viața e o luptă; nu mai pot să mă schimb; nu sunt destul de bun. Fii precis: cu cât propoziția veche e mai concretă, cu atât munca e mai limpede.\n\n**2. Formulează-o pe cea nouă.** În dreapta, scrie ce vrei să crezi și să percepi în schimb — și totodată cum ar **simți** să trăiești deja în ea. Propoziția nouă să fie scurtă, la timpul prezent și izvorâtă dinăuntru; să descrie o stare de a fi, nu să promită un rezultat exterior.\n\n**3. Lucrează zilnic.** În etapa 3 a meditației lucrezi cu această foaie: vechea credință — decizie — noua credință — emoția simțită — recunoștință. Pentru începători Dispenza recomandă o construire treptată: în prima săptămână practică doar focusul deschis, în a doua adaugă momentul prezent, din a treia fă întregul proces.\n\n**4. Măsoară după roadele lăuntrice.** Nu urmări un miracol; privește ce e de fapt observabil: te trezești mai calm, buclele emoționale vechi te cuprind mai rar, disciplina zilnică ți-e mai ușor de ținut, privești oamenii cu mai multă căldură. Notează-le în jurnal după fiecare sesiune. Dacă lucrezi la o credință legată de sănătate, cadrul nu se schimbă: practica merge **alături** de tratamentul tău, niciodată în locul lui, și continui să iei fiecare medicament exact cum ți-a prescris medicul."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Etika, józanság és orvosi korlát",
-        "en": "Ethics, Sobriety and the Medical Fence"
+        "en": "Ethics, Sobriety and the Medical Fence",
+        "ro": "Etică, sobrietate și gardul medical"
       },
       "text": {
         "hu": "**A modell nem tény, hanem tanítás.** Dispenza rendszere ihletett, de vitatott értelmezési keret. A könyv esettörténetei — a workshopokon leírt gyógyulások és rendkívüli élmények — a hagyomány saját állításai, nem független bizonyítékok. Ez nem ok az elutasításra, de ok az alázatra: gyakorolj nyitott elmével és kritikus ítélőképességgel egyszerre.\n\n**Ne ígérj magadnak kimenetelt.** Aki a gyakorlathoz gyógyulási határidőt vagy garantált eredményt köt, csalódásra és önvádra készíti fel magát — ha pedig elmarad a remélt fordulat, könnyen a „nem hittem eléggé” mérgező következtetésébe fut. A helyes mérce mindig a belső gyümölcs: a hangulat, a szokások, a szemlélet és a kitartás lassú érése. Ezek fölött van hatalmad; a többit engedd el.\n\n**Orvosi korlát, harmadszor és nyomatékkal.** Ez a modul nem orvosi kezelés. Semmilyen gyakorlat, döntés vagy „új hiedelem” nem indokolja, hogy gyógyszert hagyj el, adagot módosíts, kezelést szakíts meg vagy vizsgálatot halassz el — ilyen lépésről kizárólag orvosoddal együtt dönthetsz. A meditáció a gondozás kiegészítője, soha nem helyettesítője. Ez felnőtteknek szóló, önvezérelt gyakorlat: nem gyerekeknek való, és akut lelki válságban vagy pszichiátriai kezelés alatt csak a kezelőorvos jóváhagyásával és felügyeletével ajánlott belefogni. Ha a gyakorlás alatt testi tünetet, erős szorongást vagy nyomasztó élményt tapasztalsz, szüneteltesd a gyakorlatot, és fordulj szakemberhez; ha bármely tünet súlyos vagy vészhelyzetre utal, hívj sürgősségi segítséget.\n\n**Bardoni szemmel.** A mágikus napló hagyományában a hiedelemmunka az introspekció rokona: a fekete tükör őszinte feltárása nélkül az új hiedelem csak máz a régi szerkezeten. Előbb ismerd meg, mit hiszel valójában — aztán dönts arról, mit akarsz hinni.",
-        "en": "**The model is a teaching, not a fact.** Dispenza’s system is an inspired but contested interpretive framework. The case stories in the book — the healings and extraordinary experiences described at workshops — are the tradition’s own claims, not independent proof. This is no reason to dismiss the practice, but it is a reason for humility: practise with an open mind and a critical judgement at the same time.\n\n**Promise yourself no outcome.** Whoever ties the practice to a healing deadline or a guaranteed result prepares themselves for disappointment and self-blame — and if the hoped-for turn does not come, slides easily into the toxic conclusion of not having believed hard enough. The right measure is always the inner fruit: the slow ripening of mood, habits, outlook and perseverance. Over these you have power; release the rest.\n\n**The medical fence, a third time and with emphasis.** This module is not medical treatment. No exercise, decision or new belief ever justifies stopping a medication, changing a dose, interrupting a treatment or postponing an examination — such steps are decided only together with your doctor. Meditation complements care; it never replaces it. This is a self-directed practice for adults: it is not for children, and anyone in acute psychological crisis or under psychiatric care should begin only with the approval and supervision of their treating professional. If during practice you notice physical symptoms, strong anxiety or distressing experiences, pause the practice and consult a professional; if any symptom is severe or feels like an emergency, seek emergency help.\n\n**Through Bardonian eyes.** In the tradition of the magical diary, belief-work is kin to introspection: without the honest exploration of the black mirror, a new belief is only varnish on the old structure. First learn what you actually believe — then decide what you want to believe."
+        "en": "**The model is a teaching, not a fact.** Dispenza’s system is an inspired but contested interpretive framework. The case stories in the book — the healings and extraordinary experiences described at workshops — are the tradition’s own claims, not independent proof. This is no reason to dismiss the practice, but it is a reason for humility: practise with an open mind and a critical judgement at the same time.\n\n**Promise yourself no outcome.** Whoever ties the practice to a healing deadline or a guaranteed result prepares themselves for disappointment and self-blame — and if the hoped-for turn does not come, slides easily into the toxic conclusion of not having believed hard enough. The right measure is always the inner fruit: the slow ripening of mood, habits, outlook and perseverance. Over these you have power; release the rest.\n\n**The medical fence, a third time and with emphasis.** This module is not medical treatment. No exercise, decision or new belief ever justifies stopping a medication, changing a dose, interrupting a treatment or postponing an examination — such steps are decided only together with your doctor. Meditation complements care; it never replaces it. This is a self-directed practice for adults: it is not for children, and anyone in acute psychological crisis or under psychiatric care should begin only with the approval and supervision of their treating professional. If during practice you notice physical symptoms, strong anxiety or distressing experiences, pause the practice and consult a professional; if any symptom is severe or feels like an emergency, seek emergency help.\n\n**Through Bardonian eyes.** In the tradition of the magical diary, belief-work is kin to introspection: without the honest exploration of the black mirror, a new belief is only varnish on the old structure. First learn what you actually believe — then decide what you want to believe.",
+        "ro": "**Modelul este o învățătură, nu un fapt.** Sistemul lui Dispenza este un cadru interpretativ inspirat, dar contestat. Poveștile de caz din carte — vindecările și experiențele extraordinare descrise la workshopuri — sunt pretențiile proprii ale tradiției, nu dovezi independente. Asta nu e un motiv să respingi practica, dar e un motiv de umilință: practică cu mintea deschisă și cu judecată critică în același timp.\n\n**Nu-ți promite niciun rezultat.** Cine leagă practica de un termen de vindecare sau de un rezultat garantat se pregătește pentru dezamăgire și autoînvinovățire — iar dacă cotitura nădăjduită nu vine, alunecă ușor în concluzia toxică că n-a crezut destul de tare. Măsura potrivită e întotdeauna rodul lăuntric: coacerea lentă a stării de spirit, a obiceiurilor, a privirii și a perseverenței. Asupra acestora ai putere; lasă restul.\n\n**Gardul medical, a treia oară și cu accent.** Acest modul nu este tratament medical. Niciun exercițiu, nicio decizie și nicio credință nouă nu justifică oprirea unui medicament, schimbarea dozei, întreruperea unui tratament sau amânarea unui control — astfel de pași se decid doar împreună cu medicul tău. Meditația completează îngrijirea; nu o înlocuiește niciodată. Aceasta este o practică autodirijată pentru adulți: nu e pentru copii, iar oricine se află într-o criză psihologică acută sau sub îngrijire psihiatrică ar trebui să înceapă doar cu aprobarea și supravegherea profesionistului care îl tratează. Dacă în timpul practicii observi simptome fizice, anxietate puternică sau experiențe tulburătoare, întrerupe practica și consultă un profesionist; dacă vreun simptom e sever sau pare o urgență, caută ajutor de urgență.\n\n**Prin ochi bardonieni.** În tradiția jurnalului magic, munca cu credințele e înrudită cu introspecția: fără explorarea cinstită a oglinzii negre, o credință nouă e doar lac pe vechea structură. Mai întâi află ce crezi cu adevărat — apoi decide ce vrei să crezi."
       }
     },
     {
@@ -77,7 +89,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "Felkészülési lista a meditációhoz",
-        "en": "Preparation Checklist for the Meditation"
+        "en": "Preparation Checklist for the Meditation",
+        "ro": "Listă de pregătire pentru meditație"
       },
       "checklist": {
         "items": [
@@ -85,56 +98,64 @@
             "key": "c1",
             "nevek": {
               "hu": "Csendes, zavartalan helyet választottam — nem az ágyat",
-              "en": "I chose a quiet, undisturbed place — not my bed"
+              "en": "I chose a quiet, undisturbed place — not my bed",
+              "ro": "Am ales un loc liniștit, nedisturbat — nu patul meu"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Időpontot rögzítettem: ébredés után vagy lefekvés előtt",
-              "en": "I fixed a time: right after waking or before sleep"
+              "en": "I fixed a time: right after waking or before sleep",
+              "ro": "Am stabilit o oră: imediat după trezire sau înainte de somn"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Telefon és számítógép kikapcsolva, kényelmes ruha, víz kéznél",
-              "en": "Phone and computer off, comfortable clothes, water at hand"
+              "en": "Phone and computer off, comfortable clothes, water at hand",
+              "ro": "Telefonul și computerul oprite, haine confortabile, apă la îndemână"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Egyenes gerinccel ülök; a test laza, a figyelem éber",
-              "en": "I sit with an upright spine; body relaxed, attention alert"
+              "en": "I sit with an upright spine; body relaxed, attention alert",
+              "ro": "Stau cu coloana dreaptă; corpul relaxat, atenția trează"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "A kettéosztott lapon felírtam a régi és az új hiedelmet",
-              "en": "On my divided sheet I wrote the old and the new belief"
+              "en": "On my divided sheet I wrote the old and the new belief",
+              "ro": "Pe foaia mea împărțită am scris vechea și noua credință"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Az új hiedelemhez tartozó érzést is megfogalmaztam",
-              "en": "I also named the feeling that belongs to the new belief"
+              "en": "I also named the feeling that belongs to the new belief",
+              "ro": "Am numit și sentimentul care aparține noii credințe"
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "Tudomásul vettem: ez nem orvosi kezelés — minden gyógyszert és kezelést változatlanul folytatok, módosítás csak orvosommal",
-              "en": "I acknowledge: this is not medical treatment — I continue all medication and treatment unchanged; changes only with my doctor"
+              "en": "I acknowledge: this is not medical treatment — I continue all medication and treatment unchanged; changes only with my doctor",
+              "ro": "Recunosc: aceasta nu este tratament medical — continui toate medicamentele și tratamentele neschimbate; modificări doar cu medicul meu"
             }
           },
           {
             "key": "c8",
             "nevek": {
               "hu": "A gyakorlás után naplóbejegyzést írok a belső gyümölcsökről",
-              "en": "After practice I will write a diary entry on the inner fruits"
+              "en": "After practice I will write a diary entry on the inner fruits",
+              "ro": "După practică voi scrie o însemnare în jurnal despre roadele lăuntrice"
             }
           }
         ]
@@ -145,41 +166,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Nyitott fókusz — a tér érzékelése",
-        "en": "Open Focus — Sensing Space"
+        "en": "Open Focus — Sensing Space",
+        "ro": "Focus deschis — Simțirea spațiului"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Ülj egyenes gerinccel, csukd be a szemed, végy néhány lassú, mély lélegzetet. A figyelmedet ne tárgyakra irányítsd, hanem a térre: előbb a tested egyes részei által elfoglalt térre, majd a tested körüli térre, végül a helyiség és a tér egészének tágasságára. Ha a figyelem elkalandozik, ítélkezés nélkül tereld vissza. Ez figyelemgyakorlat, nem orvosi kezelés — a gondozásod mellett használd, soha nem helyette.",
-          "en": "Sit with an upright spine, close your eyes, take a few slow, deep breaths. Direct your attention not at objects but at space: first the space occupied by parts of your body, then the space around your body, finally the spaciousness of the room and of space as a whole. When attention wanders, guide it back without judgement. This is an attention exercise, not medical treatment — use it alongside your care, never instead of it."
+          "en": "Sit with an upright spine, close your eyes, take a few slow, deep breaths. Direct your attention not at objects but at space: first the space occupied by parts of your body, then the space around your body, finally the spaciousness of the room and of space as a whole. When attention wanders, guide it back without judgement. This is an attention exercise, not medical treatment — use it alongside your care, never instead of it.",
+          "ro": "Stai cu coloana dreaptă, închide ochii, ia câteva respirații lente și adânci. Îndreaptă-ți atenția nu spre obiecte, ci spre spațiu: mai întâi spațiul ocupat de părțile corpului tău, apoi spațiul din jurul corpului, în cele din urmă spațiozitatea camerei și a spațiului ca întreg. Când atenția rătăcește, adu-o înapoi fără judecată. Acesta este un exercițiu de atenție, nu tratament medical — folosește-l alături de îngrijirea ta, niciodată în locul ei."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Érzékeld a tested részei által elfoglalt teret",
-              "en": "Sense the space occupied by parts of your body"
+              "en": "Sense the space occupied by parts of your body",
+              "ro": "Simte spațiul ocupat de părțile corpului tău"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Tágítsd a figyelmet a tested körüli térre",
-              "en": "Widen attention to the space around your body"
+              "en": "Widen attention to the space around your body",
+              "ro": "Lărgește atenția spre spațiul din jurul corpului tău"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Nyugodj meg a tér egészének tágasságában",
-              "en": "Rest in the spaciousness of space itself"
+              "en": "Rest in the spaciousness of space itself",
+              "ro": "Odihnește-te în spațiozitatea spațiului însuși"
             }
           },
           {
             "atSecond": 840,
             "label": {
               "hu": "Lassan térj vissza, nyisd ki a szemed",
-              "en": "Return slowly and open your eyes"
+              "en": "Return slowly and open your eyes",
+              "ro": "Revino încet și deschide ochii"
             }
           }
         ]
@@ -190,48 +217,55 @@
       "kind": "timer",
       "nevek": {
         "hu": "Hiedelemváltó meditáció — teljes folyamat",
-        "en": "Belief-Change Meditation — Full Process"
+        "en": "Belief-Change Meditation — Full Process",
+        "ro": "Meditația de schimbare a credinței — Procesul complet"
       },
       "timer": {
         "durationSeconds": 2400,
         "instructions": {
           "hu": "Készítsd elő a kettéosztott lapot a régi és az új hiedelemmel. A folyamat: nyitott fókusz — jelen pillanat — döntés a régi hiedelemről — az új hiedelem átélése tiszta szándékkal és emelkedett érzelemmel — hála — visszatérés. Ne kimenetelt várj: a mércéd a belső gyümölcs, amit utána a naplódba jegyzel. Ez a gyakorlat nem orvosi kezelés; gyógyszert, kezelést soha ne hagyj el és ne módosíts, kizárólag orvosoddal egyeztetve — a meditáció a gondozásod mellett fut, nem helyette.",
-          "en": "Prepare your divided sheet with the old and the new belief. The process: open focus — present moment — decision about the old belief — living the new belief with clear intention and elevated emotion — gratitude — return. Expect no outcome: your measure is the inner fruit, which you record in your diary afterwards. This practice is not medical treatment; never stop or alter medication or treatment except in consultation with your doctor — the meditation runs alongside your care, not instead of it."
+          "en": "Prepare your divided sheet with the old and the new belief. The process: open focus — present moment — decision about the old belief — living the new belief with clear intention and elevated emotion — gratitude — return. Expect no outcome: your measure is the inner fruit, which you record in your diary afterwards. This practice is not medical treatment; never stop or alter medication or treatment except in consultation with your doctor — the meditation runs alongside your care, not instead of it.",
+          "ro": "Pregătește foaia împărțită cu vechea și noua credință. Procesul: focus deschis — momentul prezent — decizia despre vechea credință — trăirea noii credințe cu intenție clară și emoție elevată — recunoștință — revenire. Nu aștepta niciun rezultat: măsura ta e rodul lăuntric, pe care îl notezi în jurnal după aceea. Această practică nu este tratament medical; nu opri și nu modifica niciodată medicamentele sau tratamentul decât în consultare cu medicul tău — meditația merge alături de îngrijirea ta, nu în locul ei."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Nyitott fókusz: figyelem a térre",
-              "en": "Open focus: attention on space"
+              "en": "Open focus: attention on space",
+              "ro": "Focus deschis: atenția pe spațiu"
             }
           },
           {
             "atSecond": 720,
             "label": {
               "hu": "Jelen pillanat: engedd el a szerepeket, a múltat és a jövőt",
-              "en": "Present moment: release roles, past and future"
+              "en": "Present moment: release roles, past and future",
+              "ro": "Momentul prezent: eliberează rolurile, trecutul și viitorul"
             }
           },
           {
             "atSecond": 1320,
             "label": {
               "hu": "Régi hiedelem: akarod-e még hinni? Hozz határozott döntést",
-              "en": "Old belief: do you still want it? Make a firm decision"
+              "en": "Old belief: do you still want it? Make a firm decision",
+              "ro": "Vechea credință: o mai vrei? Ia o decizie fermă"
             }
           },
           {
             "atSecond": 1740,
             "label": {
               "hu": "Új hiedelem: éld át emelkedett érzelemmel, tiszta szándékkal",
-              "en": "New belief: live it with elevated emotion and clear intention"
+              "en": "New belief: live it with elevated emotion and clear intention",
+              "ro": "Noua credință: trăiește-o cu emoție elevată și intenție clară"
             }
           },
           {
             "atSecond": 2160,
             "label": {
               "hu": "Hála és visszatérés — utána naplóbejegyzés",
-              "en": "Gratitude and return — then write your diary entry"
+              "en": "Gratitude and return — then write your diary entry",
+              "ro": "Recunoștință și revenire — apoi scrie însemnarea în jurnal"
             }
           }
         ]
@@ -242,34 +276,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Mentális próba — a holnapi nap begyakorlása",
-        "en": "Mental Rehearsal — Practising Tomorrow"
+        "en": "Mental Rehearsal — Practising Tomorrow",
+        "ro": "Repetiție mentală — Exersarea zilei de mâine"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Rövid gyakorlat a nap végére vagy elejére. Csukott szemmel válassz egy közelgő helyzetet, amelyben az új hiedelmed szerint akarsz jelen lenni. Játszd le képzeletben, összeszedett figyelemmel: hogyan lépsz be, hogyan döntesz, hogyan érzel. A cél nem a külső eredmény irányítása, hanem a belső hozzáállás begyakorlása. Nem orvosi gyakorlat — a kezelésed mellett, soha nem helyette.",
-          "en": "A short practice for the end or start of the day. With closed eyes, choose an upcoming situation in which you want to be present according to your new belief. Play it through in imagination with gathered attention: how you enter, how you decide, how you feel. The aim is not to control the external result but to rehearse the inner stance. Not a medical exercise — alongside your treatment, never instead of it."
+          "en": "A short practice for the end or start of the day. With closed eyes, choose an upcoming situation in which you want to be present according to your new belief. Play it through in imagination with gathered attention: how you enter, how you decide, how you feel. The aim is not to control the external result but to rehearse the inner stance. Not a medical exercise — alongside your treatment, never instead of it.",
+          "ro": "O practică scurtă pentru sfârșitul sau începutul zilei. Cu ochii închiși, alege o situație care urmează în care vrei să fii prezent conform noii tale credințe. Parcurge-o în imaginație cu atenție adunată: cum intri, cum decizi, cum te simți. Scopul nu e să controlezi rezultatul exterior, ci să repeți atitudinea interioară. Nu e un exercițiu medical — alături de tratamentul tău, niciodată în locul lui."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Csendesedj el, idézd fel az új hiedelmed",
-              "en": "Settle and recall your new belief"
+              "en": "Settle and recall your new belief",
+              "ro": "Așază-te și reamintește-ți noua credință"
             }
           },
           {
             "atSecond": 300,
             "label": {
               "hu": "Játszd le a helyzetet az új létállapotból",
-              "en": "Play the situation from the new state of being"
+              "en": "Play the situation from the new state of being",
+              "ro": "Parcurge situația din noua stare de a fi"
             }
           },
           {
             "atSecond": 510,
             "label": {
               "hu": "Zárd hálával, majd térj vissza",
-              "en": "Close with gratitude, then return"
+              "en": "Close with gratitude, then return",
+              "ro": "Încheie cu recunoștință, apoi revino"
             }
           }
         ]
@@ -280,7 +319,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A hiedelemmunka aspektusai",
-        "en": "Aspects of Belief-Work"
+        "en": "Aspects of Belief-Work",
+        "ro": "Aspecte ale lucrului cu credințele"
       },
       "aspektusPack": [
         {
@@ -289,7 +329,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Önkorlátozó hiedelmek — a „nem lehet” automatikus mondatai",
-            "en": "Self-limiting beliefs — the automatic sentences of impossibility"
+            "en": "Self-limiting beliefs — the automatic sentences of impossibility",
+            "ro": "Credințe autolimitative — propozițiile automate ale imposibilității"
           }
         },
         {
@@ -298,7 +339,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Érzelmi függőség — ragaszkodás a megszokott rossz érzésekhez",
-            "en": "Emotional addiction — clinging to familiar bad feelings"
+            "en": "Emotional addiction — clinging to familiar bad feelings",
+            "ro": "Dependență emoțională — agățarea de sentimentele rele familiare"
           }
         },
         {
@@ -307,7 +349,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "A test ellenállása — halogatás, kifogás, elkalandozás gyakorlás közben",
-            "en": "Bodily resistance — procrastination, excuses, drifting during practice"
+            "en": "Bodily resistance — procrastination, excuses, drifting during practice",
+            "ro": "Rezistență trupească — amânare, scuze, rătăcirea atenției în timpul practicii"
           }
         },
         {
@@ -316,7 +359,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Időszorongás — a múlt rágása és a kiszámítható jövő görcsös várása",
-            "en": "Time anxiety — chewing the past and bracing for a predictable future"
+            "en": "Time anxiety — chewing the past and bracing for a predictable future",
+            "ro": "Anxietate de timp — rumegarea trecutului și încordarea pentru un viitor previzibil"
           }
         },
         {
@@ -325,7 +369,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Tiszta szándék — világos, határozott belső döntés",
-            "en": "Clear intention — a lucid, firm inner decision"
+            "en": "Clear intention — a lucid, firm inner decision",
+            "ro": "Intenție clară — o decizie interioară lucidă și fermă"
           }
         },
         {
@@ -334,7 +379,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Emelkedett érzelem — hála, derű, szeretet a gyakorlásban",
-            "en": "Elevated emotion — gratitude, serenity, love in practice"
+            "en": "Elevated emotion — gratitude, serenity, love in practice",
+            "ro": "Emoție elevată — recunoștință, seninătate, iubire în practică"
           }
         },
         {
@@ -343,7 +389,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Jelenlét — tiszta tudatosságként nyugodni a mostban",
-            "en": "Presence — resting as clear awareness in the now"
+            "en": "Presence — resting as clear awareness in the now",
+            "ro": "Prezență — odihnirea ca conștiență clară în acum"
           }
         },
         {
@@ -352,7 +399,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Önmegfigyelés — a gondolatok és hiedelmek józan észlelése",
-            "en": "Self-observation — sober noticing of thoughts and beliefs"
+            "en": "Self-observation — sober noticing of thoughts and beliefs",
+            "ro": "Auto-observare — observarea trează a gândurilor și credințelor"
           }
         }
       ]
@@ -362,7 +410,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Napló a belső gyümölcsökről",
-        "en": "Diary of Inner Fruits"
+        "en": "Diary of Inner Fruits",
+        "ro": "Jurnalul roadelor lăuntrice"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -372,7 +421,8 @@
         ],
         "prompts": {
           "hu": "Melyik hiedelmen dolgoztam ma, és milyen mély volt a döntésem? Mennyire sikerült a jelenben maradnom — hányszor kalandozott el a figyelmem, és milyen könnyen tért vissza? Milyen érzelmi állapotban keltem fel a meditációból, és különbözött-e attól, ahogyan leültem? Milyen belső gyümölcsöt figyeltem meg ma: hangulat, szokások, szemlélet, kitartás? (A gyakorlat a kezelésem mellett fut; gyógyszert, kezelést csak orvosommal módosítok.)",
-          "en": "Which belief did I work on today, and how deep was my decision? How well did I stay in the present — how often did attention wander, and how easily did it return? In what emotional state did I rise from the meditation, and did it differ from how I sat down? What inner fruit did I observe today: mood, habits, outlook, perseverance? (The practice runs alongside my treatment; I change medication or treatment only with my doctor.)"
+          "en": "Which belief did I work on today, and how deep was my decision? How well did I stay in the present — how often did attention wander, and how easily did it return? In what emotional state did I rise from the meditation, and did it differ from how I sat down? What inner fruit did I observe today: mood, habits, outlook, perseverance? (The practice runs alongside my treatment; I change medication or treatment only with my doctor.)",
+          "ro": "La ce credință am lucrat azi și cât de adâncă a fost decizia mea? Cât de bine am rămas în prezent — de câte ori a rătăcit atenția și cât de ușor s-a întors? În ce stare emoțională m-am ridicat din meditație și a fost diferită de cum m-am așezat? Ce roadă lăuntrică am observat azi: dispoziție, obiceiuri, perspectivă, perseverență? (Practica merge alături de tratamentul meu; schimb medicația sau tratamentul doar cu medicul meu.)"
         }
       }
     },
@@ -381,7 +431,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés — józan keretek",
-        "en": "Self-Check — Sober Frames"
+        "en": "Self-Check — Sober Frames",
+        "ro": "Auto-verificare — cadre sobre"
       },
       "quiz": {
         "passThreshold": 2,
@@ -390,7 +441,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mit ígér ez a modul a gyakorlónak?",
-              "en": "What does this module promise the practitioner?"
+              "en": "What does this module promise the practitioner?",
+              "ro": "Ce îi promite acest modul practicianului?"
             },
             "options": {
               "hu": [
@@ -404,6 +456,12 @@
                 "A disciplined inner work whose results show in inner fruits — mood, habits, outlook",
                 "That illnesses arise through the fault of my beliefs",
                 "That after three weeks every external circumstance will change"
+              ],
+              "ro": [
+                "Vindecare garantată dacă cred destul de tare",
+                "O muncă interioară disciplinată ale cărei rezultate se arată în roade lăuntrice — dispoziție, obiceiuri, perspectivă",
+                "Că bolile apar din vina credințelor mele",
+                "Că după trei săptămâni fiecare împrejurare exterioară se va schimba"
               ]
             },
             "correctIndex": 1
@@ -412,7 +470,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Mi a helyes viszony a gyakorlat és az orvosi kezelés között?",
-              "en": "What is the right relationship between the practice and medical treatment?"
+              "en": "What is the right relationship between the practice and medical treatment?",
+              "ro": "Care este relația corectă între practică și tratamentul medical?"
             },
             "options": {
               "hu": [
@@ -426,6 +485,12 @@
                 "Meditation replaces medical examinations",
                 "The practice runs alongside treatment; I change medication or treatment only in consultation with my doctor",
                 "It is enough to inform the doctor afterwards, once I have already reduced the dose"
+              ],
+              "ro": [
+                "Dacă meditația merge bine, pot renunța treptat la medicație",
+                "Meditația înlocuiește examenele medicale",
+                "Practica merge alături de tratament; schimb medicația sau tratamentul doar consultându-mă cu medicul meu",
+                "E suficient să-l informez pe medic după aceea, odată ce am redus deja doza"
               ]
             },
             "correctIndex": 2
@@ -434,7 +499,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Hogyan tekintsünk a könyvben szereplő gyógyulástörténetekre?",
-              "en": "How should we regard the healing stories in the book?"
+              "en": "How should we regard the healing stories in the book?",
+              "ro": "Cum ar trebui să privim poveștile de vindecare din carte?"
             },
             "options": {
               "hu": [
@@ -448,6 +514,12 @@
                 "The tradition’s own claims: they may inspire, but they are not proof — my own measure is the inner fruit",
                 "Legally binding promises",
                 "Meaningless, so the whole method is worthless"
+              ],
+              "ro": [
+                "Dovezi dovedite științific care garantează că metoda funcționează",
+                "Afirmațiile proprii ale tradiției: pot inspira, dar nu sunt dovezi — măsura mea proprie este roada lăuntrică",
+                "Promisiuni cu putere juridică",
+                "Fără sens, deci întreaga metodă e fără valoare"
               ]
             },
             "correctIndex": 1
@@ -456,7 +528,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mi a hiedelemváltó meditáció két fő összetevője Dispenza modelljében?",
-              "en": "What are the two main ingredients of the belief-change meditation in Dispenza’s model?"
+              "en": "What are the two main ingredients of the belief-change meditation in Dispenza’s model?",
+              "ro": "Care sunt cele două ingrediente principale ale meditației de schimbare a credințelor în modelul lui Dispenza?"
             },
             "options": {
               "hu": [
@@ -470,6 +543,12 @@
                 "Loud repetition and willpower",
                 "External validation and convincing others",
                 "Fasting and vigils"
+              ],
+              "ro": [
+                "Îmbinarea intenției clare cu emoția elevată",
+                "Repetarea cu voce tare și forța de voință",
+                "Validarea externă și convingerea altora",
+                "Postul și privegherile"
               ]
             },
             "correctIndex": 0

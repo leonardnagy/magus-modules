@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Az Idő princípium",
-    "en": "The Time Principle"
+    "en": "The Time Principle",
+    "ro": "Principiul Timpului"
   },
   "description": {
     "hu": "Rövid tájékozódó modul az Idő elemhez: az idő mint minden kibontakozás ritmusa, a ciklusokkal való együttműködés és az örök Most. Megmutatja, miért mágikus erény a türelem, és hogyan tanítja meg a napló a fejlődés valódi sebességét.",
-    "en": "A short orientation module for the Time element: time as the rhythm of all becoming, working with cycles, and the eternal Now. It shows why patience is a magical virtue and how the diary teaches the true speed of growth."
+    "en": "A short orientation module for the Time element: time as the rhythm of all becoming, working with cycles, and the eternal Now. It shows why patience is a magical virtue and how the diary teaches the true speed of growth.",
+    "ro": "Un scurt modul de orientare pentru elementul Timp: timpul ca ritm al oricărei deveniri, lucrul cu ciclurile și Veșnicul Acum. Arată de ce răbdarea este o virtute magică și cum jurnalul te învață adevărata viteză a creșterii."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.theme.timeprinciple/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Az idő mint ritmus és érlelődés",
-        "en": "Time as Rhythm and Ripening"
+        "en": "Time as Rhythm and Ripening",
+        "ro": "Timpul ca Ritm și Coacere"
       },
       "text": {
         "hu": "**1. Minden érik.** A hermetikus úton semmi sem készül el parancsszóra. Ahogy a mag sem csírázik gyorsabban attól, hogy naponta kihúzod a földből megnézni, úgy a belső képességek is a maguk ütemében bontakoznak ki. Az idő itt nem akadály, amit le kell győzni, hanem maga a közeg, amelyben a munka végbemegy: minden gyakorlat, minden nap hozzátesz egy réteget — akkor is, ha ezt épp nem érzed.\n\n**2. A mesterség nem kényszeríthető ki.** Minden lépcső annyi időt kér, amennyit kér. Két tanuló ugyanazt a gyakorlatot végezheti, és mégis egészen más ütemben halad — ez nem érdem és nem szégyen, hanem természet. A becsületes mérce sosem a naptár, hanem a megépített képesség *stabilitása*: ami gyorsan épült, de inog, azt úgyis újra kell építeni.\n\n**3. A türelmetlenség tűzhiba.** Amikor azt érzed, hogy „ez túl lassú\", valójában nem az idővel van baj. A türelmetlenség a tűz elem egyensúlyhibája, amelyet az időre vetítesz ki: az akarat fellobban, és a gyümölcsöt akarja az érés előtt. Ismerd fel, és kezeld annak, ami: a jellemmunka nyersanyagának — nem pedig jelzésnek arra, hogy gyorsítanod kellene.\n\n**4. A türelem mágikus erény.** A türelem nem passzivitás, hanem nyugodt, kitartó jelenlét: ma is leülsz gyakorolni, holnap is, látványos eredmény nélkül is. Ebben a csendes állhatatosságban több erő van, mint bármilyen lelkes rohamban.\n\n**5. A napló mint időmérő.** Napról napra szinte semmi sem látszik változni — hónapok távlatából viszont a változás tagadhatatlan. Ezért olvasd vissza a naplódat rendszeresen: nem a tegnapi bejegyzés, hanem a három hónappal ezelőtti mutatja meg a növekedés *valódi* sebességét. A napló így az idő tanítójává válik.",
-        "en": "**1. Everything ripens.** On the hermetic path nothing is finished on command. Just as a seed does not sprout faster because you dig it up daily to check on it, inner faculties unfold at their own pace. Time here is not an obstacle to be defeated but the very medium in which the work takes place: every exercise, every day adds a layer — even when you cannot feel it in the moment.\n\n**2. Mastery cannot be forced.** Each step takes exactly the time it takes. Two students may do the same exercise and still progress at entirely different rates — this is neither merit nor shame, but nature. The honest measure is never the calendar; it is the *stability* of what has been built: whatever was built fast but wobbles will have to be built again.\n\n**3. Impatience is a fire-fault.** When you feel that „this is too slow,\" the problem is not actually with time. Impatience is an imbalance of the fire element projected onto time: the will flares up and demands the fruit before the ripening. Recognize it and treat it as what it is — raw material for character work — not as a signal that you ought to speed up.\n\n**4. Patience is a magical virtue.** Patience is not passivity but calm, persistent presence: you sit down to practice today, and again tomorrow, even without any spectacular result. There is more power in this quiet steadfastness than in any burst of enthusiasm.\n\n**5. The diary as timekeeper.** From day to day almost nothing seems to change — across months, the change is undeniable. So reread your diary regularly: it is not yesterday's entry but the one from three months ago that reveals the *true* speed of your growth. In this way the diary becomes a teacher of time itself."
+        "en": "**1. Everything ripens.** On the hermetic path nothing is finished on command. Just as a seed does not sprout faster because you dig it up daily to check on it, inner faculties unfold at their own pace. Time here is not an obstacle to be defeated but the very medium in which the work takes place: every exercise, every day adds a layer — even when you cannot feel it in the moment.\n\n**2. Mastery cannot be forced.** Each step takes exactly the time it takes. Two students may do the same exercise and still progress at entirely different rates — this is neither merit nor shame, but nature. The honest measure is never the calendar; it is the *stability* of what has been built: whatever was built fast but wobbles will have to be built again.\n\n**3. Impatience is a fire-fault.** When you feel that „this is too slow,\" the problem is not actually with time. Impatience is an imbalance of the fire element projected onto time: the will flares up and demands the fruit before the ripening. Recognize it and treat it as what it is — raw material for character work — not as a signal that you ought to speed up.\n\n**4. Patience is a magical virtue.** Patience is not passivity but calm, persistent presence: you sit down to practice today, and again tomorrow, even without any spectacular result. There is more power in this quiet steadfastness than in any burst of enthusiasm.\n\n**5. The diary as timekeeper.** From day to day almost nothing seems to change — across months, the change is undeniable. So reread your diary regularly: it is not yesterday's entry but the one from three months ago that reveals the *true* speed of your growth. In this way the diary becomes a teacher of time itself.",
+        "ro": "**1. Totul se coace.** Pe calea hermetică nimic nu se termină la comandă. Așa cum o sămânță nu încolțește mai repede pentru că o dezgropi zilnic ca să verifici, facultățile interioare se desfășoară în ritmul lor. Timpul aici nu este un obstacol de învins, ci însăși mediul în care se desfășoară lucrarea: fiecare exercițiu, fiecare zi adaugă un strat — chiar și când nu simți asta în momentul respectiv.\n\n**2. Maeștria nu poate fi forțată.** Fiecare pas durează exact atât cât durează. Doi elevi pot face același exercițiu și totuși progresează în ritmuri cu totul diferite — asta nu e nici merit, nici rușine, ci natură. Măsura cinstită nu e niciodată calendarul; este *stabilitatea* a ceea ce a fost construit: orice a fost construit repede, dar se clatină, va trebui construit din nou.\n\n**3. Nerăbdarea este o greșeală a focului.** Când simți că „merge prea încet,\" problema nu e de fapt cu timpul. Nerăbdarea este un dezechilibru al elementului foc proiectat asupra timpului: voința se aprinde și cere fructul înainte de coacere. Recunoaște-o și trateaz-o ca pe ceea ce este — materie primă pentru lucrul asupra caracterului — nu ca pe un semnal că ar trebui să grăbești.\n\n**4. Răbdarea este o virtute magică.** Răbdarea nu e pasivitate, ci prezență calmă și stăruitoare: te așezi să exersezi azi, și din nou mâine, chiar și fără vreun rezultat spectaculos. Este mai multă putere în această statornicie liniștită decât în orice izbucnire de entuziasm.\n\n**5. Jurnalul ca păstrător al timpului.** De pe o zi pe alta aproape nimic nu pare să se schimbe — pe parcursul lunilor, schimbarea e de netăgăduit. Așa că recitește-ți jurnalul regulat: nu însemnarea de ieri, ci cea de acum trei luni dezvăluie *adevărata* viteză a creșterii tale. În acest fel jurnalul devine un învățător al timpului însuși."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Munka a ciklusokkal — és a Most",
-        "en": "Working with Cycles — and the Now"
+        "en": "Working with Cycles — and the Now",
+        "ro": "Lucrul cu Ciclurile — și cu Acum-ul"
       },
       "text": {
         "hu": "**1. Az élet ritmusban lélegzik.** Nappal és éjszaka, ébrenlét és alvás, dagály és apály, az évszakok körforgása — minden, ami él, ciklusokban mozog. A mágus nem harcol ez ellen a lüktetés ellen, hanem megfigyeli, kiismeri, és belesimul: a ciklusokkal dolgozik, nem ellenük. Aki az árral evez, ugyanazzal az erővel kétszer olyan messzire jut.\n\n**2. Rögzített órák ereje.** Ha minden nap ugyanabban az órában gyakorolsz, maga a ritmus válik szövetségeseddé. A test és az elme megtanulja, hogy „most következik a munka\": mire leülsz, már félig felkészültek. A rendszeres, rögzített idejű gyakorlás így kevesebb ellenállással mélyebbre visz, mint az ötletszerű, hangulatvezérelt nekibuzdulás.\n\n**3. Az intenzitás és a pihenés évszakai.** Ahogy az évnek, úgy a belső munkának is vannak évszakai: időszakok, amikor minden gyorsan mélyül, és időszakok, amikor látszólag semmi sem mozdul — ilyenkor a megszerzett ülepszik és szilárdul. Mindkettő a növekedéshez tartozik. Aki a nyugalmi évszakban erőltet, kimerülést és keserűséget arat; aki felismeri az évszakot, abban dolgozik, amit az éppen kínál.\n\n**4. Az örök Most.** A múlt már csak emlékként él, a jövő még csak képként — a kettő a jelenben találkozik, és cselekedni egyedül itt lehet. Minden gyakorlat, minden döntés, minden változás a Mostban történik; ezért a jelenlét nem hangulat kérdése, hanem munkaeszköz. Ez az Akása kapuja, a VIII. lépcső „Most nagy pillanata\": az iskolázott tudat kilép az idő folyamából, és mozdulatlan pontra emelkedik fölötte, ahol múlt és jövő egyszerre tárul fel, és az idő sodra többé nem ragad magával. *\n\n**5. Gyakorlati összegzés.**\n\n— Gyakorolj naponta ugyanabban az órában, és hagyd, hogy a ritmus dolgozzon érted.\n\n— Jegyezd fel a naplóba a saját ciklusaidat: mikor mélyül a munka, mikor ülepszik.\n\n— Amikor türelmetlenség fog el, térj vissza egyetlen lélegzettel a Mostba — csak ott tehetsz bármit.\n\n— Havonta olvasd vissza a naplót, és engedd, hogy az idő maga mutassa meg az utadat.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "**1. Life breathes in rhythm.** Day and night, waking and sleeping, ebb and flow, the wheel of the seasons — everything alive moves in cycles. The magician does not fight this pulse but observes it, learns it, and settles into it: working with the cycles, never against them. Whoever rows with the current travels twice as far on the same strength.\n\n**2. The power of fixed hours.** If you practice at the same hour every day, the rhythm itself becomes your ally. Body and mind learn that „now the work begins\": by the time you sit down, they are already half prepared. Regular practice at fixed hours therefore reaches deeper, with less resistance, than sporadic bursts driven by mood.\n\n**3. Seasons of intensity and of rest.** Like the year, the inner work has its seasons: periods when everything deepens quickly, and periods when nothing seems to move — times when what you have gained settles and solidifies. Both belong to growth. Whoever forces the work in a resting season harvests exhaustion and bitterness; whoever recognizes the season works with what it currently offers.\n\n**4. The eternal Now.** The past lives on only as memory, the future only as image — the two meet in the present, and the present is the only point where anything can actually be done. Every exercise, every decision, every change happens in the Now; presence is therefore not a mood but a working tool. This is the very doorway of the Akasha, the „Great Moment of Now\" of Step VIII: the trained consciousness steps clean out of the river of time and rises to a motionless point above it, where past and future lie open at once and the current of time no longer sweeps you along. *\n\n**5. Practical summary.**\n\n— Practice at the same hour daily, and let the rhythm work on your behalf.\n\n— Record your own cycles in the diary: when the work deepens, when it settles.\n\n— When impatience grips you, return to the Now with a single breath — only there can anything be done.\n\n— Reread the diary monthly, and let time itself show you your path.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "**1. Life breathes in rhythm.** Day and night, waking and sleeping, ebb and flow, the wheel of the seasons — everything alive moves in cycles. The magician does not fight this pulse but observes it, learns it, and settles into it: working with the cycles, never against them. Whoever rows with the current travels twice as far on the same strength.\n\n**2. The power of fixed hours.** If you practice at the same hour every day, the rhythm itself becomes your ally. Body and mind learn that „now the work begins\": by the time you sit down, they are already half prepared. Regular practice at fixed hours therefore reaches deeper, with less resistance, than sporadic bursts driven by mood.\n\n**3. Seasons of intensity and of rest.** Like the year, the inner work has its seasons: periods when everything deepens quickly, and periods when nothing seems to move — times when what you have gained settles and solidifies. Both belong to growth. Whoever forces the work in a resting season harvests exhaustion and bitterness; whoever recognizes the season works with what it currently offers.\n\n**4. The eternal Now.** The past lives on only as memory, the future only as image — the two meet in the present, and the present is the only point where anything can actually be done. Every exercise, every decision, every change happens in the Now; presence is therefore not a mood but a working tool. This is the very doorway of the Akasha, the „Great Moment of Now\" of Step VIII: the trained consciousness steps clean out of the river of time and rises to a motionless point above it, where past and future lie open at once and the current of time no longer sweeps you along. *\n\n**5. Practical summary.**\n\n— Practice at the same hour daily, and let the rhythm work on your behalf.\n\n— Record your own cycles in the diary: when the work deepens, when it settles.\n\n— When impatience grips you, return to the Now with a single breath — only there can anything be done.\n\n— Reread the diary monthly, and let time itself show you your path.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "**1. Viața respiră în ritm.** Zi și noapte, veghe și somn, reflux și flux, roata anotimpurilor — tot ce e viu se mișcă în cicluri. Magicianul nu luptă împotriva acestui puls, ci îl observă, îl învață și se așază în el: lucrând cu ciclurile, niciodată împotriva lor. Cine vâslește odată cu curentul ajunge de două ori mai departe cu aceeași putere.\n\n**2. Puterea orelor fixe.** Dacă exersezi la aceeași oră în fiecare zi, ritmul însuși devine aliatul tău. Trupul și mintea învață că „acum începe lucrarea\": până te așezi, sunt deja pe jumătate pregătite. Practica regulată la ore fixe ajunge deci mai adânc, cu mai puțină rezistență, decât izbucnirile sporadice dictate de dispoziție.\n\n**3. Anotimpuri de intensitate și de odihnă.** Ca și anul, lucrarea interioară are anotimpurile ei: perioade când totul se adâncește repede și perioade când nimic nu pare să se miște — vremuri în care ceea ce ai câștigat se așază și se solidifică. Ambele țin de creștere. Cine forțează lucrarea într-un anotimp de odihnă culege epuizare și amărăciune; cine recunoaște anotimpul lucrează cu ceea ce el oferă acum.\n\n**4. Veșnicul Acum.** Trecutul trăiește mai departe doar ca amintire, viitorul doar ca imagine — cele două se întâlnesc în prezent, iar prezentul este singurul punct unde se poate face cu adevărat ceva. Fiecare exercițiu, fiecare decizie, fiecare schimbare se întâmplă în Acum; prezența nu e deci o dispoziție, ci o unealtă de lucru. Aceasta este însăși poarta Akasha, „Marele Moment al Acum-ului\" din Treapta VIII: conștiința antrenată iese curat din râul timpului și se ridică într-un punct nemișcat deasupra lui, unde trecutul și viitorul stau deschise deodată și curentul timpului nu te mai poartă cu el. *\n\n**5. Rezumat practic.**\n\n— Exersează zilnic la aceeași oră și lasă ritmul să lucreze în favoarea ta.\n\n— Notează-ți propriile cicluri în jurnal: când lucrarea se adâncește, când se așază.\n\n— Când te cuprinde nerăbdarea, întoarce-te în Acum cu o singură respirație — doar acolo se poate face ceva.\n\n— Recitește jurnalul lunar și lasă timpul însuși să-ți arate calea.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,7 +47,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Ellenőrző kérdések",
-        "en": "Check Your Understanding"
+        "en": "Check Your Understanding",
+        "ro": "Verifică-ți înțelegerea"
       },
       "quiz": {
         "passThreshold": 2,
@@ -50,7 +57,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Hogyan értelmezi ez a modul a türelmetlenséget?",
-              "en": "How does this module interpret impatience?"
+              "en": "How does this module interpret impatience?",
+              "ro": "Cum interpretează acest modul nerăbdarea?"
             },
             "options": {
               "hu": [
@@ -64,6 +72,12 @@
                 "A useful driving force that speeds up the ripening, provided the will is strong enough.",
                 "A natural property of time itself, against which a person has no tools at all.",
                 "A fault of the water element that shows up mainly as skipping practice sessions."
+              ],
+              "ro": [
+                "Un dezechilibru al elementului foc proiectat asupra timpului — materie primă pentru lucrul asupra caracterului, nu o proprietate a timpului însuși.",
+                "O forță motrice utilă care grăbește coacerea, cu condiția ca voința să fie suficient de puternică.",
+                "O proprietate naturală a timpului însuși, împotriva căreia o persoană nu are deloc unelte.",
+                "O greșeală a elementului apă care apare mai ales ca săritul sesiunilor de practică."
               ]
             },
             "correctIndex": 0
@@ -72,7 +86,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Miért kulcsfontosságú a jelen pillanat — a Most — a mágikus munkában?",
-              "en": "Why is the present moment — the Now — central to magical work?"
+              "en": "Why is the present moment — the Now — central to magical work?",
+              "ro": "De ce este momentul prezent — Acum-ul — central pentru lucrarea magică?"
             },
             "options": {
               "hu": [
@@ -86,6 +101,12 @@
                 "Because astral currents are strongest in the present moment, especially at midnight.",
                 "Because past and future are mere illusion, so planning and keeping a diary are pointless.",
                 "Because time stops in the Now, so the length of the exercises no longer matters."
+              ],
+              "ro": [
+                "Pentru că trecutul și viitorul se întâlnesc în prezent: este singurul punct unde se poate face cu adevărat ceva.",
+                "Pentru că curenții astrali sunt cei mai puternici în momentul prezent, mai ales la miezul nopții.",
+                "Pentru că trecutul și viitorul sunt o simplă iluzie, deci planificarea și ținerea unui jurnal sunt fără rost.",
+                "Pentru că timpul se oprește în Acum, deci durata exercițiilor nu mai contează."
               ]
             },
             "correctIndex": 0
@@ -98,11 +119,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare de responsabilitate"
       },
       "text": {
         "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába\" (Initiation Into Hermetics) című műve nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
-        "en": "*A study aid based on Franz Bardon's „Initiation Into Hermetics.\" The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, seek a qualified professional. Practice ethically and patiently; mastery is the goal, not speed.*"
+        "en": "*A study aid based on Franz Bardon's „Initiation Into Hermetics.\" The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience mental or emotional difficulties, seek a qualified professional. Practice ethically and patiently; mastery is the goal, not speed.*",
+        "ro": "*Un material de studiu bazat pe „Initiation Into Hermetics\" de Franz Bardon. Textul este un rezumat original, nu un citat textual — pentru instrucțiunile complete, citește întotdeauna cartea originală.*\n\n*Acesta nu este sfat medical sau psihologic. Dacă treci prin dificultăți mentale sau emoționale, caută un specialist calificat. Exersează etic și cu răbdare; maeștria este țelul, nu viteza.*"
       }
     }
   ]

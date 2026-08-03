@@ -4,11 +4,13 @@
   "version": 1,
   "nevek": {
     "hu": "Arion mester válaszai — a Bardon-út élő kérdései",
-    "en": "Master Arion’s Answers — Living Questions of the Bardon Path"
+    "en": "Master Arion’s Answers — Living Questions of the Bardon Path",
+    "ro": "Răspunsurile Maestrului Arion — Întrebări vii ale Căii Bardon"
   },
   "description": {
     "hu": "Az ötvenes évek elején, Prágában, Franz Bardon tanítványi körében kérdések és válaszok gyűltek össze a hermetikus út gyakorlatáról. Ez a modul nem másolja a szöveget: a visszatérő tanácsok szellemét desztillálja — helyes gyakorlás, türelem, gyakori kezdő hibák, a tanítókkal és jelenségekkel szembeni éber megkülönböztetés. A hagyomány kijelentései a saját hangján szólnak; mércéjük a belső gyümölcs, nem a külső bizonyíték.",
-    "en": "In early-1950s Prague, within Franz Bardon’s circle of students, questions and answers about the practice of the hermetic path were collected. This module does not copy that text: it distils the spirit of its recurring counsel — right practice, patience, common beginner mistakes, and alert discernment toward teachers and phenomena. The tradition’s statements speak in their own voice; their measure is inner fruit, not outer proof."
+    "en": "In early-1950s Prague, within Franz Bardon’s circle of students, questions and answers about the practice of the hermetic path were collected. This module does not copy that text: it distils the spirit of its recurring counsel — right practice, patience, common beginner mistakes, and alert discernment toward teachers and phenomena. The tradition’s statements speak in their own voice; their measure is inner fruit, not outer proof.",
+    "ro": "La începutul anilor 1950, la Praga, în cercul de elevi ai lui Franz Bardon, au fost adunate întrebări și răspunsuri despre practica căii hermetice. Acest modul nu copiază acel text: distilează spiritul sfatului său recurent — practica dreaptă, răbdarea, greșelile obișnuite ale începătorilor și discernământul treaz față de învățători și fenomene. Afirmațiile tradiției vorbesc în propria lor voce; măsura lor este rodul lăuntric, nu dovada exterioară."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/arion.answers/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Ki volt Arion? — a forrás és a becsületes keret",
-        "en": "Who Was Arion? — the Source and the Honest Frame"
+        "en": "Who Was Arion? — the Source and the Honest Frame",
+        "ro": "Cine a fost Arion? — Sursa și cadrul cinstit"
       },
       "text": {
         "hu": "„Fokról-fokra haladva a legmagasabb ideáig.” — Arion\n\nA kézirat az ötvenes évek elején, Prágában született, Franz Bardon tanítványi körében — még azelőtt, hogy Bardon tankönyvei nyomtatásban megjelentek volna. A tanítványok kérdéseket tettek fel a mentális, asztrális és anyagi sík működéséről, a válaszokat pedig a hagyomány **Arion mesternek**, Bardon szellemi nevének tulajdonítja. Dieter Rüggeberg kiadó évtizedekkel később tette közzé, kifejezetten azzal a céllal, hogy az egyéni meditációs munkát ösztönözze — nem azért, hogy dogmát adjon.\n\n**Becsületes keret.** Ami ebben az anyagban metafizikai állítás — fluidumok, elemi lények, az Akasha működése —, az a hagyomány saját belső térképe, nem külsőleg bizonyított tény. A hermetikus út mércéje mindig ugyanaz: mit érlel benned a gyakorlás? Nyugodtabb, rendezettebb, jóságosabb lettél-e? Ha igen, a térkép jól szolgál. Ha a tanítás szorongást, függést vagy gőgöt táplál, a térképet félre kell tenni — bármilyen tekintély áll is mögötte.",
-        "en": "“Advancing step by step, up to the highest ideal.” — Arion\n\nThe manuscript was born in early-1950s Prague, within Franz Bardon’s circle of students — before Bardon’s own textbooks had even appeared in print. Students posed questions about the workings of the mental, astral, and physical planes, and the tradition attributes the answers to **Master Arion**, Bardon’s spiritual name. The publisher Dieter Rüggeberg released it decades later, expressly to encourage individual meditative work — not to hand down dogma.\n\n**The honest frame.** Whatever is metaphysical in this material — fluids, elemental beings, the workings of the Akasha — is the tradition’s own inner map, not externally proven fact. The measure of the hermetic path is always the same: what does the practice ripen in you? Have you become calmer, more ordered, kinder? If so, the map is serving well. If a teaching feeds anxiety, dependence, or pride, the map must be set aside — whatever authority stands behind it."
+        "en": "“Advancing step by step, up to the highest ideal.” — Arion\n\nThe manuscript was born in early-1950s Prague, within Franz Bardon’s circle of students — before Bardon’s own textbooks had even appeared in print. Students posed questions about the workings of the mental, astral, and physical planes, and the tradition attributes the answers to **Master Arion**, Bardon’s spiritual name. The publisher Dieter Rüggeberg released it decades later, expressly to encourage individual meditative work — not to hand down dogma.\n\n**The honest frame.** Whatever is metaphysical in this material — fluids, elemental beings, the workings of the Akasha — is the tradition’s own inner map, not externally proven fact. The measure of the hermetic path is always the same: what does the practice ripen in you? Have you become calmer, more ordered, kinder? If so, the map is serving well. If a teaching feeds anxiety, dependence, or pride, the map must be set aside — whatever authority stands behind it.",
+        "ro": "„Înaintând pas cu pas, până la cel mai înalt ideal.” — Arion\n\nManuscrisul s-a născut la începutul anilor 1950, la Praga, în cercul de elevi ai lui Franz Bardon — înainte ca propriile manuale ale lui Bardon să fi apărut tipărite. Elevii puneau întrebări despre lucrarea planurilor mental, astral și fizic, iar tradiția atribuie răspunsurile **Maestrului Arion**, numele spiritual al lui Bardon. Editorul Dieter Rüggeberg l-a publicat decenii mai târziu, anume pentru a încuraja munca meditativă individuală — nu pentru a transmite dogmă.\n\n**Cadrul cinstit.** Tot ce este metafizic în acest material — fluidele, ființele elementale, lucrarea Akashei — este harta lăuntrică proprie a tradiției, nu fapt dovedit din exterior. Măsura căii hermetice este întotdeauna aceeași: ce coace practica în tine? Ai devenit mai calm, mai ordonat, mai blând? Dacă da, harta îți slujește bine. Dacă o învățătură hrănește anxietatea, dependența sau mândria, harta trebuie pusă deoparte — indiferent de autoritatea care stă în spatele ei."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A visszatérő tanács: hogyan gyakorolj",
-        "en": "The Recurring Counsel: How to Practise"
+        "en": "The Recurring Counsel: How to Practise",
+        "ro": "Sfatul care se întoarce mereu: Cum să practici"
       },
       "text": {
         "hu": "Ha a kérdések és válaszok sokféleségét egyetlen fonalra fűzzük, mindig ugyanaz a tanács tér vissza: **az alap a jellem kiegyensúlyozása**, nem a képességek gyűjtése. A hagyomány nyelvén az elemek egyensúlya; a hétköznapok nyelvén: ismerd a saját indulataidat, szokásaidat, gyengéidet, és dolgozz rajtuk naponta.\n\nA gyakorlás rendje egyszerű és szigorú:\n\n- **Naponta, keveset, pontosan.** Egy rövid, teljes figyelemmel végzett gyakorlat többet ér, mint egy hosszú, szétszórt.\n- **Önvizsgálat folyamatosan.** Az introspekció nem egyszeri leltár, hanem életforma: minden nap egy fény és egy árnyék feljegyzése.\n- **Fokozatosan építs.** Előbb a gondolat megfigyelése, aztán az egy-pontú összpontosítás, aztán az elmélyülés — lépcsőt kihagyni nem lehet.\n- **Négy pillér tartja a munkát:** tudni, merni, akarni, hallgatni. A negyedik a legnehezebb: a gyakorlásról nem beszélünk fűnek-fának — a csend őrzi az erőt és a józanságot.\n\nA napló ehhez nem díszlet, hanem műszer: ami nincs leírva, az elmosódik.",
-        "en": "If the variety of questions and answers is drawn onto a single thread, the same counsel always returns: **the foundation is the balancing of character**, not the collecting of abilities. In the tradition’s language, the equilibrium of the elements; in everyday language: know your own impulses, habits, and weaknesses, and work on them daily.\n\nThe order of practice is simple and strict:\n\n- **Daily, briefly, exactly.** One short exercise done with full attention is worth more than a long, scattered one.\n- **Introspection is continuous.** Self-examination is not a one-time inventory but a way of life: note one light and one shadow every day.\n- **Build gradually.** First the observation of thought, then one-pointed concentration, then absorption — no step can be skipped.\n- **Four pillars carry the work:** to know, to dare, to will, to keep silent. The fourth is the hardest: we do not talk about our practice to everyone — silence guards both power and sobriety.\n\nThe diary is not decoration here but an instrument: what is not written down blurs away."
+        "en": "If the variety of questions and answers is drawn onto a single thread, the same counsel always returns: **the foundation is the balancing of character**, not the collecting of abilities. In the tradition’s language, the equilibrium of the elements; in everyday language: know your own impulses, habits, and weaknesses, and work on them daily.\n\nThe order of practice is simple and strict:\n\n- **Daily, briefly, exactly.** One short exercise done with full attention is worth more than a long, scattered one.\n- **Introspection is continuous.** Self-examination is not a one-time inventory but a way of life: note one light and one shadow every day.\n- **Build gradually.** First the observation of thought, then one-pointed concentration, then absorption — no step can be skipped.\n- **Four pillars carry the work:** to know, to dare, to will, to keep silent. The fourth is the hardest: we do not talk about our practice to everyone — silence guards both power and sobriety.\n\nThe diary is not decoration here but an instrument: what is not written down blurs away.",
+        "ro": "Dacă varietatea întrebărilor și răspunsurilor este trasă pe un singur fir, același sfat se întoarce mereu: **temelia este echilibrarea caracterului**, nu strângerea de abilități. În limbajul tradiției, echilibrul elementelor; în limbajul de zi cu zi: cunoaște-ți propriile impulsuri, obiceiuri și slăbiciuni și lucrează asupra lor zilnic.\n\nOrdinea practicii este simplă și strictă:\n\n- **Zilnic, pe scurt, exact.** Un exercițiu scurt făcut cu toată atenția valorează mai mult decât unul lung și risipit.\n- **Introspecția este continuă.** Autoexaminarea nu este un inventar de o singură dată, ci un fel de a trăi: notează în fiecare zi o lumină și o umbră.\n- **Construiește treptat.** Mai întâi observarea gândului, apoi concentrarea într-un singur punct, apoi absorția — niciun pas nu poate fi sărit.\n- **Patru stâlpi poartă lucrarea:** a ști, a îndrăzni, a voi, a tăcea. Al patrulea este cel mai greu: nu vorbim despre practica noastră cu oricine — tăcerea păzește atât puterea, cât și trezia.\n\nJurnalul nu este aici decorație, ci instrument: ce nu este scris se estompează."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A lassú út — türelem mint módszer",
-        "en": "The Slow Path — Patience as Method"
+        "en": "The Slow Path — Patience as Method",
+        "ro": "Calea lentă — Răbdarea ca metodă"
       },
       "text": {
         "hu": "A tanítványok kérdései mögött gyakran ugyanaz a türelmetlenség lüktet: mikor látok már valamit? A válaszok szelleme mindig lehűti ezt a lázat. A fejlődés a hagyomány szerint úgy érik, mint a gyümölcs — és ami erőltetve, idő előtt szakad le, az éretlen és kesernyés. A maga idejében, magától beérve a belső látás megnyílik, és érzékelni kezded az elemek eleven áramlását, amit a külső érzékek nem foghatnak. *\n\nA hagyomány kifejezetten óv a rövidebb utaktól: az izgatószerekkel, kábítószerekkel kikényszerített »látás« szerinte nem fejlődés, hanem sérülés — az érzékek eltompulnak, a józan ítélőképesség károsodik. Még a saját legendás képeire is árcédulát tesz: aki a mesebeli fiatalító elixírrel éveket vásárolna vissza, az a hagyomány képe szerint cserébe mindazt odaadná, amit hosszú évek munkája érlelt benne. A kép tanulsága gyakorlati: **minden rövidítésnek ára van, és az ár mindig nagyobb, mint a nyereség.**\n\nA türelem itt nem tétlen várakozás, hanem módszer: az egyenletes ritmus. A mindennap elvégzett kis munka olyan, mint a csepp a kövön — nem látványos, de egyedül ez hagy nyomot.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "Behind the students’ questions the same impatience often pulses: when will I finally see something? The spirit of the answers always cools this fever. Development, the tradition says, ripens like fruit — and what is torn off early, by force, is unripe and bitter. Left to ripen in its own season, the inner sight opens of itself, and you begin to perceive the living currents of the elements that the outer senses can never reach. *\n\nThe tradition explicitly warns against shortcuts: a »seeing« forced by stimulants or drugs is, in its view, not development but injury — the senses dull, sober judgement is damaged. It even puts a price tag on its own legendary images: whoever would buy back years with the fabled elixir of youth would, in the tradition’s image, give up in exchange everything that long years of work had ripened in them. The lesson of the image is practical: **every shortcut has a price, and the price is always greater than the gain.**\n\nPatience here is not idle waiting but a method: the even rhythm. The small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "Behind the students’ questions the same impatience often pulses: when will I finally see something? The spirit of the answers always cools this fever. Development, the tradition says, ripens like fruit — and what is torn off early, by force, is unripe and bitter. Left to ripen in its own season, the inner sight opens of itself, and you begin to perceive the living currents of the elements that the outer senses can never reach. *\n\nThe tradition explicitly warns against shortcuts: a »seeing« forced by stimulants or drugs is, in its view, not development but injury — the senses dull, sober judgement is damaged. It even puts a price tag on its own legendary images: whoever would buy back years with the fabled elixir of youth would, in the tradition’s image, give up in exchange everything that long years of work had ripened in them. The lesson of the image is practical: **every shortcut has a price, and the price is always greater than the gain.**\n\nPatience here is not idle waiting but a method: the even rhythm. The small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "În spatele întrebărilor elevilor pulsează adesea aceeași nerăbdare: când voi vedea în sfârșit ceva? Spiritul răspunsurilor răcește mereu această febră. Dezvoltarea, spune tradiția, se coace ca un fruct — iar ce este smuls devreme, cu forța, este necopt și amar. Lăsat să se coacă în propriul său anotimp, vederea lăuntrică se deschide de la sine, și începi să percepi curenții vii ai elementelor pe care simțurile exterioare nu le pot nicicând atinge. *\n\nTradiția previne explicit împotriva scurtăturilor: o »vedere« forțată prin stimulente sau droguri nu este, în viziunea ei, dezvoltare, ci vătămare — simțurile se tocesc, judecata trează este deteriorată. Pune chiar un preț pe propriile-i imagini legendare: cine ar cumpăra înapoi anii cu fabulosul elixir al tinereții ar da, în imaginea tradiției, în schimb tot ce anii lungi de muncă coacuseră în el. Lecția imaginii este practică: **orice scurtătură are un preț, iar prețul este întotdeauna mai mare decât câștigul.**\n\nRăbdarea aici nu este așteptare leneșă, ci o metodă: ritmul egal. Mica lucrare făcută în fiecare zi este ca picătura pe piatră — nu e spectaculoasă, dar numai ea lasă o urmă.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Amin a kezdők elakadnak — gyakori hibák",
-        "en": "Where Beginners Get Stuck — Common Mistakes"
+        "en": "Where Beginners Get Stuck — Common Mistakes",
+        "ro": "Unde se blochează începătorii — Greșeli obișnuite"
       },
       "text": {
         "hu": "A kérdésekből kirajzolódik egy térkép azokról a helyekről, ahol az út elején járók újra és újra elakadnak:\n\n- **Jelenséghajszolás.** Aki látomást, hangot, különleges élményt vár, az a mellékterméket nézi célnak. A képességek maguktól, hívatlanul érnek be: megnyílik a belső látás, és érzékelni kezded az elemek eleven áramlását anélkül, hogy nyúlnál értük. * Aki hajszolja őket, épp az alapmunkát hanyagolja el.\n- **Egyoldalú fejlődés.** Ha valaki egyetlen képességet edz, és a jellem többi területét parlagon hagyja, a hagyomány szerint az egyensúlytalanság az egészségét és az ítélőképességét is aláássa. A mérce mindig az egész ember.\n- **Passzivitás és médiumkodás.** A saját akarat feladása — bármilyen lénynek, erőnek vagy embernek — a hagyomány szemében a legveszélyesebb út. A gyakorló mindig éber és kormányon marad; ami az akaratod megkerülésével jön, annak nem nyitsz ajtót.\n- **Elmélet gyakorlat nélkül.** A könyvek gyűjtése nem gyakorlás. Egyetlen elvégzett introspekció többet tanít, mint tíz elolvasott fejezet.\n- **Fecsegés.** Aki a gyakorlásáról beszél, dicsekszik vagy vitázik, az szétszórja, amit gyűjtött — és hiúságot nevel oda, ahol józanságra volna szükség.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "From the questions a map emerges of the places where those at the start of the path get stuck again and again:\n\n- **Chasing phenomena.** Whoever waits for visions, voices, special experiences is treating a by-product as the goal. Abilities ripen of themselves, unbidden: the inner sight opens, and you come to sense the living currents of the elements without ever reaching for them. * Whoever chases them neglects precisely the foundational work.\n- **One-sided development.** If someone trains a single ability and leaves the rest of the character fallow, the tradition holds that the imbalance undermines health and judgement alike. The measure is always the whole person.\n- **Passivity and mediumship.** Surrendering one’s own will — to any being, force, or person — is in the tradition’s eyes the most dangerous road. The practitioner stays awake and at the helm; whatever arrives by bypassing your will, you do not open the door to.\n- **Theory without practice.** Collecting books is not practising. One completed self-examination teaches more than ten chapters read.\n- **Chatter.** Whoever talks about their practice, boasts, or debates scatters what was gathered — and grows vanity where sobriety is needed.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "From the questions a map emerges of the places where those at the start of the path get stuck again and again:\n\n- **Chasing phenomena.** Whoever waits for visions, voices, special experiences is treating a by-product as the goal. Abilities ripen of themselves, unbidden: the inner sight opens, and you come to sense the living currents of the elements without ever reaching for them. * Whoever chases them neglects precisely the foundational work.\n- **One-sided development.** If someone trains a single ability and leaves the rest of the character fallow, the tradition holds that the imbalance undermines health and judgement alike. The measure is always the whole person.\n- **Passivity and mediumship.** Surrendering one’s own will — to any being, force, or person — is in the tradition’s eyes the most dangerous road. The practitioner stays awake and at the helm; whatever arrives by bypassing your will, you do not open the door to.\n- **Theory without practice.** Collecting books is not practising. One completed self-examination teaches more than ten chapters read.\n- **Chatter.** Whoever talks about their practice, boasts, or debates scatters what was gathered — and grows vanity where sobriety is needed.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Din întrebări se conturează o hartă a locurilor unde cei de la începutul căii se blochează iar și iar:\n\n- **Vânarea fenomenelor.** Cine așteaptă viziuni, voci, experiențe speciale tratează un produs secundar ca pe țel. Abilitățile se coc de la sine, nesolicitate: vederea lăuntrică se deschide, și ajungi să simți curenții vii ai elementelor fără să întinzi vreodată mâna după ei. * Cine îi vânează neglijează tocmai lucrarea de temelie.\n- **Dezvoltare unilaterală.** Dacă cineva antrenează o singură abilitate și lasă restul caracterului în pârloagă, tradiția ține că dezechilibrul subminează deopotrivă sănătatea și judecata. Măsura este întotdeauna omul întreg.\n- **Pasivitate și mediumnitate.** Predarea propriei voințe — oricărei ființe, forțe sau persoane — este în ochii tradiției drumul cel mai periculos. Practicianul rămâne treaz și la cârmă; orice sosește ocolindu-ți voința, nu-i deschizi ușa.\n- **Teorie fără practică.** A strânge cărți nu înseamnă a practica. O autoexaminare dusă la capăt învață mai mult decât zece capitole citite.\n- **Pălăvrăgeala.** Cine vorbește despre practica sa, se laudă sau dezbate risipește ce a fost adunat — și crește vanitatea acolo unde e nevoie de trezie.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Tanítók, jelenségek, mérce — a megkülönböztetés leckéje",
-        "en": "Teachers, Phenomena, and the Scale — the Lesson of Discernment"
+        "en": "Teachers, Phenomena, and the Scale — the Lesson of Discernment",
+        "ro": "Învățători, fenomene și cântarul — Lecția discernământului"
       },
       "text": {
         "hu": "A hagyomány maga mondja ki a legfontosabb határt: a tanító fényt gyújthat a tanítvány gondolkodásában, utat mutathat — de **a jellem átformálását nem végezheti el helyette**; az a munka átruházhatatlanul a tanítványé marad. Aki ennél többet ígér, az többet ígér, mint amit a hagyomány szerint bárki adhat.\n\nA magyar kiadás előszava külön figyelmeztet a Bardon nevével kereskedőkre: beavatást árulnak néhány nap alatt, mesterfokot rohamtempóban, kegyelmet pénzért kimérve. A hagyomány válasza józan: az út egyéni, csendes, és senki másra át nem ruházható; ami hangos, sürgető és fizetős, az már ezzel elárulta magát.\n\n**Kerítés, amely nem alku tárgya:** semmilyen tanító, cím, hagyomány vagy jelenség — még ez a modul sem — nem írhatja felül a saját lelkiismeretedet, mérlegedet és etikádat. A valódi vezető sosem kér vak engedelmességet, sosem árusít kegyelmet, és sosem szigetel el azoktól, akik szeretnek. Minden tanítást, élményt és tanácsot ugyanazon a mérlegen mérj: alázatosabbá, szabadabbá, felelősebbé tesz-e. Ami függést épít, attól fordulj el — akárki mondja.",
-        "en": "The tradition itself names the most important boundary: a teacher may kindle light in the student’s thinking and point out the way — but **cannot do the remaking of character in the student’s place**; that work remains, untransferably, the student’s own. Whoever promises more is promising more than, by the tradition’s own account, anyone can give.\n\nThe foreword to the Hungarian edition adds its own warning about those trading on Bardon’s name: initiation sold in a few days, mastery at forced pace, grace doled out for money. The tradition’s reply is sober: the path is individual, quiet, and transferable to no one; whatever is loud, urgent, and priced has already betrayed itself.\n\n**A fence that is not negotiable:** no teacher, title, tradition, or phenomenon — not even this module — may override your own conscience, your own scale, your own ethics. A genuine guide never asks for blind obedience, never sells grace, and never isolates you from those who love you. Weigh every teaching, experience, and counsel on the same scale: does it make you humbler, freer, more responsible? Whatever builds dependence, turn away from — whoever says it."
+        "en": "The tradition itself names the most important boundary: a teacher may kindle light in the student’s thinking and point out the way — but **cannot do the remaking of character in the student’s place**; that work remains, untransferably, the student’s own. Whoever promises more is promising more than, by the tradition’s own account, anyone can give.\n\nThe foreword to the Hungarian edition adds its own warning about those trading on Bardon’s name: initiation sold in a few days, mastery at forced pace, grace doled out for money. The tradition’s reply is sober: the path is individual, quiet, and transferable to no one; whatever is loud, urgent, and priced has already betrayed itself.\n\n**A fence that is not negotiable:** no teacher, title, tradition, or phenomenon — not even this module — may override your own conscience, your own scale, your own ethics. A genuine guide never asks for blind obedience, never sells grace, and never isolates you from those who love you. Weigh every teaching, experience, and counsel on the same scale: does it make you humbler, freer, more responsible? Whatever builds dependence, turn away from — whoever says it.",
+        "ro": "Tradiția însăși numește cea mai importantă graniță: un învățător poate aprinde lumina în gândirea elevului și poate arăta calea — dar **nu poate face refacerea caracterului în locul elevului**; acea muncă rămâne, netransferabil, a elevului însuși. Cine promite mai mult promite mai mult decât, după socoteala tradiției însăși, poate da oricine.\n\nCuvântul înainte al ediției maghiare adaugă propriul său avertisment despre cei care fac negoț cu numele lui Bardon: inițiere vândută în câteva zile, măiestrie la pas forțat, har împărțit pe bani. Răspunsul tradiției este sobru: calea este individuală, tăcută și netransferabilă nimănui; tot ce e zgomotos, urgent și cu preț s-a trădat deja pe sine.\n\n**Un gard care nu se negociază:** niciun învățător, titlu, tradiție sau fenomen — nici măcar acest modul — nu poate trece peste propria ta conștiință, propriul tău cântar, propria ta etică. Un ghid autentic nu cere niciodată ascultare oarbă, nu vinde harul și nu te izolează de cei care te iubesc. Cântărește fiecare învățătură, experiență și sfat pe aceeași balanță: te face mai smerit, mai liber, mai responsabil? Orice construiește dependență, întoarce-te de la el — oricine ar spune-o."
       }
     },
     {
@@ -77,11 +89,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A test tisztelete — és ami nem a gyakorlás dolga",
-        "en": "Respect for the Body — and What Practice Is Not For"
+        "en": "Respect for the Body — and What Practice Is Not For",
+        "ro": "Respectul față de trup — și pentru ce nu este practica"
       },
       "text": {
         "hu": "A kérdések jelentős része a testről szól: táplálkozás, légzés, alvás, betegség, gyógymódok. A hagyomány szemlélete itt a maga korának és térképének nyelvén beszél — elemekről, fluidumokról, harmóniáról. A gyakorlás mélyülésével megtanulod érzékelni az elemek áramlását a testedben, és a saját figyelmeddel harmóniába rendezni őket. * Ami ebből ma is arany: a test nem akadály, hanem a munka hordozója; a rendszeres élet, a mértékletes, változatos étkezés, az elegendő alvás és a ritmus a gyakorlás valódi alapozása.\n\n**Ez a kerítés szilárd és nem mozdul:** a hagyomány betegségekről és gyógyításról szóló fejtegetései történeti-szimbolikus szövegek, nem orvosi útmutatások. A szellemi gyakorlás **soha nem helyettesíti** az orvosi vagy pszichológiai ellátást. Ha beteg vagy, orvoshoz fordulsz; ha a lelked szenved — szorongás, nyomott hangulat, nem múló kimerültség, ijesztő élmények —, szakemberhez fordulsz, és ez nem az út kudarca, hanem a józanság győzelme. A gyakorlás kísérheti és támogathatja a gyógyulást, de kezelni nem kezel semmit. Aki az ellenkezőjét állítja, azzal szemben épp a megkülönböztetés leckéjét alkalmazd.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "A large share of the questions concerns the body: food, breath, sleep, illness, cures. Here the tradition speaks in the language of its own era and its own map — elements, fluids, harmony. As the practice deepens, you learn to feel the currents of the elements moving through the body, and to bring them into harmony by your own attention. * What remains gold in it today: the body is not an obstacle but the carrier of the work; a regular life, moderate and varied eating, enough sleep, and rhythm are the real groundwork of practice.\n\n**This fence is firm and does not move:** the tradition’s discussions of illness and healing are historical-symbolic texts, not medical guidance. Spiritual practice **never replaces** medical or psychological care. If you are ill, you see a doctor; if your soul is suffering — anxiety, low mood, unrelenting exhaustion, frightening experiences — you see a professional, and that is not the path failing but sobriety winning. Practice may accompany and support healing, but it treats nothing. Toward anyone who claims otherwise, apply precisely the lesson of discernment.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "A large share of the questions concerns the body: food, breath, sleep, illness, cures. Here the tradition speaks in the language of its own era and its own map — elements, fluids, harmony. As the practice deepens, you learn to feel the currents of the elements moving through the body, and to bring them into harmony by your own attention. * What remains gold in it today: the body is not an obstacle but the carrier of the work; a regular life, moderate and varied eating, enough sleep, and rhythm are the real groundwork of practice.\n\n**This fence is firm and does not move:** the tradition’s discussions of illness and healing are historical-symbolic texts, not medical guidance. Spiritual practice **never replaces** medical or psychological care. If you are ill, you see a doctor; if your soul is suffering — anxiety, low mood, unrelenting exhaustion, frightening experiences — you see a professional, and that is not the path failing but sobriety winning. Practice may accompany and support healing, but it treats nothing. Toward anyone who claims otherwise, apply precisely the lesson of discernment.[FINE]* A statement marked with an asterisk is the tradition’s own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "O mare parte din întrebări privește trupul: hrana, respirația, somnul, boala, leacurile. Aici tradiția vorbește în limba propriei sale epoci și a propriei sale hărți — elemente, fluide, armonie. Pe măsură ce practica se adâncește, înveți să simți curenții elementelor care se mișcă prin trup și să-i aduci în armonie prin propria ta atenție. * Ce rămâne aur în ea astăzi: trupul nu este un obstacol, ci purtătorul lucrării; o viață regulată, o alimentație moderată și variată, somn suficient și ritm sunt adevăratul temei al practicii.\n\n**Acest gard este ferm și nu se mișcă:** discuțiile tradiției despre boală și vindecare sunt texte istorico-simbolice, nu îndrumare medicală. Practica spirituală **nu înlocuiește niciodată** îngrijirea medicală sau psihologică. Dacă ești bolnav, mergi la doctor; dacă sufletul tău suferă — anxietate, dispoziție scăzută, epuizare neîncetată, experiențe înfricoșătoare — mergi la un profesionist, și asta nu înseamnă că drumul eșuează, ci că sobrietatea învinge. Practica poate însoți și sprijini vindecarea, dar nu tratează nimic. Față de oricine pretinde altfel, aplică tocmai lecția discernământului.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -89,34 +103,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Napi fegyelem — gondolatmegfigyelő ülés",
-        "en": "Daily Discipline — Thought-Observation Sit"
+        "en": "Daily Discipline — Thought-Observation Sit",
+        "ro": "Disciplina zilnică — Șederea de observare a gândurilor"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Ülj egyenes gerinccel, csukott vagy félig csukott szemmel. Tíz percen át egyetlen feladatod van: figyeld a gondolataidat anélkül, hogy bármelyiket követnéd vagy elűznéd. Úgy nézd őket, ahogy a folyó partjáról nézed a sodródó leveleket. Ha észreveszed, hogy elragadott egy gondolat, jegyezd meg nyugodtan: elragadott — és térj vissza a partra. Nem a gondolattalanság a cél, hanem az éber, ítélkezés nélküli megfigyelés. A hagyomány szerint ez minden további munka kapuja.",
-          "en": "Sit with a straight spine, eyes closed or half-closed. For ten minutes you have a single task: watch your thoughts without following or chasing away any of them. Look at them the way you watch drifting leaves from a riverbank. When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but alert observation without judgement. In the tradition’s view, this is the gate to all further work."
+          "en": "Sit with a straight spine, eyes closed or half-closed. For ten minutes you have a single task: watch your thoughts without following or chasing away any of them. Look at them the way you watch drifting leaves from a riverbank. When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but alert observation without judgement. In the tradition’s view, this is the gate to all further work.",
+          "ro": "Stai cu spatele drept, ochii închiși sau pe jumătate închiși. Timp de zece minute ai o singură sarcină: privește-ți gândurile fără să urmezi sau să alungi pe vreunul dintre ele. Privește-le așa cum privești frunzele plutitoare de pe malul unui râu. Când observi că un gând te-a luat cu el, notează calm — luat cu el — și întoarce-te pe mal. Țelul nu este lipsa gândurilor, ci observarea trează fără judecată. În viziunea tradiției, aceasta este poarta către toată lucrarea ulterioară."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "A test elcsendesült — most csak figyelj",
-              "en": "The body has settled — now simply watch"
+              "en": "The body has settled — now simply watch",
+              "ro": "Trupul s-a așezat — acum pur și simplu privește"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Engedd el a kommentárt is — csak a puszta látás",
-              "en": "Let go of the commentary too — bare seeing only"
+              "en": "Let go of the commentary too — bare seeing only",
+              "ro": "Lasă și comentariul — doar vederea goală"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Utolsó perc — mély csend, éber jelenlét",
-              "en": "Final minute — deep quiet, awake presence"
+              "en": "Final minute — deep quiet, awake presence",
+              "ro": "Ultimul minut — liniște adâncă, prezență trează"
             }
           }
         ]
@@ -127,34 +146,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "A türelem ülése — egy tárgy, egy figyelem",
-        "en": "The Patience Sit — One Object, One Attention"
+        "en": "The Patience Sit — One Object, One Attention",
+        "ro": "Șederea răbdării — Un obiect, o atenție"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Válassz egyetlen egyszerű tárgyat — egy követ, egy gyertyalángot, vagy csak a légzésed ritmusát. Tizenöt percen át maradj nála, gyengéden, erőlködés nélkül. Ez az ülés nem teljesítmény, hanem a türelem gyakorlása: minden alkalommal, amikor a figyelmed elvándorol és visszahozod, egy szemernyi állhatatosságot építettél. A visszatérés maga a gyakorlat — nem hiba, hanem ismétlés. Ne várj élményt; a hagyomány szerint épp az élményvárás a leggyakoribb akadály. Ülj úgy, mint aki gyümölcsfát ültetett: a dolgod az öntözés, nem az érlelés.",
-          "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath. Stay with it for fifteen minutes, gently, without strain. This sit is not a performance but the practice of patience: every time your attention wanders and you bring it back, you have built a grain of steadiness. The returning is itself the practice — not a mistake but a repetition. Expect no experience; in the tradition’s view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening."
+          "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath. Stay with it for fifteen minutes, gently, without strain. This sit is not a performance but the practice of patience: every time your attention wanders and you bring it back, you have built a grain of steadiness. The returning is itself the practice — not a mistake but a repetition. Expect no experience; in the tradition’s view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening.",
+          "ro": "Alege un obiect simplu — o piatră, flacăra unei lumânări sau doar ritmul respirației tale. Rămâi cu el cincisprezece minute, blând, fără încordare. Această ședere nu este o performanță, ci practica răbdării: de fiecare dată când atenția ți se rătăcește și o aduci înapoi, ai clădit un grăunte de statornicie. Întoarcerea însăși este practica — nu o greșeală, ci o repetiție. Nu aștepta nicio experiență; în viziunea tradiției, așteptarea experiențelor este cel mai obișnuit obstacol. Șezi ca cineva care a plantat un pom roditor: treaba ta este udatul, nu coacerea."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "Harmada megvan — a visszatérés maga a munka",
-              "en": "A third done — the returning is the work itself"
+              "en": "A third done — the returning is the work itself",
+              "ro": "O treime făcută — întoarcerea este însăși lucrarea"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Kétharmad — engedd, hogy a figyelem magától nyugodjon",
-              "en": "Two thirds — let the attention settle on its own"
+              "en": "Two thirds — let the attention settle on its own",
+              "ro": "Două treimi — lasă atenția să se așeze de la sine"
             }
           },
           {
             "atSecond": 840,
             "label": {
               "hu": "Utolsó perc — maradj a tárgynál, csendben",
-              "en": "Final minute — stay with the object, quietly"
+              "en": "Final minute — stay with the object, quietly",
+              "ro": "Ultimul minut — rămâi cu obiectul, în liniște"
             }
           }
         ]
@@ -165,7 +189,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A tanítvány napja — napi ellenőrzőlista",
-        "en": "The Student’s Day — Daily Checklist"
+        "en": "The Student’s Day — Daily Checklist",
+        "ro": "Ziua elevului — Lista zilnică de verificare"
       },
       "checklist": {
         "items": [
@@ -173,42 +198,48 @@
             "key": "c1",
             "nevek": {
               "hu": "Reggel egyetlen világos szándékot fogalmaztam meg a napra",
-              "en": "In the morning I set one clear intention for the day"
+              "en": "In the morning I set one clear intention for the day",
+              "ro": "Dimineața îmi stabilesc o intenție clară pentru zi"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Elvégeztem a napi gyakorlatot — röviden, de sietség nélkül",
-              "en": "I did the daily exercise — brief, but unhurried"
+              "en": "I did the daily exercise — brief, but unhurried",
+              "ro": "Am făcut exercițiul zilnic — scurt, dar fără grabă"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Feljegyeztem egy fényt és egy árnyékot magamról (introspekció)",
-              "en": "I noted one light and one shadow about myself (introspection)"
+              "en": "I noted one light and one shadow about myself (introspection)",
+              "ro": "Am notat o lumină și o umbră despre mine (introspecție)"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Ma nem hajszoltam jelenséget — a jellemmunkát néztem célnak",
-              "en": "Today I chased no phenomena — I kept character work as the goal"
+              "en": "Today I chased no phenomena — I kept character work as the goal",
+              "ro": "Astăzi nu am alergat după fenomene — am ținut lucrarea asupra caracterului ca țel"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Hallgattam a gyakorlásomról — se dicsekvés, se vita",
-              "en": "I kept silence about my practice — no boasting, no debating"
+              "en": "I kept silence about my practice — no boasting, no debating",
+              "ro": "Am păstrat tăcerea despre practica mea — fără lăudăroșenie, fără dezbateri"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Este visszanéztem a napra, és köszönettel zártam le",
-              "en": "In the evening I reviewed the day and closed it with gratitude"
+              "en": "In the evening I reviewed the day and closed it with gratitude",
+              "ro": "Seara am trecut în revistă ziua și am închis-o cu recunoștință"
             }
           }
         ]
@@ -219,7 +250,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "Az út tükre — Arion-aspektusok",
-        "en": "Mirror of the Path — Arion Aspects"
+        "en": "Mirror of the Path — Arion Aspects",
+        "ro": "Oglinda căii — Aspecte Arion"
       },
       "aspektusPack": [
         {
@@ -228,7 +260,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Türelmetlenség — éretlen gyümölcsöt tép",
-            "en": "Impatience — tears the fruit unripe"
+            "en": "Impatience — tears the fruit unripe",
+            "ro": "Nerăbdarea — smulge fructul necopt"
           }
         },
         {
@@ -237,7 +270,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Jelenséghajszolás — a mellékterméket nézi célnak",
-            "en": "Chasing phenomena — mistakes the by-product for the goal"
+            "en": "Chasing phenomena — mistakes the by-product for the goal",
+            "ro": "Alergarea după fenomene — ia produsul secundar drept țel"
           }
         },
         {
@@ -246,7 +280,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Tekintélyfüggés — másra bízza a saját mérlegét",
-            "en": "Authority-dependence — hands its own scale to another"
+            "en": "Authority-dependence — hands its own scale to another",
+            "ro": "Dependența de autoritate — își predă propriul cântar altuia"
           }
         },
         {
@@ -255,7 +290,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Fecsegés — szétszórja, amit a csend gyűjtött",
-            "en": "Chatter — scatters what silence gathered"
+            "en": "Chatter — scatters what silence gathered",
+            "ro": "Vorbăria — risipește ce a adunat tăcerea"
           }
         },
         {
@@ -264,7 +300,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Állhatatosság — csepp a kövön, minden nap",
-            "en": "Steadiness — the drop on the stone, every day"
+            "en": "Steadiness — the drop on the stone, every day",
+            "ro": "Statornicia — picătura pe piatră, în fiecare zi"
           }
         },
         {
@@ -273,7 +310,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Alázat — a haladást csendben méri, nem hirdeti",
-            "en": "Humility — measures progress quietly, does not proclaim it"
+            "en": "Humility — measures progress quietly, does not proclaim it",
+            "ro": "Smerenia — măsoară progresul în tăcere, nu-l proclamă"
           }
         },
         {
@@ -282,7 +320,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Megkülönböztetés — mindent a saját mérlegén mér",
-            "en": "Discernment — weighs everything on its own scale"
+            "en": "Discernment — weighs everything on its own scale",
+            "ro": "Discernământul — cântărește totul pe propria sa balanță"
           }
         },
         {
@@ -291,7 +330,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Csend — a negyedik pillér: tudni hallgatni",
-            "en": "Silence — the fourth pillar: knowing how to keep still"
+            "en": "Silence — the fourth pillar: knowing how to keep still",
+            "ro": "Tăcerea — al patrulea stâlp: a ști să taci"
           }
         }
       ]
@@ -301,7 +341,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Az élő kérdés — napi naplósablon",
-        "en": "The Living Question — Daily Journal Template"
+        "en": "The Living Question — Daily Journal Template",
+        "ro": "Întrebarea vie — Șablon de jurnal zilnic"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -310,7 +351,8 @@
         ],
         "prompts": {
           "hu": "Melyik kérdés él ma bennem az útról — és mit tettem ma azért, hogy a válasz gyakorlat legyen, ne csak gondolat? Hol kerestem ma rövidítést vagy látványt, és mi volt mögötte? Írj le egy apró, tanú nélküli bizonyítékot a mai állhatatosságodra. Végül: ha Arion válaszainak szellemében kérdezhetnék tőlem egyet ma este, mi lenne az — és mit felelnék becsületesen?",
-          "en": "Which question about the path is alive in me today — and what did I do today so the answer became practice, not just thought? Where did I look for a shortcut or a spectacle today, and what was underneath it? Write down one small, unwitnessed proof of today’s steadiness. Finally: if, in the spirit of Arion’s answers, one question could be asked of me tonight, what would it be — and how would I answer honestly?"
+          "en": "Which question about the path is alive in me today — and what did I do today so the answer became practice, not just thought? Where did I look for a shortcut or a spectacle today, and what was underneath it? Write down one small, unwitnessed proof of today’s steadiness. Finally: if, in the spirit of Arion’s answers, one question could be asked of me tonight, what would it be — and how would I answer honestly?",
+          "ro": "Ce întrebare despre cale e vie în mine azi — și ce am făcut azi ca răspunsul să devină practică, nu doar gând? Unde am căutat azi o scurtătură sau un spectacol, și ce se afla pe sub asta? Notează o dovadă mică, nevăzută de nimeni, a statorniciei de azi. În cele din urmă: dacă, în spiritul răspunsurilor lui Arion, mi s-ar putea pune diseară o singură întrebare, care ar fi ea — și cum aș răspunde sincer?"
         }
       }
     },
@@ -319,7 +361,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "A tanítvány mérlege — ellenőrző kvíz",
-        "en": "The Student’s Scale — Review Quiz"
+        "en": "The Student’s Scale — Review Quiz",
+        "ro": "Scara elevului — Chestionar de recapitulare"
       },
       "quiz": {
         "passThreshold": 2,
@@ -328,7 +371,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi a haladás alapja a Bardon-út visszatérő tanácsa szerint?",
-              "en": "According to the recurring counsel of the Bardon path, what is the foundation of progress?"
+              "en": "According to the recurring counsel of the Bardon path, what is the foundation of progress?",
+              "ro": "Potrivit sfatului care revine mereu pe calea Bardon, care este temelia progresului?"
             },
             "options": {
               "hu": [
@@ -342,6 +386,12 @@
                 "The daily, patient balancing of character — abilities are by-products",
                 "Finding a powerful master who does the work in our place",
                 "Exercises as long and as strenuous as possible"
+              ],
+              "ro": [
+                "Strângerea a cât mai multor experiențe și abilități extraordinare",
+                "Echilibrarea zilnică, răbdătoare a caracterului — abilitățile sunt produse secundare",
+                "Găsirea unui maestru puternic care face munca în locul nostru",
+                "Exerciții cât mai lungi și cât mai grele cu putință"
               ]
             },
             "correctIndex": 1
@@ -350,7 +400,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Mit tehet meg egy tanító a hagyomány saját tanítása szerint — és mit nem?",
-              "en": "By the tradition’s own teaching, what can a teacher do — and what not?"
+              "en": "By the tradition’s own teaching, what can a teacher do — and what not?",
+              "ro": "După învățătura proprie a tradiției, ce poate face un învățător — și ce nu?"
             },
             "options": {
               "hu": [
@@ -364,6 +415,12 @@
                 "Kindle light in the thinking and point out the way — but the work on character belongs untransferably to the student",
                 "Speed up development for money, if of high enough degree",
                 "Do anything, and therefore deserves blind obedience"
+              ],
+              "ro": [
+                "Prin inițiere, să preia modelarea caracterului elevului",
+                "Să aprindă lumină în gândire și să arate calea — dar munca asupra caracterului îi aparține netransferabil elevului",
+                "Să grăbească dezvoltarea pe bani, dacă e de un grad suficient de înalt",
+                "Să facă orice, și de aceea merită ascultare oarbă"
               ]
             },
             "correctIndex": 1
@@ -372,7 +429,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mi a szellemi gyakorlás helyes viszonya az orvosi és pszichológiai ellátáshoz?",
-              "en": "What is the right relationship between spiritual practice and medical or psychological care?"
+              "en": "What is the right relationship between spiritual practice and medical or psychological care?",
+              "ro": "Care este relația corectă între practica spirituală și îngrijirea medicală sau psihologică?"
             },
             "options": {
               "hu": [
@@ -386,6 +444,12 @@
                 "Practice may accompany and support healing, but it never replaces professional care",
                 "In illness, practice should be doubled instead of seeing a doctor",
                 "Only the uninitiated need doctors"
+              ],
+              "ro": [
+                "La un stadiu avansat, practica înlocuiește tratamentul medical",
+                "Practica poate însoți și sprijini vindecarea, dar nu înlocuiește niciodată îngrijirea profesională",
+                "În boală, practica ar trebui dublată în loc să consulți un doctor",
+                "Doar neinițiații au nevoie de doctori"
               ]
             },
             "correctIndex": 1

@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "A csakra-rendszer",
-    "en": "The Chakra System"
+    "en": "The Chakra System",
+    "ro": "Sistemul de chakre"
   },
   "description": {
     "hu": "A hét fő csakra jóga-hagyományának térképe (Szat-csakra-nirúpana; Arthur Avalon: The Serpent Power) — nevek, helyek, minőségek —, világos határvonallal Bardon elemi test-térképe felé: két külön rendszer, tanulságos párhuzamokkal. Kíméletes csakra-figyelem gyakorlatok erőltetett energiakeltés nélkül, józan kundalini-kerítéssel és légzésbiztonsági szabályokkal.",
-    "en": "The map of the seven main chakras from the yoga tradition (Sat-Chakra-Nirupana; Arthur Avalon: The Serpent Power) — names, places, qualities — with a clear boundary toward Bardon's elemental body map: two separate systems with instructive parallels. Gentle chakra-attention practices without forced energy-raising, with a sane kundalini fence and breathing-safety rules."
+    "en": "The map of the seven main chakras from the yoga tradition (Sat-Chakra-Nirupana; Arthur Avalon: The Serpent Power) — names, places, qualities — with a clear boundary toward Bardon's elemental body map: two separate systems with instructive parallels. Gentle chakra-attention practices without forced energy-raising, with a sane kundalini fence and breathing-safety rules.",
+    "ro": "Harta celor șapte chakre principale din tradiția yoga (Sat-Chakra-Nirupana; Arthur Avalon: The Serpent Power) — nume, locuri, calități — cu o graniță clară față de harta corporală elementală a lui Bardon: două sisteme separate cu paralele instructive. Practici blânde de atenție pe chakre, fără forțarea ridicării energiei, cu un gard sănătos față de kundalini și reguli de siguranță a respirației."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/chakra.system/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a lótuszok ösvénye",
-        "en": "Introduction — the Path of the Lotuses"
+        "en": "Introduction — the Path of the Lotuses",
+        "ro": "Introducere — Calea lotusurilor"
       },
       "text": {
         "hu": "A csakra-rendszer a tantrikus jóga egyik legkidolgozottabb térképe az emberről. Klasszikus forrása a **Szat-csakra-nirúpana** (Purnánanda, 1577), Nyugatra pedig **Arthur Avalon** (John Woodroffe) fordítása, a *The Serpent Power* (1919) hozta el. A hagyomány szerint a gerinc vonala mentén hét fő központ — hét örvénylő lótusz — rendezi az életerő áramlását a gyökértől a fejtetőig. *\n\nA modul négy pillére:\n\n— **A térkép** — a hét fő csakra neve, helye és minősége.\n— **Két hagyomány, két térkép** — miben más Bardon elemi test-térképe, és miért nem szabad a kettőt összemosni.\n— **Kíméletes gyakorlat** — figyelem-elhelyezés a csakrapontokon, erőltetett energiakeltés nélkül.\n— **Józan kerítések** — védelem a kundalini-túlkapások ellen, és légzésbiztonság.\n\n**Őszinte keret:** amit közvetlenül mérni tudsz, az a figyelmed finomodása, a testtudatosságod mélyülése és a közérzeted változása — ez önmagában is értékes munka. Bármelyik hagyomány finomtest-térképével dolgozol is, a kulcs ugyanaz: a térkép nem a terület, hanem munkaeszköz — itt is így bánunk vele.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The chakra system is one of the most elaborate maps of the human being in tantric yoga. Its classical source is the **Sat-Chakra-Nirupana** (Purnananda, 1577), and it reached the West through the translation of **Arthur Avalon** (John Woodroffe), *The Serpent Power* (1919). According to the tradition, seven main centers — seven whirling lotuses — order the flow of life-force along the line of the spine, from the root to the crown. *\n\nThe module's four pillars:\n\n— **The map** — the names, places and qualities of the seven main chakras.\n— **Two traditions, two maps** — how Bardon's elemental body map differs, and why the two must not be blended.\n— **Gentle practice** — placing attention on the chakra points, without forced energy-raising.\n— **Sane fences** — protection against kundalini overreach, and breathing safety.\n\n**An honest frame:** what you can directly measure is the refinement of your attention, the deepening of your body awareness and the change in your well-being — that alone is valuable work. Whichever tradition's subtle-body map you work with, the key is the same: the map is not the territory but a working tool — and that is how we treat it here too.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The chakra system is one of the most elaborate maps of the human being in tantric yoga. Its classical source is the **Sat-Chakra-Nirupana** (Purnananda, 1577), and it reached the West through the translation of **Arthur Avalon** (John Woodroffe), *The Serpent Power* (1919). According to the tradition, seven main centers — seven whirling lotuses — order the flow of life-force along the line of the spine, from the root to the crown. *\n\nThe module's four pillars:\n\n— **The map** — the names, places and qualities of the seven main chakras.\n— **Two traditions, two maps** — how Bardon's elemental body map differs, and why the two must not be blended.\n— **Gentle practice** — placing attention on the chakra points, without forced energy-raising.\n— **Sane fences** — protection against kundalini overreach, and breathing safety.\n\n**An honest frame:** what you can directly measure is the refinement of your attention, the deepening of your body awareness and the change in your well-being — that alone is valuable work. Whichever tradition's subtle-body map you work with, the key is the same: the map is not the territory but a working tool — and that is how we treat it here too.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Sistemul de chakre este una dintre cele mai elaborate hărți ale ființei umane din yoga tantrică. Sursa sa clasică este **Sat-Chakra-Nirupana** (Purnananda, 1577), iar în Occident a ajuns prin traducerea lui **Arthur Avalon** (John Woodroffe), *The Serpent Power* (1919). Potrivit tradiției, șapte centre principale — șapte lotusuri rotitoare — ordonează fluxul forței vitale de-a lungul liniei coloanei vertebrale, de la rădăcină până la creștet. *\n\nCei patru stâlpi ai modulului:\n\n— **Harta** — numele, locurile și calitățile celor șapte chakre principale.\n— **Două tradiții, două hărți** — cum diferă harta corporală elementală a lui Bardon și de ce cele două nu trebuie amestecate.\n— **Practica blândă** — așezarea atenției pe punctele chakrelor, fără forțarea ridicării energiei.\n— **Garduri sănătoase** — protecție împotriva depășirii kundalini și siguranța respirației.\n\n**Un cadru onest:** ceea ce poți măsura direct este rafinarea atenției tale, adâncirea conștientizării corpului și schimbarea stării tale de bine — numai asta este o muncă valoroasă. Indiferent cu harta corpului subtil a cărei tradiții lucrezi, cheia este aceeași: harta nu este teritoriul, ci un instrument de lucru — și așa o tratăm și aici.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A hét fő csakra térképe",
-        "en": "The Map of the Seven Main Chakras"
+        "en": "The Map of the Seven Main Chakras",
+        "ro": "Harta celor șapte chakre principale"
       },
       "text": {
         "hu": "A hagyomány hét fő központot ír le, a gerinc aljától a fejtetőig:\n\n**1. Múládhára** — a gerinc alja. Gyökér, biztonság, megtartottság; a hagyomány a **föld** elemhez köti.\n\n**2. Szvádhisthána** — a keresztcsont tája. Érzelem, öröm, áramlás; a **víz** eleme.\n\n**3. Manipúra** — a napfonat. Akarat, erő, emésztés — a belső **tűz** helye.\n\n**4. Anáhata** — a szív tája. Együttérzés, kapcsolódás; a **levegő** eleme.\n\n**5. Visuddha** — a torok. Kifejezés, kimondás; a **tér (éter)** minősége.\n\n**6. Ádnyá** — a szemöldökköz. Belátás, tiszta látás — a „harmadik szem\" pontja.\n\n**7. Szahaszrára** — a fejtető. Az „ezerszirmú lótusz\", a transzcendencia kapuja.\n\nA hagyomány mindegyik központot szirmokkal, mag-szótaggal és jelképpel írja le — ez élő ikonográfia, nem anatómiai ábra. *\n\n**A szivárvány-színekről:** a ma mindenütt látható piros–narancs–sárga–zöld–kék–ibolya kiosztás **modern nyugati fejlemény** — Leadbeater 1927-es könyve (*The Chakras*) után terjedt el, mai formája az 1970-es évekből, Christopher Hillstől való. A hagyományos szirom-színek mások. Használd a szivárványt nyugodtan munkamegállapodásként — de tudd, hogy a térképed melyik rétege régi, és melyik új.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition describes seven main centers, from the base of the spine to the crown:\n\n**1. Muladhara** — the base of the spine. Root, safety, being held; the tradition links it to the **earth** element.\n\n**2. Svadhisthana** — the region of the sacrum. Emotion, joy, flow; the element of **water**.\n\n**3. Manipura** — the solar plexus. Will, power, digestion — the seat of the inner **fire**.\n\n**4. Anahata** — the region of the heart. Compassion, connection; the element of **air**.\n\n**5. Vishuddha** — the throat. Expression, speaking out; the quality of **space (ether)**.\n\n**6. Ajna** — the point between the eyebrows. Insight, clear seeing — the point of the 'third eye'.\n\n**7. Sahasrara** — the crown. The 'thousand-petalled lotus', the gate of transcendence.\n\nThe tradition describes each center with petals, a seed syllable and a symbol — this is living iconography, not an anatomical diagram. *\n\n**On the rainbow colours:** the red–orange–yellow–green–blue–violet assignment seen everywhere today is a **modern Western development** — it spread after Leadbeater's 1927 book (*The Chakras*), and its present form dates from the 1970s, from Christopher Hills. The traditional petal colours are different. Feel free to use the rainbow as a working convention — but know which layer of your map is old and which is new.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The tradition describes seven main centers, from the base of the spine to the crown:\n\n**1. Muladhara** — the base of the spine. Root, safety, being held; the tradition links it to the **earth** element.\n\n**2. Svadhisthana** — the region of the sacrum. Emotion, joy, flow; the element of **water**.\n\n**3. Manipura** — the solar plexus. Will, power, digestion — the seat of the inner **fire**.\n\n**4. Anahata** — the region of the heart. Compassion, connection; the element of **air**.\n\n**5. Vishuddha** — the throat. Expression, speaking out; the quality of **space (ether)**.\n\n**6. Ajna** — the point between the eyebrows. Insight, clear seeing — the point of the 'third eye'.\n\n**7. Sahasrara** — the crown. The 'thousand-petalled lotus', the gate of transcendence.\n\nThe tradition describes each center with petals, a seed syllable and a symbol — this is living iconography, not an anatomical diagram. *\n\n**On the rainbow colours:** the red–orange–yellow–green–blue–violet assignment seen everywhere today is a **modern Western development** — it spread after Leadbeater's 1927 book (*The Chakras*), and its present form dates from the 1970s, from Christopher Hills. The traditional petal colours are different. Feel free to use the rainbow as a working convention — but know which layer of your map is old and which is new.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Tradiția descrie șapte centre principale, de la baza coloanei vertebrale până la creștet:\n\n**1. Muladhara** — baza coloanei vertebrale. Rădăcină, siguranță, sentimentul de a fi susținut; tradiția o leagă de elementul **pământ**.\n\n**2. Svadhisthana** — regiunea sacrului. Emoție, bucurie, curgere; elementul **apă**.\n\n**3. Manipura** — plexul solar. Voință, putere, digestie — sediul **focului** interior.\n\n**4. Anahata** — regiunea inimii. Compasiune, legătură; elementul **aer**.\n\n**5. Vishuddha** — gâtul. Exprimare, a vorbi pe față; calitatea **spațiului (eter)**.\n\n**6. Ajna** — punctul dintre sprâncene. Intuiție, vedere clară — punctul „celui de-al treilea ochi”.\n\n**7. Sahasrara** — creștetul. „Lotusul cu o mie de petale”, poarta transcendenței.\n\nTradiția descrie fiecare centru cu petale, o silabă-sămânță și un simbol — aceasta este iconografie vie, nu o diagramă anatomică. *\n\n**Despre culorile curcubeului:** asocierea roșu–portocaliu–galben–verde–albastru–violet pe care o vezi pretutindeni astăzi este o **dezvoltare occidentală modernă** — s-a răspândit după cartea lui Leadbeater din 1927 (*The Chakras*), iar forma sa actuală datează din anii 1970, de la Christopher Hills. Culorile tradiționale ale petalelor sunt altele. Poți folosi liber curcubeul ca pe o convenție de lucru — dar să știi care strat al hărții tale este vechi și care este nou.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Két hagyomány, két térkép — Bardon és a csakrák",
-        "en": "Two Traditions, Two Maps — Bardon and the Chakras"
+        "en": "Two Traditions, Two Maps — Bardon and the Chakras",
+        "ro": "Două tradiții, două hărți — Bardon și chakrele"
       },
       "text": {
         "hu": "Ez a modul legfontosabb leckéje, ezért mondjuk ki élesen: **Bardon elemi test-térképe és a csakra-térkép két külön rendszer.**\n\n**Bardon térképe** (*Út a valódi beavatáshoz*): a fej régiója a **tűz**, a mellkas a **levegő**, a has a **víz**, a lábak és az altest a **föld** — erre épülnek az IIH elem-felhalmozási gyakorlatai. Bardon tudatosan **nem** a csakra-rendszerre építi az útját, hanem az elemi egyensúlyra.\n\n**A csakra-térkép** máshonnan jön (a tantrikus jógából), mást oszt fel, és más gyakorlatot szolgál.\n\n**Miért nem szabad összemosni?** Mert aki a kettőt egybegyúrja, mindkettőt elrontja: a bardoni elem-felhalmozásnál csakra-színeket vizualizál, a csakra-figyelemnél elemeket akar halmozni — és egyik gyakorlat sem azt adja többé, amire tervezték.\n\n**A párhuzamok viszont tanulságosak:** a napfonat–tűz–akarat hármasa mindkét térképen találkozik; a szív és a levegő szintén. Az ilyen találkozások azt mutatják, hogy két hagyomány egymástól függetlenül is hasonló testi tapasztalatokat térképezett — de a párhuzam **nem azonosság**.\n\nKét jó várostérkép is máshogy rajzolja ugyanazt a várost: az egyik a metróvonalakat mutatja, a másik a domborzatot. Mindkettő igaz — de jaj annak, aki a metrótérképpel akar hegyet mászni. Ha az IIH lépésein dolgozol, gyakorolj Bardon térképén; ha ebben a modulban, a csakra-térképen. Egyszerre csak egy térkép legyen a kezedben.",
-        "en": "This is the most important lesson of the module, so let us state it sharply: **Bardon's elemental body map and the chakra map are two separate systems.**\n\n**Bardon's map** (*Initiation Into Hermetics*): the head region is **fire**, the chest is **air**, the abdomen is **water**, the legs and lower body are **earth** — the element-accumulation exercises of the IIH are built on this. Bardon deliberately does **not** build his path on the chakra system but on elemental balance.\n\n**The chakra map** comes from elsewhere (from tantric yoga), divides the body differently, and serves a different practice.\n\n**Why must they not be blended?** Because whoever kneads the two together spoils both: visualizing chakra colours during Bardonian element accumulation, or trying to accumulate elements during chakra attention — and neither practice then delivers what it was designed for.\n\n**The parallels, however, are instructive:** the triad of solar plexus–fire–will meets on both maps; so do the heart and the air. Such meetings show that two traditions, independently of each other, mapped similar bodily experiences — but a parallel is **not identity**.\n\nTwo good city maps draw the same city differently: one shows the metro lines, the other the terrain. Both are true — but woe to the one who tries to climb a mountain with the metro map. If you are working the steps of the IIH, practice on Bardon's map; if you are in this module, on the chakra map. Hold only one map in your hand at a time."
+        "en": "This is the most important lesson of the module, so let us state it sharply: **Bardon's elemental body map and the chakra map are two separate systems.**\n\n**Bardon's map** (*Initiation Into Hermetics*): the head region is **fire**, the chest is **air**, the abdomen is **water**, the legs and lower body are **earth** — the element-accumulation exercises of the IIH are built on this. Bardon deliberately does **not** build his path on the chakra system but on elemental balance.\n\n**The chakra map** comes from elsewhere (from tantric yoga), divides the body differently, and serves a different practice.\n\n**Why must they not be blended?** Because whoever kneads the two together spoils both: visualizing chakra colours during Bardonian element accumulation, or trying to accumulate elements during chakra attention — and neither practice then delivers what it was designed for.\n\n**The parallels, however, are instructive:** the triad of solar plexus–fire–will meets on both maps; so do the heart and the air. Such meetings show that two traditions, independently of each other, mapped similar bodily experiences — but a parallel is **not identity**.\n\nTwo good city maps draw the same city differently: one shows the metro lines, the other the terrain. Both are true — but woe to the one who tries to climb a mountain with the metro map. If you are working the steps of the IIH, practice on Bardon's map; if you are in this module, on the chakra map. Hold only one map in your hand at a time.",
+        "ro": "Aceasta este cea mai importantă lecție a modulului, așa că s-o spunem tăios: **harta corporală elementală a lui Bardon și harta chakrelor sunt două sisteme separate.**\n\n**Harta lui Bardon** (*Initiation Into Hermetics*): regiunea capului este **foc**, pieptul este **aer**, abdomenul este **apă**, picioarele și partea de jos a corpului sunt **pământ** — exercițiile de acumulare a elementelor din IIH se bazează pe aceasta. Bardon în mod deliberat **nu** își clădește calea pe sistemul de chakre, ci pe echilibrul elemental.\n\n**Harta chakrelor** vine de altundeva (din yoga tantrică), împarte corpul altfel și servește o practică diferită.\n\n**De ce nu trebuie amestecate?** Pentru că cine frământă cele două laolaltă le strică pe amândouă: vizualizând culorile chakrelor în timpul acumulării bardoniene a elementelor, sau încercând să acumulezi elemente în timpul atenției pe chakre — și atunci niciuna dintre practici nu mai dă ceea ce a fost concepută să dea.\n\n**Paralelele, însă, sunt instructive:** triada plex solar–foc–voință se întâlnește pe ambele hărți; la fel inima și aerul. Astfel de întâlniri arată că două tradiții, independent una de alta, au cartografiat experiențe corporale asemănătoare — dar o paralelă **nu este identitate**.\n\nDouă hărți bune de oraș desenează același oraș diferit: una arată liniile de metrou, cealaltă relieful. Ambele sunt adevărate — dar vai de cel care încearcă să urce un munte cu harta metroului. Dacă lucrezi treptele din IIH, practică pe harta lui Bardon; dacă ești în acest modul, pe harta chakrelor. Ține o singură hartă în mână odată."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Kíméletes csakra-figyelem — a sorra-járó testfigyelem",
-        "en": "Gentle Chakra Attention — the Touring Body Scan"
+        "en": "Gentle Chakra Attention — the Touring Body Scan",
+        "ro": "Atenție blândă pe chakre — scanarea corporală ca un tur"
       },
       "text": {
         "hu": "A mi gyakorlatunk neve: **sorra-járó testfigyelem**. Nem energiakeltés, nem „csakranyitás\" — **figyelem-elhelyezés**. A figyelmedet vendégségbe küldöd a test hét tájára, és megnézed, mi fogad ott.\n\n**A gyakorlat:**\n\n**1.** Ülj kényelmesen, gerinced hosszan, a légzésed maradjon teljesen természetes.\n\n**2.** Vidd a figyelmed a gerinc aljához. Ne akarj semmit — csak figyelj két-három percig. A belégzés mintha lágyan odaérkezne, a kilégzés mintha elsimítana — de a légzést ne szabályozd.\n\n**3.** Haladj felfelé pontról pontra: keresztcsont, napfonat, szív, torok, szemöldökköz, fejtető.\n\n**4.** Bármi jelentkezik — melegség, bizsergés, lüktetés, vagy éppen semmi —, vedd tudomásul címkézés nélkül. A „semmi\" is teljes értékű megfigyelés.\n\n**5.** A fejtető után időzz egy percig az egész test egyben-érzetében, majd nyisd ki a szemed.\n\n**Három szabály:** semmit ne erőltess; a légzés végig maradjon kényelmes; elvárás nélkül figyelj — a gyakorlat nem attól jó, hogy „történik valami\".\n\nHa a Kaspirovszkij-modul nyugalmi ráhangolódásával már dolgoztál, az itt is jó előszoba. A naplóban közérzetet mérj (1–10, előtte és utána), ne „csakra-állapotot\".",
-        "en": "Our practice is called the **touring body scan**. Not energy-raising, not 'chakra opening' — **attention placement**. You send your attention visiting to seven regions of the body and see what receives it there.\n\n**The practice:**\n\n**1.** Sit comfortably, spine long, and let your breathing stay entirely natural.\n\n**2.** Bring your attention to the base of the spine. Want nothing — just observe for two or three minutes. The in-breath as if gently arriving there, the out-breath as if smoothing over — but do not regulate the breath.\n\n**3.** Move upward point by point: sacrum, solar plexus, heart, throat, brow, crown.\n\n**4.** Whatever appears — warmth, tingling, pulsing, or nothing at all — take note of it without labels. 'Nothing' is a fully valid observation.\n\n**5.** After the crown, rest for a minute in the sense of the whole body as one, then open your eyes.\n\n**Three rules:** force nothing; the breath stays comfortable throughout; observe without expectation — the practice is not good because 'something happens'.\n\nIf you have worked with the calm attunement of the Kashpirovsky module, it serves as a good antechamber here too. In the journal, measure well-being (1–10, before and after), not 'chakra states'."
+        "en": "Our practice is called the **touring body scan**. Not energy-raising, not 'chakra opening' — **attention placement**. You send your attention visiting to seven regions of the body and see what receives it there.\n\n**The practice:**\n\n**1.** Sit comfortably, spine long, and let your breathing stay entirely natural.\n\n**2.** Bring your attention to the base of the spine. Want nothing — just observe for two or three minutes. The in-breath as if gently arriving there, the out-breath as if smoothing over — but do not regulate the breath.\n\n**3.** Move upward point by point: sacrum, solar plexus, heart, throat, brow, crown.\n\n**4.** Whatever appears — warmth, tingling, pulsing, or nothing at all — take note of it without labels. 'Nothing' is a fully valid observation.\n\n**5.** After the crown, rest for a minute in the sense of the whole body as one, then open your eyes.\n\n**Three rules:** force nothing; the breath stays comfortable throughout; observe without expectation — the practice is not good because 'something happens'.\n\nIf you have worked with the calm attunement of the Kashpirovsky module, it serves as a good antechamber here too. In the journal, measure well-being (1–10, before and after), not 'chakra states'.",
+        "ro": "Practica noastră se numește **scanarea corpului în tur**. Nu ridicare de energie, nu 'deschidere de chakre' — **plasarea atenției**. Îți trimiți atenția în vizită la șapte regiuni ale corpului și vezi ce o primește acolo.\n\n**Practica:**\n\n**1.** Stai confortabil, cu coloana lungă, și lasă respirația să rămână cu totul naturală.\n\n**2.** Adu-ți atenția la baza coloanei. Nu dori nimic — doar observă două sau trei minute. Inspirația ca și cum ar sosi blând acolo, expirația ca și cum ar netezi — dar nu regla respirația.\n\n**3.** Urcă punct cu punct: sacrum, plex solar, inimă, gât, frunte, creștet.\n\n**4.** Orice apare — căldură, furnicături, pulsații, sau deloc nimic — ia aminte fără etichete. 'Nimic' este o observație pe deplin validă.\n\n**5.** După creștet, odihnește-te un minut în simțământul întregului corp ca unul singur, apoi deschide ochii.\n\n**Trei reguli:** nu forța nimic; respirația rămâne confortabilă pe tot parcursul; observă fără așteptare — practica nu e bună pentru că 'se întâmplă ceva'.\n\nDacă ai lucrat cu acordajul calm al modulului Kashpirovsky, el servește ca o bună anticameră și aici. În jurnal, măsoară starea de bine (1–10, înainte și după), nu 'stările chakrelor'."
       }
     },
     {
@@ -65,55 +75,63 @@
       "kind": "timer",
       "nevek": {
         "hu": "Sorra-járó testfigyelem — 21 perc",
-        "en": "Touring Body Scan — 21 min"
+        "en": "Touring Body Scan — 21 min",
+        "ro": "Scanarea corpului în tur — 21 min"
       },
       "timer": {
         "durationSeconds": 1260,
         "instructions": {
           "hu": "Ülj kényelmesen, gerinced hosszan. Járd végig a hét pontot lentről felfelé — mindegyiknél körülbelül három perc puszta figyelem, természetes légzéskísérettel. Semmit ne erőltess; a „semmi\" is teljes értékű megfigyelés. Szédülésnél vagy zsibbadásnál azonnal állj le.",
-          "en": "Sit comfortably, spine long. Tour the seven points from bottom to top — about three minutes of bare attention at each, accompanied by natural breathing. Force nothing; 'nothing' is a fully valid observation. Stop at once if you feel dizzy or numb."
+          "en": "Sit comfortably, spine long. Tour the seven points from bottom to top — about three minutes of bare attention at each, accompanied by natural breathing. Force nothing; 'nothing' is a fully valid observation. Stop at once if you feel dizzy or numb.",
+          "ro": "Stai confortabil, cu coloana lungă. Fă turul celor șapte puncte de jos în sus — cam trei minute de atenție goală la fiecare, însoțită de respirație naturală. Nu forța nimic; 'nimic' este o observație pe deplin validă. Oprește-te imediat dacă te simți amețit sau amorțit."
         },
         "intervals": [
           {
             "atSecond": 180,
             "label": {
               "hu": "Tovább: Szvádhisthána — a keresztcsont",
-              "en": "Next: Svadhisthana — the sacrum"
+              "en": "Next: Svadhisthana — the sacrum",
+              "ro": "Următorul: Svadhisthana — sacrumul"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Tovább: Manipúra — a napfonat",
-              "en": "Next: Manipura — the solar plexus"
+              "en": "Next: Manipura — the solar plexus",
+              "ro": "Următorul: Manipura — plexul solar"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Tovább: Anáhata — a szív tája",
-              "en": "Next: Anahata — the heart region"
+              "en": "Next: Anahata — the heart region",
+              "ro": "Următorul: Anahata — regiunea inimii"
             }
           },
           {
             "atSecond": 720,
             "label": {
               "hu": "Tovább: Visuddha — a torok",
-              "en": "Next: Vishuddha — the throat"
+              "en": "Next: Vishuddha — the throat",
+              "ro": "Următorul: Vishuddha — gâtul"
             }
           },
           {
             "atSecond": 900,
             "label": {
               "hu": "Tovább: Ádnyá — a szemöldökköz",
-              "en": "Next: Ajna — the brow point"
+              "en": "Next: Ajna — the brow point",
+              "ro": "Următorul: Ajna — punctul frunții"
             }
           },
           {
             "atSecond": 1080,
             "label": {
               "hu": "Tovább: Szahaszrára — a fejtető, majd az egész test",
-              "en": "Next: Sahasrara — the crown, then the whole body"
+              "en": "Next: Sahasrara — the crown, then the whole body",
+              "ro": "Următorul: Sahasrara — creștetul, apoi întregul corp"
             }
           }
         ]
@@ -124,11 +142,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A kundalini-kerítés",
-        "en": "The Kundalini Fence"
+        "en": "The Kundalini Fence",
+        "ro": "Gardul Kundalini"
       },
       "text": {
         "hu": "A hagyomány a gerinc alján szunnyadó erőt **kundalininek** nevezi, és útját a csakrákon át a fejtetőig írja le. * Ugyanez a hagyomány azt is tanítja: ennek az erőnek az ébresztése **tanítót igényel** — nem hétvégi kaland.\n\n**A kerítés, amit ez a modul kér tőled:**\n\n— **Nincs erőltetett kundalini-ébresztés.** Semmilyen technika, amely „áttörést\" ígér agresszív légzésmódszerekkel, hosszú visszatartásokkal vagy kimerítő ismétléssel kombinálva.\n\n— **Miért?** A szakirodalom „kundalini-szindróma\", illetve „spirituális krízis\" néven ír le epizódokat — remegés, hőhullámok, szorongás, alvászavar —, amelyek erőltetett gyakorlás nyomán jelentkeztek (Sannella leírásai; Grof „spiritual emergency\" fogalma). Ez nem ijesztgetés, hanem tapasztalati tény, amelyet a hagyomány saját óvatossága is tükröz.\n\n— **Mit tégy helyette?** Maradj a kíméletes figyelem-gyakorlatnál: az is mélyül, csak csendesebben. Ha tisztító munkára vágysz, a Saint Germain-modul Lila Láng gyakorlata szelíd eszköz — erőltetés nélkül.\n\n— **Ha mégis megjelenik** nyugtalanító élmény — tartós remegés, szorongás, alvászavar —: állj le a gyakorlással, térj vissza a hétköznapi, földelő tevékenységekhez (séta, étkezés, fizikai munka), és ha az állapot nem múlik, **fordulj szakemberhez**. Az akut krízis nem spirituális teljesítménypróba.\n\nA kerítés nem a kishitűség jele — a jó kertész is keríti a fiatal fát.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition calls the power slumbering at the base of the spine **kundalini**, and describes its path through the chakras up to the crown. * The same tradition also teaches: awakening this power **requires a teacher** — it is not a weekend adventure.\n\n**The fence this module asks of you:**\n\n— **No forced kundalini awakening.** No technique that promises a 'breakthrough' combined with aggressive breathing methods, long retentions or exhausting repetition.\n\n— **Why?** The literature describes episodes under the names 'kundalini syndrome' and 'spiritual crisis' — trembling, heat waves, anxiety, sleep disturbance — appearing in the wake of forced practice (Sannella's accounts; Grof's concept of 'spiritual emergency'). This is not scare-mongering but experiential fact, mirrored by the tradition's own caution.\n\n— **What to do instead?** Stay with the gentle attention practice: it deepens too, only more quietly. If you long for purifying work, the Violet Flame practice of the Saint Germain module is a mild tool — without forcing.\n\n— **If a disquieting experience does appear** — persistent trembling, anxiety, sleep disturbance —: stop practising, return to ordinary grounding activities (walking, eating, physical work), and if the state does not pass, **see a professional**. An acute crisis is not a spiritual performance test.\n\nThe fence is no sign of timidity — a good gardener also fences the young tree.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The tradition calls the power slumbering at the base of the spine **kundalini**, and describes its path through the chakras up to the crown. * The same tradition also teaches: awakening this power **requires a teacher** — it is not a weekend adventure.\n\n**The fence this module asks of you:**\n\n— **No forced kundalini awakening.** No technique that promises a 'breakthrough' combined with aggressive breathing methods, long retentions or exhausting repetition.\n\n— **Why?** The literature describes episodes under the names 'kundalini syndrome' and 'spiritual crisis' — trembling, heat waves, anxiety, sleep disturbance — appearing in the wake of forced practice (Sannella's accounts; Grof's concept of 'spiritual emergency'). This is not scare-mongering but experiential fact, mirrored by the tradition's own caution.\n\n— **What to do instead?** Stay with the gentle attention practice: it deepens too, only more quietly. If you long for purifying work, the Violet Flame practice of the Saint Germain module is a mild tool — without forcing.\n\n— **If a disquieting experience does appear** — persistent trembling, anxiety, sleep disturbance —: stop practising, return to ordinary grounding activities (walking, eating, physical work), and if the state does not pass, **see a professional**. An acute crisis is not a spiritual performance test.\n\nThe fence is no sign of timidity — a good gardener also fences the young tree.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Tradiția numește puterea care doarme la baza coloanei **kundalini**, și îi descrie calea prin chakre până la creștet. * Aceeași tradiție mai învață: trezirea acestei puteri **cere un învățător** — nu este o aventură de weekend.\n\n**Gardul pe care ți-l cere acest modul:**\n\n— **Nicio trezire forțată a kundalini.** Nicio tehnică ce promite o 'străpungere' combinată cu metode agresive de respirație, rețineri lungi sau repetiții epuizante.\n\n— **De ce?** Literatura descrie episoade sub numele de 'sindrom kundalini' și 'criză spirituală' — tremurături, valuri de căldură, anxietate, tulburări de somn — apărute în urma practicii forțate (relatările lui Sannella; conceptul lui Grof de 'urgență spirituală'). Nu este panică gratuită, ci fapt experiențial, oglindit de propria prudență a tradiției.\n\n— **Ce să faci în schimb?** Rămâi la practica blândă a atenției: și ea se adâncește, doar mai în liniște. Dacă tânjești după o lucrare de purificare, practica Flăcării Violete din modulul Saint Germain este un instrument blând — fără forțare.\n\n— **Dacă totuși apare o experiență neliniștitoare** — tremur persistent, anxietate, tulburări de somn —: oprește practica, întoarce-te la activități obișnuite de împământare (mers pe jos, mâncat, muncă fizică), și dacă starea nu trece, **consultă un profesionist**. O criză acută nu este un test de performanță spirituală.\n\nGardul nu e semn de timiditate — și un grădinar bun îngrădește pomul tânăr.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -136,11 +156,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Légzésbiztonság — szabályok, amelyek nem alku tárgyai",
-        "en": "Breathing Safety — Rules That Are Not Negotiable"
+        "en": "Breathing Safety — Rules That Are Not Negotiable",
+        "ro": "Siguranța respirației — Reguli care nu se negociază"
       },
       "text": {
         "hu": "A légzés a leggyorsabb kapu a testhez — és ezért a leggyorsabb út a túlkapáshoz is.\n\n**Mi történik erőltetett légzésnél?** A hiperventiláció kimossa a szén-dioxidot a vérből (hipokapnia) — ettől zsibbadás, szédülés, bizsergés, akár izomgörcs jelentkezik. Ezek nem „energiajelek\", hanem élettani vészjelzések.\n\n**A szabályok:**\n\n— Ebben a modulban **csak természetes, kényelmes légzéskíséret** szerepel — se erőltetett gyorsítás, se hosszú, erőltetett visszatartás.\n\n— **Szédülésnél, zsibbadásnál azonnal állj le**, és hagyd a légzést magától elsimulni.\n\n— **Soha** ne gyakorolj vízben, vezetés vagy gépkezelés közben.\n\n— **Orvosi egyeztetés nélkül ne végezz légzésgyakorlatot**, ha epilepsziád vagy szív-érrendszeri betegséged van, várandós vagy, vagy pszichózis-előzményed van.\n\n— A jó gyakorlat mércéje a **nyugalom**, nem az intenzitás.\n\nBardon is erre int az IIH légzésgyakorlatainál: a tüdőt sohasem erőltetjük. A kíméletesség nem kezdő-fokozat — mesterszabály.",
-        "en": "The breath is the fastest gate to the body — and therefore also the fastest road to overreach.\n\n**What happens with forced breathing?** Hyperventilation washes carbon dioxide out of the blood (hypocapnia) — bringing numbness, dizziness, tingling, even muscle cramps. These are not 'energy signs' but physiological alarm signals.\n\n**The rules:**\n\n— This module contains **only natural, comfortable breath accompaniment** — no forced acceleration, no long, forced retention.\n\n— **Stop at once at dizziness or numbness**, and let the breath smooth out by itself.\n\n— **Never** practise in water, while driving or operating machinery.\n\n— **Do not do breathing exercises without medical consultation** if you have epilepsy or cardiovascular disease, if you are pregnant, or if you have a history of psychosis.\n\n— The measure of good practice is **calm**, not intensity.\n\nBardon warns of the same in the breathing exercises of the IIH: the lungs are never strained. Gentleness is not a beginner's grade — it is a master's rule."
+        "en": "The breath is the fastest gate to the body — and therefore also the fastest road to overreach.\n\n**What happens with forced breathing?** Hyperventilation washes carbon dioxide out of the blood (hypocapnia) — bringing numbness, dizziness, tingling, even muscle cramps. These are not 'energy signs' but physiological alarm signals.\n\n**The rules:**\n\n— This module contains **only natural, comfortable breath accompaniment** — no forced acceleration, no long, forced retention.\n\n— **Stop at once at dizziness or numbness**, and let the breath smooth out by itself.\n\n— **Never** practise in water, while driving or operating machinery.\n\n— **Do not do breathing exercises without medical consultation** if you have epilepsy or cardiovascular disease, if you are pregnant, or if you have a history of psychosis.\n\n— The measure of good practice is **calm**, not intensity.\n\nBardon warns of the same in the breathing exercises of the IIH: the lungs are never strained. Gentleness is not a beginner's grade — it is a master's rule.",
+        "ro": "Respirația este poarta cea mai rapidă către corp — și de aceea și drumul cel mai rapid către exagerare.\n\n**Ce se întâmplă cu respirația forțată?** Hiperventilația spală dioxidul de carbon din sânge (hipocapnie) — aducând amorțeală, amețeală, furnicături, chiar crampe musculare. Acestea nu sunt 'semne de energie', ci semnale fiziologice de alarmă.\n\n**Regulile:**\n\n— Acest modul conține **doar însoțire naturală, confortabilă a respirației** — fără accelerare forțată, fără reținere lungă, forțată.\n\n— **Oprește-te imediat la amețeală sau amorțeală**, și lasă respirația să se netezească de la sine.\n\n— **Niciodată** nu practica în apă, la volan sau în timp ce manevrezi utilaje.\n\n— **Nu face exerciții de respirație fără consult medical** dacă ai epilepsie sau boală cardiovasculară, dacă ești însărcinată, sau dacă ai un istoric de psihoză.\n\n— Măsura practicii bune este **calmul**, nu intensitatea.\n\nBardon avertizează la fel în exercițiile de respirație din IIH: plămânii nu sunt niciodată forțați. Blândețea nu e treapta începătorului — e regula maestrului."
       }
     },
     {
@@ -148,27 +170,31 @@
       "kind": "timer",
       "nevek": {
         "hu": "Nyugodt légzéskíséret — 10 perc",
-        "en": "Calm Breath Accompaniment — 10 min"
+        "en": "Calm Breath Accompaniment — 10 min",
+        "ro": "Însoțirea calmă a respirației — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Ülj le, és hagyd a légzést teljesen természetesnek. Válassz egyetlen pontot — például a szív táját —, és engedd, hogy a figyelmed lágyan ott pihenjen, míg a légzés magától jön-megy. Ne szabályozd, ne mélyítsd — csak kísérd. Szédülésnél azonnal állj le.",
-          "en": "Sit down and let the breath be entirely natural. Choose a single point — the heart region, for instance — and let your attention rest there softly while the breath comes and goes by itself. Do not regulate it, do not deepen it — only accompany it. Stop at once if you feel dizzy."
+          "en": "Sit down and let the breath be entirely natural. Choose a single point — the heart region, for instance — and let your attention rest there softly while the breath comes and goes by itself. Do not regulate it, do not deepen it — only accompany it. Stop at once if you feel dizzy.",
+          "ro": "Așază-te și lasă respirația să fie cu totul naturală. Alege un singur punct — regiunea inimii, de pildă — și lasă-ți atenția să se odihnească acolo blând, în timp ce respirația vine și pleacă de la sine. Nu o regla, nu o adânci — doar însoțește-o. Oprește-te imediat dacă te simți amețit."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "Félidő — maradj kényelmes",
-              "en": "Halfway — stay at ease"
+              "en": "Halfway — stay at ease",
+              "ro": "La jumătate — rămâi în tihnă"
             }
           },
           {
             "atSecond": 540,
             "label": {
               "hu": "Utolsó perc — lágy zárás",
-              "en": "Final minute — a soft close"
+              "en": "Final minute — a soft close",
+              "ro": "Ultimul minut — o încheiere blândă"
             }
           }
         ]
@@ -179,11 +205,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Józan párhuzamos lencse",
-        "en": "The Sober Parallel Lens"
+        "en": "The Sober Parallel Lens",
+        "ro": "Lentila paralelă sobră"
       },
       "text": {
         "hu": "Minden modulunkhoz tartozik egy józan lencse — itt így néz ki:\n\n**Mit mond az anatómia?** A gerinc mentén nincs kimutatható csakra-struktúra; az ideg-fonatokkal (plexusokkal) való megfeleltetés utólagos ráolvasás. Ettől a térkép még lehet hasznos — de tudd, mi benne a hagyomány, és mi a mérhető.\n\n**Mi a plauzibilis mechanizmus?** Az **interocepció** — a belső testérzékelés — edzése. A testtájakra irányított figyelem mérhetően javítja a testtudatosságot; a csakra-gyakorlat ennek egy szép, régi keretbe foglalt formája.\n\n**Az élmények valósak.** A melegség, a bizsergés, a hullámzó érzetek nem képzelgések — de figyelmi-fiziológiai jelenségekként is teljesen magyarázhatók. Ezért mér ez a modul **közérzetet, és nem „csakra-állapotot\"**.\n\n**A mentalizmus-modul pajzsa itt is véd:** aki ismeri a hideg olvasás működését, a saját élményeit sem olvassa túl — nem lesz minden bizsergésből „blokkoldódás\".\n\n**Kerítés:** csakra-„diagnózis\" nincs — se magadnak, se másnak, se testi, se lelki bajról. Panasz vagy tünet esetén orvoshoz, szakemberhez fordulj; a gyakorlás semmilyen kezelést nem helyettesít és nem késleltethet.",
-        "en": "Every module of ours carries a sober lens — here it looks like this:\n\n**What does anatomy say?** There is no demonstrable chakra structure along the spine; the correspondence with the nerve plexuses is a retrospective overlay. The map can still be useful — but know what in it is tradition and what is measurable.\n\n**What is the plausible mechanism?** The training of **interoception** — inner body perception. Attention directed to body regions measurably improves body awareness; the chakra practice is a beautiful, anciently framed form of this.\n\n**The experiences are real.** The warmth, the tingling, the wave-like sensations are no fantasies — but they are also fully explainable as attentional-physiological phenomena. That is why this module measures **well-being, and not 'chakra states'**.\n\n**The shield of the mentalism module protects here too:** whoever knows how cold reading works will not over-read their own experiences either — not every tingle becomes a 'block releasing'.\n\n**Fence:** there is no chakra 'diagnosis' — not for yourself, not for others, not of bodily or mental trouble. With any complaint or symptom see a doctor or professional; practice replaces no treatment and may delay none."
+        "en": "Every module of ours carries a sober lens — here it looks like this:\n\n**What does anatomy say?** There is no demonstrable chakra structure along the spine; the correspondence with the nerve plexuses is a retrospective overlay. The map can still be useful — but know what in it is tradition and what is measurable.\n\n**What is the plausible mechanism?** The training of **interoception** — inner body perception. Attention directed to body regions measurably improves body awareness; the chakra practice is a beautiful, anciently framed form of this.\n\n**The experiences are real.** The warmth, the tingling, the wave-like sensations are no fantasies — but they are also fully explainable as attentional-physiological phenomena. That is why this module measures **well-being, and not 'chakra states'**.\n\n**The shield of the mentalism module protects here too:** whoever knows how cold reading works will not over-read their own experiences either — not every tingle becomes a 'block releasing'.\n\n**Fence:** there is no chakra 'diagnosis' — not for yourself, not for others, not of bodily or mental trouble. With any complaint or symptom see a doctor or professional; practice replaces no treatment and may delay none.",
+        "ro": "Fiecare modul al nostru poartă o lentilă sobră — aici arată astfel:\n\n**Ce spune anatomia?** Nu există o structură demonstrabilă de chakre de-a lungul coloanei; corespondența cu plexurile nervoase este o suprapunere retrospectivă. Harta poate fi totuși utilă — dar știi ce e în ea tradiție și ce e măsurabil.\n\n**Care e mecanismul plauzibil?** Antrenarea **interocepției** — percepția interioară a corpului. Atenția îndreptată spre regiuni ale corpului îmbunătățește măsurabil conștientizarea corporală; practica chakrelor este o formă frumoasă, încadrată din vechime, a acestui lucru.\n\n**Experiențele sunt reale.** Căldura, furnicăturile, senzțiile ca de val nu sunt fantezii — dar sunt pe deplin explicabile și ca fenomene atențional-fiziologice. De aceea acest modul măsoară **starea de bine, și nu 'stările chakrelor'**.\n\n**Scutul modulului de mentalism protejează și aici:** cine știe cum funcționează cold reading-ul nu-și va supra-interpreta nici propriile experiențe — nu orice furnicătură devine o 'deblocare'.\n\n**Gard:** nu există 'diagnostic' de chakra — nici pentru tine, nici pentru alții, nici al vreunei tulburări corporale sau mentale. Cu orice plângere sau simptom vezi un medic sau un profesionist; practica nu înlocuiește niciun tratament și nu poate amâna pe niciunul."
       }
     },
     {
@@ -191,7 +219,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A csakra-gyakorló jellemvonásai",
-        "en": "The Chakra Practitioner's character traits"
+        "en": "The Chakra Practitioner's character traits",
+        "ro": "Trăsăturile de caracter ale practicianului chakrelor"
       },
       "aspektusPack": [
         {
@@ -200,7 +229,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Erőltetett energia-hajszolás",
-            "en": "Forcing energy experiences"
+            "en": "Forcing energy experiences",
+            "ro": "Forțarea experiențelor energetice"
           }
         },
         {
@@ -209,7 +239,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Talajvesztett fellegjárás",
-            "en": "Ungrounded drifting"
+            "en": "Ungrounded drifting",
+            "ro": "Plutirea neancorată"
           }
         },
         {
@@ -218,7 +249,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Térképek összemosása",
-            "en": "Blurring the maps"
+            "en": "Blurring the maps",
+            "ro": "Amestecarea hărților"
           }
         },
         {
@@ -227,7 +259,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Hangulatok csakra-címkézése",
-            "en": "Labeling moods as chakras"
+            "en": "Labeling moods as chakras",
+            "ro": "Etichetarea dispozițiilor drept chakre"
           }
         },
         {
@@ -236,7 +269,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Finom test-figyelem",
-            "en": "Subtle body-listening"
+            "en": "Subtle body-listening",
+            "ro": "Ascultarea subtilă a corpului"
           }
         },
         {
@@ -245,7 +279,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Kíméletes gyakorlás",
-            "en": "Gentle practice"
+            "en": "Gentle practice",
+            "ro": "Practică blândă"
           }
         },
         {
@@ -254,7 +289,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Mértéktartó akarat",
-            "en": "Measured will"
+            "en": "Measured will",
+            "ro": "Voință măsurată"
           }
         },
         {
@@ -263,7 +299,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Térkép-tisztaság",
-            "en": "Map clarity"
+            "en": "Map clarity",
+            "ro": "Claritatea hărții"
           }
         }
       ]
@@ -273,7 +310,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Csakra-figyelem napló",
-        "en": "Chakra Attention Log"
+        "en": "Chakra Attention Log",
+        "ro": "Jurnal de Atenție asupra Chakrelor"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -281,7 +319,8 @@
         ],
         "prompts": {
           "hu": "PONT — A ma bejárt pont(ok): ___\n\nÉRZETEK — Nyers benyomások, címkézés nélkül (melegség, bizsergés, semmi — mind rendben): ___\n\nKÖZÉRZET — Gyakorlat előtt (1–10): ___, után (1–10): ___\n\nLÉGZÉS — Végig kényelmes maradt? Ha nem, hol álltál meg: ___\n\nJEGYZET — Ami még ide kívánkozik: ___",
-          "en": "POINT — The point(s) visited today: ___\n\nSENSATIONS — Raw impressions, without labels (warmth, tingling, nothing — all fine): ___\n\nWELL-BEING — Before practice (1–10): ___, after (1–10): ___\n\nBREATH — Did it stay comfortable throughout? If not, where you stopped: ___\n\nNOTE — Whatever else belongs here: ___"
+          "en": "POINT — The point(s) visited today: ___\n\nSENSATIONS — Raw impressions, without labels (warmth, tingling, nothing — all fine): ___\n\nWELL-BEING — Before practice (1–10): ___, after (1–10): ___\n\nBREATH — Did it stay comfortable throughout? If not, where you stopped: ___\n\nNOTE — Whatever else belongs here: ___",
+          "ro": "PUNCT — Punctul (punctele) vizitat(e) azi: ___\n\nSENZAȚII — Impresii brute, fără etichete (căldură, furnicături, nimic — totul e în regulă): ___\n\nSTARE DE BINE — Înainte de practică (1–10): ___, după (1–10): ___\n\nRESPIRAȚIE — A rămas confortabilă pe tot parcursul? Dacă nu, unde te-ai oprit: ___\n\nNOTĂ — Orice altceva care își are locul aici: ___"
         }
       }
     },
@@ -290,7 +329,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A gyakorlat elsajátítása",
-        "en": "Mastery of the Practice"
+        "en": "Mastery of the Practice",
+        "ro": "Stăpânirea Practicii"
       },
       "checklist": {
         "items": [
@@ -298,42 +338,48 @@
             "key": "c1",
             "nevek": {
               "hu": "A hét pont térképe fejből megy — név, hely, minőség",
-              "en": "The map of the seven points known by heart — name, place, quality"
+              "en": "The map of the seven points known by heart — name, place, quality",
+              "ro": "Harta celor șapte puncte știută pe de rost — nume, loc, calitate"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Tisztán látom, miben más Bardon elemi térképe, és nem keverem a kettőt",
-              "en": "I see clearly how Bardon's elemental map differs, and I do not mix the two"
+              "en": "I see clearly how Bardon's elemental map differs, and I do not mix the two",
+              "ro": "Văd clar cum harta elementală a lui Bardon diferă și nu le amestec pe cele două"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Legalább öt kíméletes végigjárás naplózva, közérzet-számokkal",
-              "en": "At least five gentle tours logged, with well-being numbers"
+              "en": "At least five gentle tours logged, with well-being numbers",
+              "ro": "Cel puțin cinci tururi blânde consemnate, cu numerele stării de bine"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "A légzésbiztonsági szabályokat ismerem és betartom",
-              "en": "I know and keep the breathing-safety rules"
+              "en": "I know and keep the breathing-safety rules",
+              "ro": "Cunosc și respect regulile de siguranță ale respirației"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Tudom, mi a kundalini-kerítés, és mikor kell azonnal leállni",
-              "en": "I know the kundalini fence and when to stop at once"
+              "en": "I know the kundalini fence and when to stop at once",
+              "ro": "Cunosc gardul kundalini și când să mă opresc de îndată"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Az élményeimet lejegyzem, de nem diagnosztizálok belőlük — se magamnak, se másnak",
-              "en": "I record my experiences but diagnose nothing from them — neither for myself nor for others"
+              "en": "I record my experiences but diagnose nothing from them — neither for myself nor for others",
+              "ro": "Îmi consemnez experiențele, dar nu diagnostichez nimic din ele — nici pentru mine, nici pentru alții"
             }
           }
         ]
@@ -344,7 +390,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Auto-verificare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -353,7 +400,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Honnan származik a hét fő csakra térképe?",
-              "en": "Where does the map of the seven main chakras come from?"
+              "en": "Where does the map of the seven main chakras come from?",
+              "ro": "De unde vine harta celor șapte chakre principale?"
             },
             "options": {
               "hu": [
@@ -367,6 +415,12 @@
                 "From the tradition of tantric yoga — brought West by the translation of the Sat-Chakra-Nirupana, Arthur Avalon's The Serpent Power (1919)",
                 "From medieval European alchemy",
                 "From 20th-century experimental psychology"
+              ],
+              "ro": [
+                "Din școlile preoțești ale Egiptului antic",
+                "Din tradiția yoga tantrică — adusă în Occident prin traducerea Sat-Chakra-Nirupana, The Serpent Power a lui Arthur Avalon (1919)",
+                "Din alchimia europeană medievală",
+                "Din psihologia experimentală a secolului XX"
               ]
             },
             "correctIndex": 1
@@ -375,7 +429,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Mi igaz a szivárvány-színkiosztásra?",
-              "en": "What is true of the rainbow colour assignment?"
+              "en": "What is true of the rainbow colour assignment?",
+              "ro": "Ce este adevărat despre atribuirea culorilor curcubeului?"
             },
             "options": {
               "hu": [
@@ -389,6 +444,12 @@
                 "Bardon introduced it in Initiation Into Hermetics",
                 "It is a modern Western development — the form known today dates from the 20th century, and the traditional petal colours are different",
                 "It is the only authentic colour system; everything else is error"
+              ],
+              "ro": [
+                "Provine din cele mai vechi surse sanscrite",
+                "Bardon a introdus-o în Initiation Into Hermetics",
+                "Este o dezvoltare occidentală modernă — forma cunoscută azi datează din secolul XX, iar culorile tradiționale ale petalelor sunt diferite",
+                "Este singurul sistem autentic de culori; orice altceva este eroare"
               ]
             },
             "correctIndex": 2
@@ -397,7 +458,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Hogyan viszonyul Bardon elemi test-térképe a csakra-térképhez?",
-              "en": "How does Bardon's elemental body map relate to the chakra map?"
+              "en": "How does Bardon's elemental body map relate to the chakra map?",
+              "ro": "Cum se raportează harta elementală a corpului a lui Bardon la harta chakrelor?"
             },
             "options": {
               "hu": [
@@ -411,6 +473,12 @@
                 "Two separate tradition-maps — they must not be blended, but their parallels are instructive",
                 "Bardon built the steps of the IIH on the chakra system",
                 "The chakra map is Bardon's own invention"
+              ],
+              "ro": [
+                "Același sistem sub două nume",
+                "Două hărți de tradiție separate — nu trebuie amestecate, dar paralelele lor sunt instructive",
+                "Bardon a construit treptele din IIH pe sistemul chakra",
+                "Harta chakra este invenția proprie a lui Bardon"
               ]
             },
             "correctIndex": 1
@@ -419,7 +487,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Mit teszel, ha gyakorlás közben szédülés vagy zsibbadás jelentkezik?",
-              "en": "What do you do if dizziness or numbness appears during practice?"
+              "en": "What do you do if dizziness or numbness appears during practice?",
+              "ro": "Ce faci dacă apar amețeli sau amorțeală în timpul practicii?"
             },
             "options": {
               "hu": [
@@ -433,6 +502,12 @@
                 "I stop at once, let the breath smooth out by itself, and rest",
                 "I continue in cold water to cool down",
                 "I counterbalance it with longer retentions"
+              ],
+              "ro": [
+                "Intensific respirația ca să trec prin asta",
+                "Mă opresc imediat, las respirația să se liniștească de la sine și mă odihnesc",
+                "Continui în apă rece ca să mă răcoresc",
+                "O contrabalansez cu rețineri mai lungi"
               ]
             },
             "correctIndex": 1
@@ -445,11 +520,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare a responsabilității"
       },
       "text": {
         "hu": "*Tanulási segédlet a tantrikus jóga csakra-hagyománya nyomán. Források: Purnánanda: Szat-csakra-nirúpana (1577, közkincs); Arthur Avalon (John Woodroffe): The Serpent Power (1919, közkincs); C. W. Leadbeater: The Chakras (1927, az USA-ban közkincs). Viszonyítási pont: Franz Bardon: Út a valódi beavatáshoz (IIH). A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes tanításokért keresd az eredeti forrásokat.*\n\n*A gyakorlatok figyelem- és testtudatosság-edzésként önértékűek; a rendkívüli állításokat a hagyomány elbeszéléseként jegyezzük, nem tényként. Ez nem orvosi és nem pszichológiai tanács: panasz vagy tünet esetén fordulj orvoshoz, és a szükséges ellátást soha ne halaszd el a gyakorlás miatt. Akut lelki krízisben keress szakembert. A gyakorlatokat nyugodt, biztonságos helyzetben végezd — vezetés, gépkezelés közben vagy vízben soha.*",
-        "en": "*Study aid based on the chakra tradition of tantric yoga. Sources: Purnananda: Sat-Chakra-Nirupana (1577, public domain); Arthur Avalon (John Woodroffe): The Serpent Power (1919, public domain); C. W. Leadbeater: The Chakras (1927, public domain in the USA). Point of reference: Franz Bardon: Initiation Into Hermetics (IIH). This text is an original summary, not a verbatim quotation — seek the original sources for the complete teachings.*\n\n*The practices stand on their own worth as attention and body-awareness training; the extraordinary claims we record as the tradition's narrative, not as fact. This is not medical or psychological advice: with any complaint or symptom see a doctor, and never delay needed care because of practice. In an acute mental crisis, seek a professional. Do the practices in calm, safe settings — never while driving, operating machinery, or in water.*"
+        "en": "*Study aid based on the chakra tradition of tantric yoga. Sources: Purnananda: Sat-Chakra-Nirupana (1577, public domain); Arthur Avalon (John Woodroffe): The Serpent Power (1919, public domain); C. W. Leadbeater: The Chakras (1927, public domain in the USA). Point of reference: Franz Bardon: Initiation Into Hermetics (IIH). This text is an original summary, not a verbatim quotation — seek the original sources for the complete teachings.*\n\n*The practices stand on their own worth as attention and body-awareness training; the extraordinary claims we record as the tradition's narrative, not as fact. This is not medical or psychological advice: with any complaint or symptom see a doctor, and never delay needed care because of practice. In an acute mental crisis, seek a professional. Do the practices in calm, safe settings — never while driving, operating machinery, or in water.*",
+        "ro": "*Material de studiu bazat pe tradiția chakra a yogăi tantrice. Surse: Purnananda: Sat-Chakra-Nirupana (1577, domeniu public); Arthur Avalon (John Woodroffe): The Serpent Power (1919, domeniu public); C. W. Leadbeater: The Chakras (1927, domeniu public în SUA). Punct de referință: Franz Bardon: Initiation Into Hermetics (IIH). Acest text este un rezumat original, nu un citat textual — caută sursele originale pentru învățăturile complete.*\n\n*Practicile se susțin prin valoarea lor proprie ca antrenament al atenției și al conștientizării corpului; pretențiile extraordinare le consemnăm ca narațiune a tradiției, nu ca fapte. Acesta nu este un sfat medical sau psihologic: la orice plângere sau simptom consultă un medic și nu amâna niciodată îngrijirea necesară din cauza practicii. Într-o criză mentală acută, apelează la un profesionist. Fă practicile în medii calme și sigure — niciodată în timp ce conduci, manevrezi utilaje sau în apă.*"
       }
     }
   ]

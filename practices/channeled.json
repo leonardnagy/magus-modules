@@ -3,7 +3,8 @@
   "id": "practice-pack-channeled",
   "nevek": {
     "hu": "Csatornázott mesterek",
-    "en": "Channeled masters"
+    "en": "Channeled masters",
+    "ro": "Maeștri canalizați"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Tükör-választás",
-        "en": "Mirror choice"
+        "en": "Mirror choice",
+        "ro": "Alegerea oglinzii"
       },
       "cel": {
         "hu": "Napi tükörgyakorlattal átélni, hogy a belső állapotod nem a körülmények következménye, hanem a saját döntésed.",
-        "en": "Through a daily mirror practice, to experience that your inner state is not a consequence of circumstances but your own decision."
+        "en": "Through a daily mirror practice, to experience that your inner state is not a consequence of circumstances but your own decision.",
+        "ro": "Printr-o practică zilnică a oglinzii, să experimentezi că starea ta interioară nu este o consecință a circumstanțelor, ci propria ta decizie."
       },
       "modszer": [
         {
           "hu": "Reggel és este állj tükör elé, és nézz a saját szemedbe — ne az arcvonásaidra, csak a tekintetedbe.",
-          "en": "Morning and evening, stand before a mirror and look into your own eyes — not at your features, only into your gaze."
+          "en": "Morning and evening, stand before a mirror and look into your own eyes — not at your features, only into your gaze.",
+          "ro": "Dimineața și seara, stai în fața unei oglinzi și privește-ți ochii — nu trăsăturile, ci doar privirea."
         },
         {
           "hu": "Mondd ki lassan, tagoltan: „Így érzem magam, mert most ezt választom.”",
-          "en": "Say slowly and deliberately: 'I feel this way because right now I choose to.'"
+          "en": "Say slowly and deliberately: 'I feel this way because right now I choose to.'",
+          "ro": "Spune încet și hotărât: «Mă simt așa pentru că chiar acum aleg să mă simt așa.»"
         },
         {
           "hu": "Ha készen állsz, tedd hozzá a választásod irányát is: „És most azt választom, hogy nyugodt / szabad / eleven vagyok.”",
-          "en": "When ready, add the direction of your choice: 'And now I choose to be calm / free / alive.'"
+          "en": "When ready, add the direction of your choice: 'And now I choose to be calm / free / alive.'",
+          "ro": "Când ești gata, adaugă direcția alegerii tale: «Și acum aleg să fiu calm / liber / viu.»"
         },
         {
           "hu": "Maradj a saját tekintetedben még néhány lélegzetig, akkor is, ha kényelmetlen.",
-          "en": "Stay in your own gaze a few breaths longer, even if it feels uncomfortable."
+          "en": "Stay in your own gaze a few breaths longer, even if it feels uncomfortable.",
+          "ro": "Rămâi în propria privire încă câteva respirații, chiar dacă e inconfortabil."
         },
         {
           "hu": "Este jegyezd fel, milyen állapotot választottál, és mi történt vele napközben.",
-          "en": "In the evening note which state you chose and what became of it during the day."
+          "en": "In the evening note which state you chose and what became of it during the day.",
+          "ro": "Seara notează ce stare ai ales și ce s-a ales de ea pe parcursul zilei."
         }
       ],
       "keret": {
         "hu": "Ez a hagyomány önmegismerő gyakorlata; nem varázsformula, hanem egy szokás, amelynek gyümölcsét a saját állapotod finom változásaiban mérheted.",
-        "en": "This is the tradition's self-knowledge exercise; not a magic formula but a habit whose fruit you can measure in the subtle shifts of your own state."
+        "en": "This is the tradition's self-knowledge exercise; not a magic formula but a habit whose fruit you can measure in the subtle shifts of your own state.",
+        "ro": "Acesta este exercițiul de autocunoaștere al tradiției; nu o formulă magică, ci un obicei ale cărui roade le poți măsura în schimbările subtile ale propriei stări."
       },
       "etika": {
         "hu": "Ha a gyakorlat mély, régi érzéseket hoz fel, lassíts és bánj magaddal gyengéden; nem terápia, és nehéz lelki állapotban nem helyettesíti a szakember segítségét.",
-        "en": "If the practice surfaces deep old feelings, slow down and treat yourself gently; it is not therapy and, in real distress, does not replace professional help."
+        "en": "If the practice surfaces deep old feelings, slow down and treat yourself gently; it is not therapy and, in real distress, does not replace professional help.",
+        "ro": "Dacă practica scoate la suprafață sentimente vechi și adânci, încetinește și tratează-te cu blândețe; nu este terapie și, în caz de suferință reală, nu înlocuiește ajutorul profesional."
       },
       "sorszam": 1
     },
@@ -61,37 +71,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "Frekvencia-hangolás gyakorlat",
-        "en": "Frequency attunement practice"
+        "en": "Frequency attunement practice",
+        "ro": "Practica de acordare pe frecvență"
       },
       "cel": {
         "hu": "A hagyomány valóságváltás-modellje szerint gyakorolni az állapot-választást: nem a világot erőltetni, hanem magadat egy kívánt belső hangolásra hozni, és figyelni az életed megfigyelhető alakulását.",
-        "en": "To practise state-choosing after the tradition's reality-shifting model: not to force the world but to bring yourself to a desired inner attunement, and to watch your life's observable unfolding."
+        "en": "To practise state-choosing after the tradition's reality-shifting model: not to force the world but to bring yourself to a desired inner attunement, and to watch your life's observable unfolding.",
+        "ro": "Să exersezi alegerea stării după modelul tradiției de schimbare a realității: nu ca să forțezi lumea, ci ca să te aduci la o acordare interioară dorită și să privești desfășurarea observabilă a vieții tale."
       },
       "modszer": [
         {
           "hu": "Válassz egy kicsi, konkrét célt — egy állapotot vagy egy „olyan nap, ahol…” képet —, és írd le minden érzékszervvel: látvány, hangok, testérzet, hangulat.",
-          "en": "Choose one small, concrete aim — a state or an image of 'a day where…' — and describe it with every sense: sights, sounds, body-feeling, mood."
+          "en": "Choose one small, concrete aim — a state or an image of 'a day where…' — and describe it with every sense: sights, sounds, body-feeling, mood.",
+          "ro": "Alege un țel mic și concret — o stare sau o imagine a «unei zile în care…» — și descrie-l cu toate simțurile: imagini, sunete, senzație corporală, dispoziție."
         },
         {
           "hu": "Ülj le, lélegezz mélyen, és érezd a tested jelen rezgését, majd képzeld, hogy ez a rezgés és a célod ugyanazt a dallamot játssza.",
-          "en": "Sit, breathe deeply, feel your body's present vibration, then imagine that this vibration and your aim play the same melody."
+          "en": "Sit, breathe deeply, feel your body's present vibration, then imagine that this vibration and your aim play the same melody.",
+          "ro": "Așază-te, respiră adânc, simte vibrația prezentă a corpului tău, apoi imaginează-ți că această vibrație și țelul tău cântă aceeași melodie."
         },
         {
           "hu": "Ne az „odaérést” képzeld, hanem a „már ott vagyok” érzését: láss, hallj, érezz a célban, és éld át a megérkezés örömét.",
-          "en": "Do not imagine 'arriving' but the feeling of 'I am already there': see, hear and feel within the aim, and live the joy of having arrived."
+          "en": "Do not imagine 'arriving' but the feeling of 'I am already there': see, hear and feel within the aim, and live the joy of having arrived.",
+          "ro": "Nu-ți imagina «sosirea», ci sentimentul «sunt deja acolo»: vezi, auzi și simte din interiorul țelului și trăiește bucuria de a fi ajuns."
         },
         {
           "hu": "Zárd egy csendes engedéllyel — „megengedem magamnak, hogy erre hangolódjak” —, majd teljesen engedd el, minden elvárás nélkül a kimenetel felé.",
-          "en": "Close with a quiet permission — 'I allow myself to attune to this' — then let it go completely, with no insistence on the outcome."
+          "en": "Close with a quiet permission — 'I allow myself to attune to this' — then let it go completely, with no insistence on the outcome.",
+          "ro": "Încheie cu o permisiune liniștită — «Îmi permit să mă acordez la asta» — apoi lasă totul complet, fără a insista asupra rezultatului."
         },
         {
           "hu": "A következő napokban jegyezd a „lábnyomokat”: szinkronicitások, váratlan fordulatok, hangulatváltások — és hetente olvasd vissza.",
-          "en": "In the following days record the 'footprints': synchronicities, unexpected turns, mood shifts — and re-read them weekly."
+          "en": "In the following days record the 'footprints': synchronicities, unexpected turns, mood shifts — and re-read them weekly.",
+          "ro": "În zilele următoare notează «urmele»: sincronicități, cotituri neașteptate, schimbări de dispoziție — și recitește-le săptămânal."
         }
       ],
       "keret": {
         "hu": "A párhuzamos valóságok és a másodpercenkénti váltás a hagyomány saját állítása; itt munkamodellként használjuk, amelynek értékét nem az igazságtartalma, hanem a benned kiváltott tisztább állapot és bátrabb cselekvés adja.",
-        "en": "Parallel realities and per-second shifting are the tradition's own claim; here we use it as a working model whose worth lies not in its literal truth but in the clearer state and braver action it evokes in you."
+        "en": "Parallel realities and per-second shifting are the tradition's own claim; here we use it as a working model whose worth lies not in its literal truth but in the clearer state and braver action it evokes in you.",
+        "ro": "Realitățile paralele și schimbarea pe secundă sunt afirmația proprie a tradiției; aici o folosim ca model de lucru a cărui valoare nu stă în adevărul ei literal, ci în starea mai clară și acțiunea mai curajoasă pe care le trezește în tine."
       },
       "sorszam": 2
     },
@@ -102,37 +120,45 @@
       "sik": "lelek",
       "cim": {
         "hu": "Engedély-cédula készítése",
-        "en": "Making a permission slip"
+        "en": "Making a permission slip",
+        "ro": "Crearea unui bilet de permisiune"
       },
       "cel": {
         "hu": "Létrehozni egy személyes jelképes „kulcsot”, amely segít megengedni magadnak egy kívánt belső állapotot — abból a felismerésből, hogy az eszköz csak híd, az erő benned van.",
-        "en": "To create a personal symbolic 'key' that helps you allow yourself a desired inner state — from the insight that the tool is only a bridge and the power is in you."
+        "en": "To create a personal symbolic 'key' that helps you allow yourself a desired inner state — from the insight that the tool is only a bridge and the power is in you.",
+        "ro": "Să creezi o «cheie» simbolică personală care te ajută să-ți permiți o stare interioară dorită — din înțelegerea că unealta e doar o punte, iar puterea e în tine."
       },
       "modszer": [
         {
           "hu": "Nevezd meg pontosan az állapotot, amire engedélyt adsz magadnak: nyugalom, bátorság, bőség, kapcsolódás.",
-          "en": "Name precisely the state you grant yourself permission for: calm, courage, abundance, connection."
+          "en": "Name precisely the state you grant yourself permission for: calm, courage, abundance, connection.",
+          "ro": "Numește precis starea pentru care îți acorzi permisiunea: calm, curaj, abundență, conexiune."
         },
         {
           "hu": "Válassz hordozót: egy tárgy, egy mozdulat, egy ujjtartás vagy egy rövid, jelen idejű mondat — bármi, ami neked jelent valamit.",
-          "en": "Choose a carrier: an object, a gesture, a finger posture or a short present-tense sentence — anything that means something to you."
+          "en": "Choose a carrier: an object, a gesture, a finger posture or a short present-tense sentence — anything that means something to you.",
+          "ro": "Alege un purtător: un obiect, un gest, o postură a degetelor sau o propoziție scurtă la timpul prezent — orice care are un sens pentru tine."
         },
         {
           "hu": "„Töltsd fel”: amikor az állapot magától jelen van benned, végezd el a mozdulatot vagy fogd meg a tárgyat, és kösd össze a kettőt, többször ismételve.",
-          "en": "'Charge' it: when the state is naturally present, perform the gesture or hold the object and bind the two together, repeating several times."
+          "en": "'Charge' it: when the state is naturally present, perform the gesture or hold the object and bind the two together, repeating several times.",
+          "ro": "«Încarcă-l»: când starea e prezentă în mod natural, fă gestul sau ține obiectul și leagă-le pe cele două, repetând de mai multe ori."
         },
         {
           "hu": "Használd tudatosan a hétköznapokban — hordd, idézd fel, ismételd —, amikor az állapotra szükséged van.",
-          "en": "Use it consciously in daily life — carry it, recall it, repeat it — when you need the state."
+          "en": "Use it consciously in daily life — carry it, recall it, repeat it — when you need the state.",
+          "ro": "Folosește-l conștient în viața de zi cu zi — poartă-l, amintește-ți de el, repetă-l — când ai nevoie de stare."
         },
         {
           "hu": "Idővel engedd el: a cél az, hogy egyre kevesebb eszközre szorulj, míg végül maga a szándék lesz az engedély.",
-          "en": "In time, outgrow it: the aim is to need fewer and fewer tools until intention itself becomes the permission."
+          "en": "In time, outgrow it: the aim is to need fewer and fewer tools until intention itself becomes the permission.",
+          "ro": "Cu timpul, depășește-l: scopul e să ai nevoie de tot mai puține unelte până când intenția însăși devine permisiunea."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint az eszköznek önmagában nincs ereje — a cédula pszichológiai híd, amely a saját hitedet mozgósítja; ennyiben becsületes és ártalmatlan önsegítő technika.",
-        "en": "According to the tradition the tool has no power in itself — the slip is a psychological bridge that mobilizes your own belief; in that sense it is an honest and harmless self-help technique."
+        "en": "According to the tradition the tool has no power in itself — the slip is a psychological bridge that mobilizes your own belief; in that sense it is an honest and harmless self-help technique.",
+        "ro": "Potrivit tradiției, unealta nu are putere în sine — biletul e o punte psihologică ce-ți mobilizează propria credință; în acest sens e o tehnică de autoajutor onestă și inofensivă."
       },
       "sorszam": 3
     },
@@ -144,41 +170,50 @@
       "elem": "Fold",
       "cim": {
         "hu": "Fermentáció — a szent bomlás",
-        "en": "Fermentation — the sacred rot"
+        "en": "Fermentation — the sacred rot",
+        "ro": "Fermentația — putrezirea sacră"
       },
       "cel": {
         "hu": "Egy széteső régi identitás, kapcsolat vagy életszakasz idején nem visszaépíteni a régit, hanem türelmesen jelen lenni a bomlásnál, amelyből az új sarjadhat.",
-        "en": "During the falling-apart of an old identity, relationship or life-chapter, not to rebuild the old but to be patiently present with the decay from which the new may sprout."
+        "en": "During the falling-apart of an old identity, relationship or life-chapter, not to rebuild the old but to be patiently present with the decay from which the new may sprout.",
+        "ro": "În timpul destrămării unei vechi identități, relații sau capitole de viață, nu să reconstruiești vechiul, ci să fii prezent cu răbdare la descompunerea din care noul poate răsări."
       },
       "modszer": [
         {
           "hu": "Ülj le csendben naponta néhány percre, és tedd fel a kérdést: mi az, ami bennem most lebomlik, elenged, véget ér?",
-          "en": "Sit in silence a few minutes daily and ask: what in me is now decomposing, releasing, ending?"
+          "en": "Sit in silence a few minutes daily and ask: what in me is now decomposing, releasing, ending?",
+          "ro": "Stai în tăcere câteva minute zilnic și întreabă-te: ce se descompune, se eliberează, se încheie acum în mine?"
         },
         {
           "hu": "Ne javítsd meg és ne magyarázd el — csak légy jelen vele, ahogy a gazda sem húzgálja a csírát a földből.",
-          "en": "Do not fix it or explain it — simply be present with it, as a farmer does not tug the sprout from the soil."
+          "en": "Do not fix it or explain it — simply be present with it, as a farmer does not tug the sprout from the soil.",
+          "ro": "Nu-l repara și nu-l explica — fii pur și simplu prezent cu el, așa cum un țăran nu trage mugurul din pământ."
         },
         {
           "hu": "Figyeld meg, hol jelenik meg az első halvány új impulzus: egy váratlan érdeklődés, egy friss inspiráció.",
-          "en": "Notice where the first faint new impulse appears: an unexpected interest, a fresh inspiration."
+          "en": "Notice where the first faint new impulse appears: an unexpected interest, a fresh inspiration.",
+          "ro": "Observă unde apare primul impuls nou, abia schițat: un interes neașteptat, o inspirație proaspătă."
         },
         {
           "hu": "Engedd, hogy a veszteség szorítása lassan kíváncsisággá alakuljon — ne siettesd, ez heteket vehet igénybe.",
-          "en": "Let the grip of loss slowly turn into curiosity — do not rush it; this can take weeks."
+          "en": "Let the grip of loss slowly turn into curiosity — do not rush it; this can take weeks.",
+          "ro": "Lasă strânsoarea pierderii să se transforme încet în curiozitate — nu o grăbi; asta poate dura săptămâni."
         },
         {
           "hu": "Jegyezd naponta egy mondatban, mi bomlik és mi mozdul — a mintát a visszaolvasás mutatja meg.",
-          "en": "Record daily in one sentence what is decomposing and what is stirring — re-reading reveals the pattern."
+          "en": "Record daily in one sentence what is decomposing and what is stirring — re-reading reveals the pattern.",
+          "ro": "Notează zilnic într-o singură propoziție ce se descompune și ce se trezește — recitirea dezvăluie tiparul."
         }
       ],
       "keret": {
         "hu": "Ez az alkímiai út lélektani képként való használata: a „bomlás mint termőtalaj” metafora, amelynek célja, hogy a válságot ne hibaként, hanem folyamat részeként éld meg.",
-        "en": "This uses the alchemical path as a psychological image: the 'decay as fertile soil' metaphor, meant to help you experience crisis not as a mistake but as part of a process."
+        "en": "This uses the alchemical path as a psychological image: the 'decay as fertile soil' metaphor, meant to help you experience crisis not as a mistake but as part of a process.",
+        "ro": "Aceasta folosește calea alchimică drept imagine psihologică: metafora «descompunerea ca sol fertil», menită să te ajute să trăiești criza nu ca pe o greșeală, ci ca pe parte dintr-un proces."
       },
       "etika": {
         "hu": "Ha a szétesés élménye tartós reménytelenségbe, mély gyászba vagy önveszélyes gondolatokba fordul, ez már nem gyakorlat kérdése — fordulj szakemberhez.",
-        "en": "If the experience of falling apart turns into lasting hopelessness, deep grief or thoughts of self-harm, this is no longer a matter of practice — consult a professional."
+        "en": "If the experience of falling apart turns into lasting hopelessness, deep grief or thoughts of self-harm, this is no longer a matter of practice — consult a professional.",
+        "ro": "Dacă experiența de a te destrăma se transformă în deznădejde de durată, doliu profund sau gânduri de autovătămare, asta nu mai ține de practică — consultă un specialist."
       },
       "sorszam": 4
     },
@@ -190,33 +225,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Desztilláció — a lényeg kinyerése",
-        "en": "Distillation — extracting the essence"
+        "en": "Distillation — extracting the essence",
+        "ro": "Distilare — extragerea esenței"
       },
       "cel": {
         "hu": "Egy erős napi élményt addig forgatni tudatos figyelemmel, amíg a nehéz „történet” elválik a könnyű, tanulságot hordozó lényegtől.",
-        "en": "To turn a strong daily experience in conscious attention until the heavy 'story' separates from the light, lesson-bearing essence."
+        "en": "To turn a strong daily experience in conscious attention until the heavy 'story' separates from the light, lesson-bearing essence.",
+        "ro": "A ține o experiență zilnică puternică în atenție conștientă până când «povestea» grea se desparte de esența ușoară, purtătoare de învățătură."
       },
       "modszer": [
         {
           "hu": "Este vedd elő a nap egy erős élményét, és írd le nyersen, ítélet nélkül, hogy pontosan mi történt.",
-          "en": "In the evening take one strong experience of the day and write down, raw and without judgment, exactly what happened."
+          "en": "In the evening take one strong experience of the day and write down, raw and without judgment, exactly what happened.",
+          "ro": "Seara ia o experiență puternică a zilei și notează, crud și fără judecată, exact ce s-a întâmplat."
         },
         {
           "hu": "Írd le, mit éreztél, és milyen hiedelem mozoghatott alatta — az érzés az út a hiedelemhez.",
-          "en": "Write down what you felt and what belief may have moved beneath it — the feeling is the road to the belief."
+          "en": "Write down what you felt and what belief may have moved beneath it — the feeling is the road to the belief.",
+          "ro": "Notează ce ai simțit și ce credință s-ar fi putut mișca pe dedesubt — sentimentul este drumul către credință."
         },
         {
           "hu": "Egyetlen tiszta mondatban fogalmazd meg a párlatot: mit viszek tovább ebből magamról vagy az életemről?",
-          "en": "In a single clear sentence state the distillate: what do I carry forward from this about myself or my life?"
+          "en": "In a single clear sentence state the distillate: what do I carry forward from this about myself or my life?",
+          "ro": "Într-o singură propoziție clară formulează distilatul: ce duc mai departe din asta despre mine sau despre viața mea?"
         },
         {
           "hu": "Egy-egy visszatérő nagy témádat hetek múlva desztilláld át újra — meglepően tisztább esszenciát kaphatsz.",
-          "en": "Distil a recurring great theme again weeks later — you may receive a surprisingly clearer essence."
+          "en": "Distil a recurring great theme again weeks later — you may receive a surprisingly clearer essence.",
+          "ro": "Distilează din nou o temă mare recurentă săptămâni mai târziu — s-ar putea să primești o esență surprinzător de mai clară."
         }
       ],
       "keret": {
         "hu": "Ez egy strukturált napló-módszer az önreflexióhoz; „az érzelem egy hiedelem lenyomata” a hagyomány munkahipotézise, amelyet a saját tapasztalatodon mérj le.",
-        "en": "This is a structured journaling method for self-reflection; 'emotion is the imprint of a belief' is the tradition's working hypothesis, to be tested against your own experience."
+        "en": "This is a structured journaling method for self-reflection; 'emotion is the imprint of a belief' is the tradition's working hypothesis, to be tested against your own experience.",
+        "ro": "Aceasta este o metodă structurată de jurnal pentru auto-reflecție; «emoția este amprenta unei credințe» este ipoteza de lucru a tradiției, de verificat pe propria ta experiență."
       },
       "sorszam": 5
     },
@@ -228,33 +270,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Koaguláció — a napi horgony-tett",
-        "en": "Coagulation — the daily anchor-deed"
+        "en": "Coagulation — the daily anchor-deed",
+        "ro": "Coagulare — fapta-ancoră zilnică"
       },
       "cel": {
         "hu": "Egy belátást vagy „párlatot” konkrét fizikai tetté váltani minden nap, hogy a felismerés ne párologjon el, hanem megszokássá és jellemmé szilárduljon.",
-        "en": "To turn an insight or 'distillate' into one concrete physical deed each day, so the realization does not evaporate but solidifies into habit and character."
+        "en": "To turn an insight or 'distillate' into one concrete physical deed each day, so the realization does not evaporate but solidifies into habit and character.",
+        "ro": "A transforma o intuiție sau un «distilat» într-o faptă fizică concretă în fiecare zi, astfel încât realizarea să nu se evapore, ci să se solidifice în obicei și caracter."
       },
       "modszer": [
         {
           "hu": "Vedd elő a legutóbbi párlat-mondatodat — például: „a hangomnak helye van”.",
-          "en": "Take your latest distillate sentence — for example: 'my voice has a place'."
+          "en": "Take your latest distillate sentence — for example: 'my voice has a place'.",
+          "ro": "Ia ultima ta propoziție-distilat — de exemplu: «vocea mea are un loc»."
         },
         {
           "hu": "Válassz hozzá egyetlen kicsi, pontos, ma megtehető tettet, amely ebből az új énből fakad.",
-          "en": "Choose one small, precise deed you can do today that springs from this new self."
+          "en": "Choose one small, precise deed you can do today that springs from this new self.",
+          "ro": "Alege o faptă mică, precisă, pe care o poți face azi și care izvorăște din acest sine nou."
         },
         {
           "hu": "Tedd meg — ne nagy gesztust, hanem egy valóságosat: szólalj fel egyszer ott, ahol eddig hallgattál.",
-          "en": "Do it — not a grand gesture but a real one: speak up once where you used to stay silent."
+          "en": "Do it — not a grand gesture but a real one: speak up once where you used to stay silent.",
+          "ro": "Fă-o — nu un gest grandios, ci unul real: ia cuvântul o dată acolo unde obișnuiai să taci."
         },
         {
           "hu": "Este jegyezd fel a tettet, és figyeld, mikor válik a régen erőfeszítést igénylő új viselkedés természetessé.",
-          "en": "In the evening record the deed, and notice when the once-effortful new behaviour becomes natural."
+          "en": "In the evening record the deed, and notice when the once-effortful new behaviour becomes natural.",
+          "ro": "Seara notează fapta și observă când noul comportament, odinioară efortuos, devine natural."
         }
       ],
       "keret": {
         "hu": "„A test a pecsét: amit a test megtesz, azt a tudat elhiszi” — ez a szokásépítés józan lélektana, becsületes önformáló gyakorlat, nem varázslat.",
-        "en": "'The body is the seal: what the body does, the mind believes' — this is the sound psychology of habit-building, an honest self-forming practice, not magic."
+        "en": "'The body is the seal: what the body does, the mind believes' — this is the sound psychology of habit-building, an honest self-forming practice, not magic.",
+        "ro": "«Corpul este sigiliul: ce face corpul, mintea crede» — aceasta este psihologia solidă a formării obiceiurilor, o practică onestă de auto-formare, nu magie."
       },
       "sorszam": 6
     },
@@ -265,49 +314,60 @@
       "sik": "szellem",
       "cim": {
         "hu": "Varázslat-készítés hét lépésben",
-        "en": "Spell crafting in seven steps"
+        "en": "Spell crafting in seven steps",
+        "ro": "Crearea vrăjii în șapte pași"
       },
       "cel": {
         "hu": "Egy szándékot strukturált, jelképes teremtő aktusként megkomponálni, majd elengedni — a hangsúly a tiszta megfogalmazáson, az átélt érzelmen és a görcs elengedésén.",
-        "en": "To compose an intention as a structured, symbolic creative act and then release it — the emphasis on clear wording, felt emotion and letting go of the clench."
+        "en": "To compose an intention as a structured, symbolic creative act and then release it — the emphasis on clear wording, felt emotion and letting go of the clench.",
+        "ro": "A compune o intenție ca act creativ structurat, simbolic, și apoi a o elibera — accentul pe formulare clară, emoție simțită și renunțarea la strânsoare."
       },
       "modszer": [
         {
           "hu": "1. Tiszta szándék: fogalmazd meg pontosan, pozitívan, jelen időben — „ez most történik” vagy „…vagyok”. A homályos szándék homályos eredményt szül.",
-          "en": "1. Clear intent: state it precisely, positively, in the present tense — „this is happening now” or „I am…”. Vague intent breeds vague results."
+          "en": "1. Clear intent: state it precisely, positively, in the present tense — „this is happening now” or „I am…”. Vague intent breeds vague results.",
+          "ro": "1. Intenție clară: formuleaz-o precis, pozitiv, la timpul prezent — „asta se întâmplă acum” sau „eu sunt…”. Intenția vagă naște rezultate vagi."
         },
         {
           "hu": "2. Energetikai alap: tisztítsd meg a teret és önmagad — néhány mély lélegzettel, egy Chi-gömbbel, vagy a Lila Lánggal. Tiszta edénybe kerül a mű.",
-          "en": "2. Energetic base: purify the space and yourself — with a few deep breaths, a Chi ball, or the Violet Flame. The work belongs in a clean vessel."
+          "en": "2. Energetic base: purify the space and yourself — with a few deep breaths, a Chi ball, or the Violet Flame. The work belongs in a clean vessel.",
+          "ro": "2. Bază energetică: purifică spațiul și pe tine — cu câteva respirații adânci, o bilă de Chi sau Flacăra Violetă. Lucrarea aparține unui vas curat."
         },
         {
           "hu": "3. Jelképes elemek: válassz neked jelentéssel bíró hordozókat — szín, hang, mozdulat, tárgy, geometria (a piramis-forma rendezett erőt ad).",
-          "en": "3. Symbolic elements: choose carriers that mean something TO YOU — colour, sound, gesture, object, geometry (a pyramid form lends ordered power)."
+          "en": "3. Symbolic elements: choose carriers that mean something TO YOU — colour, sound, gesture, object, geometry (a pyramid form lends ordered power).",
+          "ro": "3. Elemente simbolice: alege purtători care înseamnă ceva PENTRU TINE — culoare, sunet, gest, obiect, geometrie (o formă de piramidă oferă putere ordonată)."
         },
         {
           "hu": "4. Programozás: vidd bele a szándékot az energiába szóval, képpel és átélt érzelemmel — érezd, milyen MÁR megvalósulva. Az érzelem az üzemanyag.",
-          "en": "4. Programming: carry the intent into the energy with word, image and felt emotion — feel it as ALREADY fulfilled. Emotion is the fuel."
+          "en": "4. Programming: carry the intent into the energy with word, image and felt emotion — feel it as ALREADY fulfilled. Emotion is the fuel.",
+          "ro": "4. Programare: du intenția în energie prin cuvânt, imagine și emoție simțită — simte-o ca DEJA împlinită. Emoția este combustibilul."
         },
         {
           "hu": "5. Lezárás és pecsét: zárd le egy határozott aktussal — kimondott mondattal vagy mozdulattal, amely késznek nyilvánítja a művet, a legfőbb jó szerint.",
-          "en": "5. Closing and seal: close with a decisive act — a spoken sentence or gesture that declares the work done, according to the highest good."
+          "en": "5. Closing and seal: close with a decisive act — a spoken sentence or gesture that declares the work done, according to the highest good.",
+          "ro": "5. Închidere și sigiliu: închide cu un act decisiv — o propoziție rostită sau un gest care declară lucrarea încheiată, conform celui mai înalt bine."
         },
         {
           "hu": "6. Engedélyezés: adj magadnak belső engedélyt, hogy a szándék dolgozhasson — enélkül a legszebb szertartás is üres marad.",
-          "en": "6. Permission: give yourself inner permission for the intent to work — without it even the finest ceremony stays empty."
+          "en": "6. Permission: give yourself inner permission for the intent to work — without it even the finest ceremony stays empty.",
+          "ro": "6. Permisiune: dă-ți permisiunea interioară ca intenția să lucreze — fără ea, chiar și cea mai fină ceremonie rămâne goală."
         },
         {
           "hu": "7. Engedés: ne erőltesd, ne ellenőrizgesd, „működik-e már”; kövesd a legnagyobb lelkesedésed, és jegyezd fel a naplódba (szándék, eszközök, pecsét, dátum).",
-          "en": "7. Allowing: do not force it or check „whether it works yet”; follow your highest excitement, and record it in your journal (intent, tools, seal, date)."
+          "en": "7. Allowing: do not force it or check „whether it works yet”; follow your highest excitement, and record it in your journal (intent, tools, seal, date).",
+          "ro": "7. Permitere: nu forța și nu verifica „dacă funcționează deja”; urmează-ți cea mai înaltă entuziasmare și notează în jurnal (intenție, unelte, sigiliu, dată)."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint a „varázslat” a saját figyelmed, érzelmed és cselekvésed rendezett fókuszálása egy célra; eredményét a belső változásban és az életed megfigyelhető alakulásában mérd, ne ígért csodákban.",
-        "en": "According to the tradition the 'spell' is the ordered focusing of your own attention, emotion and action on an aim; measure its result in inner change and your life's observable unfolding, not in promised miracles."
+        "en": "According to the tradition the 'spell' is the ordered focusing of your own attention, emotion and action on an aim; measure its result in inner change and your life's observable unfolding, not in promised miracles.",
+        "ro": "Potrivit tradiției, «vraja» este focalizarea ordonată a propriei tale atenții, emoții și acțiuni asupra unui țel; măsoară-i rezultatul în schimbarea lăuntrică și în desfășurarea observabilă a vieții tale, nu în miracole promise."
       },
       "etika": {
         "hu": "A szándék soha ne mások befolyásolására vagy akaratának felülírására irányuljon — csak a saját életedre és fejlődésedre; tiszteld mindenki szabad akaratát.",
-        "en": "The intention must never aim to influence others or override their will — only your own life and growth; honour everyone's free will."
+        "en": "The intention must never aim to influence others or override their will — only your own life and growth; honour everyone's free will.",
+        "ro": "Intenția nu trebuie niciodată să vizeze influențarea altora sau anularea voinței lor — doar propria ta viață și creștere; onorează liberul arbitru al fiecăruia."
       },
       "sorszam": 7
     },
@@ -319,41 +379,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Lila Láng transzmutáció",
-        "en": "Violet Flame transmutation"
+        "en": "Violet Flame transmutation",
+        "ro": "Transmutarea Flăcării Violete"
       },
       "cel": {
         "hu": "Egy konkrét nehéz érzés vagy régi teher tudatos megnevezése és jelképes „átadása” egy belső lila lángnak, hogy ne elfojtsd, hanem feldolgozva elengedd.",
-        "en": "To consciously name a concrete heavy feeling or old burden and symbolically 'hand it' to an inner violet flame, so that instead of suppressing it you process and release it."
+        "en": "To consciously name a concrete heavy feeling or old burden and symbolically 'hand it' to an inner violet flame, so that instead of suppressing it you process and release it.",
+        "ro": "Să numești conștient un sentiment greu concret sau o povară veche și să o „încredințezi” simbolic unei flăcări violete interioare, astfel încât, în loc să o reprimezi, să o prelucrezi și să o eliberezi."
       },
       "modszer": [
         {
           "hu": "Ülj le nyugodt helyen, és először teremts belső biztonságérzetet: képzelj magad köré egy védő fényoszlopot, amely tetőtől talpig beburkol.",
-          "en": "Sit in a calm place, and first create an inner sense of safety: imagine a protective pillar of light around you, enveloping you head to toe."
+          "en": "Sit in a calm place, and first create an inner sense of safety: imagine a protective pillar of light around you, enveloping you head to toe.",
+          "ro": "Așază-te într-un loc liniștit și creează mai întâi un sentiment interior de siguranță: imaginează-ți un stâlp protector de lumină în jurul tău, care te învăluie din cap până-n picioare."
         },
         {
           "hu": "Nevezd meg pontosan a terhet: „átadom a lángnak a haragomat X helyzet miatt” — a pontosság adja az erőt.",
-          "en": "Name the burden precisely: 'I hand to the flame my anger about situation X' — precision gives it power."
+          "en": "Name the burden precisely: 'I hand to the flame my anger about situation X' — precision gives it power.",
+          "ro": "Numește povara cu precizie: „Încredințez flăcării mânia mea legată de situația X” — precizia îi dă putere."
         },
         {
           "hu": "Lásd magad körül a lila lángoszlopot, és képzeld, ahogy a nehéz energia sötét pelyhekként válik le rólad, a lángban fénnyé lobban és felszáll.",
-          "en": "See the violet pillar of flame around you and imagine the heavy energy peeling off as dark flecks, flaring into light in the flame and rising."
+          "en": "See the violet pillar of flame around you and imagine the heavy energy peeling off as dark flecks, flaring into light in the flame and rising.",
+          "ro": "Vezi stâlpul violet de flacără în jurul tău și imaginează-ți energia grea desprinzându-se ca niște fulgi întunecați, aprinzându-se în lumină în flacără și ridicându-se."
         },
         {
           "hu": "Ha régi emlék merül fel, ne fojtsd el: áraszd el a lánggal, bocsáss meg — magadnak is —, és engedd el.",
-          "en": "If an old memory surfaces, do not suppress it: flood it with the flame, forgive — yourself included — and release it."
+          "en": "If an old memory surfaces, do not suppress it: flood it with the flame, forgive — yourself included — and release it.",
+          "ro": "Dacă iese la suprafață o amintire veche, nu o reprima: inund-o cu flacăra, iartă — inclusiv pe tine — și elibereaz-o."
         },
         {
           "hu": "Zárd hálával, és ha jólesik, terjeszd ki a fényt az otthonodra vagy szeretteidre.",
-          "en": "Close with gratitude, and if it feels right, extend the light to your home or loved ones."
+          "en": "Close with gratitude, and if it feels right, extend the light to your home or loved ones.",
+          "ro": "Încheie cu recunoștință și, dacă ți se pare potrivit, extinde lumina către casa ta sau către cei dragi."
         }
       ],
       "keret": {
         "hu": "A „karma feloldása” a hagyomány saját nyelve; itt egy vizualizációs és megbocsátás-gyakorlatként közelítjük, amelynek gyümölcse a megkönnyebbülés és a belső elengedés érzése.",
-        "en": "'Dissolving karma' is the tradition's own language; here we approach it as a visualization and forgiveness practice whose fruit is a sense of relief and inner release."
+        "en": "'Dissolving karma' is the tradition's own language; here we approach it as a visualization and forgiveness practice whose fruit is a sense of relief and inner release.",
+        "ro": "„Dizolvarea karmei” este limbajul propriu al tradiției; aici o abordăm ca pe o practică de vizualizare și iertare al cărei rod este un sentiment de ușurare și eliberare interioară."
       },
       "etika": {
         "hu": "Ez nem terápia, és nem helyettesíti a szakszerű ellátást; ha a felszínre kerülő anyag túl nehéz, lassíts, és kérj szakmai segítséget. A gyakorlatot csak magadon végezd, mások „megtisztítása” az engedélyük nélkül nem tiszteli a szabad akaratukat.",
-        "en": "This is not therapy and does not replace professional care; if the material that surfaces is too heavy, slow down and seek professional help. Do the practice only on yourself — 'clearing' others without their consent does not honour their free will."
+        "en": "This is not therapy and does not replace professional care; if the material that surfaces is too heavy, slow down and seek professional help. Do the practice only on yourself — 'clearing' others without their consent does not honour their free will.",
+        "ro": "Aceasta nu este terapie și nu înlocuiește îngrijirea profesională; dacă materialul care iese la suprafață este prea greu, încetinește și caută ajutor profesionist. Fă practica doar pe tine — a „curăța” pe alții fără consimțământul lor nu le onorează liberul arbitru."
       },
       "sorszam": 8
     },
@@ -365,37 +434,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "A dekrétum — ritmikus kimondott szó",
-        "en": "The decree — rhythmic spoken word"
+        "en": "The decree — rhythmic spoken word",
+        "ro": "Decretul — cuvântul rostit ritmic"
       },
       "cel": {
         "hu": "Egy rövid, saját megerősítést ritmikusan, egyre gyorsulva kimondani, hogy a figyelem összpontosuljon és a kívánt minőség testi-hangi élménnyé váljon.",
-        "en": "To speak a short, personal affirmation rhythmically and with quickening pace, so that attention gathers and the desired quality becomes a felt, vocal experience."
+        "en": "To speak a short, personal affirmation rhythmically and with quickening pace, so that attention gathers and the desired quality becomes a felt, vocal experience.",
+        "ro": "Să rostești o afirmație scurtă, personală, ritmic și cu un ritm care se accelerează, astfel încât atenția să se adune și calitatea dorită să devină o experiență simțită, vocală."
       },
       "modszer": [
         {
           "hu": "Válassz vagy írj egy rövid, jelen idejű, tiszta képekkel dolgozó megerősítést — néhány sor a szabadságról, tisztaságról, erőről.",
-          "en": "Choose or write a short, present-tense affirmation with clear images — a few lines about freedom, clarity, strength."
+          "en": "Choose or write a short, present-tense affirmation with clear images — a few lines about freedom, clarity, strength.",
+          "ro": "Alege sau scrie o afirmație scurtă, la timpul prezent, cu imagini clare — câteva rânduri despre libertate, claritate, putere."
         },
         {
           "hu": "Mondd ki előbb lassan, minden szót átérezve, hogy a képzeleted lássa, amit a szád kimond.",
-          "en": "Speak it first slowly, feeling every word, so your imagination sees what your mouth says."
+          "en": "Speak it first slowly, feeling every word, so your imagination sees what your mouth says.",
+          "ro": "Roastește-o mai întâi încet, simțind fiecare cuvânt, astfel încât imaginația ta să vadă ce spune gura ta."
         },
         {
           "hu": "Majd fokozatosan gyorsíts, ritmusban — ekkor a szavak már nem gondolatok, hanem hordozóhullám.",
-          "en": "Then gradually quicken, in rhythm — now the words are no longer thoughts but a carrier wave."
+          "en": "Then gradually quicken, in rhythm — now the words are no longer thoughts but a carrier wave.",
+          "ro": "Apoi accelerează treptat, în ritm — acum cuvintele nu mai sunt gânduri, ci o undă purtătoare."
         },
         {
           "hu": "Számold hármasával: 3, 9, akár 36 ismétlés; a számolás maga is a figyelem horgonya.",
-          "en": "Count in threes: 3, 9, even 36 repetitions; the counting itself anchors attention."
+          "en": "Count in threes: 3, 9, even 36 repetitions; the counting itself anchors attention.",
+          "ro": "Numără în multipli de trei: 3, 9, chiar 36 de repetări; numărarea însăși ancorează atenția."
         },
         {
           "hu": "Ha érik benned egy saját dekrétum, írd a naplódba — a saját szavad a legerősebb.",
-          "en": "When a decree of your own ripens in you, write it in your journal — your own word is the strongest."
+          "en": "When a decree of your own ripens in you, write it in your journal — your own word is the strongest.",
+          "ro": "Când un decret al tău se coace în tine, scrie-l în jurnal — cuvântul tău propriu este cel mai puternic."
         }
       ],
       "keret": {
         "hu": "A ritmikus, átélt ismétlés összpontosít és megnyugtat; a szöveg „szentségénél” fontosabb a ritmus, az átélés és a figyelem — a hatását a saját közérzeteden mérd.",
-        "en": "Rhythmic, felt repetition focuses and calms; more than the 'sanctity' of the text, what matters is rhythm, feeling and attention — measure its effect on your own sense of well-being."
+        "en": "Rhythmic, felt repetition focuses and calms; more than the 'sanctity' of the text, what matters is rhythm, feeling and attention — measure its effect on your own sense of well-being.",
+        "ro": "Repetarea ritmică, simțită, focalizează și calmează; mai mult decât „sfințenia” textului, contează ritmul, simțirea și atenția — măsoară-i efectul asupra propriului tău sentiment de bine."
       },
       "sorszam": 9
     },
@@ -407,41 +484,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Fény-meditáció (Jyoti)",
-        "en": "Light meditation (Jyoti)"
+        "en": "Light meditation (Jyoti)",
+        "ro": "Meditația luminii (Jyoti)"
       },
       "cel": {
         "hu": "Egy láng belső képével feltölteni figyelemmel és jóindulattal a tested és a napodat, majd a fényt kiterjeszteni magadon túl a jóakarat gyakorlásaként.",
-        "en": "To fill your body and your day with attention and goodwill using the inner image of a flame, then to extend the light beyond yourself as a practice of goodwill."
+        "en": "To fill your body and your day with attention and goodwill using the inner image of a flame, then to extend the light beyond yourself as a practice of goodwill.",
+        "ro": "Să-ți umpli corpul și ziua cu atenție și bunăvoință folosind imaginea interioară a unei flăcări, apoi să extinzi lumina dincolo de tine ca pe o practică de bunăvoință."
       },
       "modszer": [
         {
           "hu": "Ülj le, és nézz néhány lélegzeten át egy nyugodt lángot — gyertyát vagy belső képet —, hagyd, hogy a szemedben éljen.",
-          "en": "Sit and gaze for a few breaths at a calm flame — a candle or an inner image — and let it live in your eyes."
+          "en": "Sit and gaze for a few breaths at a calm flame — a candle or an inner image — and let it live in your eyes.",
+          "ro": "Așază-te și privește câteva respirații o flacără calmă — o lumânare sau o imagine interioară — și las-o să trăiască în ochii tăi."
         },
         {
           "hu": "Csukott szemmel vidd a lángot a két szemöldököd közé, majd ereszd le a szívedbe, és lásd, ahogy ott ég szelíden.",
-          "en": "With eyes closed bring the flame to the point between your brows, then lower it into your heart, and see it burning gently there."
+          "en": "With eyes closed bring the flame to the point between your brows, then lower it into your heart, and see it burning gently there.",
+          "ro": "Cu ochii închiși adu flacăra în punctul dintre sprâncene, apoi coboar-o în inimă și vezi-o arzând blând acolo."
         },
         {
           "hu": "Vezesd a fényt lassan végig magadon — a kezedbe, hogy jót tegyenek; a szemedbe, hogy a jót lássák; a nyelvedre, hogy igazat és szépet szóljon; az elmédbe, hogy a fényben gondolkodjék.",
-          "en": "Lead the light slowly through yourself — into your hands, that they do good; your eyes, that they see the good; your tongue, that it speak true and kind; your mind, that it think in the light."
+          "en": "Lead the light slowly through yourself — into your hands, that they do good; your eyes, that they see the good; your tongue, that it speak true and kind; your mind, that it think in the light.",
+          "ro": "Condu lumina încet prin tine — în mâinile tale, ca să facă bine; în ochii tăi, ca să vadă binele; pe limba ta, ca să vorbească adevărat și blând; în mintea ta, ca să gândească în lumină."
         },
         {
           "hu": "A szívedből küldd a fényt a szeretteidre, majd azokra is, akikkel nehéz vagy, végül minden lényre — egyetlen fényhálóként.",
-          "en": "From your heart send the light to your loved ones, then to those you struggle with, finally to all beings — as one web of light."
+          "en": "From your heart send the light to your loved ones, then to those you struggle with, finally to all beings — as one web of light.",
+          "ro": "Din inimă trimite lumina celor dragi, apoi celor cu care te lupți, în cele din urmă tuturor ființelor — ca o singură rețea de lumină."
         },
         {
           "hu": "Zárd a szív lángjához visszatérve, és mondd magadban: „A fény bennem van.”",
-          "en": "Close by returning to the flame in the heart and say inwardly: 'The light is in me.'"
+          "en": "Close by returning to the flame in the heart and say inwardly: 'The light is in me.'",
+          "ro": "Încheie revenind la flacăra din inimă și spune în interior: „Lumina este în mine.”"
         }
       ],
       "keret": {
         "hu": "Ez egy szelíd, koncentrációt és együttérzést fejlesztő meditáció; a „fény kiárasztása” belső jóindulat-gyakorlat, amelynek hatását a saját nyugalmadban és emberi kapcsolataidban mérheted.",
-        "en": "This is a gentle meditation cultivating concentration and compassion; 'radiating the light' is an inner goodwill practice whose effect you can measure in your own calm and your relationships."
+        "en": "This is a gentle meditation cultivating concentration and compassion; 'radiating the light' is an inner goodwill practice whose effect you can measure in your own calm and your relationships.",
+        "ro": "Aceasta este o meditație blândă care cultivă concentrarea și compasiunea; „radierea luminii” este o practică interioară de bunăvoință al cărei efect îl poți măsura în propria ta liniște și în relațiile tale."
       },
       "etika": {
         "hu": "Ez nem gyógyítás és nem helyettesíti a szakszerű ellátást. A fény kiárasztása másokra a saját jóindulatod belső gyakorlata: nem küldesz senkire semmit az akarata ellenére, és nem avatkozol be senki testi vagy lelki állapotába — tiszteld mindenki szabad akaratát.",
-        "en": "This is not healing and does not replace professional care. Radiating the light to others is an inner practice of your own goodwill: you send nothing onto anyone against their will and do not intervene in anyone's bodily or mental state — honour everyone's free will."
+        "en": "This is not healing and does not replace professional care. Radiating the light to others is an inner practice of your own goodwill: you send nothing onto anyone against their will and do not intervene in anyone's bodily or mental state — honour everyone's free will.",
+        "ro": "Aceasta nu este vindecare și nu înlocuiește îngrijirea profesională. Radierea luminii către alții este o practică interioară a propriei tale bunăvoințe: nu trimiți nimic asupra nimănui împotriva voinței lor și nu intervii în starea corporală sau mentală a nimănui — onorează liberul arbitru al fiecăruia."
       },
       "sorszam": 10
     },
@@ -453,37 +539,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Széva — önzetlen szolgálat",
-        "en": "Seva — selfless service"
+        "en": "Seva — selfless service",
+        "ro": "Seva — serviciul dezinteresat"
       },
       "cel": {
         "hu": "Rendszeres, csendes, elvárás nélküli szolgálatot beépíteni a hétköznapokba, amely egyszerre gyakorolja az őszinteséget, a helyes cselekvést, a békét és a szeretetet.",
-        "en": "To build regular, quiet, expectation-free service into daily life, which at once exercises honesty, right action, peace and love."
+        "en": "To build regular, quiet, expectation-free service into daily life, which at once exercises honesty, right action, peace and love.",
+        "ro": "Să integrezi în viața de zi cu zi un serviciu regulat, tăcut, fără așteptări, care exersează deodată onestitatea, acțiunea corectă, pacea și iubirea."
       },
       "modszer": [
         {
           "hu": "Válassz egy konkrét, kicsi, tartható heti szolgálat-vállalást a közeledben — egy idős szomszéd, egy fáradt kolléga, egy elhagyott hely.",
-          "en": "Choose one concrete, small, sustainable weekly service commitment near you — an elderly neighbour, a tired colleague, an abandoned place."
+          "en": "Choose one concrete, small, sustainable weekly service commitment near you — an elderly neighbour, a tired colleague, an abandoned place.",
+          "ro": "Alege un angajament concret, mic, sustenabil de serviciu săptămânal aproape de tine — un vecin în vârstă, un coleg obosit, un loc abandonat."
         },
         {
           "hu": "Végezd csendben: ne beszélj róla, ne várj hálát — a tett maga a jutalom.",
-          "en": "Do it in silence: do not talk about it, expect no gratitude — the deed is the reward."
+          "en": "Do it in silence: do not talk about it, expect no gratitude — the deed is the reward.",
+          "ro": "Fă-l în tăcere: nu vorbi despre el, nu aștepta recunoștință — fapta este răsplata."
         },
         {
           "hu": "Szabj plafont egy pazarlásnak — ételben, pénzben, időben —, és amit megtakarítasz, fordítsd a szolgálatra.",
-          "en": "Set a ceiling on one waste — in food, money, time — and turn what you save toward the service."
+          "en": "Set a ceiling on one waste — in food, money, time — and turn what you save toward the service.",
+          "ro": "Stabilește un plafon pentru o risipă — la mâncare, bani, timp — și îndreaptă ce economisești către slujire."
         },
         {
           "hu": "Írd be a vállalást a naplódba, és hetente jegyezd, megtörtént-e — a rendszeresség többet formál, mint egyetlen nagy gesztus.",
-          "en": "Write the commitment in your journal and note weekly whether it happened — regularity shapes more than a single grand gesture."
+          "en": "Write the commitment in your journal and note weekly whether it happened — regularity shapes more than a single grand gesture.",
+          "ro": "Scrie angajamentul în jurnal și notează săptămânal dacă s-a împlinit — regularitatea modelează mai mult decât un singur gest grandios."
         }
       ],
       "keret": {
         "hu": "Ez a hagyomány leggyakorlatiasabb, ellenőrizhető magja: a jóakarat kézzelfogható segítséggé fordítása; a „gyümölcse” a türelmesebb, adakozóbb élet.",
-        "en": "This is the tradition's most practical, verifiable core: turning goodwill into tangible help; its 'fruit' is a more patient, more giving life."
+        "en": "This is the tradition's most practical, verifiable core: turning goodwill into tangible help; its 'fruit' is a more patient, more giving life.",
+        "ro": "Acesta este nucleul cel mai practic și verificabil al tradiției: transformarea bunăvoinței în ajutor concret; „rodul” ei este o viață mai răbdătoare, mai darnică."
       },
       "etika": {
         "hu": "A szolgálat tiszteljen mindenkit: kérdezz rá, mire van valóban szüksége a másiknak, ne kényszeríts rá segítséget, és ne lépd túl a saját határaidat. A jótékonyság nem helyettesíti a szükséghelyzetben lévők szakszerű ellátását.",
-        "en": "Let service respect everyone: ask what the other truly needs, do not force help on anyone, and do not overstep your own limits. Charity does not replace proper professional care for those in real need."
+        "en": "Let service respect everyone: ask what the other truly needs, do not force help on anyone, and do not overstep your own limits. Charity does not replace proper professional care for those in real need.",
+        "ro": "Lasă slujirea să-i respecte pe toți: întreabă ce are nevoie cu adevărat celălalt, nu forța ajutorul asupra nimănui și nu-ți depăși propriile limite. Caritatea nu înlocuiește îngrijirea profesională potrivită pentru cei aflați în nevoie reală."
       },
       "sorszam": 11
     },
@@ -495,33 +589,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "Námaszmarana — a név emlékezete",
-        "en": "Namasmarana — remembrance of the name"
+        "en": "Namasmarana — remembrance of the name",
+        "ro": "Namasmarana — amintirea numelui"
       },
       "cel": {
         "hu": "Egy szent név vagy mantra folytonos, szelíd ismétlésével jó munkát adni a nyugtalan elmének, és napi horgonyt teremteni a csendhez.",
-        "en": "Through the continuous, gentle repetition of a holy name or mantra, to give the restless mind good work and to create a daily anchor for stillness."
+        "en": "Through the continuous, gentle repetition of a holy name or mantra, to give the restless mind good work and to create a daily anchor for stillness.",
+        "ro": "Prin repetarea continuă și blândă a unui nume sfânt sau a unei mantre, să dai minții neliniștite o treabă bună și să creezi o ancoră zilnică pentru liniște."
       },
       "modszer": [
         {
           "hu": "Válassz egy nevet vagy mantrát — bármely, a szívedhez szóló szent szó a saját utadról ugyanúgy megfelel.",
-          "en": "Choose a name or mantra — any sacred word from your own path that speaks to your heart is equally suitable."
+          "en": "Choose a name or mantra — any sacred word from your own path that speaks to your heart is equally suitable.",
+          "ro": "Alege un nume sau o mantră — orice cuvânt sacru din propria ta cale care îți vorbește inimii este la fel de potrivit."
         },
         {
           "hu": "Ülj le, és mondd előbb hangosan, majd suttogva, végül csak belül; a ritmusa kösse a légzésedhez.",
-          "en": "Sit and speak it first aloud, then whispering, finally only within; let its rhythm bind to your breath."
+          "en": "Sit and speak it first aloud, then whispering, finally only within; let its rhythm bind to your breath.",
+          "ro": "Așază-te și rostește-l mai întâi cu voce tare, apoi în șoaptă, în cele din urmă doar înăuntru; lasă ritmul lui să se lege de respirația ta."
         },
         {
           "hu": "Amikor az elme elszökik, ne büntesd magad — a szelíd visszatérés maga a gyakorlat.",
-          "en": "When the mind escapes, do not punish yourself — the gentle returning is itself the practice."
+          "en": "When the mind escapes, do not punish yourself — the gentle returning is itself the practice.",
+          "ro": "Când mintea fuge, nu te pedepsi — întoarcerea blândă este însăși practica."
         },
         {
           "hu": "Napközben horgonyozz: várakozásban, gyaloglás vagy mosogatás közben hívd elő a nevet.",
-          "en": "Anchor during the day: in waiting, in walking or over the dishes, call the name up."
+          "en": "Anchor during the day: in waiting, in walking or over the dishes, call the name up.",
+          "ro": "Ancorează pe parcursul zilei: la așteptare, la mers pe jos sau la spălatul vaselor, cheamă numele."
         }
       ],
       "keret": {
         "hu": "Ez egy egyszerű koncentrációs és megnyugtató gyakorlat, amely minden hagyományban rokon technikákkal bír; nem igényel hitvallást, és a hatását a saját elmecsended jelzi.",
-        "en": "This is a simple concentration and calming practice with kindred techniques in every tradition; it requires no creed, and its effect is shown by your own quieting mind."
+        "en": "This is a simple concentration and calming practice with kindred techniques in every tradition; it requires no creed, and its effect is shown by your own quieting mind.",
+        "ro": "Aceasta este o practică simplă de concentrare și calmare, cu tehnici înrudite în fiecare tradiție; nu cere niciun crez, iar efectul ei se arată prin propria ta minte care se liniștește."
       },
       "sorszam": 12
     },
@@ -533,37 +634,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A fény köszöntése másokban",
-        "en": "Greeting the light in others"
+        "en": "Greeting the light in others",
+        "ro": "Salutarea luminii din ceilalți"
       },
       "cel": {
         "hu": "Napközben minden emberben — a nehéz emberben is — némán köszönteni a benne élő méltóságot, miközben a viselkedését továbbra is józanul megítéled.",
-        "en": "During the day to silently greet the dignity living in every person — even the difficult one — while still judging their behaviour soberly."
+        "en": "During the day to silently greet the dignity living in every person — even the difficult one — while still judging their behaviour soberly.",
+        "ro": "Pe parcursul zilei să saluți în tăcere demnitatea care trăiește în fiecare persoană — chiar și în cea dificilă — judecând totuși sobru comportamentul ei."
       },
       "modszer": [
         {
           "hu": "Amikor valakivel találkozol, tégy egy belső, néma főhajtást a benne élő méltóság vagy „fény” felé.",
-          "en": "When you meet someone, make an inner, silent bow toward the dignity or 'light' living in them."
+          "en": "When you meet someone, make an inner, silent bow toward the dignity or 'light' living in them.",
+          "ro": "Când întâlnești pe cineva, fă o plecăciune interioară, tăcută, către demnitatea sau „lumina” care trăiește în el."
         },
         {
           "hu": "Ezt a bosszantó vagy nehéz emberrel is tedd meg — nem naivitásból, hanem gyakorlásból.",
-          "en": "Do this with the annoying or difficult person too — not from naivety but as practice."
+          "en": "Do this with the annoying or difficult person too — not from naivety but as practice.",
+          "ro": "Fă asta și cu persoana enervantă sau dificilă — nu din naivitate, ci ca practică."
         },
         {
           "hu": "Tartsd külön a lényét és a tettét: a méltóságát köszöntöd, a viselkedését továbbra is a saját mérlegeden méred.",
-          "en": "Keep their being and their deed separate: you greet their dignity while still weighing their behaviour on your own scale."
+          "en": "Keep their being and their deed separate: you greet their dignity while still weighing their behaviour on your own scale.",
+          "ro": "Ține separate ființa și fapta: saluți demnitatea lor cântărind totuși comportamentul pe propriul tău cântar."
         },
         {
           "hu": "Este jegyezd fel, kiben volt ma nehéz köszönteni a fényt, és mit tett ez a napoddal.",
-          "en": "In the evening note in whom it was hard to greet the light today, and what this did to your day."
+          "en": "In the evening note in whom it was hard to greet the light today, and what this did to your day.",
+          "ro": "Seara notează la cine ți-a fost greu să saluți lumina azi și ce ți-a făcut asta zilei."
         }
       ],
       "keret": {
         "hu": "„Mindenkiben ott a fény” a hagyomány hitbeli állítása; gyakorlatként az együttérzés és a méltóság-tudat edzése, amelynek gyümölcse a saját türelmed és kapcsolataid minősége.",
-        "en": "'The light is in everyone' is the tradition's article of faith; as practice it trains compassion and awareness of dignity, whose fruit is your own patience and the quality of your relationships."
+        "en": "'The light is in everyone' is the tradition's article of faith; as practice it trains compassion and awareness of dignity, whose fruit is your own patience and the quality of your relationships.",
+        "ro": "„Lumina este în fiecare” este articolul de credință al tradiției; ca practică antrenează compasiunea și conștientizarea demnității, al căror rod este propria ta răbdare și calitatea relațiilor tale."
       },
       "etika": {
         "hu": "A méltóság köszöntése nem jelenti a bántó viselkedés eltűrését: tartsd meg a határaidat, és védd magad ott, ahol szükséges — a másik szabad akaratának tisztelete a saját biztonságod feladása nélkül érvényes.",
-        "en": "Greeting someone's dignity does not mean tolerating harmful behaviour: keep your boundaries and protect yourself where needed — honouring another's free will holds without surrendering your own safety."
+        "en": "Greeting someone's dignity does not mean tolerating harmful behaviour: keep your boundaries and protect yourself where needed — honouring another's free will holds without surrendering your own safety.",
+        "ro": "Salutarea demnității cuiva nu înseamnă a tolera comportamentul dăunător: păstrează-ți limitele și protejează-te unde e nevoie — onorarea liberului arbitru al altuia se menține fără a renunța la propria ta siguranță."
       },
       "sorszam": 13
     }

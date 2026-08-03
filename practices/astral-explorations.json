@@ -3,7 +3,8 @@
   "id": "practice-pack-astral-explorations",
   "nevek": {
     "hu": "Asztrális felfedezések — gyakorlatok",
-    "en": "Astral explorations — practices"
+    "en": "Astral explorations — practices",
+    "ro": "Explorări astrale — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -16,33 +17,40 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Az átérzett szándék",
-        "en": "The Felt Intention"
+        "en": "The Felt Intention",
+        "ro": "Intenția Simțită"
       },
       "cel": {
         "hu": "A napközbeni szándék-munka megtanulása: a kívánságot gondolatból érzéssé érlelni, hogy elérje a mélyebb rétegeket.",
-        "en": "Learning the daytime work of intention: ripening the wish from a thought into a feeling, so it reaches the deeper layers."
+        "en": "Learning the daytime work of intention: ripening the wish from a thought into a feeling, so it reaches the deeper layers.",
+        "ro": "Înveți lucrul cu intenția pe timpul zilei: coacerea dorinței din gând în sentiment, ca să ajungă la straturile mai adânci."
       },
       "modszer": [
         {
           "hu": "Napközben többször, egy-egy nyugodt pillanatban idézd fel a szándékodat — például: szeretnék találkozni a belső vezetőmmel.",
-          "en": "Several times during the day, in a quiet moment, recall your intention — for example: I wish to meet my inner guide."
+          "en": "Several times during the day, in a quiet moment, recall your intention — for example: I wish to meet my inner guide.",
+          "ro": "De mai multe ori pe zi, într-un moment liniștit, reamintește-ți intenția — de exemplu: Doresc să-mi întâlnesc ghidul interior."
         },
         {
           "hu": "Ne mondd csak fejben: időzz el annál, milyen *érzés* lenne — hol érzed a testedben, milyen a hangulata.",
-          "en": "Do not merely say it in the head: dwell on how it would *feel* — where you sense it in the body, what mood it carries."
+          "en": "Do not merely say it in the head: dwell on how it would *feel* — where you sense it in the body, what mood it carries.",
+          "ro": "Nu o spune doar în minte: zăbovește asupra felului în care s-ar *simți* — unde o simți în corp, ce stare poartă."
         },
         {
           "hu": "Foglald egyetlen rövid, átérzett mondatba, és mondd ki csendben.",
-          "en": "Gather it into one short, felt sentence, and speak it silently."
+          "en": "Gather it into one short, felt sentence, and speak it silently.",
+          "ro": "Adună-o într-o singură propoziție scurtă, simțită, și spune-o în tăcere."
         },
         {
           "hu": "Aztán engedd el. A türelmetlen hajszolás épp azt az ellazult állapotot rombolja, amelyből az élmények születnek.",
-          "en": "Then let it go. Impatient chasing destroys the very relaxed state from which the experiences arise."
+          "en": "Then let it go. Impatient chasing destroys the very relaxed state from which the experiences arise.",
+          "ro": "Apoi las-o să plece. Urmărirea nerăbdătoare distruge tocmai starea relaxată din care se nasc experiențele."
         }
       ],
       "keret": {
         "hu": "A hagyomány modellje szerint a felszínes, fejben mondott kívánság nem ér le a mélyebb rétegekig — az átérzett igen. A gyakorlatot belső gyümölcsei mérik: rendezettebb figyelem, türelmesebb hozzáállás. Semmit sem garantálunk: sem élményt, sem találkozást, sem időpontot.",
-        "en": "In the tradition's own model, a surface wish spoken in the head does not reach the deeper layers — a felt one does. The practice is measured by its inner fruits: more ordered attention, a more patient stance. We guarantee nothing: no experience, no meeting, no timetable."
+        "en": "In the tradition's own model, a surface wish spoken in the head does not reach the deeper layers — a felt one does. The practice is measured by its inner fruits: more ordered attention, a more patient stance. We guarantee nothing: no experience, no meeting, no timetable.",
+        "ro": "În modelul propriu al tradiției, o dorință de suprafață rostită în minte nu ajunge la straturile mai adânci — una simțită da. Practica se măsoară după roadele ei lăuntrice: atenție mai ordonată, o atitudine mai răbdătoare. Nu garantăm nimic: nicio experiență, nicio întâlnire, niciun calendar."
       }
     },
     {
@@ -54,37 +62,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "A csendes napi ritmus",
-        "en": "The Quiet Daily Rhythm"
+        "en": "The Quiet Daily Rhythm",
+        "ro": "Ritmul Zilnic Liniștit"
       },
       "cel": {
         "hu": "A gyakorlat fenntartható napi kerete: reggeli felidézés, rövid meditáció, napközbeni szándék, esti mondat — hősies éjszakai rohamok helyett.",
-        "en": "A sustainable daily frame for the practice: morning recall, short meditation, daytime intention, an evening sentence — instead of heroic night raids."
+        "en": "A sustainable daily frame for the practice: morning recall, short meditation, daytime intention, an evening sentence — instead of heroic night raids.",
+        "ro": "Un cadru zilnic sustenabil pentru practică: reamintire de dimineață, meditație scurtă, intenție pe parcursul zilei, o propoziție de seară — în loc de raiduri eroice de noapte."
       },
       "modszer": [
         {
           "hu": "Reggel: néhány perc mozdulatlan felidézés és napló, majd rövid ülő meditáció — csendes figyelem vagy egyetlen ismételt mondat.",
-          "en": "Morning: a few minutes of motionless recall and journaling, then a short seated meditation — silent attention or a single repeated sentence."
+          "en": "Morning: a few minutes of motionless recall and journaling, then a short seated meditation — silent attention or a single repeated sentence.",
+          "ro": "Dimineața: câteva minute de reamintire nemișcată și jurnal, apoi o scurtă meditație așezată — atenție tăcută sau o singură propoziție repetată."
         },
         {
           "hu": "Ha jólesik, pár perc figyelem-vezette körzés: vezesd a figyelmedet lassan a fejtetőtől a talpadig és vissza, és *érezd*, ne csak képzeld a melegség vándorlását. A légzés közben végig természetes és lágy marad.",
-          "en": "If it feels good, a few minutes of attention-led circulation: lead your attention slowly from the crown to the soles and back, and *feel*, not merely picture, the warmth travelling. The breath stays natural and soft throughout."
+          "en": "If it feels good, a few minutes of attention-led circulation: lead your attention slowly from the crown to the soles and back, and *feel*, not merely picture, the warmth travelling. The breath stays natural and soft throughout.",
+          "ro": "Dacă ți se pare bine, câteva minute de circulație ghidată de atenție: du-ți atenția încet de la creștet până la tălpi și înapoi, și *simte*, nu doar imaginează, căldura care călătorește. Respirația rămâne naturală și blândă pe tot parcursul."
         },
         {
           "hu": "Napközben: egy-egy pillanatnyi átérzett szándék.",
-          "en": "During the day: a moment of felt intention here and there."
+          "en": "During the day: a moment of felt intention here and there.",
+          "ro": "Pe parcursul zilei: un moment de intenție simțită ici și colo."
         },
         {
           "hu": "Este: a csendes mondat — „emlékezni fogok” — és alvás. A hosszabb küszöbgyakorlatokat hetente néhányszor, kipihent napokon iktasd be.",
-          "en": "Evening: the quiet sentence — „I will remember” — and sleep. Schedule the longer threshold practices a few times a week, on rested days."
+          "en": "Evening: the quiet sentence — „I will remember” — and sleep. Schedule the longer threshold practices a few times a week, on rested days.",
+          "ro": "Seara: propoziția liniștită — „Îmi voi aminti” — și somnul. Programează practicile mai lungi de prag de câteva ori pe săptămână, în zile odihnite."
         }
       ],
       "keret": {
         "hu": "A rendszeresség itt úgy működik, mint a testedzésben: sok kis alkalom heteken át többet ér, mint ritka nagy nekifutások. A haladást a gyümölcsök mérik — felidézés, nyugalom, pihentség —, nem az élmények száma.",
-        "en": "Regularity works here as in physical training: many small sessions across weeks outweigh rare grand attempts. Progress is measured by fruits — recall, calm, restfulness — not by the count of experiences."
+        "en": "Regularity works here as in physical training: many small sessions across weeks outweigh rare grand attempts. Progress is measured by fruits — recall, calm, restfulness — not by the count of experiences.",
+        "ro": "Regularitatea funcționează aici ca la antrenamentul fizic: multe sesiuni mici de-a lungul săptămânilor cântăresc mai mult decât rarele încercări grandioase. Progresul se măsoară după roade — reamintire, calm, odihnă — nu după numărul experiențelor."
       },
       "etika": {
         "hu": "Az egészséges alvás mindig előbbre való a gyakorlatnál — ez nem áhítat kérdése, hanem józanságé. A légzés soha nem erőltetett; ha szédülnél, hagyd abba, és lélegezz természetesen. Ez a gyakorlat nem orvosi tanács.",
-        "en": "Healthy sleep always outranks the practice — this is not a matter of devotion but of sober sense. The breath is never forced; if you feel dizzy, stop and breathe naturally. This practice is not medical advice."
+        "en": "Healthy sleep always outranks the practice — this is not a matter of devotion but of sober sense. The breath is never forced; if you feel dizzy, stop and breathe naturally. This practice is not medical advice.",
+        "ro": "Somnul sănătos are întotdeauna prioritate față de practică — nu e o chestiune de devotament, ci de bun-simț treaz. Respirația nu e niciodată forțată; dacă te simți amețit, oprește-te și respiră natural. Această practică nu este sfat medical."
       }
     },
     {
@@ -96,37 +112,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Reggeli megerősítések — a hajnali önhangolás",
-        "en": "Morning Affirmations — Dawn Self-Tuning"
+        "en": "Morning Affirmations — Dawn Self-Tuning",
+        "ro": "Afirmații de Dimineață — Acordajul de Zori"
       },
       "cel": {
         "hu": "A reggeli önszuggesztió gyakorlata: az álmos, félig-éber állapotban nyugodt, bátorító mondatokkal enyhíteni a negatív önbeszédet. Gyümölcse a szelídebb belső hang és a kitartóbb kedv.",
-        "en": "The morning autosuggestion practice: in the drowsy, half-waking state, easing negative self-talk with calm, encouraging sentences. Its fruit is a kinder inner tone and steadier motivation."
+        "en": "The morning autosuggestion practice: in the drowsy, half-waking state, easing negative self-talk with calm, encouraging sentences. Its fruit is a kinder inner tone and steadier motivation.",
+        "ro": "Practica de autosugestie de dimineață: în starea somnoroasă, pe jumătate trează, potolești vorbirea de sine negativă cu propoziții calme, încurajatoare. Rodul ei este un ton interior mai blând și o motivație mai stabilă."
       },
       "modszer": [
         {
           "hu": "Reggel, közvetlenül ébredés után, még az álmos, befogadó állapotban maradj fekve, csukott szemmel.",
-          "en": "In the morning, just after waking, stay lying with eyes closed in the drowsy, receptive state."
+          "en": "In the morning, just after waking, stay lying with eyes closed in the drowsy, receptive state.",
+          "ro": "Dimineața, imediat după trezire, rămâi întins cu ochii închiși în starea somnoroasă, receptivă."
         },
         {
           "hu": "Mondj el magadnak lassan néhány rövid, jelen idejű, bátorító mondatot — például: nyugodt vagyok, türelmes vagyok, örömmel gyakorlok —, és próbáld át is érezni őket.",
-          "en": "Slowly say to yourself a few short, present-tense, encouraging sentences — for example: I am calm, I am patient, I practise with joy — and try to feel them too."
+          "en": "Slowly say to yourself a few short, present-tense, encouraging sentences — for example: I am calm, I am patient, I practise with joy — and try to feel them too.",
+          "ro": "Spune-ți încet câteva propoziții scurte, la timpul prezent, încurajatoare — de exemplu: Sunt calm, sunt răbdător, practic cu bucurie — și încearcă să le și simți."
         },
         {
           "hu": "Tartsd a mondatokat egyszerűnek és őszintének: olyat mondj, amit el tudsz fogadni, ne túlzó ígéretet.",
-          "en": "Keep the sentences simple and honest: say what you can accept, not an inflated promise."
+          "en": "Keep the sentences simple and honest: say what you can accept, not an inflated promise.",
+          "ro": "Ține propozițiile simple și sincere: spune ce poți accepta, nu o promisiune umflată."
         },
         {
           "hu": "Zárd egy hálamondattal, és kelj fel. Néhány percnél ne legyen több.",
-          "en": "Close with a sentence of gratitude, and get up. Let it be no more than a few minutes."
+          "en": "Close with a sentence of gratitude, and get up. Let it be no more than a few minutes.",
+          "ro": "Încheie cu o propoziție de recunoștință și scoală-te. Să nu dureze mai mult de câteva minute."
         }
       ],
       "keret": {
         "hu": "A becsületes lencse egyszerű: ez önszuggesztió és önbeszéd-higiénia — nem a világegyetemet utasítod és nem ígérsz kimenetelt, hanem a saját belső hangod tónusát hangolod szelídebbre a befogadó reggeli állapotban. A gyümölcse mérhető: nyugodtabb kedély, kevesebb önostorozás. Bármely megerősítés állítása a te választott szándékod, nem tény a világról.",
-        "en": "The honest lens is simple: this is autosuggestion and self-talk hygiene — you are not commanding the universe or promising an outcome, but tuning the tone of your own inner voice in the receptive morning state. Its fruit is measurable: calmer mood, less self-flagellation. Any affirmation's claim is your chosen intention, not a fact about the world."
+        "en": "The honest lens is simple: this is autosuggestion and self-talk hygiene — you are not commanding the universe or promising an outcome, but tuning the tone of your own inner voice in the receptive morning state. Its fruit is measurable: calmer mood, less self-flagellation. Any affirmation's claim is your chosen intention, not a fact about the world.",
+        "ro": "Lentila onestă e simplă: aceasta este autosugestie și igiena vorbirii de sine — nu comanzi universul și nu promiți un rezultat, ci acordezi tonul propriei tale voci interioare în starea receptivă de dimineață. Rodul ei e măsurabil: dispoziție mai calmă, mai puțină autoflagelare. Pretenția oricărei afirmații este intenția ta aleasă, nu un fapt despre lume."
       },
       "etika": {
         "hu": "A gyakorlat önmagadra irányul: ne fogalmazz megerősítést biztos jóslatként a jövőről vagy más emberekről. Nem orvosi vagy pszichológiai kezelés; ha a kemény önbeszéd elsöprő, fordulj emberi támaszhoz.",
-        "en": "The practice is self-directed: do not phrase affirmations as certain predictions about the future or about other people. Not medical or psychological treatment; if harsh self-talk is overwhelming, seek human support."
+        "en": "The practice is self-directed: do not phrase affirmations as certain predictions about the future or about other people. Not medical or psychological treatment; if harsh self-talk is overwhelming, seek human support.",
+        "ro": "Practica e autodirijată: nu formula afirmațiile ca predicții sigure despre viitor sau despre alți oameni. Nu este tratament medical sau psihologic; dacă vorbirea de sine aspră te copleșește, caută sprijin omenesc."
       }
     },
     {
@@ -138,37 +162,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "Csendes ülő meditáció",
-        "en": "Silent Seated Meditation"
+        "en": "Silent Seated Meditation",
+        "ro": "Meditație Așezată în Tăcere"
       },
       "cel": {
         "hu": "A befelé figyelés edzése: a képesség, hogy a figyelmet a légzésen pihentesd és jelen maradj — az az edzőterem, amelyet a későbbi gyakorlatok igényelnek.",
-        "en": "Training inward attention: the ability to rest attention on the breath and stay present — the gym for the concentration the later practices need."
+        "en": "Training inward attention: the ability to rest attention on the breath and stay present — the gym for the concentration the later practices need.",
+        "ro": "Antrenarea atenției lăuntrice: capacitatea de a odihni atenția pe respirație și de a rămâne prezent — sala de sport pentru concentrarea de care au nevoie practicile ulterioare."
       },
       "modszer": [
         {
           "hu": "Ülj kényelmesen, csukd be a szemed, és néhány lélegzettel engedd a figyelmed befelé fordulni.",
-          "en": "Sit comfortably, close your eyes, and with a few breaths let your attention turn inward."
+          "en": "Sit comfortably, close your eyes, and with a few breaths let your attention turn inward.",
+          "ro": "Așază-te confortabil, închide ochii și, cu câteva respirații, lasă-ți atenția să se întoarcă înăuntru."
         },
         {
           "hu": "Helyezd a figyelmedet a légzésedre — az orrnál vagy a hasnál érzett mozgásra —, és hagyd a lélegzést természetesen jönni-menni.",
-          "en": "Place your attention on your breath — the movement at the nose or the belly — and let the breathing come and go naturally."
+          "en": "Place your attention on your breath — the movement at the nose or the belly — and let the breathing come and go naturally.",
+          "ro": "Pune-ți atenția pe respirație — mișcarea de la nas sau de la burtă — și lasă respirația să vină și să plece natural."
         },
         {
           "hu": "Amikor a figyelmed elkalandozik (mert el fog), vedd észre ítélkezés nélkül, és vezesd vissza gyengéden a légzéshez. Ez a visszavezetés maga a gyakorlat.",
-          "en": "When your attention wanders (it will), notice it without judgment and lead it gently back to the breath. This returning is the whole exercise."
+          "en": "When your attention wanders (it will), notice it without judgment and lead it gently back to the breath. This returning is the whole exercise.",
+          "ro": "Când atenția ți se rătăcește (se va rătăci), observ-o fără judecată și adu-o blând înapoi la respirație. Această întoarcere este tot exercițiul."
         },
         {
           "hu": "Kezdd öt-tíz perccel, és növeld, ha jólesik. A végén ülj még egy pillanatot, mielőtt kinyitod a szemed.",
-          "en": "Begin with five to ten minutes, and lengthen it if it feels good. At the end sit a moment more before opening your eyes."
+          "en": "Begin with five to ten minutes, and lengthen it if it feels good. At the end sit a moment more before opening your eyes.",
+          "ro": "Începe cu cinci până la zece minute și prelungește dacă ți se pare bine. La final stai încă un moment înainte de a deschide ochii."
         }
       ],
       "keret": {
         "hu": "A gyümölcseivel mérjük — nyugodtabb figyelem, csendesebb idegrendszer, könnyebb befelé fordulás. Az elkalandozás nem kudarc; az észrevétel és a visszatérés a teljes gyakorlat. Semmilyen különleges állapotot nem ígérünk.",
-        "en": "Measured by fruits — steadier attention, a calmer nervous system, greater ease at turning inward. Wandering is not failure; noticing and returning is the whole practice. No special state is promised."
+        "en": "Measured by fruits — steadier attention, a calmer nervous system, greater ease at turning inward. Wandering is not failure; noticing and returning is the whole practice. No special state is promised.",
+        "ro": "Măsurat după roade — atenție mai stabilă, un sistem nervos mai calm, mai multă ușurință în a te întoarce spre interior. Rătăcirea nu e eșec; a observa și a te întoarce e întreaga practică. Nu se promite nicio stare specială."
       },
       "etika": {
         "hu": "Ez nem a szorongás vagy a trauma kezelése; ha az ülés nyugtalanságot kavar, tartsd rövidre, vagy fordulj emberi támaszhoz. Nem orvosi tanács.",
-        "en": "This is not a treatment for anxiety or trauma; if sitting stirs distress, keep it short or seek human support. Not medical advice."
+        "en": "This is not a treatment for anxiety or trauma; if sitting stirs distress, keep it short or seek human support. Not medical advice.",
+        "ro": "Aceasta nu e un tratament pentru anxietate sau traumă; dacă șederea stârnește suferință, ține-o scurtă sau caută sprijin omenesc. Nu e sfat medical."
       }
     },
     {
@@ -180,37 +212,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Mantrás meditáció — egyetlen ismételt szó",
-        "en": "Mantra Meditation — a Single Repeated Word"
+        "en": "Mantra Meditation — a Single Repeated Word",
+        "ro": "Meditația cu Mantră — un Singur Cuvânt Repetat"
       },
       "cel": {
         "hu": "A figyelem alternatív horgonya: egyetlen, lágyan ismételt szón vagy semleges szótagon pihentetni a figyelmet, hogy egypontú befelé figyelést eddz.",
-        "en": "An alternative anchor for attention: resting attention on one gently repeated word or neutral syllable, to train single-pointed inward focus."
+        "en": "An alternative anchor for attention: resting attention on one gently repeated word or neutral syllable, to train single-pointed inward focus.",
+        "ro": "O ancoră alternativă pentru atenție: a odihni atenția pe un cuvânt sau o silabă neutră repetată blând, ca să antrenezi concentrarea unică îndreptată spre interior."
       },
       "modszer": [
         {
           "hu": "Válassz egy egyszerű, semleges szót vagy szótagot, amelynek nincs erős jelentése számodra — vagy egy rövid, kedves mondatot.",
-          "en": "Choose a simple, neutral word or syllable with no strong meaning for you — or a short, kind sentence."
+          "en": "Choose a simple, neutral word or syllable with no strong meaning for you — or a short, kind sentence.",
+          "ro": "Alege un cuvânt sau o silabă simplă, neutră, fără un înțeles puternic pentru tine — sau o propoziție scurtă și blândă."
         },
         {
           "hu": "Ülj kényelmesen, csukott szemmel, és ismételd a szót lassan, hangtalanul, a légzés ritmusához igazítva vagy szabadon.",
-          "en": "Sit comfortably, eyes closed, and repeat the word slowly and silently, tied to the rhythm of the breath or freely."
+          "en": "Sit comfortably, eyes closed, and repeat the word slowly and silently, tied to the rhythm of the breath or freely.",
+          "ro": "Stai confortabil, cu ochii închiși, și repetă cuvântul încet și în tăcere, legat de ritmul respirației sau liber."
         },
         {
           "hu": "Ha gondolat vonja el a figyelmed, térj vissza szelíden a szóhoz. Ne erőltesd, ne mondd feszülten — hagyd, hogy szinte magától ismétlődjön.",
-          "en": "If a thought pulls you away, return gently to the word. Do not force it, do not say it tensely — let it repeat almost by itself."
+          "en": "If a thought pulls you away, return gently to the word. Do not force it, do not say it tensely — let it repeat almost by itself.",
+          "ro": "Dacă un gând te trage departe, întoarce-te blând la cuvânt. Nu-l forța, nu-l spune tensionat — lasă-l să se repete aproape de la sine."
         },
         {
           "hu": "Öt-tizenöt perc elég. A mantrát bármikor lecserélheted, ha egy másik jobban megnyugtat.",
-          "en": "Five to fifteen minutes is enough. You may swap the mantra anytime if another settles you better."
+          "en": "Five to fifteen minutes is enough. You may swap the mantra anytime if another settles you better.",
+          "ro": "Cinci până la cincisprezece minute sunt de ajuns. Poți schimba mantra oricând dacă alta te așază mai bine."
         }
       ],
       "keret": {
         "hu": "Ez összpontosítás-edzés, nem varázsszó — a lényeg a visszatérés, nem a szótag ereje. Gyümölcse a nyugodtabb, összeszedettebb figyelem. Válaszd bármelyik szót, amely megnyugtat; nincs helyes vagy helytelen.",
-        "en": "This is concentration training, not a magic word — the point is the returning, not the syllable's power. Its fruit is calmer, more collected attention. Choose whatever word settles you; there is no right or wrong one."
+        "en": "This is concentration training, not a magic word — the point is the returning, not the syllable's power. Its fruit is calmer, more collected attention. Choose whatever word settles you; there is no right or wrong one.",
+        "ro": "Aceasta e antrenament de concentrare, nu un cuvânt magic — esența e întoarcerea, nu puterea silabei. Rodul ei e o atenție mai calmă, mai adunată. Alege orice cuvânt te așază; nu există unul corect sau greșit."
       },
       "etika": {
         "hu": "Összpontosítás-edzés; ha az ismételgetés nyugtalanságot kavar, tartsd rövidre, vagy fordulj emberi támaszhoz. Nem a szorongás vagy a trauma kezelése, és nem orvosi tanács.",
-        "en": "Concentration training; if the repetition stirs restlessness, keep it short or seek human support. Not a treatment for anxiety or trauma, and not medical advice."
+        "en": "Concentration training; if the repetition stirs restlessness, keep it short or seek human support. Not a treatment for anxiety or trauma, and not medical advice.",
+        "ro": "Antrenament de concentrare; dacă repetarea stârnește neliniște, ține-o scurtă sau caută sprijin omenesc. Nu e tratament pentru anxietate sau traumă, și nu e sfat medical."
       }
     },
     {
@@ -222,37 +262,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Az energiakör — figyelem-vezette keringetés",
-        "en": "The Energy Circuit — Attention-Led Circulation"
+        "en": "The Energy Circuit — Attention-Led Circulation",
+        "ro": "Circuitul de Energie — Circulație Condusă de Atenție"
       },
       "cel": {
         "hu": "A hagyomány energetikai bemelegítése: a figyelmet (átérezve, nem csak elképzelve) a fejtetőtől a talpakig és vissza vezetni, majd körben keringetni — hogy éberebbnek és tisztábbnak érezd magad a gyakorlás előtt.",
-        "en": "The tradition's energy warm-up: leading attention (felt, not merely pictured) from crown to soles and back, then circulating it around the body — to feel more awake and clear before practice."
+        "en": "The tradition's energy warm-up: leading attention (felt, not merely pictured) from crown to soles and back, then circulating it around the body — to feel more awake and clear before practice.",
+        "ro": "Încălzirea energetică a tradiției: a conduce atenția (simțită, nu doar imaginată) de la creștet la tălpi și înapoi, apoi a o circula în jurul corpului — ca să te simți mai treaz și mai limpede înainte de practică."
       },
       "modszer": [
         {
           "hu": "Ülj vagy feküdj kényelmesen, csukott szemmel, természetes, lágy légzéssel.",
-          "en": "Sit or lie comfortably, eyes closed, with a natural, soft breath."
+          "en": "Sit or lie comfortably, eyes closed, with a natural, soft breath.",
+          "ro": "Stai sau întinde-te confortabil, cu ochii închiși, cu o respirație naturală, blândă."
         },
         {
           "hu": "Vezesd a figyelmedet a fejtetőre, és képzeld-érezd, ahogy fentről meleg, eleven áramlás lép be; belégzéssel indítsd, kilégzéssel vezesd le lassan a törzsön át a talpakig. Ismételd ötször.",
-          "en": "Lead your attention to the crown, and picture-and-feel a warm, living flow entering from above; begin on the in-breath and, on the out-breath, lead it slowly down through the torso to the soles. Repeat five times."
+          "en": "Lead your attention to the crown, and picture-and-feel a warm, living flow entering from above; begin on the in-breath and, on the out-breath, lead it slowly down through the torso to the soles. Repeat five times.",
+          "ro": "Condu-ți atenția la creștet și imaginează-și-simte un flux cald, viu care intră de sus; începe pe inspirație și, pe expirație, conduce-l încet în jos prin trunchi până la tălpi. Repetă de cinci ori."
         },
         {
           "hu": "Fordítsd meg: a talpaktól vezesd a figyelmet fölfelé a fejtetőig, majd hagyd, hogy körben, a test körül keringjen vissza a talpakhoz — és ismét fel. Keringesd néhányszor, a légzéssel összehangolva.",
-          "en": "Reverse it: lead attention from the soles up to the crown, then let it circle around the body back to the soles — and up again. Circulate a few times, in tune with the breath."
+          "en": "Reverse it: lead attention from the soles up to the crown, then let it circle around the body back to the soles — and up again. Circulate a few times, in tune with the breath.",
+          "ro": "Inversează: condu atenția de la tălpi în sus până la creștet, apoi las-o să circule în jurul corpului înapoi la tălpi — și iar în sus. Circulă de câteva ori, în ritmul respirației."
         },
         {
           "hu": "A hangsúly az érzésen van, nem a képen: ahová a figyelmet helyezed, oda gyűlik az elevenség. A végén állj meg, és pihenj egy kicsit.",
-          "en": "The emphasis is on the feeling, not the picture: wherever you place attention, the aliveness gathers. At the end stop, and rest a little."
+          "en": "The emphasis is on the feeling, not the picture: wherever you place attention, the aliveness gathers. At the end stop, and rest a little.",
+          "ro": "Accentul e pe simțire, nu pe imagine: oriunde pui atenția, se adună vivacitatea. La final oprește-te și odihnește-te puțin."
         }
       ],
       "keret": {
         "hu": "A hagyomány ezt az „energiatest” feltöltésének nevezi; a becsületes párhuzamos lencse egy fókuszált testpásztázást lát, amely ellazít és felélénkíti a figyelmet. Így vagy úgy, átérzett gyümölcseivel mérjük — éberség, melegség, tisztább befelé figyelés —, sosem állítjuk valódi energiaátadásnak vagy egészségi hatásnak.",
-        "en": "The tradition calls this charging the „energy body”; the honest parallel lens sees a focused body-scan that relaxes and enlivens attention. Either way it is measured by felt fruits — wakefulness, warmth, clearer inward focus — never asserted as literal energy transfer or a health effect."
+        "en": "The tradition calls this charging the „energy body”; the honest parallel lens sees a focused body-scan that relaxes and enlivens attention. Either way it is measured by felt fruits — wakefulness, warmth, clearer inward focus — never asserted as literal energy transfer or a health effect.",
+        "ro": "Tradiția numește asta încărcarea „corpului energetic”; privirea paralelă onestă vede o scanare corporală concentrată care relaxează și însuflețește atenția. Oricum ar fi, se măsoară după roadele simțite — trezie, căldură, un focus interior mai limpede — niciodată afirmată ca transfer literal de energie sau ca efect asupra sănătății."
       },
       "etika": {
         "hu": "A légzést soha ne erőltesd; ha szédülnél vagy elhomályosodna a fejed, állj meg, és lélegezz természetesen. Nem orvosi kezelés, és nem teszünk egészségi ígéretet. Ne az alvás rovására végezd.",
-        "en": "Never force the breath; if you feel dizzy or lightheaded, stop and breathe naturally. Not a medical treatment, and we make no health claim. Do not practise at the cost of sleep."
+        "en": "Never force the breath; if you feel dizzy or lightheaded, stop and breathe naturally. Not a medical treatment, and we make no health claim. Do not practise at the cost of sleep.",
+        "ro": "Nu forța niciodată respirația; dacă te simți amețit sau cu capul ușor, oprește-te și respiră natural. Nu e un tratament medical, și nu facem nicio pretenție de sănătate. Nu practica pe seama somnului."
       }
     },
     {
@@ -264,33 +312,40 @@
       "elem": "Viz",
       "cim": {
         "hu": "A gyakorlás öröméért — a kimeneteltől való függetlenség",
-        "en": "For the Sake of the Sitting Itself — Independence from the Result"
+        "en": "For the Sake of the Sitting Itself — Independence from the Result",
+        "ro": "De Dragul Șederii Înseși — Independența față de Rezultat"
       },
       "cel": {
         "hu": "A kitartás szívében álló szemléleti gyakorlat: magának az ülésnek a nyugalmát élvezni, nem az eredményt hajszolni, hogy a frusztráció ne mérgezze meg épp azt az állapotot, amelyre a gyakorlatnak szüksége van.",
-        "en": "The mindset practice at the heart of persistence: enjoying the calm of the sitting itself rather than chasing a result, so frustration does not poison the very state the practice needs."
+        "en": "The mindset practice at the heart of persistence: enjoying the calm of the sitting itself rather than chasing a result, so frustration does not poison the very state the practice needs.",
+        "ro": "Practica de atitudine din inima perseverenței: a te bucura de calmul șederii înseși mai degrabă decât a urmări un rezultat, ca frustrarea să nu otrăvească tocmai starea de care practica are nevoie."
       },
       "modszer": [
         {
           "hu": "Minden gyakorlás elején tedd fel magadnak: ma nem eredményt akarok, hanem élvezni ezt a nyugodt, ellazult félórát.",
-          "en": "At the start of each practice, set this: today I want no result, only to enjoy this calm, relaxed half-hour."
+          "en": "At the start of each practice, set this: today I want no result, only to enjoy this calm, relaxed half-hour.",
+          "ro": "La începutul fiecărei practici, stabilește asta: azi nu vreau niciun rezultat, doar să mă bucur de această jumătate de oră calmă, relaxată."
         },
         {
           "hu": "Vedd észre, ha türelmetlenség vagy önostorozás jelenik meg — „miért nem sikerül már” —, és fordítsd figyelmed vissza a jelen kellemességére.",
-          "en": "Notice if impatience or self-flagellation arises — „why isn't it working yet” — and turn your attention back to the pleasantness of the present."
+          "en": "Notice if impatience or self-flagellation arises — „why isn't it working yet” — and turn your attention back to the pleasantness of the present.",
+          "ro": "Observă dacă apare nerăbdarea sau autoflagelarea — „de ce nu funcționează încă” — și întoarce-ți atenția înapoi la plăcerea prezentului."
         },
         {
           "hu": "Ha erős a frusztráció, hagyd abba mára: nyugtalan, megkeményedett elmével úgysem megy, és a szünet is a gyakorlás része.",
-          "en": "If frustration is strong, stop for today: it will not work with a restless, tightened mind, and the break is part of the practice too."
+          "en": "If frustration is strong, stop for today: it will not work with a restless, tightened mind, and the break is part of the practice too.",
+          "ro": "Dacă frustrarea e puternică, oprește-te pe azi: nu va funcționa cu o minte neliniștită, încordată, iar pauza face parte din practică și ea."
         },
         {
           "hu": "Emlékeztesd magad, hogy a haladás gyakran láthatatlan, és hetek alatt gyűlik — a kudarcnak érzett ülés is épít.",
-          "en": "Remind yourself that progress is often invisible and accrues over weeks — even a sitting that felt like a failure builds."
+          "en": "Remind yourself that progress is often invisible and accrues over weeks — even a sitting that felt like a failure builds.",
+          "ro": "Amintește-ți că progresul e adesea invizibil și se adună pe parcursul săptămânilor — chiar și o ședere care a părut un eșec construiește."
         }
       ],
       "keret": {
         "hu": "A gyümölcseivel mérjük — türelem, könnyebb kedély, tovább fenntartott gyakorlás. Épp az teszi elérhetetlenné az ellazult állapotot, ha minden sikertelen ülést kudarcnak bélyegzel; ha nyugodt, kedvelt szokásként kezeled, az maga a készség. Sem menetrendet, sem eredményt nem ígérünk.",
-        "en": "Measured by fruits — patience, a lighter mood, longer-sustained practice. Branding every unsuccessful sitting a failure is exactly what makes the relaxed state unreachable; treating it as a calm, cherished routine is the skill itself. We promise neither timetable nor result."
+        "en": "Measured by fruits — patience, a lighter mood, longer-sustained practice. Branding every unsuccessful sitting a failure is exactly what makes the relaxed state unreachable; treating it as a calm, cherished routine is the skill itself. We promise neither timetable nor result.",
+        "ro": "Măsurat după roade — răbdare, o dispoziție mai ușoară, practică susținută mai mult timp. A eticheta fiecare ședere nereușită ca eșec e exact ce face starea relaxată de neatins; a o trata ca pe o rutină calmă, prețuită e însăși priceperea. Nu promitem nici calendar, nici rezultat."
       }
     },
     {
@@ -302,33 +357,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "A miért naplója — a motiváció horgonya",
-        "en": "The Journal of Why — Anchoring Motivation"
+        "en": "The Journal of Why — Anchoring Motivation",
+        "ro": "Jurnalul De Ce-ului — Ancorarea Motivației"
       },
       "cel": {
         "hu": "Leírni, miért éri meg neked ez a gyakorlat, hogy amikor a hétköznapi élet elvon, egy tiszta, újraolvasható indok tartsa a gyakorlatot, mielőtt csendben eltűnne.",
-        "en": "Writing down why this practice is worth your time, so that when physical life distracts you, a clear, revisitable reason keeps the practice from quietly disappearing."
+        "en": "Writing down why this practice is worth your time, so that when physical life distracts you, a clear, revisitable reason keeps the practice from quietly disappearing.",
+        "ro": "A scrie de ce merită această practică timpul tău, astfel încât când viața fizică te distrage, un motiv clar, la care poți reveni, împiedică practica să dispară pe tăcute."
       },
       "modszer": [
         {
           "hu": "Ülj le a naplóddal, és írd le őszintén: miért vonz ez a gyakorlat, mit remélsz tőle, mitől érné meg.",
-          "en": "Sit down with your journal and write honestly: why this practice draws you, what you hope from it, what would make it worthwhile."
+          "en": "Sit down with your journal and write honestly: why this practice draws you, what you hope from it, what would make it worthwhile.",
+          "ro": "Așază-te cu jurnalul și scrie sincer: de ce te atrage această practică, ce speri de la ea, ce ar face-o merituoasă."
         },
         {
           "hu": "Fogalmazd meg a saját szavaiddal, konkrétan; kerüld a mások által sugallt nagy szólamokat.",
-          "en": "Put it in your own words, concretely; avoid the grand phrases suggested by others."
+          "en": "Put it in your own words, concretely; avoid the grand phrases suggested by others.",
+          "ro": "Pune-o în cuvintele tale, concret; evită frazele grandioase sugerate de alții."
         },
         {
           "hu": "Tedd oda, ahol újra elolvashatod, és lankadó lelkesedéskor térj vissza hozzá.",
-          "en": "Place it where you can reread it, and return to it when enthusiasm flags."
+          "en": "Place it where you can reread it, and return to it when enthusiasm flags.",
+          "ro": "Pune-l unde poți să-l recitești, și revino la el când entuziasmul scade."
         },
         {
           "hu": "Időnként frissítsd: a miértjeid változhatnak, ahogy te is változol.",
-          "en": "Update it now and then: your reasons may change as you change."
+          "en": "Update it now and then: your reasons may change as you change.",
+          "ro": "Actualizează-l din când în când: motivele tale se pot schimba pe măsură ce te schimbi tu."
         }
       ],
       "keret": {
         "hu": "Ez egyszerű motivációs naplózás — azzal mérjük, segít-e egyenletes ritmust tartani. Élményről semmit sem ígér; csak megóvja a gyakorlatot az elhanyagolástól.",
-        "en": "This is simple motivational journaling — measured by whether it helps you keep a steady rhythm. It promises nothing about experiences; it only guards the practice from neglect."
+        "en": "This is simple motivational journaling — measured by whether it helps you keep a steady rhythm. It promises nothing about experiences; it only guards the practice from neglect.",
+        "ro": "Aceasta e o simplă jurnalizare motivațională — măsurată după cât te ajută să menții un ritm constant. Nu promite nimic despre experiențe; doar apără practica de neglijare."
       }
     },
     {
@@ -340,33 +402,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Nyitott, kételkedő olvasás",
-        "en": "Open, Skeptical Reading"
+        "en": "Open, Skeptical Reading",
+        "ro": "Lectură deschisă și sceptică"
       },
       "cel": {
         "hu": "Mások leírásaiból inspirációt meríteni, tiszta fejjel: érdeklődve, mégis óvatosan olvasni a témáról, tudva, hogy a leírások gyakran feszülnek egymásnak, és megalapozott bizonyíték alig akad.",
-        "en": "Drawing inspiration from others' write-ups while keeping a clear head: reading the topic with curiosity yet caution, aware that accounts often pull against one another and grounded evidence is scarce."
+        "en": "Drawing inspiration from others' write-ups while keeping a clear head: reading the topic with curiosity yet caution, aware that accounts often pull against one another and grounded evidence is scarce.",
+        "ro": "Inspirându-te din scrierile altora, păstrând totodată mintea limpede: citind subiectul cu curiozitate, dar și cu prudență, conștient că relatările se contrazic adesea între ele și că dovezile solide sunt rare."
       },
       "modszer": [
         {
           "hu": "Tarts mindig kéznél egy könyvet vagy írást a témáról, hogy táplálja a kíváncsiságodat.",
-          "en": "Keep a book or reading on the topic within reach, to feed your curiosity."
+          "en": "Keep a book or reading on the topic within reach, to feed your curiosity.",
+          "ro": "Ține la îndemână o carte sau o lectură pe această temă, ca să-ți hrănești curiozitatea."
         },
         {
           "hu": "Olvasás közben tartsd együtt az érdeklődést és az óvatosságot: hagyd, hogy lelkesítsen, de egyetlen állítást se vegyél bizonyítéknak.",
-          "en": "While reading, hold curiosity and caution together: let it enthuse you, but take no single claim as evidence."
+          "en": "While reading, hold curiosity and caution together: let it enthuse you, but take no single claim as evidence.",
+          "ro": "În timp ce citești, ține împreună curiozitatea și prudența: lasă-te entuziasmat, dar nu lua nicio afirmație izolată drept dovadă."
         },
         {
           "hu": "Amikor két forrás ellentmond, ne keresd, melyik a „végső igazság” — jegyezd meg, hogy ez a terület modellekből áll, nem tényekből.",
-          "en": "When two sources contradict, do not hunt for which is the „final truth” — note that this field is made of models, not facts."
+          "en": "When two sources contradict, do not hunt for which is the „final truth” — note that this field is made of models, not facts.",
+          "ro": "Când două surse se contrazic, nu vâna care e „adevărul final” — observă că acest domeniu e făcut din modele, nu din fapte."
         },
         {
           "hu": "Válaszd külön, mi inspirál (mások személyes beszámolói) és mi állít tényt; az előbbit engedd magadhoz, az utóbbit vedd fenntartással.",
-          "en": "Separate what inspires (people's personal stories) from what asserts fact; welcome the former, take the latter with reservation."
+          "en": "Separate what inspires (people's personal stories) from what asserts fact; welcome the former, take the latter with reservation.",
+          "ro": "Desparte ce inspiră (poveștile personale ale oamenilor) de ce afirmă fapte; primește-le pe cele dintâi, ia-le pe cele din urmă cu rezervă."
         }
       ],
       "keret": {
         "hu": "A gyümölcse a becsületesen tartott, jól táplált kíváncsiság — inspiráció hiszékenység nélkül. A hagyomány irodalma nagyrészt meggyőződéseken nyugszik, és kevés benne az igazolt tudás; ilyenként olvasni érett hozzáállás. Semmi sem válik ellenőrzötté attól, hogy olvasod.",
-        "en": "Its fruit is a well-fed curiosity kept honest — inspiration without credulity. The tradition's writings rest largely on conviction and hold little that is independently established; reading them in that light is the mature stance. Nothing becomes verified merely because you read it."
+        "en": "Its fruit is a well-fed curiosity kept honest — inspiration without credulity. The tradition's writings rest largely on conviction and hold little that is independently established; reading them in that light is the mature stance. Nothing becomes verified merely because you read it.",
+        "ro": "Rodul ei e o curiozitate bine hrănită și ținută cinstită — inspirație fără credulitate. Scrierile tradiției se bazează în mare parte pe convingere și conțin puțin ce e stabilit independent; a le citi în această lumină e atitudinea matură. Nimic nu devine verificat doar pentru că l-ai citit."
       }
     },
     {
@@ -378,37 +447,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "Reggeli felidézés — a mozdulatlan halászat",
-        "en": "Morning Recall — the Motionless Fishing"
+        "en": "Morning Recall — the Motionless Fishing",
+        "ro": "Reamintirea de dimineață — Pescuitul nemișcat"
       },
       "cel": {
         "hu": "A nem-fizikai emlékezet edzése: a belső élmények felidézése tanulható izom, és ez a modul egyik legmérhetőbb gyümölcse.",
-        "en": "Training non-physical memory: recall of inner experience is a trainable muscle, and one of this module's most measurable fruits."
+        "en": "Training non-physical memory: recall of inner experience is a trainable muscle, and one of this module's most measurable fruits.",
+        "ro": "Antrenarea memoriei non-fizice: reamintirea experienței interioare e un mușchi antrenabil și unul dintre roadele cele mai măsurabile ale acestui modul."
       },
       "modszer": [
         {
           "hu": "Ébredéskor *ne mozdulj* — maradj pontosan abban a testhelyzetben, amelyben ébredtél, csukott szemmel.",
-          "en": "On waking *do not move* — stay in the exact position in which you woke, eyes closed."
+          "en": "On waking *do not move* — stay in the exact position in which you woke, eyes closed.",
+          "ro": "La trezire *nu te mișca* — rămâi exact în poziția în care te-ai trezit, cu ochii închiși."
         },
         {
           "hu": "Halászd vissza az utolsó képet, hangulatot vagy szófoszlányt, és onnan haladj visszafelé: mi volt előtte, és azelőtt? Ne magyarázd és ne szépítsd — csak gyűjts.",
-          "en": "Fish back the last image, mood or scrap of words, and work backwards from there: what came before it, and before that? Do not explain and do not embellish — just gather."
+          "en": "Fish back the last image, mood or scrap of words, and work backwards from there: what came before it, and before that? Do not explain and do not embellish — just gather.",
+          "ro": "Pescuiește înapoi ultima imagine, stare sau frântură de cuvinte și lucrează înapoi de acolo: ce a venit înainte, și înainte de asta? Nu explica și nu înfrumuseța — doar adună."
         },
         {
           "hu": "Ismételj el magadban három-öt kulcsszót, amíg biztosan megvannak.",
-          "en": "Repeat three to five keywords inwardly until they are secure."
+          "en": "Repeat three to five keywords inwardly until they are secure.",
+          "ro": "Repetă în sinea ta trei până la cinci cuvinte-cheie până se stabilesc bine."
         },
         {
           "hu": "Nyúlj a naplóért: előbb a kulcsszavakat írd le, aztán a részleteket. Ami nincs leírva, órákon belül elpárolog.",
-          "en": "Reach for the journal: write the keywords first, the details after. What is not written down evaporates within hours."
+          "en": "Reach for the journal: write the keywords first, the details after. What is not written down evaporates within hours.",
+          "ro": "Întinde mâna după jurnal: scrie mai întâi cuvintele-cheie, detaliile după. Ce nu e notat se evaporă în câteva ore."
         },
         {
           "hu": "Ha semmi sem jön: az is gyakorlás — a puszta csendes keresgélés edzi a felidézést. Este segít az elalvás előtti mondat: „emlékezni fogok”.",
-          "en": "If nothing comes: that too is training — the quiet searching itself strengthens recall. In the evening, the sentence before sleep helps: „I will remember.”"
+          "en": "If nothing comes: that too is training — the quiet searching itself strengthens recall. In the evening, the sentence before sleep helps: „I will remember.”",
+          "ro": "Dacă nu vine nimic: și asta e antrenament — căutarea liniștită însăși întărește reamintirea. Seara, propoziția de dinainte de somn ajută: „Îmi voi aminti.”"
         }
       ],
       "keret": {
         "hu": "Néhány hét alatt a felidézett anyag jellemzően megsokszorozódik — ez mérhető gyümölcs, akármelyik becsületes lencsén át nézed. A felidézett anyag belső élmény: nem ellenőrzött információ a világról vagy másokról.",
-        "en": "Within a few weeks the recalled material typically multiplies — a measurable fruit, whichever honest lens you look through. The recalled material is inner experience: not verified information about the world or about others."
+        "en": "Within a few weeks the recalled material typically multiplies — a measurable fruit, whichever honest lens you look through. The recalled material is inner experience: not verified information about the world or about others.",
+        "ro": "În câteva săptămâni materialul reamintit se înmulțește de obicei — un rod măsurabil, prin orice lentilă cinstită privești. Materialul reamintit e experiență interioară: nu informație verificată despre lume sau despre alții."
       }
     },
     {
@@ -420,33 +497,40 @@
       "elem": "Viz",
       "cim": {
         "hu": "Álomnapló — a híd építése",
-        "en": "Dream Journal — Building the Bridge"
+        "en": "Dream Journal — Building the Bridge",
+        "ro": "Jurnalul de vise — Construirea punții"
       },
       "cel": {
         "hu": "Álomnaplót vezetni, hogy azt üzend az elmédnek: a belső élmény fontos — ezzel edzed a felidézést, amelyre a mélyebb élmények idején szükséged lesz. Az esti álmokon gyorsabb gyakorolni, mint a ritka projekciókon.",
-        "en": "Keeping a dream journal to tell your mind that inner experience matters — training the recall you will need when deeper experiences come. It is faster to train on nightly dreams than on rare projections."
+        "en": "Keeping a dream journal to tell your mind that inner experience matters — training the recall you will need when deeper experiences come. It is faster to train on nightly dreams than on rare projections.",
+        "ro": "Ținerea unui jurnal de vise ca să-i spui minții că experiența interioară contează — antrenând reamintirea de care vei avea nevoie când vin experiențe mai adânci. E mai rapid să te antrenezi pe visele de noapte decât pe proiecții rare."
       },
       "modszer": [
         {
           "hu": "Tarts naplót vagy telefont az ágyad mellett, karnyújtásnyira.",
-          "en": "Keep a journal or phone beside your bed, within arm's reach."
+          "en": "Keep a journal or phone beside your bed, within arm's reach.",
+          "ro": "Ține un jurnal sau telefonul lângă pat, la îndemâna brațului."
         },
         {
           "hu": "Minden ébredéskor — még ha úgy érzed, semmire sem emlékszel — nyúlj érte, és próbálj leírni bármit: egy hangulatot, egy foszlányt. Gyakran épp az írás kezdete indítja be az emlékezést.",
-          "en": "On every waking — even if you feel you remember nothing — reach for it and try to write something: a mood, a fragment. Often the very start of writing triggers the memory."
+          "en": "On every waking — even if you feel you remember nothing — reach for it and try to write something: a mood, a fragment. Often the very start of writing triggers the memory.",
+          "ro": "La fiecare trezire — chiar dacă simți că nu-ți amintești nimic — întinde mâna după el și încearcă să scrii ceva: o stare, un fragment. Adesea chiar începutul scrisului declanșează amintirea."
         },
         {
           "hu": "Írj röviden, ítélet nélkül; a cél a szokás, nem a szépség.",
-          "en": "Write briefly, without judgment; the aim is the habit, not the beauty."
+          "en": "Write briefly, without judgment; the aim is the habit, not the beauty.",
+          "ro": "Scrie pe scurt, fără judecată; ținta e obiceiul, nu frumusețea."
         },
         {
           "hu": "Néhány hét alatt figyeld, ahogy egyre több és részletesebb anyag jön elő.",
-          "en": "Over a few weeks, watch more and more detailed material emerge."
+          "en": "Over a few weeks, watch more and more detailed material emerge.",
+          "ro": "De-a lungul câtorva săptămâni, privește cum iese la iveală material din ce în ce mai detaliat."
         }
       ],
       "keret": {
         "hu": "A gyümölcseivel mérjük — a felidézés hetek alatt mérhetően mélyül. Az álom maga is egyfajta belső projekció; a felidézésének edzése általában edzi a nem-fizikai emlékezetet. A rögzített anyag belső élmény, nem információ a külvilágról vagy másokról.",
-        "en": "Measured by fruits — recall that measurably deepens over weeks. A dream is itself a kind of inner projection; training its recall trains non-physical memory generally. The recorded material is inner experience, not information about the outer world or other people."
+        "en": "Measured by fruits — recall that measurably deepens over weeks. A dream is itself a kind of inner projection; training its recall trains non-physical memory generally. The recorded material is inner experience, not information about the outer world or other people.",
+        "ro": "Măsurat după roade — reamintire care se adâncește măsurabil de-a lungul săptămânilor. Un vis e el însuși un fel de proiecție interioară; antrenarea reamintirii lui antrenează memoria non-fizică în general. Materialul înregistrat e experiență interioară, nu informație despre lumea exterioară sau despre alți oameni."
       }
     },
     {
@@ -458,33 +542,40 @@
       "elem": "Viz",
       "cim": {
         "hu": "Az érzésből visszafelé — érzelemvezérelt felidézés",
-        "en": "Backwards from the Feeling — Emotion-Led Recall"
+        "en": "Backwards from the Feeling — Emotion-Led Recall",
+        "ro": "Înapoi de la sentiment — Reamintire ghidată de emoție"
       },
       "cel": {
         "hu": "Az ébredéskori hangulatot fonálként használni: mivel az érzések tovább maradnak, mint a képek, arra figyelni, mit érzel, visszahúzhatja a halványuló álmot az emlékezetbe.",
-        "en": "Using the mood you wake in as a thread: because feelings linger longer than images, focusing on what you feel can pull a fading dream back into memory."
+        "en": "Using the mood you wake in as a thread: because feelings linger longer than images, focusing on what you feel can pull a fading dream back into memory.",
+        "ro": "Folosind starea în care te trezești ca pe un fir: pentru că sentimentele persistă mai mult decât imaginile, concentrarea pe ce simți poate trage un vis care se estompează înapoi în memorie."
       },
       "modszer": [
         {
           "hu": "Ébredéskor maradj mozdulatlan, csukott szemmel, és ne kapkodd elő a gondolataidat.",
-          "en": "On waking stay motionless, eyes closed, and do not snatch at your thoughts."
+          "en": "On waking stay motionless, eyes closed, and do not snatch at your thoughts.",
+          "ro": "La trezire rămâi nemișcat, cu ochii închiși, și nu te agăța de gânduri."
         },
         {
           "hu": "Fordítsd a figyelmed arra, mit *érzel* — nyugalmat, feszültséget, szomorúságot, örömet —, és időzz el az érzésnél.",
-          "en": "Turn your attention to what you *feel* — calm, tension, sadness, joy — and dwell on the feeling."
+          "en": "Turn your attention to what you *feel* — calm, tension, sadness, joy — and dwell on the feeling.",
+          "ro": "Îndreaptă-ți atenția spre ce *simți* — calm, tensiune, tristețe, bucurie — și zăbovește asupra sentimentului."
         },
         {
           "hu": "Hagyd, hogy az érzés maga hívja elő a hozzá tartozó jelenetet; a kép gyakran az érzés nyomában érkezik.",
-          "en": "Let the feeling itself call up the scene that belongs to it; the image often arrives in the feeling's wake."
+          "en": "Let the feeling itself call up the scene that belongs to it; the image often arrives in the feeling's wake.",
+          "ro": "Lasă sentimentul însuși să cheme scena care îi aparține; imaginea sosește adesea pe urmele sentimentului."
         },
         {
           "hu": "Amint jön valami, rögzítsd kulcsszavakkal a naplóba, mielőtt elpárolog.",
-          "en": "As soon as something comes, capture it with keywords in the journal before it evaporates."
+          "en": "As soon as something comes, capture it with keywords in the journal before it evaporates.",
+          "ro": "De îndată ce vine ceva, prinde-l cu cuvinte-cheie în jurnal înainte să se evapore."
         }
       ],
       "keret": {
         "hu": "A reggeli felidézés érzelemvezérelt változata, ugyanazzal a gyümölccsel mérve — több visszanyert anyag. Az érzések tartós emlékezeti kapaszkodók. Ami felszínre jön, belső élmény, nem cselekvésre szóló üzenet.",
-        "en": "An emotion-led variant of morning recall, measured by the same fruit — more retrieved material. Feelings are durable memory hooks. Whatever surfaces is inner experience, not a message to be acted on."
+        "en": "An emotion-led variant of morning recall, measured by the same fruit — more retrieved material. Feelings are durable memory hooks. Whatever surfaces is inner experience, not a message to be acted on.",
+        "ro": "O variantă a reamintirii de dimineață ghidată de emoții, măsurată după același rod — mai mult material recuperat. Sentimentele sunt cârlige durabile de memorie. Orice iese la suprafață e experiență interioară, nu un mesaj pe care să acționezi."
       }
     },
     {
@@ -496,33 +587,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Visszatérő jelek — a saját álomtérkép",
-        "en": "Recurring Signs — Your Own Dream Map"
+        "en": "Recurring Signs — Your Own Dream Map",
+        "ro": "Semne Recurente — Harta Ta de Vise"
       },
       "cel": {
         "hu": "Észrevenni a naplóban visszatérő helyeket, alakokat vagy jelképeket, és személyes horgonnyá tenni őket, amelyek később felismerést és éber tudatosságot idézhetnek elő.",
-        "en": "Noticing the places, people or symbols that recur across your journal, and turning them into personal anchors that can later cue recognition and lucidity."
+        "en": "Noticing the places, people or symbols that recur across your journal, and turning them into personal anchors that can later cue recognition and lucidity.",
+        "ro": "Observarea locurilor, oamenilor sau simbolurilor care reapar de-a lungul jurnalului tău și transformarea lor în ancore personale care pot mai târziu declanșa recunoașterea și luciditatea."
       },
       "modszer": [
         {
           "hu": "Néhány hét naplózás után olvasd vissza a bejegyzéseket, és keress ismétlődő helyszíneket, alakokat vagy motívumokat.",
-          "en": "After a few weeks of journaling, reread your entries and look for repeating places, figures or motifs."
+          "en": "After a few weeks of journaling, reread your entries and look for repeating places, figures or motifs.",
+          "ro": "După câteva săptămâni de ținut jurnal, recitește-ți însemnările și caută locuri, figuri sau motive care se repetă."
         },
         {
           "hu": "Válassz ki egy-két gyakran visszatérőt, és jegyezd fel őket a saját álomtérképedre.",
-          "en": "Pick one or two that recur often, and note them on your own dream map."
+          "en": "Pick one or two that recur often, and note them on your own dream map.",
+          "ro": "Alege unul sau două care reapar des și notează-le pe harta ta de vise."
         },
         {
           "hu": "Elalvás előtt idézd fel: ha ezzel a hellyel vagy alakkal találkozom, megállok és ránézek a kezemre. Így kötöd a jelhez a felismerést.",
-          "en": "Before sleep, rehearse: if I meet this place or figure, I will stop and look at my hands. Thus you tie recognition to the sign."
+          "en": "Before sleep, rehearse: if I meet this place or figure, I will stop and look at my hands. Thus you tie recognition to the sign.",
+          "ro": "Înainte de somn, exersează: dacă întâlnesc acest loc sau această figură, mă opresc și mă uit la mâinile mele. Astfel legi recunoașterea de semn."
         },
         {
           "hu": "Frissítsd a térképet, ahogy új mintázatok bukkannak fel.",
-          "en": "Update the map as new patterns surface."
+          "en": "Update the map as new patterns surface.",
+          "ro": "Actualizează harta pe măsură ce apar tipare noi."
         }
       ],
       "keret": {
         "hu": "A gyümölcseivel mérjük — élesebb önismeret az áloméletedről, és idővel több felismerés-pillanat benne. A visszatérő jelképek az elméd saját szókincse, nem előjelek vagy üzenetek a külvilágról.",
-        "en": "Measured by fruits — sharper self-knowledge of your dream life and, over time, more moments of recognition within it. The recurring symbols are your mind's own vocabulary, not omens or messages about the outer world."
+        "en": "Measured by fruits — sharper self-knowledge of your dream life and, over time, more moments of recognition within it. The recurring symbols are your mind's own vocabulary, not omens or messages about the outer world.",
+        "ro": "Măsurat după roade — o cunoaștere de sine mai ascuțită a vieții tale onirice și, în timp, mai multe momente de recunoaștere înăuntrul ei. Simbolurile recurente sunt vocabularul propriu al minții tale, nu prevestiri sau mesaje despre lumea exterioară."
       }
     },
     {
@@ -534,41 +632,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "Kvantumugrás-vizualizáció",
-        "en": "Quantum-Jump Visualization"
+        "en": "Quantum-Jump Visualization",
+        "ro": "Vizualizare Quantum-Jump"
       },
       "cel": {
         "hu": "Önkép-munka és mentális próba egy vezetett belső utazással: felváltva átérezni a jelenlegi önmagadat és egy nyugodtabb, magabiztosabb változatot, míg a kettő össze nem simul — az alkalmazás Kvantumugrás naplójához kötve.",
-        "en": "Self-image work and mental rehearsal via a guided inner journey: alternately feeling your present self and a calmer, more capable version, until the two settle together — bridged to the app's Quantum Jumping journal."
+        "en": "Self-image work and mental rehearsal via a guided inner journey: alternately feeling your present self and a calmer, more capable version, until the two settle together — bridged to the app's Quantum Jumping journal.",
+        "ro": "Lucru cu imaginea de sine și repetiție mentală printr-o călătorie interioară ghidată: simțind pe rând sinele tău prezent și o versiune mai calmă, mai capabilă, până când cele două se așază împreună — legat de jurnalul Quantum Jumping al aplicației."
       },
       "modszer": [
         {
           "hu": "Ülj vagy feküdj kényelmesen, csukott szemmel, lassú, lágy légzéssel, és képzelj magad köré egy csendes, tág belső teret — például egy kamrát, amelynek falai visszatükrözik az érzéseidet.",
-          "en": "Sit or lie comfortably, eyes closed, breathing slow and soft, and imagine a quiet, spacious inner place around you — for example a chamber whose walls reflect your feelings back to you."
+          "en": "Sit or lie comfortably, eyes closed, breathing slow and soft, and imagine a quiet, spacious inner place around you — for example a chamber whose walls reflect your feelings back to you.",
+          "ro": "Stai sau întinde-te confortabil, cu ochii închiși, respirând lent și blând, și imaginează-ți un loc interior liniștit și spațios în jurul tău — de exemplu o cameră ale cărei ziduri îți reflectă înapoi sentimentele."
         },
         {
           "hu": "Érezd át a *jelenlegi* önmagadat: hogyan viszonyulsz a gyakorláshoz, milyen kétely vagy nehézség van benned. Mondj ki róla egy rövid mondatot, ha lehet, hangosan.",
-          "en": "Feel your *present* self: how you relate to the practice, what doubt or difficulty is in you. Speak one short sentence about it, aloud if you can."
+          "en": "Feel your *present* self: how you relate to the practice, what doubt or difficulty is in you. Speak one short sentence about it, aloud if you can.",
+          "ro": "Simte sinele tău *prezent*: cum te raportezi la practică, ce îndoială sau greutate e în tine. Spune o propoziție scurtă despre asta, cu voce tare dacă poți."
         },
         {
           "hu": "Válts át arra az önmagadra, aki már *könnyedén és örömmel gyakorol*: hogyan gondolkodik, milyen nyugalmat hordoz. Érezd át minél elevenebben, és mondj ki erről is egy mondatot.",
-          "en": "Switch to the self who already *practises with ease and joy*: how that one thinks, what calm they carry. Feel it as vividly as you can, and speak one sentence about that too."
+          "en": "Switch to the self who already *practises with ease and joy*: how that one thinks, what calm they carry. Feel it as vividly as you can, and speak one sentence about that too.",
+          "ro": "Treci la sinele care deja *practică cu ușurință și bucurie*: cum gândește acela, ce calm poartă. Simte-l cât de viu poți și spune o propoziție și despre asta."
         },
         {
           "hu": "Járj át néhányszor a két oldal között, majd tartsd egyszerre mindkettőt, és figyeld, ahogy lassan összesimulnak eggyé.",
-          "en": "Cross between the two sides several times, then hold both at once, and watch them slowly settle into one."
+          "en": "Cross between the two sides several times, then hold both at once, and watch them slowly settle into one.",
+          "ro": "Treci de la o parte la cealaltă de mai multe ori, apoi ține-le pe amândouă deodată și privește-le cum se așază încet într-una singură."
         },
         {
           "hu": "A végén nyújtózz, és jegyezd fel az ülést az alkalmazás Kvantumugrás naplójában: a dátumot, a két oldal érzeteit, az összesimulás fokát. Hetente néhányszor ismételd.",
-          "en": "At the end stretch, and log the session in the app's Quantum Jumping journal: the date, the felt sense of both sides, the degree of merging. Repeat a few times a week."
+          "en": "At the end stretch, and log the session in the app's Quantum Jumping journal: the date, the felt sense of both sides, the degree of merging. Repeat a few times a week.",
+          "ro": "La final întinde-te și notează sesiunea în jurnalul Quantum Jumping al aplicației: data, simțirea ambelor părți, gradul de unire. Repetă de câteva ori pe săptămână."
         }
       ],
       "keret": {
         "hu": "A becsületes lencse itt egyszerű és erős: ez mentális próba és önkép-munka — a „kvantum” szó a hagyomány metaforája, nem fizika. Nem a valóságot programozod át, hanem a saját hozzáállásodat és önbeszédedet. A gyümölcse mérhető, és a hetek múltán a naplóban látod a saját ívedet.",
-        "en": "The honest lens here is simple and strong: this is mental rehearsal and self-image work — the word „quantum” is the tradition's metaphor, not physics. You are not reprogramming reality but your own attitude and self-talk. Its fruit is measurable, and over the weeks the journal shows you your own arc."
+        "en": "The honest lens here is simple and strong: this is mental rehearsal and self-image work — the word „quantum” is the tradition's metaphor, not physics. You are not reprogramming reality but your own attitude and self-talk. Its fruit is measurable, and over the weeks the journal shows you your own arc.",
+        "ro": "Lentila onestă aici e simplă și puternică: aceasta e repetiție mentală și lucru cu imaginea de sine — cuvântul „quantum” e metafora tradiției, nu fizică. Nu reprogramezi realitatea, ci propria atitudine și dialogul interior. Rodul ei e măsurabil, iar de-a lungul săptămânilor jurnalul îți arată propriul traseu."
       },
       "etika": {
         "hu": "A gyakorlat önmagadra irányul: nem mások valóságát változtatod, és élő embereket nem próbálsz befolyásolni. Ha szédülnél a lassú légzés közben, állj meg, és lélegezz természetesen.",
-        "en": "The practice is self-directed: you are not changing other people's reality, and you do not try to influence living people. If you feel dizzy during the slow breathing, stop and breathe naturally."
+        "en": "The practice is self-directed: you are not changing other people's reality, and you do not try to influence living people. If you feel dizzy during the slow breathing, stop and breathe naturally.",
+        "ro": "Practica e autodirijată: nu schimbi realitatea altor oameni și nu încerci să influențezi oameni vii. Dacă te simți amețit în timpul respirației lente, oprește-te și respiră natural."
       }
     },
     {
@@ -580,37 +687,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A két önkép rövid napi váltógyakorlata",
-        "en": "The Short Daily Two-Self Switch"
+        "en": "The Short Daily Two-Self Switch",
+        "ro": "Comutatorul Scurt Zilnic al Celor Două Sine"
       },
       "cel": {
         "hu": "Az önkép-munka rövid, kép nélküli változata napi használatra: gyorsan váltogatni a jelenlegi és a magabiztos önmagad között, mindkettőt megnevezve, hogy a szelídebb önbeszéd melegen maradjon.",
-        "en": "A brief, imagery-free version of the self-image work for daily use: quickly alternating between present self and capable self, naming each, to keep the kinder self-talk warm."
+        "en": "A brief, imagery-free version of the self-image work for daily use: quickly alternating between present self and capable self, naming each, to keep the kinder self-talk warm.",
+        "ro": "O versiune scurtă, fără imagini, a lucrului cu imaginea de sine pentru uz zilnic: alternând rapid între sinele prezent și sinele capabil, numindu-le pe fiecare, ca să menții cald dialogul interior mai blând."
       },
       "modszer": [
         {
           "hu": "Bárhol, egy csendes percben csukd be a szemed, és érezd a jelenlegi hangulatodat a gyakorlással kapcsolatban; nevezd meg egy szóval.",
-          "en": "Anywhere, in a quiet minute, close your eyes and feel your present mood about the practice; name it in one word."
+          "en": "Anywhere, in a quiet minute, close your eyes and feel your present mood about the practice; name it in one word.",
+          "ro": "Oriunde, într-un minut liniștit, închide ochii și simte starea ta de moment față de practică; numește-o într-un cuvânt."
         },
         {
           "hu": "Válts a nyugodt, magabiztos önmagadra, aki már otthon van a gyakorlásban; nevezd meg őt is egy szóval.",
-          "en": "Switch to the calm, confident self who is already at home in the practice; name that one in a word too."
+          "en": "Switch to the calm, confident self who is already at home in the practice; name that one in a word too.",
+          "ro": "Treci la sinele calm, încrezător, care e deja acasă în practică; numește-l și pe acela într-un cuvânt."
         },
         {
           "hu": "Válts oda-vissza néhányszor, gyorsan, majd maradj a második oldalnál egy lélegzetnyit tovább.",
-          "en": "Switch back and forth a few times, quickly, then rest on the second side a breath longer."
+          "en": "Switch back and forth a few times, quickly, then rest on the second side a breath longer.",
+          "ro": "Comută înainte și înapoi de câteva ori, rapid, apoi rămâi pe a doua parte o respirație mai mult."
         },
         {
           "hu": "Nyisd ki a szemed, és vidd magaddal ezt a hangot a napodba.",
-          "en": "Open your eyes, and carry this tone into your day."
+          "en": "Open your eyes, and carry this tone into your day.",
+          "ro": "Deschide ochii și poartă acest ton în ziua ta."
         }
       ],
       "keret": {
         "hu": "A tónus tömör próbája, gyümölcsével mérve — könnyebb, szelídebb belső hang a nap folyamán. A hozzáállásodat változtatja, nem a világot; élményt nem ígér.",
-        "en": "A compact rehearsal of tone, measured by its fruit — a lighter, kinder inner voice through the day. It changes your stance, not the world; it promises no experience."
+        "en": "A compact rehearsal of tone, measured by its fruit — a lighter, kinder inner voice through the day. It changes your stance, not the world; it promises no experience.",
+        "ro": "O repetiție compactă de ton, măsurată după rodul ei — o voce interioară mai ușoară, mai blândă de-a lungul zilei. Îți schimbă atitudinea, nu lumea; nu promite nicio experiență."
       },
       "etika": {
         "hu": "A gyakorlat önmagadra irányul; nem befolyásolsz vele másokat.",
-        "en": "The practice is self-directed; you do not influence others with it."
+        "en": "The practice is self-directed; you do not influence others with it.",
+        "ro": "Practica e autodirijată; nu influențezi pe alții cu ea."
       }
     },
     {
@@ -622,33 +737,40 @@
       "elem": "Ido",
       "cim": {
         "hu": "Mit tenne a jövőbeli önmagam?",
-        "en": "What Would My Future Self Do?"
+        "en": "What Would My Future Self Do?",
+        "ro": "Ce Ar Face Sinele Meu Viitor?"
       },
       "cel": {
         "hu": "Az önkép-munkát cselekvésbe vinni: a nap folyamán röviden megkérdezni, hogyan cselekedne most a nyugodtabb, gyakorló változatod — a hozzáállást apró, következetes lépésekké alakítva.",
-        "en": "Carrying the self-image work into action: through the day, briefly asking how the calmer, practising version of you would act now — turning attitude into small, consistent steps."
+        "en": "Carrying the self-image work into action: through the day, briefly asking how the calmer, practising version of you would act now — turning attitude into small, consistent steps.",
+        "ro": "Ducerea lucrului cu imaginea de sine în acțiune: de-a lungul zilei, întrebându-te pe scurt cum ar acționa acum versiunea ta mai calmă, care practică — transformând atitudinea în pași mici și consecvenți."
       },
       "modszer": [
         {
           "hu": "A nap folyamán egy-egy döntésnél állj meg egy pillanatra, és kérdezd: az a nyugodt, kitartóan gyakorló önmagam most mit tenne?",
-          "en": "Through the day, at a decision, pause a moment and ask: what would that calm, steadily practising self do now?"
+          "en": "Through the day, at a decision, pause a moment and ask: what would that calm, steadily practising self do now?",
+          "ro": "De-a lungul zilei, la o decizie, oprește-te o clipă și întreabă: ce ar face acum acel sine calm, care practică cu statornicie?"
         },
         {
           "hu": "Ha a válasz egy kis lépés — időben lefeküdni, leülni öt percre, naplózni —, tedd meg, ha teheted.",
-          "en": "If the answer is a small step — going to bed on time, sitting for five minutes, journaling — do it if you can."
+          "en": "If the answer is a small step — going to bed on time, sitting for five minutes, journaling — do it if you can.",
+          "ro": "Dacă răspunsul e un pas mic — să te culci la timp, să stai cinci minute, să ții jurnal — fă-l dacă poți."
         },
         {
           "hu": "Ne csinálj belőle terhet: elég néhány pillanat naponta.",
-          "en": "Do not make it a burden: a few moments a day is enough."
+          "en": "Do not make it a burden: a few moments a day is enough.",
+          "ro": "Nu face din asta o povară: câteva clipe pe zi sunt de ajuns."
         },
         {
           "hu": "Este vedd számba, hol sikerült ebből a hangból cselekedned.",
-          "en": "In the evening take stock of where you managed to act from this tone."
+          "en": "In the evening take stock of where you managed to act from this tone.",
+          "ro": "Seara fă un bilanț al momentelor în care ai reușit să acționezi din acest ton."
         }
       ],
       "keret": {
         "hu": "A gyümölcseivel mérjük — egyenletesebb szokások és önirányított kitartás. A „jövőbeli önmagad” motivációs keret, nem valódi, parancsokat osztó lény; a döntések a tieid maradnak.",
-        "en": "Measured by fruits — steadier habits and self-directed follow-through. The „future self” is a motivational frame, not a real other being giving orders; the choices remain yours."
+        "en": "Measured by fruits — steadier habits and self-directed follow-through. The „future self” is a motivational frame, not a real other being giving orders; the choices remain yours.",
+        "ro": "Măsurat după roade — obiceiuri mai stabile și perseverență autodirijată. „Sinele din viitor” este un cadru motivațional, nu o ființă reală care dă ordine; alegerile rămân ale tale."
       }
     },
     {
@@ -660,41 +782,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Mélyellazulás a küszöbig",
-        "en": "Deep Relaxation to the Threshold"
+        "en": "Deep Relaxation to the Threshold",
+        "ro": "Relaxare profundă până la prag"
       },
       "cel": {
         "hu": "A küszöbállapot elérése türelmes mélyellazulásból: a test elalszik, a figyelem csendes és éber marad.",
-        "en": "Reaching the threshold state from patient deep relaxation: the body falls asleep while attention stays quiet and alert."
+        "en": "Reaching the threshold state from patient deep relaxation: the body falls asleep while attention stays quiet and alert.",
+        "ro": "Atingerea stării de prag din relaxare profundă răbdătoare: corpul adoarme în timp ce atenția rămâne liniștită și trează."
       },
       "modszer": [
         {
           "hu": "Kipihenten feküdj le, és néhány lassú, lágy légzéssel engedd elnehezülni a testet — a légzést soha ne erőltesd.",
-          "en": "Lie down well rested, and with a few slow, soft breaths let the body grow heavy — never force the breath."
+          "en": "Lie down well rested, and with a few slow, soft breaths let the body grow heavy — never force the breath.",
+          "ro": "Întinde-te bine odihnit și, cu câteva respirații lente și blânde, lasă corpul să devină greu — nu forța niciodată respirația."
         },
         {
           "hu": "Idézd fel az átérzett szándékodat, majd engedd a testet egyre mélyebbre süllyedni, míg a figyelem ébren marad.",
-          "en": "Recall your felt intention, then let the body sink deeper and deeper while attention stays awake."
+          "en": "Recall your felt intention, then let the body sink deeper and deeper while attention stays awake.",
+          "ro": "Amintește-ți intenția simțită, apoi lasă corpul să se scufunde tot mai adânc în timp ce atenția rămâne trează."
         },
         {
           "hu": "Ha újra és újra elalszol: ez nem kudarc, hanem az első szint természete. Ha ébren lebegsz és unatkozol: ne várj, hanem engedd magad mélyebbre süllyedni.",
-          "en": "If you fall asleep again and again: this is not failure but the nature of the first stage. If you hover awake and grow bored: do not wait, allow yourself to sink deeper."
+          "en": "If you fall asleep again and again: this is not failure but the nature of the first stage. If you hover awake and grow bored: do not wait, allow yourself to sink deeper.",
+          "ro": "Dacă adormi iar și iar: aceasta nu este un eșec, ci natura primei etape. Dacă plutești treaz și te plictisești: nu aștepta, permite-ți să te scufunzi mai adânc."
         },
         {
           "hu": "Hangfoszlányok, élénk képek, lebegés- vagy rezgésszerű érzetek jelenhetnek meg — egyik sem kötelező, egyik sem cél önmagában; jelzések, hogy mélyen jársz.",
-          "en": "Fragments of sound, vivid images, sensations of floating or vibration may appear — none is obligatory, none is a goal in itself; they are signs that you are deep."
+          "en": "Fragments of sound, vivid images, sensations of floating or vibration may appear — none is obligatory, none is a goal in itself; they are signs that you are deep.",
+          "ro": "Pot apărea fragmente de sunet, imagini vii, senzații de plutire sau vibrație — niciuna nu este obligatorie, niciuna nu este un scop în sine; sunt semne că ești adânc."
         },
         {
           "hu": "A végén térj vissza nyugodtan, és azonnal írj kulcsszavakat a naplóba.",
-          "en": "At the end return calmly, and write keywords in the journal at once."
+          "en": "At the end return calmly, and write keywords in the journal at once.",
+          "ro": "La final întoarce-te calm și notează imediat cuvinte-cheie în jurnal."
         }
       ],
       "keret": {
         "hu": "A hagyomány ezt az utat a tudat testen kívüli utazásának előszobájaként írja le; egy ugyanilyen becsületes párhuzamos lencse élénk hipnagóg állapotot lát. Egyik lencsét sem bizonyítjuk és egyiket sem gúnyoljuk — az élmény belső természetű, és a gyümölcseivel mérjük.",
-        "en": "The tradition describes this route as the antechamber of consciousness travelling beyond the body; an equally honest parallel lens sees a vivid hypnagogic state. We prove neither lens and mock neither — the experience is inner in nature, and we measure it by its fruits."
+        "en": "The tradition describes this route as the antechamber of consciousness travelling beyond the body; an equally honest parallel lens sees a vivid hypnagogic state. We prove neither lens and mock neither — the experience is inner in nature, and we measure it by its fruits.",
+        "ro": "Tradiția descrie această cale ca antecamera conștiinței care călătorește dincolo de corp; o lentilă paralelă la fel de onestă vede o stare hipnagogică vie. Nu dovedim niciuna dintre lentile și nu batjocorim pe niciuna — experiența este de natură lăuntrică și o măsurăm după roadele ei."
       },
       "etika": {
         "hu": "Ha a küszöbön ébren vagy, de a tested még „ki van kapcsolva” — ez ismert, ártalmatlan, átmeneti alvásjelenség: lélegezz lassan, mozdítsd meg egy ujjadat, és várd ki. A gyakorlatot soha ne az alvás rovására végezd; a frusztrált, megkeményedett figyelem esetén tarts szünetet. Nem orvosi tanács.",
-        "en": "If at the threshold you are awake but the body is still „switched off” — this is a known, harmless, transient sleep phenomenon: breathe slowly, wiggle a finger, and wait it out. Never practise at the cost of sleep; with frustrated, hardened attention, take a break. Not medical advice."
+        "en": "If at the threshold you are awake but the body is still „switched off” — this is a known, harmless, transient sleep phenomenon: breathe slowly, wiggle a finger, and wait it out. Never practise at the cost of sleep; with frustrated, hardened attention, take a break. Not medical advice.",
+        "ro": "Dacă la prag ești treaz dar corpul este încă „oprit” — acesta este un fenomen de somn cunoscut, inofensiv, tranzitoriu: respiră lent, mișcă un deget și așteaptă să treacă. Nu practica niciodată pe seama somnului; cu atenție frustrată, înțepenită, ia o pauză. Nu este sfat medical."
       }
     },
     {
@@ -706,37 +837,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Nyugalom a küszöbön — ha a test nem mozdul",
-        "en": "Calm at the Threshold — When the Body Will Not Move"
+        "en": "Calm at the Threshold — When the Body Will Not Move",
+        "ro": "Calm la prag — Când corpul nu se mișcă"
       },
       "cel": {
         "hu": "A küszöb ijesztőnek tűnő jelenségeinek szelíd kezelése: az alvási paralízis felismerése, kivárása és gyengéd naplózása.",
-        "en": "Gently handling the threshold's seemingly frightening phenomena: recognizing sleep paralysis, waiting it out, and journaling it kindly."
+        "en": "Gently handling the threshold's seemingly frightening phenomena: recognizing sleep paralysis, waiting it out, and journaling it kindly.",
+        "ro": "Gestionarea blândă a fenomenelor aparent înfricoșătoare de la prag: recunoașterea paraliziei de somn, așteptarea până trece și notarea ei cu blândețe în jurnal."
       },
       "modszer": [
         {
           "hu": "Ismerd fel, mi történik: ébren vagy, de a tested még „ki van kapcsolva” — esetleg nyomást érzel, zajokat vagy alakokat észlelsz. Ez ismert, ártalmatlan, átmeneti alvásjelenség.",
-          "en": "Recognize what is happening: you are awake but the body is still „switched off” — perhaps with a feeling of pressure, or noises and shapes. This is a known, harmless, transient sleep phenomenon."
+          "en": "Recognize what is happening: you are awake but the body is still „switched off” — perhaps with a feeling of pressure, or noises and shapes. This is a known, harmless, transient sleep phenomenon.",
+          "ro": "Recunoaște ce se întâmplă: ești treaz dar corpul este încă „oprit” — poate cu o senzație de presiune, sau zgomote și forme. Acesta este un fenomen de somn cunoscut, inofensiv, tranzitoriu."
         },
         {
           "hu": "Ne küzdj ellene. Lélegezz lassan és lágyan — a küzdelem szorít, a lassú légzés old.",
-          "en": "Do not fight it. Breathe slowly and softly — struggling tightens, slow breath loosens."
+          "en": "Do not fight it. Breathe slowly and softly — struggling tightens, slow breath loosens.",
+          "ro": "Nu te lupta cu el. Respiră lent și blând — lupta strânge, respirația lentă destinde."
         },
         {
           "hu": "Mozdítsd meg egy ujjadat vagy a lábujjadat, és várd ki: magától elmúlik, jellemzően másodpercek alatt.",
-          "en": "Wiggle a finger or a toe, and wait it out: it passes by itself, typically within seconds."
+          "en": "Wiggle a finger or a toe, and wait it out: it passes by itself, typically within seconds.",
+          "ro": "Mișcă un deget de la mână sau de la picior și așteaptă să treacă: trece de la sine, de obicei în câteva secunde."
         },
         {
           "hu": "Utána jegyezd fel gyengéden, ítélet nélkül, mit éreztél és mit láttál — ez is a felfedező anyaga.",
-          "en": "Afterwards note gently, without judgment, what you felt and saw — this too is the explorer's material."
+          "en": "Afterwards note gently, without judgment, what you felt and saw — this too is the explorer's material.",
+          "ro": "Apoi notează blând, fără judecată, ce ai simțit și ce ai văzut — și aceasta este materialul exploratorului."
         }
       ],
       "keret": {
         "hu": "Az izmok az álomalvás alatt természetes módon bénítottak, és néha az éberség előbb tér vissza, mint a mozgás — ennyi történik. Amit közben látsz vagy hallasz, belső élmény: nem lény, nem támadás és nem bizonyíték semmire. Mindkét becsületes lencse egyetért: átmeneti, és magától elmúlik.",
-        "en": "The muscles are naturally immobilized during dream sleep, and sometimes wakefulness returns before movement does — that is all that happens. Whatever you see or hear meanwhile is inner experience: not an entity, not an attack, and not proof of anything. Both honest lenses agree: it is transient and passes by itself."
+        "en": "The muscles are naturally immobilized during dream sleep, and sometimes wakefulness returns before movement does — that is all that happens. Whatever you see or hear meanwhile is inner experience: not an entity, not an attack, and not proof of anything. Both honest lenses agree: it is transient and passes by itself.",
+        "ro": "Mușchii sunt imobilizați natural în timpul somnului cu vise, și uneori starea de veghe revine înaintea mișcării — asta e tot ce se întâmplă. Orice vezi sau auzi între timp este experiență lăuntrică: nu o entitate, nu un atac și nu o dovadă a ceva. Ambele lentile oneste sunt de acord: este tranzitoriu și trece de la sine."
       },
       "etika": {
         "hu": "Ha az alvásgondod tartós, fordulj orvoshoz. Ha a jelenség szorongást szít, vagy tolakodó, félelmetes élmények térnek vissza, állj le a küszöbgyakorlatokkal, és beszélj szakemberrel — ez nem kudarc, hanem a felfedező érettsége. Légy gyengéd magadhoz a félelemmel: nem elfojtani kell, hanem kivárni. Nem orvosi tanács.",
-        "en": "If your sleep trouble persists, see a doctor. If the phenomenon stirs anxiety, or intrusive, frightening experiences keep returning, stop the threshold practices and speak with a professional — that is not failure; it is the explorer's maturity. Be gentle with yourself about the fear: it is not to be suppressed but waited through. Not medical advice."
+        "en": "If your sleep trouble persists, see a doctor. If the phenomenon stirs anxiety, or intrusive, frightening experiences keep returning, stop the threshold practices and speak with a professional — that is not failure; it is the explorer's maturity. Be gentle with yourself about the fear: it is not to be suppressed but waited through. Not medical advice.",
+        "ro": "Dacă tulburările de somn persistă, consultă un medic. Dacă fenomenul stârnește anxietate, sau experiențe intruzive, înfricoșătoare revin mereu, oprește practicile de prag și vorbește cu un profesionist — asta nu este un eșec; este maturitatea exploratorului. Fii blând cu tine în privința fricii: nu trebuie reprimată, ci așteptată până trece. Nu este sfat medical."
       }
     },
     {
@@ -748,33 +887,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "Az éberség emelése — a tisztító hívószavak",
-        "en": "Raising Awareness — the Clearing Cues"
+        "en": "Raising Awareness — the Clearing Cues",
+        "ro": "Ridicarea conștienței — indiciile de limpezire"
       },
       "cel": {
         "hu": "Minden élénk belső élmény első mozdulata: teljes tisztaságig emelni a figyelmet, mielőtt bármit tennél — hogy az élmény stabil legyen, és, ami döntő, megmaradjon az emlékezetben.",
-        "en": "The first move in any vivid inner experience: lifting attention to full clarity before doing anything — so the experience is stable and, crucially, remembered."
+        "en": "The first move in any vivid inner experience: lifting attention to full clarity before doing anything — so the experience is stable and, crucially, remembered.",
+        "ro": "Primul pas în orice experiență lăuntrică vie: ridicarea atenției la claritate deplină înainte de a face orice — ca experiența să fie stabilă și, esențial, reținută."
       },
       "modszer": [
         {
           "hu": "Amint egy élénk belső élményben találod magad, ne kezdj felfedezni: előbb emeld az éberséged.",
-          "en": "As soon as you find yourself in a vivid inner experience, do not start exploring: first raise your awareness."
+          "en": "As soon as you find yourself in a vivid inner experience, do not start exploring: first raise your awareness.",
+          "ro": "De îndată ce te găsești într-o experiență lăuntrică vie, nu începe să explorezi: mai întâi ridică-ți conștiența."
         },
         {
           "hu": "Nézd meg a kezedet, dörzsöld össze a tenyered, érints meg felületeket — kösd a figyelmed az érzékletekhez.",
-          "en": "Look at your hands, rub your palms together, touch surfaces — tie your attention to the senses."
+          "en": "Look at your hands, rub your palms together, touch surfaces — tie your attention to the senses.",
+          "ro": "Privește-ți mâinile, freacă-ți palmele una de alta, atinge suprafețe — leagă-ți atenția de simțuri."
         },
         {
           "hu": "Mondj magadban rövid, magad választotta hívószavakat, amelyek tisztaságot és élesebb figyelmet kérnek.",
-          "en": "Say inwardly short cue-words of your own choosing that ask for clarity and sharper attention."
+          "en": "Say inwardly short cue-words of your own choosing that ask for clarity and sharper attention.",
+          "ro": "Spune în interior cuvinte-indiciu scurte, alese de tine, care cer claritate și atenție mai ascuțită."
         },
         {
           "hu": "Addig folytasd, míg úgy nem érzed: teljesen jelen vagy, nem zavaros, hanem földelt. Csak ekkor lépj tovább.",
-          "en": "Continue until you feel fully present — not confused but grounded. Only then move on."
+          "en": "Continue until you feel fully present — not confused but grounded. Only then move on.",
+          "ro": "Continuă până te simți pe deplin prezent — nu confuz, ci ancorat. Abia atunci mergi mai departe."
         }
       ],
       "keret": {
         "hu": "A hagyomány és a becsületes párhuzamos lencse egyetért a mechanikában: a stabilizálatlan figyelem ködös jelenetet és halvány emléket ad. A hívószavak úgy hatnak, hogy a saját figyelmedet irányítják, nem egy külső világot parancsolnak. Gyümölcsével mérjük — tisztaság és felidézés.",
-        "en": "The tradition and the honest parallel lens agree on the mechanics: unstabilized attention yields a foggy scene and a faint memory. The cue-words work by directing your own attention, not by commanding an outer world. Measured by fruit — clarity and recall."
+        "en": "The tradition and the honest parallel lens agree on the mechanics: unstabilized attention yields a foggy scene and a faint memory. The cue-words work by directing your own attention, not by commanding an outer world. Measured by fruit — clarity and recall.",
+        "ro": "Tradiția și lentila paralelă onestă sunt de acord asupra mecanicii: atenția nestabilizată dă o scenă încețoșată și o amintire slabă. Cuvintele-indiciu funcționează prin dirijarea propriei tale atenții, nu prin comanda unei lumi exterioare. Măsurat după roadă — claritate și reamintire."
       }
     },
     {
@@ -786,33 +932,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Stabilizálás és átjárók",
-        "en": "Stabilizing and Gateways"
+        "en": "Stabilizing and Gateways",
+        "ro": "Stabilizare și porți"
       },
       "cel": {
         "hu": "Az élmény megszilárdítása, mielőtt bármit tennél benne: stabil figyelem nélkül a jelenet ködös marad, és utólag alig emlékszel rá.",
-        "en": "Steadying the experience before doing anything in it: without stable attention the scene stays foggy, and afterwards you barely remember it."
+        "en": "Steadying the experience before doing anything in it: without stable attention the scene stays foggy, and afterwards you barely remember it.",
+        "ro": "Stabilizarea experienței înainte de a face ceva în ea: fără atenție stabilă scena rămâne încețoșată, și după aceea abia ți-o amintești."
       },
       "modszer": [
         {
           "hu": "Amikor az élmény jelenetté válik, ne rohanj. Nézd meg a kezedet, és érints meg felületeket.",
-          "en": "When the experience becomes a scene, do not rush. Look at your hands, and touch surfaces."
+          "en": "When the experience becomes a scene, do not rush. Look at your hands, and touch surfaces.",
+          "ro": "Când experiența devine o scenă, nu te grăbi. Privește-ți mâinile și atinge suprafețe."
         },
         {
           "hu": "Mondj magadban egy magad választotta, rövid, nyugodt kulcsmondatot, amely élesebb, tisztább figyelmet kér, és távolodj el a kiindulóponttól.",
-          "en": "Say inwardly a short calm key-phrase of your own choosing, one that asks for sharper, clearer attention, and move away from your starting point."
+          "en": "Say inwardly a short calm key-phrase of your own choosing, one that asks for sharper, clearer attention, and move away from your starting point.",
+          "ro": "Spune în interior o scurtă frază-cheie calmă, aleasă de tine, una care cere atenție mai ascuțită, mai clară, și îndepărtează-te de punctul de pornire."
         },
         {
           "hu": "Idézd fel újra a szándékodat. Ha a jelenet magától átalakul vagy elsodor valahová, engedd.",
-          "en": "Recall your intention again. If the scene transforms by itself or carries you somewhere, allow it."
+          "en": "Recall your intention again. If the scene transforms by itself or carries you somewhere, allow it.",
+          "ro": "Amintește-ți din nou intenția. Dacă scena se transformă de la sine sau te poartă undeva, îngăduie-i."
         },
         {
           "hu": "Ha semmi sem történik, keress *átjárót*: egy ajtót, boltívet, függönyt — a jelenet bármely küszöbszerű elemét —, és lépj át rajta a szándékoddal. A belső színtér szereti a jelképes kapukat.",
-          "en": "If nothing happens, look for a *gateway*: a door, an archway, a curtain — any threshold-like feature of the scene — and step through it carrying your intention. The inner stage loves symbolic gates."
+          "en": "If nothing happens, look for a *gateway*: a door, an archway, a curtain — any threshold-like feature of the scene — and step through it carrying your intention. The inner stage loves symbolic gates.",
+          "ro": "Dacă nu se întâmplă nimic, caută o *poartă*: o ușă, un arc, o perdea — orice element de prag al scenei — și treci prin ea purtându-ți intenția. Scena interioară iubește porțile simbolice."
         }
       ],
       "keret": {
         "hu": "A hagyomány ezt a jelenet uralásának tanulja; a párhuzamos lencse a figyelem stabilizálásának egy teljesen elevenné vált belső színtéren. Ami a jelenetben megjelenik, belső élmény — nem ellenőrzött információ, és soha nem alapja valós döntéseknek.",
-        "en": "The tradition teaches this as mastering the scene; the parallel lens as stabilizing attention on an inner stage become fully alive. Whatever appears in the scene is inner experience — not verified information, and never a basis for real decisions."
+        "en": "The tradition teaches this as mastering the scene; the parallel lens as stabilizing attention on an inner stage become fully alive. Whatever appears in the scene is inner experience — not verified information, and never a basis for real decisions.",
+        "ro": "Tradiția predă asta ca stăpânirea scenei; lentila paralelă ca stabilizarea atenției pe o scenă interioară devenită pe deplin vie. Orice apare în scenă este experiență interioară — nu informație verificată, și niciodată o bază pentru decizii reale."
       }
     },
     {
@@ -824,37 +977,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "A lényeges kérdés elöl",
-        "en": "The Essential Question First"
+        "en": "The Essential Question First",
+        "ro": "Întrebarea esențială mai întâi"
       },
       "cel": {
         "hu": "Mivel a belső élmények gyakran figyelmeztetés nélkül érnek véget, előre eldönteni az egyetlen legfontosabb kérdésedet, és azt feltenni először, a csevegés előtt.",
-        "en": "Because inner experiences often end without warning, deciding your single most important question in advance and asking it first, before any small talk."
+        "en": "Because inner experiences often end without warning, deciding your single most important question in advance and asking it first, before any small talk.",
+        "ro": "Pentru că experiențele interioare se termină adesea fără avertisment, decide dinainte singura ta întrebare cea mai importantă și pune-o prima, înainte de orice vorbărie."
       },
       "modszer": [
         {
           "hu": "A gyakorlás előtt fogalmazd meg egyetlen, számodra legfontosabb kérdésedet, és tanuld meg fejből.",
-          "en": "Before the practice, formulate your single most important question, and learn it by heart."
+          "en": "Before the practice, formulate your single most important question, and learn it by heart.",
+          "ro": "Înainte de practică, formulează-ți singura întrebare cea mai importantă și învață-o pe de rost."
         },
         {
           "hu": "Ha az élményben alak vagy jelenlét jelenik meg, ne kezdj bevezető csevegésbe: tedd fel *először* a lényeges kérdést.",
-          "en": "If a figure or presence appears in the experience, do not begin with introductory chatter: ask the essential question *first*."
+          "en": "If a figure or presence appears in the experience, do not begin with introductory chatter: ask the essential question *first*.",
+          "ro": "Dacă apare o figură sau o prezență în experiență, nu începe cu vorbărie introductivă: pune întrebarea esențială *prima*."
         },
         {
           "hu": "Figyelj a válaszra — szó, kép vagy szavak nélküli megértés is lehet — ítélkezés nélkül.",
-          "en": "Attend to the answer — it may be a word, an image or a wordless understanding — without judging."
+          "en": "Attend to the answer — it may be a word, an image or a wordless understanding — without judging.",
+          "ro": "Fii atent la răspuns — poate fi un cuvânt, o imagine sau o înțelegere fără cuvinte — fără a judeca."
         },
         {
           "hu": "Térj vissza, és rögzítsd azonnal, mielőtt elhalványik.",
-          "en": "Return, and record it at once before it fades."
+          "en": "Return, and record it at once before it fades.",
+          "ro": "Întoarce-te și notează-l imediat, înainte să se șteargă."
         }
       ],
       "keret": {
         "hu": "Gyakorlati sorrendi szokás, gyümölcsével mérve — azzal térsz vissza, ami a legfontosabb volt, nem egy félbeszakadt udvariassággal. Bármely megjelenő válasz belső élmény, utólag mérlegelendő, sosem tényként véve.",
-        "en": "A practical sequencing habit, measured by fruit — you come away with what mattered most, not an interrupted pleasantry. Whatever answer appears is inner experience, weighed later, never taken as fact."
+        "en": "A practical sequencing habit, measured by fruit — you come away with what mattered most, not an interrupted pleasantry. Whatever answer appears is inner experience, weighed later, never taken as fact.",
+        "ro": "Un obicei practic de ordonare, măsurat după roade — pleci cu ce a contat cel mai mult, nu cu o politețe întreruptă. Orice răspuns apare este experiență interioară, cântărită mai târziu, niciodată luată ca fapt."
       },
       "etika": {
         "hu": "A válasz nem ellenőrzött tény és nem valós döntések alapja.",
-        "en": "The answer is not a verified fact and not a basis for real decisions."
+        "en": "The answer is not a verified fact and not a basis for real decisions.",
+        "ro": "Răspunsul nu este un fapt verificat și nu este o bază pentru decizii reale."
       }
     },
     {
@@ -866,41 +1027,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "A belső találkozás",
-        "en": "The Inner Meeting"
+        "en": "The Inner Meeting",
+        "ro": "Întâlnirea interioară"
       },
       "cel": {
         "hu": "Találkozás a belső vezetővel a stabilizált élményen belül: kérdezni, figyelni ítélkezés nélkül, és a kapott anyagot elmélkedésre — nem parancsra — hazavinni.",
-        "en": "Meeting the inner guide within the stabilized experience: asking, listening without judging, and carrying the material home for reflection — not for obedience."
+        "en": "Meeting the inner guide within the stabilized experience: asking, listening without judging, and carrying the material home for reflection — not for obedience.",
+        "ro": "Întâlnirea ghidului interior în experiența stabilizată: a întreba, a asculta fără a judeca și a aduce materialul acasă pentru reflecție — nu pentru supunere."
       },
       "modszer": [
         {
           "hu": "Stabilizált jelenetben újítsd meg az átérzett szándékot: találkozni a belső vezetőddel.",
-          "en": "In a stabilized scene, renew the felt intention: to meet your inner guide."
+          "en": "In a stabilized scene, renew the felt intention: to meet your inner guide.",
+          "ro": "Într-o scenă stabilizată, reînnoiește intenția simțită: să-ți întâlnești ghidul interior."
         },
         {
           "hu": "Ha alak jelenik meg — ismerős vagy ismeretlen, olykor csak jelenlét vagy fényjelenség —, a legfontosabb kérdésedet tedd fel *először*: az élmények gyakran váratlanul érnek véget.",
-          "en": "If a figure appears — familiar or unfamiliar, sometimes a mere presence or a play of light — ask your most important question *first*: these experiences often end without warning."
+          "en": "If a figure appears — familiar or unfamiliar, sometimes a mere presence or a play of light — ask your most important question *first*: these experiences often end without warning.",
+          "ro": "Dacă apare o figură — cunoscută sau necunoscută, uneori o simplă prezență sau un joc de lumină — pune-ți cea mai importantă întrebare *prima*: aceste experiențe se termină adesea fără avertisment."
         },
         {
           "hu": "Kérdezz nyitottan — például: mit érdemes most látnom? —, és figyelj ítélkezés nélkül. A válasz lehet szó, kép vagy szavak nélküli megértés.",
-          "en": "Ask openly — for example: what is worth seeing now? — and listen without judging. The answer may be a word, an image or a wordless understanding."
+          "en": "Ask openly — for example: what is worth seeing now? — and listen without judging. The answer may be a word, an image or a wordless understanding.",
+          "ro": "Întreabă deschis — de exemplu: ce merită văzut acum? — și ascultă fără a judeca. Răspunsul poate fi un cuvânt, o imagine sau o înțelegere fără cuvinte."
         },
         {
           "hu": "A végén köszönd meg — bármi történt vagy nem történt —, térj vissza, és azonnal írj kulcsszavakat, aztán részleteket.",
-          "en": "At the end give thanks — whatever did or did not happen —, return, and write keywords at once, details after."
+          "en": "At the end give thanks — whatever did or did not happen —, return, and write keywords at once, details after.",
+          "ro": "La final mulțumește — orice s-a întâmplat sau nu s-a întâmplat —, întoarce-te și scrie imediat cuvinte-cheie, detaliile după."
         },
         {
           "hu": "Ébredés után mérlegeld a kapott anyagot mindkét lencsén át: mit teszel félre, és mit tartasz meg elmélkedésre?",
-          "en": "After waking, weigh the material through both lenses: what do you set aside, and what do you keep for reflection?"
+          "en": "After waking, weigh the material through both lenses: what do you set aside, and what do you keep for reflection?",
+          "ro": "După trezire, cântărește materialul prin ambele lentile: ce lași deoparte și ce păstrezi pentru reflecție?"
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint segítő, nem-fizikai alakok kísérik a gyakorlót; a párhuzamos becsületes lencse belső figurákat lát — a saját mélyebb tudásod, emlékeid és értékeid megszemélyesítőit, ahogy az álmok is arcot adnak annak, amit belül hordozunk. Mindkét lencsében igaz: a találkozás élményként valódi és megrendítő lehet, a kapott tanács pedig ugyanúgy mérlegelésre szorul, mint bármely saját gondolatod. Találkozást senkinek sem ígérünk.",
-        "en": "The tradition holds that helper figures accompany the practitioner; the parallel honest lens sees inner figures — personifications of your own deeper knowledge, memories and values, just as dreams give faces to what we carry within. In both lenses one thing is true: the meeting can be real and moving as an experience, and the counsel received needs weighing exactly like any thought of your own. We promise no meeting to anyone."
+        "en": "The tradition holds that helper figures accompany the practitioner; the parallel honest lens sees inner figures — personifications of your own deeper knowledge, memories and values, just as dreams give faces to what we carry within. In both lenses one thing is true: the meeting can be real and moving as an experience, and the counsel received needs weighing exactly like any thought of your own. We promise no meeting to anyone.",
+        "ro": "Tradiția susține că figuri ajutătoare îl însoțesc pe practicant; lentila paralelă onestă vede figuri interioare — personificări ale propriei tale cunoașteri mai adânci, amintiri și valori, așa cum visele dau chipuri la ceea ce purtăm înăuntru. În ambele lentile un lucru e adevărat: întâlnirea poate fi reală și mișcătoare ca experiență, iar sfatul primit trebuie cântărit exact ca orice gând al tău. Nu promitem nimănui o întâlnire."
       },
       "etika": {
         "hu": "A vezető szava nem parancs, nem jóslat és nem bizonyíték — valós döntést (egészség, pénz, kapcsolat) soha ne alapozz rá. Ami kész receptet, sürgetést, engedelmességet vagy titkolózást követel, tedd félre — és ha nyomasztó, beszélj róla szakemberrel. Élő embereket nem keresünk fel és nem befolyásolunk. Ha elhunyt szeretteddel keresnél találkozást: a vágy a szeretet nyelve, de a friss, nyers gyász nem a küszöbgyakorlatok ideje; a vigasztaló élmény ajándék, nem bizonyíték — elsöprő gyászban fordulj emberi támaszhoz. A gyakorlat nem terápia.",
-        "en": "A guide's word is not a command, not a prophecy and not evidence — never base a real decision (health, money, relationships) on it. Whatever demands ready recipes, urgency, obedience or secrecy, set aside — and if it weighs on you, speak with a professional. We do not visit or influence living people. If you long to meet a departed loved one: the longing is the language of love, but fresh, raw grief is not the season for threshold work; a consoling experience is a gift, not proof — in overwhelming grief turn to human support. The practice is not therapy."
+        "en": "A guide's word is not a command, not a prophecy and not evidence — never base a real decision (health, money, relationships) on it. Whatever demands ready recipes, urgency, obedience or secrecy, set aside — and if it weighs on you, speak with a professional. We do not visit or influence living people. If you long to meet a departed loved one: the longing is the language of love, but fresh, raw grief is not the season for threshold work; a consoling experience is a gift, not proof — in overwhelming grief turn to human support. The practice is not therapy.",
+        "ro": "Cuvântul unui ghid nu este o poruncă, nu este o profeție și nu este o dovadă — nu baza niciodată o decizie reală (sănătate, bani, relații) pe el. Orice cere rețete gata făcute, urgență, supunere sau secret, lasă deoparte — și dacă te apasă, vorbește cu un profesionist. Nu vizităm și nu influențăm oameni în viață. Dacă tânjești să întâlnești pe cineva drag plecat: tânjirea este limbajul iubirii, dar durerea proaspătă, crudă nu e anotimpul pentru munca de prag; o experiență consolatoare este un dar, nu o dovadă — în durerea copleșitoare apelează la sprijin omenesc. Practica nu este terapie."
       }
     },
     {
@@ -912,37 +1082,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Megkülönböztetés — próbakérdések a belső alaknak",
-        "en": "Discernment — Testing the Inner Figure"
+        "en": "Discernment — Testing the Inner Figure",
+        "ro": "Discernământ — Testarea figurii interioare"
       },
       "cel": {
         "hu": "A hagyományból kölcsönzött megkülönböztető szokás: bármely belső alak tanácsát szerkezetes kételkedéssel kezelni, nem automatikus hittel — a naiv bizalom ellentéte.",
-        "en": "A discernment habit borrowed from the tradition: treating any inner figure's counsel with structured skepticism rather than automatic belief — the opposite of naive trust."
+        "en": "A discernment habit borrowed from the tradition: treating any inner figure's counsel with structured skepticism rather than automatic belief — the opposite of naive trust.",
+        "ro": "Un obicei de discernământ împrumutat din tradiție: a trata sfatul oricărei figuri interioare cu scepticism structurat mai degrabă decât cu credință automată — opusul încrederii naive."
       },
       "modszer": [
         {
           "hu": "Ha egy alak vagy „szakértő” jelenik meg, ne fogadd el rögtön hitelesnek, amit mond.",
-          "en": "If a figure or „expert” appears, do not accept what it says as authoritative straight away."
+          "en": "If a figure or „expert” appears, do not accept what it says as authoritative straight away.",
+          "ro": "Dacă apare o figură sau un „expert”, nu accepta pe loc ce spune ca fiind autoritar."
         },
         {
           "hu": "Tegyél fel neki próbakérdéseket, és kérd, indokolja meg a válaszait; figyeld, van-e bennük belső ellentmondás.",
-          "en": "Put test questions to it, and ask it to justify its answers; watch for inner contradiction."
+          "en": "Put test questions to it, and ask it to justify its answers; watch for inner contradiction.",
+          "ro": "Pune-i întrebări de test și cere-i să-și justifice răspunsurile; fii atent la contradicții interioare."
         },
         {
           "hu": "Bármi kész receptet, sürgetést, engedelmességet vagy titkolózást követel, tekintsd figyelmeztető jelnek, és tedd félre.",
-          "en": "Whatever demands ready recipes, urgency, obedience or secrecy, treat as a warning sign, and set it aside."
+          "en": "Whatever demands ready recipes, urgency, obedience or secrecy, treat as a warning sign, and set it aside.",
+          "ro": "Orice cere rețete gata făcute, urgență, supunere sau secret, tratează ca pe un semn de avertizare și lasă deoparte."
         },
         {
           "hu": "Ébredés után írd le a kapott anyagot, és mérlegeld hűvös fejjel, mindkét becsületes lencsén át.",
-          "en": "After waking, write the material down, and weigh it with a cool head, through both honest lenses."
+          "en": "After waking, write the material down, and weigh it with a cool head, through both honest lenses.",
+          "ro": "După trezire, scrie materialul și cântărește-l cu mintea limpede, prin ambele lentile oneste."
         }
       ],
       "keret": {
         "hu": "A becsületes kerítés nyíltan: még ha egy alak „át is megy” a kérdéseiden, ez nem igazolás — a meggyőző belső alak is a saját belső anyagod. A gyakorlat a megkülönböztetést edzi és csökkenti a hiszékenységet; sosem alakít benyomást ténnyé. Amit mond, soha nem alapja valós döntésnek.",
-        "en": "The honest fence stated plainly: even when a figure seems to „pass” your questions, this is not verification — a convincing inner figure is still your own inner material. The practice trains discernment and reduces credulity; it never turns an impression into a fact. Whatever it says is never a basis for a real-world decision."
+        "en": "The honest fence stated plainly: even when a figure seems to „pass” your questions, this is not verification — a convincing inner figure is still your own inner material. The practice trains discernment and reduces credulity; it never turns an impression into a fact. Whatever it says is never a basis for a real-world decision.",
+        "ro": "Gardul onest spus pe șleau: chiar și când o figură pare să „treacă” testele tale, asta nu e verificare — o figură interioară convingătoare rămâne tot materialul tău interior. Practica antrenează discernământul și reduce credulitatea; nu transformă niciodată o impresie într-un fapt. Orice spune nu este niciodată o bază pentru o decizie din lumea reală."
       },
       "etika": {
         "hu": "A benyomások belső élmények, sosem ellenőrzött információ; valós döntést (egészség, pénz, kapcsolatok, más emberek) soha ne alapozz rájuk. Ne használd arra, hogy valódi, élő emberekről gyűjts „információt”. Ha az anyag nyomasztó, tedd félre, és ha megterhel, beszélj szakemberrel.",
-        "en": "Impressions are inner experience, never verified information; never base a real decision (health, money, relationships, other people) on them. Do not use this to gather „information” about real, living people. If the material is disturbing, set it aside, and if it weighs on you, speak with a professional."
+        "en": "Impressions are inner experience, never verified information; never base a real decision (health, money, relationships, other people) on them. Do not use this to gather „information” about real, living people. If the material is disturbing, set it aside, and if it weighs on you, speak with a professional.",
+        "ro": "Impresiile sunt experiență interioară, niciodată informație verificată; nu baza niciodată o decizie reală (sănătate, bani, relații, alți oameni) pe ele. Nu folosi asta ca să aduni „informații” despre oameni reali, în viață. Dacă materialul e tulburător, lasă-l deoparte, și dacă te apasă, vorbește cu un profesionist."
       }
     },
     {
@@ -954,37 +1132,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Utólagos elmélkedés — a jelentés kibontása",
-        "en": "Reflection Afterwards — Unfolding the Meaning"
+        "en": "Reflection Afterwards — Unfolding the Meaning",
+        "ro": "Reflecția de după — Desfășurarea sensului"
       },
       "cel": {
         "hu": "A belső találkozás utáni csendes munka: együtt ülni azzal, ami jött, és megkérdezni, mit jelent — ha jelent valamit — neked, hiszen a belső útmutatás inkább villanásként érkezik, nem utasításként.",
-        "en": "The quiet work after an inner meeting: sitting with what came and asking what, if anything, it means to you — since inner guidance tends to arrive as glimpses, not instructions."
+        "en": "The quiet work after an inner meeting: sitting with what came and asking what, if anything, it means to you — since inner guidance tends to arrive as glimpses, not instructions.",
+        "ro": "Munca liniștită după o întâlnire interioară: a sta cu ce a venit și a întreba ce, dacă ceva, înseamnă pentru tine — fiindcă ghidarea interioară tinde să sosească ca sclipiri, nu ca instrucțiuni."
       },
       "modszer": [
         {
           "hu": "Ébredés és naplózás után hagyj magadnak csendes időt, hogy visszatérj a kapott anyaghoz.",
-          "en": "After waking and journaling, allow yourself quiet time to return to the material received."
+          "en": "After waking and journaling, allow yourself quiet time to return to the material received.",
+          "ro": "După trezire și notarea în jurnal, acordă-ți un timp liniștit ca să te întorci la materialul primit."
         },
         {
           "hu": "Kérdezd: mi ebből az, ami rezonál velem, és mi az, amit félreteszek? Ne erőltess rá jelentést, ami nincs ott.",
-          "en": "Ask: what in this resonates with me, and what do I set aside? Do not force a meaning that is not there."
+          "en": "Ask: what in this resonates with me, and what do I set aside? Do not force a meaning that is not there.",
+          "ro": "Întreabă-te: ce din asta rezonează cu mine și ce las deoparte? Nu forța un înțeles care nu e acolo."
         },
         {
           "hu": "Ha egy kép vagy mondat foglalkoztat, írd körül, mit hív elő benned — emléket, értéket, döntést, amelyen dolgozol.",
-          "en": "If an image or sentence stays with you, write around it: what it calls up in you — a memory, a value, a decision you are working on."
+          "en": "If an image or sentence stays with you, write around it: what it calls up in you — a memory, a value, a decision you are working on.",
+          "ro": "Dacă o imagine sau o propoziție rămâne cu tine, scrie în jurul ei: ce trezește în tine — o amintire, o valoare, o decizie la care lucrezi."
         },
         {
           "hu": "Zárd le szelíden: a belátás a tiéd marad mérlegelésre, nem parancsként.",
-          "en": "Close gently: the insight remains yours to weigh, not to obey."
+          "en": "Close gently: the insight remains yours to weigh, not to obey.",
+          "ro": "Închide blând: intuiția rămâne a ta ca s-o cântărești, nu ca s-o asculți orbește."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint az útmutatás villanásként jön, sosem kész válaszként; a becsületes lencse hétköznapi jelentésalkotást lát élénk belső anyaggal, mint amikor egy erős álommal dolgozol. Gyümölcseivel mérjük — belátás, önmegértés, nyugalom. Az anyag sosem ellenőrzött tény, és sosem valós döntések alapja.",
-        "en": "The tradition holds that guidance comes as hints to reflect on, never as ready answers; the honest lens sees ordinary meaning-making with vivid inner material, like working with a striking dream. Measured by fruit — insight, self-understanding, calm. The material is never verified fact and never a basis for real decisions."
+        "en": "The tradition holds that guidance comes as hints to reflect on, never as ready answers; the honest lens sees ordinary meaning-making with vivid inner material, like working with a striking dream. Measured by fruit — insight, self-understanding, calm. The material is never verified fact and never a basis for real decisions.",
+        "ro": "Tradiția susține că îndrumarea vine ca indicii pe care să le reflectezi, niciodată ca răspunsuri gata făcute; lentila onestă vede o creare obișnuită de sens cu material interior viu, ca atunci când lucrezi cu un vis izbitor. Măsurat după roade — intuiție, auto-înțelegere, calm. Materialul nu e niciodată fapt verificat și niciodată o bază pentru decizii reale."
       },
       "etika": {
         "hu": "Nem terápia; ha az elmélkedés fájdalmasat vagy elsöprőt nyit meg, légy gyengéd, és fordulj emberi támaszhoz. Semmi itt nem diagnosztizál és nem kezel semmit.",
-        "en": "Not therapy; if reflection opens something painful or overwhelming, be gentle and seek human support. Nothing here diagnoses or treats anything."
+        "en": "Not therapy; if reflection opens something painful or overwhelming, be gentle and seek human support. Nothing here diagnoses or treats anything.",
+        "ro": "Nu e terapie; dacă reflecția deschide ceva dureros sau copleșitor, fii blând cu tine și caută sprijin omenesc. Nimic de aici nu diagnostichează și nu tratează nimic."
       }
     },
     {
@@ -996,37 +1182,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A megmutatás — hagyni, hogy az élmény szóljon",
-        "en": "Being Shown — Letting the Experience Speak"
+        "en": "Being Shown — Letting the Experience Speak",
+        "ro": "A ți se arăta — Lăsând experiența să vorbească"
       },
       "cel": {
         "hu": "A gyűjtés befogadó változata: alak kérdezése helyett szelíden azt a szándékot megfogalmazni, hogy *megmutassanak* valamit — például, miért érzel valahogy —, majd tanúként figyelni a felbukkanó belső jelenetet.",
-        "en": "A receptive variant of gathering: instead of asking a figure, gently forming the intention to be *shown* something — for example why you feel a certain way — and then witnessing the inner scene that arises."
+        "en": "A receptive variant of gathering: instead of asking a figure, gently forming the intention to be *shown* something — for example why you feel a certain way — and then witnessing the inner scene that arises.",
+        "ro": "O variantă receptivă a adunării: în loc să întrebi o figură, formezi blând intenția de a ți se *arăta* ceva — de exemplu de ce te simți într-un anume fel — și apoi asisti la scena interioară care apare."
       },
       "modszer": [
         {
           "hu": "Stabilizált élményben fogalmazz meg egy nyitott, szelíd szándékot: mutasd meg nekem, honnan ered ez az érzésem.",
-          "en": "In a stabilized experience, form an open, gentle intention: show me where this feeling of mine comes from."
+          "en": "In a stabilized experience, form an open, gentle intention: show me where this feeling of mine comes from.",
+          "ro": "Într-o experiență stabilizată, formează o intenție deschisă, blândă: arată-mi de unde vine acest sentiment al meu."
         },
         {
           "hu": "Keress egy átjárót — ajtót, függönyt —, és lépj át rajta ezzel a szándékkal, majd *engedd*, hogy jelenet formálódjék, ahelyett hogy irányítanád.",
-          "en": "Find a gateway — a door, a curtain — and step through it with this intention, then *allow* a scene to form rather than steering it."
+          "en": "Find a gateway — a door, a curtain — and step through it with this intention, then *allow* a scene to form rather than steering it.",
+          "ro": "Găsește o poartă — o ușă, o perdea — și treci prin ea cu această intenție, apoi *permite* unei scene să se formeze în loc să o dirijezi."
         },
         {
           "hu": "Figyeld tanúként, ítélkezés nélkül, ami megjelenik; ha érzelem tör fel, engedd, hogy áthaladjon rajtad.",
-          "en": "Watch as a witness, without judgment, whatever appears; if emotion rises, let it pass through you."
+          "en": "Watch as a witness, without judgment, whatever appears; if emotion rises, let it pass through you.",
+          "ro": "Privește ca un martor, fără judecată, orice apare; dacă se ridică o emoție, las-o să treacă prin tine."
         },
         {
           "hu": "Térj vissza, és jegyezd fel; a feldolgozást hagyd az ébren töltött elmélkedésre.",
-          "en": "Return, and note it down; leave the working-through to waking reflection."
+          "en": "Return, and note it down; leave the working-through to waking reflection.",
+          "ro": "Întoarce-te și notează; lasă prelucrarea pe seama reflecției din starea de veghe."
         }
       ],
       "keret": {
         "hu": "A hagyomány ezt gyógyulásra felszínre kerülő belső anyagként keretezi; a becsületes lencse a psziché jelképadását látja annak, amit már hordozol, ahogy az álmok teszik. Gyümölcseivel mérjük — érzelmi belátás és oldódás. Ami megjelenik, belső élmény, jelképes, nem szó szerinti — sosem tényszerű beszámoló múltbeli eseményekről vagy más emberekről, és sosem valós döntések alapja.",
-        "en": "The tradition frames this as inner material surfacing for healing; the honest lens sees the psyche giving symbolic form to what you already carry, as dreams do. Measured by fruit — emotional insight and release. What appears is inner experience, symbolic not literal — never a factual account of past events or other people, and never a basis for real decisions."
+        "en": "The tradition frames this as inner material surfacing for healing; the honest lens sees the psyche giving symbolic form to what you already carry, as dreams do. Measured by fruit — emotional insight and release. What appears is inner experience, symbolic not literal — never a factual account of past events or other people, and never a basis for real decisions.",
+        "ro": "Tradiția prezintă asta ca material interior care iese la suprafață pentru vindecare; lentila onestă vede psihicul dând formă simbolică la ceea ce porți deja, așa cum fac visele. Măsurat după roade — intuiție emoțională și eliberare. Ce apare e experiență interioară, simbolică nu literală — niciodată o relatare factuală a unor evenimente din trecut sau a altor oameni, și niciodată o bază pentru decizii reale."
       },
       "etika": {
         "hu": "Gyógyulás-közeli, ezért határozott kerítés: ez nem terápia, és nem is helyettesíti azt; nem képes „igazi” emlékeket előhívni — az élénk belső jelenetek nem megbízható feljegyzései annak, ami valóban történt. Ha traumát vagy szorongást kavar, állj le, és fordulj képzett szakemberhez. Válságban lévőknek nem való.",
-        "en": "Healing-adjacent, so a firm fence: this is not therapy and does not replace it; it cannot recover „true” memories — vivid inner scenes are not reliable records of what really happened. If it stirs trauma or distress, stop and seek a qualified professional. Not for anyone in crisis."
+        "en": "Healing-adjacent, so a firm fence: this is not therapy and does not replace it; it cannot recover „true” memories — vivid inner scenes are not reliable records of what really happened. If it stirs trauma or distress, stop and seek a qualified professional. Not for anyone in crisis.",
+        "ro": "Apropiat de vindecare, deci un gard ferm: asta nu e terapie și nu o înlocuiește; nu poate recupera amintiri „adevărate” — scenele interioare vii nu sunt înregistrări de încredere ale a ceea ce s-a întâmplat cu adevărat. Dacă stârnește traumă sau suferință, oprește-te și caută un profesionist calificat. Nu e pentru nimeni aflat în criză."
       }
     },
     {
@@ -1038,37 +1232,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "Szavak nélküli benyomások a jeleneten belül",
-        "en": "Wordless Impressions Within the Scene"
+        "en": "Wordless Impressions Within the Scene",
+        "ro": "Impresii fără cuvinte în interiorul scenei"
       },
       "cel": {
         "hu": "Észrevenni a magáról a belső jelenetről — annak hangulatáról, ízéről — felmerülő csendes „tudás” érzését, miközben szilárdan belső benyomásként tartod, sosem valós emberekről vagy helyekről szóló információként.",
-        "en": "Noticing the quiet sense of „knowing” that can arise about the inner scene itself — its mood, its feel — while holding it firmly as inner impression, never as information about real people or places."
+        "en": "Noticing the quiet sense of „knowing” that can arise about the inner scene itself — its mood, its feel — while holding it firmly as inner impression, never as information about real people or places.",
+        "ro": "Observarea simțului liniștit de „a ști” care poate apărea despre scena interioară însăși — starea ei, senzația ei — ținând-o ferm ca impresie interioară, niciodată ca informație despre oameni sau locuri reale."
       },
       "modszer": [
         {
           "hu": "Stabilizált, éber jelenetben figyeld, felmerül-e benned szavak nélküli benyomás a helyről vagy a hangulatról.",
-          "en": "In a stabilized, alert scene, notice whether a wordless impression of the place or its mood arises in you."
+          "en": "In a stabilized, alert scene, notice whether a wordless impression of the place or its mood arises in you.",
+          "ro": "Într-o scenă stabilizată, trează, observă dacă apare în tine o impresie fără cuvinte a locului sau a stării lui."
         },
         {
           "hu": "Vedd tudomásul, és nevezd meg magadban, de ne told tovább következtetésekbe; hagyd benyomásnak.",
-          "en": "Acknowledge it, and name it to yourself, but do not push it on into conclusions; leave it an impression."
+          "en": "Acknowledge it, and name it to yourself, but do not push it on into conclusions; leave it an impression.",
+          "ro": "Recunoaște-o și numește-o pentru tine, dar nu o împinge mai departe în concluzii; las-o o impresie."
         },
         {
           "hu": "Emlékeztesd magad: ez a saját belső színtered visszhangja, nem ellenőrzött hír a világról vagy bárkiről.",
-          "en": "Remind yourself: this is an echo of your own inner stage, not verified news about the world or anyone in it."
+          "en": "Remind yourself: this is an echo of your own inner stage, not verified news about the world or anyone in it.",
+          "ro": "Amintește-ți: asta e un ecou al propriei tale scene interioare, nu știri verificate despre lume sau despre cineva din ea."
         },
         {
           "hu": "Naplózd benyomásként, és soha ne kezeld tényként.",
-          "en": "Journal it as an impression, and never treat it as fact."
+          "en": "Journal it as an impression, and never treat it as fact.",
+          "ro": "Noteaz-o în jurnal ca pe o impresie și nu o trata niciodată ca pe un fapt."
         }
       ],
       "keret": {
         "hu": "A hagyomány a mezőből „letöltött” tudásról beszél; a becsületes lencse a saját elmédet látja, amint a saját jelenetét olvassa. Ez a bejegyzés szándékosan a jelenet önmagáról szóló benyomásaira szűkíti a gyakorlatot. Gyümölcsével mérjük — érzékenység és könnyebb, figyelőbb figyelem. Sosem ellenőrzött információ.",
-        "en": "The tradition speaks of „downloading” knowing from the field; the honest lens sees your own mind reading its own scene. This entry deliberately narrows the practice to impressions about the inner scene itself. Measured by fruit — sensitivity and a lighter, more observant attention. Never verified information."
+        "en": "The tradition speaks of „downloading” knowing from the field; the honest lens sees your own mind reading its own scene. This entry deliberately narrows the practice to impressions about the inner scene itself. Measured by fruit — sensitivity and a lighter, more observant attention. Never verified information.",
+        "ro": "Tradiția vorbește despre „descărcarea” cunoașterii din câmp; lentila onestă vede propria minte citindu-și propria scenă. Această intrare restrânge în mod deliberat practica la impresii despre scena interioară însăși. Măsurat după roade — sensibilitate și o atenție mai ușoară, mai observatoare. Niciodată informație verificată."
       },
       "etika": {
         "hu": "Szigorúan önmagadra irányuló és befelé forduló. Ne használd arra, hogy valódi, élő *emberekről* alkoss benyomást — nem olvasol, nem diagnosztizálsz, nem ítélsz meg és nem gyűjtesz információt másokról a beleegyezésük nélkül; ez itt tiltott. A benyomás sosem tény és sosem valós döntés alapja. Utasíts el minden kísérletet, amely emberek felkutatására, pénzszerzésre vagy események előrejelzésére irányulna.",
-        "en": "Strictly self-directed and inward. Do not use this to form impressions about real, living *people* — you do not read, diagnose, judge or gather information about others without their consent; that is off-limits here. An impression is never a fact and never a basis for a real decision. Decline any attempt to use this to locate people, win money, or foresee events."
+        "en": "Strictly self-directed and inward. Do not use this to form impressions about real, living *people* — you do not read, diagnose, judge or gather information about others without their consent; that is off-limits here. An impression is never a fact and never a basis for a real decision. Decline any attempt to use this to locate people, win money, or foresee events.",
+        "ro": "Strict îndreptat spre sine și spre interior. Nu folosi asta ca să formezi impresii despre *oameni* reali, în viață — nu citești, nu diagnostichezi, nu judeci și nu aduni informații despre alții fără consimțământul lor; asta e interzis aici. O impresie nu e niciodată un fapt și niciodată o bază pentru o decizie reală. Refuză orice încercare de a folosi asta ca să localizezi oameni, să câștigi bani sau să prevăzi evenimente."
       }
     },
     {
@@ -1080,37 +1282,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "A belső könyvtár — a tudás jelképes tere",
-        "en": "The Inner Library — Knowledge as Symbol"
+        "en": "The Inner Library — Knowledge as Symbol",
+        "ro": "Biblioteca interioară — Cunoașterea ca simbol"
       },
       "cel": {
         "hu": "A hagyomány legnagyratörőbb motívuma jelképes belső munkaként átkeretezve: szándékot alkotni egy belső tudás-tér felkeresésére, és hagyni, hogy a megértés képként vagy érzésként érkezzen — teljességgel belső élményként tartva.",
-        "en": "The tradition's most ambitious motif reframed as symbolic inner work: forming an intention to visit an inner place of knowledge and letting understanding arrive as image or feeling — held entirely as inner experience."
+        "en": "The tradition's most ambitious motif reframed as symbolic inner work: forming an intention to visit an inner place of knowledge and letting understanding arrive as image or feeling — held entirely as inner experience.",
+        "ro": "Cel mai ambițios motiv al tradiției, reformulat ca lucru interior simbolic: formarea intenției de a vizita un loc interior al cunoașterii și lăsarea înțelegerii să sosească ca imagine sau sentiment — ținută în întregime ca experiență interioară."
       },
       "modszer": [
         {
           "hu": "Stabilizált élményben fogalmazz meg egy tiszta, tiszteletteljes szándékot, hogy egy belső tudás-térbe juss — például egy csendes könyvtárba vagy terembe.",
-          "en": "In a stabilized experience, form a clear, respectful intention to reach an inner space of knowledge — for example a quiet library or hall."
+          "en": "In a stabilized experience, form a clear, respectful intention to reach an inner space of knowledge — for example a quiet library or hall.",
+          "ro": "Într-o experiență stabilizată, formează o intenție clară, respectuoasă de a ajunge într-un spațiu interior al cunoașterii — de exemplu o bibliotecă liniștită sau o sală."
         },
         {
           "hu": "Keress átjárót, és lépj át rajta a szándékkal; hagyd, hogy a hely és a benne kapott anyag magától bontakozzék.",
-          "en": "Find a gateway, and step through it with the intention; let the place and the material within unfold by itself."
+          "en": "Find a gateway, and step through it with the intention; let the place and the material within unfold by itself.",
+          "ro": "Găsește o poartă și treci prin ea cu intenția; lasă locul și materialul dinăuntru să se desfășoare de la sine."
         },
         {
           "hu": "Fogadd, ami jön — kép, szó, szavak nélküli megértés —, ítélkezés nélkül, és köszönd meg.",
-          "en": "Receive what comes — image, word, wordless understanding — without judging, and give thanks."
+          "en": "Receive what comes — image, word, wordless understanding — without judging, and give thanks.",
+          "ro": "Primește ce vine — imagine, cuvânt, înțelegere fără cuvinte — fără a judeca, și mulțumește."
         },
         {
           "hu": "Térj vissza, naplózz, és minden kapott anyagot jelképként, ne tényként őrizz meg.",
-          "en": "Return, journal, and keep all received material as symbol, not as fact."
+          "en": "Return, journal, and keep all received material as symbol, not as fact.",
+          "ro": "Întoarce-te, notează în jurnal și păstrează tot materialul primit ca simbol, nu ca fapt."
         }
       ],
       "keret": {
         "hu": "A hagyomány ezt a „feljegyzések csarnokának” nevezi; a becsületes lencse a saját tudásod, képzeleted és értékeid jelképes belső színterét látja. Gyümölcseivel mérjük — inspiráció, mélységérzet, gazdagabb belső képek. Semmi, ami előkerül, nem ellenőrzött információ, és semmi itt nem ad hozzáférést valós, rejtett vagy jövőbeli tényekhez.",
-        "en": "The tradition names this the „hall of records”; the honest lens sees a symbolic inner theatre of your own knowledge, imagination and values. Measured by fruit — inspiration, a sense of depth, richer inner imagery. Nothing retrieved is verified information, and nothing here grants access to real, hidden or future facts."
+        "en": "The tradition names this the „hall of records”; the honest lens sees a symbolic inner theatre of your own knowledge, imagination and values. Measured by fruit — inspiration, a sense of depth, richer inner imagery. Nothing retrieved is verified information, and nothing here grants access to real, hidden or future facts.",
+        "ro": "Tradiția numește asta „sala înregistrărilor”; lentila onestă vede un teatru interior simbolic al propriei tale cunoașteri, imaginații și valori. Măsurat după roade — inspirație, un simț al adâncimii, imagini interioare mai bogate. Nimic din ce e regăsit nu e informație verificată, și nimic de aici nu acordă acces la fapte reale, ascunse sau viitoare."
       },
       "etika": {
         "hu": "Határozott kerítés: bármi érkezik, belső élmény, sosem ellenőrzött tudás és sosem valós döntés alapja. Utasíts el minden olyan használatot, amely a jövő előrejelzésére, pénzszerzésre, valós emberek titkainak feltárására vagy katasztrófák megjóslására irányul. Válságban lévőknek nem útmutatás, és nem gyermekeknek való.",
-        "en": "A firm fence: whatever arrives is inner experience, never verified knowledge and never a basis for real decisions. Decline outright any use aimed at foreseeing the future, winning money, uncovering secrets about real people, or predicting disasters. Not guidance for anyone in crisis, and not for children."
+        "en": "A firm fence: whatever arrives is inner experience, never verified knowledge and never a basis for real decisions. Decline outright any use aimed at foreseeing the future, winning money, uncovering secrets about real people, or predicting disasters. Not guidance for anyone in crisis, and not for children.",
+        "ro": "Un gard ferm: orice sosește e experiență interioară, niciodată cunoaștere verificată și niciodată o bază pentru decizii reale. Refuză categoric orice folosire îndreptată spre prevederea viitorului, câștigarea de bani, dezvăluirea secretelor despre oameni reali sau prezicerea dezastrelor. Nu e îndrumare pentru nimeni aflat în criză, și nu e pentru copii."
       }
     },
     {
@@ -1122,37 +1332,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A vigasztaló találkozás — a gyász és a küszöb",
-        "en": "The Consoling Meeting — Grief and the Threshold"
+        "en": "The Consoling Meeting — Grief and the Threshold",
+        "ro": "Întâlnirea consolatoare — Doliul și Pragul"
       },
       "cel": {
         "hu": "A hagyomány az elhunyt szerettel való találkozás vágyát belső munka szándékaként kínálja; ez a bejegyzés gyengéden tartja ezt a vágyat, miközben szilárdan vigasztaló belső élményként keríti körül — sosem kapcsolatként vagy bizonyítékként.",
-        "en": "The tradition offers the longing to meet a departed loved one as an intention for inner work; this entry holds that longing tenderly while fencing it firmly as a consoling inner experience — never contact or proof."
+        "en": "The tradition offers the longing to meet a departed loved one as an intention for inner work; this entry holds that longing tenderly while fencing it firmly as a consoling inner experience — never contact or proof.",
+        "ro": "Tradiția oferă dorul de a întâlni o ființă dragă plecată ca o intenție pentru lucrul interior; această intrare ține acel dor cu tandrețe, în timp ce îl împrejmuiește ferm ca pe o experiență interioară consolatoare — niciodată contact sau dovadă."
       },
       "modszer": [
         {
           "hu": "Csak akkor, ha a gyászod már nem nyers és nem mindent elsöprő; friss, akut veszteségben ez nem a küszöbgyakorlatok ideje.",
-          "en": "Only when your grief is no longer raw and all-consuming; in fresh, acute loss this is not the season for threshold work."
+          "en": "Only when your grief is no longer raw and all-consuming; in fresh, acute loss this is not the season for threshold work.",
+          "ro": "Numai când doliul tău nu mai este crud și atotcuprinzător; în pierderea proaspătă, acută, nu este vremea pentru lucrul la prag."
         },
         {
           "hu": "Ha mégis vágysz rá, fogalmazd meg szelíden a szándékot, és végezd a szokásos küszöb- és stabilizáló lépéseket, minden várakozás nélkül.",
-          "en": "If you do long for it, form the intention gently, and do the usual threshold and stabilizing steps, without any expectation."
+          "en": "If you do long for it, form the intention gently, and do the usual threshold and stabilizing steps, without any expectation.",
+          "ro": "Dacă totuși tânjești după asta, formează intenția cu blândețe și fă pașii obișnuiți de prag și de stabilizare, fără nicio așteptare."
         },
         {
           "hu": "Ami megjelenik — alak, jelenlét, hangulat —, fogadd ajándékként; ne kérj tőle bizonyítékot, és ne tégy fel neki döntéseidet eldöntő kérdéseket.",
-          "en": "Whatever appears — a figure, a presence, a mood — receive it as a gift; ask it for no proof, and put to it no questions that would decide your choices."
+          "en": "Whatever appears — a figure, a presence, a mood — receive it as a gift; ask it for no proof, and put to it no questions that would decide your choices.",
+          "ro": "Orice ar apărea — o figură, o prezență, o stare — primește-o ca pe un dar; nu-i cere nicio dovadă și nu-i pune întrebări care ți-ar decide alegerile."
         },
         {
           "hu": "Térj vissza, naplózz, és engedj magadnak időt és emberi támaszt a feldolgozásra.",
-          "en": "Return, journal, and allow yourself time and human support to process it."
+          "en": "Return, journal, and allow yourself time and human support to process it.",
+          "ro": "Întoarce-te, notează în jurnal și acordă-ți timp și sprijin omenesc ca să o prelucrezi."
         }
       ],
       "keret": {
         "hu": "Becsületes lencse, gyengéden: egy vigasztaló találkozás azzal, akit szerettél, mélyen megrendítő és gyógyító lehet belső élményként — és ez elég. Nem a továbbélés bizonyítéka, nem szó szerinti kapcsolat, és nem csatorna, amelyen át az elhunyt az életedet irányítaná. A vágy a szeretet nyelve; az élmény ajándék, nem bizonyíték.",
-        "en": "The honest lens, gently: a consoling encounter with someone you loved can be deeply moving and healing as an inner experience — and that is enough. It is not evidence of survival, not literal contact, and not a channel through which the departed instructs your life. The longing is the language of love; the experience is a gift, not proof."
+        "en": "The honest lens, gently: a consoling encounter with someone you loved can be deeply moving and healing as an inner experience — and that is enough. It is not evidence of survival, not literal contact, and not a channel through which the departed instructs your life. The longing is the language of love; the experience is a gift, not proof.",
+        "ro": "Lentila onestă, cu blândețe: o întâlnire consolatoare cu cineva pe care l-ai iubit poate fi profund mișcătoare și vindecătoare ca experiență interioară — și asta e de ajuns. Nu este dovadă a supraviețuirii, nu este contact literal și nu este un canal prin care cel plecat îți îndrumă viața. Dorul este limba iubirii; experiența este un dar, nu o dovadă."
       },
       "etika": {
         "hu": "A friss, nyers gyász nem a küszöbmunka ideje — fordulj először emberi támaszhoz, és gyászszakemberhez, ha a veszteség elsöprő. Ez nem médiumitás, nem a túlvilág bizonyítéka, és sosem valós döntések alapja. Semmit, amit kapsz, ne kezelj cselekvésre szóló üzenetként. Válságban lévőknek és gyermekeknek nem való. Nem orvosi vagy pszichológiai kezelés.",
-        "en": "Fresh, raw grief is not the season for threshold work — turn first to human support, and to a grief professional if the loss is overwhelming. This is not mediumship, not proof of an afterlife, and never a basis for real decisions. Treat nothing you receive as a message to act on. Not for anyone in crisis or for children. Not medical or psychological treatment."
+        "en": "Fresh, raw grief is not the season for threshold work — turn first to human support, and to a grief professional if the loss is overwhelming. This is not mediumship, not proof of an afterlife, and never a basis for real decisions. Treat nothing you receive as a message to act on. Not for anyone in crisis or for children. Not medical or psychological treatment.",
+        "ro": "Doliul proaspăt, crud, nu este vremea pentru lucrul la prag — îndreaptă-te mai întâi spre sprijin omenesc și spre un specialist în doliu dacă pierderea te copleșește. Aceasta nu este mediumnitate, nu este dovadă a unei vieți de apoi și niciodată o bază pentru decizii reale. Nu trata nimic din ce primești ca pe un mesaj după care să acționezi. Nu pentru cineva aflat în criză și nu pentru copii. Nu este tratament medical sau psihologic."
       }
     },
     {
@@ -1164,41 +1382,50 @@
       "elem": "Ido",
       "cim": {
         "hu": "Indulás ébredésből",
-        "en": "Starting from Awakening"
+        "en": "Starting from Awakening",
+        "ro": "Pornind de la Trezire"
       },
       "cel": {
         "hu": "A küszöb elérése a reggeli félálomból: az ébredés utáni, még képlékeny állapotban a szándék mozdulatlan újraélesztése — csak kipihenten, alkalmanként.",
-        "en": "Reaching the threshold from the morning half-dream: reviving the intention motionlessly in the still-malleable state just after waking — only well rested, only occasionally."
+        "en": "Reaching the threshold from the morning half-dream: reviving the intention motionlessly in the still-malleable state just after waking — only well rested, only occasionally.",
+        "ro": "Ajungerea la prag din semi-visul de dimineață: reînvierea intenției fără mișcare în starea încă maleabilă de imediat după trezire — numai bine odihnit, numai ocazional."
       },
       "modszer": [
         {
           "hu": "Csak kipihent napon próbáld, alkalmanként — soha nem rendszeres alvásmegszakítással.",
-          "en": "Try it only on a rested day, occasionally — never as a regular interruption of sleep."
+          "en": "Try it only on a rested day, occasionally — never as a regular interruption of sleep.",
+          "ro": "Încearcă-o numai într-o zi odihnită, ocazional — niciodată ca o întrerupere regulată a somnului."
         },
         {
           "hu": "Amikor természetes módon felébredsz, *ne mozdulj* és ne nyisd ki a szemed: maradj a félálom képlékeny állapotában.",
-          "en": "When you wake naturally, *do not move* and do not open your eyes: stay in the malleable half-dream state."
+          "en": "When you wake naturally, *do not move* and do not open your eyes: stay in the malleable half-dream state.",
+          "ro": "Când te trezești natural, *nu te mișca* și nu deschide ochii: rămâi în starea maleabilă de semi-vis."
         },
         {
           "hu": "Éleszd újra az átérzett szándékodat, és engedd, hogy az elhalványuló álomanyagból jelenet formálódjék.",
-          "en": "Revive your felt intention, and allow a scene to form from the fading dream material."
+          "en": "Revive your felt intention, and allow a scene to form from the fading dream material.",
+          "ro": "Reînvie intenția simțită și lasă o scenă să se formeze din materialul de vis care se estompează."
         },
         {
           "hu": "Amikor a jelenet összeáll, stabilizáld — kezek, érintés, kulcsmondat —, és kövesd az előre eltervezett szándékodat.",
-          "en": "When the scene assembles, stabilize it — hands, touch, key-phrase — and follow the intention you planned in advance."
+          "en": "When the scene assembles, stabilize it — hands, touch, key-phrase — and follow the intention you planned in advance.",
+          "ro": "Când scena se adună, stabilizeaz-o — mâini, atingere, frază-cheie — și urmează intenția pe care ți-ai planificat-o dinainte."
         },
         {
           "hu": "Utána azonnal naplózz: kulcsszavak, majd részletek.",
-          "en": "Afterwards journal at once: keywords, then details."
+          "en": "Afterwards journal at once: keywords, then details.",
+          "ro": "Apoi notează imediat în jurnal: cuvinte-cheie, apoi detalii."
         }
       ],
       "keret": {
         "hu": "A hagyomány ezt tartja a legrövidebb útnak a küszöbhöz, mert az elme frissebb és az álomanyag közel van; a párhuzamos lencse hipnopomp, félálomból induló éber-tudatos állapotot lát. Egyik lencsét sem állítjuk tényként — az utat a gyümölcsei mérik.",
-        "en": "The tradition holds this to be the shortest route to the threshold, since the mind is fresher and the dream material near; the parallel lens sees a hypnopompic, lucid state arising from the half-dream. We assert neither lens as fact — the route is measured by its fruits."
+        "en": "The tradition holds this to be the shortest route to the threshold, since the mind is fresher and the dream material near; the parallel lens sees a hypnopompic, lucid state arising from the half-dream. We assert neither lens as fact — the route is measured by its fruits.",
+        "ro": "Tradiția ține aceasta drept cea mai scurtă cale către prag, deoarece mintea e mai proaspătă și materialul de vis e aproape; lentila paralelă vede o stare hipnopompică, lucidă, născută din semi-vis. Nu afirmăm nicio lentilă ca fapt — calea se măsoară după roadele ei."
       },
       "etika": {
         "hu": "A megszakított alvásos technika nem való mindenkinek: nem való gyermekeknek, sem annak, aki alvászavarral vagy epilepsziával él, és annak sem, akinek másnap kipihenten kell vezetnie vagy dolgoznia. Az egészséges alvás mindig előbbre való a gyakorlatnál — ez józanság kérdése, nem áhítaté. Ha ébredéskor nem tudsz megmozdulni: az alvási paralízis ismert, ártalmatlan, átmeneti jelenség — lélegezz lassan, mozdítsd meg egy ujjadat, várd ki. Tartós alvásgond esetén fordulj orvoshoz. Nem orvosi tanács.",
-        "en": "The interrupted-sleep technique is not for everyone: not for children, not for those living with a sleep disorder or epilepsy, nor for anyone who must drive or work rested the next day. Healthy sleep always outranks the practice — a matter of sober sense, not devotion. If on waking you cannot move: sleep paralysis is a known, harmless, transient phenomenon — breathe slowly, wiggle a finger, wait it out. With persistent sleep trouble, see a doctor. Not medical advice."
+        "en": "The interrupted-sleep technique is not for everyone: not for children, not for those living with a sleep disorder or epilepsy, nor for anyone who must drive or work rested the next day. Healthy sleep always outranks the practice — a matter of sober sense, not devotion. If on waking you cannot move: sleep paralysis is a known, harmless, transient phenomenon — breathe slowly, wiggle a finger, wait it out. With persistent sleep trouble, see a doctor. Not medical advice.",
+        "ro": "Tehnica somnului întrerupt nu este pentru oricine: nu pentru copii, nu pentru cei care trăiesc cu o tulburare de somn sau epilepsie, nici pentru oricine trebuie să conducă sau să lucreze odihnit a doua zi. Somnul sănătos are întotdeauna întâietate față de practică — o chestiune de bun-simț treaz, nu de devoțiune. Dacă la trezire nu te poți mișca: paralizia de somn este un fenomen cunoscut, inofensiv, trecător — respiră încet, mișcă un deget, așteaptă să treacă. Cu probleme persistente de somn, consultă un medic. Nu este sfat medical."
       }
     }
   ]

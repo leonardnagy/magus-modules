@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Tarot és orákulum — a psziché tükre",
-    "en": "Tarot and Oracle — Mirror of the Psyche"
+    "en": "Tarot and Oracle — Mirror of the Psyche",
+    "ro": "Tarot și Oracol — Oglinda Psihicului"
   },
   "description": {
     "hu": "A tarot mint kivetítő tükör: a nagy árkánum belső fejlődés-térképe (a Bolond útja), a kis árkánum négy eleme — Bardon négy elemének képi rokona —, valamint egy- és háromlapos reflexiós protokoll naplózással, a Rider–Waite közkincs képi világára építve. Nem jövendölés: a lap napló-prompt, a döntés mindig a tiéd.",
-    "en": "Tarot as a projecting mirror: the Major Arcana as an inner development map (the Fool's journey), the four elements of the Minor Arcana — pictorial cousins of Bardon's four elements — plus one- and three-card reflection protocols with journaling, built on the public-domain imagery of the Rider–Waite deck. Not fortune-telling: the card is a journal prompt, and the decision is always yours."
+    "en": "Tarot as a projecting mirror: the Major Arcana as an inner development map (the Fool's journey), the four elements of the Minor Arcana — pictorial cousins of Bardon's four elements — plus one- and three-card reflection protocols with journaling, built on the public-domain imagery of the Rider–Waite deck. Not fortune-telling: the card is a journal prompt, and the decision is always yours.",
+    "ro": "Tarotul ca oglindă de proiecție: Arcanele Majore ca hartă a dezvoltării interioare (călătoria Nebunului), cele patru elemente ale Arcanelor Minore — veri picturali ai celor patru elemente ale lui Bardon — plus protocoale de reflecție cu una și cu trei cărți, cu jurnal, construite pe imaginile din domeniul public ale pachetului Rider–Waite. Nu ghicitul viitorului: cartea e un impuls de jurnal, iar decizia e întotdeauna a ta."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/tarot.oracle/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — tükör, nem jóskártya",
-        "en": "Introduction — a Mirror, Not a Fortune Card"
+        "en": "Introduction — a Mirror, Not a Fortune Card",
+        "ro": "Introducere — o Oglindă, nu o Carte de Ghicire"
       },
       "text": {
         "hu": "A tarot 78 lapos képeskönyv, amelyet évszázadok óta forgatnak — és amelyről ebben a modulban egyetlen dolgot állítunk határozottan: **tükör, nem távcső**. Nem a jövőbe nézel vele, hanem önmagadba.\n\nA pakli két rétege:\n\n— **Nagy árkánum** — 22 lap a Bolondtól (0) a Világig (XXI): a hagyomány belső fejlődés-térképként olvassa.\n— **Kis árkánum** — 56 lap négy színben, és a négy szín négy elem: pontosan az a négyesség, amellyel Bardon elem-lépéseiben már dolgoztál.\n\n**A mi keretünk:** a keverés véletlen, a kép többértelmű — a jelentést a te pszichéd vetíti rá. Ezért a lap **napló-prompt**: azt hozza felszínre, ami már benned van. Ez nem a módszer gyengesége, hanem az ereje: kevés eszköz nyitja meg ilyen gyorsan az írást.\n\nA hagyomány egyes ágai szerint a lapok a sors szálait és az eljövendő eseményeket is kirajzolják a kérdező előtt. * Mi ebben a modulban a mérhető oldalán maradunk: a lap kérdez, te írsz, és a naplód hetek alatt megmutatja, mit ér a munka.\n\n**Vaskeret már az elején:** döntést soha nem a kártya hoz. A lap anyagot ad a mérlegeléshez — a döntés a tiéd, és a naplóban te indokolod.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tarot is a 78-card picture book that people have handled for centuries — and about which this module makes one firm claim: **it is a mirror, not a telescope**. You do not look into the future with it; you look into yourself.\n\nThe deck's two layers:\n\n— **Major Arcana** — 22 cards from the Fool (0) to the World (XXI): the tradition reads them as an inner development map.\n— **Minor Arcana** — 56 cards in four suits, and the four suits are four elements: exactly the fourfold you have already worked with in Bardon's element steps.\n\n**Our frame:** the shuffle is random, the image is ambiguous — the meaning is projected onto it by your psyche. That is why the card is a **journal prompt**: it surfaces what is already in you. This is not the method's weakness but its strength: few tools open the writing hand this quickly.\n\nSome branches of the tradition hold that the cards also trace the threads of fate and events to come before the questioner. * In this module we stay on the measurable side: the card asks, you write, and within weeks your journal shows what the work is worth.\n\n**An iron frame from the start:** a decision is never made by the card. The card supplies material for weighing — the decision is yours, and in the journal you justify it.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The tarot is a 78-card picture book that people have handled for centuries — and about which this module makes one firm claim: **it is a mirror, not a telescope**. You do not look into the future with it; you look into yourself.\n\nThe deck's two layers:\n\n— **Major Arcana** — 22 cards from the Fool (0) to the World (XXI): the tradition reads them as an inner development map.\n— **Minor Arcana** — 56 cards in four suits, and the four suits are four elements: exactly the fourfold you have already worked with in Bardon's element steps.\n\n**Our frame:** the shuffle is random, the image is ambiguous — the meaning is projected onto it by your psyche. That is why the card is a **journal prompt**: it surfaces what is already in you. This is not the method's weakness but its strength: few tools open the writing hand this quickly.\n\nSome branches of the tradition hold that the cards also trace the threads of fate and events to come before the questioner. * In this module we stay on the measurable side: the card asks, you write, and within weeks your journal shows what the work is worth.\n\n**An iron frame from the start:** a decision is never made by the card. The card supplies material for weighing — the decision is yours, and in the journal you justify it.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Tarotul e o carte cu imagini de 78 de foi pe care oamenii o mânuiesc de secole — și despre care acest modul face o singură afirmație fermă: **e o oglindă, nu un telescop**. Nu te uiți cu el în viitor; te uiți în tine.\n\nCele două straturi ale pachetului:\n\n— **Arcanele Majore** — 22 de cărți de la Nebunul (0) la Lumea (XXI): tradiția le citește ca pe o hartă a dezvoltării interioare.\n— **Arcanele Minore** — 56 de cărți în patru culori, iar cele patru culori sunt patru elemente: exact cele patru cu care ai lucrat deja în treptele elementelor ale lui Bardon.\n\n**Cadrul nostru:** amestecul e aleatoriu, imaginea e ambiguă — sensul e proiectat asupra ei de psihicul tău. De aceea cartea e un **impuls de jurnal**: scoate la iveală ce e deja în tine. Asta nu e slăbiciunea metodei, ci puterea ei: puține unelte deschid mâna care scrie atât de repede.\n\nUnele ramuri ale tradiției susțin că cărțile urmăresc și firele destinului și evenimentele ce vor veni înaintea celui care întreabă. * În acest modul rămânem pe partea măsurabilă: cartea întreabă, tu scrii, iar în câteva săptămâni jurnalul tău arată cât valorează lucrul.\n\n**Un cadru de fier de la început:** o decizie nu e niciodată luată de carte. Cartea oferă material de cântărit — decizia e a ta, iar în jurnal o justifici.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A nagy árkánum — a Bolond útja",
-        "en": "The Major Arcana — the Fool's Journey"
+        "en": "The Major Arcana — the Fool's Journey",
+        "ro": "Arcanele Majore — Călătoria Nebunului"
       },
       "text": {
         "hu": "A 22 nagy árkánum lapot a hagyomány egyetlen történetként olvassa: a **Bolond útjaként**. A számozatlan (0) Bolond elindul — naivan, könnyű batyuval, a szakadék szélén —, és a XXI. lapig, a Világig minden állomás egy belső fejlődési szakasz képe.\n\n**A teljes út — mind a 22 lap, rövid kulcsokkal** (RWS-számozás):\n\n*Első ív — a világ leckéi (0–VII):*\n\n— **Bolond (0)** — naiv indulás, nyitottság, kockázat.\n— **Mágus (I)** — eszközök felvétele, akarat, kezdés: az asztalán a négy elem jelvénye — bot, kehely, kard, érme.\n— **Főpapnő (II)** — belső hang, ki nem mondott tudás.\n— **Császárnő (III)** — termékenység, bőség, gondoskodás.\n— **Császár (IV)** — rend, szerkezet, felelősség.\n— **Főpap (V)** — hagyomány, tanítás, közvetítés.\n— **Szeretők (VI)** — választás, kapcsolat, érték-döntés.\n— **Diadalszekér (VII)** — irányítás, fegyelmezett akarat, győzelem.\n\n*Második ív — a befelé fordulás (VIII–XIV):*\n\n— **Erő (VIII)** — szelíd erő, türelmes megszelídítés.\n— **Remete (IX)** — visszavonulás, saját lámpás, befelé fordulás.\n— **Szerencsekerék (X)** — fordulat, körforgás, változó szerencse.\n— **Igazság (XI)** — mérleg, következmény, egyensúly.\n— **Akasztott (XII)** — nézőpontváltás, elengedés, termékeny várakozás.\n— **Halál (XIII)** — a hagyomány kulcsa szerint **lezárás és átalakulás**, nem fizikai halál: valami véget ér, hogy hely legyen az újnak.\n— **Mértékletesség (XIV)** — mérték, vegyítés, gyógyulás.\n\n*Harmadik ív — a nagy próbák és a fény (XV–XXI):*\n\n— **Ördög (XV)** — kötöttség, árnyék, függés.\n— **Torony (XVI)** — az összedőlő hamis szerkezet: ami nem igazra épült, az egyszer összeomlik — és ez felszabadulás is.\n— **Csillag (XVII)** — remény, csendes megújulás.\n— **Hold (XVIII)** — sejtés, félelem, homályos út.\n— **Nap (XIX)** — világosság, életöröm, siker.\n— **Ítélet (XX)** — ébredés, hívás, számvetés.\n— **Világ (XXI)** — integráció: az út elemei egésszé állnak össze.\n\nA kulcsok szándékosan rövidek: kiindulópontok, nem definíciók. A checklist 22-lapos átnézéséhez pontosan ez kell — lapról lapra a saját szavaddal váltod ki őket.\n\n**Hogyan használd?** Térképként, nem menetrendként. A kérdés sosem az, „mi vár rám”, hanem: **„hol állok most ezen az úton, és mi kérne tőlem figyelmet?”** A gyakorlatcsomag kirakás-gyakorlata pontosan ezt teszi írásos munkává.",
-        "en": "The tradition reads the 22 Major Arcana cards as a single story: the **Fool's journey**. The unnumbered (0) Fool sets out — naive, light bundle on a stick, at the cliff's edge — and every station up to card XXI, the World, is the image of a stage of inner development.\n\n**The whole road — all 22 cards, with short keys** (RWS numbering):\n\n*First arc — the lessons of the world (0–VII):*\n\n— **The Fool (0)** — naive departure, openness, risk.\n— **The Magician (I)** — taking up the tools, will, beginning: on his table lie the emblems of the four elements — wand, cup, sword, coin.\n— **The High Priestess (II)** — inner voice, knowledge not yet spoken.\n— **The Empress (III)** — fertility, abundance, nurture.\n— **The Emperor (IV)** — order, structure, responsibility.\n— **The Hierophant (V)** — tradition, teaching, mediation.\n— **The Lovers (VI)** — choice, relationship, decision of values.\n— **The Chariot (VII)** — steering, disciplined will, victory.\n\n*Second arc — the turn inward (VIII–XIV):*\n\n— **Strength (VIII)** — gentle strength, patient taming.\n— **The Hermit (IX)** — withdrawal, one's own lantern, turning inward.\n— **Wheel of Fortune (X)** — turning point, cycles, shifting fortune.\n— **Justice (XI)** — the scales, consequence, balance.\n— **The Hanged Man (XII)** — shift of perspective, letting go, fertile waiting.\n— **Death (XIII)** — by the tradition's key, **closure and transformation**, not physical death: something ends so there is room for the new.\n— **Temperance (XIV)** — measure, blending, healing.\n\n*Third arc — the great trials and the light (XV–XXI):*\n\n— **The Devil (XV)** — bondage, shadow, dependence.\n— **The Tower (XVI)** — the collapsing false structure: what was not built on truth falls one day — and that is also liberation.\n— **The Star (XVII)** — hope, quiet renewal.\n— **The Moon (XVIII)** — intuition, fear, the dim road.\n— **The Sun (XIX)** — clarity, joy of life, success.\n— **Judgement (XX)** — awakening, the call, reckoning.\n— **The World (XXI)** — integration: the elements of the journey come together as a whole.\n\nThe keys are deliberately short: starting points, not definitions. That is exactly what the checklist's 22-card review needs — card by card, you replace them with your own words.\n\n**How to use it?** As a map, not a timetable. The question is never 'what awaits me' but: **'where do I stand on this road now, and what would ask for my attention?'** The layout practice in the practice pack turns exactly this into written work."
+        "en": "The tradition reads the 22 Major Arcana cards as a single story: the **Fool's journey**. The unnumbered (0) Fool sets out — naive, light bundle on a stick, at the cliff's edge — and every station up to card XXI, the World, is the image of a stage of inner development.\n\n**The whole road — all 22 cards, with short keys** (RWS numbering):\n\n*First arc — the lessons of the world (0–VII):*\n\n— **The Fool (0)** — naive departure, openness, risk.\n— **The Magician (I)** — taking up the tools, will, beginning: on his table lie the emblems of the four elements — wand, cup, sword, coin.\n— **The High Priestess (II)** — inner voice, knowledge not yet spoken.\n— **The Empress (III)** — fertility, abundance, nurture.\n— **The Emperor (IV)** — order, structure, responsibility.\n— **The Hierophant (V)** — tradition, teaching, mediation.\n— **The Lovers (VI)** — choice, relationship, decision of values.\n— **The Chariot (VII)** — steering, disciplined will, victory.\n\n*Second arc — the turn inward (VIII–XIV):*\n\n— **Strength (VIII)** — gentle strength, patient taming.\n— **The Hermit (IX)** — withdrawal, one's own lantern, turning inward.\n— **Wheel of Fortune (X)** — turning point, cycles, shifting fortune.\n— **Justice (XI)** — the scales, consequence, balance.\n— **The Hanged Man (XII)** — shift of perspective, letting go, fertile waiting.\n— **Death (XIII)** — by the tradition's key, **closure and transformation**, not physical death: something ends so there is room for the new.\n— **Temperance (XIV)** — measure, blending, healing.\n\n*Third arc — the great trials and the light (XV–XXI):*\n\n— **The Devil (XV)** — bondage, shadow, dependence.\n— **The Tower (XVI)** — the collapsing false structure: what was not built on truth falls one day — and that is also liberation.\n— **The Star (XVII)** — hope, quiet renewal.\n— **The Moon (XVIII)** — intuition, fear, the dim road.\n— **The Sun (XIX)** — clarity, joy of life, success.\n— **Judgement (XX)** — awakening, the call, reckoning.\n— **The World (XXI)** — integration: the elements of the journey come together as a whole.\n\nThe keys are deliberately short: starting points, not definitions. That is exactly what the checklist's 22-card review needs — card by card, you replace them with your own words.\n\n**How to use it?** As a map, not a timetable. The question is never 'what awaits me' but: **'where do I stand on this road now, and what would ask for my attention?'** The layout practice in the practice pack turns exactly this into written work.",
+        "ro": "Tradiția citește cele 22 de cărți ale Arcanelor Majore ca pe o singură poveste: **călătoria Nebunului**. Nebunul nenumerotat (0) pornește la drum — naiv, cu un mănunchi ușor pe băț, la marginea prăpastiei — și fiecare stație până la cartea XXI, Lumea, e imaginea unei etape a dezvoltării interioare.\n\n**Tot drumul — toate cele 22 de cărți, cu chei scurte** (numerotare RWS):\n\n*Primul arc — lecțiile lumii (0–VII):*\n\n— **Nebunul (0)** — plecare naivă, deschidere, risc.\n— **Magicianul (I)** — luarea uneltelor, voință, început: pe masa lui stau emblemele celor patru elemente — bagheta, potirul, sabia, moneda.\n— **Marea Preoteasă (II)** — vocea interioară, cunoaștere încă nespusă.\n— **Împărăteasa (III)** — fertilitate, belșug, hrănire.\n— **Împăratul (IV)** — ordine, structură, responsabilitate.\n— **Hierofantul (V)** — tradiție, învățătură, mediere.\n— **Îndrăgostiții (VI)** — alegere, relație, decizie de valori.\n— **Carul (VII)** — dirijare, voință disciplinată, victorie.\n\n*Al doilea arc — întoarcerea spre interior (VIII–XIV):*\n\n— **Forța (VIII)** — putere blândă, îmblânzire răbdătoare.\n— **Eremitul (IX)** — retragere, felinarul propriu, întoarcere spre interior.\n— **Roata Fortunei (X)** — cotitură, cicluri, soartă schimbătoare.\n— **Dreptatea (XI)** — balanța, consecință, echilibru.\n— **Spânzuratul (XII)** — schimbare de perspectivă, lăsare din mână, așteptare fertilă.\n— **Moartea (XIII)** — după cheia tradiției, **încheiere și transformare**, nu moarte fizică: ceva se termină ca să fie loc pentru nou.\n— **Cumpătarea (XIV)** — măsură, amestec, vindecare.\n\n*Al treilea arc — marile încercări și lumina (XV–XXI):*\n\n— **Diavolul (XV)** — robie, umbră, dependență.\n— **Turnul (XVI)** — structura falsă care se prăbușește: ce nu a fost zidit pe adevăr cade într-o zi — și asta e și eliberare.\n— **Steaua (XVII)** — speranță, înnoire liniștită.\n— **Luna (XVIII)** — intuiție, frică, drumul neclar.\n— **Soarele (XIX)** — claritate, bucuria vieții, succes.\n— **Judecata (XX)** — trezire, chemarea, socoteală.\n— **Lumea (XXI)** — integrare: elementele călătoriei se adună într-un întreg.\n\nCheile sunt intenționat scurte: puncte de plecare, nu definiții. Exact de asta are nevoie recapitularea pe 22 de cărți din listă — carte cu carte, le înlocuiești cu propriile tale cuvinte.\n\n**Cum o folosești?** Ca pe o hartă, nu ca pe un orar. Întrebarea nu e niciodată „ce mă așteaptă”, ci: **„unde stau pe acest drum acum, și ce ar cere atenția mea?”** Practica de așezare din pachetul de practică transformă exact asta în lucru scris."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A kis árkánum — négy szín, négy elem",
-        "en": "The Minor Arcana — Four Suits, Four Elements"
+        "en": "The Minor Arcana — Four Suits, Four Elements",
+        "ro": "Arcanele Minore — Patru Culori, Patru Elemente"
       },
       "text": {
         "hu": "Az 56 lapos kis árkánum négy színre oszlik, színenként ász–10 plusz négy udvari lap. És itt jön a modul legszebb hídja: **a négy szín négy elem** —\n\n— **Botok = tűz** — akarat, lendület, kezdeményezés, alkotó erő.\n— **Kelyhek = víz** — érzés, kapcsolat, befogadás, álom.\n— **Kardok = levegő** — gondolat, szó, konfliktus, tisztázás.\n— **Érmék (Pentákulumok) = föld** — test, munka, anyag, gyakorlatiasság.\n\nHa végigjártad **Bardon elem-lépéseit**, ez a négyesség régi ismerős: ugyanaz a tűz–víz–levegő–föld rendszer, csak most képekben, jelenetekben, arcokban áll előtted. A tarot ezzel az app elem-nyelvének képi szótára lesz.\n\n**Elem-diagnózis a gyakorlatban:** amikor több lapot húzol, először ne jelentést keress — **számold az elemeket**. Csupa Kard? A helyzet a fejben él: szavak, viták, forgó gondolatok. Csupa Kehely? Érzelmi anyag dolgozik. Sok Érme? A test és a gyakorlati teendők kérnek figyelmet. A hiányzó elem legalább annyira beszédes, mint a túlsúlyos: mi az, ami kimaradt a képből — és az életedből?\n\n**Az udvari lapok logikája:** minden színhez négy udvari lap tartozik — **Apród, Lovag, Királynő, Király**. A hagyomány őket az elem négy érettségi fokaként olvassa: az Apród a tanuló (az elem friss, kíváncsi arca), a Lovag a mozgásba lendült, olykor túlzó erő, a Királynő az elem befelé érlelt, hordozó minősége, a Király pedig a kifelé kormányzó, felelős mestere. A tükör-munkában nem „személyeket jósolnak”: kérdezd azt, hogy **te** melyik érettségi fokon hordozod most az adott elemet — Kelyhek Apródjaként vagy Kelyhek Királynőjeként állsz-e az érzéseidben.\n\nEz az egyszerű számolás önmagában is használható napló-prompt, jelentés-könyv nélkül.",
-        "en": "The 56-card Minor Arcana falls into four suits, each with ace–10 plus four court cards. And here comes the module's finest bridge: **the four suits are four elements** —\n\n— **Wands = fire** — will, drive, initiative, creative force.\n— **Cups = water** — feeling, relationship, receptivity, dream.\n— **Swords = air** — thought, word, conflict, clarification.\n— **Coins (Pentacles) = earth** — body, work, matter, practicality.\n\nIf you have walked **Bardon's element steps**, this fourfold is an old acquaintance: the same fire–water–air–earth system, only now standing before you in images, scenes and faces. The tarot thus becomes the pictorial dictionary of the app's element language.\n\n**Element diagnosis in practice:** when you draw several cards, do not look for meaning first — **count the elements**. All Swords? The situation lives in the head: words, disputes, spinning thoughts. All Cups? Emotional material is at work. Many Coins? The body and practical matters ask for attention. The missing element speaks at least as loudly as the dominant one: what has been left out of the picture — and out of your life?\n\n**The logic of the court cards:** each suit has four court cards — **Page, Knight, Queen, King**. The tradition reads them as four degrees of maturity of the element: the Page is the learner (the element's fresh, curious face), the Knight is its force set in motion, at times excessive, the Queen is the element's inwardly ripened, carrying quality, and the King its outwardly governing, responsible master. In the mirror work they do not 'predict persons': ask at which degree of maturity **you** are carrying the given element right now — whether you stand in your feelings as the Page of Cups or as the Queen of Cups.\n\nThis simple counting is a usable journal prompt on its own, no meaning-book required."
+        "en": "The 56-card Minor Arcana falls into four suits, each with ace–10 plus four court cards. And here comes the module's finest bridge: **the four suits are four elements** —\n\n— **Wands = fire** — will, drive, initiative, creative force.\n— **Cups = water** — feeling, relationship, receptivity, dream.\n— **Swords = air** — thought, word, conflict, clarification.\n— **Coins (Pentacles) = earth** — body, work, matter, practicality.\n\nIf you have walked **Bardon's element steps**, this fourfold is an old acquaintance: the same fire–water–air–earth system, only now standing before you in images, scenes and faces. The tarot thus becomes the pictorial dictionary of the app's element language.\n\n**Element diagnosis in practice:** when you draw several cards, do not look for meaning first — **count the elements**. All Swords? The situation lives in the head: words, disputes, spinning thoughts. All Cups? Emotional material is at work. Many Coins? The body and practical matters ask for attention. The missing element speaks at least as loudly as the dominant one: what has been left out of the picture — and out of your life?\n\n**The logic of the court cards:** each suit has four court cards — **Page, Knight, Queen, King**. The tradition reads them as four degrees of maturity of the element: the Page is the learner (the element's fresh, curious face), the Knight is its force set in motion, at times excessive, the Queen is the element's inwardly ripened, carrying quality, and the King its outwardly governing, responsible master. In the mirror work they do not 'predict persons': ask at which degree of maturity **you** are carrying the given element right now — whether you stand in your feelings as the Page of Cups or as the Queen of Cups.\n\nThis simple counting is a usable journal prompt on its own, no meaning-book required.",
+        "ro": "Arcanele Minore de 56 de cărți se împart în patru suite, fiecare cu as–10 plus patru cărți de curte. Și iată cea mai fină punte a modulului: **cele patru suite sunt cele patru elemente** —\n\n— **Wands = foc** — voință, elan, inițiativă, forță creatoare.\n— **Cups = apă** — sentiment, relație, receptivitate, vis.\n— **Swords = aer** — gând, cuvânt, conflict, clarificare.\n— **Coins (Pentacles) = pământ** — corp, muncă, materie, practicitate.\n\nDacă ai parcurs **pașii elementelor ai lui Bardon**, această împărțire în patru îți este o veche cunoștință: același sistem foc–apă–aer–pământ, doar că acum stă înaintea ta în imagini, scene și chipuri. Tarotul devine astfel dicționarul pictural al limbajului elementelor din aplicație.\n\n**Diagnosticul elementelor în practică:** când tragi mai multe cărți, nu căuta mai întâi sensul — **numără elementele**. Toate Swords? Situația trăiește în cap: cuvinte, dispute, gânduri care se învârt. Toate Cups? Materialul emoțional e la lucru. Multe Coins? Corpul și treburile practice cer atenție. Elementul lipsă vorbește cel puțin la fel de tare ca cel dominant: ce a fost lăsat în afara tabloului — și în afara vieții tale?\n\n**Logica cărților de curte:** fiecare suită are patru cărți de curte — **Page, Knight, Queen, King**. Tradiția le citește ca pe patru grade de maturitate ale elementului: Page este ucenicul (fața proaspătă, curioasă a elementului), Knight este forța lui pusă în mișcare, uneori excesivă, Queen este calitatea elementului coaptă lăuntric, purtătoare, iar King stăpânul lui care guvernează în exterior, responsabil. În lucrul cu oglinda ele nu „prezic persoane”: întreabă-te la ce grad de maturitate **porți** tu elementul dat chiar acum — dacă stai în sentimentele tale ca Page of Cups sau ca Queen of Cups.\n\nAceastă simplă numărare este de una singură o temă de jurnal folositoare, fără a fi nevoie de o carte de semnificații."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A projektív tükör — miért „működik” a lap",
-        "en": "The Projective Mirror — Why the Card 'Works'"
+        "en": "The Projective Mirror — Why the Card 'Works'",
+        "ro": "Oglinda proiectivă — De ce „funcționează” cartea"
       },
       "text": {
         "hu": "Ez a modul józan lencséje — olvasd el kétszer.\n\n**A mechanizmus.** A keverés véletlen. A kép többértelmű: alakok, gesztusok, tájak, amelyekbe sokféle történet belefér. Amikor a lapra nézel és „jelentést” látsz, a saját pszichéd vetíti rá az anyagát — ugyanaz a logika, amellyel a lélektan projektív tesztjei (tintafolt-képek, jelenet-értelmezés) dolgoznak. **A lap nem tud rólad semmit. Te tudsz magadról mindent — a lap csak megnyitja.**\n\n**Két torzítás, amit néven kell nevezni:**\n\n— **Barnum-hatás:** az általános megfogalmazásokban szinte bárki magára ismer. „Erős vagy, de néha elbizonytalanodsz” — ez mindenkire igaz, tehát senkiről nem mond semmit.\n— **Megerősítési torzítás:** azt vesszük észre a lapban, ami igazolja, amit hinni akarunk — és átsiklunk afölött, ami nem illik a képbe.\n\nHa dolgoztál a **mentalizmus-modul pajzs-leckéjével**, ismerős a szabály: aki érti a hatáskeltés mechanizmusát, azt nem vakítja el. És itt a lényeg: **a mechanizmus ismerete nem veszi el az értéket — áthelyezi.** A lap nem attól ér valamit, hogy „tud” valamit, hanem attól, amit belőled kihoz: a beugró kép, az első érzés, az ellenállás — mind valódi adat rólad.\n\n**Ezért dolgozunk írásban és szerkezetben:** a napló rögzíti, mit láttál ELŐSZÖR, mielőtt a torzítások átírnák. A protokoll a következő két leckében.",
-        "en": "This is the module's sober lens — read it twice.\n\n**The mechanism.** The shuffle is random. The image is ambiguous: figures, gestures, landscapes that admit many stories. When you look at the card and see 'meaning', your own psyche is projecting its material onto it — the same logic by which psychology's projective tests (inkblot images, scene interpretation) work. **The card knows nothing about you. You know everything about yourself — the card merely opens it.**\n\n**Two biases that must be named:**\n\n— **The Barnum effect:** almost anyone recognizes themselves in general statements. 'You are strong, yet at times you doubt yourself' — true of everyone, therefore saying nothing about anyone.\n— **Confirmation bias:** we notice in the card whatever confirms what we want to believe — and glide past what does not fit the picture.\n\nIf you have worked with the **mentalism module's shield lesson**, the rule is familiar: whoever understands the mechanics of effect cannot be dazzled by them. And here is the point: **knowing the mechanism does not remove the value — it relocates it.** The card is not worth something because it 'knows' something, but because of what it draws out of you: the image that leaps to mind, the first feeling, the resistance — all genuine data about you.\n\n**This is why we work in writing and in structure:** the journal records what you saw FIRST, before the biases rewrite it. The protocol follows in the next two lessons."
+        "en": "This is the module's sober lens — read it twice.\n\n**The mechanism.** The shuffle is random. The image is ambiguous: figures, gestures, landscapes that admit many stories. When you look at the card and see 'meaning', your own psyche is projecting its material onto it — the same logic by which psychology's projective tests (inkblot images, scene interpretation) work. **The card knows nothing about you. You know everything about yourself — the card merely opens it.**\n\n**Two biases that must be named:**\n\n— **The Barnum effect:** almost anyone recognizes themselves in general statements. 'You are strong, yet at times you doubt yourself' — true of everyone, therefore saying nothing about anyone.\n— **Confirmation bias:** we notice in the card whatever confirms what we want to believe — and glide past what does not fit the picture.\n\nIf you have worked with the **mentalism module's shield lesson**, the rule is familiar: whoever understands the mechanics of effect cannot be dazzled by them. And here is the point: **knowing the mechanism does not remove the value — it relocates it.** The card is not worth something because it 'knows' something, but because of what it draws out of you: the image that leaps to mind, the first feeling, the resistance — all genuine data about you.\n\n**This is why we work in writing and in structure:** the journal records what you saw FIRST, before the biases rewrite it. The protocol follows in the next two lessons.",
+        "ro": "Aceasta este lentila sobră a modulului — citește-o de două ori.\n\n**Mecanismul.** Amestecarea e aleatorie. Imaginea e ambiguă: figuri, gesturi, peisaje care admit multe povești. Când te uiți la carte și vezi un „sens”, propriul tău psihic își proiectează materialul asupra ei — aceeași logică prin care funcționează testele proiective din psihologie (imaginile cu pete de cerneală, interpretarea de scene). **Cartea nu știe nimic despre tine. Tu știi totul despre tine — cartea doar deschide asta.**\n\n**Două bias-uri care trebuie numite:**\n\n— **Efectul Barnum:** aproape oricine se recunoaște în afirmații generale. „Ești puternic, totuși uneori te îndoiești de tine” — adevărat despre toată lumea, deci nu spune nimic despre nimeni.\n— **Bias-ul de confirmare:** observăm pe carte tot ce confirmă ce vrem să credem — și alunecăm pe lângă ce nu se potrivește tabloului.\n\nDacă ai lucrat cu **lecția scutului din modulul de mentalism**, regula îți e familiară: cine înțelege mecanica efectului nu mai poate fi orbit de ea. Și iată punctul: **a cunoaște mecanismul nu înlătură valoarea — o mută în altă parte.** Cartea nu valorează ceva pentru că „știe” ceva, ci pentru ce scoate din tine: imaginea care îți sare în minte, primul sentiment, rezistența — toate date autentice despre tine.\n\n**De aceea lucrăm în scris și în structură:** jurnalul înregistrează ce ai văzut ÎNTÂI, înainte ca bias-urile să rescrie. Protocolul urmează în următoarele două lecții."
       }
     },
     {
@@ -65,11 +75,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Egylapos napi húzás — a protokoll",
-        "en": "The One-Card Daily Draw — the Protocol"
+        "en": "The One-Card Daily Draw — the Protocol",
+        "ro": "Tragerea zilnică a unei cărți — Protocolul"
       },
       "text": {
         "hu": "A modul alapgyakorlata. Egyszerű, napi öt-tíz perc — és szigorú sorrendű, mert a sorrend védi meg a munkát a torzításoktól.\n\n**1. Keverés és húzás.** Csendben, kapkodás nélkül. Egy lap, képpel felfelé.\n\n**2. ELŐSZÖR a kép.** Mielőtt bármit „tudnál” a lapról: hová téved a szemed? Melyik alak, tárgy, szín ugrik be? Mi az első érzés — vonzás, taszítás, közöny? Ez a nyers adat. Ha ismered az **RV-modul vak-protokollját**, ráismersz: előbb a saját nyers benyomás, csak utána a címke.\n\n**3. CSAK EZUTÁN a hagyományos jelentés.** Idézd fel vagy nézd meg röviden, mit mond a hagyomány a lapról — és figyeld meg, hol találkozik a te benyomásoddal, és hol tér el tőle. Az eltérés nem hiba: az a te tükröd rajzolata.\n\n**4. A napló-kérdés.** Írd le, és válaszolj öt percen át folyamatos írással: **„Az életem melyik pontját érinti ez ma?”**\n\n**5. Este fél perc.** Nézz vissza: mit vettél észre napközben, amit a reggeli lap fókuszba tett?\n\n**Amit a napi lap NEM csinál:** nem jelzi előre a napodat, nem ítélkezik, és nem dönt helyetted. Figyelem-fókusz: egyetlen kérdést ad a napnak — és a Húzás-napló sablon (lentebb) pontosan ehhez van szabva.",
-        "en": "The module's core practice. Simple, five to ten minutes a day — and strict in its order, because the order is what protects the work from the biases.\n\n**1. Shuffle and draw.** In quiet, without haste. One card, face up.\n\n**2. The image FIRST.** Before you 'know' anything about the card: where does your eye wander? Which figure, object, colour leaps out? What is the first feeling — pull, push, indifference? This is the raw data. If you know the **RV module's blind protocol**, you will recognize it: first your own raw impression, only then the label.\n\n**3. ONLY THEN the traditional meaning.** Recall or briefly look up what the tradition says about the card — and observe where it meets your impression and where it departs from it. The departure is no error: it is the tracing of your own mirror.\n\n**4. The journal question.** Write it down and answer it in five minutes of continuous writing: **'Which point of my life does this touch today?'**\n\n**5. Half a minute in the evening.** Look back: what did you notice during the day that the morning card had brought into focus?\n\n**What the daily card does NOT do:** it does not forecast your day, does not judge, and does not decide for you. It is an attention-focus: it gives the day a single question — and the Draw Log template (below) is cut exactly to this."
+        "en": "The module's core practice. Simple, five to ten minutes a day — and strict in its order, because the order is what protects the work from the biases.\n\n**1. Shuffle and draw.** In quiet, without haste. One card, face up.\n\n**2. The image FIRST.** Before you 'know' anything about the card: where does your eye wander? Which figure, object, colour leaps out? What is the first feeling — pull, push, indifference? This is the raw data. If you know the **RV module's blind protocol**, you will recognize it: first your own raw impression, only then the label.\n\n**3. ONLY THEN the traditional meaning.** Recall or briefly look up what the tradition says about the card — and observe where it meets your impression and where it departs from it. The departure is no error: it is the tracing of your own mirror.\n\n**4. The journal question.** Write it down and answer it in five minutes of continuous writing: **'Which point of my life does this touch today?'**\n\n**5. Half a minute in the evening.** Look back: what did you notice during the day that the morning card had brought into focus?\n\n**What the daily card does NOT do:** it does not forecast your day, does not judge, and does not decide for you. It is an attention-focus: it gives the day a single question — and the Draw Log template (below) is cut exactly to this.",
+        "ro": "Practica centrală a modulului. Simplă, cinci până la zece minute pe zi — și strictă în ordinea ei, pentru că ordinea e ceea ce protejează lucrul de bias-uri.\n\n**1. Amestecă și trage.** În liniște, fără grabă. O carte, cu fața în sus.\n\n**2. Imaginea ÎNTÂI.** Înainte să „știi” ceva despre carte: unde ți se duce privirea? Care figură, obiect, culoare iese în evidență? Care e primul sentiment — atracție, respingere, indiferență? Acestea sunt datele brute. Dacă cunoști **protocolul orb al modulului RV**, îl vei recunoaște: mai întâi propria impresie brută, abia apoi eticheta.\n\n**3. ABIA APOI semnificația tradițională.** Amintește-ți sau caută pe scurt ce spune tradiția despre carte — și observă unde se întâlnește cu impresia ta și unde se desparte de ea. Despărțirea nu e o greșeală: e urmărirea propriei tale oglinzi.\n\n**4. Întrebarea de jurnal.** Scrie-o și răspunde-i în cinci minute de scriere continuă: **„Ce punct din viața mea atinge asta azi?”**\n\n**5. Jumătate de minut seara.** Privește înapoi: ce ai observat pe parcursul zilei pe care cartea de dimineață o adusese în focal?\n\n**Ce NU face cartea zilnică:** nu-ți prognozează ziua, nu judecă și nu decide în locul tău. Este un focalizator de atenție: îi dă zilei o singură întrebare — iar șablonul Draw Log (mai jos) e tăiat exact pe asta."
       }
     },
     {
@@ -77,27 +89,31 @@
       "kind": "timer",
       "nevek": {
         "hu": "Egylapos húzás — 7 perc",
-        "en": "One-Card Draw — 7 min"
+        "en": "One-Card Draw — 7 min",
+        "ro": "Tragere cu o carte — 7 min"
       },
       "timer": {
         "durationSeconds": 420,
         "instructions": {
           "hu": "Keverd meg a paklit, és húzz egy lapot. Először CSAK a képet nézd: hová téved a szemed, mi az első érzés. A jelzésekre lépj tovább: hagyományos jelentés röviden, majd folyamatos írás a naplóba.",
-          "en": "Shuffle the deck and draw one card. First look ONLY at the image: where does your eye wander, what is the first feeling. Move on at the cues: the traditional meaning briefly, then continuous writing in the journal."
+          "en": "Shuffle the deck and draw one card. First look ONLY at the image: where does your eye wander, what is the first feeling. Move on at the cues: the traditional meaning briefly, then continuous writing in the journal.",
+          "ro": "Amestecă pachetul și trage o carte. Mai întâi privește DOAR imaginea: unde ți se duce privirea, care e primul sentiment. Continuă la indicii: semnificația tradițională pe scurt, apoi scriere continuă în jurnal."
         },
         "intervals": [
           {
             "atSecond": 180,
             "label": {
               "hu": "Most a hagyományos jelentés — röviden",
-              "en": "Now the traditional meaning — briefly"
+              "en": "Now the traditional meaning — briefly",
+              "ro": "Acum semnificația tradițională — pe scurt"
             }
           },
           {
             "atSecond": 240,
             "label": {
               "hu": "Írás: az életem melyik pontját érinti ez ma?",
-              "en": "Writing: which point of my life does this touch today?"
+              "en": "Writing: which point of my life does this touch today?",
+              "ro": "Scriere: ce punct din viața mea atinge asta azi?"
             }
           }
         ]
@@ -108,11 +124,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Háromlapos reflexió — keretek",
-        "en": "Three-Card Reflection — Frames"
+        "en": "Three-Card Reflection — Frames",
+        "ro": "Reflecție cu trei cărți — Cadre"
       },
       "text": {
         "hu": "A háromlapos kirakást a hagyomány gyakran „múlt–jelen–jövő”-ként tanítja. Mi nem jóslásra használjuk, hanem **reflexiós keretnek**: a három pozíció három kérdés, és a lapok a válaszaid előhívói.\n\n**Ajánlott keretek:**\n\n— **„Mi táplál / mi akaszt / mi kér figyelmet?”** — a legjobb heti önvizsgálathoz.\n— **„Helyzet / akadály / erőforrás”** — amikor egy konkrét ügyön dolgozol.\n— **„Amit elengedek / amit tartok / amit kezdek”** — hónapfordulóra, lezárásokhoz.\n\n**A menet:** válaszd meg a keretet ELŐRE, írd fel a három kérdést, aztán keverj és rakd ki a három lapot sorban. Lapról lapra ugyanaz a rend, mint az egylapos protokollban: kép először, aztán a hagyomány, végül **2–3 mondat írásban** mindhárom lapról. A végén egyetlen összegző mondat: *„Amit ebből ma meghallok: …”*\n\n**Miért előre a keret?** Mert ha a lapok után választasz kérdést, a megerősítési torzítás választ helyetted — azt a keretet fogod „megérezni”, amelyikben a lapok a legkellemesebbet mondják.\n\nHa dolgoztál az **astral.explorations belső-vezető leckéjével**, a kirakást zárhatod egy csendes kérdéssel a vezetődhöz: mit tenne hozzá ő — ugyanazzal a kettős lencsével, választásra kényszerítés nélkül.",
-        "en": "The tradition often teaches the three-card layout as 'past–present–future'. We use it not for divination but as a **reflection frame**: the three positions are three questions, and the cards are the retrievers of your answers.\n\n**Recommended frames:**\n\n— **'What feeds me / what snags me / what asks for attention?'** — best for a weekly self-review.\n— **'Situation / obstacle / resource'** — when you work on a concrete matter.\n— **'What I release / what I keep / what I begin'** — for month turns and closures.\n\n**The procedure:** choose the frame IN ADVANCE, write down the three questions, then shuffle and lay the three cards in a row. Card by card, the same order as in the one-card protocol: image first, then the tradition, finally **2–3 sentences in writing** about each of the three cards. At the end, a single summary sentence: *'What I hear from this today: …'*\n\n**Why choose the frame in advance?** Because if you pick the question after seeing the cards, confirmation bias picks for you — you will 'sense' the frame in which the cards say the most pleasant thing.\n\nIf you have worked with the **inner-guide lesson of astral.explorations**, you may close the layout with a quiet question to your guide: what would they add — with the same double lens, forcing no choice of interpretation."
+        "en": "The tradition often teaches the three-card layout as 'past–present–future'. We use it not for divination but as a **reflection frame**: the three positions are three questions, and the cards are the retrievers of your answers.\n\n**Recommended frames:**\n\n— **'What feeds me / what snags me / what asks for attention?'** — best for a weekly self-review.\n— **'Situation / obstacle / resource'** — when you work on a concrete matter.\n— **'What I release / what I keep / what I begin'** — for month turns and closures.\n\n**The procedure:** choose the frame IN ADVANCE, write down the three questions, then shuffle and lay the three cards in a row. Card by card, the same order as in the one-card protocol: image first, then the tradition, finally **2–3 sentences in writing** about each of the three cards. At the end, a single summary sentence: *'What I hear from this today: …'*\n\n**Why choose the frame in advance?** Because if you pick the question after seeing the cards, confirmation bias picks for you — you will 'sense' the frame in which the cards say the most pleasant thing.\n\nIf you have worked with the **inner-guide lesson of astral.explorations**, you may close the layout with a quiet question to your guide: what would they add — with the same double lens, forcing no choice of interpretation.",
+        "ro": "Tradiția predă adesea așezarea în trei cărți ca „trecut–prezent–viitor”. Noi o folosim nu pentru divinație, ci ca pe un **cadru de reflecție**: cele trei poziții sunt trei întrebări, iar cărțile sunt cele care îți aduc răspunsurile.\n\n**Cadre recomandate:**\n\n— **„Ce mă hrănește / ce mă agăță / ce cere atenție?”** — cel mai bun pentru o auto-revizuire săptămânală.\n— **„Situație / obstacol / resursă”** — când lucrezi pe o chestiune concretă.\n— **„Ce eliberez / ce păstrez / ce încep”** — pentru cotituri de lună și încheieri.\n\n**Procedura:** alege cadrul DINAINTE, scrie cele trei întrebări, apoi amestecă și așază cele trei cărți într-un rând. Carte cu carte, în aceeași ordine ca în protocolul cu o carte: mai întâi imaginea, apoi tradiția, în cele din urmă **2–3 propoziții în scris** despre fiecare dintre cele trei cărți. La final, o singură propoziție-rezumat: *„Ce aud din asta astăzi: …”*\n\n**De ce să alegi cadrul dinainte?** Pentru că dacă alegi întrebarea după ce vezi cărțile, biasul de confirmare alege în locul tău — vei „simți” cadrul în care cărțile spun lucrul cel mai plăcut.\n\nDacă ai lucrat cu **lecția ghidului interior din astral.explorations**, poți încheia așezarea cu o întrebare liniștită către ghidul tău: ce ar adăuga el — cu aceeași dublă lentilă, fără a forța nicio alegere de interpretare."
       }
     },
     {
@@ -120,41 +138,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Háromlapos reflexió — 15 perc",
-        "en": "Three-Card Reflection — 15 min"
+        "en": "Three-Card Reflection — 15 min",
+        "ro": "Reflecție în trei cărți — 15 min"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Írd fel előre a keretet (pl. „mi táplál / mi akaszt / mi kér figyelmet”), keverj, és rakd ki a három lapot. Lapról lapra: kép először, aztán a hagyomány, végül 2–3 mondat a naplóba. A jelzések vezetnek.",
-          "en": "Write down the frame in advance (e.g. 'what feeds me / what snags me / what asks for attention'), shuffle, and lay out the three cards. Card by card: image first, then the tradition, finally 2–3 sentences in the journal. The cues will guide you."
+          "en": "Write down the frame in advance (e.g. 'what feeds me / what snags me / what asks for attention'), shuffle, and lay out the three cards. Card by card: image first, then the tradition, finally 2–3 sentences in the journal. The cues will guide you.",
+          "ro": "Scrie cadrul dinainte (de ex. „ce mă hrănește / ce mă agăță / ce cere atenție”), amestecă și așază cele trei cărți. Carte cu carte: mai întâi imaginea, apoi tradiția, în cele din urmă 2–3 propoziții în jurnal. Indiciile te vor ghida."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "Első lap — kép, hagyomány, írás",
-              "en": "First card — image, tradition, writing"
+              "en": "First card — image, tradition, writing",
+              "ro": "Prima carte — imagine, tradiție, scris"
             }
           },
           {
             "atSecond": 360,
             "label": {
               "hu": "Második lap",
-              "en": "Second card"
+              "en": "Second card",
+              "ro": "A doua carte"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Harmadik lap",
-              "en": "Third card"
+              "en": "Third card",
+              "ro": "A treia carte"
             }
           },
           {
             "atSecond": 810,
             "label": {
               "hu": "Zárás: „Amit ebből ma meghallok: …”",
-              "en": "Closing: 'What I hear from this today: …'"
+              "en": "Closing: 'What I hear from this today: …'",
+              "ro": "Încheiere: „Ce aud din asta astăzi: …”"
             }
           }
         ]
@@ -165,11 +189,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A Rider–Waite képi világ",
-        "en": "The Rider–Waite Imagery"
+        "en": "The Rider–Waite Imagery",
+        "ro": "Imagistica Rider–Waite"
       },
       "text": {
         "hu": "Ha egyetlen paklit választasz a munkához, a hagyomány legelterjedtebbike a legjobb kiindulás: a **Rider–Waite–Smith** pakli (1909).\n\n**Miért pont ez?** A döntő újítás **Pamela Colman Smith** festőnőé: nála a számozott kis árkánum lapok is **teljes jelenetek** — nem csak öt kard vagy hét érme egy díszes mezőben, hanem emberek, akik tesznek valamit: gyászolnak, építenek, osztozkodnak, elsétálnak. A projektív munkához pontosan ez kell: **jelenet, amelybe beleláthatod a magadét.** Ezért a RWS a tükör-munka legalkalmasabb terepe.\n\n**Néhány visszatérő képi elem, saját szavakkal:**\n\n— **Víz** — a lapokon szinte mindig az érzelmi réteg: tenger, folyó, kiömlő kelyhek.\n— **Hegyek a háttérben** — a még előtted álló, távoli munka.\n— **Fal, kerítés, bekötött szem** — az önmagunk húzta határok.\n— **A nap és a hold** — a nappali, világos tudás és az éjszakai, sejtett tudás kettőse.\n\nA lényeg nem a „helyes” megfejtés: a képi szótár arra való, hogy legyen mibe kapaszkodnod — de a te beugró részleted mindig előbbre való, mint a lexikon.\n\n**Jogi lábjegyzet, ami ide tartozik:** az 1909-es képanyag közkincs, szabadon használható. A klasszikus kísérőszöveg, **A. E. Waite: The Pictorial Key to the Tarot** (1911) szintén közkincs — ha könyvet keresel a hagyomány-jelentésekhez, ez az elsődleges forrás.",
-        "en": "If you choose a single deck for the work, the tradition's most widespread one is the best starting point: the **Rider–Waite–Smith** deck (1909).\n\n**Why this one?** The decisive innovation belongs to the painter **Pamela Colman Smith**: in her deck even the numbered Minor Arcana cards are **full scenes** — not just five swords or seven coins on an ornamental field, but people doing something: mourning, building, sharing, walking away. Projective work needs exactly this: **a scene into which you can read your own.** That is why the RWS is the fittest ground for mirror work.\n\n**A few recurring pictorial elements, in our own words:**\n\n— **Water** — on the cards almost always the emotional layer: sea, river, spilling cups.\n— **Mountains in the background** — the distant work still ahead of you.\n— **Wall, fence, blindfold** — the boundaries we draw ourselves.\n— **The sun and the moon** — the pair of daylight, explicit knowing and nocturnal, intuited knowing.\n\nThe point is not the 'correct' decoding: the pictorial dictionary exists so you have something to hold on to — but the detail that leaps out at you always outranks the lexicon.\n\n**A legal footnote that belongs here:** the 1909 imagery is in the public domain and free to use. The classic companion text, **A. E. Waite's The Pictorial Key to the Tarot** (1911), is public domain as well — if you want a book for the traditional meanings, this is the primary source."
+        "en": "If you choose a single deck for the work, the tradition's most widespread one is the best starting point: the **Rider–Waite–Smith** deck (1909).\n\n**Why this one?** The decisive innovation belongs to the painter **Pamela Colman Smith**: in her deck even the numbered Minor Arcana cards are **full scenes** — not just five swords or seven coins on an ornamental field, but people doing something: mourning, building, sharing, walking away. Projective work needs exactly this: **a scene into which you can read your own.** That is why the RWS is the fittest ground for mirror work.\n\n**A few recurring pictorial elements, in our own words:**\n\n— **Water** — on the cards almost always the emotional layer: sea, river, spilling cups.\n— **Mountains in the background** — the distant work still ahead of you.\n— **Wall, fence, blindfold** — the boundaries we draw ourselves.\n— **The sun and the moon** — the pair of daylight, explicit knowing and nocturnal, intuited knowing.\n\nThe point is not the 'correct' decoding: the pictorial dictionary exists so you have something to hold on to — but the detail that leaps out at you always outranks the lexicon.\n\n**A legal footnote that belongs here:** the 1909 imagery is in the public domain and free to use. The classic companion text, **A. E. Waite's The Pictorial Key to the Tarot** (1911), is public domain as well — if you want a book for the traditional meanings, this is the primary source.",
+        "ro": "Dacă alegi un singur pachet pentru lucru, cel mai răspândit al tradiției este cel mai bun punct de plecare: pachetul **Rider–Waite–Smith** (1909).\n\n**De ce acesta?** Inovația decisivă îi aparține pictoriței **Pamela Colman Smith**: în pachetul ei, chiar și Arcanele Minore numerotate sunt **scene complete** — nu doar cinci săbii sau șapte monede pe un fond ornamental, ci oameni care fac ceva: jelesc, construiesc, împart, pleacă. Lucrul proiectiv are nevoie exact de asta: **o scenă în care să-ți poți citi propria scenă.** De aceea RWS este terenul cel mai potrivit pentru lucrul-oglindă.\n\n**Câteva elemente picturale recurente, în cuvintele noastre:**\n\n— **Apa** — pe cărți aproape întotdeauna stratul emoțional: mare, râu, cupe care se varsă.\n— **Munții în fundal** — lucrul îndepărtat care încă te așteaptă.\n— **Zid, gard, legătură la ochi** — granițele pe care ni le trasăm singuri.\n— **Soarele și luna** — perechea cunoașterii diurne, explicite, și a celei nocturne, intuite.\n\nPunctul nu e decodarea „corectă”: dicționarul pictural există ca să ai de ce să te prinzi — dar detaliul care îți sare în ochi are întotdeauna întâietate față de lexicon.\n\n**O notă juridică ce își are locul aici:** imagistica din 1909 este în domeniul public și liberă de folosit. Textul clasic de însoțire, **The Pictorial Key to the Tarot** al lui **A. E. Waite** (1911), este de asemenea în domeniul public — dacă vrei o carte pentru semnificațiile tradiționale, aceasta e sursa primară."
       }
     },
     {
@@ -177,11 +203,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Vaskeret, etika, források",
-        "en": "Iron Frame, Ethics, Sources"
+        "en": "Iron Frame, Ethics, Sources",
+        "ro": "Cadru de fier, etică, surse"
       },
       "text": {
         "hu": "A tükör-munka ereje a keretében van. Ezek nem díszek — ezek a modul tartószerkezete.\n\n**1. Döntést soha nem a kártya hoz.** A lap anyagot ad a mérlegeléshez; a döntés a tiéd, és a naplóban indokolod — úgy, hogy az indoklásod a lap említése nélkül is megállna. Aki a döntéseit egy paklinak adja át, az nem tükröt használ, hanem a felelősségét szervezi ki.\n\n**2. Tiltott terep.** Bűnügy és eltűnt személy „keresése” lapokkal: nem téma — az ilyen ügy a hatóságokra tartozik. Orvosi kérdésben diagnózist vagy kezelést lap nem ad; pénzügyi kérdésben a lap nem árfolyamjós. Ezekben a megfelelő szakember a mérvadó.\n\n**3. A kritikus szünet.** A **Kaspirovszkij-lecke** szabálya itt is áll: mielőtt egy olvasatot beengedsz, megállsz és megvizsgálod. És a **médiumság-modul megkülönböztetése** is: ami a lapról beugrik, belülről jön — **mérlegelendő gondolat, nem parancs.**\n\n**4. Leállító jelek.** Ha a húzás kényszeressé válik (újra és újra húzol, míg „jó” lap nem jön), ha lap nélkül már nem mersz dönteni, vagy ha az olvasatok tartós szorongást keltenek és a hétköznapi működésed romlik: tedd le a paklit, és beszélj valakivel — tartós mintánál szakemberrel. Akut lelki krízisben nem kártyát húzunk, hanem segítséget hívunk. A gyakorlat dolga, hogy tisztábban láss — ha zaklatottabbá tesz, az nem elmélyülés, hanem jelzés.\n\n**Közkincs források:** A. E. Waite: *The Pictorial Key to the Tarot* (1911); P. D. Ouspensky: *The Symbolism of the Tarot* (1913); Papus: *The Tarot of the Bohemians* (angol fordítás). A szöveg mindenütt saját összefoglaló, nem idézet.\n\n*Ez a modul önismereti segédlet — nem orvosi, nem lélektani, nem pénzügyi tanácsadás. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez.*",
-        "en": "The power of mirror work lies in its frame. These are not ornaments — they are the module's load-bearing structure.\n\n**1. A decision is never made by the card.** The card supplies material for weighing; the decision is yours, and you justify it in the journal — such that your justification would stand even without mentioning the card. Whoever hands their decisions to a deck is not using a mirror but outsourcing their responsibility.\n\n**2. Forbidden ground.** 'Searching' for crimes or missing persons with cards: not a topic — such matters belong to the authorities. In medical questions a card gives no diagnosis or treatment; in financial questions a card is no market oracle. In these, the appropriate professional is the authority.\n\n**3. The critical pause.** The rule of the **Kashpirovsky lesson** holds here too: before you let a reading in, you stop and examine it. And so does the **discernment of the mediumship module**: what leaps at you from the card comes from within — **a thought to be weighed, not a command.**\n\n**4. Stop signals.** If drawing becomes compulsive (drawing again and again until a 'good' card comes), if you no longer dare decide without a card, or if the readings sustain anxiety and your everyday functioning suffers: put the deck down and talk to someone — with a persistent pattern, to a professional. In an acute crisis we do not draw cards, we call for help. The practice's job is to make you see more clearly — if it leaves you more agitated, that is not depth, it is a signal.\n\n**Public-domain sources:** A. E. Waite: *The Pictorial Key to the Tarot* (1911); P. D. Ouspensky: *The Symbolism of the Tarot* (1913); Papus: *The Tarot of the Bohemians* (English translation). The text is an original summary throughout, not quotation.\n\n*This module is a self-knowledge aid — not medical, psychological or financial advice. If you experience distress, consult a professional.*"
+        "en": "The power of mirror work lies in its frame. These are not ornaments — they are the module's load-bearing structure.\n\n**1. A decision is never made by the card.** The card supplies material for weighing; the decision is yours, and you justify it in the journal — such that your justification would stand even without mentioning the card. Whoever hands their decisions to a deck is not using a mirror but outsourcing their responsibility.\n\n**2. Forbidden ground.** 'Searching' for crimes or missing persons with cards: not a topic — such matters belong to the authorities. In medical questions a card gives no diagnosis or treatment; in financial questions a card is no market oracle. In these, the appropriate professional is the authority.\n\n**3. The critical pause.** The rule of the **Kashpirovsky lesson** holds here too: before you let a reading in, you stop and examine it. And so does the **discernment of the mediumship module**: what leaps at you from the card comes from within — **a thought to be weighed, not a command.**\n\n**4. Stop signals.** If drawing becomes compulsive (drawing again and again until a 'good' card comes), if you no longer dare decide without a card, or if the readings sustain anxiety and your everyday functioning suffers: put the deck down and talk to someone — with a persistent pattern, to a professional. In an acute crisis we do not draw cards, we call for help. The practice's job is to make you see more clearly — if it leaves you more agitated, that is not depth, it is a signal.\n\n**Public-domain sources:** A. E. Waite: *The Pictorial Key to the Tarot* (1911); P. D. Ouspensky: *The Symbolism of the Tarot* (1913); Papus: *The Tarot of the Bohemians* (English translation). The text is an original summary throughout, not quotation.\n\n*This module is a self-knowledge aid — not medical, psychological or financial advice. If you experience distress, consult a professional.*",
+        "ro": "Puterea lucrului-oglindă stă în cadrul lui. Acestea nu sunt ornamente — sunt structura portantă a modulului.\n\n**1. O decizie nu e luată niciodată de carte.** Cartea oferă material de cântărit; decizia e a ta, și o justifici în jurnal — astfel încât justificarea ta să stea în picioare chiar și fără a menționa cartea. Cine își predă deciziile unui pachet nu folosește o oglindă, ci își externalizează responsabilitatea.\n\n**2. Teren interzis.** „Căutarea” de crime sau persoane dispărute cu cărțile: nu e un subiect — astfel de chestiuni țin de autorități. În întrebări medicale o carte nu dă diagnostic sau tratament; în întrebări financiare o carte nu e oracol de piață. În acestea, profesionistul potrivit este autoritatea.\n\n**3. Pauza critică.** Regula din **lecția Kashpirovsky** ține și aici: înainte să lași o citire să intre, te oprești și o examinezi. La fel și **discernământul din modulul de mediumnitate**: ce îți sare din carte vine dinăuntru — **un gând de cântărit, nu o poruncă.**\n\n**4. Semnale de oprire.** Dacă tragerea devine compulsivă (tragi iar și iar până vine o carte „bună”), dacă nu mai îndrăznești să decizi fără o carte, sau dacă citirile alimentează anxietatea și funcționarea ta de zi cu zi are de suferit: lasă pachetul jos și vorbește cu cineva — la un tipar persistent, cu un profesionist. Într-o criză acută nu tragem cărți, chemăm ajutor. Treaba practicii e să te facă să vezi mai clar — dacă te lasă mai agitat, asta nu e adâncime, e un semnal.\n\n**Surse din domeniul public:** A. E. Waite: *The Pictorial Key to the Tarot* (1911); P. D. Ouspensky: *The Symbolism of the Tarot* (1913); Papus: *The Tarot of the Bohemians* (traducere în engleză). Textul este pe tot parcursul un rezumat original, nu citat.\n\n*Acest modul este un ajutor de autocunoaștere — nu sfat medical, psihologic sau financiar. Dacă treci prin suferință, consultă un profesionist.*"
       }
     },
     {
@@ -189,7 +217,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A tükör-olvasó jellemvonásai",
-        "en": "The Mirror-Reader's character traits"
+        "en": "The Mirror-Reader's character traits",
+        "ro": "Trăsăturile de caracter ale Cititorului-Oglindă"
       },
       "aspektusPack": [
         {
@@ -198,7 +227,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Döntés-kiszervezés a lapnak",
-            "en": "Outsourcing decisions to the card"
+            "en": "Outsourcing decisions to the card",
+            "ro": "Externalizarea deciziilor către carte"
           }
         },
         {
@@ -207,7 +237,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Katasztrófa-olvasat",
-            "en": "Doom reading"
+            "en": "Doom reading",
+            "ro": "Citire de pieire"
           }
         },
         {
@@ -216,7 +247,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Megerősítési torzítás",
-            "en": "Confirmation bias"
+            "en": "Confirmation bias",
+            "ro": "Bias de confirmare"
           }
         },
         {
@@ -225,7 +257,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Kényszeres újrahúzás",
-            "en": "Compulsive redrawing"
+            "en": "Compulsive redrawing",
+            "ro": "Retragere compulsivă"
           }
         },
         {
@@ -234,7 +267,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Tükör-tudatosság",
-            "en": "Mirror awareness"
+            "en": "Mirror awareness",
+            "ro": "Conștiință de oglindă"
           }
         },
         {
@@ -243,7 +277,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Szimbólum-érzék",
-            "en": "Feel for symbols"
+            "en": "Feel for symbols",
+            "ro": "Simț pentru simboluri"
           }
         },
         {
@@ -252,7 +287,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Döntés-szuverenitás",
-            "en": "Decision sovereignty"
+            "en": "Decision sovereignty",
+            "ro": "Suveranitatea deciziei"
           }
         },
         {
@@ -261,7 +297,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Írásos földelés",
-            "en": "Written grounding"
+            "en": "Written grounding",
+            "ro": "Ancorare în scris"
           }
         }
       ]
@@ -271,7 +308,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Húzás-napló",
-        "en": "Draw Log"
+        "en": "Draw Log",
+        "ro": "Jurnal de trageri"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -279,7 +317,8 @@
         ],
         "prompts": {
           "hu": "LAP — A mai lap(ok), és ami ELŐSZÖR beugrott a képről: ___\n\nTÜKÖR — Az életem melyik pontját érinti ez ma: ___\n\nELLENPRÓBA — Mit olvasnék ki belőle, ha az ellenkezőjét akarnám igazolni: ___\n\nDÖNTÉS — Amit ebből ÉN döntök (nem a lap), és az indoklásom: ___",
-          "en": "CARD — Today's card(s), and what leapt out of the image FIRST: ___\n\nMIRROR — Which point of my life does this touch today: ___\n\nCOUNTER-CHECK — What would I read into it if I wanted to prove the opposite: ___\n\nDECISION — What I decide from this (not the card), and my justification: ___"
+          "en": "CARD — Today's card(s), and what leapt out of the image FIRST: ___\n\nMIRROR — Which point of my life does this touch today: ___\n\nCOUNTER-CHECK — What would I read into it if I wanted to prove the opposite: ___\n\nDECISION — What I decide from this (not the card), and my justification: ___",
+          "ro": "CARTE — Cartea (cărțile) de azi, și ce a sărit DIN IMAGINE mai întâi: ___\n\nOGLINDĂ — Ce punct din viața mea atinge asta astăzi: ___\n\nCONTRA-VERIFICARE — Ce aș citi în ea dacă aș vrea să dovedesc contrariul: ___\n\nDECIZIE — Ce decid din asta (nu cartea), și justificarea mea: ___"
         }
       }
     },
@@ -288,7 +327,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A tükör-munka elsajátítása",
-        "en": "Mastery of the Mirror Work"
+        "en": "Mastery of the Mirror Work",
+        "ro": "Măiestria lucrului-oglindă"
       },
       "checklist": {
         "items": [
@@ -296,42 +336,48 @@
             "key": "c1",
             "nevek": {
               "hu": "Hét napon át egylapos napi húzás, minden nap naplóval",
-              "en": "One-card daily draw for seven days, each day with the journal"
+              "en": "One-card daily draw for seven days, each day with the journal",
+              "ro": "Tragere zilnică de o carte timp de șapte zile, în fiecare zi cu jurnalul"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "A „kép először” sorrend minden húzásnál betartva",
-              "en": "The 'image first' order kept at every draw"
+              "en": "The 'image first' order kept at every draw",
+              "ro": "Ordinea „mai întâi imaginea” păstrată la fiecare tragere"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "A nagy árkánum 22 lapja végignézve, saját szavas jegyzetekkel",
-              "en": "All 22 Major Arcana cards reviewed, with notes in your own words"
+              "en": "All 22 Major Arcana cards reviewed, with notes in your own words",
+              "ro": "Toate cele 22 de Arcane Majore parcurse, cu note în cuvintele tale"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Egy háromlapos reflexió elvégezve, előre megválasztott kerettel",
-              "en": "One three-card reflection completed, with a frame chosen in advance"
+              "en": "One three-card reflection completed, with a frame chosen in advance",
+              "ro": "O reflecție în trei cărți finalizată, cu cadrul ales dinainte"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Ellenpróba legalább egyszer megírva: az ellenkező olvasat is",
-              "en": "The counter-check written at least once: the opposite reading too"
+              "en": "The counter-check written at least once: the opposite reading too",
+              "ro": "Contra-verificarea scrisă cel puțin o dată: și citirea opusă"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Egy valódi döntés meghozva úgy, hogy a lap csak anyagot adott — az indoklás a naplóban",
-              "en": "One real decision made with the card as material only — the justification in the journal"
+              "en": "One real decision made with the card as material only — the justification in the journal",
+              "ro": "O decizie reală luată cu cartea doar ca material — justificarea în jurnal"
             }
           }
         ]
@@ -342,7 +388,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Auto-verificare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -351,7 +398,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi a kártyahúzás szerepe ebben a modulban?",
-              "en": "What is the role of a card draw in this module?"
+              "en": "What is the role of a card draw in this module?",
+              "ro": "Care este rolul unei extrageri de cărți în acest modul?"
             },
             "options": {
               "hu": [
@@ -365,6 +413,12 @@
                 "A journal prompt: a projective mirror that surfaces the material already in you",
                 "A luck ritual to open the day",
                 "Receiving messages from the spirits of the cards"
+              ],
+              "ro": [
+                "O prognoză de încredere a viitorului",
+                "Un impuls de jurnal: o oglindă proiectivă care scoate la suprafață materialul deja aflat în tine",
+                "Un ritual de noroc ca să deschizi ziua",
+                "Primirea de mesaje de la spiritele cărților"
               ]
             },
             "correctIndex": 1
@@ -373,7 +427,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Melyik a kis árkánum helyes szín–elem megfeleltetése?",
-              "en": "Which is the correct suit-element mapping of the Minor Arcana?"
+              "en": "Which is the correct suit-element mapping of the Minor Arcana?",
+              "ro": "Care este corespondența corectă suită–element a Arcanei Minore?"
             },
             "options": {
               "hu": [
@@ -387,6 +442,12 @@
                 "Wands=air, Cups=earth, Swords=fire, Coins=water",
                 "Wands=fire, Cups=water, Swords=air, Coins=earth",
                 "Wands=earth, Cups=air, Swords=water, Coins=fire"
+              ],
+              "ro": [
+                "Wands=apă, Cups=foc, Swords=pământ, Coins=aer",
+                "Wands=aer, Cups=pământ, Swords=foc, Coins=apă",
+                "Wands=foc, Cups=apă, Swords=aer, Coins=pământ",
+                "Wands=pământ, Cups=aer, Swords=apă, Coins=foc"
               ]
             },
             "correctIndex": 2
@@ -395,7 +456,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mit jelent a Halál lap a hagyomány kulcsa szerint?",
-              "en": "What does the Death card mean by the tradition's key?"
+              "en": "What does the Death card mean by the tradition's key?",
+              "ro": "Ce înseamnă cartea Moartea după cheia tradiției?"
             },
             "options": {
               "hu": [
@@ -409,6 +471,12 @@
                 "Imminent danger to prepare for",
                 "Illness in the family",
                 "Financial loss"
+              ],
+              "ro": [
+                "Încheiere și transformare — nu moarte fizică",
+                "Pericol iminent pentru care să te pregătești",
+                "Boală în familie",
+                "Pierdere financiară"
               ]
             },
             "correctIndex": 0
@@ -417,7 +485,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Ki hozza meg a döntést egy húzás után?",
-              "en": "Who makes the decision after a draw?"
+              "en": "Who makes the decision after a draw?",
+              "ro": "Cine ia decizia după o extragere?"
             },
             "options": {
               "hu": [
@@ -431,6 +500,12 @@
                 "The traditional meaning-book",
                 "The reader who gave you the deck",
                 "Always you — the card only supplies material for weighing, and you justify it in the journal"
+              ],
+              "ro": [
+                "Cartea — de aceea am extras-o",
+                "Cartea tradițională de semnificații",
+                "Cititorul care ți-a dat pachetul",
+                "Întotdeauna tu — cartea oferă doar material de cântărit, iar tu îl justifici în jurnal"
               ]
             },
             "correctIndex": 3

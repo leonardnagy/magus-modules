@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "X. Lépés — Egyesülés",
-    "en": "Step X — Union"
+    "en": "Step X — Union",
+    "ro": "Pasul X — Unirea"
   },
   "description": {
     "hu": "A tizedik lépés a mű betetőzése: meditáció a négy isteni minőségen, az aura és az asztráltest tudatos ismerete, az elemek birodalmai és a személyes szellem egyesülése az egyetemessel. Nem lezárás, hanem életforma — a mágus mindhárom világ kiegyensúlyozott polgáraként él tovább. Ajánlott időtartam: évek, folyamatos.",
-    "en": "The tenth step is the culmination of the work: meditation on the four Divine qualities, conscious knowledge of the aura and the astral body, the realms of the elements, and the union of the personal spirit with the universal. It is not an ending but a way of living — the magician goes on as a balanced citizen of all three worlds. Recommended duration: years, ongoing."
+    "en": "The tenth step is the culmination of the work: meditation on the four Divine qualities, conscious knowledge of the aura and the astral body, the realms of the elements, and the union of the personal spirit with the universal. It is not an ending but a way of living — the magician goes on as a balanced citizen of all three worlds. Recommended duration: years, ongoing.",
+    "ro": "Al zecelea pas este culminarea lucrării: meditația asupra celor patru calități Divine, cunoașterea conștientă a aurei și a corpului astral, tărâmurile elementelor și unirea spiritului personal cu cel universal. Nu este un sfârșit, ci un fel de a trăi — magicianul merge mai departe ca un cetățean echilibrat al tuturor celor trei lumi. Durată recomandată: ani, pe tot parcursul."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/iih.step.10/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető",
-        "en": "Introduction"
+        "en": "Introduction",
+        "ro": "Introducere"
       },
       "text": {
         "hu": "A tizedik lépés nem újabb emelet a tornyon — ez a torony csúcsa, ahonnan végre látszik, miért épült az egész. Kilenc lépésen át eszközt készítettél magadból; most az eszköz megtalálja a kezet, amely fogja. Amit itt gyakorolsz, annak egyetlen neve van: **egyesülés** — a személyes szellem tudatos találkozása az egyetemessel, úgy, hogy közben nem szűnsz meg önmagad lenni.\n\nA három sík ezen a lépésen így szolgál: a **szellem** a négy isteni minőségen — mindenhatóság, bölcsesség, szeretet, halhatatlan tudat — meditál, míg azok egyetlen jelenlétté olvadnak; a **lélek** megtanulja olvasni saját auráját, tudatosan kilépni asztráltestében, és bejárja az elemek birodalmait; a **test** pedig mindazt, amit kilenc lépésen át gyakoroltál, hétköznapi életté érleli.\n\nMielőtt belefogsz, légy magadhoz könyörtelenül őszinte: a kilencedik lépés minden gyakorlata **valóban** a véredben van? Ha bárhol hézag maradt, térj vissza — ezen a szinten a hiányosság már nem lassít, hanem veszélyeztet.\n\nÉs a tempó: erre a lépésre nem heteket, hanem éveket szánj. Az egyesülés nem teljesítmény, hanem érés. A kilépés gyakorlatait csak nyugodt, egészséges, kiegyensúlyozott állapotban végezd, fokozatosan és sietség nélkül — itt a türelem nem erény, hanem biztonsági szabály.",
-        "en": "The tenth step is not another storey on the tower — it is the summit, from which you finally see why the whole thing was built. Through nine steps you forged yourself into the instrument; now the instrument finds the hand that holds it. What you practise here has a single name: **union** — the conscious meeting of the personal spirit with the universal, in which you never cease to be yourself.\n\nOn this step the three planes serve like this: the **spirit** meditates on the four Divine qualities — omnipotence, wisdom, love, immortal consciousness — until they melt into a single presence; the **soul** learns to read its own aura, to leave the body consciously in its astral form, and to walk the realms of the elements; and the **body** ripens everything you have practised through nine steps into ordinary, daily life.\n\nBefore you begin, be mercilessly honest with yourself: is every exercise of the ninth step **truly** in your blood? If a gap remains anywhere, go back — at this level a deficiency no longer slows you down; it endangers you.\n\nAnd the pace: give this step not weeks but years. Union is not an achievement but a ripening. Practise the separation exercises only in a calm, healthy, balanced state, gradually and without haste — here patience is not a virtue but a safety rule."
+        "en": "The tenth step is not another storey on the tower — it is the summit, from which you finally see why the whole thing was built. Through nine steps you forged yourself into the instrument; now the instrument finds the hand that holds it. What you practise here has a single name: **union** — the conscious meeting of the personal spirit with the universal, in which you never cease to be yourself.\n\nOn this step the three planes serve like this: the **spirit** meditates on the four Divine qualities — omnipotence, wisdom, love, immortal consciousness — until they melt into a single presence; the **soul** learns to read its own aura, to leave the body consciously in its astral form, and to walk the realms of the elements; and the **body** ripens everything you have practised through nine steps into ordinary, daily life.\n\nBefore you begin, be mercilessly honest with yourself: is every exercise of the ninth step **truly** in your blood? If a gap remains anywhere, go back — at this level a deficiency no longer slows you down; it endangers you.\n\nAnd the pace: give this step not weeks but years. Union is not an achievement but a ripening. Practise the separation exercises only in a calm, healthy, balanced state, gradually and without haste — here patience is not a virtue but a safety rule.",
+        "ro": "Al zecelea pas nu este încă un etaj pe turn — este vârful, de pe care vezi în sfârșit de ce a fost construit totul. Prin nouă pași te-ai forjat pe tine însuți în instrument; acum instrumentul găsește mâna care îl ține. Ceea ce practici aici are un singur nume: **unirea** — întâlnirea conștientă a spiritului personal cu cel universal, în care nu încetezi niciodată să fii tu însuți.\n\nPe acest pas cele trei planuri slujesc astfel: **spiritul** meditează asupra celor patru calități Divine — omnipotența, înțelepciunea, iubirea, conștiința nemuritoare — până se topesc într-o singură prezență; **sufletul** învață să-și citească propria aură, să părăsească trupul conștient în forma sa astrală și să umble prin tărâmurile elementelor; iar **corpul** coace tot ce ai practicat prin nouă pași în viața obișnuită, de zi cu zi.\n\nÎnainte să începi, fii nemilos de sincer cu tine însuți: este fiecare exercițiu al pasului al nouălea **cu adevărat** în sângele tău? Dacă undeva mai rămâne o lacună, întoarce-te — la acest nivel o deficiență nu te mai încetinește; te pune în pericol.\n\nIar ritmul: dă-i acestui pas nu săptămâni, ci ani. Unirea nu este o realizare, ci o coacere. Practica exercițiile de separare numai într-o stare calmă, sănătoasă, echilibrată, treptat și fără grabă — aici răbdarea nu este o virtute, ci o regulă de siguranță."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Szellemi képzés",
-        "en": "Mental Training"
+        "en": "Mental Training",
+        "ro": "Antrenament mental"
       },
       "text": {
         "hu": "**1. A négy isteni minőség.** Az istenire nem gondolni tanulsz, hanem benne időzni. Négy alapminőségen keresztül közelítesz, és mindegyik egy elemnek felel meg: a **mindenhatóság** a tűznek, a **bölcsesség és mindentudás** a levegőnek, a **mindent átölelő szeretet** a víznek, a **halhatatlanság, az örök tudat** pedig a földnek és rajta túl az Akásának. Egyszerre csak egy minőséggel dolgozz, és hetekig maradj nála, míg nem fogalom többé, hanem élmény.\n\n**2. Mindenhatóság és bölcsesség.** A tűz minőségével kezdd: merülj el abban az erőben, amely minden történés mögött áll — nem hatalmi képzelgésként, hanem a mindenség hordozó akarataként. Engedd, hogy ez az erő átjárja a tudatodat, míg magadat is e mindenhatóság egy tudatos pontjának éled meg. Utána fordulj a levegő minőségéhez: a bölcsességhez, amely mindent áthat és mindent a helyén lát. Időzz a törvényszerűség, a tisztaság és a világosság érzésében, míg a gondolkodásod maga válik fénnyé.\n\n**3. Szeretet és halhatatlan tudat.** A víz minőségében a mindent átölelő szeretetbe merülsz — abba, amely nem válogat, nem birtokol és nem vár viszonzást. Hagyd, hogy minden élő felé kiáradjon belőled, ellenállás nélkül. Végül a föld és az Akása minőségében az örök, halhatatlan tudaton meditálsz: azon, ami benned sosem született és sosem hal meg. Ez a négy közül a legcsendesebb — és a legmélyebb.\n\n**4. Az összeolvadás.** Amikor mind a négy minőség külön-külön eleven élményed, kezdd egyetlen meditációban egymás után felidézni őket, és engedd, hogy határvonalaik feloldódjanak. Mindenhatóság, bölcsesség, szeretet és halhatatlanság így egyetlen osztatlan isteni jelenlétté válik — nem négy tulajdonság, hanem egy valóság négy arca.\n\n**5. Egyesülés.** Ebben a jelenlétben történik a lépés tulajdonképpeni munkája: a személyes szellemed fokozatosan egyesül az egyetemessel. * Nem oldódsz fel és nem tűnsz el — tudatos egyén maradsz, aki egyre kevésbé érzi, hol végződik ő és hol kezdődik az egész. A csepp megismeri az óceánt, és mégis tudja magáról, hogy csepp. Ezt az élményt nem lehet kikényszeríteni; teremtsd meg a feltételeit, és hagyd megérkezni.\n\n**6. Gondolatolvasás.** Ezen a fokon közvetlenül olvasod mások gondolatait — a másik elméjén átfutó képek és érzések oly tisztán tárulnak eléd, mint a sajátjaid. * Bárhogyan is éled meg, szigorú etika köti: csak jogos okkal, csak mások javára, mindig teljes diszkrécióval, és soha valakinek a magánélete vagy akarata ellenében. Ami e kereten kívül esik, arról a mágus önként lemond.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "**1. The four Divine qualities.** You are not learning to think about the Divine but to dwell in it. You approach through four fundamental qualities, each corresponding to an element: **omnipotence** to fire, **wisdom and omniscience** to air, **all-embracing love** to water, and **immortality, the eternal consciousness** to earth and, beyond it, to Akasha. Work with one quality at a time, and stay with it for weeks, until it is no longer a concept but an experience.\n\n**2. Omnipotence and wisdom.** Begin with the quality of fire: immerse yourself in the power that stands behind every event — not as a fantasy of power, but as the carrying will of the universe. Let this force pervade your consciousness until you experience yourself as one conscious point of that omnipotence. Then turn to the quality of air: to the wisdom that pervades everything and sees everything in its place. Dwell in the feeling of lawfulness, purity and clarity, until your thinking itself becomes light.\n\n**3. Love and immortal consciousness.** In the quality of water you immerse yourself in all-embracing love — the love that does not choose, does not possess and expects nothing in return. Let it stream out of you toward every living thing, without resistance. Finally, in the quality of earth and Akasha, you meditate on the eternal, immortal consciousness: on that within you which was never born and never dies. Of the four this is the quietest — and the deepest.\n\n**4. The melting together.** When each of the four qualities is a living experience on its own, begin to call them up one after another within a single meditation, and let their boundaries dissolve. Omnipotence, wisdom, love and immortality thus become one undivided Divine presence — not four attributes, but four faces of one reality.\n\n**5. Union.** In this presence the real work of the step takes place: your personal spirit gradually unites with the universal. * You do not dissolve and you do not vanish — you remain a conscious individual who feels less and less where they end and where the whole begins. The drop comes to know the ocean, and still knows itself to be a drop. This experience cannot be forced; create its conditions and let it arrive.\n\n**6. Thought reading.** At this level you can read the thoughts of another directly — the images and feelings moving through their mind lie open to you as plainly as your own. * However you come to experience it, it is bound by a strict ethic: only with just cause, only for the good of others, always with complete discretion, and never against a person's privacy or will. Whatever falls outside this frame, the magician renounces of their own accord.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "**1. The four Divine qualities.** You are not learning to think about the Divine but to dwell in it. You approach through four fundamental qualities, each corresponding to an element: **omnipotence** to fire, **wisdom and omniscience** to air, **all-embracing love** to water, and **immortality, the eternal consciousness** to earth and, beyond it, to Akasha. Work with one quality at a time, and stay with it for weeks, until it is no longer a concept but an experience.\n\n**2. Omnipotence and wisdom.** Begin with the quality of fire: immerse yourself in the power that stands behind every event — not as a fantasy of power, but as the carrying will of the universe. Let this force pervade your consciousness until you experience yourself as one conscious point of that omnipotence. Then turn to the quality of air: to the wisdom that pervades everything and sees everything in its place. Dwell in the feeling of lawfulness, purity and clarity, until your thinking itself becomes light.\n\n**3. Love and immortal consciousness.** In the quality of water you immerse yourself in all-embracing love — the love that does not choose, does not possess and expects nothing in return. Let it stream out of you toward every living thing, without resistance. Finally, in the quality of earth and Akasha, you meditate on the eternal, immortal consciousness: on that within you which was never born and never dies. Of the four this is the quietest — and the deepest.\n\n**4. The melting together.** When each of the four qualities is a living experience on its own, begin to call them up one after another within a single meditation, and let their boundaries dissolve. Omnipotence, wisdom, love and immortality thus become one undivided Divine presence — not four attributes, but four faces of one reality.\n\n**5. Union.** In this presence the real work of the step takes place: your personal spirit gradually unites with the universal. * You do not dissolve and you do not vanish — you remain a conscious individual who feels less and less where they end and where the whole begins. The drop comes to know the ocean, and still knows itself to be a drop. This experience cannot be forced; create its conditions and let it arrive.\n\n**6. Thought reading.** At this level you can read the thoughts of another directly — the images and feelings moving through their mind lie open to you as plainly as your own. * However you come to experience it, it is bound by a strict ethic: only with just cause, only for the good of others, always with complete discretion, and never against a person's privacy or will. Whatever falls outside this frame, the magician renounces of their own accord.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "**1. Cele patru calități Divine.** Nu înveți să gândești despre Divin, ci să locuiești în el. Te apropii prin patru calități fundamentale, fiecare corespunzând unui element: **omnipotența** focului, **înțelepciunea și omnisciența** aerului, **iubirea atotcuprinzătoare** apei, și **nemurirea, conștiința eternă** pământului și, dincolo de el, lui Akasha. Lucrează cu o calitate pe rând și rămâi cu ea săptămâni întregi, până nu mai este un concept, ci o experiență.\n\n**2. Omnipotența și înțelepciunea.** Începe cu calitatea focului: cufundă-te în puterea care stă în spatele fiecărui eveniment — nu ca o fantezie de putere, ci ca voința purtătoare a universului. Lasă această forță să-ți pătrundă conștiința până te experimentezi ca un punct conștient al acelei omnipotențe. Apoi întoarce-te către calitatea aerului: către înțelepciunea care pătrunde totul și vede totul la locul său. Locuiește în sentimentul de legitate, puritate și claritate, până când gândirea ta însăși devine lumină.\n\n**3. Iubirea și conștiința nemuritoare.** În calitatea apei te cufunzi în iubirea atotcuprinzătoare — iubirea care nu alege, nu stăpânește și nu așteaptă nimic în schimb. Las-o să curgă din tine către fiecare ființă vie, fără rezistență. În cele din urmă, în calitatea pământului și a lui Akasha, meditezi asupra conștiinței eterne, nemuritoare: asupra a ceea ce este în tine care nu s-a născut niciodată și nu moare niciodată. Dintre cele patru, aceasta este cea mai liniștită — și cea mai adâncă.\n\n**4. Topirea laolaltă.** Când fiecare dintre cele patru calități este o experiență vie pe cont propriu, începe să le chemi una după alta în cadrul unei singure meditații și lasă granițele lor să se dizolve. Omnipotența, înțelepciunea, iubirea și nemurirea devin astfel o singură prezență Divină nedespărțită — nu patru atribute, ci patru fețe ale unei singure realități.\n\n**5. Unirea.** În această prezență are loc adevărata lucrare a pasului: spiritul tău personal se unește treptat cu cel universal. * Nu te dizolvi și nu dispari — rămâi un individ conștient care simte din ce în ce mai puțin unde se termină el și unde începe întregul. Picătura ajunge să cunoască oceanul și totuși se știe pe sine ca picătură. Această experiență nu poate fi forțată; creează-i condițiile și las-o să sosească.\n\n**6. Citirea gândurilor.** La acest nivel poți citi gândurile altuia în mod direct — imaginile și sentimentele care se mișcă prin mintea lui îți stau deschise la fel de limpede ca ale tale. * Oricum ai ajunge să o experimentezi, este legată de o etică strictă: numai cu un motiv just, numai spre binele altora, întotdeauna cu discreție deplină și niciodată împotriva intimității sau voinței unei persoane. Orice cade în afara acestui cadru, magicianul renunță de la sine.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,34 +47,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Meditáció a Négy Isteni Minőségen — 15 perc",
-        "en": "Meditation on the Four Divine Qualities — 15 min"
+        "en": "Meditation on the Four Divine Qualities — 15 min",
+        "ro": "Meditație asupra celor patru calități Divine — 15 min"
       },
       "timer": {
         "durationSeconds": 900,
         "instructions": {
           "hu": "Időzz sorban a négy isteni minőségen: mindenhatóság, bölcsesség, szeretet, halhatatlan tudat. Végül engedd, hogy a négy egyetlen jelenlétté olvadjon benned.",
-          "en": "Dwell in turn on the four Divine qualities: omnipotence, wisdom, love, immortal consciousness. Finally let the four melt into a single presence within you."
+          "en": "Dwell in turn on the four Divine qualities: omnipotence, wisdom, love, immortal consciousness. Finally let the four melt into a single presence within you.",
+          "ro": "Locuiește pe rând în cele patru calități Divine: omnipotența, înțelepciunea, iubirea, conștiința nemuritoare. În cele din urmă lasă-le pe cele patru să se topească într-o singură prezență în tine."
         },
         "intervals": [
           {
             "atSecond": 225,
             "label": {
               "hu": "Bölcsesség",
-              "en": "Wisdom"
+              "en": "Wisdom",
+              "ro": "Înțelepciune"
             }
           },
           {
             "atSecond": 450,
             "label": {
               "hu": "Félidő — szeretet",
-              "en": "Halfway — love"
+              "en": "Halfway — love",
+              "ro": "La jumătate — iubirea"
             }
           },
           {
             "atSecond": 675,
             "label": {
               "hu": "Halhatatlan tudat",
-              "en": "Immortal consciousness"
+              "en": "Immortal consciousness",
+              "ro": "Conștiința nemuritoare"
             }
           }
         ]
@@ -79,11 +90,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Asztrális képzés",
-        "en": "Astral Training"
+        "en": "Astral Training",
+        "ro": "Antrenament astral"
       },
       "text": {
         "hu": "**1. Az aura olvasása.** Először a saját fénykörödet tanulod látni: csendes, félhomályos szobában, nyugodt szellemi szemlélettel figyeld meg a testedet körülvevő sugárzást. A színek jellemet beszélnek — mindegyik árnyalat egy elemi minőség és egy lelki vonás lenyomata. * Amit itt látsz, vesd össze a tükör-munkád eredményével: az aura nem hízeleg.\n\n**2. Tudatos kilépés.** A lépés nagy asztrális gyakorlata az, amit Bardon extázisnak nevez: az asztráltest tudatos elválása a fizikaitól. * A szellemi vándorlást már ismered — most a lélek is követi a szellemet. A gyakorlat fokozatos: először csak az elválás első mozdulatát gyakorlod, majd lépésről lépésre hosszabbítod az időt — mindig teljes nyugalomban, mindig rendezett visszatéréssel.\n\n**3. Biztonság.** Erre a munkára szigorú szabályok vonatkoznak:\n\n— Csak testi-lelki egészségben, kiegyensúlyozott napokon gyakorolj — izgatott, kimerült vagy zaklatott állapotban soha.\n\n— Zavartalan, védett helyet válassz, és sose siettesd a visszatérést: a gyakorlat a testbe való teljes, nyugodt megérkezéssel ér véget.\n\n— A fokozatosság nem ajánlás, hanem törvény: a türelmetlenség itt az egyetlen valódi veszély.\n\n**4. Az elemek birodalmai.** Kilépett állapotban — vagy míg az érik, szellemi vándorlásban — sorra látogatod a négy elem birodalmát, hogy lényeiktől kiegyensúlyozott minőségeiket tanuld el: a tűztől a tiszta erőt, a levegőtől a könnyűséget, a víztől az odaadást, a földtől az állhatatosságot. * Nem uralkodni mész, hanem tanulni; a tisztelet itt a belépőjegy.\n\n**5. A vezető.** Ezen a fokon a szellemi vezetőddel való kapcsolat a legmélyebbé válik: már nem ritka találkozás, hanem folyamatos, halk jelenlét. * Kérdezz, figyelj, és fogadd el, hogy a legfontosabb tanítások sokszor szavak nélkül érkeznek.\n\nAz alábbi jellemvonás-csomag ehhez a lépéshez tartozó fényeket és árnyékokat gyűjti össze — töltsd be, és a Tükör munkádban kísér tovább.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "**1. Reading the aura.** First you learn to see your own circle of light: in a quiet, dimly lit room, with calm mental vision, observe the radiance surrounding your body. The colours speak character — every shade is the imprint of an elemental quality and a trait of the soul. * Compare what you see here with the results of your mirror work: the aura does not flatter.\n\n**2. Conscious separation.** The great astral exercise of this step is what Bardon calls ecstasy: the conscious separation of the astral body from the physical. * You already know mental wandering — now the soul follows the spirit. The practice is gradual: at first you rehearse only the first movement of separation, then extend the time step by step — always in complete calm, always with an orderly return.\n\n**3. Safety.** Strict rules govern this work:\n\n— Practise only in full physical and mental health, on balanced days — never when agitated, exhausted or distressed.\n\n— Choose an undisturbed, protected place, and never hurry the return: the exercise ends with a complete, calm arrival back in the body.\n\n— Gradualness is not a recommendation but a law: impatience is the only real danger here.\n\n**4. The realms of the elements.** In the separated state — or, while that ripens, in mental wandering — you visit the realms of the four elements in turn, to learn from their beings their balanced qualities: pure strength from fire, lightness from air, devotion from water, steadfastness from earth. * You go not to rule but to learn; reverence is the price of entry.\n\n**5. The guide.** At this level your connection with your spiritual guide becomes the deepest it has been: no longer a rare meeting but a continuous, quiet presence. * Ask, listen, and accept that the most important teachings often arrive without words.\n\nThe trait pack below gathers the lights and shadows belonging to this step — load it, and it will accompany you in your Mirror work.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "**1. Reading the aura.** First you learn to see your own circle of light: in a quiet, dimly lit room, with calm mental vision, observe the radiance surrounding your body. The colours speak character — every shade is the imprint of an elemental quality and a trait of the soul. * Compare what you see here with the results of your mirror work: the aura does not flatter.\n\n**2. Conscious separation.** The great astral exercise of this step is what Bardon calls ecstasy: the conscious separation of the astral body from the physical. * You already know mental wandering — now the soul follows the spirit. The practice is gradual: at first you rehearse only the first movement of separation, then extend the time step by step — always in complete calm, always with an orderly return.\n\n**3. Safety.** Strict rules govern this work:\n\n— Practise only in full physical and mental health, on balanced days — never when agitated, exhausted or distressed.\n\n— Choose an undisturbed, protected place, and never hurry the return: the exercise ends with a complete, calm arrival back in the body.\n\n— Gradualness is not a recommendation but a law: impatience is the only real danger here.\n\n**4. The realms of the elements.** In the separated state — or, while that ripens, in mental wandering — you visit the realms of the four elements in turn, to learn from their beings their balanced qualities: pure strength from fire, lightness from air, devotion from water, steadfastness from earth. * You go not to rule but to learn; reverence is the price of entry.\n\n**5. The guide.** At this level your connection with your spiritual guide becomes the deepest it has been: no longer a rare meeting but a continuous, quiet presence. * Ask, listen, and accept that the most important teachings often arrive without words.\n\nThe trait pack below gathers the lights and shadows belonging to this step — load it, and it will accompany you in your Mirror work.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "**1. Citirea aurei.** Mai întâi înveți să-ți vezi propriul cerc de lumină: într-o cameră liniștită, slab luminată, cu privirea mentală calmă, observă strălucirea care îți înconjoară trupul. Culorile vorbesc despre caracter — fiecare nuanță este amprenta unei calități elementale și a unei trăsături a sufletului. * Compară ce vezi aici cu rezultatele muncii tale la oglindă: aura nu lingușește.\n\n**2. Separarea conștientă.** Marele exercițiu astral al acestui pas este ceea ce Bardon numește extaz: separarea conștientă a corpului astral de cel fizic. * Cunoști deja rătăcirea mentală — acum sufletul urmează spiritul. Practica este treptată: la început repeți doar prima mișcare a separării, apoi prelungești timpul pas cu pas — întotdeauna în calm deplin, întotdeauna cu o întoarcere ordonată.\n\n**3. Siguranța.** Reguli stricte guvernează această muncă:\n\n— Practica doar în deplină sănătate fizică și mentală, în zile echilibrate — niciodată când ești agitat, epuizat sau tulburat.\n\n— Alege un loc neîntrerupt, protejat, și nu grăbi niciodată întoarcerea: exercițiul se încheie cu o sosire completă, calmă, înapoi în trup.\n\n— Gradualitatea nu este o recomandare, ci o lege: nerăbdarea este singurul pericol real aici.\n\n**4. Tărâmurile elementelor.** În starea separată — sau, până ce aceasta se coace, în rătăcirea mentală — vizitezi pe rând tărâmurile celor patru elemente, ca să înveți de la ființele lor calitățile lor echilibrate: putere pură de la foc, ușurință de la aer, devoțiune de la apă, statornicie de la pământ. * Nu mergi ca să stăpânești, ci ca să înveți; reverența este prețul intrării.\n\n**5. Ghidul.** La acest nivel legătura ta cu ghidul spiritual devine cea mai adâncă de până acum: nu mai este o întâlnire rară, ci o prezență continuă, liniștită. * Întreabă, ascultă și acceptă că cele mai importante învățături sosesc adesea fără cuvinte.\n\nPachetul de trăsături de mai jos adună luminile și umbrele care țin de acest pas — încarcă-l, și te va însoți în munca ta la Oglindă.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -91,7 +104,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "10. lépés — jellemvonások",
-        "en": "Step 10 — character traits"
+        "en": "Step 10 — character traits",
+        "ro": "Pasul 10 — trăsături de caracter"
       },
       "aspektusPack": [
         {
@@ -100,7 +114,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Ragaszkodás",
-            "en": "Attachment"
+            "en": "Attachment",
+            "ro": "Atașament"
           }
         },
         {
@@ -109,7 +124,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Éngőg — elkülönültség",
-            "en": "Egoic separateness"
+            "en": "Egoic separateness",
+            "ro": "Separare egoică"
           }
         },
         {
@@ -118,7 +134,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Szellemi mohóság",
-            "en": "Spiritual greed"
+            "en": "Spiritual greed",
+            "ro": "Lăcomie spirituală"
           }
         },
         {
@@ -127,7 +144,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Gyökértelen kétely",
-            "en": "Rootless doubt"
+            "en": "Rootless doubt",
+            "ro": "Îndoială fără rădăcină"
           }
         },
         {
@@ -136,7 +154,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Alázat",
-            "en": "Humility"
+            "en": "Humility",
+            "ro": "Smerenie"
           }
         },
         {
@@ -145,7 +164,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Egyetemes szeretet",
-            "en": "All-embracing love"
+            "en": "All-embracing love",
+            "ro": "Iubire atotcuprinzătoare"
           }
         },
         {
@@ -154,7 +174,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Isteni jelenlét",
-            "en": "Divine presence"
+            "en": "Divine presence",
+            "ro": "Prezență divină"
           }
         },
         {
@@ -163,7 +184,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Odaadás — egyesülés",
-            "en": "Surrender — union"
+            "en": "Surrender — union",
+            "ro": "Predare — unire"
           }
         }
       ]
@@ -173,11 +195,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Fizikai képzés",
-        "en": "Physical Training"
+        "en": "Physical Training",
+        "ro": "Antrenament fizic"
       },
       "text": {
         "hu": "**1. Három világ polgára.** Ezen a lépésen a fizikai képzésnek nincs új gyakorlata — maga az életed a gyakorlat. Mindaz, amit kilenc lépésen át építettél: a tudatos légzés, az étkezés megszentelése, a test edzése és a mindennapok mágiája most egyetlen, természetes életformává áll össze. A mágus nem kivonul a világból — pontosabban lakik benne.\n\n**2. A hétköznap mint templom.** Figyeld meg, hogyan válik a legapróbb tett is gyakorlattá: ahogy dolgozol, ahogy meghallgatsz valakit, ahogy pihensz. Az egyensúly nem a meditációs párnán dől el, hanem ott, ahol senki sem lát. A napi rend, a mértékletesség és a test tisztelete életed végéig kísérő fegyelem marad.\n\n**3. Az erő mint szolgálat.** Minél többre vagy képes, annál halkabb légy. A megszerzett képességek egyetlen méltó alkalmazása a csendes szolgálat: gyógyítani, rendezni, emelni — feltűnés nélkül, hála igénye nélkül. Aki az erőt mutogatja, már el is veszítette; aki szolgálatba állítja, annál megmarad és növekszik.",
-        "en": "**1. Citizen of three worlds.** On this step the physical training has no new exercise — your life itself is the exercise. Everything you have built through nine steps: conscious breathing, the consecration of meals, the training of the body and the magic of everyday life now settles into a single, natural way of living. The magician does not withdraw from the world — he inhabits it more precisely.\n\n**2. The everyday as temple.** Notice how the smallest act becomes practice: how you work, how you listen to someone, how you rest. Balance is not decided on the meditation cushion but where no one is watching. Daily order, moderation and respect for the body remain a discipline that accompanies you to the end of your life.\n\n**3. Power as service.** The more you are capable of, the quieter you should become. The only worthy application of the faculties you have gained is quiet service: to heal, to set in order, to lift — without display, without the need for thanks. Whoever shows power off has already lost it; whoever puts it into service keeps it, and it grows."
+        "en": "**1. Citizen of three worlds.** On this step the physical training has no new exercise — your life itself is the exercise. Everything you have built through nine steps: conscious breathing, the consecration of meals, the training of the body and the magic of everyday life now settles into a single, natural way of living. The magician does not withdraw from the world — he inhabits it more precisely.\n\n**2. The everyday as temple.** Notice how the smallest act becomes practice: how you work, how you listen to someone, how you rest. Balance is not decided on the meditation cushion but where no one is watching. Daily order, moderation and respect for the body remain a discipline that accompanies you to the end of your life.\n\n**3. Power as service.** The more you are capable of, the quieter you should become. The only worthy application of the faculties you have gained is quiet service: to heal, to set in order, to lift — without display, without the need for thanks. Whoever shows power off has already lost it; whoever puts it into service keeps it, and it grows.",
+        "ro": "**1. Cetățean al celor trei lumi.** La acest pas antrenamentul fizic nu are un exercițiu nou — viața ta însăși este exercițiul. Tot ce ai zidit de-a lungul a nouă pași: respirația conștientă, sfințirea meselor, antrenarea trupului și magia vieții de zi cu zi se așază acum într-un singur fel natural de a trăi. Magicianul nu se retrage din lume — o locuiește mai precis.\n\n**2. Cotidianul ca templu.** Observă cum cel mai mic act devine practică: cum muncești, cum asculți pe cineva, cum te odihnești. Echilibrul nu se hotărăște pe perna de meditație, ci acolo unde nimeni nu te privește. Ordinea zilnică, măsura și respectul față de trup rămân o disciplină care te însoțește până la capătul vieții.\n\n**3. Puterea ca slujire.** Cu cât ești mai capabil, cu atât ar trebui să devii mai tăcut. Singura aplicare demnă a facultăților pe care le-ai dobândit este slujirea liniștită: a vindeca, a pune în ordine, a ridica — fără ostentație, fără nevoia de mulțumiri. Cine își etalează puterea a și pierdut-o; cine o pune în slujire o păstrează, și ea crește."
       }
     },
     {
@@ -185,11 +209,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Kulcspontok",
-        "en": "Key Notes"
+        "en": "Key Notes",
+        "ro": "Note-cheie"
       },
       "text": {
         "hu": "— **A mesterség itt sem kipipálható.** A tizedik lépés akkor „kész”, ha a négy isteni minőség nem meditációs élmény, hanem a jellemed. Az egyesülést kihirdetni nem lehet — csak élni.\n\n— **A napló veled marad.** Nem a képzés kelléke volt, hanem a mágus életformája: jegyezz, mérj, láss tisztán — évtizedeken át. Amit nem írsz le, azt a hiúság előbb-utóbb átírja.\n\n— **A három sík együtt érik.** Ne hajszold az extázist, míg a jellemed sántít: a kilépés pontosan annyira biztonságos, amennyire kiegyensúlyozott az, aki kilép. Szellem, lélek és test itt is egyetlen ütemben halad.\n\n— **Évekbe telik — és ez így van jól.** Az egyesülés fokozatokban mélyül, és minden fokozat ára az idő. Aki siet, élmények után fut; aki türelmes, valósággá érik.\n\n— **A legnagyobb erő a legnagyobb felelősség.** Ezen a fokon a kísértés már nem durva, hanem finom: kiválasztottság-érzés, szellemi gőg, mások fölé hajló „segítés”. Ellenszere egyetlen szó: alázat.",
-        "en": "— **Mastery cannot be ticked off here either.** The tenth step is “done” when the four Divine qualities are not a meditation experience but your character. Union cannot be announced — only lived.\n\n— **The diary stays with you.** It was never a prop of the training but the magician's way of life: record, measure, see clearly — across decades. What you do not write down, vanity will sooner or later rewrite.\n\n— **The three planes ripen together.** Do not chase ecstasy while your character limps: separation is exactly as safe as the one who separates is balanced. Spirit, soul and body advance in a single rhythm here too.\n\n— **It takes years — and that is as it should be.** Union deepens by degrees, and every degree is paid for in time. Whoever hurries chases experiences; whoever is patient ripens into reality.\n\n— **The greatest power is the greatest responsibility.** At this level temptation is no longer crude but subtle: a sense of being chosen, spiritual pride, “help” that leans down on others. Its antidote is a single word: humility."
+        "en": "— **Mastery cannot be ticked off here either.** The tenth step is “done” when the four Divine qualities are not a meditation experience but your character. Union cannot be announced — only lived.\n\n— **The diary stays with you.** It was never a prop of the training but the magician's way of life: record, measure, see clearly — across decades. What you do not write down, vanity will sooner or later rewrite.\n\n— **The three planes ripen together.** Do not chase ecstasy while your character limps: separation is exactly as safe as the one who separates is balanced. Spirit, soul and body advance in a single rhythm here too.\n\n— **It takes years — and that is as it should be.** Union deepens by degrees, and every degree is paid for in time. Whoever hurries chases experiences; whoever is patient ripens into reality.\n\n— **The greatest power is the greatest responsibility.** At this level temptation is no longer crude but subtle: a sense of being chosen, spiritual pride, “help” that leans down on others. Its antidote is a single word: humility.",
+        "ro": "— **Măiestria nu se bifează nici aici.** Al zecelea pas este „îndeplinit” când cele patru calități Divine nu sunt o experiență de meditație, ci caracterul tău. Unirea nu se anunță — se trăiește.\n\n— **Jurnalul rămâne cu tine.** Nu a fost niciodată un accesoriu al antrenamentului, ci felul de a trăi al magicianului: notează, măsoară, vezi limpede — de-a lungul deceniilor. Ce nu scrii, vanitatea va rescrie mai devreme sau mai târziu.\n\n— **Cele trei planuri se coc împreună.** Nu alerga după extaz cât timp caracterul tău șchiopătează: separarea este exact atât de sigură pe cât de echilibrat este cel care se separă. Spiritul, sufletul și trupul înaintează într-un singur ritm și aici.\n\n— **Durează ani — și așa trebuie.** Unirea se adâncește pe trepte, și fiecare treaptă se plătește cu timp. Cine se grăbește aleargă după experiențe; cine e răbdător se coace în realitate.\n\n— **Cea mai mare putere este cea mai mare responsabilitate.** La acest nivel tentația nu mai este grosolană, ci subtilă: sentimentul de a fi ales, mândria spirituală, „ajutorul” care se apleacă de sus asupra altora. Antidotul ei este un singur cuvânt: smerenie."
       }
     },
     {
@@ -197,7 +223,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Naplósablon",
-        "en": "Journal Template"
+        "en": "Journal Template",
+        "ro": "Șablon de jurnal"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -205,7 +232,8 @@
         ],
         "prompts": {
           "hu": "SZELLEM — Meditáció a(z) ___ isteni minőségen: ___ perc. Az összeolvadás / egyesülés mélysége (1–10): ___.\n\nLÉLEK — Ma ezt gyakoroltam (aura / kilépés / elemi birodalom / vezető): ___. Tapasztalat: ___.\n\nTEST — Így éltem ma a három világ polgáraként: ___. Ahol kibillentem: ___.\n\nFELISMERÉS — A nap legcsendesebb igazsága: ___.",
-          "en": "SPIRIT — Meditation on the Divine quality of ___: ___ min. Depth of merging / union (1–10): ___.\n\nSOUL — Today I practised (aura / separation / elemental realm / guide): ___. Experience: ___.\n\nBODY — How I lived today as a citizen of the three worlds: ___. Where I lost balance: ___.\n\nINSIGHT — The quietest truth of the day: ___."
+          "en": "SPIRIT — Meditation on the Divine quality of ___: ___ min. Depth of merging / union (1–10): ___.\n\nSOUL — Today I practised (aura / separation / elemental realm / guide): ___. Experience: ___.\n\nBODY — How I lived today as a citizen of the three worlds: ___. Where I lost balance: ___.\n\nINSIGHT — The quietest truth of the day: ___.",
+          "ro": "SPIRIT — Meditație asupra calității Divine ___: ___ min. Adâncimea contopirii / unirii (1–10): ___.\n\nSUFLET — Astăzi am practicat (aura / separare / tărâm elemental / ghid): ___. Experiența: ___.\n\nTRUP — Cum am trăit astăzi ca cetățean al celor trei lumi: ___. Unde am pierdut echilibrul: ___.\n\nÎNȚELEGERE — Cel mai liniștit adevăr al zilei: ___."
         }
       }
     },
@@ -214,7 +242,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "Elsajátítási lista",
-        "en": "Mastery Checklist"
+        "en": "Mastery Checklist",
+        "ro": "Lista de măiestrie"
       },
       "checklist": {
         "items": [
@@ -222,56 +251,64 @@
             "key": "c1",
             "nevek": {
               "hu": "Mind a négy isteni minőségen tudok mélyen, a helyes elem-megfeleltetéssel meditálni (tűz — mindenhatóság, levegő — bölcsesség, víz — szeretet, föld/Akása — halhatatlan tudat).",
-              "en": "I can meditate deeply on each of the four Divine qualities with the correct element correspondence (fire — omnipotence, air — wisdom, water — love, earth/Akasha — immortal consciousness)."
+              "en": "I can meditate deeply on each of the four Divine qualities with the correct element correspondence (fire — omnipotence, air — wisdom, water — love, earth/Akasha — immortal consciousness).",
+              "ro": "Pot medita adânc asupra fiecăreia dintre cele patru calități Divine cu corespondența corectă a elementului (foc — omnipotență, aer — înțelepciune, apă — iubire, pământ/Akasha — conștiință nemuritoare)."
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "A négy minőség egyetlen meditációban osztatlan isteni jelenlétté olvad bennem.",
-              "en": "In a single meditation the four qualities melt into one undivided Divine presence within me."
+              "en": "In a single meditation the four qualities melt into one undivided Divine presence within me.",
+              "ro": "Într-o singură meditație cele patru calități se topesc într-o prezență Divină nedespărțită în mine."
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Ismételten és stabilan megéltem az egyesülést az egyetemes szellemmel úgy, hogy közben tudatos egyén maradtam.",
-              "en": "I have repeatedly and stably experienced union with the universal spirit while remaining a conscious individual."
+              "en": "I have repeatedly and stably experienced union with the universal spirit while remaining a conscious individual.",
+              "ro": "Am experimentat în mod repetat și stabil unirea cu spiritul universal, rămânând totodată un individ conștient."
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "A gondolatolvasást érett, etikus képességként kezelem: csak jogos okból, mások javára, teljes diszkrécióval.",
-              "en": "I treat thought reading as a mature, ethical faculty: only with just cause, for the good of others, with complete discretion."
+              "en": "I treat thought reading as a mature, ethical faculty: only with just cause, for the good of others, with complete discretion.",
+              "ro": "Tratez citirea gândurilor ca pe o facultate matură, etică: numai cu temei just, spre binele altora, cu discreție deplină."
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Látom és jellem szerint olvasom a saját aurám színeit, és az eredményt összevetem a tükör-munkámmal.",
-              "en": "I can see and read the colours of my own aura as character, and I compare the result with my mirror work."
+              "en": "I can see and read the colours of my own aura as character, and I compare the result with my mirror work.",
+              "ro": "Pot vedea și citi culorile propriei aure ca pe caracter, și compar rezultatul cu munca mea la oglindă."
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Az asztráltest tudatos kilépését nyugodtan, biztonságosan, rendezett visszatéréssel végzem — kizárólag kiegyensúlyozott állapotban.",
-              "en": "I perform the conscious separation of the astral body calmly and safely, with an orderly return — only in a balanced state."
+              "en": "I perform the conscious separation of the astral body calmly and safely, with an orderly return — only in a balanced state.",
+              "ro": "Săvârșesc separarea conștientă a corpului astral calm și în siguranță, cu o întoarcere ordonată — numai într-o stare echilibrată."
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "Bejártam a négy elem birodalmát, tanultam lényeik kiegyensúlyozott minőségeiből, és a vezetőmmel élő, mély a kapcsolatom.",
-              "en": "I have visited the realms of the four elements, learned from the balanced qualities of their beings, and my connection with my guide is alive and deep."
+              "en": "I have visited the realms of the four elements, learned from the balanced qualities of their beings, and my connection with my guide is alive and deep.",
+              "ro": "Am vizitat tărâmurile celor patru elemente, am învățat din calitățile echilibrate ale ființelor lor, iar legătura mea cu ghidul este vie și adâncă."
             }
           },
           {
             "key": "c8",
             "nevek": {
               "hu": "A hétköznapjaim mindhárom világban kiegyensúlyozottak, a naplóm folyamatos, és a képességeim csendes szolgálatban állnak.",
-              "en": "My daily life is balanced in all three worlds, my diary is continuous, and my faculties stand in quiet service."
+              "en": "My daily life is balanced in all three worlds, my diary is continuous, and my faculties stand in quiet service.",
+              "ro": "Viața mea de zi cu zi este echilibrată în toate cele trei lumi, jurnalul meu este continuu, iar facultățile mele stau în slujire liniștită."
             }
           }
         ]
@@ -282,7 +319,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Ellenőrző kérdések",
-        "en": "Review Quiz"
+        "en": "Review Quiz",
+        "ro": "Chestionar de recapitulare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -291,7 +329,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Melyik elemnek felel meg a mindent átölelő szeretet a négy isteni minőség közül?",
-              "en": "To which element does all-embracing love correspond among the four Divine qualities?"
+              "en": "To which element does all-embracing love correspond among the four Divine qualities?",
+              "ro": "Cărui element îi corespunde iubirea atotcuprinzătoare dintre cele patru calități Divine?"
             },
             "options": {
               "hu": [
@@ -305,6 +344,12 @@
                 "Air",
                 "Water",
                 "Earth"
+              ],
+              "ro": [
+                "Foc",
+                "Aer",
+                "Apă",
+                "Pământ"
               ]
             },
             "correctIndex": 2
@@ -313,7 +358,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Mi a tizedik lépés egyesülés-munkájának lényege?",
-              "en": "What is the essence of the union work of the tenth step?"
+              "en": "What is the essence of the union work of the tenth step?",
+              "ro": "Care este esența lucrării de unire a celui de-al zecelea pas?"
             },
             "options": {
               "hu": [
@@ -327,6 +373,12 @@
                 "The union of the personal spirit with the universal while you remain a conscious individual",
                 "The acquisition of powers in order to influence others",
                 "Leaving the physical body for good"
+              ],
+              "ro": [
+                "Dizolvarea finală a personalității, în care individul încetează să existe",
+                "Unirea spiritului personal cu cel universal, în timp ce rămâi un individ conștient",
+                "Dobândirea de puteri pentru a-i influența pe alții",
+                "Părăsirea definitivă a corpului fizic"
               ]
             },
             "correctIndex": 1
@@ -335,7 +387,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Melyik szabály vonatkozik az asztráltest tudatos kilépésére (extázisra)?",
-              "en": "Which rule applies to the conscious separation of the astral body (ecstasy)?"
+              "en": "Which rule applies to the conscious separation of the astral body (ecstasy)?",
+              "ro": "Care regulă se aplică la separarea conștientă a corpului astral (extaz)?"
             },
             "options": {
               "hu": [
@@ -349,6 +402,12 @@
                 "It is easier when you are agitated, so that is the best time to try",
                 "You need not attend to the return; the body settles by itself",
                 "Force it as often as possible — the more often, the faster the progress"
+              ],
+              "ro": [
+                "Practic-o doar într-o stare calmă, sănătoasă, echilibrată, treptat, cu o întoarcere fără grabă",
+                "Este mai ușor când ești agitat, deci acesta este cel mai bun moment să încerci",
+                "Nu trebuie să te ocupi de întoarcere; corpul se așază de la sine",
+                "Forțeaz-o cât mai des posibil — cu cât mai des, cu atât mai rapid progresul"
               ]
             },
             "correctIndex": 0
@@ -361,11 +420,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă și declinare de răspundere"
       },
       "text": {
         "hu": "*Tanulási segédlet Franz Bardon „Beavatás a hermetikába” (Initiation Into Hermetics) című műve 10. lépése nyomán. A szöveg eredeti összefoglaló, nem szó szerinti idézet — a teljes utasításokért mindig az eredeti könyvet olvasd.*\n\n*Ez nem orvosi és nem pszichológiai tanács. Ha lelki nehézséget tapasztalsz, fordulj szakemberhez. A gyakorlatokat etikusan és türelmesen végezd; a mesterség a cél, nem a sebesség.*",
-        "en": "*A study aid based on Step 10 of Franz Bardon's “Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience psychological difficulties, consult a professional. Practise ethically and patiently; mastery is the goal, not speed.*"
+        "en": "*A study aid based on Step 10 of Franz Bardon's “Initiation Into Hermetics”. The text is an original summary, not a verbatim quotation — for the complete instructions, always read the original book.*\n\n*This is not medical or psychological advice. If you experience psychological difficulties, consult a professional. Practise ethically and patiently; mastery is the goal, not speed.*",
+        "ro": "*Un material de studiu bazat pe Pasul 10 din „Inițiere în hermetism” de Franz Bardon. Textul este un rezumat original, nu un citat textual — pentru instrucțiunile complete, citește întotdeauna cartea originală.*\n\n*Acesta nu este sfat medical sau psihologic. Dacă întâmpini dificultăți psihologice, consultă un specialist. Practică etic și cu răbdare; măiestria este țelul, nu viteza.*"
       }
     }
   ]

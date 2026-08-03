@@ -3,7 +3,8 @@
   "id": "practice-pack-dispenza-supernatural",
   "nevek": {
     "hu": "Dispenza: Válj természetfelettivé — gyakorlatok",
-    "en": "Dispenza: Becoming Supernatural — practices"
+    "en": "Dispenza: Becoming Supernatural — practices",
+    "ro": "Dispenza: Becoming Supernatural — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "A lágy gerinc menti légzés",
-        "en": "The Gentle Breath up the Spine"
+        "en": "The Gentle Breath up the Spine",
+        "ro": "Respirația blândă pe șira spinării"
       },
       "cel": {
         "hu": "A testben megrekedt régi érzelmi energiát — a hagyomány képével — felszabadítani, és hagyni, hogy a gerinc mentén lassan, magától felfelé áramoljon, ahogy a meleg emelkedik a hűvösben. Az erő a figyelem irányában van, nem az izommunkában.",
-        "en": "To free — in the tradition's image — old emotional energy stored in the body and let it rise slowly along the spine of its own accord, the way warmth rises through cool air. The power lies in the direction of attention, not in muscular effort."
+        "en": "To free — in the tradition's image — old emotional energy stored in the body and let it rise slowly along the spine of its own accord, the way warmth rises through cool air. The power lies in the direction of attention, not in muscular effort.",
+        "ro": "Să eliberezi — în imaginea tradiției — vechea energie emoțională depozitată în corp și să o lași să urce încet de-a lungul coloanei de la sine, așa cum căldura urcă prin aerul rece. Puterea stă în direcția atenției, nu în efortul muscular."
       },
       "modszer": [
         {
           "hu": "Ülj egyenes, de nem merev gerinccel, és néhány percig csak kísérd a természetes légzést.",
-          "en": "Sit with a straight but not rigid spine, and for a few minutes simply follow the natural breath."
+          "en": "Sit with a straight but not rigid spine, and for a few minutes simply follow the natural breath.",
+          "ro": "Stai cu coloana dreaptă, dar nu rigidă, și timp de câteva minute urmează pur și simplu respirația naturală."
         },
         {
           "hu": "Lassú orrbelégzés közben engedd a figyelmed lágyan felfelé siklani a gerinc mentén — keresztcsont, derék, hát, nyak, fejtető —, miközben egészen enyhén, mintha csak jeleznéd, megemeled a gátizmot és az alhasat.",
-          "en": "On a slow nasal inhale let attention glide gently upward along the spine — sacrum, lower back, mid back, neck, crown — while very lightly, as if merely signalling, lifting the pelvic floor and lower belly."
+          "en": "On a slow nasal inhale let attention glide gently upward along the spine — sacrum, lower back, mid back, neck, crown — while very lightly, as if merely signalling, lifting the pelvic floor and lower belly.",
+          "ro": "Pe o inspirație nazală lentă, lasă atenția să alunece blând în sus pe coloană — sacrum, zona lombară, mijlocul spatelui, gât, creștet — în timp ce, foarte ușor, ca și cum doar ai semnala, ridici planșeul pelvian și abdomenul inferior."
         },
         {
           "hu": "A fejtetőnél pihenjen meg a figyelem; ha kényelmes, a lélegzet is megállhat egy rövid, feszültségmentes pillanatra.",
-          "en": "Let attention rest at the crown; if comfortable, the breath may also pause for a short, tension-free moment."
+          "en": "Let attention rest at the crown; if comfortable, the breath may also pause for a short, tension-free moment.",
+          "ro": "Lasă atenția să se odihnească la creștet; dacă e confortabil, respirația poate și ea să se oprească o clipă scurtă, fără tensiune."
         },
         {
           "hu": "Engedj el mindent, és lassan, hosszan lélegezz ki — ez egy kör. Körönként haladj, sietség nélkül.",
-          "en": "Release everything and exhale slowly and long — that is one round. Move round by round, without hurry."
+          "en": "Release everything and exhale slowly and long — that is one round. Move round by round, without hurry.",
+          "ro": "Eliberează totul și expiră lent și lung — asta e o rundă. Mergi rundă cu rundă, fără grabă."
         },
         {
           "hu": "Néhány kör után térj vissza a természetes légzéshez, és csendes figyelemmel csak nézd, mi változott.",
-          "en": "After a few rounds return to natural breathing and, in quiet awareness, simply notice what has changed."
+          "en": "After a few rounds return to natural breathing and, in quiet awareness, simply notice what has changed.",
+          "ro": "După câteva runde, revino la respirația naturală și, în conștiență liniștită, observă pur și simplu ce s-a schimbat."
         }
       ],
       "keret": {
         "hu": "Dispenza saját modellje szerint a légzés a megrekedt energiát emeli az alsó központokból az agy felé; ezt munkamodellként kezeljük, nem tényállításként. Az eredeti technika erősebb izommunkával és hosszabb visszatartással dolgozik — ez a szelíd változat, amelyet kísérő nélküli gyakorláshoz felelősnek tartunk. A mérce a belső gyümölcs: nyugalom, energia, jelenlét.",
-        "en": "In Dispenza's own model the breath lifts stuck energy from the lower centers toward the brain; we treat this as a working model, not a statement of fact. His original technique uses stronger muscular effort and longer holds — this is the gentle variant we consider responsible for unguided practice. The measure is the inner fruit: calm, energy, presence."
+        "en": "In Dispenza's own model the breath lifts stuck energy from the lower centers toward the brain; we treat this as a working model, not a statement of fact. His original technique uses stronger muscular effort and longer holds — this is the gentle variant we consider responsible for unguided practice. The measure is the inner fruit: calm, energy, presence.",
+        "ro": "În modelul propriu al lui Dispenza, respirația ridică energia blocată din centrele inferioare către creier; noi tratăm asta ca pe un model de lucru, nu ca pe o afirmație de fapt. Tehnica lui originală folosește efort muscular mai puternic și rețineri mai lungi — aceasta este varianta blândă pe care o considerăm responsabilă pentru practica fără ghidaj. Măsura este rodul lăuntric: calm, energie, prezență."
       },
       "etika": {
         "hu": "Mindig lágyan, sosem erőltetve — olyan ez, mint a tekintet felemelése, nem mint a súlyemelés. Ha szédülsz, rosszul érzed magad, vagy bármilyen kellemetlen érzés támad, azonnal hagyd abba, és lélegezz normálisan. Várandósság, szív- vagy keringési betegség, magas vérnyomás vagy epilepszia esetén ezt a gyakorlatot — különösen a légzetvisszatartást — csak kezelőorvosod jóváhagyásával végezd. Ez nem orvosi kezelés, és nem helyettesít semmilyen kezelést.",
-        "en": "Always gently, never forced — it is like lifting the gaze, not like lifting weights. If you feel dizzy, unwell, or notice any unpleasant sensation, stop at once and breathe normally. If you are pregnant, or live with a heart or circulatory condition, high blood pressure or epilepsy, do this practice — especially any breath-holding — only with your doctor's approval. This is not medical treatment and replaces no treatment."
+        "en": "Always gently, never forced — it is like lifting the gaze, not like lifting weights. If you feel dizzy, unwell, or notice any unpleasant sensation, stop at once and breathe normally. If you are pregnant, or live with a heart or circulatory condition, high blood pressure or epilepsy, do this practice — especially any breath-holding — only with your doctor's approval. This is not medical treatment and replaces no treatment.",
+        "ro": "Întotdeauna blând, niciodată forțat — e ca și cum ai ridica privirea, nu ca și cum ai ridica greutăți. Dacă te simți amețit, rău, sau observi orice senzație neplăcută, oprește-te imediat și respiră normal. Dacă ești însărcinată sau trăiești cu o afecțiune cardiacă sau circulatorie, tensiune arterială mare sau epilepsie, fă această practică — mai ales orice reținere a respirației — doar cu aprobarea medicului tău. Aceasta nu este tratament medical și nu înlocuiește niciun tratament."
       },
       "sorszam": 1
     },
@@ -61,41 +71,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "Az energiaközpontok megáldása",
-        "en": "Blessing the Energy Centers"
+        "en": "Blessing the Energy Centers",
+        "ro": "Binecuvântarea Centrelor de Energie"
       },
       "cel": {
         "hu": "Központról központra haladva jóindulatú, emelkedett érzést — hálát, gyengédséget, áldást — vinni a test nyolc központjába, és rendet ültetni oda, ahol a mindennapi gondolat-érzés körforgás megrekedt.",
-        "en": "Moving center by center, to bring a kind, elevated feeling — gratitude, tenderness, blessing — to the body's eight centers, planting order where the daily thought-feeling loop has grown stuck."
+        "en": "Moving center by center, to bring a kind, elevated feeling — gratitude, tenderness, blessing — to the body's eight centers, planting order where the daily thought-feeling loop has grown stuck.",
+        "ro": "Mergând centru cu centru, să aduci un sentiment blând, elevat — recunoștință, tandrețe, binecuvântare — celor opt centre ale corpului, plantând ordine acolo unde bucla zilnică gând-sentiment s-a blocat."
       },
       "modszer": [
         {
           "hu": "Ülj vagy feküdj kényelmesen, csukott szemmel; először csendesedj el, és lassítsd a légzést.",
-          "en": "Sit or lie comfortably, eyes closed; first grow quiet and slow the breath."
+          "en": "Sit or lie comfortably, eyes closed; first grow quiet and slow the breath.",
+          "ro": "Stai sau întinde-te confortabil, cu ochii închiși; mai întâi liniștește-te și încetinește respirația."
         },
         {
           "hu": "Haladj sorban a nyolc központon: a gát tájéka, a köldök mögötti tér, a gyomorszáj, a szív, a torok, a fej belseje, a fejtető, végül a tér a fejed fölött.",
-          "en": "Move in order through the eight centers: the perineal area, the space behind the navel, the solar plexus, the heart, the throat, within the head, the crown, and finally the space above your head."
+          "en": "Move in order through the eight centers: the perineal area, the space behind the navel, the solar plexus, the heart, the throat, within the head, the crown, and finally the space above your head.",
+          "ro": "Treci pe rând prin cele opt centre: zona perineală, spațiul din spatele buricului, plexul solar, inima, gâtul, în interiorul capului, creștetul și, în cele din urmă, spațiul de deasupra capului."
         },
         {
           "hu": "Minden központnál pihentesd a figyelmed előbb magában a központban, aztán a körülötte lévő térben, és vigyél oda egy őszinte, emelkedett érzést.",
-          "en": "At each center rest your attention first in the center itself, then in the space around it, and bring a sincere, elevated feeling there."
+          "en": "At each center rest your attention first in the center itself, then in the space around it, and bring a sincere, elevated feeling there.",
+          "ro": "La fiecare centru, odihnește-ți mai întâi atenția în centrul însuși, apoi în spațiul din jurul lui, și adu acolo un sentiment sincer, elevat."
         },
         {
           "hu": "Ültesd el a szándékot, majd engedd el — ne elemezz, ne vizualizálj görcsösen; ha elkalandozol, kedvesen térj vissza.",
-          "en": "Plant the intention, then let it go — no analysing, no strained visualising; when you wander, return kindly."
+          "en": "Plant the intention, then let it go — no analysing, no strained visualising; when you wander, return kindly.",
+          "ro": "Plantează intenția, apoi las-o să plece — fără analiză, fără vizualizare forțată; când rătăcești, revino cu blândețe."
         },
         {
           "hu": "A végén pihenj meg az egész test és a körülötte lévő tér tudatában.",
-          "en": "At the end, rest in awareness of the whole body and the space around it."
+          "en": "At the end, rest in awareness of the whole body and the space around it.",
+          "ro": "La final, odihnește-te în conștiența întregului corp și a spațiului din jurul lui."
         }
       ],
       "keret": {
         "hu": "A nyolc központ a figyelem térképe, nem anatómiai tankönyv — Dispenza a jógahagyományokkal összhangban rajzolja meg, mirigyekkel, idegfonatokkal és saját kis elmékkel. Hogy a mező hangolódik-e át vagy az idegrendszer, döntse el a tapasztalat: a naplóban a gyümölcsöket mérjük.",
-        "en": "The eight centers are a map of attention, not an anatomy textbook — Dispenza draws it in line with the yogic traditions, with glands, plexuses and little mini-minds. Whether it is a field or the nervous system that retunes, let experience decide: in the diary we measure the fruits."
+        "en": "The eight centers are a map of attention, not an anatomy textbook — Dispenza draws it in line with the yogic traditions, with glands, plexuses and little mini-minds. Whether it is a field or the nervous system that retunes, let experience decide: in the diary we measure the fruits.",
+        "ro": "Cele opt centre sunt o hartă a atenției, nu un manual de anatomie — Dispenza o trasează în linie cu tradițiile yoghine, cu glande, plexuri și mici mini-minți. Fie că e un câmp sau sistemul nervos care se retunează, lasă experiența să decidă: în jurnal măsurăm roadele."
       },
       "etika": {
         "hu": "Áldást viszel, nem követelést: semmilyen testi vagy lelki eredményt nem rendelsz meg, és semmilyen betegség kezelését nem várod tőle. Bízol benne, hogy ami benned rendez, az tudja a dolgát. Ez nem orvosi tanács, és nem helyettesít kezelést.",
-        "en": "You bring blessing, not demand: you order no bodily or emotional outcome, and you expect it to treat no illness. You trust that whatever orders things within you knows its work. This is not medical advice and replaces no treatment."
+        "en": "You bring blessing, not demand: you order no bodily or emotional outcome, and you expect it to treat no illness. You trust that whatever orders things within you knows its work. This is not medical advice and replaces no treatment.",
+        "ro": "Aduci binecuvântare, nu cerere: nu poruncești niciun rezultat corporal sau emoțional și nu te aștepți să trateze nicio boală. Ai încredere că ceea ce pune ordine în tine își știe treaba. Acesta nu este sfat medical și nu înlocuiește niciun tratament."
       },
       "sorszam": 2
     },
@@ -107,37 +126,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Szívkoherencia emelkedett érzéssel",
-        "en": "Heart Coherence with Elevated Emotion"
+        "en": "Heart Coherence with Elevated Emotion",
+        "ro": "Coerența Inimii cu Emoție Elevată"
       },
       "cel": {
         "hu": "A lassú, ritmikus szívlégzést és az őszinte, emelkedett érzelmet — hálát, törődést, csendes örömöt — összekapcsolni, hogy a test kilépjen a stressz kémiájából, és a szív váljon a gyakorlás középpontjává.",
-        "en": "To join slow, rhythmic heart-breathing with a sincere, elevated emotion — gratitude, care, quiet joy — so the body steps out of the chemistry of stress and the heart becomes the center of practice."
+        "en": "To join slow, rhythmic heart-breathing with a sincere, elevated emotion — gratitude, care, quiet joy — so the body steps out of the chemistry of stress and the heart becomes the center of practice.",
+        "ro": "Să unești respirația lentă, ritmică a inimii cu o emoție sinceră, elevată — recunoștință, grijă, bucurie liniștită — astfel încât corpul să iasă din chimia stresului și inima să devină centrul practicii."
       },
       "modszer": [
         {
           "hu": "Ülj kényelmesen, és helyezd a figyelmed a mellkasod közepére.",
-          "en": "Sit comfortably and place your attention in the middle of the chest."
+          "en": "Sit comfortably and place your attention in the middle of the chest.",
+          "ro": "Stai confortabil și așază-ți atenția în mijlocul pieptului."
         },
         {
           "hu": "Lélegezz lassan és egyenletesen — nagyjából öt másodperc be, öt ki —, mintha a levegő magán a szívtájékon áramolna át.",
-          "en": "Breathe slowly and evenly — roughly five seconds in, five out — as if the air were flowing through the heart area itself."
+          "en": "Breathe slowly and evenly — roughly five seconds in, five out — as if the air were flowing through the heart area itself.",
+          "ro": "Respiră lent și uniform — aproximativ cinci secunde pe inspir, cinci pe expir — ca și cum aerul ar curge prin zona inimii însăși."
         },
         {
           "hu": "Amikor a ritmus megnyugodott, hívj elő egy őszinte emelkedett érzést: hálát valamiért, ami már a tiéd; törődést valakiért, akit szeretsz.",
-          "en": "Once the rhythm has settled, call up a sincere elevated feeling: gratitude for something already yours; care for someone you love."
+          "en": "Once the rhythm has settled, call up a sincere elevated feeling: gratitude for something already yours; care for someone you love.",
+          "ro": "Odată ce ritmul s-a așezat, cheamă un sentiment elevat sincer: recunoștință pentru ceva ce este deja al tău; grijă pentru cineva pe care îl iubești."
         },
         {
           "hu": "Időzz az érzésben; ha a figyelem elkalandozik, kedvesen tereld vissza a mellkashoz és a lélegzet ritmusához.",
-          "en": "Dwell in the feeling; when attention wanders, guide it back kindly to the chest and the rhythm of the breath."
+          "en": "Dwell in the feeling; when attention wanders, guide it back kindly to the chest and the rhythm of the breath.",
+          "ro": "Zăbovește în sentiment; când atenția rătăcește, ghideaz-o cu blândețe înapoi la piept și la ritmul respirației."
         }
       ],
       "keret": {
         "hu": "Dispenza modelljében a koherens szív rendezett jelet küld az agynak és a mezőnek; mi ennyit mondunk biztosan: itt pihen meg mélyen az idegrendszer. Az érzés nem megjátszás — a hála a legkönnyebb kapu, mert a hála teste már megkapta, amiért hálás. A mérce a belső gyümölcs.",
-        "en": "In Dispenza's model the coherent heart sends an ordered signal to the brain and the field; what we say with certainty is only this: here the nervous system rests deeply. The feeling is not a performance — gratitude is the easiest gateway, because the body of gratitude has already received what it gives thanks for. The measure is the inner fruit."
+        "en": "In Dispenza's model the coherent heart sends an ordered signal to the brain and the field; what we say with certainty is only this: here the nervous system rests deeply. The feeling is not a performance — gratitude is the easiest gateway, because the body of gratitude has already received what it gives thanks for. The measure is the inner fruit.",
+        "ro": "În modelul lui Dispenza, inima coerentă trimite un semnal ordonat către creier și câmp; ceea ce spunem cu certitudine este doar atât: aici sistemul nervos se odihnește profund. Sentimentul nu e o performanță — recunoștința e poarta cea mai ușoară, pentru că trupul recunoștinței a primit deja ceea pentru care mulțumește. Măsura este rodul lăuntric."
       },
       "etika": {
         "hu": "A légzés végig könnyű és kényelmes marad — lágyan, sosem erőltetve, semmi visszatartás. Ha szédülsz vagy rosszul érzed magad, azonnal hagyd abba, és lélegezz normálisan. Várandósság, szív- vagy keringési betegség, magas vérnyomás vagy epilepszia esetén légzőgyakorlatot csak kezelőorvosod jóváhagyásával végezz. Ez nem orvosi kezelés, és nem helyettesít semmilyen kezelést.",
-        "en": "The breath stays light and comfortable throughout — gently, never forced, no holding. If you feel dizzy or unwell, stop at once and breathe normally. If you are pregnant, or live with a heart or circulatory condition, high blood pressure or epilepsy, do breathing practices only with your doctor's approval. This is not medical treatment and replaces no treatment."
+        "en": "The breath stays light and comfortable throughout — gently, never forced, no holding. If you feel dizzy or unwell, stop at once and breathe normally. If you are pregnant, or live with a heart or circulatory condition, high blood pressure or epilepsy, do breathing practices only with your doctor's approval. This is not medical treatment and replaces no treatment.",
+        "ro": "Respirația rămâne ușoară și confortabilă pe tot parcursul — blând, niciodată forțat, fără reținere. Dacă te simți amețit sau rău, oprește-te imediat și respiră normal. Dacă ești însărcinată sau trăiești cu o afecțiune cardiacă sau circulatorie, tensiune arterială mare sau epilepsie, fă practicile de respirație doar cu aprobarea medicului tău. Aceasta nu este tratament medical și nu înlocuiește niciun tratament."
       },
       "sorszam": 3
     },
@@ -149,37 +176,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "A bőkezű jelen pillanat",
-        "en": "The Generous Present Moment"
+        "en": "The Generous Present Moment",
+        "ro": "Generosul Moment Prezent"
       },
       "cel": {
         "hu": "Megtanulni senkiként, semmit sem akarva időzni a nyitott mostban — se múlt, se terv, se cél —, mert Dispenza szerint minden újnak ez a szülőszobája, és itt pihen meg legmélyebben az idegrendszer.",
-        "en": "To learn to dwell in the open now as no one, wanting nothing — no past, no plan, no goal — because for Dispenza this is the birthplace of everything new, and it is where the nervous system rests most deeply."
+        "en": "To learn to dwell in the open now as no one, wanting nothing — no past, no plan, no goal — because for Dispenza this is the birthplace of everything new, and it is where the nervous system rests most deeply.",
+        "ro": "Să înveți să locuiești în acum-ul deschis ca nimeni, fără a vrea nimic — fără trecut, fără plan, fără țel — pentru că pentru Dispenza acesta este locul de naștere al tot ce e nou, și aici sistemul nervos se odihnește cel mai profund."
       },
       "modszer": [
         {
           "hu": "Ülj le, csendesedj el, és néhány perc lassú légzéssel engedd megérkezni a testet.",
-          "en": "Sit down, grow quiet, and let the body arrive with a few minutes of slow breathing."
+          "en": "Sit down, grow quiet, and let the body arrive with a few minutes of slow breathing.",
+          "ro": "Așază-te, liniștește-te și lasă corpul să sosească cu câteva minute de respirație lentă."
         },
         {
           "hu": "Engedd el sorban a helyet, az időt és a nevedet: most nem valahol vagy, nem valamikor, és nem valaki — csak tudatosság vagy a tágas térben.",
-          "en": "Release in turn place, time and name: for now you are not somewhere, not somewhen, not someone — only awareness in open space."
+          "en": "Release in turn place, time and name: for now you are not somewhere, not somewhen, not someone — only awareness in open space.",
+          "ro": "Eliberează pe rând locul, timpul și numele: pentru acum nu ești undeva, nu ești cândva, nu ești cineva — doar conștiință în spațiu deschis."
         },
         {
           "hu": "Amikor a figyelem tervezni, emlékezni vagy akarni kezd, vedd észre szelíden, és térj vissza a nyitott mostba.",
-          "en": "When attention starts to plan, remember or want, notice it softly and return to the open now."
+          "en": "When attention starts to plan, remember or want, notice it softly and return to the open now.",
+          "ro": "Când atenția începe să planifice, să-și amintească sau să dorească, observ-o blând și întoarce-te la acum-ul deschis."
         },
         {
           "hu": "Ne várj élményt: a semmit-sem-akarás maga a gyakorlat. Időzz így néhány percig, majd lassan térj vissza.",
-          "en": "Expect no experience: wanting nothing is itself the practice. Dwell like this for some minutes, then return slowly."
+          "en": "Expect no experience: wanting nothing is itself the practice. Dwell like this for some minutes, then return slowly.",
+          "ro": "Nu aștepta nicio experiență: a nu dori nimic este însăși practica. Rămâi așa câteva minute, apoi întoarce-te încet."
         }
       ],
       "keret": {
         "hu": "Dispenza a jelen pillanatot a kvantummező kapujának nevezi, ahol a megszokott én lenyomatai elengednek; ezt az ő munkamodelljeként tiszteljük. Amit magunk mérünk: kiszámíthatatlanul mély nyugalom, és utána frissebb, szabadabb figyelem. Semmilyen eredményt nem ígérünk előre.",
-        "en": "Dispenza calls the present moment the gateway of the quantum field, where the imprints of the habitual self let go; we honor that as his working model. What we measure ourselves: an unexpectedly deep calm, and afterwards a fresher, freer attention. No outcome is promised in advance."
+        "en": "Dispenza calls the present moment the gateway of the quantum field, where the imprints of the habitual self let go; we honor that as his working model. What we measure ourselves: an unexpectedly deep calm, and afterwards a fresher, freer attention. No outcome is promised in advance.",
+        "ro": "Dispenza numește momentul prezent poarta câmpului cuantic, unde amprentele sinelui obișnuit se eliberează; onorăm asta ca modelul său de lucru. Ce măsurăm noi: o liniște neașteptat de adâncă, și după aceea o atenție mai proaspătă, mai liberă. Niciun rezultat nu este promis dinainte."
       },
       "etika": {
         "hu": "A tágas jelen nem menekülés: ne használd arra, hogy valódi problémák — konfliktus, gyász, kötelesség — elől emelkedj el. A szemlélődés érleli a cselekvést, nem kiváltja. Ha lelki válságban vagy, a meditáció nem a válasz: fordulj szakemberhez.",
-        "en": "The generous present is not an escape: do not use it to float above real problems — conflict, grief, duty. Contemplation ripens action, it does not replace it. If you are in a mental-health crisis, meditation is not the answer: turn to a professional."
+        "en": "The generous present is not an escape: do not use it to float above real problems — conflict, grief, duty. Contemplation ripens action, it does not replace it. If you are in a mental-health crisis, meditation is not the answer: turn to a professional.",
+        "ro": "Prezentul generos nu este o evadare: nu-l folosi ca să plutești deasupra problemelor reale — conflict, doliu, datorie. Contemplarea coace acțiunea, nu o înlocuiește. Dacă ești într-o criză de sănătate mintală, meditația nu este răspunsul: apelează la un profesionist."
       },
       "sorszam": 4
     },
@@ -191,41 +226,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "A belső film — mentális próba",
-        "en": "The Inner Movie — Mental Rehearsal"
+        "en": "The Inner Movie — Mental Rehearsal",
+        "ro": "Filmul Interior — Repetiție Mentală"
       },
       "cel": {
         "hu": "Az emelkedett érzésben belül elpróbálni azt az embert, akivé válni gyakorolsz — hogyan lélegzik, hogyan válaszol, hogyan visel el egy nehéz pillanatot —, és így a világos szándékot összekapcsolni az emelkedett érzelemmel: ez Dispenza módszerének a szíve.",
-        "en": "Within the elevated feeling, to rehearse inwardly the person you are practising to become — how they breathe, how they answer, how they carry a hard moment — joining clear intention with elevated emotion: the very heart of Dispenza's method."
+        "en": "Within the elevated feeling, to rehearse inwardly the person you are practising to become — how they breathe, how they answer, how they carry a hard moment — joining clear intention with elevated emotion: the very heart of Dispenza's method.",
+        "ro": "În sentimentul elevat, a repeta interior persoana pe care te exersezi să devii — cum respiră, cum răspunde, cum poartă un moment greu — unind intenția clară cu emoția elevată: însăși inima metodei lui Dispenza."
       },
       "modszer": [
         {
           "hu": "Kezdd szívkoherenciával: lassú szívlégzés, őszinte emelkedett érzés — a belső próba csak ebből az állapotból indul.",
-          "en": "Begin with heart coherence: slow heart-breathing, a sincere elevated feeling — the rehearsal starts only from this state."
+          "en": "Begin with heart coherence: slow heart-breathing, a sincere elevated feeling — the rehearsal starts only from this state.",
+          "ro": "Începe cu coerența inimii: respirație lentă pe inimă, un sentiment elevat sincer — repetiția începe doar din această stare."
         },
         {
           "hu": "Fogalmazd meg világosan a szándékot: milyen ember az, akivé válni gyakorolsz? Válassz egy-két konkrét helyzetet a napjaidból.",
-          "en": "State the intention clearly: who is the person you are practising to become? Choose one or two concrete situations from your days."
+          "en": "State the intention clearly: who is the person you are practising to become? Choose one or two concrete situations from your days.",
+          "ro": "Enunță intenția clar: cine este persoana pe care te exersezi să devii? Alege una sau două situații concrete din zilele tale."
         },
         {
           "hu": "Játszd le belül a filmet: lásd, halld és főleg érezd, ahogyan ez az ember lélegzik, dönt és válaszol az adott helyzetben.",
-          "en": "Play the inner movie: see, hear and above all feel how this person breathes, decides and answers in that situation."
+          "en": "Play the inner movie: see, hear and above all feel how this person breathes, decides and answers in that situation.",
+          "ro": "Rulează filmul interior: vezi, auzi și mai ales simte cum această persoană respiră, decide și răspunde în acea situație."
         },
         {
           "hu": "Zárd le hálával, mintha már megtörtént volna, aztán engedd el — ne szorongasd napközben az eredményt.",
-          "en": "Close with gratitude, as if it had already happened, then let it go — do not clutch at the outcome during the day."
+          "en": "Close with gratitude, as if it had already happened, then let it go — do not clutch at the outcome during the day.",
+          "ro": "Încheie cu recunoștință, ca și cum s-ar fi întâmplat deja, apoi lasă să plece — nu te agăța de rezultat pe parcursul zilei."
         },
         {
           "hu": "Napközben figyeld, mikor kínálkozik alkalom úgy válaszolni, ahogy elpróbáltad — és este jegyezd fel a naplóba.",
-          "en": "During the day watch for the moment that invites the rehearsed answer — and note it in the diary at night."
+          "en": "During the day watch for the moment that invites the rehearsed answer — and note it in the diary at night.",
+          "ro": "În timpul zilei fii atent la momentul care invită răspunsul repetat — și notează-l în jurnal seara."
         }
       ],
       "keret": {
         "hu": "Dispenza szerint a test nem tud különbséget tenni az átélt és az érzelemmel elpróbált tapasztalat között, így a próba előre hangolja az új ént. Ezt munkamodellként kezeljük; amit mérünk, az az, hogy a nehéz helyzetben tényleg könnyebben jön-e az új válasz.",
-        "en": "According to Dispenza the body cannot tell a lived experience from one rehearsed with emotion, so rehearsal tunes the new self in advance. We treat this as a working model; what we measure is whether, in the hard moment, the new answer truly comes more easily."
+        "en": "According to Dispenza the body cannot tell a lived experience from one rehearsed with emotion, so rehearsal tunes the new self in advance. We treat this as a working model; what we measure is whether, in the hard moment, the new answer truly comes more easily.",
+        "ro": "Potrivit lui Dispenza, corpul nu poate deosebi o experiență trăită de una repetată cu emoție, așa că repetiția acordează noul sine dinainte. Tratăm asta ca pe un model de lucru; ce măsurăm este dacă, în momentul greu, noul răspuns vine cu adevărat mai ușor."
       },
       "etika": {
         "hu": "Csak olyat próbálj el, ami a saját életedre tartozik: mások viselkedését, döntéseit nem rendezzük belső filmben. Ne ígérj magadnak vagy másnak eredményt, amit a naplód még nem igazolt — a próba gyakorlás, nem jóslat.",
-        "en": "Rehearse only what belongs to your own life: other people's behavior and choices are not staged in the inner movie. Promise yourself or others no outcome your diary has not yet confirmed — rehearsal is practice, not prophecy."
+        "en": "Rehearse only what belongs to your own life: other people's behavior and choices are not staged in the inner movie. Promise yourself or others no outcome your diary has not yet confirmed — rehearsal is practice, not prophecy.",
+        "ro": "Repetă doar ce aparține propriei tale vieți: comportamentul și alegerile altora nu se pun în scenă în filmul interior. Nu-ți promite ție sau altora niciun rezultat pe care jurnalul tău nu l-a confirmat încă — repetiția este practică, nu profeție."
       },
       "sorszam": 5
     },
@@ -237,37 +281,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Sétáló jelenlét",
-        "en": "Walking Presence"
+        "en": "Walking Presence",
+        "ro": "Prezență în Mers"
       },
       "cel": {
         "hu": "Az ülő gyakorlás gyümölcseit — nyitott szívet, tágas jelenlétet — nyitott szemmel, mozgás közben is megtartani, hogy az új én ne csak a párnán éljen, hanem az utcán is.",
-        "en": "To carry the fruits of seated practice — open heart, spacious presence — with open eyes and in motion, so that the new self lives not only on the cushion but on the street."
+        "en": "To carry the fruits of seated practice — open heart, spacious presence — with open eyes and in motion, so that the new self lives not only on the cushion but on the street.",
+        "ro": "A purta roadele practicii așezate — inimă deschisă, prezență spațioasă — cu ochii deschiși și în mișcare, astfel încât noul sine să trăiască nu doar pe pernă, ci și pe stradă."
       },
       "modszer": [
         {
           "hu": "Válassz egy nyugodt útvonalat, és az első percekben csak a lépések ritmusát és a talpad érintését figyeld.",
-          "en": "Choose a calm route, and for the first minutes attend only to the rhythm of the steps and the touch of your soles."
+          "en": "Choose a calm route, and for the first minutes attend only to the rhythm of the steps and the touch of your soles.",
+          "ro": "Alege un traseu liniștit, și în primele minute fii atent doar la ritmul pașilor și la atingerea tălpilor."
         },
         {
           "hu": "Nyisd tágra a figyelmet: az éles fókusz helyett engedd, hogy a látótér széle, a hangok és a tér együtt legyenek jelen.",
-          "en": "Widen the attention: instead of sharp focus, let the edge of the visual field, the sounds and the space be present together."
+          "en": "Widen the attention: instead of sharp focus, let the edge of the visual field, the sounds and the space be present together.",
+          "ro": "Lărgește atenția: în loc de un focus ascuțit, lasă marginea câmpului vizual, sunetele și spațiul să fie prezente împreună."
         },
         {
           "hu": "Hívd elő séta közben az emelkedett érzést — hálát, csendes örömöt —, és lépj úgy, ahogyan az az ember lép, akivé válni gyakorolsz.",
-          "en": "Call up the elevated feeling as you walk — gratitude, quiet joy — and step the way that person steps whom you are practising to become."
+          "en": "Call up the elevated feeling as you walk — gratitude, quiet joy — and step the way that person steps whom you are practising to become.",
+          "ro": "Cheamă sentimentul elevat pe măsură ce mergi — recunoștință, bucurie liniștită — și pășește așa cum pășește persoana pe care te exersezi să devii."
         },
         {
           "hu": "Amikor a gondolkodás elragad, egyetlen lépésnyi figyelemmel térj vissza a talphoz és a térhez.",
-          "en": "When thinking carries you off, return with a single step's worth of attention to the soles and the space."
+          "en": "When thinking carries you off, return with a single step's worth of attention to the soles and the space.",
+          "ro": "Când gândirea te poartă departe, întoarce-te cu atenția cât un singur pas la tălpi și la spațiu."
         }
       ],
       "keret": {
         "hu": "Dispenza sétáló meditációi arra valók, hogy az emelkedett állapot beleszokjon a hétköznapi mozgásba. Mi így mondjuk: a gyakorlás ott ér célba, ahol az élet zajlik. A mérce, hogy a séta után jelenvalóbb, nyitottabb szívvel érkezel-e meg.",
-        "en": "Dispenza's walking meditations exist so the elevated state grows native to ordinary movement. We put it this way: practice arrives where life happens. The measure is whether you arrive from the walk more present, more open-hearted."
+        "en": "Dispenza's walking meditations exist so the elevated state grows native to ordinary movement. We put it this way: practice arrives where life happens. The measure is whether you arrive from the walk more present, more open-hearted.",
+        "ro": "Meditațiile în mers ale lui Dispenza există ca starea elevată să devină nativă mișcării obișnuite. Noi o formulăm astfel: practica ajunge acolo unde se întâmplă viața. Măsura este dacă te întorci din plimbare mai prezent, cu inima mai deschisă."
       },
       "etika": {
         "hu": "Nyitott szemmel, a forgalomra és a környezetre figyelve gyakorolj — a jelenlét éppen ezt jelenti. Ne merülj el annyira, hogy a valóság rovására menjen; út közben, veszélyes helyen a biztonság az első.",
-        "en": "Practise with open eyes, mindful of traffic and surroundings — that is precisely what presence means. Do not sink so deep that reality pays the price; near roads and in risky places, safety comes first."
+        "en": "Practise with open eyes, mindful of traffic and surroundings — that is precisely what presence means. Do not sink so deep that reality pays the price; near roads and in risky places, safety comes first.",
+        "ro": "Exersează cu ochii deschiși, atent la trafic și la împrejurimi — tocmai asta înseamnă prezența. Nu te scufunda atât de adânc încât realitatea să plătească prețul; lângă drumuri și în locuri riscante, siguranța vine pe primul loc."
       },
       "sorszam": 6
     },
@@ -279,37 +331,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Hála — az előre kimondott köszönet",
-        "en": "Gratitude — Thanks Spoken in Advance"
+        "en": "Gratitude — Thanks Spoken in Advance",
+        "ro": "Recunoștință — Mulțumiri Spuse dinainte"
       },
       "cel": {
         "hu": "A hálát nem következménynek, hanem kapunak használni: begyakorolni azt az állapotot, amelyben a test úgy él, mintha a jó már megérkezett volna — Dispenza szerint a hála a befogadás legmagasabb érzelme.",
-        "en": "To use gratitude not as consequence but as gateway: to practise the state in which the body lives as if the good had already arrived — for Dispenza, gratitude is the highest emotion of receiving."
+        "en": "To use gratitude not as consequence but as gateway: to practise the state in which the body lives as if the good had already arrived — for Dispenza, gratitude is the highest emotion of receiving.",
+        "ro": "A folosi recunoștința nu ca pe o consecință, ci ca pe o poartă: a exersa starea în care corpul trăiește ca și cum binele ar fi sosit deja — pentru Dispenza, recunoștința este cea mai înaltă emoție a primirii."
       },
       "modszer": [
         {
           "hu": "Ülj le, csendesedj el, és gyűjts össze három dolgot, ami már most a tiéd, és őszinte köszönetet ébreszt.",
-          "en": "Sit down, grow quiet, and gather three things already yours that wake sincere thanks."
+          "en": "Sit down, grow quiet, and gather three things already yours that wake sincere thanks.",
+          "ro": "Așază-te, liniștește-te și adună trei lucruri care sunt deja ale tale și care trezesc mulțumire sinceră."
         },
         {
           "hu": "Időzz mindegyiknél addig, amíg a hála nem gondolat, hanem testérzés lesz: melegség, ellágyulás, tágulás a mellkasban.",
-          "en": "Dwell with each until gratitude is no longer a thought but a bodily feeling: warmth, softening, widening in the chest."
+          "en": "Dwell with each until gratitude is no longer a thought but a bodily feeling: warmth, softening, widening in the chest.",
+          "ro": "Rămâi cu fiecare până când recunoștința nu mai este un gând, ci un sentiment trupesc: căldură, înmuiere, lărgire în piept."
         },
         {
           "hu": "Ebben az érzésben mondj köszönetet egyetlen olyan jóért is, amely még úton van — kimondva előre, feltételek nélkül.",
-          "en": "In this feeling give thanks also for one good still on its way — spoken in advance, without conditions."
+          "en": "In this feeling give thanks also for one good still on its way — spoken in advance, without conditions.",
+          "ro": "În acest sentiment mulțumește și pentru un bine încă pe drum — spus dinainte, fără condiții."
         },
         {
           "hu": "Engedd el a képet, és maradj még egy-két percig magában a hála állapotában.",
-          "en": "Release the image and stay another minute or two in the state of gratitude itself."
+          "en": "Release the image and stay another minute or two in the state of gratitude itself.",
+          "ro": "Eliberează imaginea și rămâi încă un minut sau două în starea de recunoștință însăși."
         }
       ],
       "keret": {
         "hu": "Dispenza modelljében a hála azt jelzi a testnek, hogy az esemény már megtörtént, így a test kémiája előre átáll. Munkamodellként kezeljük: nem mágikus rendelés, hanem érzelmi begyakorlás. Amit mérünk: lágyul-e a szorongó várakozás, nő-e a megelégedés.",
-        "en": "In Dispenza's model gratitude signals to the body that the event has already happened, so the body's chemistry shifts in advance. We treat this as a working model: not magical ordering but emotional training. What we measure: does anxious waiting soften, does contentment grow."
+        "en": "In Dispenza's model gratitude signals to the body that the event has already happened, so the body's chemistry shifts in advance. We treat this as a working model: not magical ordering but emotional training. What we measure: does anxious waiting soften, does contentment grow.",
+        "ro": "În modelul lui Dispenza, recunoștința semnalează corpului că evenimentul s-a întâmplat deja, așa că chimia corpului se schimbă dinainte. Tratăm asta ca pe un model de lucru: nu o comandă magică, ci antrenament emoțional. Ce măsurăm: se înmoaie așteptarea anxioasă, crește mulțumirea."
       },
       "etika": {
         "hu": "A hála nem alkudozás és nem eszköz mások befolyásolására. Ne köszönj meg előre olyat, ami mások szabadságát csorbítaná, és ne hidd magad hibásnak, ha valami nem érkezik meg — a gyakorlat mércéje a szíved állapota, nem a világ engedelmessége.",
-        "en": "Gratitude is not bargaining and not a tool to sway others. Do not give advance thanks for what would curtail another's freedom, and do not blame yourself when something does not arrive — the measure of the practice is the state of your heart, not the world's obedience."
+        "en": "Gratitude is not bargaining and not a tool to sway others. Do not give advance thanks for what would curtail another's freedom, and do not blame yourself when something does not arrive — the measure of the practice is the state of your heart, not the world's obedience.",
+        "ro": "Recunoștința nu este negociere și nu este o unealtă ca să influențezi pe alții. Nu mulțumi dinainte pentru ceea ce ar îngrădi libertatea altuia, și nu te învinovăți când ceva nu sosește — măsura practicii este starea inimii tale, nu ascultarea lumii."
       },
       "sorszam": 7
     },
@@ -321,37 +381,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "A test és a körülötte lévő tér",
-        "en": "The Body and the Space Around It"
+        "en": "The Body and the Space Around It",
+        "ro": "Corpul și spațiul din jurul lui"
       },
       "cel": {
         "hu": "A figyelmet az anyagról a térre tanítani: előbb a test egyes tájain, majd a testet körülvevő térben pihenni, míg a szűk, tárgyakhoz tapadó figyelem tágas, nyitott tudatossággá enged.",
-        "en": "To teach attention to move from matter to space: resting first in regions of the body, then in the space surrounding it, until narrow, object-bound attention releases into wide, open awareness."
+        "en": "To teach attention to move from matter to space: resting first in regions of the body, then in the space surrounding it, until narrow, object-bound attention releases into wide, open awareness.",
+        "ro": "Să înveți atenția să treacă de la materie la spațiu: odihnindu-te mai întâi în regiunile corpului, apoi în spațiul care îl înconjoară, până când atenția îngustă, legată de obiecte, se eliberează într-o conștiență largă, deschisă."
       },
       "modszer": [
         {
           "hu": "Csukott szemmel járd végig lassan a testet: érezd az egyes tájakat belülről, sűrűségként, melegként, bizsergésként.",
-          "en": "Eyes closed, travel the body slowly: feel each region from within, as density, warmth, tingling."
+          "en": "Eyes closed, travel the body slowly: feel each region from within, as density, warmth, tingling.",
+          "ro": "Cu ochii închiși, parcurge corpul încet: simte fiecare regiune din interior, ca densitate, căldură, furnicături."
         },
         {
           "hu": "Ezután minden tájnál kérdezd a teret: mekkora teret foglal el ez a táj? Pihenj a térzés és nem a forma tudatában.",
-          "en": "Then at each region ask about space: how much space does this region occupy? Rest in the sense of space rather than form."
+          "en": "Then at each region ask about space: how much space does this region occupy? Rest in the sense of space rather than form.",
+          "ro": "Apoi, la fiecare regiune, întreabă despre spațiu: cât spațiu ocupă această regiune? Odihnește-te în simțul spațiului mai degrabă decât al formei."
         },
         {
           "hu": "Tágítsd a figyelmet az egész testet körülvevő térre — köréd, fölé, alá —, és időzz ebben a nyitottságban.",
-          "en": "Widen attention to the space surrounding the whole body — around, above, below — and dwell in that openness."
+          "en": "Widen attention to the space surrounding the whole body — around, above, below — and dwell in that openness.",
+          "ro": "Lărgește atenția către spațiul care înconjoară întregul corp — în jur, deasupra, dedesubt — și zăbovește în acea deschidere."
         },
         {
           "hu": "Ha a figyelem visszaugrik egy gondolatra vagy testrészre, jegyezd meg szelíden: anyag — és térj vissza a térhez.",
-          "en": "If attention snaps back to a thought or body part, note softly: matter — and return to space."
+          "en": "If attention snaps back to a thought or body part, note softly: matter — and return to space.",
+          "ro": "Dacă atenția sare înapoi la un gând sau la o parte a corpului, notează blând: materie — și revino la spațiu."
         }
       ],
       "keret": {
         "hu": "Ez a térben időzés Dispenza meditációinak visszatérő mozdulata: szerinte így hangolódunk az anyagon túli mezőre. Mi ennyit állítunk: a térre nyitott figyelem oldja a szűkösséget, és mélyíti a nyugalmat — a többit döntse el a tapasztalat.",
-        "en": "This dwelling in space is a recurring gesture of Dispenza's meditations: for him it is how we tune to the field beyond matter. We claim only this: attention opened to space loosens narrowness and deepens calm — let experience decide the rest."
+        "en": "This dwelling in space is a recurring gesture of Dispenza's meditations: for him it is how we tune to the field beyond matter. We claim only this: attention opened to space loosens narrowness and deepens calm — let experience decide the rest.",
+        "ro": "Această zăbovire în spațiu este un gest recurent al meditațiilor lui Dispenza: pentru el, așa ne acordăm la câmpul de dincolo de materie. Noi afirmăm doar atât: atenția deschisă către spațiu slăbește îngustimea și adâncește calmul — lasă experiența să decidă restul."
       },
       "etika": {
         "hu": "Ha a tágulás szorongást vagy elszemélytelenedés-érzést kelt, lépj vissza a test és a talaj biztonságához — a gyakorlat sosem kényszer. Ne halmozz élményeket: a tágasság nem teljesítmény, hanem pihenőhely.",
-        "en": "If the widening stirs anxiety or a sense of unreality, step back to the safety of the body and the ground — the practice is never compulsion. Do not collect experiences: spaciousness is not an achievement but a resting place."
+        "en": "If the widening stirs anxiety or a sense of unreality, step back to the safety of the body and the ground — the practice is never compulsion. Do not collect experiences: spaciousness is not an achievement but a resting place.",
+        "ro": "Dacă lărgirea stârnește anxietate sau un sentiment de irealitate, revino la siguranța corpului și a solului — practica nu este niciodată constrângere. Nu colecționa experiențe: spațiozitatea nu este o realizare, ci un loc de odihnă."
       },
       "sorszam": 8
     },
@@ -363,37 +431,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "A belső gyümölcsök mérése",
-        "en": "Measuring the Inner Fruits"
+        "en": "Measuring the Inner Fruits",
+        "ro": "Măsurarea roadelor lăuntrice"
       },
       "cel": {
         "hu": "A gyakorlást őszinte mércéhez kötni: nem a látomások vagy a nagy élmények számítanak, hanem hogy nyugodtabb, erősebb, jelenvalóbb és nyitottabb szívű lettél-e — ezt naponta, naplóban mérjük.",
-        "en": "To bind the practice to an honest measure: what counts is not visions or grand experiences but whether you have become calmer, stronger, more present and more open-hearted — measured daily, in the diary."
+        "en": "To bind the practice to an honest measure: what counts is not visions or grand experiences but whether you have become calmer, stronger, more present and more open-hearted — measured daily, in the diary.",
+        "ro": "Să legi practica de o măsură onestă: ceea ce contează nu sunt viziunile sau experiențele grandioase, ci dacă ai devenit mai calm, mai puternic, mai prezent și cu inima mai deschisă — măsurat zilnic, în jurnal."
       },
       "modszer": [
         {
           "hu": "Minden gyakorlás után jegyezd fel: melyik gyakorlatot végezted, mennyi ideig, és mennyire maradt lágy a légzés.",
-          "en": "After each practice note: which practice you did, for how long, and how gentle the breath stayed."
+          "en": "After each practice note: which practice you did, for how long, and how gentle the breath stayed.",
+          "ro": "După fiecare practică notează: ce practică ai făcut, cât a durat și cât de blândă a rămas respirația."
         },
         {
           "hu": "Pontozd a négy gyümölcsöt egytől ötig: nyugalom, energia, jelenlét, a szív nyitottsága.",
-          "en": "Score the four fruits from one to five: calm, energy, presence, openness of heart."
+          "en": "Score the four fruits from one to five: calm, energy, presence, openness of heart.",
+          "ro": "Notează cele patru roade de la unu la cinci: calm, energie, prezență, deschiderea inimii."
         },
         {
           "hu": "Írd le, hová vándorolt leggyakrabban a figyelmed, és volt-e bármi kellemetlen testérzet.",
-          "en": "Write down where your attention wandered most, and whether there was any unpleasant bodily sensation."
+          "en": "Write down where your attention wandered most, and whether there was any unpleasant bodily sensation.",
+          "ro": "Scrie unde ți-a rătăcit cel mai mult atenția și dacă a existat vreo senzație corporală neplăcută."
         },
         {
           "hu": "Hetente egyszer olvasd vissza a bejegyzéseket, és igazíts: időpont, hossz, testtartás, hozzáállás.",
-          "en": "Once a week read the entries back and adjust: time, length, posture, attitude."
+          "en": "Once a week read the entries back and adjust: time, length, posture, attitude.",
+          "ro": "O dată pe săptămână recitește însemnările și ajustează: momentul, durata, postura, atitudinea."
         }
       ],
       "keret": {
         "hu": "Dispenza a kvantummező nyelvén magyaráz; ez a napló nem azt kérdezi, igaz-e a fizika nyelvén, hanem hogy a gyakorlás mit terem. Ami megtörténik, azt a saját tapasztalatod hitelesíti, nem a szavak — és semmilyen eredmény nincs előre megígérve.",
-        "en": "Dispenza explains in the language of the quantum field; this diary does not ask whether it is true in the language of physics, but what the practice bears. Whatever happens is validated by your own experience, not by words — and no outcome is promised in advance."
+        "en": "Dispenza explains in the language of the quantum field; this diary does not ask whether it is true in the language of physics, but what the practice bears. Whatever happens is validated by your own experience, not by words — and no outcome is promised in advance.",
+        "ro": "Dispenza explică în limbajul câmpului cuantic; acest jurnal nu întreabă dacă este adevărat în limbajul fizicii, ci ce rodește practica. Orice se întâmplă este validat de propria ta experiență, nu de cuvinte — și niciun rezultat nu este promis dinainte."
       },
       "etika": {
         "hu": "Maradj józan a beszédben: a tapasztalataid a tieid — ne hirdesd tényként, amit belül éltél át, és ne ígérj másnak olyat, amit a naplód sem igazolt még. A rendszeres, szelíd napi gyakorlás többet ér, mint a ritka, hosszú erőltetés.",
-        "en": "Stay sober in speech: your experiences are yours — do not proclaim as fact what you lived inwardly, and do not promise others what your own diary has not yet confirmed. Regular, gentle daily practice is worth more than rare, long bouts of straining."
+        "en": "Stay sober in speech: your experiences are yours — do not proclaim as fact what you lived inwardly, and do not promise others what your own diary has not yet confirmed. Regular, gentle daily practice is worth more than rare, long bouts of straining.",
+        "ro": "Rămâi sobru în vorbire: experiențele tale sunt ale tale — nu proclama ca fapt ceea ce ai trăit lăuntric și nu promite altora ceea ce propriul tău jurnal nu a confirmat încă. Practica zilnică regulată și blândă valorează mai mult decât eforturi rare și lungi de încordare."
       },
       "sorszam": 9
     }

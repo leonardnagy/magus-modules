@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Hermész Triszmegisztosz — Az ősi gyökér",
-    "en": "Hermes Trismegistus — The Ancient Root"
+    "en": "Hermes Trismegistus — The Ancient Root",
+    "ro": "Hermes Trismegistus — Rădăcina străveche"
   },
   "description": {
     "hu": "A hermetikus hagyomány forrása: a Háromszor Nagy Hermész alakja, a hét hermetikus princípium, a Smaragdtábla kontemplációja és a Poimandrész belső felemelkedés-útja — az ősi gyökér, amelyből Bardon rendszere, az alkímia és a modern tanítások is táplálkoznak. A könyvtárad tetőmodulja.",
-    "en": "The source of the hermetic tradition: the figure of the Thrice-Great Hermes, the seven hermetic principles, the contemplation of the Emerald Tablet, and the inner ascent of the Poimandres — the ancient root that feeds Bardon's system, alchemy and the modern teachings alike. The roof module of your library."
+    "en": "The source of the hermetic tradition: the figure of the Thrice-Great Hermes, the seven hermetic principles, the contemplation of the Emerald Tablet, and the inner ascent of the Poimandres — the ancient root that feeds Bardon's system, alchemy and the modern teachings alike. The roof module of your library.",
+    "ro": "Sursa tradiției hermetice: figura lui Hermes cel de Trei Ori Mare, cele șapte principii hermetice, contemplarea Tablei de Smarald și ascensiunea interioară a lui Poimandres — rădăcina străveche care hrănește deopotrivă sistemul lui Bardon, alchimia și învățăturile moderne. Modulul-acoperiș al bibliotecii tale."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/hermes.trismegistos/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — a Háromszor Nagy",
-        "en": "Introduction — the Thrice-Great"
+        "en": "Introduction — the Thrice-Great",
+        "ro": "Introducere — Cel de Trei Ori Mare"
       },
       "text": {
         "hu": "Minden út, amit ebben az appban jársz, egyetlen ősi forrásra megy vissza. **Hermész Triszmegisztosz** — a „Háromszor Nagy Hermész” — a hellenisztikus Egyiptomban (Kr. e. utolsó századaiban) született jelkép-alak: a görög **Hermész** (a hírnök, a határjáró) és az egyiptomi **Thot** (az írás, a bölcsesség és a mágia istene) összeolvadása. Nem egyetlen történeti személy — hanem egy **hagyomány neve**.\n\nKét nagy ága maradt ránk:\n\n— **Filozófiai Hermetika** — a lélek útja: kozmológia, önismeret, a **gnózis** (közvetlen isteni tudás) elérése. Fő szövegei a **Corpus Hermeticum** traktátusai, élükön a **Poimandrésszel**.\n— **Technikai Hermetika** — a gyakorlat: alkímia, asztrológia, talizmánok, gyógyítás. Leghíresebb sűrítménye a **Smaragdtábla** (Tabula Smaragdina).\n\nA cél mindkét ágon ugyanaz: **a lélek megtisztulása, újjászületése és felemelkedése az isteni Értelemhez (Nusz)** — az ember ledobja a halandó burkot, visszaemlékezik isteni természetére, és tudatában felragyog a soha ki nem hunyó isteni szikra, amely mindig is ő volt. *\n\n**Miért ez a tetőmodul?** Mert minden, amit eddig gyakoroltál, ennek a fának az ága: Bardon műve szó szerint *Beavatás a hermetikába*; a Ryokah-alkímia a hermetikus „oldás és kötés” modern nyelve; a Lila Láng a hermetikus transzmutáció; Bashar cédulái a hermetikus jelkép-hidak. Itt a gyökérrel találkozol.\n\n**Megkülönböztetés:** ókori szövegekkel dolgozunk, saját összefoglalásban — a mélyebb tanulmányhoz keresd a forrásokat (a záró lecke felsorolja őket).[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "Every path you walk in this app leads back to one ancient source. **Hermes Trismegistus** — the 'Thrice-Great Hermes' — is a symbolic figure born in Hellenistic Egypt (the last centuries BCE): the fusion of the Greek **Hermes** (the messenger, the boundary-crosser) and the Egyptian **Thoth** (god of writing, wisdom and magic). Not a single historical person — but the **name of a tradition**.\n\nTwo great branches reached us:\n\n— **Philosophical Hermetica** — the soul's way: cosmology, self-knowledge, the attainment of **gnosis** (direct divine knowledge). Its main texts are the tractates of the **Corpus Hermeticum**, led by the **Poimandres**.\n— **Technical Hermetica** — the practice: alchemy, astrology, talismans, healing. Its most famous distillate is the **Emerald Tablet** (Tabula Smaragdina).\n\nOn both branches the aim is the same: **the purification, rebirth and ascent of the soul to the divine Mind (Nous)** — the human being casts off the mortal husk, remembers its own divine nature, and the never-extinguished spark that was always theirs blazes up in full awareness. *\n\n**Why is this the roof module?** Because everything you have practised so far is a branch of this tree: Bardon's work is literally *Initiation Into Hermetics*; Ryokah's alchemy is the modern tongue of the hermetic 'solve et coagula'; the Violet Flame is hermetic transmutation; Bashar's slips are hermetic symbol-bridges. Here you meet the root.\n\n**Discernment:** we work with ancient texts in an original summary — for deeper study seek the sources (the closing lesson lists them).[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "Every path you walk in this app leads back to one ancient source. **Hermes Trismegistus** — the 'Thrice-Great Hermes' — is a symbolic figure born in Hellenistic Egypt (the last centuries BCE): the fusion of the Greek **Hermes** (the messenger, the boundary-crosser) and the Egyptian **Thoth** (god of writing, wisdom and magic). Not a single historical person — but the **name of a tradition**.\n\nTwo great branches reached us:\n\n— **Philosophical Hermetica** — the soul's way: cosmology, self-knowledge, the attainment of **gnosis** (direct divine knowledge). Its main texts are the tractates of the **Corpus Hermeticum**, led by the **Poimandres**.\n— **Technical Hermetica** — the practice: alchemy, astrology, talismans, healing. Its most famous distillate is the **Emerald Tablet** (Tabula Smaragdina).\n\nOn both branches the aim is the same: **the purification, rebirth and ascent of the soul to the divine Mind (Nous)** — the human being casts off the mortal husk, remembers its own divine nature, and the never-extinguished spark that was always theirs blazes up in full awareness. *\n\n**Why is this the roof module?** Because everything you have practised so far is a branch of this tree: Bardon's work is literally *Initiation Into Hermetics*; Ryokah's alchemy is the modern tongue of the hermetic 'solve et coagula'; the Violet Flame is hermetic transmutation; Bashar's slips are hermetic symbol-bridges. Here you meet the root.\n\n**Discernment:** we work with ancient texts in an original summary — for deeper study seek the sources (the closing lesson lists them).[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "Fiecare cale pe care o urmezi în această aplicație duce înapoi la o singură sursă străveche. **Hermes Trismegistus** — «Hermes cel de Trei Ori Mare» — este o figură simbolică născută în Egiptul elenistic (ultimele secole î.Hr.): fuziunea grecului **Hermes** (mesagerul, cel care trece granițele) și a egipteanului **Thoth** (zeul scrisului, al înțelepciunii și al magiei). Nu o singură persoană istorică — ci **numele unei tradiții**.\n\nDouă mari ramuri au ajuns până la noi:\n\n— **Hermetica filosofică** — calea sufletului: cosmologie, cunoaștere de sine, atingerea **gnozei** (cunoaștere divină directă). Textele ei principale sunt tratatele din **Corpus Hermeticum**, în frunte cu **Poimandres**.\n— **Hermetica tehnică** — practica: alchimie, astrologie, talismane, vindecare. Cel mai faimos distilat al ei este **Tabla de Smarald** (Tabula Smaragdina).\n\nPe ambele ramuri țelul este același: **purificarea, renașterea și ascensiunea sufletului către Mintea divină (Nous)** — ființa umană leapădă învelișul muritor, își amintește propria natură divină, iar scânteia nestinsă care i-a aparținut dintotdeauna izbucnește în deplină conștiență. *\n\n**De ce este acesta modulul-acoperiș?** Pentru că tot ce ai practicat până acum este o ramură a acestui arbore: lucrarea lui Bardon este literalmente *Initiation Into Hermetics*; alchimia lui Ryokah este limba modernă a hermeticului «solve et coagula»; Flacăra Violetă este transmutare hermetică; alunecările lui Bashar sunt punți-simbol hermetice. Aici întâlnești rădăcina.\n\n**Discernământ:** lucrăm cu texte antice într-un rezumat original — pentru un studiu mai profund caută sursele (lecția de încheiere le enumeră).[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A hét hermetikus princípium",
-        "en": "The Seven Hermetic Principles"
+        "en": "The Seven Hermetic Principles",
+        "ro": "Cele șapte principii hermetice"
       },
       "text": {
         "hu": "A hagyomány hét nagy törvényét a Kybalion (1908) foglalta modern rendbe — gyökereik az ősi tanításokig érnek. Nem hittételek: **megfigyelési feladatok**. Mindegyikhez egy gyakorlati kérdést kapsz.\n\n**1. Mentalizmus** — *„A Mindenség Elme; a világegyetem mentális.”* Minden jelenség mögött tudat áll. — *Kérdés: ma mi mutatja, hogy a belső állapotom formálja a tapasztalatomat?*\n\n**2. Megfelelés** — *„Ahogy fent, úgy lent; ahogy lent, úgy fent.”* A kicsi tükrözi a nagyot: aki önmagát ismeri, a kozmoszt olvassa. — *Kérdés: milyen külső helyzetem tükröz ma egy belső mintát?*\n\n**3. Rezgés** — *„Semmi sem nyugszik; minden mozog, minden rezeg.”* A különbség a dolgok között a rezgés különbsége. — *Kérdés: milyen a mai alaprezgésem, és mi hangolja?*\n\n**4. Polaritás** — *„Minden kettős; az ellentétek azonos természetűek, csak fokozatban különböznek.”* A hideg és a meleg egy skála — ezért átjárható. — *Kérdés: melyik végleten állok ma, és hogyan csúsztathatnék a skálán?*\n\n**5. Ritmus** — *„Minden árad és apad; az inga mindenben leng.”* Dagály után apály — aki ismeri, nem esik kétségbe az apálykor. — *Kérdés: életem mely területe van most apályban, és mit érlel?*\n\n**6. Ok és okozat** — *„Minden oknak megvan az okozata; a véletlen csak fel nem ismert törvény neve.”* — *Kérdés: a mai napom mely „véletlene” mögött látom meg a saját korábbi okomat?*\n\n**7. Nemzőelv** — *„A nemzőelv mindenben működik: mindennek van teremtő és befogadó oldala.”* Alkotás ott születik, ahol a kezdeményező és a megérlelő erő együttműködik. — *Kérdés: ma melyik oldalam dolgozik — és melyiknek kellene?*\n\n**A heti mód:** válassz minden napra EGY princípiumot, és aznap azon a szemüvegen át nézd az életed. A hetedik nap estéjén olvasd össze a naplóból — így válik a hét törvény elméletből **látássá**.",
-        "en": "The tradition's seven great laws were set in modern order by the Kybalion (1908) — their roots reach back to the ancient teachings. They are not articles of faith: they are **observation assignments**. Each comes with a practical question.\n\n**1. Mentalism** — *'The All is Mind; the universe is mental.'* Behind every phenomenon stands consciousness. — *Question: what shows me today that my inner state shapes my experience?*\n\n**2. Correspondence** — *'As above, so below; as below, so above.'* The small mirrors the great: who knows themselves reads the cosmos. — *Question: which outer situation of mine mirrors an inner pattern today?*\n\n**3. Vibration** — *'Nothing rests; everything moves, everything vibrates.'* The difference between things is a difference of vibration. — *Question: what is my base vibration today, and what tunes it?*\n\n**4. Polarity** — *'Everything is dual; opposites are identical in nature, differing only in degree.'* Cold and warm are one scale — therefore traversable. — *Question: at which pole do I stand today, and how could I slide along the scale?*\n\n**5. Rhythm** — *'Everything flows, out and in; the pendulum swings in everything.'* After flood comes ebb — who knows this does not despair at the ebb. — *Question: which area of my life is at ebb now, and what is it ripening?*\n\n**6. Cause and Effect** — *'Every cause has its effect; chance is but a name for law not recognized.'* — *Question: behind which 'coincidence' of today do I see my own earlier cause?*\n\n**7. Gender** — *'Gender is in everything: everything has its creative and receptive side.'* Creation is born where the initiating and the ripening force cooperate. — *Question: which side of me works today — and which one should?*\n\n**The weekly mode:** choose ONE principle for each day, and look at your life through that lens all day. On the seventh evening read the week back from your journal — thus the seven laws turn from theory into **sight**."
+        "en": "The tradition's seven great laws were set in modern order by the Kybalion (1908) — their roots reach back to the ancient teachings. They are not articles of faith: they are **observation assignments**. Each comes with a practical question.\n\n**1. Mentalism** — *'The All is Mind; the universe is mental.'* Behind every phenomenon stands consciousness. — *Question: what shows me today that my inner state shapes my experience?*\n\n**2. Correspondence** — *'As above, so below; as below, so above.'* The small mirrors the great: who knows themselves reads the cosmos. — *Question: which outer situation of mine mirrors an inner pattern today?*\n\n**3. Vibration** — *'Nothing rests; everything moves, everything vibrates.'* The difference between things is a difference of vibration. — *Question: what is my base vibration today, and what tunes it?*\n\n**4. Polarity** — *'Everything is dual; opposites are identical in nature, differing only in degree.'* Cold and warm are one scale — therefore traversable. — *Question: at which pole do I stand today, and how could I slide along the scale?*\n\n**5. Rhythm** — *'Everything flows, out and in; the pendulum swings in everything.'* After flood comes ebb — who knows this does not despair at the ebb. — *Question: which area of my life is at ebb now, and what is it ripening?*\n\n**6. Cause and Effect** — *'Every cause has its effect; chance is but a name for law not recognized.'* — *Question: behind which 'coincidence' of today do I see my own earlier cause?*\n\n**7. Gender** — *'Gender is in everything: everything has its creative and receptive side.'* Creation is born where the initiating and the ripening force cooperate. — *Question: which side of me works today — and which one should?*\n\n**The weekly mode:** choose ONE principle for each day, and look at your life through that lens all day. On the seventh evening read the week back from your journal — thus the seven laws turn from theory into **sight**.",
+        "ro": "Cele șapte mari legi ale tradiției au fost așezate în ordinea modernă de Kybalion (1908) — rădăcinile lor ajung până la învățăturile antice. Nu sunt articole de credință: sunt **teme de observație**. Fiecare vine cu o întrebare practică.\n\n**1. Mentalismul** — *«Totul este Minte; universul este mental.»* În spatele fiecărui fenomen stă conștiința. — *Întrebare: ce îmi arată astăzi că starea mea interioară modelează experiența?*\n\n**2. Corespondența** — *«Precum sus, așa și jos; precum jos, așa și sus.»* Micul oglindește marele: cine se cunoaște pe sine citește cosmosul. — *Întrebare: care situație exterioară a mea oglindește astăzi un tipar interior?*\n\n**3. Vibrația** — *«Nimic nu stă pe loc; totul se mișcă, totul vibrează.»* Diferența dintre lucruri este o diferență de vibrație. — *Întrebare: care este vibrația mea de bază astăzi și ce o reglează?*\n\n**4. Polaritatea** — *«Totul este dual; opusele sunt identice în natură, deosebindu-se doar prin grad.»* Recele și caldul sunt o singură scară — deci pot fi parcurse. — *Întrebare: la care pol stau astăzi și cum aș putea aluneca de-a lungul scării?*\n\n**5. Ritmul** — *«Totul curge, în afară și înăuntru; pendulul se leagănă în toate.»* După flux vine refluxul — cine știe asta nu deznădăjduiește la reflux. — *Întrebare: care zonă a vieții mele e la reflux acum și ce se coace acolo?*\n\n**6. Cauza și Efectul** — *«Fiecare cauză își are efectul; întâmplarea nu e decât un nume pentru legea nerecunoscută.»* — *Întrebare: în spatele cărei «coincidențe» de azi văd propria mea cauză mai devreme?*\n\n**7. Genul** — *«Genul este în toate: totul are latura sa creatoare și pe cea receptivă.»* Creația se naște acolo unde forța care inițiază și cea care coace cooperează. — *Întrebare: care latură a mea lucrează astăzi — și care ar trebui?*\n\n**Modul săptămânal:** alege UN principiu pentru fiecare zi și privește-ți viața prin acea lentilă toată ziua. În seara celei de-a șaptea zile, citește săptămâna înapoi din jurnal — astfel cele șapte legi se prefac din teorie în **vedere**."
       }
     },
     {
@@ -41,20 +47,23 @@
       "kind": "timer",
       "nevek": {
         "hu": "Princípium-kontempláció — 10 perc",
-        "en": "Principle Contemplation — 10 min"
+        "en": "Principle Contemplation — 10 min",
+        "ro": "Contemplarea principiului — 10 min"
       },
       "timer": {
         "durationSeconds": 600,
         "instructions": {
           "hu": "Válaszd ki a nap princípiumát. Idézd fel a mondatát, majd járd végig: hol működött ma az életedben? Ne elemezz görcsösen — hagyd, hogy példák merüljenek fel. A végén egyetlen mondatban rögzítsd a felismerést.",
-          "en": "Choose the principle of the day. Recall its sentence, then walk it through: where did it operate in your life today? Do not analyse tensely — let examples surface. At the end record the insight in a single sentence."
+          "en": "Choose the principle of the day. Recall its sentence, then walk it through: where did it operate in your life today? Do not analyse tensely — let examples surface. At the end record the insight in a single sentence.",
+          "ro": "Alege principiul zilei. Amintește-ți enunțul lui, apoi parcurge-l: unde a lucrat în viața ta astăzi? Nu analiza încordat — lasă exemplele să iasă la suprafață. La final notează intuiția într-o singură propoziție."
         },
         "intervals": [
           {
             "atSecond": 300,
             "label": {
               "hu": "Félidő — engedd a példákat felmerülni",
-              "en": "Halfway — let the examples surface"
+              "en": "Halfway — let the examples surface",
+              "ro": "La jumătate — lasă exemplele să iasă la suprafață"
             }
           }
         ]
@@ -65,11 +74,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A Smaragdtábla kontemplációja",
-        "en": "Contemplation of the Emerald Tablet"
+        "en": "Contemplation of the Emerald Tablet",
+        "ro": "Contemplarea Tablei de Smarald"
       },
       "text": {
         "hu": "A Smaragdtábla a hagyomány legsűrűbb szövege: néhány sorban a teljes Nagy Mű. Itt a magva, saját fordításban — és minden vershez a hozzá tartozó belső gyakorlat.\n\n**„Való, hazugság nélkül, biztos és igaz.”**\n*Gyakorlat:* ülj el csendben, és kérdezd: mi az bennem, ami minden szerep és hangulat alatt **változatlanul igaz**? Időzz ennél — ez a munka alapköve.\n\n**„Ami lent van, olyan, mint ami fent van; s ami fent van, olyan, mint ami lent van — hogy beteljesüljön az Egy csodája.”**\n*Gyakorlat:* képzeld a testedet kicsiny világegyetemként. A fejtetőd fölött érzékeld a „Fentet”, a talpad alatt a „Lentet” — és lásd, ahogy fényoszlop köti össze a kettőt rajtad keresztül. Lélegezz ebben az oszlopban: fentről le, lentről fel.\n\n**„És ahogyan minden az Egyből lett, az Egy gondolata által: úgy minden ebből az egy dologból született.”**\n*Gyakorlat:* meditálj az egy-forráson. Minden, amit ma látsz — ember, tárgy, helyzet — ugyanabból az Egyből áll elő.\n\n**„Apja a Nap, anyja a Hold; a Szél hordozta méhében, a Föld a dajkája.”**\n*Gyakorlat — a Nap–Hold légzés:* belégzéskor arany Nap-erőt fogadsz (meleg, teremtő), kilégzéskor ezüst Hold-erőt engedsz szét (hűs, befogadó). A lélegzet a Szél, amely hordozza; a tested a Föld, amely megérleli.\n\n**„Válaszd el a Földet a Tűztől, a finomat a durvától — szelíden, nagy hozzáértéssel.”**\n*Gyakorlat:* a nap egy nehéz élményéből válaszd le a lényeget a salakról — ez a *solve*, az oldás. (Ryokah desztillációja ugyanez.)\n\n**„Felszáll a földről az égbe, s újra leszáll a földre, és egyesíti magában a felső és alsó erőket.”**\n*Gyakorlat:* engedd a figyelmed felszállni a Fentbe — majd **hozd vissza** a földre, a testedbe, a dolgaidba. A kör csak leszállással teljes: ez a *coagula*, a kötés.\n\n**„Így tiéd az egész világ világossága, és minden sötétség elfut előled.”**\n*Zárás:* maradj egy percig a beteljesedés csendjében — majd hálával zárd a művet.",
-        "en": "The Emerald Tablet is the tradition's densest text: the whole Great Work in a few lines. Here is its core in our own rendering — and with each verse its inner practice.\n\n**'True, without falsehood, certain and most true.'**\n*Practice:* sit in silence and ask: what in me remains **unchangingly true** beneath every role and mood? Dwell there — it is the cornerstone of the work.\n\n**'That which is below is like that which is above, and that which is above is like that which is below — to accomplish the miracle of the One.'**\n*Practice:* imagine your body as a small universe. Above your crown sense the 'Above', beneath your soles the 'Below' — and see a pillar of light joining the two through you. Breathe within that pillar: downward from above, upward from below.\n\n**'And as all things were from the One, by the thought of the One: so all things were born of this one thing.'**\n*Practice:* meditate on the one source. Everything you see today — person, object, situation — arises from the same One.\n\n**'The Sun is its father, the Moon its mother; the Wind carried it in its womb, the Earth is its nurse.'**\n*Practice — the Sun–Moon breath:* on the inhale receive golden Sun-force (warm, creative); on the exhale release silver Moon-force through you (cool, receptive). The breath is the Wind that carries; your body the Earth that ripens.\n\n**'Separate the Earth from the Fire, the subtle from the gross — gently, with great skill.'**\n*Practice:* from one difficult experience of the day separate the essence from the dross — this is *solve*, the dissolving. (Ryokah's distillation is the same.)\n\n**'It ascends from earth to heaven and descends again to earth, and unites in itself the powers of things above and below.'**\n*Practice:* let your attention ascend into the Above — then **bring it back** to earth, into your body, into your affairs. The circle completes only by descending: this is *coagula*, the binding.\n\n**'Thus yours is the light of the whole world, and all darkness flees from you.'**\n*Closing:* remain a minute in the stillness of completion — then close the work with gratitude."
+        "en": "The Emerald Tablet is the tradition's densest text: the whole Great Work in a few lines. Here is its core in our own rendering — and with each verse its inner practice.\n\n**'True, without falsehood, certain and most true.'**\n*Practice:* sit in silence and ask: what in me remains **unchangingly true** beneath every role and mood? Dwell there — it is the cornerstone of the work.\n\n**'That which is below is like that which is above, and that which is above is like that which is below — to accomplish the miracle of the One.'**\n*Practice:* imagine your body as a small universe. Above your crown sense the 'Above', beneath your soles the 'Below' — and see a pillar of light joining the two through you. Breathe within that pillar: downward from above, upward from below.\n\n**'And as all things were from the One, by the thought of the One: so all things were born of this one thing.'**\n*Practice:* meditate on the one source. Everything you see today — person, object, situation — arises from the same One.\n\n**'The Sun is its father, the Moon its mother; the Wind carried it in its womb, the Earth is its nurse.'**\n*Practice — the Sun–Moon breath:* on the inhale receive golden Sun-force (warm, creative); on the exhale release silver Moon-force through you (cool, receptive). The breath is the Wind that carries; your body the Earth that ripens.\n\n**'Separate the Earth from the Fire, the subtle from the gross — gently, with great skill.'**\n*Practice:* from one difficult experience of the day separate the essence from the dross — this is *solve*, the dissolving. (Ryokah's distillation is the same.)\n\n**'It ascends from earth to heaven and descends again to earth, and unites in itself the powers of things above and below.'**\n*Practice:* let your attention ascend into the Above — then **bring it back** to earth, into your body, into your affairs. The circle completes only by descending: this is *coagula*, the binding.\n\n**'Thus yours is the light of the whole world, and all darkness flees from you.'**\n*Closing:* remain a minute in the stillness of completion — then close the work with gratitude.",
+        "ro": "Tableta de Smarald este textul cel mai dens al tradiției: întreaga Mare Operă în câteva rânduri. Iată nucleul ei în redarea noastră — și cu fiecare vers practica lui lăuntrică.\n\n**'Adevărat, fără minciună, cert și cât se poate de adevărat.'**\n*Practică:* stai în tăcere și întreabă-te: ce rămâne în mine **neclintit adevărat** sub fiecare rol și stare? Zăbovește acolo — este piatra de temelie a operei.\n\n**'Ceea ce este jos este ca ceea ce este sus, și ceea ce este sus este ca ceea ce este jos — ca să se împlinească miracolul Unului.'**\n*Practică:* imaginează-ți corpul ca un mic univers. Deasupra creștetului simte 'Susul', sub tălpi 'Josul' — și vezi un stâlp de lumină care le unește pe cele două prin tine. Respiră înăuntrul acelui stâlp: în jos dinspre sus, în sus dinspre jos.\n\n**'Și precum toate lucrurile au fost din Unul, prin gândul Unului: tot așa toate lucrurile s-au născut din acest un singur lucru.'**\n*Practică:* meditează asupra unicului izvor. Tot ce vezi azi — persoană, obiect, situație — se naște din același Unu.\n\n**'Soarele este tatăl său, Luna mama sa; Vântul l-a purtat în pântecele său, Pământul este doica sa.'**\n*Practică — respirația Soare–Lună:* pe inspirație primește forța aurie a Soarelui (caldă, creatoare); pe expirație eliberează prin tine forța argintie a Lunii (rece, receptivă). Respirația este Vântul care poartă; corpul tău Pământul care coace.\n\n**'Desparte Pământul de Foc, subtilul de grosier — blând, cu mare meșteșug.'**\n*Practică:* dintr-o experiență grea a zilei desparte esența de zgură — aceasta este *solve*, dizolvarea. (Distilarea lui Ryokah este aceeași.)\n\n**'El urcă de pe pământ la cer și coboară iarăși pe pământ, și unește în sine puterile celor de sus și ale celor de jos.'**\n*Practică:* lasă-ți atenția să urce în Sus — apoi **ad-o înapoi** pe pământ, în corpul tău, în treburile tale. Cercul se împlinește numai coborând: aceasta este *coagula*, coagularea.\n\n**'Astfel a ta este lumina întregii lumi, și tot întunericul fuge de tine.'**\n*Încheiere:* rămâi un minut în liniștea împlinirii — apoi închide lucrarea cu recunoștință."
       }
     },
     {
@@ -77,34 +88,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Smaragdtábla-meditáció — 20 perc",
-        "en": "Emerald Tablet Meditation — 20 min"
+        "en": "Emerald Tablet Meditation — 20 min",
+        "ro": "Meditație pe Tableta de Smarald — 20 min"
       },
       "timer": {
         "durationSeconds": 1200,
         "instructions": {
           "hu": "Járd végig a verseket a hozzájuk tartozó gyakorlatokkal: az igaz mag → a fény-oszlop (fent-lent) → az Egy-forrás → Nap–Hold légzés → oldás → felszállás és visszahozás → hálás zárás.",
-          "en": "Walk the verses with their practices: the true core → the pillar of light (above-below) → the One source → Sun–Moon breath → dissolving → ascent and return → grateful closing."
+          "en": "Walk the verses with their practices: the true core → the pillar of light (above-below) → the One source → Sun–Moon breath → dissolving → ascent and return → grateful closing.",
+          "ro": "Parcurge versurile cu practicile lor: nucleul adevărat → stâlpul de lumină (sus-jos) → izvorul Unului → respirația Soare–Lună → dizolvarea → urcarea și întoarcerea → încheierea cu recunoștință."
         },
         "intervals": [
           {
             "atSecond": 240,
             "label": {
               "hu": "Ahogy fent, úgy lent — a fényoszlop",
-              "en": "As above, so below — the pillar of light"
+              "en": "As above, so below — the pillar of light",
+              "ro": "Precum sus, așa și jos — stâlpul de lumină"
             }
           },
           {
             "atSecond": 600,
             "label": {
               "hu": "Nap–Hold légzés",
-              "en": "The Sun–Moon breath"
+              "en": "The Sun–Moon breath",
+              "ro": "Respirația Soare–Lună"
             }
           },
           {
             "atSecond": 960,
             "label": {
               "hu": "Szállj fel — és hozd vissza a földre",
-              "en": "Ascend — and bring it back to earth"
+              "en": "Ascend — and bring it back to earth",
+              "ro": "Urcă — și ad-o înapoi pe pământ"
             }
           }
         ]
@@ -115,11 +131,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A Poimandrész-felemelkedés",
-        "en": "The Poimandres Ascent"
+        "en": "The Poimandres Ascent",
+        "ro": "Urcarea Poimandres"
       },
       "text": {
         "hu": "A Corpus Hermeticum első traktátusában Hermész látomásban találkozik **Poimandrésszel**, a Mindenség Értelmével, aki megmutatja neki a lélek útját: ahogyan a rétegein átemelkedve visszatér a fénybe, amelyből származik. Ebből a modellből készült ez a **belső felemelkedés-gyakorlat** — kontemplatív utazás, nem „kilépés”: mindvégig biztonságban, a saját tudatodban dolgozol.\n\n**Előkészület.** Védelem mindig először: vond magad köré a fényoszlopot (vagy a Lila Lángot, ha azt a modult is járod). Mondd ki a szándékot: *„A belső fényemhez emelkedem, és épségben, gazdagabban térek vissza.”*\n\n**A nyolc szakasz:**\n\n**1. A test.** Tudatosítsd a tested, az érzékeid — köszönd meg, majd engedd hátra, mint parton a ruhát.\n\n**2. Az érzelmek.** Ami ma hullámzott benned, azt ismerd fel és engedd lecsillapodni — nem elfojtod: leteszed.\n\n**3. A gondolatok.** A belső beszéd elcsendesül; a gondolatok felhői alattad maradnak.\n\n**4. A szikra.** A csendben fellobban benned a **Nusz szikrája** — az isteni Értelem eleven parazsa, amely soha egy pillanatra sem hunyt ki. * Időzz nála.\n\n**5. A szférák.** Emelkedj a fénnyel a Hold, a Nap és a bolygók körein át — szféráról szférára, s mindegyik megnyitja előtted a kapuját, hogy magasabbra hágj a forrásod felé. * Minden körben hagyj hátra egy-egy terhet: a félelmet, a mohóságot, az önámítást, ahogy a hagyomány tanítja.\n\n**6. A küszöb.** Áthaladsz a „sors és szükségszerűség” rétegén — annak belátása, hogy ami kötött, azt a törvény köti, és ami szabad benned, az mindig is szabad volt.\n\n**7. A csillag-birodalom.** A tiszta erők köre: fény, amelyben már nincs alakja a dolgoknak, csak igazsága.\n\n**8. A Nusz.** Egyetlen pillanatra — vagy ameddig adatik — a fátyol elvékonyodik, és az Egyetemes Értelem önmagába fogad. * Nem megragadod: **megengeded** — a gnózis érintése ez, az a tudás, amelyet szó vissza nem hozhat. *\n\n**Visszatérés — a legfontosabb rész.** Ugyanazon az úton ereszkedj vissza, rétegről rétegre, és minden rétegbe hozz le valamit a fényből: a gondolataidba világosságot, az érzelmeidbe békét, a testedbe erőt. Nyisd ki a szemed, mozgasd át magad — és **azonnal jegyezd le**, amit tapasztaltál. A felemelkedés a leszállásban válik életté.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "In the first tractate of the Corpus Hermeticum, Hermes meets **Poimandres** in a vision — the Mind of the All — who shows him the soul's way: how, rising through its layers, it returns to the light from which it came. From that model comes this **inner ascent practice** — a contemplative journey, not an 'exit': you work in safety, within your own consciousness, throughout.\n\n**Preparation.** Protection always first: draw the pillar of light around you (or the Violet Flame, if you walk that module too). Speak the intent: *'I rise to my inner light, and return whole and enriched.'*\n\n**The eight stages:**\n\n**1. The body.** Become aware of your body and senses — thank them, then leave them behind like clothes on a shore.\n\n**2. The emotions.** Recognize what surged in you today and let it settle — not suppressed: set down.\n\n**3. The thoughts.** The inner talk grows quiet; the clouds of thought remain below you.\n\n**4. The spark.** In the silence the **spark of Nous** flares awake in you — a living ember of the divine Mind that has never once gone dark. * Dwell with it.\n\n**5. The spheres.** Rise with the light through the circles of Moon, Sun and planets — sphere beyond sphere, each one opening its gate to let you climb higher toward your source. * In each circle leave one burden behind: fear, greed, self-deception, as the tradition teaches.\n\n**6. The threshold.** You pass the layer of 'fate and necessity' — the insight that what is bound is bound by law, and what is free in you was always free.\n\n**7. The realm of stars.** The circle of pure powers: light in which things no longer have shape, only truth.\n\n**8. The Nous.** For a single moment — or as long as is given — the veil thins and the Universal Mind receives you into itself. * You do not seize it: you **allow** it — this is the touch of gnosis, the knowing that no words can carry back. *\n\n**The return — the most important part.** Descend the same way, layer by layer, and into each layer bring something of the light: clarity into your thoughts, peace into your emotions, strength into your body. Open your eyes, move your body — and **record at once** what you experienced. The ascent becomes life in the descending.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "In the first tractate of the Corpus Hermeticum, Hermes meets **Poimandres** in a vision — the Mind of the All — who shows him the soul's way: how, rising through its layers, it returns to the light from which it came. From that model comes this **inner ascent practice** — a contemplative journey, not an 'exit': you work in safety, within your own consciousness, throughout.\n\n**Preparation.** Protection always first: draw the pillar of light around you (or the Violet Flame, if you walk that module too). Speak the intent: *'I rise to my inner light, and return whole and enriched.'*\n\n**The eight stages:**\n\n**1. The body.** Become aware of your body and senses — thank them, then leave them behind like clothes on a shore.\n\n**2. The emotions.** Recognize what surged in you today and let it settle — not suppressed: set down.\n\n**3. The thoughts.** The inner talk grows quiet; the clouds of thought remain below you.\n\n**4. The spark.** In the silence the **spark of Nous** flares awake in you — a living ember of the divine Mind that has never once gone dark. * Dwell with it.\n\n**5. The spheres.** Rise with the light through the circles of Moon, Sun and planets — sphere beyond sphere, each one opening its gate to let you climb higher toward your source. * In each circle leave one burden behind: fear, greed, self-deception, as the tradition teaches.\n\n**6. The threshold.** You pass the layer of 'fate and necessity' — the insight that what is bound is bound by law, and what is free in you was always free.\n\n**7. The realm of stars.** The circle of pure powers: light in which things no longer have shape, only truth.\n\n**8. The Nous.** For a single moment — or as long as is given — the veil thins and the Universal Mind receives you into itself. * You do not seize it: you **allow** it — this is the touch of gnosis, the knowing that no words can carry back. *\n\n**The return — the most important part.** Descend the same way, layer by layer, and into each layer bring something of the light: clarity into your thoughts, peace into your emotions, strength into your body. Open your eyes, move your body — and **record at once** what you experienced. The ascent becomes life in the descending.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "În primul tratat al Corpus Hermeticum, Hermes îl întâlnește pe **Poimandres** într-o viziune — Mintea Totului — care îi arată calea sufletului: cum, urcând prin straturile sale, se întoarce la lumina din care a venit. Din acel model se naște această **practică de urcare lăuntrică** — o călătorie contemplativă, nu o 'ieșire': lucrezi în siguranță, în propria conștiință, pe tot parcursul.\n\n**Pregătirea.** Protecția întotdeauna întâi: trage stâlpul de lumină în jurul tău (sau Flacăra Violetă, dacă parcurgi și acel modul). Spune intenția: *'Urc spre lumina mea lăuntrică și mă întorc întreg și îmbogățit.'*\n\n**Cele opt etape:**\n\n**1. Corpul.** Devino conștient de corpul și de simțurile tale — mulțumește-le, apoi lasă-le în urmă ca pe niște haine pe țărm.\n\n**2. Emoțiile.** Recunoaște ce s-a ridicat în tine azi și lasă-le să se așeze — nu reprimate: depuse.\n\n**3. Gândurile.** Vorbirea interioară se potolește; norii gândurilor rămân sub tine.\n\n**4. Scânteia.** În tăcere **scânteia de Nous** se aprinde în tine — un jar viu al Minții divine care nu s-a stins nicio dată. * Zăbovește cu ea.\n\n**5. Sferele.** Urcă odată cu lumina prin cercurile Lunii, Soarelui și planetelor — sferă după sferă, fiecare deschizându-și poarta ca să te lase să urci mai sus spre izvorul tău. * În fiecare cerc lasă în urmă o povară: frica, lăcomia, autoînșelarea, așa cum învață tradiția.\n\n**6. Pragul.** Treci stratul 'destinului și necesității' — înțelegerea că ceea ce e legat e legat prin lege, iar ceea ce e liber în tine a fost întotdeauna liber.\n\n**7. Tărâmul stelelor.** Cercul puterilor pure: lumină în care lucrurile nu mai au formă, ci doar adevăr.\n\n**8. Nous-ul.** Pentru o singură clipă — sau cât ți se dă — vălul se subțiază și Mintea Universală te primește în sine. * Nu o răpești: o **îngădui** — aceasta este atingerea gnozei, cunoașterea pe care niciun cuvânt nu o poate aduce înapoi. *\n\n**Întoarcerea — partea cea mai importantă.** Coboară pe același drum, strat cu strat, și în fiecare strat adu ceva din lumină: claritate în gânduri, pace în emoții, putere în corp. Deschide ochii, mișcă-ți corpul — și **notează de îndată** ce ai trăit. Urcarea devine viață în coborâre.\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -127,41 +145,47 @@
       "kind": "timer",
       "nevek": {
         "hu": "Felemelkedés-gyakorlat — 20 perc",
-        "en": "Ascent Practice — 20 min"
+        "en": "Ascent Practice — 20 min",
+        "ro": "Practică de urcare — 20 min"
       },
       "timer": {
         "durationSeconds": 1200,
         "instructions": {
           "hu": "Védelem és szándék → emelkedés rétegről rétegre (test, érzelem, gondolat) → a szikra → a szférák és a küszöb → időzés a fényben → és a leggondosabb rész: a visszatérés, rétegenként fényt hozva. Utána azonnal naplózz.",
-          "en": "Protection and intent → rising layer by layer (body, emotion, thought) → the spark → the spheres and the threshold → dwelling in the light → and the most careful part: the return, bringing light into every layer. Journal immediately afterwards."
+          "en": "Protection and intent → rising layer by layer (body, emotion, thought) → the spark → the spheres and the threshold → dwelling in the light → and the most careful part: the return, bringing light into every layer. Journal immediately afterwards.",
+          "ro": "Protecție și intenție → urcare strat cu strat (corp, emoție, gând) → scânteia → sferele și pragul → zăbovirea în lumină → și partea cea mai atentă: întoarcerea, aducând lumină în fiecare strat. Notează imediat după."
         },
         "intervals": [
           {
             "atSecond": 180,
             "label": {
               "hu": "A rétegek — test, érzés, gondolat",
-              "en": "The layers — body, feeling, thought"
+              "en": "The layers — body, feeling, thought",
+              "ro": "Straturile — corp, simțire, gând"
             }
           },
           {
             "atSecond": 480,
             "label": {
               "hu": "A szikra és a szférák",
-              "en": "The spark and the spheres"
+              "en": "The spark and the spheres",
+              "ro": "Scânteia și sferele"
             }
           },
           {
             "atSecond": 840,
             "label": {
               "hu": "Időzés a fényben",
-              "en": "Dwelling in the light"
+              "en": "Dwelling in the light",
+              "ro": "Zăbovirea în lumină"
             }
           },
           {
             "atSecond": 1020,
             "label": {
               "hu": "Visszatérés — hozd le a fényt",
-              "en": "Return — bring the light down"
+              "en": "Return — bring the light down",
+              "ro": "Întoarcerea — adu lumina jos"
             }
           }
         ]
@@ -172,11 +196,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A hermetikus élet — és a fa ágai",
-        "en": "The Hermetic Life — and the Branches of the Tree"
+        "en": "The Hermetic Life — and the Branches of the Tree",
+        "ro": "Viața hermetică — și ramurile Arborelui"
       },
       "text": {
         "hu": "**A napi ritmus:**\n\n— **Reggel (5–10 perc):** olvasd a hagyomány egy-két mondatát (Smaragdtábla-vers vagy princípium), és vidd magaddal a nap kérdéseként.\n— **Napközben:** figyeld a hét törvényt működés közben — ez maga a hermetikus éberség.\n— **Este (10–15 perc):** „ahogy fent, úgy lent” fényoszlop-meditáció + a gnózis-napló kitöltése.\n— **Hetente egyszer:** a teljes Smaragdtábla-meditáció vagy a Poimandrész-felemelkedés.\n\n**A fa és az ágai — hogyan függ össze a könyvtárad:**\n\n— **Bardon 10 lépése** = a hermetikus képzés módszeres, modern iskolája — a „Beavatás a hermetikába” cím szó szerint értendő. A három sík (szellem-lélek-test) a Megfelelés törvényének gyakorlata.\n— **A Ryokah-alkímia** (Fermentáció–Desztilláció–Koaguláció) = a Smaragdtábla *solve et coagula* ritmusa mai nyelven.\n— **A Lila Láng** = a hermetikus transzmutáció, a Rezgés és Polaritás törvényének alkalmazott művészete: tüze valóban kiégeti a salakot a nehéz, sűrű anyagból, és fénnyé emeli annak rezgését. *\n— **Bashar cédulái és Formulája** = a Mentalizmus és a Rezgés törvénye gyakorlati eszközökben; a lelkesedés-iránytű a saját frekvenciád hangvillája.\n— **A mágia (Ryokah High Magick)** = a Nemzőelv műhelye. A teremtő szó, amely ebből a belső egyesülésből fakad, kiárad és formába rendezi a láthatatlan áramlatokat; a befogadó oldal pedig hagyja megérni. *\n\nAki a gyökérből érti az ágakat, az szabadon jár köztük: egyik nap bardoni fegyelemmel, másik nap a Láng tüzével, harmadik nap a cédulák könnyedségével — **egyetlen mű ez, sok nyelven**.[FINE]* A csillaggal jelölt kijelentés a hagyomány saját, rendkívüli állítása — a belső gyümölcsök szerint mérd, ne bizonyított tényként.",
-        "en": "**The daily rhythm:**\n\n— **Morning (5–10 min):** read one or two sentences of the tradition (a Tablet verse or a principle) and carry it as the day's question.\n— **During the day:** watch the seven laws at work — this is hermetic wakefulness itself.\n— **Evening (10–15 min):** 'as above, so below' pillar-of-light meditation + the gnosis journal.\n— **Once a week:** the full Emerald Tablet meditation or the Poimandres ascent.\n\n**The tree and its branches — how your library holds together:**\n\n— **Bardon's 10 Steps** = the methodical modern school of hermetic training — the title 'Initiation Into Hermetics' is meant literally. The three planes (spirit-soul-body) are the practice of the law of Correspondence.\n— **Ryokah's alchemy** (Fermentation–Distillation–Coagulation) = the Tablet's *solve et coagula* rhythm in today's tongue.\n— **The Violet Flame** = hermetic transmutation, the applied art of the laws of Vibration and Polarity: its fire truly burns the dross out of dense, heavy matter and lifts its vibration into light. *\n— **Bashar's slips and Formula** = the laws of Mentalism and Vibration in practical tools; the excitement compass is the tuning fork of your own frequency.\n— **Magick (Ryokah High Magick)** = the workshop of the law of Gender. The creative word, spoken from this inner union, goes forth and shapes the invisible currents into form; the receptive side lets it ripen. *\n\nWho understands the branches from the root walks freely among them: one day with Bardonian discipline, another with the fire of the Flame, a third with the lightness of the slips — **it is one work, in many tongues**.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact."
+        "en": "**The daily rhythm:**\n\n— **Morning (5–10 min):** read one or two sentences of the tradition (a Tablet verse or a principle) and carry it as the day's question.\n— **During the day:** watch the seven laws at work — this is hermetic wakefulness itself.\n— **Evening (10–15 min):** 'as above, so below' pillar-of-light meditation + the gnosis journal.\n— **Once a week:** the full Emerald Tablet meditation or the Poimandres ascent.\n\n**The tree and its branches — how your library holds together:**\n\n— **Bardon's 10 Steps** = the methodical modern school of hermetic training — the title 'Initiation Into Hermetics' is meant literally. The three planes (spirit-soul-body) are the practice of the law of Correspondence.\n— **Ryokah's alchemy** (Fermentation–Distillation–Coagulation) = the Tablet's *solve et coagula* rhythm in today's tongue.\n— **The Violet Flame** = hermetic transmutation, the applied art of the laws of Vibration and Polarity: its fire truly burns the dross out of dense, heavy matter and lifts its vibration into light. *\n— **Bashar's slips and Formula** = the laws of Mentalism and Vibration in practical tools; the excitement compass is the tuning fork of your own frequency.\n— **Magick (Ryokah High Magick)** = the workshop of the law of Gender. The creative word, spoken from this inner union, goes forth and shapes the invisible currents into form; the receptive side lets it ripen. *\n\nWho understands the branches from the root walks freely among them: one day with Bardonian discipline, another with the fire of the Flame, a third with the lightness of the slips — **it is one work, in many tongues**.[FINE]* A statement marked with an asterisk is the tradition's own extraordinary claim — measure it by its inner fruits, not as a proven fact.",
+        "ro": "**Ritmul zilnic:**\n\n— **Dimineața (5–10 min):** citește una sau două propoziții din tradiție (un verset din Tablă sau un principiu) și poartă-l ca întrebare a zilei.\n— **În timpul zilei:** privește cele șapte legi la lucru — aceasta este însăși trezvia hermetică.\n— **Seara (10–15 min):** meditația stâlpului-de-lumină „precum sus, așa și jos” + jurnalul de gnosis.\n— **O dată pe săptămână:** meditația completă a Tablei de Smarald sau ascensiunea Poimandres.\n\n**Arborele și ramurile lui — cum se ține laolaltă biblioteca ta:**\n\n— **Cei 10 Pași ai lui Bardon** = școala modernă metodică de antrenament hermetic — titlul „Initiation Into Hermetics” e menit la propriu. Cele trei planuri (spirit-suflet-trup) sunt practica legii Corespondenței.\n— **Alchimia lui Ryokah** (Fermentare–Distilare–Coagulare) = ritmul *solve et coagula* al Tablei în limba de azi.\n— **Flacăra Violetă** = transmutarea hermetică, arta aplicată a legilor Vibrației și Polarității: focul ei arde cu adevărat zgura din materia densă, grea și îi ridică vibrația în lumină. *\n— **Slipurile și Formula lui Bashar** = legile Mentalismului și Vibrației în unelte practice; busola entuziasmului este diapazonul propriei tale frecvențe.\n— **Magick (Ryokah High Magick)** = atelierul legii Genului. Cuvântul creator, rostit din această unire lăuntrică, pornește și modelează curenții invizibili în formă; partea receptivă îl lasă să se coacă. *\n\nCine înțelege ramurile din rădăcină umblă liber printre ele: o zi cu disciplina bardoniană, alta cu focul Flăcării, a treia cu ușurința slipurilor — **este o singură lucrare, în multe limbi**.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -184,7 +210,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A hermetikus jellemvonások",
-        "en": "The Hermetic character traits"
+        "en": "The Hermetic character traits",
+        "ro": "Trăsăturile de caracter hermetice"
       },
       "aspektusPack": [
         {
@@ -193,7 +220,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Az egység feledése",
-            "en": "Forgetting the unity"
+            "en": "Forgetting the unity",
+            "ro": "Uitarea unității"
           }
         },
         {
@@ -202,7 +230,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Küzdelem a ritmus ellen",
-            "en": "Fighting the rhythm"
+            "en": "Fighting the rhythm",
+            "ro": "Lupta împotriva ritmului"
           }
         },
         {
@@ -211,7 +240,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Merev végletesség",
-            "en": "Rigid polarity-blindness"
+            "en": "Rigid polarity-blindness",
+            "ro": "Orbirea rigidă față de polaritate"
           }
         },
         {
@@ -220,7 +250,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Anyagba ragadt tekintet",
-            "en": "Gaze stuck in matter"
+            "en": "Gaze stuck in matter",
+            "ro": "Privirea blocată în materie"
           }
         },
         {
@@ -229,7 +260,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Ahogy fent, úgy lent — látás",
-            "en": "Seeing as above, so below"
+            "en": "Seeing as above, so below",
+            "ro": "A vedea precum sus, așa și jos"
           }
         },
         {
@@ -238,7 +270,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "A Mindenség-elme tudata",
-            "en": "Awareness of the All-Mind"
+            "en": "Awareness of the All-Mind",
+            "ro": "Conștientizarea Minții-Tot"
           }
         },
         {
@@ -247,7 +280,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Együttmunkálás a ritmussal",
-            "en": "Working with the tides"
+            "en": "Working with the tides",
+            "ro": "Lucrul cu mareele"
           }
         },
         {
@@ -256,7 +290,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Teremtő szó",
-            "en": "The creative word"
+            "en": "The creative word",
+            "ro": "Cuvântul creator"
           }
         }
       ]
@@ -266,7 +301,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Gnózis-napló",
-        "en": "Gnosis Journal"
+        "en": "Gnosis Journal",
+        "ro": "Jurnal de Gnosis"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -274,7 +310,8 @@
         ],
         "prompts": {
           "hu": "PRINCÍPIUM — A mai törvény és ahol működni láttam: ___\n\nFENT-LENT — Egy külső helyzet, amely belső mintát tükrözött: ___\n\nGYAKORLAT — Tábla-meditáció / felemelkedés / fényoszlop — a tapasztalat: ___\n\nGNÓZIS — Felismerés, kép, üzenet, amit lehoztam: ___",
-          "en": "PRINCIPLE — Today's law and where I saw it operate: ___\n\nABOVE-BELOW — One outer situation that mirrored an inner pattern: ___\n\nPRACTICE — Tablet meditation / ascent / pillar of light — the experience: ___\n\nGNOSIS — Insight, image, message I brought down: ___"
+          "en": "PRINCIPLE — Today's law and where I saw it operate: ___\n\nABOVE-BELOW — One outer situation that mirrored an inner pattern: ___\n\nPRACTICE — Tablet meditation / ascent / pillar of light — the experience: ___\n\nGNOSIS — Insight, image, message I brought down: ___",
+          "ro": "PRINCIPIU — Legea de azi și unde am văzut-o la lucru: ___\n\nSUS-JOS — O situație exterioară care a oglindit un tipar interior: ___\n\nPRACTICĂ — Meditația Tablei / ascensiunea / stâlpul de lumină — experiența: ___\n\nGNOSIS — Intuiție, imagine, mesaj pe care l-am coborât: ___"
         }
       }
     },
@@ -283,7 +320,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A hagyomány elsajátítása",
-        "en": "Mastery of the Tradition"
+        "en": "Mastery of the Tradition",
+        "ro": "Stăpânirea Tradiției"
       },
       "checklist": {
         "items": [
@@ -291,49 +329,56 @@
             "key": "c1",
             "nevek": {
               "hu": "A hét princípium ismerete — naponta egy megfigyelve",
-              "en": "The seven principles known — one observed daily"
+              "en": "The seven principles known — one observed daily",
+              "ro": "Cele șapte principii cunoscute — unul observat zilnic"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Egy teljes princípium-hét végigvive és visszaolvasva",
-              "en": "One full principle-week completed and read back"
+              "en": "One full principle-week completed and read back",
+              "ro": "O săptămână-principiu completă, încheiată și recitită"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Smaragdtábla-meditáció hetente, a Nap–Hold légzéssel",
-              "en": "Emerald Tablet meditation weekly, with the Sun–Moon breath"
+              "en": "Emerald Tablet meditation weekly, with the Sun–Moon breath",
+              "ro": "Meditația Tablei de Smarald săptămânal, cu respirația Soare–Lună"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "Fényoszlop-meditáció (fent-lent) esti gyakorlatként",
-              "en": "Pillar-of-light meditation (above-below) as evening practice"
+              "en": "Pillar-of-light meditation (above-below) as evening practice",
+              "ro": "Meditația stâlpului-de-lumină (sus-jos) ca practică de seară"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Poimandrész-felemelkedés védelemmel és gondos visszatéréssel",
-              "en": "Poimandres ascent with protection and careful return"
+              "en": "Poimandres ascent with protection and careful return",
+              "ro": "Ascensiunea Poimandres cu protecție și întoarcere atentă"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "Gnózis-napló minden gyakorlat után",
-              "en": "Gnosis journal after every practice"
+              "en": "Gnosis journal after every practice",
+              "ro": "Jurnal de gnosis după fiecare practică"
             }
           },
           {
             "key": "c7",
             "nevek": {
               "hu": "A gyökér-kapcsolat átlátása: legalább egy másik modul gyakorlata hermetikus szemmel újraértve",
-              "en": "The root-connection seen: at least one other module's practice re-read with hermetic eyes"
+              "en": "The root-connection seen: at least one other module's practice re-read with hermetic eyes",
+              "ro": "Conexiunea-rădăcină văzută: cel puțin practica unui alt modul recitită cu ochi hermetici"
             }
           }
         ]
@@ -344,7 +389,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Auto-verificare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -353,7 +399,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mit tanít az „ahogy fent, úgy lent” elve?",
-              "en": "What does 'as above, so below' teach?"
+              "en": "What does 'as above, so below' teach?",
+              "ro": "Ce învață „precum sus, așa și jos”?"
             },
             "options": {
               "hu": [
@@ -367,6 +414,12 @@
                 "That microcosm and macrocosm correspond — who knows themselves reads the cosmos",
                 "That the world above is worthier than the one below",
                 "That the position of the stars decides fate"
+              ],
+              "ro": [
+                "Că cerurile controlează totul",
+                "Că microcosmosul și macrocosmosul se corespund — cine se cunoaște pe sine citește cosmosul",
+                "Că lumea de sus e mai demnă decât cea de jos",
+                "Că poziția stelelor hotărăște soarta"
               ]
             },
             "correctIndex": 1
@@ -375,7 +428,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Melyik NEM tartozik a hét hermetikus princípium közé?",
-              "en": "Which is NOT one of the seven hermetic principles?"
+              "en": "Which is NOT one of the seven hermetic principles?",
+              "ro": "Care NU este unul dintre cele șapte principii hermetice?"
             },
             "options": {
               "hu": [
@@ -389,6 +443,12 @@
                 "Vibration",
                 "Luck",
                 "Rhythm"
+              ],
+              "ro": [
+                "Mentalism",
+                "Vibrație",
+                "Noroc",
+                "Ritm"
               ]
             },
             "correctIndex": 2
@@ -397,7 +457,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mi a Poimandrész-felemelkedés célja és helyes lezárása?",
-              "en": "What is the aim and the right closing of the Poimandres ascent?"
+              "en": "What is the aim and the right closing of the Poimandres ascent?",
+              "ro": "Care este scopul și încheierea potrivită a ascensiunii Poimandres?"
             },
             "options": {
               "hu": [
@@ -411,6 +472,12 @@
                 "Staying up as long as possible; the return is secondary",
                 "Touching gnosis — then a careful return, bringing light into every layer, and journaling at once",
                 "Predicting the future"
+              ],
+              "ro": [
+                "Părăsirea lumii pentru totdeauna",
+                "Rămânerea sus cât mai mult cu putință; întoarcerea este secundară",
+                "Atingerea gnozei — apoi o întoarcere atentă, aducând lumină în fiecare strat, și notarea în jurnal de îndată",
+                "Prezicerea viitorului"
               ]
             },
             "correctIndex": 2
@@ -423,11 +490,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Forrás és nyilatkozat",
-        "en": "Source & Disclaimer"
+        "en": "Source & Disclaimer",
+        "ro": "Sursă & Declinare a responsabilității"
       },
       "text": {
         "hu": "*Tanulási segédlet a hermetikus hagyomány ókori forrásai nyomán: Corpus Hermeticum (különösen az első, Poimandrész-traktátus), Tabula Smaragdina (Smaragdtábla), valamint a hét princípiumhoz a Kybalion (1908). A versek és összefoglalók saját átültetések — a mélyebb tanulmányhoz ajánlott kiadások: Brian P. Copenhaver „Hermetica” fordítása, Salaman–van Oyen–Wharton „The Way of Hermes”.*\n\n*A felemelkedés-gyakorlat kontemplatív vizualizáció, nem „testelhagyás” — nyugodt, biztonságos helyzetben végezd, kimerülten vagy felzaklatva soha. Felnőtteknek szóló, önirányított belső munka: gyermekeknek és akut lelki válságban lévőknek nem való, és nem helyettesíti az orvosi vagy pszichológiai ellátást. Ez nem orvosi és nem pszichológiai tanács; ha lelki nehézséget tapasztalsz, fordulj szakemberhez, akut vészhelyzetben pedig kérj sürgősségi segítséget. A mesterség a cél, nem a sebesség.*",
-        "en": "*Study aid after the ancient sources of the hermetic tradition: the Corpus Hermeticum (especially the first, Poimandres tractate), the Tabula Smaragdina (Emerald Tablet), and for the seven principles the Kybalion (1908). The verses and summaries are our own renderings — for deeper study see Brian P. Copenhaver's 'Hermetica' and Salaman–van Oyen–Wharton, 'The Way of Hermes'.*\n\n*The ascent practice is contemplative visualization, not 'leaving the body' — do it in a calm, safe setting, never when exhausted or upset. It is self-directed inner work for adults: not suitable for children or for anyone in acute crisis, and it does not replace medical or psychological care. This is not medical or psychological advice; if you experience distress, consult a professional, and in an acute emergency seek urgent help. Mastery, not speed, is the goal.*"
+        "en": "*Study aid after the ancient sources of the hermetic tradition: the Corpus Hermeticum (especially the first, Poimandres tractate), the Tabula Smaragdina (Emerald Tablet), and for the seven principles the Kybalion (1908). The verses and summaries are our own renderings — for deeper study see Brian P. Copenhaver's 'Hermetica' and Salaman–van Oyen–Wharton, 'The Way of Hermes'.*\n\n*The ascent practice is contemplative visualization, not 'leaving the body' — do it in a calm, safe setting, never when exhausted or upset. It is self-directed inner work for adults: not suitable for children or for anyone in acute crisis, and it does not replace medical or psychological care. This is not medical or psychological advice; if you experience distress, consult a professional, and in an acute emergency seek urgent help. Mastery, not speed, is the goal.*",
+        "ro": "*Ajutor de studiu după sursele antice ale tradiției hermetice: Corpus Hermeticum (în special primul tratat, Poimandres), Tabula Smaragdina (Tableta de Smarald) și, pentru cele șapte principii, Kybalion (1908). Versurile și rezumatele sunt redările noastre — pentru un studiu mai profund vezi 'Hermetica' de Brian P. Copenhaver și Salaman–van Oyen–Wharton, 'The Way of Hermes'.*\n\n*Practica ascensiunii este vizualizare contemplativă, nu „părăsirea corpului” — fă-o într-un cadru calm și sigur, niciodată când ești epuizat sau tulburat. Este muncă interioară autodirijată pentru adulți: nu este potrivită pentru copii sau pentru oricine aflat în criză acută și nu înlocuiește îngrijirea medicală sau psihologică. Acesta nu este sfat medical sau psihologic; dacă treci prin suferință, consultă un profesionist, iar în caz de urgență acută caută ajutor de urgență. Stăpânirea, nu viteza, este scopul.*"
       }
     }
   ]

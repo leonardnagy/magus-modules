@@ -3,7 +3,8 @@
   "id": "practice-pack-arion",
   "nevek": {
     "hu": "Arion tanácsai — gyakorlatok",
-    "en": "Arion's Counsel — practices"
+    "en": "Arion's Counsel — practices",
+    "ro": "Sfatul lui Arion — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "Napi fegyelem — a gondolatmegfigyelő ülés",
-        "en": "Daily Discipline — the Thought-Observation Sit"
+        "en": "Daily Discipline — the Thought-Observation Sit",
+        "ro": "Disciplina zilnică — Ședința de observare a gândurilor"
       },
       "cel": {
         "hu": "Naponta egy rövid, teljes figyelemmel végzett ülésben megtanulni a gondolatok éber, ítélkezés nélküli megfigyelését — a hagyomány szerint ez minden további munka kapuja.",
-        "en": "In one short, fully attentive daily sit, learn the alert, non-judging observation of thought — in the tradition's view, the gate to all further work."
+        "en": "In one short, fully attentive daily sit, learn the alert, non-judging observation of thought — in the tradition's view, the gate to all further work.",
+        "ro": "Într-o ședință zilnică scurtă, pe deplin atentă, învață observarea trează, fără judecată a gândului — în viziunea tradiției, poarta către toată munca ulterioară."
       },
       "modszer": [
         {
           "hu": "Jelölj ki egy állandó időpontot és helyet; ülj le egyenes gerinccel, csukott vagy félig csukott szemmel, tíz percre.",
-          "en": "Fix a regular time and place; sit down with a straight spine, eyes closed or half-closed, for ten minutes."
+          "en": "Fix a regular time and place; sit down with a straight spine, eyes closed or half-closed, for ten minutes.",
+          "ro": "Stabilește o oră și un loc regulate; așază-te cu spatele drept, ochii închiși sau pe jumătate închiși, timp de zece minute."
         },
         {
           "hu": "Egyetlen feladatod van: figyeld a gondolataidat anélkül, hogy bármelyiket követnéd vagy elűznéd — úgy, ahogy a folyó partjáról nézed a sodródó leveleket.",
-          "en": "You have a single task: watch your thoughts without following or chasing away any of them — the way you watch drifting leaves from a riverbank."
+          "en": "You have a single task: watch your thoughts without following or chasing away any of them — the way you watch drifting leaves from a riverbank.",
+          "ro": "Ai o singură sarcină: privește-ți gândurile fără a urmări sau alunga vreunul dintre ele — așa cum privești frunzele plutitoare de pe malul unui râu."
         },
         {
           "hu": "Amikor észreveszed, hogy egy gondolat elragadott, jegyezd meg nyugodtan: elragadott — és térj vissza a partra. Nem a gondolattalanság a cél, hanem a puszta látás.",
-          "en": "When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but bare seeing."
+          "en": "When you notice a thought has carried you off, note it calmly — carried off — and return to the bank. The goal is not thoughtlessness but bare seeing.",
+          "ro": "Când observi că un gând te-a luat cu el, notează calm — luat cu el — și întoarce-te pe mal. Țelul nu este lipsa gândurilor, ci vederea goală."
         },
         {
           "hu": "Az ülés végén egyetlen mondatban jegyezd fel a naplódba, milyen volt ma a figyelem — ami nincs leírva, az elmosódik.",
-          "en": "At the end of the sit, note in your diary in a single sentence what the attention was like today — what is not written down blurs away."
+          "en": "At the end of the sit, note in your diary in a single sentence what the attention was like today — what is not written down blurs away.",
+          "ro": "La sfârșitul ședinței, notează în jurnal într-o singură propoziție cum a fost atenția azi — ce nu e scris se estompează."
         },
         {
           "hu": "Inkább röviden és naponta, mint hosszan és ritkán: egy pontos tíz perc többet ér, mint egy szétszórt óra.",
-          "en": "Brief and daily rather than long and rare: one exact ten minutes is worth more than a scattered hour."
+          "en": "Brief and daily rather than long and rare: one exact ten minutes is worth more than a scattered hour.",
+          "ro": "Scurt și zilnic mai degrabă decât lung și rar: zece minute exacte valorează mai mult decât o oră risipită."
         }
       ],
       "keret": {
         "hu": "A hagyomány saját nyelvén ez a szellemi munka alapozása; hétköznapi nyelven figyelemgyakorlás. Mércéje nem élmény, hanem belső gyümölcs: nyugodtabb, rendezettebb lettél-e hetek távlatában.",
-        "en": "In the tradition's own language this is the groundwork of mental training; in everyday language, attention practice. Its measure is not experience but inner fruit: whether, over weeks, you have become calmer and more ordered."
+        "en": "In the tradition's own language this is the groundwork of mental training; in everyday language, attention practice. Its measure is not experience but inner fruit: whether, over weeks, you have become calmer and more ordered.",
+        "ro": "În limbajul propriu al tradiției, aceasta este temelia antrenamentului mental; în limbajul de zi cu zi, practica atenției. Măsura ei nu este experiența, ci rodul lăuntric: dacă, de-a lungul săptămânilor, ai devenit mai calm și mai ordonat."
       },
       "etika": {
         "hu": "Ha az ülés alatt tartós szorongás, nyomasztó élmény vagy nem múló nyugtalanság jelentkezik, szüneteltesd a gyakorlást és fordulj szakemberhez. A gyakorlás soha nem helyettesíti az orvosi vagy pszichológiai ellátást.",
-        "en": "If persistent anxiety, distressing experiences, or unrelenting restlessness arise during the sit, pause the practice and see a professional. Practice never replaces medical or psychological care."
+        "en": "If persistent anxiety, distressing experiences, or unrelenting restlessness arise during the sit, pause the practice and see a professional. Practice never replaces medical or psychological care.",
+        "ro": "Dacă în timpul ședinței apar anxietate persistentă, experiențe tulburătoare sau neliniște neîncetată, întrerupe practica și consultă un specialist. Practica nu înlocuiește niciodată îngrijirea medicală sau psihologică."
       },
       "sorszam": 1
     },
@@ -61,37 +71,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "A türelem ülése — egy tárgy, egy figyelem",
-        "en": "The Patience Sit — One Object, One Attention"
+        "en": "The Patience Sit — One Object, One Attention",
+        "ro": "Ședința răbdării — Un obiect, o atenție"
       },
       "cel": {
         "hu": "A türelmet módszerré tenni: egyetlen egyszerű tárgynál maradni erőlködés nélkül, és megtanulni, hogy a visszatérés maga a gyakorlat — nem hiba, hanem ismétlés.",
-        "en": "Make patience a method: stay with one simple object without strain, and learn that the returning is itself the practice — not a mistake but a repetition."
+        "en": "Make patience a method: stay with one simple object without strain, and learn that the returning is itself the practice — not a mistake but a repetition.",
+        "ro": "Fă din răbdare o metodă: rămâi cu un obiect simplu fără încordare și învață că întoarcerea însăși este practica — nu o greșeală, ci o repetiție."
       },
       "modszer": [
         {
           "hu": "Válassz egyetlen egyszerű tárgyat — egy követ, egy gyertyalángot, vagy csak a légzésed ritmusát —, és maradj nála tizenöt percen át, gyengéden.",
-          "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath — and stay with it for fifteen minutes, gently."
+          "en": "Choose one simple object — a stone, a candle flame, or just the rhythm of your breath — and stay with it for fifteen minutes, gently.",
+          "ro": "Alege un obiect simplu — o piatră, flacăra unei lumânări sau pur și simplu ritmul respirației tale — și rămâi cu el cincisprezece minute, cu blândețe."
         },
         {
           "hu": "Minden alkalommal, amikor a figyelmed elvándorol és visszahozod, egy szemernyi állhatatosságot építettél — számold ezt nyereségnek, ne kudarcnak.",
-          "en": "Every time your attention wanders and you bring it back, you have built a grain of steadiness — count that as gain, not failure."
+          "en": "Every time your attention wanders and you bring it back, you have built a grain of steadiness — count that as gain, not failure.",
+          "ro": "De fiecare dată când atenția ți se rătăcește și o aduci înapoi, ai clădit un grăunte de statornicie — socotește asta ca un câștig, nu ca un eșec."
         },
         {
           "hu": "Ne várj élményt; a hagyomány szerint épp az élményvárás a leggyakoribb akadály. Ülj úgy, mint aki gyümölcsfát ültetett: a dolgod az öntözés, nem az érlelés.",
-          "en": "Expect no experience; in the tradition's view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening."
+          "en": "Expect no experience; in the tradition's view, expecting experiences is the most common obstacle. Sit like someone who has planted a fruit tree: your job is the watering, not the ripening.",
+          "ro": "Nu aștepta nicio experiență; în viziunea tradiției, așteptarea experiențelor este cel mai comun obstacol. Stai ca cineva care a plantat un pom fructifer: treaba ta este udatul, nu coacerea."
         },
         {
           "hu": "Hetek alatt, fokozatosan hosszabbíthatod az időt — lépcsőt kihagyni nem lehet, és ami erőltetve érik, az kesernyés marad.",
-          "en": "Over weeks you may lengthen the time gradually — no step can be skipped, and what ripens under force stays bitter."
+          "en": "Over weeks you may lengthen the time gradually — no step can be skipped, and what ripens under force stays bitter.",
+          "ro": "De-a lungul săptămânilor poți prelungi treptat timpul — niciun pas nu poate fi sărit, iar ce se coace sub forță rămâne amar."
         }
       ],
       "keret": {
         "hu": "A türelem itt nem tétlen várakozás, hanem egyenletes ritmus: a mindennap elvégzett kis munka olyan, mint a csepp a kövön — nem látványos, de egyedül ez hagy nyomot. Minden rövidítésnek ára van, és az ár mindig nagyobb, mint a nyereség.",
-        "en": "Patience here is not idle waiting but an even rhythm: the small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark. Every shortcut has a price, and the price is always greater than the gain."
+        "en": "Patience here is not idle waiting but an even rhythm: the small work done every day is like the drop on the stone — not spectacular, but it alone leaves a mark. Every shortcut has a price, and the price is always greater than the gain.",
+        "ro": "Răbdarea aici nu este așteptare leneșă, ci un ritm egal: munca mică făcută în fiecare zi e ca picătura pe piatră — nu e spectaculoasă, dar numai ea lasă o urmă. Orice scurtătură are un preț, iar prețul e întotdeauna mai mare decât câștigul."
       },
       "etika": {
         "hu": "A hagyomány kifejezetten óv a kikényszerített utaktól: izgatószerrel vagy szerekkel erőltetett »látás« nem fejlődés, hanem ártalom. Semmilyen szerrel ne gyorsítsd a gyakorlást.",
-        "en": "The tradition explicitly warns against forced roads: a »seeing« pushed by stimulants or substances is not development but harm. Do not speed the practice with any substance."
+        "en": "The tradition explicitly warns against forced roads: a »seeing« pushed by stimulants or substances is not development but harm. Do not speed the practice with any substance.",
+        "ro": "Tradiția avertizează explicit împotriva drumurilor forțate: o »vedere« împinsă de stimulente sau substanțe nu este dezvoltare, ci vătămare. Nu grăbi practica cu nicio substanță."
       },
       "sorszam": 2
     },
@@ -103,37 +121,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A kezdő hibáinak becsületes leltára",
-        "en": "An Honest Inventory of Beginner Mistakes"
+        "en": "An Honest Inventory of Beginner Mistakes",
+        "ro": "Un inventar cinstit al greșelilor începătorului"
       },
       "cel": {
         "hu": "Rendszeresen és önáltatás nélkül végignézni a gyakori kezdő hibák térképét — jelenséghajszolás, egyoldalúság, passzivitás, elmélet gyakorlat nélkül, fecsegés —, és megnevezni, melyik él most benned.",
-        "en": "Regularly, without self-deception, walk the map of common beginner mistakes — chasing phenomena, one-sidedness, passivity, theory without practice, chatter — and name which one is alive in you now."
+        "en": "Regularly, without self-deception, walk the map of common beginner mistakes — chasing phenomena, one-sidedness, passivity, theory without practice, chatter — and name which one is alive in you now.",
+        "ro": "Regulat, fără autoamăgire, parcurge harta greșelilor comune ale începătorului — goana după fenomene, unilateralitatea, pasivitatea, teoria fără practică, vorbăria — și numește care dintre ele e vie în tine acum."
       },
       "modszer": [
         {
           "hu": "Írd fel az öt hibát egy lapra: jelenséghajszolás; egyoldalú fejlődés; passzivitás és az akarat feladása; elmélet gyakorlat nélkül; fecsegés a gyakorlásról.",
-          "en": "Write the five mistakes on a sheet: chasing phenomena; one-sided development; passivity and surrender of the will; theory without practice; chatter about one's practice."
+          "en": "Write the five mistakes on a sheet: chasing phenomena; one-sided development; passivity and surrender of the will; theory without practice; chatter about one's practice.",
+          "ro": "Scrie cele cinci greșeli pe o foaie: goana după fenomene; dezvoltarea unilaterală; pasivitatea și renunțarea la voință; teoria fără practică; vorbăria despre propria practică."
         },
         {
           "hu": "Havonta egyszer, nyugodt órában menj végig rajtuk, és mindegyikhez idézz fel egy konkrét esetet az elmúlt hetekből — vagy állapítsd meg becsületesen, hogy most nem volt ilyen.",
-          "en": "Once a month, in a quiet hour, go through them, and for each recall one concrete instance from the past weeks — or note honestly that there was none this time."
+          "en": "Once a month, in a quiet hour, go through them, and for each recall one concrete instance from the past weeks — or note honestly that there was none this time.",
+          "ro": "O dată pe lună, într-o oră liniștită, treci prin ele și pentru fiecare amintește-ți o situație concretă din săptămânile trecute — sau notează cinstit că de data asta nu a fost niciuna."
         },
         {
           "hu": "Válaszd ki az egyetlen leghangosabbat, és fogalmazz hozzá egy apró, mérhető ellenlépést a következő hónapra (pl. egy hétig nem olvasol új könyvet, csak gyakorolsz).",
-          "en": "Pick the single loudest one and set a small, measurable counter-step for the coming month (e.g. for one week, no new books — practice only)."
+          "en": "Pick the single loudest one and set a small, measurable counter-step for the coming month (e.g. for one week, no new books — practice only).",
+          "ro": "Alege-o pe cea mai stridentă și stabilește un contrapaș mic, măsurabil pentru luna următoare (de ex. o săptămână fără cărți noi — doar practică)."
         },
         {
           "hu": "A leltárt jegyezd a naplódba dátummal; a következő átnézéskor először a múlt havi ellenlépést értékeld.",
-          "en": "Record the inventory in your diary with a date; at the next review, evaluate last month's counter-step first."
+          "en": "Record the inventory in your diary with a date; at the next review, evaluate last month's counter-step first.",
+          "ro": "Înregistrează inventarul în jurnal cu o dată; la următoarea revizuire, evaluează mai întâi contrapașul din luna trecută."
         }
       ],
       "keret": {
         "hu": "Az önvizsgálat itt nem önostorozás, hanem térképolvasás: a hibák nem szégyenfoltok, hanem a leggyakoribb elakadási pontok, amelyeken mindenki átmegy. A mérce mindig az egész ember, nem egyetlen képesség.",
-        "en": "Self-examination here is not self-flagellation but map-reading: the mistakes are not stains of shame but the most common sticking points everyone passes through. The measure is always the whole person, not a single ability."
+        "en": "Self-examination here is not self-flagellation but map-reading: the mistakes are not stains of shame but the most common sticking points everyone passes through. The measure is always the whole person, not a single ability.",
+        "ro": "Autoexaminarea aici nu este autoflagelare, ci citirea hărții: greșelile nu sunt pete de rușine, ci cele mai comune puncte de blocaj pe care le trece oricine. Măsura este întotdeauna întreaga persoană, nu o singură abilitate."
       },
       "etika": {
         "hu": "Ha a leltár rendszeresen szégyenbe, szorongásba vagy nyomott hangulatba fordul, az már nem gyakorlás, hanem teher — ilyenkor tedd félre, és beszélj szakemberrel. A becsületesség önmagunkhoz jóindulatot is jelent.",
-        "en": "If the inventory regularly turns into shame, anxiety, or low mood, it is no longer practice but a burden — set it aside then and talk to a professional. Honesty toward oneself includes kindness."
+        "en": "If the inventory regularly turns into shame, anxiety, or low mood, it is no longer practice but a burden — set it aside then and talk to a professional. Honesty toward oneself includes kindness.",
+        "ro": "Dacă inventarul se transformă regulat în rușine, anxietate sau stare proastă, nu mai e practică, ci o povară — pune-l deoparte atunci și vorbește cu un specialist. Cinstea față de sine include blândețea."
       },
       "sorszam": 3
     },
@@ -145,37 +171,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "A negyedik pillér — hallgatni a gyakorlásról",
-        "en": "The Fourth Pillar — Keeping Silence About Your Practice"
+        "en": "The Fourth Pillar — Keeping Silence About Your Practice",
+        "ro": "Al patrulea stâlp — Păstrarea tăcerii despre practica ta"
       },
       "cel": {
         "hu": "Begyakorolni a négy pillér legnehezebbikét: nem beszélni a gyakorlásról fűnek-fának — mert a fecsegés szétszórja, amit a csend gyűjtött, és hiúságot nevel oda, ahol józanságra volna szükség.",
-        "en": "Train the hardest of the four pillars: not talking about your practice to everyone — because chatter scatters what silence gathered, and grows vanity where sobriety is needed."
+        "en": "Train the hardest of the four pillars: not talking about your practice to everyone — because chatter scatters what silence gathered, and grows vanity where sobriety is needed.",
+        "ro": "Antrenează cel mai greu dintre cei patru stâlpi: a nu vorbi despre practica ta cu oricine — pentru că vorbăria risipește ce a adunat tăcerea și crește vanitatea acolo unde e nevoie de sobrietate."
       },
       "modszer": [
         {
           "hu": "Fogadj meg egy meghatározott időszakot — például negyven napot —, amely alatt a gyakorlásodról nem beszélsz, nem posztolsz és nem vitázol.",
-          "en": "Commit to a defined period — forty days, for example — during which you do not talk about, post about, or debate your practice."
+          "en": "Commit to a defined period — forty days, for example — during which you do not talk about, post about, or debate your practice.",
+          "ro": "Angajează-te pentru o perioadă definită — patruzeci de zile, de exemplu — în care nu vorbești, nu postezi și nu dezbați despre practica ta."
         },
         {
           "hu": "Amikor feltör a késztetés, hogy elmeséld vagy megvédd, ne fojtsd el némán: írd le a naplódba, mit mondtál volna, és nézd meg, mi volt mögötte — lelkesedés, magány, dicsekvés, bizonyításvágy.",
-          "en": "When the urge rises to tell or defend it, do not merely suppress it: write in your diary what you would have said, and look at what was underneath — enthusiasm, loneliness, boasting, the need to prove."
+          "en": "When the urge rises to tell or defend it, do not merely suppress it: write in your diary what you would have said, and look at what was underneath — enthusiasm, loneliness, boasting, the need to prove.",
+          "ro": "Când apare impulsul de a spune sau de a o apăra, nu-l doar reprima: scrie în jurnal ce ai fi spus și privește ce era dedesubt — entuziasm, singurătate, lăudăroșenie, nevoia de a dovedi."
         },
         {
           "hu": "Jelölj ki legfeljebb egy-két embert — tanítót vagy régi gyakorlótársat —, akivel tárgyszerűen beszélhetsz, ha valódi kérdésed van; a csend nem elszigetelődés.",
-          "en": "Designate at most one or two people — a teacher or an old fellow practitioner — with whom you may speak matter-of-factly when you have a real question; silence is not isolation."
+          "en": "Designate at most one or two people — a teacher or an old fellow practitioner — with whom you may speak matter-of-factly when you have a real question; silence is not isolation.",
+          "ro": "Desemnează cel mult una sau două persoane — un învățător sau un vechi coleg de practică — cu care poți vorbi pe șleau când ai o întrebare reală; tăcerea nu e izolare."
         },
         {
           "hu": "Az időszak végén olvasd vissza a feljegyzéseket, és nézd meg, mit tett a csend a gyakorlásod komolyságával és a hiúságoddal.",
-          "en": "At the end of the period, reread the notes and see what the silence did to the seriousness of your practice and to your vanity."
+          "en": "At the end of the period, reread the notes and see what the silence did to the seriousness of your practice and to your vanity.",
+          "ro": "La sfârșitul perioadei, recitește notele și vezi ce a făcut tăcerea cu seriozitatea practicii tale și cu vanitatea ta."
         }
       ],
       "keret": {
         "hu": "Tudni, merni, akarni, hallgatni — a hagyomány szerint a negyedik pillér őrzi az erőt és a józanságot. A csend itt nem titkolózás vagy szégyen, hanem munkavédelem: ami érik, azt nem tesszük ki naponta a piacra.",
-        "en": "To know, to dare, to will, to keep silent — in the tradition's view the fourth pillar guards both power and sobriety. Silence here is not secrecy or shame but protection of the work: what is ripening is not laid out daily at the market."
+        "en": "To know, to dare, to will, to keep silent — in the tradition's view the fourth pillar guards both power and sobriety. Silence here is not secrecy or shame but protection of the work: what is ripening is not laid out daily at the market.",
+        "ro": "A ști, a îndrăzni, a voi, a tăcea — în viziunea tradiției, al patrulea stâlp păzește atât puterea, cât și sobrietatea. Tăcerea aici nu e secretomanie sau rușine, ci protecție a lucrării: ceea ce se coace nu se așază zilnic la tarabă."
       },
       "etika": {
         "hu": "A csend fegyelme soha nem jelentheti azt, hogy elhallgatsz olyasmit, ami neked vagy másnak árt. Ha a gyakorlás körül félelem, függés vagy ijesztő élmény jelenik meg, arról beszélj — szeretteiddel és szükség esetén szakemberrel.",
-        "en": "The discipline of silence never means concealing what harms you or another. If fear, dependence, or frightening experiences appear around the practice, speak about them — with those who love you, and with a professional if needed."
+        "en": "The discipline of silence never means concealing what harms you or another. If fear, dependence, or frightening experiences appear around the practice, speak about them — with those who love you, and with a professional if needed.",
+        "ro": "Disciplina tăcerii nu înseamnă niciodată să ascunzi ceea ce te vatămă pe tine sau pe altul. Dacă apar frică, dependență sau experiențe înspăimântătoare în jurul practicii, vorbește despre ele — cu cei care te iubesc și cu un profesionist, dacă e nevoie."
       },
       "sorszam": 4
     },
@@ -187,41 +221,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "A saját mérleg — tanítók és jelenségek megkülönböztetése",
-        "en": "Your Own Scale — Discerning Teachers and Phenomena"
+        "en": "Your Own Scale — Discerning Teachers and Phenomena",
+        "ro": "Propria ta balanță — discernerea învățătorilor și a fenomenelor"
       },
       "cel": {
         "hu": "Élő gyakorlattá tenni az út legfontosabb kerítését: semmilyen tanító, cím, hagyomány vagy jelenség nem írhatja felül a saját lelkiismeretedet — minden tanítást és élményt ugyanazon a mérlegen mérsz.",
-        "en": "Make the path's most important fence a living practice: no teacher, title, tradition, or phenomenon may override your own conscience — you weigh every teaching and experience on the same scale."
+        "en": "Make the path's most important fence a living practice: no teacher, title, tradition, or phenomenon may override your own conscience — you weigh every teaching and experience on the same scale.",
+        "ro": "Fă din cel mai important gard al căii o practică vie: niciun învățător, titlu, tradiție sau fenomen nu poate trece peste propria ta conștiință — cântărești fiecare învățătură și experiență pe aceeași balanță."
       },
       "modszer": [
         {
           "hu": "Amikor új tanítás, tanító vagy szokatlan élmény kerül eléd, ne dönts azonnal: adj magadnak legalább egy éjszakát, és jegyezd fel tárgyilagosan, mi történt és mit ígér.",
-          "en": "When a new teaching, teacher, or unusual experience comes before you, do not decide at once: give yourself at least one night, and note factually what happened and what it promises."
+          "en": "When a new teaching, teacher, or unusual experience comes before you, do not decide at once: give yourself at least one night, and note factually what happened and what it promises.",
+          "ro": "Când o învățătură nouă, un învățător sau o experiență neobișnuită îți stă înainte, nu decide pe loc: dă-ți măcar o noapte și notează faptic ce s-a întâmplat și ce promite."
         },
         {
           "hu": "Tedd fel a mérleg három kérdését: alázatosabbá tesz-e, szabadabbá tesz-e, felelősebbé tesz-e? Ami függést, félelmet vagy gőgöt épít, attól fordulj el — akárki mondja.",
-          "en": "Ask the scale's three questions: does it make me humbler, freer, more responsible? Whatever builds dependence, fear, or pride, turn away from — whoever says it."
+          "en": "Ask the scale's three questions: does it make me humbler, freer, more responsible? Whatever builds dependence, fear, or pride, turn away from — whoever says it.",
+          "ro": "Pune cele trei întrebări ale balanței: mă face mai smerit, mai liber, mai responsabil? De orice construiește dependență, frică sau mândrie, întoarce-te — oricine ar spune-o."
         },
         {
           "hu": "Nézd az árazást és a tempót: a valódi vezető sosem kér vak engedelmességet, sosem árusít kegyelmet vagy gyorsított beavatást, és sosem szigetel el azoktól, akik szeretnek. Ami hangos, sürgető és fizetős, az már ezzel elárulta magát.",
-          "en": "Watch the pricing and the pace: a genuine guide never asks for blind obedience, never sells grace or accelerated initiation, and never isolates you from those who love you. Whatever is loud, urgent, and priced has already betrayed itself."
+          "en": "Watch the pricing and the pace: a genuine guide never asks for blind obedience, never sells grace or accelerated initiation, and never isolates you from those who love you. Whatever is loud, urgent, and priced has already betrayed itself.",
+          "ro": "Urmărește prețurile și ritmul: un ghid autentic nu cere niciodată supunere oarbă, nu vinde har sau inițiere accelerată și nu te izolează de cei care te iubesc. Orice e zgomotos, urgent și cu preț s-a trădat deja pe sine."
         },
         {
           "hu": "Emlékezz a hagyomány saját határkövére: a tanító fényt gyújthat és utat mutathat, de a jellem átformálása átruházhatatlanul a tiéd. Aki többet ígér, többet ígér, mint amit bárki adhat.",
-          "en": "Remember the tradition's own boundary stone: a teacher may kindle light and point out the way, but the remaking of character is untransferably yours. Whoever promises more is promising more than anyone can give."
+          "en": "Remember the tradition's own boundary stone: a teacher may kindle light and point out the way, but the remaking of character is untransferably yours. Whoever promises more is promising more than anyone can give.",
+          "ro": "Ține minte piatra de hotar a tradiției: un învățător poate aprinde lumina și arăta calea, dar refacerea caracterului îți aparține nedelegabil. Cine promite mai mult promite mai mult decât poate da oricine."
         },
         {
           "hu": "A döntésedet és indokaidat írd le; fél év múlva olvasd vissza, és ellenőrizd a gyümölcsökön, jól mért-e a mérleged.",
-          "en": "Write down your decision and your reasons; reread them in half a year and check against the fruits whether your scale weighed well."
+          "en": "Write down your decision and your reasons; reread them in half a year and check against the fruits whether your scale weighed well.",
+          "ro": "Notează-ți decizia și motivele; recitește-le peste o jumătate de an și verifică după roade dacă balanța ta a cântărit bine."
         }
       ],
       "keret": {
         "hu": "Ez a kerítés nem alku tárgya, és önmagára is vonatkozik: ez a gyakorlat és ez a gyűjtemény sem áll a lelkiismereted fölött. A megkülönböztetés nem gyanakvás, hanem felnőtt felelősség — a mérce mindig a belső gyümölcs.",
-        "en": "This fence is not negotiable, and it applies to itself: this practice and this collection do not stand above your conscience either. Discernment is not suspicion but adult responsibility — the measure is always the inner fruit."
+        "en": "This fence is not negotiable, and it applies to itself: this practice and this collection do not stand above your conscience either. Discernment is not suspicion but adult responsibility — the measure is always the inner fruit.",
+        "ro": "Acest gard nu e negociabil și se aplică și sieși: nici această practică și nici această culegere nu stau deasupra conștiinței tale. Discernământul nu e suspiciune, ci responsabilitate adultă — măsura e întotdeauna rodul lăuntric."
       },
       "etika": {
         "hu": "Ha egy tanító vagy csoport pénzügyi, testi vagy lelki függésbe von, az elszigetelésre vagy titoktartásra kényszerít, az nem szellemi út, hanem visszaélés — lépj ki, és kérj segítséget. Aki gyógyulást ígér ellátás helyett, azzal szemben pontosan ezt a leckét alkalmazd.",
-        "en": "If a teacher or group draws you into financial, bodily, or emotional dependence, or forces isolation or secrecy, that is not a spiritual path but abuse — leave, and ask for help. Toward anyone promising healing in place of care, apply precisely this lesson."
+        "en": "If a teacher or group draws you into financial, bodily, or emotional dependence, or forces isolation or secrecy, that is not a spiritual path but abuse — leave, and ask for help. Toward anyone promising healing in place of care, apply precisely this lesson.",
+        "ro": "Dacă un învățător sau un grup te atrage în dependență financiară, trupească sau emoțională, ori te forțează la izolare sau secret, asta nu e o cale spirituală, ci abuz — pleacă și cere ajutor. Față de oricine promite vindecare în loc de îngrijire, aplică tocmai această lecție."
       },
       "sorszam": 5
     },
@@ -233,37 +276,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Egy fény, egy árnyék — a napi introspekció",
-        "en": "One Light, One Shadow — the Daily Introspection"
+        "en": "One Light, One Shadow — the Daily Introspection",
+        "ro": "O lumină, o umbră — introspecția zilnică"
       },
       "cel": {
         "hu": "Az önvizsgálatot egyszeri leltárból életformává tenni: minden nap egyetlen fény és egyetlen árnyék feljegyzésével tartani a kapcsolatot a saját jellemeddel — mert az alap a jellem kiegyensúlyozása, nem a képességek gyűjtése.",
-        "en": "Turn self-examination from a one-time inventory into a way of life: keep contact with your own character by noting one light and one shadow every day — for the foundation is the balancing of character, not the collecting of abilities."
+        "en": "Turn self-examination from a one-time inventory into a way of life: keep contact with your own character by noting one light and one shadow every day — for the foundation is the balancing of character, not the collecting of abilities.",
+        "ro": "Transformă autoexaminarea dintr-un inventar de o singură dată într-un mod de viață: păstrează legătura cu propriul caracter notând în fiecare zi o lumină și o umbră — căci temelia e echilibrarea caracterului, nu strângerea de abilități."
       },
       "modszer": [
         {
           "hu": "Reggel fogalmazz meg egyetlen világos szándékot a napra — egy mondat, nem lista.",
-          "en": "In the morning, set one clear intention for the day — one sentence, not a list."
+          "en": "In the morning, set one clear intention for the day — one sentence, not a list.",
+          "ro": "Dimineața, stabilește o intenție clară pentru zi — o propoziție, nu o listă."
         },
         {
           "hu": "Este, lefekvés előtt jegyezz fel egy fényt (ahol ma helytálltál) és egy árnyékot (ahol ma elbuktál vagy elkerülted a munkát) — mindkettőt tényszerűen, magyarázkodás nélkül.",
-          "en": "In the evening, before bed, note one light (where you stood your ground today) and one shadow (where you failed or dodged the work today) — both factually, without excuses."
+          "en": "In the evening, before bed, note one light (where you stood your ground today) and one shadow (where you failed or dodged the work today) — both factually, without excuses.",
+          "ro": "Seara, înainte de culcare, notează o lumină (unde ți-ai ținut poziția azi) și o umbră (unde ai eșuat sau ai ocolit lucrarea azi) — pe amândouă faptic, fără scuze."
         },
         {
           "hu": "Az árnyékhoz ne írj azonnal fogadalmat; elég, hogy néven nevezted. A minták hetek alatt maguktól kirajzolódnak a naplóban.",
-          "en": "Do not attach an instant vow to the shadow; naming it is enough. Over weeks the patterns draw themselves out in the diary."
+          "en": "Do not attach an instant vow to the shadow; naming it is enough. Over weeks the patterns draw themselves out in the diary.",
+          "ro": "Nu lega de umbră un jurământ de moment; a o numi e de ajuns. De-a lungul săptămânilor, tiparele se desenează singure în jurnal."
         },
         {
           "hu": "Zárd a napot köszönettel — egy mondat arról, ami ma megtartott.",
-          "en": "Close the day with gratitude — one sentence about what carried you today."
+          "en": "Close the day with gratitude — one sentence about what carried you today.",
+          "ro": "Închide ziua cu recunoștință — o propoziție despre ce te-a purtat azi."
         }
       ],
       "keret": {
         "hu": "A napló itt nem díszlet, hanem műszer: ami nincs leírva, az elmosódik. A hagyomány nyelvén ez az elemek egyensúlyának munkája; a hétköznapok nyelvén: ismerd az indulataidat, szokásaidat, gyengéidet, és dolgozz rajtuk naponta.",
-        "en": "The diary is not decoration here but an instrument: what is not written down blurs away. In the tradition's language this is the work of balancing the elements; in everyday language: know your impulses, habits, and weaknesses, and work on them daily."
+        "en": "The diary is not decoration here but an instrument: what is not written down blurs away. In the tradition's language this is the work of balancing the elements; in everyday language: know your impulses, habits, and weaknesses, and work on them daily.",
+        "ro": "Jurnalul nu e aici decorație, ci instrument: ce nu e scris se estompează. În limbajul tradiției, aceasta e lucrarea de echilibrare a elementelor; în limbajul de zi cu zi: cunoaște-ți impulsurile, obiceiurile și slăbiciunile și lucrează la ele zilnic."
       },
       "etika": {
         "hu": "A fény feljegyzése ugyanolyan kötelező, mint az árnyéké — az introspekció célja az egyensúly, nem az önvád. Tartós nyomott hangulat vagy szorongás esetén a napló nem elég: fordulj szakemberhez.",
-        "en": "Recording the light is as obligatory as recording the shadow — the aim of introspection is balance, not self-accusation. In persistent low mood or anxiety the diary is not enough: see a professional."
+        "en": "Recording the light is as obligatory as recording the shadow — the aim of introspection is balance, not self-accusation. In persistent low mood or anxiety the diary is not enough: see a professional.",
+        "ro": "Notarea luminii e la fel de obligatorie ca notarea umbrei — scopul introspecției e echilibrul, nu autoacuzarea. În stare de spirit scăzută persistentă sau anxietate, jurnalul nu e de ajuns: vezi un profesionist."
       },
       "sorszam": 6
     },
@@ -274,33 +325,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Csepp a kövön — az egyenletes tempó heti szemléje",
-        "en": "The Drop on the Stone — a Weekly Review of Even Pace"
+        "en": "The Drop on the Stone — a Weekly Review of Even Pace",
+        "ro": "Picătura pe piatră — o revizuire săptămânală a ritmului egal"
       },
       "cel": {
         "hu": "Hetente egyszer felülről ránézni a gyakorlásra: tartod-e az egyenletes ritmust, nem hajszolsz-e rövidítést vagy látványt — és a következő hetet a valós állapotodhoz, nem a becsvágyadhoz igazítani.",
-        "en": "Once a week, look at the practice from above: are you keeping the even rhythm, are you chasing no shortcut or spectacle — and set the coming week to your real state, not to your ambition."
+        "en": "Once a week, look at the practice from above: are you keeping the even rhythm, are you chasing no shortcut or spectacle — and set the coming week to your real state, not to your ambition.",
+        "ro": "O dată pe săptămână, privește practica de deasupra: ții ritmul egal, nu alergi după scurtături sau spectacol — și așază săptămâna care vine pe starea ta reală, nu pe ambiție."
       },
       "modszer": [
         {
           "hu": "Válassz egy állandó heti időpontot, és olvasd végig a hét naplóbejegyzéseit — előbb csak olvasd, ítélet nélkül.",
-          "en": "Choose a fixed weekly time and read through the week's diary entries — first just read, without judgement."
+          "en": "Choose a fixed weekly time and read through the week's diary entries — first just read, without judgement.",
+          "ro": "Alege un moment fix săptămânal și citește însemnările din jurnalul săptămânii — mai întâi doar citește, fără judecată."
         },
         {
           "hu": "Számold össze tényszerűen: hány napon gyakoroltál, hol szakadt meg a ritmus, és mi előzte meg a kihagyást.",
-          "en": "Count factually: on how many days you practised, where the rhythm broke, and what preceded the missed day."
+          "en": "Count factually: on how many days you practised, where the rhythm broke, and what preceded the missed day.",
+          "ro": "Numără faptic: în câte zile ai practicat, unde s-a rupt ritmul și ce a precedat ziua ratată."
         },
         {
           "hu": "Tedd fel a türelmetlenség-kérdést: kerestem-e a héten rövidítést, élményt, gyorsabb fokozatot — és mi volt mögötte?",
-          "en": "Ask the impatience question: did I look this week for a shortcut, an experience, a faster grade — and what was underneath it?"
+          "en": "Ask the impatience question: did I look this week for a shortcut, an experience, a faster grade — and what was underneath it?",
+          "ro": "Pune întrebarea nerăbdării: am căutat săptămâna asta o scurtătură, o experiență, un grad mai rapid — și ce era dedesubt?"
         },
         {
           "hu": "A következő hétre egyetlen dolgot állíts be: vagy tartod a jelenlegi adagot, vagy egy hajszálnyit igazítasz rajta. Soha ne duplázz lelkesedésből — a fokozat kihagyása mindig visszaüt.",
-          "en": "Set one single thing for the coming week: either keep the current dose or adjust it by a hair. Never double out of enthusiasm — skipping a step always strikes back."
+          "en": "Set one single thing for the coming week: either keep the current dose or adjust it by a hair. Never double out of enthusiasm — skipping a step always strikes back.",
+          "ro": "Stabilește un singur lucru pentru săptămâna care vine: ori păstrezi doza actuală, ori o ajustezi cu un fir de păr. Nu dubla niciodată din entuziasm — sărirea unui pas se întoarce întotdeauna împotriva ta."
         }
       ],
       "keret": {
         "hu": "A fejlődés a hagyomány szerint úgy érik, mint a gyümölcs: ami erőltetve, idő előtt szakad le, éretlen és kesernyés. A heti szemle nem teljesítményértékelés, hanem kertészmunka — az öntözés ritmusát ellenőrzöd, nem az érés sebességét.",
-        "en": "Development, the tradition says, ripens like fruit: what is torn off early, by force, is unripe and bitter. The weekly review is not a performance appraisal but gardener's work — you check the rhythm of the watering, not the speed of the ripening."
+        "en": "Development, the tradition says, ripens like fruit: what is torn off early, by force, is unripe and bitter. The weekly review is not a performance appraisal but gardener's work — you check the rhythm of the watering, not the speed of the ripening.",
+        "ro": "Dezvoltarea, spune tradiția, se coace ca fructul: ce e smuls devreme, cu forța, e necopt și amar. Revizuirea săptămânală nu e o evaluare a performanței, ci munca grădinarului — verifici ritmul udării, nu viteza coacerii."
       },
       "sorszam": 7
     },
@@ -312,37 +370,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "A test mint hordozó — ritmus, étel, alvás",
-        "en": "The Body as Carrier — Rhythm, Food, Sleep"
+        "en": "The Body as Carrier — Rhythm, Food, Sleep",
+        "ro": "Corpul ca purtător — ritm, hrană, somn"
       },
       "cel": {
         "hu": "A gyakorlás valódi alapozását a hétköznapokban lerakni: rendszeres életritmus, mértékletes és változatos étkezés, elegendő alvás — mert a test nem akadály, hanem a munka hordozója.",
-        "en": "Lay the real groundwork of practice in everyday life: a regular rhythm, moderate and varied eating, enough sleep — for the body is not an obstacle but the carrier of the work."
+        "en": "Lay the real groundwork of practice in everyday life: a regular rhythm, moderate and varied eating, enough sleep — for the body is not an obstacle but the carrier of the work.",
+        "ro": "Așază temelia reală a practicii în viața de zi cu zi: un ritm regulat, o alimentație moderată și variată, somn suficient — căci corpul nu e un obstacol, ci purtătorul lucrării."
       },
       "modszer": [
         {
           "hu": "Rögzíts egy hétre három sarokpontot: nagyjából állandó lefekvési időt, nagyjából állandó étkezési időket, és a napi gyakorlat állandó helyét a napirendben.",
-          "en": "For one week, fix three anchor points: a roughly constant bedtime, roughly constant mealtimes, and a fixed place in the day for the daily exercise."
+          "en": "For one week, fix three anchor points: a roughly constant bedtime, roughly constant mealtimes, and a fixed place in the day for the daily exercise.",
+          "ro": "Timp de o săptămână, stabilește trei puncte de ancoră: o oră de culcare aproximativ constantă, ore de masă aproximativ constante și un loc fix în zi pentru exercițiul zilnic."
         },
         {
           "hu": "Egyél mértékkel és változatosan; ne kövess szélsőséges megvonást a gyakorlás nevében — a hagyomány mércéje itt is a harmónia, nem az önsanyargatás.",
-          "en": "Eat with moderation and variety; follow no extreme deprivation in the name of practice — here too the tradition's measure is harmony, not mortification."
+          "en": "Eat with moderation and variety; follow no extreme deprivation in the name of practice — here too the tradition's measure is harmony, not mortification.",
+          "ro": "Mănâncă cu moderație și varietate; nu urma nicio privațiune extremă în numele practicii — și aici măsura tradiției este armonia, nu mortificarea."
         },
         {
           "hu": "Este jegyezd fel egyetlen sorban, hogyan szolgált ma a test: alvás, étel, mozgás — és hogyan hatott ez a figyelmedre az ülés alatt.",
-          "en": "In the evening, note in a single line how the body served today — sleep, food, movement — and how that affected your attention during the sit."
+          "en": "In the evening, note in a single line how the body served today — sleep, food, movement — and how that affected your attention during the sit.",
+          "ro": "Seara, notează într-un singur rând cum ți-a slujit corpul azi — somn, mâncare, mișcare — și cum a afectat asta atenția ta în timpul ședinței."
         },
         {
           "hu": "A hét végén nézd meg az összefüggéseket, és a következő hétre egyetlen apró kiigazítást válassz — a ritmus lassan épül, ahogy minden más is ezen az úton.",
-          "en": "At the week's end, look at the correlations and choose one small adjustment for the next week — rhythm builds slowly, like everything else on this path."
+          "en": "At the week's end, look at the correlations and choose one small adjustment for the next week — rhythm builds slowly, like everything else on this path.",
+          "ro": "La sfârșitul săptămânii, privește corelațiile și alege o mică ajustare pentru săptămâna următoare — ritmul se construiește încet, ca tot ce e pe această cale."
         }
       ],
       "keret": {
         "hu": "A hagyomány a testről a maga korának térképén beszél — elemek, fluidumok, harmónia. Ami ebből ma is arany: a rendszeres élet a gyakorlás valódi alapozása. Ez a gyakorlat életrend, nem gyógymód.",
-        "en": "The tradition speaks of the body on the map of its own era — elements, fluids, harmony. What remains gold in it today: a regular life is the real groundwork of practice. This practice is a daily order, not a cure."
+        "en": "The tradition speaks of the body on the map of its own era — elements, fluids, harmony. What remains gold in it today: a regular life is the real groundwork of practice. This practice is a daily order, not a cure.",
+        "ro": "Tradiția vorbește despre corp pe harta epocii sale — elemente, fluide, armonie. Ce rămâne aur în ea astăzi: o viață regulată este adevărata temelie a practicii. Această practică este o rânduială zilnică, nu un leac."
       },
       "etika": {
         "hu": "Ez a kerítés szilárd és nem mozdul: a szellemi gyakorlás soha nem helyettesíti az orvosi vagy pszichológiai ellátást. Ha beteg vagy, orvoshoz fordulsz; ha a lelked szenved, szakemberhez — és ez nem az út kudarca, hanem a józanság győzelme. Aki az ellenkezőjét állítja, azzal szemben a megkülönböztetés leckéjét alkalmazd.",
-        "en": "This fence is firm and does not move: spiritual practice never replaces medical or psychological care. If you are ill, you see a doctor; if your soul is suffering, a professional — and that is not the path failing but sobriety winning. Toward anyone claiming otherwise, apply the lesson of discernment."
+        "en": "This fence is firm and does not move: spiritual practice never replaces medical or psychological care. If you are ill, you see a doctor; if your soul is suffering, a professional — and that is not the path failing but sobriety winning. Toward anyone claiming otherwise, apply the lesson of discernment.",
+        "ro": "Acest gard este ferm și nu se mișcă: practica spirituală nu înlocuiește niciodată îngrijirea medicală sau psihologică. Dacă ești bolnav, mergi la doctor; dacă sufletul tău suferă, la un profesionist — și asta nu e calea care eșuează, ci sobrietatea care învinge. Față de oricine pretinde altfel, aplică lecția discernământului."
       },
       "sorszam": 8
     }

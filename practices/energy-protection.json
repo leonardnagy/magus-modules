@@ -3,7 +3,8 @@
   "id": "practice-pack-energy-protection",
   "nevek": {
     "hu": "Energiavédelem — gyakorlatok",
-    "en": "Energy Protection — practices"
+    "en": "Energy Protection — practices",
+    "ro": "Protecția energetică — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Fold",
       "cim": {
         "hu": "Földelés — talp, súly, gyökér",
-        "en": "Grounding — soles, weight, root"
+        "en": "Grounding — soles, weight, root",
+        "ro": "Împământare — tălpi, greutate, rădăcină"
       },
       "cel": {
         "hu": "Megtanulni a védelem-munka legjózanabb alapmozdulatát: a figyelem visszahívását a testbe és az érzékekbe — talp, testsúly, jelen.",
-        "en": "To learn the most sober basic movement of protection work: calling attention back into the body and the senses — soles, weight, presence."
+        "en": "To learn the most sober basic movement of protection work: calling attention back into the body and the senses — soles, weight, presence.",
+        "ro": "Să înveți mișcarea de bază cea mai trează a lucrului de protecție: a-ți chema atenția înapoi în corp și în simțuri — tălpi, greutate, prezență."
       },
       "modszer": [
         {
           "hu": "Állj vagy ülj úgy, hogy a talpad teljes felületével éri a talajt — cipő nélkül, ha teheted.",
-          "en": "Stand or sit so that your soles meet the ground with their whole surface — without shoes, if you can."
+          "en": "Stand or sit so that your soles meet the ground with their whole surface — without shoes, if you can.",
+          "ro": "Stai în picioare sau așezat astfel încât tălpile să întâlnească pământul pe toată suprafața — fără pantofi, dacă poți."
         },
         {
           "hu": "Érezd a talp és a talaj találkozását: nyomás, hő, textúra.",
-          "en": "Feel the meeting of sole and ground: pressure, warmth, texture."
+          "en": "Feel the meeting of sole and ground: pressure, warmth, texture.",
+          "ro": "Simte întâlnirea dintre talpă și pământ: presiune, căldură, textură."
         },
         {
           "hu": "Engedd, hogy a testsúlyod a csontokon át a földnek adja magát — nem te tartod magad, a föld tart téged.",
-          "en": "Let your weight give itself to the earth through the bones — you are not holding yourself up, the earth is holding you."
+          "en": "Let your weight give itself to the earth through the bones — you are not holding yourself up, the earth is holding you.",
+          "ro": "Lasă-ți greutatea să se dăruiască pământului prin oase — nu te ții tu pe tine, pământul te ține pe tine."
         },
         {
           "hu": "Ha segít, hívd a hagyomány gyökér-képét: a talpadból gyökerek nyúlnak a mélybe, és minden kilégzéssel mélyebbre érnek.",
-          "en": "If it helps, call the tradition's root image: roots reach down from your soles, and with every out-breath they reach deeper."
+          "en": "If it helps, call the tradition's root image: roots reach down from your soles, and with every out-breath they reach deeper.",
+          "ro": "Dacă te ajută, cheamă imaginea rădăcinii din tradiție: rădăcini coboară din tălpi, și cu fiecare expirație ajung mai adânc."
         },
         {
           "hu": "Nyisd ki az érzékeid: nevezz meg három dolgot, amit látsz, kettőt, amit hallasz, egyet, amit a bőrödön érzel.",
-          "en": "Open your senses: name three things you see, two you hear, one you feel on your skin."
+          "en": "Open your senses: name three things you see, two you hear, one you feel on your skin.",
+          "ro": "Deschide-ți simțurile: numește trei lucruri pe care le vezi, două pe care le auzi, unul pe care îl simți pe piele."
         },
         {
           "hu": "Zárásként egy mély lélegzet — és nézd meg: lassult-e a légzés, engedett-e a váll.",
-          "en": "Close with one deep breath — and check: has the breath slowed, has the shoulder dropped."
+          "en": "Close with one deep breath — and check: has the breath slowed, has the shoulder dropped.",
+          "ro": "Încheie cu o respirație adâncă — și verifică: s-a încetinit respirația, a coborât umărul."
         }
       ],
       "keret": {
         "hu": "A földelés a védelem-tanítások legjózanabb eleme: rokona az érzékszervi jelen-lét gyakorlatoknak, és hatása azonnal, hit nélkül ellenőrizhető. Minden további védelem-gyakorlat ezzel nyit és zár.",
-        "en": "Grounding is the most sober element of the protection teachings: a close cousin of sensory presence exercises, and its effect can be checked at once, without belief. Every further protection practice opens and closes with it."
+        "en": "Grounding is the most sober element of the protection teachings: a close cousin of sensory presence exercises, and its effect can be checked at once, without belief. Every further protection practice opens and closes with it.",
+        "ro": "Împământarea este elementul cel mai treaz al învățăturilor de protecție: o rudă apropiată a exercițiilor de prezență senzorială, iar efectul ei poate fi verificat pe loc, fără credință. Orice practică ulterioară de protecție se deschide și se închide cu ea."
       },
       "sorszam": 1
     },
@@ -60,41 +70,50 @@
       "sik": "test",
       "cim": {
         "hu": "Az alap-pajzs — alvás, mozgás, kimondott nem",
-        "en": "The base shield — sleep, movement, a spoken no"
+        "en": "The base shield — sleep, movement, a spoken no",
+        "ro": "Scutul de bază — somn, mișcare, un nu rostit"
       },
       "cel": {
         "hu": "A védelem valódi alapjának tudatos gondozása: kipihent idegrendszer, mozgásban tartott test és naponta legalább egy őszintén kimondott határ.",
-        "en": "To consciously tend the real foundation of protection: a rested nervous system, a body kept in motion, and at least one honestly spoken boundary a day."
+        "en": "To consciously tend the real foundation of protection: a rested nervous system, a body kept in motion, and at least one honestly spoken boundary a day.",
+        "ro": "Să îngrijești conștient temelia reală a protecției: un sistem nervos odihnit, un corp ținut în mișcare și cel puțin o limită rostită sincer pe zi."
       },
       "modszer": [
         {
           "hu": "Este jegyezd fel, hány órát aludtál, és tarts elalvás előtt fél óra képernyő-csendet.",
-          "en": "In the evening note how many hours you slept, and keep half an hour of screen silence before falling asleep."
+          "en": "In the evening note how many hours you slept, and keep half an hour of screen silence before falling asleep.",
+          "ro": "Seara notează câte ore ai dormit și păstrează o jumătate de oră de liniște de ecran înainte de a adormi."
         },
         {
           "hu": "Iktass a napba legalább húsz perc mozgást — séta, nyújtás, bármi, ami a testet átmozgatja.",
-          "en": "Fit at least twenty minutes of movement into the day — walking, stretching, anything that moves the body through."
+          "en": "Fit at least twenty minutes of movement into the day — walking, stretching, anything that moves the body through.",
+          "ro": "Încadrează cel puțin douăzeci de minute de mișcare în zi — mers, întindere, orice care pune corpul în mișcare."
         },
         {
           "hu": "Keress naponta egy kis helyzetet, ahol őszintén kimondhatsz egy határt: „ezt most nem vállalom\", „erre később térjünk vissza\".",
-          "en": "Find one small situation a day where you can honestly speak a boundary: 'I am not taking this on now', 'let us come back to this later'."
+          "en": "Find one small situation a day where you can honestly speak a boundary: 'I am not taking this on now', 'let us come back to this later'.",
+          "ro": "Găsește o situație mică pe zi în care poți rosti sincer o limită: «Nu preiau asta acum», «hai să revenim la asta mai târziu»."
         },
         {
           "hu": "Este a naplóban jelöld: alvás, mozgás, kimondott nem — mi volt meg a háromból.",
-          "en": "In the evening mark in the journal: sleep, movement, a spoken no — which of the three you had."
+          "en": "In the evening mark in the journal: sleep, movement, a spoken no — which of the three you had.",
+          "ro": "Seara marchează în jurnal: somn, mișcare, un nu rostit — pe care dintre cele trei le-ai avut."
         },
         {
           "hu": "Hét végén olvasd vissza a hetet, és figyeld meg: a jól alvós, mozgásos napokon mennyivel kevesebb „rossz energiát\" észleltél.",
-          "en": "At the week's end read the week back and notice: on well-slept, well-moved days, how much less 'bad energy' you perceived."
+          "en": "At the week's end read the week back and notice: on well-slept, well-moved days, how much less 'bad energy' you perceived.",
+          "ro": "La sfârșitul săptămânii recitește săptămâna și observă: în zilele bine dormite, bine mișcate, cât de puțină «energie rea» ai perceput."
         }
       ],
       "keret": {
         "hu": "Ez a modul legkevésbé látványos és legerősebb gyakorlata: a legjobb védelem a stabil idegrendszer és a kimondott határ. A burok, a tisztítás és az oldás mind ennek gyakorlóterepe — nem helyettesítője.",
-        "en": "This is the module's least spectacular and strongest practice: the best protection is a stable nervous system and a spoken boundary. The shell, the cleansing and the release are all its training ground — not its substitute."
+        "en": "This is the module's least spectacular and strongest practice: the best protection is a stable nervous system and a spoken boundary. The shell, the cleansing and the release are all its training ground — not its substitute.",
+        "ro": "Aceasta este practica cea mai puțin spectaculoasă și cea mai puternică a modulului: cea mai bună protecție este un sistem nervos stabil și o limită rostită. Cochilia, curățarea și eliberarea sunt toate terenul ei de antrenament — nu înlocuitorul ei."
       },
       "etika": {
         "hu": "Tartós alvászavar, kimerültség vagy nyomott hangulat esetén fordulj orvoshoz — a gyakorlat nem kezelés, és a szükséges ellátást nem helyettesíti.",
-        "en": "With persistent sleep problems, exhaustion or low mood, see a doctor — the practice is not treatment, and it does not replace needed care."
+        "en": "With persistent sleep problems, exhaustion or low mood, see a doctor — the practice is not treatment, and it does not replace needed care.",
+        "ro": "La probleme persistente de somn, epuizare sau stare proastă, consultă un medic — practica nu este tratament și nu înlocuiește îngrijirea necesară."
       },
       "sorszam": 2
     },
@@ -106,37 +125,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A kritikus szünet — mielőtt beengeded",
-        "en": "The critical pause — before you let it in"
+        "en": "The critical pause — before you let it in",
+        "ro": "Pauza critică — înainte să lași să intre"
       },
       "cel": {
         "hu": "A Kaspirovszkij-leckében tanult kritikus szünet hétköznapi begyakorlása: erős állítás, hangulat vagy nyomás érkezésekor előbb megállni és megvizsgálni, csak azután beengedni.",
-        "en": "To train, in daily life, the critical pause learned in the Kaspirovsky lesson: when a strong claim, mood or pressure arrives, first stop and examine, only then let in."
+        "en": "To train, in daily life, the critical pause learned in the Kaspirovsky lesson: when a strong claim, mood or pressure arrives, first stop and examine, only then let in.",
+        "ro": "Să antrenezi, în viața de zi cu zi, pauza critică învățată în lecția Kaspirovsky: când sosește o afirmație puternică, o stare sau o presiune, mai întâi oprește-te și examinează, abia apoi lasă să intre."
       },
       "modszer": [
         {
           "hu": "Amikor erős hatás ér — meggyőző állítás, hirtelen hangulat, sürgető kérés —, állj meg egyetlen lélegzetre.",
-          "en": "When a strong influence reaches you — a persuasive claim, a sudden mood, an urgent request — stop for a single breath."
+          "en": "When a strong influence reaches you — a persuasive claim, a sudden mood, an urgent request — stop for a single breath.",
+          "ro": "Când o influență puternică te ajunge — o afirmație convingătoare, o stare bruscă, o cerere urgentă — oprește-te pentru o singură respirație."
         },
         {
           "hu": "Kérdezd meg: ki mondja ezt, és mit szeretne tőlem?",
-          "en": "Ask: who is saying this, and what do they want from me?"
+          "en": "Ask: who is saying this, and what do they want from me?",
+          "ro": "Întreabă: cine spune asta și ce vrea de la mine?"
         },
         {
           "hu": "Kérdezd meg: az én érzésem ez, vagy most vettem át valakitől?",
-          "en": "Ask: is this feeling mine, or did I just take it over from someone?"
+          "en": "Ask: is this feeling mine, or did I just take it over from someone?",
+          "ro": "Întreabă: este sentimentul ăsta al meu, sau tocmai l-am preluat de la cineva?"
         },
         {
           "hu": "Kérdezd meg: mi történik, ha egy napot várok a válasszal?",
-          "en": "Ask: what happens if I wait a day with my answer?"
+          "en": "Ask: what happens if I wait a day with my answer?",
+          "ro": "Întreabă: ce se întâmplă dacă aștept o zi cu răspunsul?"
         },
         {
           "hu": "Dönts tudatosan: beengeded, elengeded vagy elhalasztod — és este jegyezd fel a naplóba, mi hogyan dőlt el.",
-          "en": "Decide consciously: let it in, let it go, or postpone it — and in the evening note in the journal how each case was decided."
+          "en": "Decide consciously: let it in, let it go, or postpone it — and in the evening note in the journal how each case was decided.",
+          "ro": "Decide conștient: lasă să intre, lasă să plece, sau amână — și seara notează în jurnal cum a fost decis fiecare caz."
         }
       ],
       "keret": {
         "hu": "A mentalizmus-pajzs elve dolgozik itt: a hatáskeltés technikáinak ismerete maga az immunitás. A szünet nem gyanakvás, hanem mérlegelés — a médiumság-modul megkülönböztetése ugyanennek a mozdulatnak a finomabb változata.",
-        "en": "The principle of the mentalism shield works here: knowing the techniques of influence is itself immunity. The pause is not suspicion but weighing — the discernment of the mediumship module is a finer variant of the same movement."
+        "en": "The principle of the mentalism shield works here: knowing the techniques of influence is itself immunity. The pause is not suspicion but weighing — the discernment of the mediumship module is a finer variant of the same movement.",
+        "ro": "Principiul scutului mentalismului funcționează aici: a cunoaște tehnicile de influență este el însuși imunitate. Pauza nu este suspiciune, ci cântărire — discernământul modulului de mediumnitate este o variantă mai fină a aceleiași mișcări."
       },
       "sorszam": 3
     },
@@ -148,41 +175,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "A fény-burok — a határ képe",
-        "en": "The shell of light — the image of the boundary"
+        "en": "The shell of light — the image of the boundary",
+        "ro": "Cochilia de lumină — imaginea limitei"
       },
       "cel": {
         "hu": "A hagyomány burok-gyakorlatának felépítése: fény-gömb vagy fény-tojás a test körül mint a saját határ megtestesített, begyakorolható képe.",
-        "en": "To build the tradition's shell practice: a sphere or egg of light around the body as an embodied, trainable image of your own boundary."
+        "en": "To build the tradition's shell practice: a sphere or egg of light around the body as an embodied, trainable image of your own boundary.",
+        "ro": "Să construiești practica cochiliei din tradiție: o sferă sau un ou de lumină în jurul corpului ca imagine întrupată, antrenabilă, a propriei tale limite."
       },
       "modszer": [
         {
           "hu": "Nyiss földeléssel: talp, testsúly, három nyugodt lélegzet.",
-          "en": "Open with grounding: soles, weight, three calm breaths."
+          "en": "Open with grounding: soles, weight, three calm breaths.",
+          "ro": "Deschide cu împământarea: tălpi, greutate, trei respirații calme."
         },
         {
           "hu": "Képzeld el, hogy a szíved tájáról fény árad szét, és kartávolságra a tested körül egyetlen összefüggő burokká simul — gömbbé vagy tojássá, ahogy természetesebb.",
-          "en": "Imagine light streaming out from around your heart and settling, at arm's length around your body, into one continuous shell — a sphere or an egg, whichever feels more natural."
+          "en": "Imagine light streaming out from around your heart and settling, at arm's length around your body, into one continuous shell — a sphere or an egg, whichever feels more natural.",
+          "ro": "Imaginează-ți lumina curgând din jurul inimii tale și așezându-se, la o lungime de braț în jurul corpului, într-o coajă continuă — o sferă sau un ou, oricare ți se pare mai natural."
         },
         {
           "hu": "Add meg a szabályát a magad szavaival: „Ami épít, bejöhet. Ami áraszt, kint marad.\" A burok hártya, nem fal.",
-          "en": "Give it its rule in your own words: 'What builds me may enter. What floods me stays outside.' The shell is a membrane, not a wall."
+          "en": "Give it its rule in your own words: 'What builds me may enter. What floods me stays outside.' The shell is a membrane, not a wall.",
+          "ro": "Dă-i regula ei în cuvintele tale: 'Ce mă construiește poate intra. Ce mă inundă rămâne afară.' Coaja este o membrană, nu un zid."
         },
         {
           "hu": "Figyeld meg a kísérő testérzést — kihúzott gerinc, mélyebb kilégzés, egy tenyérnyi mozdulat: ez a határ-kijelölő belső gesztus, amely idővel kép nélkül is előhívható.",
-          "en": "Notice the accompanying bodily sensation — a lengthened spine, a deeper out-breath, a hand's small movement: this is the boundary-marking inner gesture, which in time can be summoned without the image."
+          "en": "Notice the accompanying bodily sensation — a lengthened spine, a deeper out-breath, a hand's small movement: this is the boundary-marking inner gesture, which in time can be summoned without the image.",
+          "ro": "Observă senzația trupească ce o însoțește — o coloană alungită, o expirație mai adâncă, o mică mișcare a mâinii: acesta este gestul interior de marcare a graniței, care cu timpul poate fi chemat fără imagine."
         },
         {
           "hu": "Zárj földeléssel, és jegyezd a naplóba a félelem-szintet a gyakorlat előtt és után (1–10).",
-          "en": "Close with grounding, and note in the journal your fear level before and after the practice (1–10)."
+          "en": "Close with grounding, and note in the journal your fear level before and after the practice (1–10).",
+          "ro": "Încheie cu împământare și notează în jurnal nivelul fricii înainte și după practică (1–10)."
         }
       ],
       "keret": {
         "hu": "A hagyomány a burkot valóságos védőrétegnek tartja — mi ezt a hagyomány elbeszéléseként jegyezzük fel, és megtestesített szándék-kijelölésként, önszuggesztióként dolgozunk vele. A mérce nem a burok fényessége, hanem hogy a valódi helyzetben nyugodtabb maradsz-e, és könnyebben mondod-e ki a határt.",
-        "en": "The tradition holds the shell to be a real protective layer — we record this as the tradition's narrative, and work with it as embodied intention-marking and self-suggestion. The measure is not the shell's brightness but whether, in the real situation, you stay calmer and speak the boundary more easily."
+        "en": "The tradition holds the shell to be a real protective layer — we record this as the tradition's narrative, and work with it as embodied intention-marking and self-suggestion. The measure is not the shell's brightness but whether, in the real situation, you stay calmer and speak the boundary more easily.",
+        "ro": "Tradiția ține coaja drept un strat protector real — noi înregistrăm asta ca narațiunea tradiției și lucrăm cu ea ca marcare întrupată a intenției și autosugestie. Măsura nu este strălucirea cojii, ci dacă, în situația reală, rămâi mai calm și spui granița mai ușor."
       },
       "etika": {
         "hu": "Ha a gyakorlat növeli a félelmet, vagy burok nélkül már nem mersz emberek közé menni, tedd le, és térj vissza a földeléshez és az alap-pajzshoz; tartós minta esetén beszélj szakemberrel.",
-        "en": "If the practice increases fear, or without the shell you no longer dare go among people, put it down and return to grounding and the base shield; with a persistent pattern, speak with a professional."
+        "en": "If the practice increases fear, or without the shell you no longer dare go among people, put it down and return to grounding and the base shield; with a persistent pattern, speak with a professional.",
+        "ro": "Dacă practica sporește frica, sau fără coajă nu mai îndrăznești să mergi printre oameni, las-o deoparte și întoarce-te la împământare și la scutul de bază; cu un tipar persistent, vorbește cu un profesionist."
       },
       "sorszam": 4
     },
@@ -194,41 +230,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Víz-tisztítás — a leöblített nap",
-        "en": "Water cleansing — the day rinsed off"
+        "en": "Water cleansing — the day rinsed off",
+        "ro": "Curățare cu apă — ziua clătită"
       },
       "cel": {
         "hu": "Az esti mosakodás tudatos lezárás-rítussá emelése: látható, érezhető jelet adni annak, hogy a nap feszültségei nem jönnek tovább veled.",
-        "en": "To raise the evening wash into a conscious closing rite: giving a visible, feelable sign that the day's tensions do not travel on with you."
+        "en": "To raise the evening wash into a conscious closing rite: giving a visible, feelable sign that the day's tensions do not travel on with you.",
+        "ro": "Pentru a ridica spălatul de seară la rangul unui ritual conștient de încheiere: dând un semn vizibil, simțibil că tensiunile zilei nu călătoresc mai departe cu tine."
       },
       "modszer": [
         {
           "hu": "Az esti zuhany vagy mosakodás előtt állj meg egy pillanatra, és nevezd meg: mit szeretnél ma leöblíteni — egy feszültséget, egy mondatot, egy hangulatot.",
-          "en": "Before the evening shower or wash, stop for a moment and name it: what you wish to rinse off today — a tension, a sentence, a mood."
+          "en": "Before the evening shower or wash, stop for a moment and name it: what you wish to rinse off today — a tension, a sentence, a mood.",
+          "ro": "Înainte de dușul sau spălatul de seară, oprește-te o clipă și numește: ce vrei să clătești azi — o tensiune, o propoziție, o stare."
         },
         {
           "hu": "A víz alatt figyelj a bőrödre: hő, áramlás, súly.",
-          "en": "Under the water attend to your skin: warmth, flow, weight."
+          "en": "Under the water attend to your skin: warmth, flow, weight.",
+          "ro": "Sub apă fii atent la pielea ta: căldura, curgerea, greutatea."
         },
         {
           "hu": "Engedd, hogy a megnevezett feszültség a vízzel együtt lefolyjon — a hagyomány a sós vizet külön tisztítónak tartja; ha hozzád szól, egy marék só a mosdóvízben is elég.",
-          "en": "Let the named tension flow away with the water — the tradition holds salt water to be cleansing in its own right; if it speaks to you, a handful of salt in the washing water is enough."
+          "en": "Let the named tension flow away with the water — the tradition holds salt water to be cleansing in its own right; if it speaks to you, a handful of salt in the washing water is enough.",
+          "ro": "Lasă tensiunea numită să curgă odată cu apa — tradiția ține apa sărată drept curățitoare prin ea însăși; dacă ți se potrivește, un pumn de sare în apa de spălat e de ajuns."
         },
         {
           "hu": "Zárd egyetlen mondattal a magad szavaival: „ami a mai napból nem szolgál, lefolyt\".",
-          "en": "Close with a single sentence in your own words: 'what does not serve from this day has flowed away'."
+          "en": "Close with a single sentence in your own words: 'what does not serve from this day has flowed away'.",
+          "ro": "Încheie cu o singură propoziție în cuvintele tale: 'ceea ce nu slujește din ziua aceasta a curs departe'."
         },
         {
           "hu": "A törölközés legyen a záró gesztus — utána a nap le van zárva, ne nyisd újra a forgatását.",
-          "en": "Let the towelling be the closing gesture — after it the day is closed, do not reopen its turning-over."
+          "en": "Let the towelling be the closing gesture — after it the day is closed, do not reopen its turning-over.",
+          "ro": "Lasă ștergerea cu prosopul să fie gestul de încheiere — după el ziua e închisă, nu redeschide răsucirea ei."
         },
         {
           "hu": "Naplóba: mit öblítettél le, és mennyivel könnyebb a lefekvés.",
-          "en": "Into the journal: what you rinsed off, and how much lighter the bedtime is."
+          "en": "Into the journal: what you rinsed off, and how much lighter the bedtime is.",
+          "ro": "În jurnal: ce ai clătit și cât de mult mai ușoară e ora de culcare."
         }
       ],
       "keret": {
         "hu": "A rituális mosakodás kultúrákon átívelő szokás; a sós víz tisztító ereje a hagyomány saját modellje. Lélektanilag átmenet-rítus: a testtel végigvitt lezárás mélyebben zár, mint a puszta elhatározás — a mérce a csendesebb este és a könnyebb elalvás.",
-        "en": "Ritual washing is a custom spanning cultures; the cleansing power of salt water is the tradition's own model. Psychologically it is a transition rite: a closing carried through with the body closes more deeply than a bare resolution — the measure is a quieter evening and an easier falling asleep."
+        "en": "Ritual washing is a custom spanning cultures; the cleansing power of salt water is the tradition's own model. Psychologically it is a transition rite: a closing carried through with the body closes more deeply than a bare resolution — the measure is a quieter evening and an easier falling asleep.",
+        "ro": "Spălatul ritual este un obicei care traversează culturi; puterea curățitoare a apei sărate este modelul propriu al tradiției. Psihologic este un ritual de tranziție: o încheiere purtată prin corp închide mai adânc decât o simplă hotărâre — măsura este o seară mai liniștită și o adormire mai ușoară."
       },
       "sorszam": 5
     },
@@ -240,37 +285,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Átáramló fény — belső tisztítás",
-        "en": "Streaming light — inner cleansing"
+        "en": "Streaming light — inner cleansing",
+        "ro": "Lumină curgătoare — curățare interioară"
       },
       "cel": {
         "hu": "A fény-tisztítás hagyományának gyakorlata: a fejtetőn beáramló és a talpon át távozó fény képével átjárni a testet, és elengedni, ami elhasználódott.",
-        "en": "The practice of the light-cleansing tradition: to pass through the body with the image of light entering at the crown and leaving through the soles, releasing what is spent."
+        "en": "The practice of the light-cleansing tradition: to pass through the body with the image of light entering at the crown and leaving through the soles, releasing what is spent.",
+        "ro": "Practica tradiției de curățare cu lumină: a trece prin corp cu imaginea luminii care intră pe la creștet și iese prin tălpi, eliberând ce e epuizat."
       },
       "modszer": [
         {
           "hu": "Ülj földelt testtartásban, csukd le a szemed, végy három nyugodt lélegzetet.",
-          "en": "Sit in a grounded posture, close your eyes, take three calm breaths."
+          "en": "Sit in a grounded posture, close your eyes, take three calm breaths.",
+          "ro": "Stai într-o postură împământată, închide ochii, ia trei respirații calme."
         },
         {
           "hu": "Képzeld el, hogy a fejtetőd fölött szelíd fény gyűlik, és kilégzésenként lassan beáramlik.",
-          "en": "Imagine gentle light gathering above your crown and streaming in slowly with each out-breath."
+          "en": "Imagine gentle light gathering above your crown and streaming in slowly with each out-breath.",
+          "ro": "Imaginează-ți lumină blândă adunându-se deasupra creștetului și curgând încet înăuntru cu fiecare expirație."
         },
         {
           "hu": "Vezesd végig a fényt a testen — fej, nyak, mellkas, has, karok, lábak —, minden szakaszon egy-két lélegzetet időzve.",
-          "en": "Lead the light through the body — head, neck, chest, belly, arms, legs — dwelling a breath or two at each station."
+          "en": "Lead the light through the body — head, neck, chest, belly, arms, legs — dwelling a breath or two at each station.",
+          "ro": "Condu lumina prin corp — cap, gât, piept, burtă, brațe, picioare — zăbovind o respirație sau două la fiecare stație."
         },
         {
           "hu": "Lásd, ahogy a talpadon át a földbe áramlik tovább, magával víve, ami feszes, fáradt, elhasznált.",
-          "en": "See it stream on through your soles into the earth, carrying away what is tense, tired, spent."
+          "en": "See it stream on through your soles into the earth, carrying away what is tense, tired, spent.",
+          "ro": "Vezi-o curgând mai departe prin tălpi în pământ, ducând cu ea ce e tensionat, obosit, epuizat."
         },
         {
           "hu": "Zárásként érezd meg a talpad a talajon, és nyisd ki a szemed frissen, éberen.",
-          "en": "To close, feel your soles on the ground and open your eyes refreshed and alert."
+          "en": "To close, feel your soles on the ground and open your eyes refreshed and alert.",
+          "ro": "Pentru a încheia, simte tălpile pe pământ și deschide ochii odihnit și treaz."
         }
       ],
       "keret": {
         "hu": "A hagyomány a fényt tisztító erőnek tartja — a Saint Germain-modul Lila Láng-munkájának szelíd rokona ez. A józan lencsén át vezetett képzeleti ellazulás: irányított figyelem-utazás a testen, amelynek nyugtató hatását azonnal ellenőrizheted.",
-        "en": "The tradition holds light to be a cleansing power — this is a gentle cousin of the Violet Flame work of the Saint Germain module. Through the sober lens it is guided imagery relaxation: a directed journey of attention through the body, whose calming effect you can check at once."
+        "en": "The tradition holds light to be a cleansing power — this is a gentle cousin of the Violet Flame work of the Saint Germain module. Through the sober lens it is guided imagery relaxation: a directed journey of attention through the body, whose calming effect you can check at once.",
+        "ro": "Tradiția ține lumina drept o putere curățitoare — aceasta este o verișoară blândă a lucrului cu Flacăra Violetă din modulul Saint Germain. Prin lentila sobră este relaxare prin imagini ghidate: o călătorie dirijată a atenției prin corp, al cărei efect calmant îl poți verifica pe loc."
       },
       "sorszam": 6
     },
@@ -282,41 +335,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "Füst-tisztítás — a tér rítusa",
-        "en": "Smoke cleansing — a rite for the space"
+        "en": "Smoke cleansing — a rite for the space",
+        "ro": "Curățare cu fum — un ritual pentru spațiu"
       },
       "cel": {
         "hu": "A füstölés hagyományával látható jelet adni egy tér vagy egy időszak lezárásának — költözés, vita, nehéz nap után.",
-        "en": "To give a visible sign of closing a space or a period with the tradition of fumigation — after a move, an argument, a hard day."
+        "en": "To give a visible sign of closing a space or a period with the tradition of fumigation — after a move, an argument, a hard day.",
+        "ro": "Pentru a da un semn vizibil al închiderii unui spațiu sau al unei perioade cu tradiția fumigației — după o mutare, o ceartă, o zi grea."
       },
       "modszer": [
         {
           "hu": "Válassz füstölőt — tömjént vagy gyógynövényt —, és nevezd meg, mit zársz le vele.",
-          "en": "Choose an incense or herb, and name what you are closing with it."
+          "en": "Choose an incense or herb, and name what you are closing with it.",
+          "ro": "Alege un tămâie sau o plantă și numește ce închizi cu ea."
         },
         {
           "hu": "Nyiss ablakot, és gyújtsd meg biztonságosan, tűzálló tálka fölött.",
-          "en": "Open a window and light it safely, over a fireproof dish."
+          "en": "Open a window and light it safely, over a fireproof dish.",
+          "ro": "Deschide o fereastră și aprinde-o în siguranță, deasupra unui vas rezistent la foc."
         },
         {
           "hu": "Járd körbe lassan a helyiséget, a szándékot csendben tartva.",
-          "en": "Walk the room slowly, holding the intention in silence."
+          "en": "Walk the room slowly, holding the intention in silence.",
+          "ro": "Străbate camera încet, ținând intenția în tăcere."
         },
         {
           "hu": "A végén engedd, hogy a füst a nyitott ablakon át távozzon — a kiengedés maga az elengedés gesztusa.",
-          "en": "At the end let the smoke leave through the open window — the letting out is itself the gesture of release."
+          "en": "At the end let the smoke leave through the open window — the letting out is itself the gesture of release.",
+          "ro": "La final lasă fumul să iasă pe fereastra deschisă — scoaterea afară este însăși gestul eliberării."
         },
         {
           "hu": "Oltsd el teljesen a füstölőt, és jegyezd a naplóba: mit zártál le, és megváltozott-e a tér — és a te — hangulatod.",
-          "en": "Extinguish the incense completely, and note in the journal: what you closed, and whether the mood of the space — and yours — has changed."
+          "en": "Extinguish the incense completely, and note in the journal: what you closed, and whether the mood of the space — and yours — has changed.",
+          "ro": "Stinge tămâia complet și notează în jurnal: ce ai închis și dacă starea spațiului — și a ta — s-a schimbat."
         }
       ],
       "keret": {
         "hu": "A füstölés a világ minden táján ismert szokás; hogy a füst „kiviszi\", ami megült, a hagyomány saját képe. Lélektanilag küszöb-rítus: látható-szagolható jelet ad a váltásnak — a mérce az, hogy könnyebb-e utána új lappal jelen lenni a térben.",
-        "en": "Fumigation is a custom known in every corner of the world; that the smoke 'carries out' what has settled is the tradition's own image. Psychologically it is a threshold rite: it gives the change a visible, smellable sign — the measure is whether it is easier afterwards to be present in the space with a fresh page."
+        "en": "Fumigation is a custom known in every corner of the world; that the smoke 'carries out' what has settled is the tradition's own image. Psychologically it is a threshold rite: it gives the change a visible, smellable sign — the measure is whether it is easier afterwards to be present in the space with a fresh page.",
+        "ro": "Fumigația e un obicei cunoscut în fiecare colț al lumii; că fumul „poartă afară” ceea ce s-a așezat e imaginea proprie a tradiției. Psihologic, e un ritual de prag: dă schimbării un semn vizibil, pe care îl poți mirosi — măsura e dacă după aceea îți e mai ușor să fii prezent în spațiu cu o pagină curată."
       },
       "etika": {
         "hu": "Tűzvédelem mindenek előtt: tűzálló alátét, éghető anyagoktól távol, égve hagyni tilos. Szellőztess; asztma, légúti érzékenység, várandósság vagy kisgyermek jelenléte esetén válaszd a víz- vagy fény-tisztítást.",
-        "en": "Fire safety above all: a fireproof base, away from flammable materials, never left burning. Ventilate; with asthma, airway sensitivity, pregnancy or small children present, choose water or light cleansing instead."
+        "en": "Fire safety above all: a fireproof base, away from flammable materials, never left burning. Ventilate; with asthma, airway sensitivity, pregnancy or small children present, choose water or light cleansing instead.",
+        "ro": "Siguranța la foc înainte de toate: o bază ignifugă, departe de materiale inflamabile, niciodată lăsat să ardă nesupravegheat. Aerisește; dacă ai astm, sensibilitate a căilor respiratorii, ești însărcinată sau sunt prezenți copii mici, alege în schimb curățarea cu apă sau cu lumină."
       },
       "sorszam": 7
     },
@@ -328,45 +390,55 @@
       "elem": "Viz",
       "cim": {
         "hu": "Kötés-oldás — az elengedés rítusa",
-        "en": "Cord release — a rite of letting go"
+        "en": "Cord release — a rite of letting go",
+        "ro": "Eliberarea cordoanelor — un ritual de a lăsa să plece"
       },
       "cel": {
         "hu": "Egy lezárásra érett kapcsolat vagy sérelem elengedésének rítusa: a vizualizált kötelék feloldásával a saját kötődéseden dolgozol — lezárás-munka, nem hatás a másikra.",
-        "en": "A rite of releasing a relationship or grievance ripe for closure: by dissolving the visualized cord you work on your own attachment — closure work, not an effect on the other."
+        "en": "A rite of releasing a relationship or grievance ripe for closure: by dissolving the visualized cord you work on your own attachment — closure work, not an effect on the other.",
+        "ro": "Un ritual de eliberare a unei relații sau a unei supărări coapte pentru încheiere: dizolvând cordoanul vizualizat, lucrezi asupra propriei tale atașări — muncă de închidere, nu un efect asupra celuilalt."
       },
       "modszer": [
         {
           "hu": "Válassz valódi, lezárásra érett témát — kapcsolat, sérelem, kinőtt szerep. Ne a legfrissebb sebbel kezdd.",
-          "en": "Choose a real theme ripe for closure — a relationship, a grievance, an outgrown role. Do not start with the freshest wound."
+          "en": "Choose a real theme ripe for closure — a relationship, a grievance, an outgrown role. Do not start with the freshest wound.",
+          "ro": "Alege o temă reală coaptă pentru încheiere — o relație, o supărare, un rol pe care l-ai depășit. Nu începe cu rana cea mai proaspătă."
         },
         {
           "hu": "Földelve, csendben idézd fel, és figyeld meg: hol érzed a testedben a hozzá fűző szálat?",
-          "en": "Grounded, in stillness, call it up and observe: where in your body do you feel the thread that ties you to it?"
+          "en": "Grounded, in stillness, call it up and observe: where in your body do you feel the thread that ties you to it?",
+          "ro": "Înrădăcinat, în liniște, cheam-o și observă: unde în corp simți firul care te leagă de ea?"
         },
         {
           "hu": "Ismerd el, amit a kapcsolat adott vagy tanított — az oldás nem tagadás.",
-          "en": "Acknowledge what the bond gave or taught — release is not denial."
+          "en": "Acknowledge what the bond gave or taught — release is not denial.",
+          "ro": "Recunoaște ce ți-a dat sau te-a învățat legătura — eliberarea nu e negare."
         },
         {
           "hu": "Válaszd meg a gesztust: elvágod vagy feloldod a szálat — és lásd, ahogy a visszahulló végek fénye visszatér, hozzád a tiéd, hozzá az övé.",
-          "en": "Choose the gesture: cut the thread or dissolve it — and see the light of the falling ends return, yours to you, theirs to them."
+          "en": "Choose the gesture: cut the thread or dissolve it — and see the light of the falling ends return, yours to you, theirs to them.",
+          "ro": "Alege gestul: taie firul sau dizolvă-l — și vezi lumina capetelor care cad cum se întoarce, a ta la tine, a lor la ei."
         },
         {
           "hu": "Zárj földeléssel, és naplózz: mit engedtél el, és mi maradt még.",
-          "en": "Close with grounding, and journal: what you released, and what still remains."
+          "en": "Close with grounding, and journal: what you released, and what still remains.",
+          "ro": "Încheie cu înrădăcinarea și notează în jurnal: ce ai eliberat și ce mai rămâne."
         },
         {
           "hu": "A következő hetekben figyeld a mércét: ritkábban tér-e vissza a gondolat, tudsz-e róla indulat nélkül beszélni.",
-          "en": "Over the following weeks watch the measure: does the thought return less often, can you speak of it without heat."
+          "en": "Over the following weeks watch the measure: does the thought return less often, can you speak of it without heat.",
+          "ro": "În săptămânile următoare urmărește măsura: se întoarce gândul mai rar, poți vorbi despre el fără înfierbântare."
         }
       ],
       "keret": {
         "hu": "A hagyomány a köteléket valóságos szálnak tartja két ember között — mi a hagyomány elbeszéléseként jegyezzük fel, és lezárás-munkaként dolgozunk vele: a rítus a te gondolat-visszatéréseiden és sérelem-forgatásodon dolgozik, nem a másik emberen.",
-        "en": "The tradition holds the cord to be a real thread between two people — we record this as the tradition's narrative and work with it as closure work: the rite works on your returning thoughts and grievance-turning, not on the other person."
+        "en": "The tradition holds the cord to be a real thread between two people — we record this as the tradition's narrative and work with it as closure work: the rite works on your returning thoughts and grievance-turning, not on the other person.",
+        "ro": "Tradiția ține cordoanul ca pe un fir real între două persoane — noi consemnăm asta ca narațiunea tradiției și lucrăm cu ea ca muncă de închidere: ritualul lucrează asupra gândurilor tale care revin și a răsucirii supărării, nu asupra celeilalte persoane."
       },
       "etika": {
         "hu": "Friss gyász, bántalmazás vagy trauma témáján ne dolgozz egyedül — ott a munka szakemberrel folyik. Az oldás nem helyettesíti a valódi lépést: a kimondott határt, a lezáró beszélgetést és ahol kell, a gyakorlati intézkedést. A másik ember befolyásolása nem célja és nem is képessége a gyakorlatnak.",
-        "en": "On themes of fresh grief, abuse or trauma do not work alone — there the work happens with a professional. Release does not replace the real step: the spoken boundary, the closing conversation and, where needed, the practical measure. Influencing the other person is neither the aim nor the capacity of the practice."
+        "en": "On themes of fresh grief, abuse or trauma do not work alone — there the work happens with a professional. Release does not replace the real step: the spoken boundary, the closing conversation and, where needed, the practical measure. Influencing the other person is neither the aim nor the capacity of the practice.",
+        "ro": "Pe teme de doliu proaspăt, abuz sau traumă nu lucra singur — acolo munca se face cu un profesionist. Eliberarea nu înlocuiește pasul real: granița rostită, conversația de încheiere și, unde e nevoie, măsura practică. Influențarea celeilalte persoane nu e nici scopul, nici capacitatea practicii."
       },
       "sorszam": 8
     },
@@ -378,45 +450,55 @@
       "elem": "Fold",
       "cim": {
         "hu": "A kimondott határ — a szobában, nem a burokban",
-        "en": "The spoken boundary — in the room, not in the shell"
+        "en": "The spoken boundary — in the room, not in the shell",
+        "ro": "Granița rostită — în cameră, nu în cochilie"
       },
       "cel": {
         "hu": "A burok-gyakorlatban begyakorolt határ átvitele az élő helyzetbe: egy visszatérő helyzetben rövid, tiszta, vád nélküli határ-mondatot kimondani.",
-        "en": "To carry the boundary trained in the shell practice into the live situation: speaking a short, clear, accusation-free boundary sentence in a recurring situation."
+        "en": "To carry the boundary trained in the shell practice into the live situation: speaking a short, clear, accusation-free boundary sentence in a recurring situation.",
+        "ro": "Să porți granița antrenată în practica cochiliei în situația pe viu: rostirea unei propoziții de graniță scurte, clare, fără acuzații, într-o situație care se repetă."
       },
       "modszer": [
         {
           "hu": "Válassz egy visszatérő helyzetet, ahol rendre túl sokat engedsz be — kérés, megjegyzés, elvárás.",
-          "en": "Choose a recurring situation where you regularly let in too much — a request, a remark, an expectation."
+          "en": "Choose a recurring situation where you regularly let in too much — a request, a remark, an expectation.",
+          "ro": "Alege o situație care se repetă în care lași regulat să intre prea mult — o cerere, o remarcă, o așteptare."
         },
         {
           "hu": "Írd meg a határ-mondatot: rövid, egyes szám első személyű, vád nélküli — „ezt nem vállalom\", „ez nekem nem fér bele\".",
-          "en": "Write the boundary sentence: short, first person, without accusation — 'I am not taking this on', 'this does not fit for me'."
+          "en": "Write the boundary sentence: short, first person, without accusation — 'I am not taking this on', 'this does not fit for me'.",
+          "ro": "Scrie propoziția de graniță: scurtă, la persoana întâi, fără acuzație — „Nu preiau asta”, „asta nu mi se potrivește”."
         },
         {
           "hu": "Próbáld el hangosan, egyedül — és figyeld a tested: hol szorul, hol enged.",
-          "en": "Rehearse it aloud, alone — and watch your body: where it tightens, where it releases."
+          "en": "Rehearse it aloud, alone — and watch your body: where it tightens, where it releases.",
+          "ro": "Repet-o cu voce tare, singur — și urmărește-ți corpul: unde se strânge, unde se eliberează."
         },
         {
           "hu": "A helyzet előtt hívd elő a burok belső gesztusát — egy lélegzet, kihúzott gerinc —, majd mondd ki a mondatot élőben.",
-          "en": "Before the situation summon the shell's inner gesture — one breath, a lengthened spine — then speak the sentence live."
+          "en": "Before the situation summon the shell's inner gesture — one breath, a lengthened spine — then speak the sentence live.",
+          "ro": "Înainte de situație cheamă gestul interior al cochiliei — o respirație, o coloană alungită — apoi rostește propoziția pe viu."
         },
         {
           "hu": "Utána naplózz: mit mondtál, hogyan fogadták, és hogyan érezted magad egy órával később.",
-          "en": "Afterwards journal: what you said, how it was received, and how you felt an hour later."
+          "en": "Afterwards journal: what you said, how it was received, and how you felt an hour later.",
+          "ro": "După aceea notează în jurnal: ce ai spus, cum a fost primit și cum te-ai simțit o oră mai târziu."
         },
         {
           "hu": "Hetente egy kimondott határ elég — a készség ismétléssel épül, nem hősiességgel.",
-          "en": "One spoken boundary a week is enough — the skill is built by repetition, not by heroics."
+          "en": "One spoken boundary a week is enough — the skill is built by repetition, not by heroics.",
+          "ro": "O graniță rostită pe săptămână e de ajuns — priceperea se clădește prin repetiție, nu prin fapte eroice."
         }
       ],
       "keret": {
         "hu": "Ez az a pont, ahol a szimbolikus munka valódi védelemmé válik: a vizualizált burok a gyakorlóterep, a kimondott mondat az éles helyzet. A mérce nem a másik reakciója, hanem hogy a mondat kimondva volt — tisztán és vád nélkül.",
-        "en": "This is the point where symbolic work becomes real protection: the visualized shell is the training ground, the spoken sentence is the live situation. The measure is not the other's reaction but that the sentence was spoken — clearly and without accusation."
+        "en": "This is the point where symbolic work becomes real protection: the visualized shell is the training ground, the spoken sentence is the live situation. The measure is not the other's reaction but that the sentence was spoken — clearly and without accusation.",
+        "ro": "Acesta e punctul în care munca simbolică devine protecție reală: cochilia vizualizată e terenul de antrenament, propoziția rostită e situația pe viu. Măsura nu e reacția celuilalt, ci faptul că propoziția a fost rostită — clar și fără acuzație."
       },
       "etika": {
         "hu": "Fenyegető vagy bántalmazó kapcsolatban a határ-kimondás időzítését és biztonságát szakemberrel vagy segítő szervezettel tervezd meg — a biztonságod előbbre való minden gyakorlatnál.",
-        "en": "In a threatening or abusive relationship, plan the timing and safety of speaking the boundary with a professional or a support organization — your safety comes before any practice."
+        "en": "In a threatening or abusive relationship, plan the timing and safety of speaking the boundary with a professional or a support organization — your safety comes before any practice.",
+        "ro": "Într-o relație amenințătoare sau abuzivă, planifică momentul și siguranța rostirii graniței cu un profesionist sau o organizație de sprijin — siguranța ta vine înaintea oricărei practici."
       },
       "sorszam": 9
     },
@@ -428,41 +510,50 @@
       "elem": "Ido",
       "cim": {
         "hu": "Józan ellenőrzés — a gyakorlat letétele",
-        "en": "The sober check — putting the practice down"
+        "en": "The sober check — putting the practice down",
+        "ro": "Verificarea trează — a pune practica deoparte"
       },
       "cel": {
         "hu": "Havi önvizsgálat arról, hogy a védelem-gyakorlatok azt teszik-e, ami a dolguk: csökkentik a félelmet — és a letenni-tudás begyakorlása.",
-        "en": "A monthly self-examination of whether the protection practices do their job: reduce fear — and a training of the ability to put them down."
+        "en": "A monthly self-examination of whether the protection practices do their job: reduce fear — and a training of the ability to put them down.",
+        "ro": "O autoexaminare lunară dacă practicile de protecție își fac treaba: reduc frica — și un antrenament al capacității de a le pune deoparte."
       },
       "modszer": [
         {
           "hu": "Havonta egyszer olvasd vissza a napló félelem-számait: a gyakorlatok előtt és után mért szintek merre mozognak?",
-          "en": "Once a month read back the journal's fear numbers: which way are the levels measured before and after the practices moving?"
+          "en": "Once a month read back the journal's fear numbers: which way are the levels measured before and after the practices moving?",
+          "ro": "O dată pe lună reciti numerele fricii din jurnal: în ce direcție se mișcă nivelurile măsurate înainte și după practici?"
         },
         {
           "hu": "Tedd fel a három kérdést: Csökkenti-e a gyakorlat a félelmemet? Ki tudok-e hagyni egy napot szorongás nélkül? Többnek vagy kevesebbnek látom-e a fenyegetést magam körül, mint a gyakorlás előtt?",
-          "en": "Ask the three questions: Does the practice reduce my fear? Can I skip a day without anxiety? Do I see more or less threat around me than before practising?"
+          "en": "Ask the three questions: Does the practice reduce my fear? Can I skip a day without anxiety? Do I see more or less threat around me than before practising?",
+          "ro": "Pune cele trei întrebări: Practica îmi reduce frica? Pot sări peste o zi fără anxietate? Văd mai multă sau mai puțină amenințare în jurul meu decât înainte de a practica?"
         },
         {
           "hu": "Ha bármelyik válasz rossz irányba mutat, tarts egy teljes hét szünetet: csak földelés és alap-pajzs — semmi burok, tisztítás, oldás.",
-          "en": "If any answer points the wrong way, take a full week's pause: only grounding and the base shield — no shell, cleansing or release."
+          "en": "If any answer points the wrong way, take a full week's pause: only grounding and the base shield — no shell, cleansing or release.",
+          "ro": "Dacă vreun răspuns arată în direcția greșită, ia o pauză de o săptămână întreagă: doar înrădăcinare și scutul de bază — fără cochilie, curățare sau eliberare."
         },
         {
           "hu": "A szünet végén nézd meg: nőtt vagy csökkent a félelem? A jó eszköz letehető — ami nem tehető le, az már minta, nem eszköz.",
-          "en": "At the pause's end look: did fear grow or shrink? A good tool can be put down — what cannot be put down is a pattern, not a tool."
+          "en": "At the pause's end look: did fear grow or shrink? A good tool can be put down — what cannot be put down is a pattern, not a tool.",
+          "ro": "La sfârșitul pauzei privește: a crescut frica sau s-a micșorat? Un instrument bun poate fi pus deoparte — ceea ce nu poate fi pus deoparte e un tipar, nu un instrument."
         },
         {
           "hu": "Beszéld át a tapasztalatot valakivel, akiben megbízol — a kimondás maga is józanító.",
-          "en": "Talk the experience through with someone you trust — the speaking itself is sobering."
+          "en": "Talk the experience through with someone you trust — the speaking itself is sobering.",
+          "ro": "Discută experiența cu cineva în care ai încredere — vorbirea însăși trezește."
         }
       ],
       "keret": {
         "hu": "A védelem-gyakorlat dolga, hogy csökkentse a félelmet; ha fenntartja vagy növeli, ellened dolgozik. A mindenhol látott támadás nem éberség, hanem szorongás-minta — és letenni a gyakorlatot bátorság, nem kudarc.",
-        "en": "The job of a protection practice is to reduce fear; if it maintains or grows it, it is working against you. Attack seen everywhere is not vigilance but an anxiety pattern — and putting the practice down is courage, not failure."
+        "en": "The job of a protection practice is to reduce fear; if it maintains or grows it, it is working against you. Attack seen everywhere is not vigilance but an anxiety pattern — and putting the practice down is courage, not failure.",
+        "ro": "Treaba unei practici de protecție e să reducă frica; dacă o menține sau o crește, lucrează împotriva ta. Atacul văzut pretutindeni nu e vigilență, ci un tipar de anxietate — iar a pune practica deoparte e curaj, nu eșec."
       },
       "etika": {
         "hu": "Ha a fenyegetettség-érzés hetek múltán is fennáll, vagy rontja a munkád, a kapcsolataid, az alvásod, fordulj szakemberhez; akut krízisben azonnal kérj segítséget.",
-        "en": "If the sense of threat persists after weeks, or harms your work, your relationships or your sleep, consult a professional; in acute crisis seek help at once."
+        "en": "If the sense of threat persists after weeks, or harms your work, your relationships or your sleep, consult a professional; in acute crisis seek help at once.",
+        "ro": "Dacă senzația de amenințare persistă după săptămâni sau îți afectează munca, relațiile ori somnul, consultă un profesionist; în criză acută caută ajutor imediat."
       },
       "sorszam": 10
     }

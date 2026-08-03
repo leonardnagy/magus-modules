@@ -4,11 +4,13 @@
   "version": "1.0.0",
   "nevek": {
     "hu": "Aura és finomtestek",
-    "en": "Aura and the Subtle Bodies"
+    "en": "Aura and the Subtle Bodies",
+    "ro": "Aura și corpurile subtile"
   },
   "description": {
     "hu": "Az aura és a finomtestek térképe két hagyomány tükrében: a teozófiai réteg-tan (éteri, asztrális, mentális burok) és Bardon hármas felosztása (fizikai test, asztráltest, mentáltest). A gyakorlati oldal a lágy tekintet, a kéz-aura és a periférikus látás edzése — végig józan lencsével: megtanulod megkülönböztetni a látórendszered saját jelenségeit (utókép, kontraszt, Troxler-halványulás) a hagyomány állításaitól. A gyakorlat érzékenység-edzés; auraszínből soha nem diagnosztizálunk.",
-    "en": "The map of the aura and the subtle bodies in the mirror of two traditions: the theosophical layer teaching (etheric, astral, mental sheaths) and Bardon's threefold division (physical body, astral body, mental body). The practical side trains the soft gaze, the hand aura and peripheral vision — with a sober lens throughout: you learn to distinguish your visual system's own phenomena (afterimage, contrast, Troxler fading) from the tradition's claims. The practice is sensitivity training; we never diagnose from aura colours."
+    "en": "The map of the aura and the subtle bodies in the mirror of two traditions: the theosophical layer teaching (etheric, astral, mental sheaths) and Bardon's threefold division (physical body, astral body, mental body). The practical side trains the soft gaze, the hand aura and peripheral vision — with a sober lens throughout: you learn to distinguish your visual system's own phenomena (afterimage, contrast, Troxler fading) from the tradition's claims. The practice is sensitivity training; we never diagnose from aura colours.",
+    "ro": "Harta aurei și a corpurilor subtile în oglinda a două tradiții: învățătura teosofică a straturilor (învelișuri eteric, astral, mental) și diviziunea triplă a lui Bardon (corp fizic, corp astral, corp mental). Partea practică antrenează privirea moale, aura mâinii și vederea periferică — cu o lentilă sobră pe tot parcursul: înveți să deosebești fenomenele proprii sistemului tău vizual (postimagine, contrast, estompare Troxler) de afirmațiile tradiției. Practica este antrenament al sensibilității; nu diagnosticăm niciodată din culorile aurei."
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/aura.reading/audio",
   "items": [
@@ -17,11 +19,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bevezető — két térkép, egy műszer",
-        "en": "Introduction — Two Maps, One Instrument"
+        "en": "Introduction — Two Maps, One Instrument",
+        "ro": "Introducere — Două hărți, un instrument"
       },
       "text": {
         "hu": "A hagyomány szerint a tested nem ér véget a bőrödnél: finomabb burkok veszik körül és hatják át, és ezek kisugárzása az **aura** — derengő mező, amely az állapotodat tükrözi. * Ebben a modulban két térképet kapsz hozzá — és egy becsületes műszert.\n\nA modul négy pillére:\n\n— **Két térkép** — a teozófiai réteg-tan (éteri, asztrális, mentális) és Bardon egyszerűbb hármasa (test, lélek, szellem).\n— **A szem iskolája** — lágy tekintet, kéz-aura, periférikus látás: a tényleges gyakorlatok.\n— **A színek szótára** — a hagyomány szín-jelentései, szótárként, nem diagnózisként.\n— **A józan lencse** — a látórendszered saját jelenségei (utókép, kontraszt, Troxler-elúszás), hogy mindig tudd, mit produkál maga a szem.\n\n**Kapcsolódás:** Bardon útján (IIH) az asztrál- és mentáltest tana az első lépésektől jelen van — a fekete-fehér **lélektükör**, amelyet már ismersz, a hagyomány szerint éppen az asztráltest elemi összetételének leltára. * Bardon útján a **mentál- és asztrálvándorlás** gyakorlatai (iih.step.08–09) ugyanerre a finomtest-térképre épülnek — ott belülről járod be, itt az érzékelés felől közelítünk.\n\n**Őszinte keret:** amit közvetlenül mérni tudsz, az a figyelmed finomodása, a benyomásaid gazdagodása és a megfigyelői fegyelmed — ez önmagában is mély munka. A többit tartsd nyitott, játékos kérdésként, és a naplód számaival mérd.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "According to the tradition, your body does not end at your skin: subtler sheaths surround and pervade it, and their radiance is the **aura** — a glowing field that mirrors your state. * In this module you receive two maps for it — and one honest instrument.\n\nThe module's four pillars:\n\n— **Two maps** — the theosophical layer teaching (etheric, astral, mental) and Bardon's simpler triad (body, soul, spirit).\n— **The school of the eye** — soft gaze, hand aura, peripheral vision: the actual practices.\n— **The dictionary of colours** — the tradition's colour meanings, as a vocabulary, not as diagnosis.\n— **The sober lens** — your visual system's own phenomena (afterimage, contrast, Troxler fading), so you always know what the eye itself produces.\n\n**Connections:** on Bardon's path (IIH) the teaching of the astral and mental bodies is present from the first steps — the black-and-white **soul mirror** you already know is, according to the tradition, precisely the inventory of the astral body's elemental composition. * On Bardon's path the **mental and astral wandering** practices (iih.step.08–09) build on this same subtle-body map — there you walk it from within, here we approach it through perception.\n\n**An honest frame:** what you can measure directly is the refinement of your attention, the enrichment of your impressions and your observer's discipline — deep work in itself. Hold the rest as an open, playful question, and measure it with the numbers in your journal.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "According to the tradition, your body does not end at your skin: subtler sheaths surround and pervade it, and their radiance is the **aura** — a glowing field that mirrors your state. * In this module you receive two maps for it — and one honest instrument.\n\nThe module's four pillars:\n\n— **Two maps** — the theosophical layer teaching (etheric, astral, mental) and Bardon's simpler triad (body, soul, spirit).\n— **The school of the eye** — soft gaze, hand aura, peripheral vision: the actual practices.\n— **The dictionary of colours** — the tradition's colour meanings, as a vocabulary, not as diagnosis.\n— **The sober lens** — your visual system's own phenomena (afterimage, contrast, Troxler fading), so you always know what the eye itself produces.\n\n**Connections:** on Bardon's path (IIH) the teaching of the astral and mental bodies is present from the first steps — the black-and-white **soul mirror** you already know is, according to the tradition, precisely the inventory of the astral body's elemental composition. * On Bardon's path the **mental and astral wandering** practices (iih.step.08–09) build on this same subtle-body map — there you walk it from within, here we approach it through perception.\n\n**An honest frame:** what you can measure directly is the refinement of your attention, the enrichment of your impressions and your observer's discipline — deep work in itself. Hold the rest as an open, playful question, and measure it with the numbers in your journal.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Potrivit tradiției, corpul tău nu se oprește la piele: învelișuri mai subtile îl înconjoară și îl străbat, iar strălucirea lor este **aura** — un câmp luminos care oglindește starea ta. * În acest modul primești două hărți pentru ea — și un instrument onest.\n\nCei patru stâlpi ai modulului:\n\n— **Două hărți** — învățătura teosofică a straturilor (eteric, astral, mental) și triada mai simplă a lui Bardon (corp, suflet, spirit).\n— **Școala ochiului** — privire moale, aura mâinii, vedere periferică: practicile propriu-zise.\n— **Dicționarul culorilor** — semnificațiile culorilor din tradiție, ca vocabular, nu ca diagnostic.\n— **Lentila sobră** — fenomenele proprii sistemului tău vizual (postimagine, contrast, estompare Troxler), ca să știi mereu ce produce ochiul însuși.\n\n**Conexiuni:** pe calea lui Bardon (IIH) învățătura despre corpurile astral și mental este prezentă încă de la primii pași — **oglinda sufletului** alb-negru pe care o cunoști deja este, potrivit tradiției, tocmai inventarul compoziției elementale a corpului astral. * Pe calea lui Bardon practicile de **călătorie mentală și astrală** (iih.step.08–09) se bazează pe aceeași hartă a corpurilor subtile — acolo o străbați dinăuntru, aici o abordăm prin percepție.\n\n**Un cadru onest:** ceea ce poți măsura direct este rafinarea atenției tale, îmbogățirea impresiilor și disciplina observatorului tău — o muncă profundă în sine. Ține restul ca pe o întrebare deschisă, jucăușă, și măsoară-l cu numerele din jurnalul tău.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -29,11 +33,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A teozófiai réteg-térkép",
-        "en": "The Theosophical Layer Map"
+        "en": "The Theosophical Layer Map",
+        "ro": "Harta teosofică a straturilor"
       },
       "text": {
         "hu": "A nyugati ezotéria legrészletesebb aura-térképét a teozófusok rajzolták meg — **Leadbeater** és **Besant** nyomán. A modell szerint a fizikai testet finomabb burkok sora veszi körül:\n\n— **Éteri test** — az életerő hordozója, a fizikai test finom mása; a hagyomány szerint ez a bőrhöz legközelebbi, keskeny derengés. *\n— **Asztrális test** — az érzelmek hordozója; színei a hangulatoddal együtt hullámzanak. *\n— **Mentális test** — a gondolatok burka; tisztasága a gondolkodás fegyelmét tükrözi. *\n\nAz aura e burkok együttes kisugárzása: minél kijjebb lépsz, annál finomabb réteget érintesz. *\n\n**Egy tanulságos történet:** **Walter J. Kilner** londoni orvos 1911-ben dicianin-festékkel átitatott szűrőkön át vélt „emberi atmoszférát” látni a páciensei körül, és könyvet is írt róla. A hagyomány máig szívesen hivatkozik rá — de az eredményeit soha senki nem tudta megismételni. Ezt nem gúnyból jegyezzük fel, hanem mérceként: a lelkes és képzett megfigyelő is tévedhet, és a megismételhetőség kérdése nem ellenség, hanem szövetséges.\n\n**Hogyan használd a térképet?** Munkamodellként. A rétegek nyelvet adnak a benyomásaid rendezéséhez — test-közeli derengés, érzelmi színezet, gondolati tisztaság. Egy nyelv attól még lehet hasznos, hogy a területét műszer még nem látta.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The most detailed aura map of Western esotericism was drawn by the theosophists — after **Leadbeater** and **Besant**. In this model a series of subtler sheaths surrounds the physical body:\n\n— **Etheric body** — the carrier of life force, a subtle double of the physical body; by the tradition, the narrow glow closest to the skin. *\n— **Astral body** — the carrier of emotions; its colours ripple with your moods. *\n— **Mental body** — the sheath of thought; its clarity mirrors the discipline of your thinking. *\n\nThe aura is the combined radiance of these sheaths: the further out you step, the subtler the layer you touch. *\n\n**An instructive story:** **Walter J. Kilner**, a London physician, believed in 1911 that through screens soaked in dicyanin dye he could see a 'human atmosphere' around his patients, and wrote a book about it. The tradition still cites him fondly — yet no one has ever been able to replicate his results. We record this not in mockery but as a measuring rod: even a keen and trained observer can err, and the question of replicability is not an enemy but an ally.\n\n**How to use the map?** As a working model. The layers give you a language for ordering your impressions — near-body glow, emotional colouring, clarity of thought. A language can be useful even while no instrument has yet seen its territory.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The most detailed aura map of Western esotericism was drawn by the theosophists — after **Leadbeater** and **Besant**. In this model a series of subtler sheaths surrounds the physical body:\n\n— **Etheric body** — the carrier of life force, a subtle double of the physical body; by the tradition, the narrow glow closest to the skin. *\n— **Astral body** — the carrier of emotions; its colours ripple with your moods. *\n— **Mental body** — the sheath of thought; its clarity mirrors the discipline of your thinking. *\n\nThe aura is the combined radiance of these sheaths: the further out you step, the subtler the layer you touch. *\n\n**An instructive story:** **Walter J. Kilner**, a London physician, believed in 1911 that through screens soaked in dicyanin dye he could see a 'human atmosphere' around his patients, and wrote a book about it. The tradition still cites him fondly — yet no one has ever been able to replicate his results. We record this not in mockery but as a measuring rod: even a keen and trained observer can err, and the question of replicability is not an enemy but an ally.\n\n**How to use the map?** As a working model. The layers give you a language for ordering your impressions — near-body glow, emotional colouring, clarity of thought. A language can be useful even while no instrument has yet seen its territory.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Cea mai detaliată hartă a aurei din ezoterismul occidental a fost desenată de teosofi — după **Leadbeater** și **Besant**. În acest model o serie de învelișuri mai subtile înconjoară corpul fizic:\n\n— **Corp eteric** — purtătorul forței vitale, un dublu subtil al corpului fizic; potrivit tradiției, strălucirea îngustă cea mai apropiată de piele. *\n— **Corp astral** — purtătorul emoțiilor; culorile lui unduiesc odată cu stările tale. *\n— **Corp mental** — învelișul gândirii; claritatea lui oglindește disciplina gândirii tale. *\n\nAura este strălucirea combinată a acestor învelișuri: cu cât pășești mai departe, cu atât atingi un strat mai subtil. *\n\n**O poveste instructivă:** **Walter J. Kilner**, un medic londonez, credea în 1911 că prin ecrane îmbibate în colorant dicianină putea vedea o «atmosferă umană» în jurul pacienților săi, și a scris o carte despre asta. Tradiția încă îl citează cu afecțiune — totuși nimeni nu a reușit vreodată să-i reproducă rezultatele. Notăm asta nu în batjocură, ci ca pe o unitate de măsură: chiar și un observator ager și antrenat poate greși, iar întrebarea replicabilității nu e un dușman, ci un aliat.\n\n**Cum folosești harta?** Ca model de lucru. Straturile îți oferă un limbaj pentru a-ți ordona impresiile — strălucirea de lângă corp, coloritul emoțional, claritatea gândirii. Un limbaj poate fi util chiar și atunci când niciun instrument nu i-a văzut încă teritoriul.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -41,11 +47,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Bardon hármasa — test, lélek, szellem",
-        "en": "Bardon's Triad — Body, Soul, Spirit"
+        "en": "Bardon's Triad — Body, Soul, Spirit",
+        "ro": "Triada lui Bardon — Corp, suflet, spirit"
       },
       "text": {
         "hu": "Bardon térképe egyszerűbb és gyakorlatiasabb, mint a teozófiai réteg-sor — és neked, aki az IIH útját járod, ez az anyanyelved.\n\n**A hármas felosztás:**\n\n— **Fizikai test** — a durva anyag.\n— **Asztráltest** (lélek) — az érzelmek, vágyak és jellemvonások hordozója. *\n— **Mentáltest** (szellem) — a gondolkodó, tudatos mag. *\n\nA hármat a hagyomány szerint **matricák** kötik össze: az asztrál-matrica az asztráltestet a fizikai testhez, a mentál-matrica a mentáltestet az asztrálishoz fűzi. *\n\n**A lélektükör kapuja:** Bardonnál az asztráltest **elemi összetétele a jellemvonásaidban tükröződik** — a tüzes harag, a vizes közöny, a levegős szétszórtság, a földes restség, és mindegyik fényes párja. * Ezért a fekete-fehér lélektükör, amelyet az IIH I. lépésénél írtál, valójában az asztráltested leltára: aki a tükrén dolgozik, a hagyomány szerint az auráján dolgozik. *\n\n**Bardon elem-színei** (az IIH vizualizációs gyakorlataiból): **tűz — vörös**, **levegő — kék**, **víz — zöldeskék**, **föld — sárga**, **akasha — ibolyás-fekete**. Ez Bardon saját, következetes rendszere — ne keverd össze a csakrák modern szivárvány-kiosztásával: a kettő más térkép.\n\n**A két térkép viszonya:** a teozófiai réteg-sor és Bardon hármasa nem ellenfelek — durvább és finomabb felbontás ugyanarról. A modul gerincének Bardon hármasát használjuk, mert a gyakorlataid — lélektükör, elem-munka — már erre épülnek.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "Bardon's map is simpler and more practical than the theosophical layer series — and for you, walking the path of IIH, it is your mother tongue.\n\n**The threefold division:**\n\n— **Physical body** — the coarse matter.\n— **Astral body** (soul) — the carrier of emotions, desires and character traits. *\n— **Mental body** (spirit) — the thinking, conscious core. *\n\nAccording to the tradition, **matrices** bind the three together: the astral matrix ties the astral body to the physical, the mental matrix ties the mental body to the astral. *\n\n**The gate of the soul mirror:** with Bardon, the astral body's **elemental composition is reflected in your character traits** — fiery anger, watery indifference, airy scatteredness, earthy sloth, and the bright counterpart of each. * Hence the black-and-white soul mirror you wrote at Step I of IIH is in truth the inventory of your astral body: whoever works on their mirror, by the tradition, works on their aura. *\n\n**Bardon's element colours** (from the visualization exercises of IIH): **fire — red**, **air — blue**, **water — greenish-blue**, **earth — yellow**, **akasha — violet-black**. This is Bardon's own consistent system — do not confuse it with the modern rainbow layout of the chakras: the two are different maps.\n\n**The relation of the two maps:** the theosophical layer series and Bardon's triad are not rivals — a coarser and a finer resolution of the same terrain. We use Bardon's triad as the module's spine, because your practices — soul mirror, element work — already build on it.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "Bardon's map is simpler and more practical than the theosophical layer series — and for you, walking the path of IIH, it is your mother tongue.\n\n**The threefold division:**\n\n— **Physical body** — the coarse matter.\n— **Astral body** (soul) — the carrier of emotions, desires and character traits. *\n— **Mental body** (spirit) — the thinking, conscious core. *\n\nAccording to the tradition, **matrices** bind the three together: the astral matrix ties the astral body to the physical, the mental matrix ties the mental body to the astral. *\n\n**The gate of the soul mirror:** with Bardon, the astral body's **elemental composition is reflected in your character traits** — fiery anger, watery indifference, airy scatteredness, earthy sloth, and the bright counterpart of each. * Hence the black-and-white soul mirror you wrote at Step I of IIH is in truth the inventory of your astral body: whoever works on their mirror, by the tradition, works on their aura. *\n\n**Bardon's element colours** (from the visualization exercises of IIH): **fire — red**, **air — blue**, **water — greenish-blue**, **earth — yellow**, **akasha — violet-black**. This is Bardon's own consistent system — do not confuse it with the modern rainbow layout of the chakras: the two are different maps.\n\n**The relation of the two maps:** the theosophical layer series and Bardon's triad are not rivals — a coarser and a finer resolution of the same terrain. We use Bardon's triad as the module's spine, because your practices — soul mirror, element work — already build on it.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Harta lui Bardon este mai simplă și mai practică decât seria de straturi teosofică — și pentru tine, care umbli pe calea IIH, este limba ta maternă.\n\n**Diviziunea triplă:**\n\n— **Corp fizic** — materia grosieră.\n— **Corp astral** (suflet) — purtătorul emoțiilor, dorințelor și trăsăturilor de caracter. *\n— **Corp mental** (spirit) — nucleul gânditor, conștient. *\n\nPotrivit tradiției, **matricele** le leagă pe cele trei: matricea astrală leagă corpul astral de cel fizic, matricea mentală leagă corpul mental de cel astral. *\n\n**Poarta oglinzii sufletului:** la Bardon, **compoziția elementală a corpului astral se oglindește în trăsăturile tale de caracter** — mânia de foc, indiferența de apă, risipirea de aer, lenea de pământ, și contrapartea luminoasă a fiecăreia. * De aceea oglinda sufletului alb-negru pe care ai scris-o la Pasul I din IIH este în realitate inventarul corpului tău astral: cine lucrează la oglinda sa, potrivit tradiției, lucrează la aura sa. *\n\n**Culorile elementelor la Bardon** (din exercițiile de vizualizare din IIH): **foc — roșu**, **aer — albastru**, **apă — albastru-verzui**, **pământ — galben**, **akasha — violet-negru**. Acesta este sistemul consistent al lui Bardon — nu-l confunda cu aranjamentul curcubeu modern al chakrelor: cele două sunt hărți diferite.\n\n**Relația celor două hărți:** seria de straturi teosofică și triada lui Bardon nu sunt rivale — o rezoluție mai grosieră și una mai fină a aceluiași teren. Folosim triada lui Bardon ca șira spinării modulului, pentru că practicile tale — oglinda sufletului, lucrul cu elementele — se bazează deja pe ea.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -53,11 +61,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A kéz-aura gyakorlat",
-        "en": "The Hand-Aura Practice"
+        "en": "The Hand-Aura Practice",
+        "ro": "Practica aurei mâinii"
       },
       "text": {
         "hu": "A kéz-aura a hagyomány klasszikus belépő gyakorlata — és a becsületes munka iskolapéldája, mert itt tanulod meg kettéválasztani: mit produkál a szemed, és mi marad nyitott kérdés.\n\n**Az elrendezés:**\n\n**1.** Válassz **semleges hátteret** — matt szürke vagy törtfehér felület, egyenletes, szórt fényben. Erős lámpa, tarka háttér: kizárva.\n\n**2.** Tartsd a két kezed a háttér elé, és közelítsd az **ujjbegyeidet** egymáshoz úgy, hogy egy-két centis rés maradjon köztük.\n\n**3.** Vedd fel a **lágy tekintetet**: ne az ujjakra fókuszálj, hanem a résre — engedd a fókuszt kissé szétolvadni; a pislogás maradjon természetes.\n\n**4.** Figyeld a **peremet**: derengés, világosabb szegély, halvány színesség jelenhet meg az ujjak körül. Ne nevezd meg, ne minősítsd — csak jegyezd, milyen.\n\n**5.** Aztán **kalibrálj**: mozdítsd lassan az ujjaid — követi-e a derengés, vagy késve úszik utánuk? Pislants — átrajzolódik-e? Az utókép a mozdulatot késve követi és a pislogásra változik; ami így viselkedik, azt a szemed rajzolta.\n\n**A józan alap:** a hosszan nézett kontúr köré a retina fáradása **komplementer színű peremet** rajzol, a szimultán kontraszt pedig világosítja a sötét forma melletti hátteret — a perem-derengés nagy része ezzel magyarázható. A gyakorlat értéke nem a „bizonyíték”, hanem az **érzékenység**: megtanulsz apró árnyalatokat észrevenni és fegyelmezetten jegyezni. Ami a kalibrálás után is kérdés marad, azt írd a naplóba — nyitott kérdésként, nem ítéletként.",
-        "en": "The hand aura is the tradition's classic entry practice — and a textbook case of honest work, because here you learn to separate: what your eye produces, and what remains an open question.\n\n**The setup:**\n\n**1.** Choose a **neutral background** — a matte grey or off-white surface in even, diffuse light. Strong lamps, busy backgrounds: excluded.\n\n**2.** Hold both hands before the background and bring your **fingertips** close, leaving a gap of one or two centimetres.\n\n**3.** Take up the **soft gaze**: do not focus on the fingers but on the gap — let the focus melt slightly; keep blinking natural.\n\n**4.** Watch the **rim**: a glow, a brighter fringe, a faint colouring may appear around the fingers. Do not name it, do not grade it — just note what it is like.\n\n**5.** Then **calibrate**: move your fingers slowly — does the glow follow, or drift behind them? Blink — does it redraw? An afterimage lags behind movement and changes on a blink; whatever behaves this way was drawn by your eye.\n\n**The sober basis:** retinal fatigue draws a **complementary-coloured fringe** around any long-viewed contour, and simultaneous contrast brightens the background beside a dark shape — most of the rim glow is explained by these. The value of the practice is not 'proof' but **sensitivity**: you learn to notice fine shades and to record them with discipline. Whatever remains a question after calibration goes into the journal — as an open question, not a verdict."
+        "en": "The hand aura is the tradition's classic entry practice — and a textbook case of honest work, because here you learn to separate: what your eye produces, and what remains an open question.\n\n**The setup:**\n\n**1.** Choose a **neutral background** — a matte grey or off-white surface in even, diffuse light. Strong lamps, busy backgrounds: excluded.\n\n**2.** Hold both hands before the background and bring your **fingertips** close, leaving a gap of one or two centimetres.\n\n**3.** Take up the **soft gaze**: do not focus on the fingers but on the gap — let the focus melt slightly; keep blinking natural.\n\n**4.** Watch the **rim**: a glow, a brighter fringe, a faint colouring may appear around the fingers. Do not name it, do not grade it — just note what it is like.\n\n**5.** Then **calibrate**: move your fingers slowly — does the glow follow, or drift behind them? Blink — does it redraw? An afterimage lags behind movement and changes on a blink; whatever behaves this way was drawn by your eye.\n\n**The sober basis:** retinal fatigue draws a **complementary-coloured fringe** around any long-viewed contour, and simultaneous contrast brightens the background beside a dark shape — most of the rim glow is explained by these. The value of the practice is not 'proof' but **sensitivity**: you learn to notice fine shades and to record them with discipline. Whatever remains a question after calibration goes into the journal — as an open question, not a verdict.",
+        "ro": "Aura mâinilor este practica clasică de intrare a tradiției — și un caz de manual de lucru onest, pentru că aici înveți să separi: ce produce ochiul tău și ce rămâne o întrebare deschisă.\n\n**Pregătirea:**\n\n**1.** Alege un **fundal neutru** — o suprafață gri mată sau alb-crem, în lumină uniformă, difuză. Lămpi puternice, fundaluri aglomerate: excluse.\n\n**2.** Ține ambele mâini în fața fundalului și apropie-ți **vârfurile degetelor**, lăsând un spațiu de unu sau doi centimetri.\n\n**3.** Ia **privirea moale**: nu te concentra pe degete, ci pe spațiul dintre ele — lasă focalizarea să se topească ușor; clipește natural.\n\n**4.** Urmărește **marginea**: un luciu, o franjură mai luminoasă, o colorare slabă pot apărea în jurul degetelor. Nu o numi, nu o evalua — doar notează cum e.\n\n**5.** Apoi **calibrează**: mișcă-ți degetele încet — urmează luciul, sau rămâne în urmă? Clipește — se redesenează? O postimagine rămâne în urma mișcării și se schimbă la clipit; orice se comportă așa a fost desenat de ochiul tău.\n\n**Baza sobră:** oboseala retinei desenează o **franjură în culoare complementară** în jurul oricărui contur privit îndelung, iar contrastul simultan luminează fundalul de lângă o formă întunecată — cea mai mare parte a luciului de pe margine se explică prin acestea. Valoarea practicii nu e „dovada”, ci **sensibilitatea**: înveți să observi nuanțe fine și să le notezi cu disciplină. Ce rămâne o întrebare după calibrare intră în jurnal — ca întrebare deschisă, nu ca verdict."
       }
     },
     {
@@ -65,34 +75,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Kéz-aura — 5 perc",
-        "en": "Hand Aura — 5 min"
+        "en": "Hand Aura — 5 min",
+        "ro": "Aura mâinilor — 5 min"
       },
       "timer": {
         "durationSeconds": 300,
         "instructions": {
           "hu": "Semleges háttér, szórt fény. Ujjbegyek egy-két centire egymástól, lágy tekintet a résre. Figyeld a peremet címkék nélkül — majd kalibrálj: mozdítsd az ujjaid, pislants, és jegyezd, mi változik.",
-          "en": "Neutral background, diffuse light. Fingertips one or two centimetres apart, soft gaze on the gap. Watch the rim without labels — then calibrate: move your fingers, blink, and note what changes."
+          "en": "Neutral background, diffuse light. Fingertips one or two centimetres apart, soft gaze on the gap. Watch the rim without labels — then calibrate: move your fingers, blink, and note what changes.",
+          "ro": "Fundal neutru, lumină difuză. Vârfurile degetelor la unu sau doi centimetri distanță, privire moale pe spațiul dintre ele. Urmărește marginea fără etichete — apoi calibrează: mișcă degetele, clipește și notează ce se schimbă."
         },
         "intervals": [
           {
             "atSecond": 60,
             "label": {
               "hu": "Lágy tekintet — engedd szétolvadni a fókuszt",
-              "en": "Soft gaze — let the focus melt"
+              "en": "Soft gaze — let the focus melt",
+              "ro": "Privirea moale — lasă focalizarea să se topească"
             }
           },
           {
             "atSecond": 180,
             "label": {
               "hu": "A perem — nevek és ítélet nélkül",
-              "en": "The rim — without names or judgement"
+              "en": "The rim — without names or judgement",
+              "ro": "Marginea — fără nume sau judecată"
             }
           },
           {
             "atSecond": 240,
             "label": {
               "hu": "Kalibrálás — mozdítás, pislantás",
-              "en": "Calibration — move, blink"
+              "en": "Calibration — move, blink",
+              "ro": "Calibrare — mișcă, clipește"
             }
           }
         ]
@@ -103,11 +118,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A periférikus látás edzése",
-        "en": "Training Peripheral Vision"
+        "en": "Training Peripheral Vision",
+        "ro": "Antrenarea vederii periferice"
       },
       "text": {
         "hu": "A látómeződ széle más műszer, mint a közepe: a periférián a **pálcikák** uralkodnak — mozgásra és halvány fényre érzékenyek, színre gyengék. A hagyomány szerint a finom derengések érzékeléséhez éppen ez a „szeglet-látás” a kapu; * a bizonyított rész pedig: a periféria edzése valóban szélesíti a hasznosan használt figyelmet.\n\n**A gyakorlat magja:**\n\n**1.** Válassz egy **fixációs pontot** szemmagasságban, és tartsd rajta a tekinteted — a szemed ne ugráljon.\n\n**2.** A tekintet marad, a **figyelem tágul**: vedd észre, mi mozdul, mi világosodik vagy sötétedik a látómező szélén.\n\n**3.** Segédeszköz kezdéshez: nyújtsd a két karod oldalra, és mozgasd az ujjaid — meddig érzékeled még a mozgást?\n\n**4.** Hosszú, mozdulatlan fixációnál megjelenik a **Troxler-elúszás**: a periféria halványul, színt vált, „elúszik”. Ez a látórendszered saját jelensége — ismerd fel, és egy pislantással állítsd vissza.\n\n**Lágy tekintet emberek közt:** hétköznapi helyzetben — előadáson, várakozásban — vedd fel a lágy tekintetet, és engedd, hogy egy ember körvonaláról **nyers benyomások** érkezzenek: tartás, hangulat, első szín-asszociáció. A szabály ugyanaz, mint az RV-modul AOL-fegyelme: **előbb a nyers benyomás, csak utána a címke** — amint történetet gyártasz belőle, a képzelet vette át az irányítást.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The edge of your visual field is a different instrument from its centre: the periphery is ruled by the **rods** — sensitive to motion and dim light, weak on colour. According to the tradition, this very 'corner-sight' is the gate to sensing subtle glows; * and the proven part: training the periphery genuinely widens the attention you can usefully deploy.\n\n**The core of the practice:**\n\n**1.** Choose a **fixation point** at eye level and hold your gaze on it — your eyes must not jump.\n\n**2.** The gaze stays, the **attention widens**: notice what moves, what brightens or darkens at the edge of the field.\n\n**3.** A starting aid: stretch both arms out to the sides and wiggle your fingers — how far out do you still sense the motion?\n\n**4.** In long, motionless fixation the **Troxler fading** appears: the periphery pales, shifts colour, 'drifts away'. This is your visual system's own phenomenon — recognize it, and restore it with a blink.\n\n**Soft gaze among people:** in everyday situations — a lecture, a queue — take up the soft gaze and let **raw impressions** arrive from a person's outline: posture, mood, a first colour association. The rule is the same as the AOL discipline of the RV module: **raw impression first, label only afterwards** — the moment you spin a story from it, imagination has taken the wheel.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The edge of your visual field is a different instrument from its centre: the periphery is ruled by the **rods** — sensitive to motion and dim light, weak on colour. According to the tradition, this very 'corner-sight' is the gate to sensing subtle glows; * and the proven part: training the periphery genuinely widens the attention you can usefully deploy.\n\n**The core of the practice:**\n\n**1.** Choose a **fixation point** at eye level and hold your gaze on it — your eyes must not jump.\n\n**2.** The gaze stays, the **attention widens**: notice what moves, what brightens or darkens at the edge of the field.\n\n**3.** A starting aid: stretch both arms out to the sides and wiggle your fingers — how far out do you still sense the motion?\n\n**4.** In long, motionless fixation the **Troxler fading** appears: the periphery pales, shifts colour, 'drifts away'. This is your visual system's own phenomenon — recognize it, and restore it with a blink.\n\n**Soft gaze among people:** in everyday situations — a lecture, a queue — take up the soft gaze and let **raw impressions** arrive from a person's outline: posture, mood, a first colour association. The rule is the same as the AOL discipline of the RV module: **raw impression first, label only afterwards** — the moment you spin a story from it, imagination has taken the wheel.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Marginea câmpului tău vizual e un instrument diferit de centrul lui: periferia e stăpânită de **bastonașe** — sensibile la mișcare și la lumină slabă, slabe la culoare. Potrivit tradiției, tocmai această „vedere din colțul ochiului” e poarta spre simțirea lucirilor subtile; * iar partea dovedită: antrenarea periferiei lărgește cu adevărat atenția pe care o poți desfășura cu folos.\n\n**Nucleul practicii:**\n\n**1.** Alege un **punct de fixare** la nivelul ochilor și ține privirea pe el — ochii tăi nu trebuie să sară.\n\n**2.** Privirea rămâne, **atenția se lărgește**: observă ce se mișcă, ce se luminează sau se întunecă la marginea câmpului.\n\n**3.** Un ajutor de start: întinde ambele brațe în laterale și mișcă degetele — până unde mai simți mișcarea?\n\n**4.** La o fixare lungă, nemișcată apare **estomparea Troxler**: periferia pălește, își schimbă culoarea, „se îndepărtează”. Acesta e un fenomen al sistemului tău vizual — recunoaște-l și restaurează-l cu un clipit.\n\n**Privirea moale printre oameni:** în situații de zi cu zi — o prelegere, o coadă — ia privirea moale și lasă **impresiile brute** să sosească din conturul unei persoane: postură, stare, o primă asociere de culoare. Regula e aceeași ca disciplina AOL din modulul RV: **mai întâi impresia brută, eticheta abia după** — în clipa în care țesești o poveste din ea, imaginația a preluat volanul.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -115,34 +132,39 @@
       "kind": "timer",
       "nevek": {
         "hu": "Periféria-edzés — 8 perc",
-        "en": "Periphery Training — 8 min"
+        "en": "Periphery Training — 8 min",
+        "ro": "Antrenamentul periferiei — 8 min"
       },
       "timer": {
         "durationSeconds": 480,
         "instructions": {
           "hu": "Fixációs pont szemmagasságban. A tekintet mozdulatlan, a figyelem tágul: mozgás, fény, árnyalat a széleken. A Troxler-elúszást ismerd fel, és pislantással állítsd vissza. A végén jegyezd a naplóba, mit vettél észre.",
-          "en": "Fixation point at eye level. The gaze motionless, the attention widening: motion, light, shade at the edges. Recognize the Troxler fading and restore it with a blink. At the end, note in the journal what you observed."
+          "en": "Fixation point at eye level. The gaze motionless, the attention widening: motion, light, shade at the edges. Recognize the Troxler fading and restore it with a blink. At the end, note in the journal what you observed.",
+          "ro": "Punct de fixare la nivelul ochilor. Privirea nemișcată, atenția lărgindu-se: mișcare, lumină, umbră la margini. Recunoaște estomparea Troxler și restaureaz-o cu un clipit. La final, notează în jurnal ce ai observat."
         },
         "intervals": [
           {
             "atSecond": 120,
             "label": {
               "hu": "A tekintet marad — a figyelem tágul",
-              "en": "The gaze stays — the attention widens"
+              "en": "The gaze stays — the attention widens",
+              "ro": "Privirea rămâne — atenția se lărgește"
             }
           },
           {
             "atSecond": 300,
             "label": {
               "hu": "Troxler-próba — ismerd fel az elúszást",
-              "en": "Troxler check — recognize the fading"
+              "en": "Troxler check — recognize the fading",
+              "ro": "Verificare Troxler — recunoaște estomparea"
             }
           },
           {
             "atSecond": 420,
             "label": {
               "hu": "Lágyan vissza a középpontba",
-              "en": "Gently back to the centre"
+              "en": "Gently back to the centre",
+              "ro": "Încet înapoi spre centru"
             }
           }
         ]
@@ -153,11 +175,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A színek szótára",
-        "en": "The Dictionary of Colours"
+        "en": "The Dictionary of Colours",
+        "ro": "Dicționarul culorilor"
       },
       "text": {
         "hu": "A hagyomány szín-szótára évszázados megállapodások gyűjteménye — **tájékoztató térkép, nem diagnosztikai eszköz**.\n\n**A klasszikus jelentések:** *\n\n— **Vörös** — vitalitás, szenvedély, erő\n— **Narancs** — kreativitás, életöröm\n— **Sárga** — intellektus, tanulás\n— **Zöld** — gyógyítás, egyensúly\n— **Kék** — nyugalom, odaadás\n— **Ibolya** — spiritualitás — nem véletlen, hogy a Saint Germain-modul Lila Lángja is ezt a színt viseli\n— **Szürkés, zavaros** — kimerültség, elhasználtság\n\n**Hogyan használd?** Fordítva, mint gondolnád. Ne azt kérdezd: „mit jelent, amit láttam?” — hanem azt: „**milyen színnel írnám le, amit érzek?**” Az érzelem és a szín összekapcsolása dokumentált lélektani jelenség — az érzelem–szín szinesztézia valós, kutatott terület —, a szótár tehát a **belső állapotaid nyelveként** működik a legjobban: gazdagítja, amit magadról el tudsz mondani, és pontosítja a naplód.\n\n**A kerítés (nem alku tárgya):** auraszínből — se sajátból, se máséból — **soha nem diagnosztizálunk** betegséget, és nem ítélünk meg jellemet. „Zavaros az aurád” — ilyen mondat ebből a modulból nem születhet. Amit a színek adnak: szókincs az önismerethez és a jegyzőkönyvhöz.[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition's colour dictionary is a collection of centuries-old conventions — **an informative map, not a diagnostic tool**.\n\n**The classic meanings:** *\n\n— **Red** — vitality, passion, strength\n— **Orange** — creativity, joy of life\n— **Yellow** — intellect, learning\n— **Green** — healing, balance\n— **Blue** — calm, devotion\n— **Violet** — spirituality — no accident that the Violet Flame of the Saint Germain module wears this very colour\n— **Greyish, murky** — exhaustion, depletion\n\n**How to use it?** The other way round than you might think. Do not ask: 'what does what I saw mean?' — ask instead: '**with what colour would I describe what I feel?**' Linking emotion and colour is a documented psychological phenomenon — emotion-colour synaesthesia is a real, researched field — so the dictionary works best as **a language for your inner states**: it enriches what you can say about yourself and sharpens your journal.\n\n**The fence (non-negotiable):** from aura colours — your own or anyone else's — **we never diagnose** illness, and we never judge character. 'Your aura is murky' — no such sentence can be born of this module. What the colours give: a vocabulary for self-knowledge and for the record.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "The tradition's colour dictionary is a collection of centuries-old conventions — **an informative map, not a diagnostic tool**.\n\n**The classic meanings:** *\n\n— **Red** — vitality, passion, strength\n— **Orange** — creativity, joy of life\n— **Yellow** — intellect, learning\n— **Green** — healing, balance\n— **Blue** — calm, devotion\n— **Violet** — spirituality — no accident that the Violet Flame of the Saint Germain module wears this very colour\n— **Greyish, murky** — exhaustion, depletion\n\n**How to use it?** The other way round than you might think. Do not ask: 'what does what I saw mean?' — ask instead: '**with what colour would I describe what I feel?**' Linking emotion and colour is a documented psychological phenomenon — emotion-colour synaesthesia is a real, researched field — so the dictionary works best as **a language for your inner states**: it enriches what you can say about yourself and sharpens your journal.\n\n**The fence (non-negotiable):** from aura colours — your own or anyone else's — **we never diagnose** illness, and we never judge character. 'Your aura is murky' — no such sentence can be born of this module. What the colours give: a vocabulary for self-knowledge and for the record.[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Dicționarul de culori al tradiției e o colecție de convenții vechi de secole — **o hartă informativă, nu un instrument de diagnostic**.\n\n**Semnificațiile clasice:** *\n\n— **Roșu** — vitalitate, pasiune, forță\n— **Portocaliu** — creativitate, bucuria de a trăi\n— **Galben** — intelect, învățare\n— **Verde** — vindecare, echilibru\n— **Albastru** — calm, devoțiune\n— **Violet** — spiritualitate — nu e întâmplător că Violet Flame din modulul Saint Germain poartă tocmai această culoare\n— **Cenușiu, tulbure** — epuizare, sleire\n\n**Cum îl folosești?** Invers decât ai crede. Nu întreba: „ce înseamnă ce am văzut?” — întreabă în schimb: „**cu ce culoare aș descrie ce simt?**” Legătura dintre emoție și culoare e un fenomen psihologic documentat — sinestezia emoție-culoare e un domeniu real, cercetat — așa că dicționarul funcționează cel mai bine ca **un limbaj pentru stările tale interioare**: îmbogățește ce poți spune despre tine și ascuțe jurnalul.\n\n**Gardul (non-negociabil):** din culorile aurei — ale tale sau ale oricui altcuiva — **nu diagnosticăm niciodată** boala și nu judecăm niciodată caracterul. „Aura ta e tulbure” — o asemenea propoziție nu se poate naște din acest modul. Ce oferă culorile: un vocabular pentru cunoașterea de sine și pentru însemnare.[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       }
     },
     {
@@ -165,11 +189,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "A józan lencse — a műszered leírása",
-        "en": "The Sober Lens — a Description of Your Instrument"
+        "en": "The Sober Lens — a Description of Your Instrument",
+        "ro": "Lentila sobră — o descriere a instrumentului tău"
       },
       "text": {
         "hu": "Ez a lecke a műszered kézikönyve — mert az első számú műszered a saját látórendszered, és annak **saját jelenségei** vannak. Aki ezeket nem ismeri, az a szemét olvassa, és azt hiszi, a világot.\n\n**1. Utókép.** A retina receptorai fáradnak: hosszan nézett szín után komplementer folt, hosszan nézett kontúr körül komplementer perem jelenik meg. A kéz körüli derengés nagy része ez.\n\n**2. Szimultán kontraszt.** A szomszédos felületek eltolják egymás észlelt színét és világosságát: a sötét kéz melletti háttér pereme világosabbnak látszik.\n\n**3. Troxler-halványulás.** Mozdulatlan fixációnál a periféria elhalványul, elszíneződik, „elúszik” — a rendszer a változatlan ingerekhez hozzászokik.\n\n**4. A periféria természete.** Pálcika-dominancia: mozgásra és fényre érzékeny, színre csaknem vak. A szélen látott derengés színtelensége nem titok — műszaki adottság.\n\n**5. Érzelem–szín kapcsolat.** Az érzelem–szín szinesztézia dokumentált neurológiai jelenség; az „auralátás”-élmények egy része ide sorolható — valódi élmény, belső forrásból.\n\n**6. A migrénes aura MÁS.** A cikcakkos, vibráló, terjedő látványjelenség neurológiai tünet, nem érzékfeletti érzékelés. Ha ilyet tapasztalsz — különösen fejfájással, zsibbadással —, fordulj orvoshoz.\n\n**Mire jó mindez?** Ugyanarra, amire a mentalizmus-modul **hideg-olvasás pajzsa**: aki ismeri a mechanizmust, az magát sem csapja be a „találatokkal”. A kalibrált megfigyelő nem kevesebbet lát — többet, mert tudja, melyik jel honnan jön.",
-        "en": "This lesson is the manual of your instrument — for your primary instrument is your own visual system, and it has **phenomena of its own**. Whoever does not know them reads their eye and believes they are reading the world.\n\n**1. Afterimage.** Retinal receptors tire: a long-viewed colour leaves a complementary patch, a long-viewed contour gains a complementary fringe. Most of the glow around the hand is this.\n\n**2. Simultaneous contrast.** Neighbouring surfaces shift each other's perceived colour and brightness: the background rim beside a dark hand looks brighter.\n\n**3. Troxler fading.** In motionless fixation the periphery pales, discolours, 'drifts away' — the system habituates to unchanging stimuli.\n\n**4. The nature of the periphery.** Rod dominance: sensitive to motion and light, nearly blind to colour. The colourlessness of a glow seen at the edge is no secret — it is an engineering fact.\n\n**5. The emotion-colour link.** Emotion-colour synaesthesia is a documented neurological phenomenon; a share of 'aura-seeing' experiences belongs here — a real experience, from an inner source.\n\n**6. The migraine aura is DIFFERENT.** The zigzagging, shimmering, spreading visual event is a neurological symptom, not extrasensory perception. If you experience it — especially with headache or numbness — see a doctor.\n\n**What is all this for?** The same thing the mentalism module's **cold-reading shield** is for: who knows the mechanism does not fool even themselves with 'hits'. The calibrated observer sees not less — more, because they know which signal comes from where."
+        "en": "This lesson is the manual of your instrument — for your primary instrument is your own visual system, and it has **phenomena of its own**. Whoever does not know them reads their eye and believes they are reading the world.\n\n**1. Afterimage.** Retinal receptors tire: a long-viewed colour leaves a complementary patch, a long-viewed contour gains a complementary fringe. Most of the glow around the hand is this.\n\n**2. Simultaneous contrast.** Neighbouring surfaces shift each other's perceived colour and brightness: the background rim beside a dark hand looks brighter.\n\n**3. Troxler fading.** In motionless fixation the periphery pales, discolours, 'drifts away' — the system habituates to unchanging stimuli.\n\n**4. The nature of the periphery.** Rod dominance: sensitive to motion and light, nearly blind to colour. The colourlessness of a glow seen at the edge is no secret — it is an engineering fact.\n\n**5. The emotion-colour link.** Emotion-colour synaesthesia is a documented neurological phenomenon; a share of 'aura-seeing' experiences belongs here — a real experience, from an inner source.\n\n**6. The migraine aura is DIFFERENT.** The zigzagging, shimmering, spreading visual event is a neurological symptom, not extrasensory perception. If you experience it — especially with headache or numbness — see a doctor.\n\n**What is all this for?** The same thing the mentalism module's **cold-reading shield** is for: who knows the mechanism does not fool even themselves with 'hits'. The calibrated observer sees not less — more, because they know which signal comes from where.",
+        "ro": "Această lecție este manualul instrumentului tău — căci instrumentul tău principal este propriul tău sistem vizual, și el are **fenomene proprii**. Cine nu le cunoaște își citește ochiul și crede că citește lumea.\n\n**1. Imaginea reziduală.** Receptorii retinei obosesc: o culoare privită îndelung lasă o pată complementară, un contur privit îndelung capătă o franjură complementară. Cea mai mare parte a strălucirii din jurul mâinii este aceasta.\n\n**2. Contrastul simultan.** Suprafețele vecine își modifică reciproc culoarea și luminozitatea percepută: marginea fundalului de lângă o mână întunecată pare mai luminoasă.\n\n**3. Estomparea Troxler.** În fixare nemișcată periferia palidează, se decolorează, 'se îndepărtează' — sistemul se obișnuiește cu stimulii neschimbători.\n\n**4. Natura periferiei.** Dominanța bastonașelor: sensibile la mișcare și lumină, aproape oarbe la culoare. Lipsa de culoare a unei străluciri văzute la margine nu e un secret — e un fapt de inginerie.\n\n**5. Legătura emoție-culoare.** Sinestezia emoție-culoare este un fenomen neurologic documentat; o parte din experiențele de 'văzut aură' țin de aici — o experiență reală, dintr-o sursă interioară.\n\n**6. Aura de migrenă este DIFERITĂ.** Evenimentul vizual în zigzag, sclipitor, care se răspândește este un simptom neurologic, nu percepție extrasenzorială. Dacă îl experimentezi — mai ales cu durere de cap sau amorțeală — vezi un medic.\n\n**La ce e bun tot asta?** La același lucru pentru care e **scutul de cold-reading** al modulului de mentalism: cine cunoaște mecanismul nu se înșală nici pe sine cu 'nimeriri'. Observatorul calibrat nu vede mai puțin — ci mai mult, pentru că știe de unde vine fiecare semnal."
       }
     },
     {
@@ -177,11 +203,13 @@
       "kind": "markdown",
       "nevek": {
         "hu": "Kerítések, etika, források",
-        "en": "Fences, Ethics, Sources"
+        "en": "Fences, Ethics, Sources",
+        "ro": "Garduri, Etică, Surse"
       },
       "text": {
         "hu": "**A modul kerítései — nem alku tárgya:**\n\n**1. Nincs diagnózis.** Auraszínből, derengésből, benyomásból soha nem állapítunk meg betegséget — se magunknál, se másnál. Egészségi panasszal orvoshoz fordulsz; a gyakorlás ellátást nem helyettesít és nem késleltethet — a Kaspirovszkij-modul gyógyítás-kerítése itt is változatlanul áll.\n\n**2. Nincs jellem-ítélet.** Egy ember nem a „zavaros sárgája”. A benyomás jegyzőkönyv-nyersanyag, nem ítélet.\n\n**3. Nincs beleegyezés nélküli „letapogatás”.** Célzott gyakorlást emberen csak kölcsönös megállapodással végzünk. Bardon a mentálvándorlás etikájánál (IIH VIII. lépés — lásd az iih.theme.mentalwandering modult is) ugyanezt tanítja: a másik sérthetetlensége feltétel, nem díszítés.\n\n**4. A szemed egészsége.** Erős fénybe vagy a napba nézni tilos. Ha a gyakorlás fejfájást, szédülést okoz, tarts szünetet. Új, szokatlan látásjelenség — villódzás, látótér-kiesés — orvosi kérdés, nem gyakorlási eredmény.\n\n**5. Akut krízisben** — szorongás, pánik, nyomasztó lelki teher — szakemberhez fordulj; a gyakorlás ilyenkor szünetel.\n\n**Források:** a modul C. W. Leadbeater *Man Visible and Invisible* (1902), Besant–Leadbeater *Thought-Forms* (1905) és W. J. Kilner *The Human Atmosphere* (1911) közkincs művei, valamint Franz Bardon *Út a valódi beavatáshoz* (IIH) tanai nyomán készült — minden mondat saját összefoglaló megfogalmazás, nem idézet. A látórendszeri jelenségek (utókép, szimultán kontraszt, Troxler-halványulás) a látáskutatás jól dokumentált alapanyagai.\n\n*Ez a modul nem orvosi és nem pszichológiai tanács. A gyakorlatokat nyugodt, biztonságos helyzetben végezd — vezetés vagy gépkezelés közben soha.*",
-        "en": "**The module's fences — non-negotiable:**\n\n**1. No diagnosis.** From aura colours, glows or impressions we never determine illness — neither in ourselves nor in others. With any health complaint you see a doctor; practice neither replaces nor may delay care — the healing fence of the Kashpirovsky module stands unchanged here as well.\n\n**2. No character verdicts.** A person is not their 'murky yellow'. An impression is raw material for the record, not a judgement.\n\n**3. No 'scanning' without consent.** Deliberate practice on a person happens only by mutual agreement. Bardon teaches the same in the ethics of mental wandering (IIH Step VIII — see also the iih.theme.mentalwandering module): the other's inviolability is a condition, not a decoration.\n\n**4. The health of your eyes.** Looking into strong light or the sun is forbidden. If practice brings headache or dizziness, pause. A new, unusual visual phenomenon — flickering, a gap in the visual field — is a medical question, not an achievement of practice.\n\n**5. In acute crisis** — anxiety, panic, oppressive distress — turn to a professional; practice pauses then.\n\n**Sources:** this module draws on the public-domain works of C. W. Leadbeater, *Man Visible and Invisible* (1902), Besant–Leadbeater, *Thought-Forms* (1905) and W. J. Kilner, *The Human Atmosphere* (1911), and on the teachings of Franz Bardon's *Initiation Into Hermetics* (IIH) — every sentence is an original summary in our own words, not a quotation. The visual-system phenomena (afterimage, simultaneous contrast, Troxler fading) are well-documented staples of vision research.\n\n*This module is not medical or psychological advice. Do the practices in calm, safe settings — never while driving or operating machinery.*"
+        "en": "**The module's fences — non-negotiable:**\n\n**1. No diagnosis.** From aura colours, glows or impressions we never determine illness — neither in ourselves nor in others. With any health complaint you see a doctor; practice neither replaces nor may delay care — the healing fence of the Kashpirovsky module stands unchanged here as well.\n\n**2. No character verdicts.** A person is not their 'murky yellow'. An impression is raw material for the record, not a judgement.\n\n**3. No 'scanning' without consent.** Deliberate practice on a person happens only by mutual agreement. Bardon teaches the same in the ethics of mental wandering (IIH Step VIII — see also the iih.theme.mentalwandering module): the other's inviolability is a condition, not a decoration.\n\n**4. The health of your eyes.** Looking into strong light or the sun is forbidden. If practice brings headache or dizziness, pause. A new, unusual visual phenomenon — flickering, a gap in the visual field — is a medical question, not an achievement of practice.\n\n**5. In acute crisis** — anxiety, panic, oppressive distress — turn to a professional; practice pauses then.\n\n**Sources:** this module draws on the public-domain works of C. W. Leadbeater, *Man Visible and Invisible* (1902), Besant–Leadbeater, *Thought-Forms* (1905) and W. J. Kilner, *The Human Atmosphere* (1911), and on the teachings of Franz Bardon's *Initiation Into Hermetics* (IIH) — every sentence is an original summary in our own words, not a quotation. The visual-system phenomena (afterimage, simultaneous contrast, Troxler fading) are well-documented staples of vision research.\n\n*This module is not medical or psychological advice. Do the practices in calm, safe settings — never while driving or operating machinery.*",
+        "ro": "**Gardurile modulului — de nenegociat:**\n\n**1. Fără diagnostic.** Din culorile aurei, străluciri sau impresii nu determinăm niciodată boala — nici la noi înșine, nici la alții. Cu orice plângere de sănătate vezi un medic; practica nici nu înlocuiește, nici nu poate amâna îngrijirea — gardul de vindecare al modulului Kashpirovsky rămâne neschimbat și aici.\n\n**2. Fără verdicte de caracter.** O persoană nu este 'galbenul ei tulbure'. O impresie este materie primă pentru însemnare, nu o judecată.\n\n**3. Fără 'scanare' fără consimțământ.** Practica deliberată pe o persoană se face numai prin acord reciproc. Bardon predă același lucru în etica rătăcirii mentale (IIH Pasul VIII — vezi și modulul iih.theme.mentalwandering): inviolabilitatea celuilalt este o condiție, nu o decorație.\n\n**4. Sănătatea ochilor tăi.** Privitul în lumină puternică sau în soare este interzis. Dacă practica aduce durere de cap sau amețeală, oprește-te. Un fenomen vizual nou, neobișnuit — pâlpâire, o lacună în câmpul vizual — este o întrebare medicală, nu o realizare a practicii.\n\n**5. În criză acută** — anxietate, panică, suferință apăsătoare — apelează la un profesionist; practica se oprește atunci.\n\n**Surse:** acest modul se bazează pe lucrările din domeniul public ale lui C. W. Leadbeater, *Man Visible and Invisible* (1902), Besant–Leadbeater, *Thought-Forms* (1905) și W. J. Kilner, *The Human Atmosphere* (1911), și pe învățăturile din *Initiation Into Hermetics* (IIH) a lui Franz Bardon — fiecare propoziție este un rezumat original în cuvintele noastre, nu un citat. Fenomenele sistemului vizual (imaginea reziduală, contrastul simultan, estomparea Troxler) sunt elemente de bază bine documentate ale cercetării vederii.\n\n*Acest modul nu este sfat medical sau psihologic. Fă practicile în medii calme, sigure — niciodată în timp ce conduci sau manevrezi utilaje.*"
       }
     },
     {
@@ -189,7 +217,8 @@
       "kind": "aspektusPack",
       "nevek": {
         "hu": "A megfigyelő jellemvonásai",
-        "en": "The Observer's Character Traits"
+        "en": "The Observer's Character Traits",
+        "ro": "Trăsăturile de caracter ale observatorului"
       },
       "aspektusPack": [
         {
@@ -198,7 +227,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Kivetítés a látottakba",
-            "en": "Projecting into what is seen"
+            "en": "Projecting into what is seen",
+            "ro": "Proiectarea în ceea ce este văzut"
           }
         },
         {
@@ -207,7 +237,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Ítélkező címkézés",
-            "en": "Judgemental labeling"
+            "en": "Judgemental labeling",
+            "ro": "Etichetare judecătoare"
           }
         },
         {
@@ -216,7 +247,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Hiszékeny önámítás",
-            "en": "Credulous self-deception"
+            "en": "Credulous self-deception",
+            "ro": "Autoamăgire credulă"
           }
         },
         {
@@ -225,7 +257,8 @@
           "tukor": "fekete",
           "nevek": {
             "hu": "Erőltetett, görcsös bámulás",
-            "en": "Strained, forced staring"
+            "en": "Strained, forced staring",
+            "ro": "Privire încordată, forțată"
           }
         },
         {
@@ -234,7 +267,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Lágy, elfogadó tekintet",
-            "en": "Soft, accepting gaze"
+            "en": "Soft, accepting gaze",
+            "ro": "Privire blândă, acceptantă"
           }
         },
         {
@@ -243,7 +277,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Józan megkülönböztetés",
-            "en": "Sober discernment"
+            "en": "Sober discernment",
+            "ro": "Discernământ treaz"
           }
         },
         {
@@ -252,7 +287,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Türelmes, rendszeres gyakorlás",
-            "en": "Patient, regular practice"
+            "en": "Patient, regular practice",
+            "ro": "Practică răbdătoare, regulată"
           }
         },
         {
@@ -261,7 +297,8 @@
           "tukor": "feher",
           "nevek": {
             "hu": "Eleven, éber érzékenység",
-            "en": "Vivid, alert sensitivity"
+            "en": "Vivid, alert sensitivity",
+            "ro": "Sensibilitate vie, alertă"
           }
         }
       ]
@@ -271,7 +308,8 @@
       "kind": "journalTemplate",
       "nevek": {
         "hu": "Aura-megfigyelési napló",
-        "en": "Aura Observation Log"
+        "en": "Aura Observation Log",
+        "ro": "Jurnal de observare a aurei"
       },
       "journalTemplate": {
         "aspektusKeys": [
@@ -279,7 +317,8 @@
         ],
         "prompts": {
           "hu": "KALIBRÁLÁS — A mai utókép-próba tanulsága (mit rajzolt maga a látórendszerem?): ___\n\nKÉZ-AURA — Háttér, fény, a perem-derengés jellege (szín, szélesség, viselkedés mozdításra/pislantásra): ___\n\nPERIFÉRIA — Mit vettem észre a látómező szélén, amit korábban nem: ___\n\nBENYOMÁS ELŐBB, CÍMKE UTÁNA — Nyers benyomásaim, mielőtt megneveztem volna őket: ___\n\nJÓZAN JEGYZET — Mennyit magyaráz az utókép és a kontraszt, és mi maradt nyitott kérdés: ___",
-          "en": "CALIBRATION — Today's afterimage check and its lesson (what did my visual system itself draw?): ___\n\nHAND AURA — Background, light, character of the rim glow (colour, width, behaviour on movement/blink): ___\n\nPERIPHERY — What I noticed at the edge of the field that I had not before: ___\n\nIMPRESSION FIRST, LABEL AFTER — My raw impressions before I named them: ___\n\nSOBER NOTE — How much the afterimage and contrast explain, and what remained an open question: ___"
+          "en": "CALIBRATION — Today's afterimage check and its lesson (what did my visual system itself draw?): ___\n\nHAND AURA — Background, light, character of the rim glow (colour, width, behaviour on movement/blink): ___\n\nPERIPHERY — What I noticed at the edge of the field that I had not before: ___\n\nIMPRESSION FIRST, LABEL AFTER — My raw impressions before I named them: ___\n\nSOBER NOTE — How much the afterimage and contrast explain, and what remained an open question: ___",
+          "ro": "CALIBRARE — Verificarea de azi a imaginii reziduale și lecția ei (ce a desenat însuși sistemul meu vizual?): ___\n\nAURA MÂINII — Fundal, lumină, caracterul strălucirii de pe margine (culoare, lățime, comportament la mișcare/clipit): ___\n\nPERIFERIE — Ce am observat la marginea câmpului pe care nu-l observasem înainte: ___\n\nMAI ÎNTÂI IMPRESIA, APOI ETICHETA — Impresiile mele brute înainte să le numesc: ___\n\nNOTĂ TREAZĂ — Cât explică imaginea reziduală și contrastul, și ce a rămas o întrebare deschisă: ___"
         }
       }
     },
@@ -288,7 +327,8 @@
       "kind": "checklist",
       "nevek": {
         "hu": "A gyakorlat elsajátítása",
-        "en": "Mastery of the Practice"
+        "en": "Mastery of the Practice",
+        "ro": "Stăpânirea practicii"
       },
       "checklist": {
         "items": [
@@ -296,42 +336,48 @@
             "key": "c1",
             "nevek": {
               "hu": "Utókép-kalibrálás elvégezve — ismered a látórendszered saját jelenségeit",
-              "en": "Afterimage calibration done — you know your visual system's own phenomena"
+              "en": "Afterimage calibration done — you know your visual system's own phenomena",
+              "ro": "Calibrarea imaginii reziduale făcută — îți cunoști fenomenele proprii ale sistemului vizual"
             }
           },
           {
             "key": "c2",
             "nevek": {
               "hu": "Kéz-aura gyakorlat semleges háttérrel, több napon át",
-              "en": "Hand-aura practice with a neutral background, over several days"
+              "en": "Hand-aura practice with a neutral background, over several days",
+              "ro": "Practica aurei mâinii pe fundal neutru, de-a lungul mai multor zile"
             }
           },
           {
             "key": "c3",
             "nevek": {
               "hu": "Periféria-edzés rendszeresen, mozdulatlan fixációval",
-              "en": "Periphery training regularly, with motionless fixation"
+              "en": "Periphery training regularly, with motionless fixation",
+              "ro": "Antrenamentul periferiei în mod regulat, cu fixare nemișcată"
             }
           },
           {
             "key": "c4",
             "nevek": {
               "hu": "A szín-szótár megtanulva — szókincsként, nem diagnózisként",
-              "en": "The colour dictionary learned — as vocabulary, not diagnosis"
+              "en": "The colour dictionary learned — as vocabulary, not diagnosis",
+              "ro": "Dicționarul de culori învățat — ca vocabular, nu ca diagnostic"
             }
           },
           {
             "key": "c5",
             "nevek": {
               "hu": "Napló vezetve: nyers benyomás előbb, címke csak utána",
-              "en": "Journal kept: raw impression first, label only after"
+              "en": "Journal kept: raw impression first, label only after",
+              "ro": "Jurnal ținut: mai întâi impresia brută, eticheta abia după"
             }
           },
           {
             "key": "c6",
             "nevek": {
               "hu": "A kerítések belsővé téve: nincs diagnózis, nincs beleegyezés nélküli letapogatás",
-              "en": "The fences internalized: no diagnosis, no scanning without consent"
+              "en": "The fences internalized: no diagnosis, no scanning without consent",
+              "ro": "Gardurile interiorizate: fără diagnostic, fără scanare fără consimțământ"
             }
           }
         ]
@@ -342,7 +388,8 @@
       "kind": "quiz",
       "nevek": {
         "hu": "Önellenőrzés",
-        "en": "Self-Check"
+        "en": "Self-Check",
+        "ro": "Autoverificare"
       },
       "quiz": {
         "passThreshold": 3,
@@ -351,7 +398,8 @@
             "id": "q1",
             "prompt": {
               "hu": "Mi Bardon hármas felosztása?",
-              "en": "What is Bardon's threefold division?"
+              "en": "What is Bardon's threefold division?",
+              "ro": "Care este diviziunea triplă a lui Bardon?"
             },
             "options": {
               "hu": [
@@ -365,6 +413,12 @@
                 "Physical body, astral body (soul), mental body (spirit)",
                 "Seven chakras along the spine",
                 "Conscious, subconscious, superego"
+              ],
+              "ro": [
+                "Învelișuri eteric, astral și mental",
+                "Corp fizic, corp astral (suflet), corp mental (spirit)",
+                "Șapte chakre de-a lungul coloanei vertebrale",
+                "Conștient, subconștient, superego"
               ]
             },
             "correctIndex": 1
@@ -373,7 +427,8 @@
             "id": "q2",
             "prompt": {
               "hu": "Józan lencsével mi magyarázza a kéz körüli perem-derengés nagy részét?",
-              "en": "Through the sober lens, what explains most of the rim glow around the hand?"
+              "en": "Through the sober lens, what explains most of the rim glow around the hand?",
+              "ro": "Prin lentila trează, ce explică cea mai mare parte a strălucirii de pe marginea mâinii?"
             },
             "options": {
               "hu": [
@@ -387,6 +442,12 @@
                 "The humidity of the air",
                 "The afterimage phenomenon and simultaneous contrast — the visual system's own workings",
                 "The temperature of the hand"
+              ],
+              "ro": [
+                "Strălucirea corpului eteric",
+                "Umiditatea aerului",
+                "Fenomenul imaginii reziduale și contrastul simultan — mecanismele proprii ale sistemului vizual",
+                "Temperatura mâinii"
               ]
             },
             "correctIndex": 2
@@ -395,7 +456,8 @@
             "id": "q3",
             "prompt": {
               "hu": "Mit szabad auraszínből megállapítani?",
-              "en": "What may be determined from aura colours?"
+              "en": "What may be determined from aura colours?",
+              "ro": "Ce se poate determina din culorile aurei?"
             },
             "options": {
               "hu": [
@@ -409,6 +471,12 @@
                 "Other people's character",
                 "No diagnosis of any kind — the colour dictionary is a vocabulary for self-knowledge, not a measuring device",
                 "The future"
+              ],
+              "ro": [
+                "Boala, dacă ești suficient de exersat",
+                "Caracterul altor oameni",
+                "Niciun fel de diagnostic — dicționarul de culori este un vocabular pentru cunoașterea de sine, nu un instrument de măsură",
+                "Viitorul"
               ]
             },
             "correctIndex": 2
@@ -417,7 +485,8 @@
             "id": "q4",
             "prompt": {
               "hu": "Melyik Bardon-féle elem-szín párosítás helyes?",
-              "en": "Which Bardon element-colour pairing is correct?"
+              "en": "Which Bardon element-colour pairing is correct?",
+              "ro": "Care asociere element-culoare după Bardon este corectă?"
             },
             "options": {
               "hu": [
@@ -431,6 +500,12 @@
                 "Fire — yellow, air — green, water — blue, earth — red",
                 "Fire — orange, air — white, water — purple, earth — black",
                 "All four elements are rainbow-coloured"
+              ],
+              "ro": [
+                "Foc — roșu, aer — albastru, apă — albastru-verzui, pământ — galben",
+                "Foc — galben, aer — verde, apă — albastru, pământ — roșu",
+                "Foc — portocaliu, aer — alb, apă — violet, pământ — negru",
+                "Toate cele patru elemente sunt în culorile curcubeului"
               ]
             },
             "correctIndex": 0
