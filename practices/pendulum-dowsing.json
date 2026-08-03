@@ -3,7 +3,8 @@
   "id": "practice-pack-pendulum-dowsing",
   "nevek": {
     "hu": "Inga és varázsvessző — gyakorlatok",
-    "en": "Pendulum and Dowsing — practices"
+    "en": "Pendulum and Dowsing — practices",
+    "ro": "Pendulul și radiestezia — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,37 +16,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Az inga elkészítése és tartása",
-        "en": "Making and holding the pendulum"
+        "en": "Making and holding the pendulum",
+        "ro": "Confecționarea și ținerea pendulului"
       },
       "cel": {
         "hu": "Egy egyszerű, jól kézre álló inga elkészítése és a nyugodt, érzékeny tartás begyakorlása — minden későbbi munka testi alapja.",
-        "en": "To make a simple, well-fitting pendulum and to train the calm, sensitive hold — the bodily foundation of all later work."
+        "en": "To make a simple, well-fitting pendulum and to train the calm, sensitive hold — the bodily foundation of all later work.",
+        "ro": "Să-ți faci un pendul simplu, care să-ți stea bine în mână, și să-ți exersezi ținerea calmă și sensibilă — temelia trupească a întregii munci de mai târziu."
       },
       "modszer": [
         {
           "hu": "Válassz vagy készíts ingát: bármilyen kis súly megteszi — gyűrű, anyacsavar, medál — 15–20 centis zsinóron; nem az anyag számít, hanem a kéz.",
-          "en": "Choose or make a pendulum: any small weight will do — a ring, a nut, a locket — on a cord of 15–20 centimetres; it is not the material that matters but the hand."
+          "en": "Choose or make a pendulum: any small weight will do — a ring, a nut, a locket — on a cord of 15–20 centimetres; it is not the material that matters but the hand.",
+          "ro": "Alege-ți sau fă-ți un pendul: orice greutate mică e bună — un inel, o piuliță, un medalion — pe un fir de 15–20 de centimetri; nu materialul contează, ci mâna."
         },
         {
           "hu": "Ülj asztalhoz, és fogd a zsinórt hüvelyk- és mutatóujjad közé, mintegy 10–15 centit hagyva a súlyig.",
-          "en": "Sit at a table and take the cord between thumb and index finger, leaving about 10–15 centimetres to the weight."
+          "en": "Sit at a table and take the cord between thumb and index finger, leaving about 10–15 centimetres to the weight.",
+          "ro": "Așază-te la masă și prinde firul între degetul mare și arătător, lăsând vreo 10–15 centimetri până la greutate."
         },
         {
           "hu": "A kezed legyen nyugodt, de ne merev; a csuklód szabad, a vállad leengedve.",
-          "en": "Keep your hand calm but not rigid; your wrist free, your shoulder dropped."
+          "en": "Keep your hand calm but not rigid; your wrist free, your shoulder dropped.",
+          "ro": "Ține mâna liniștită, dar nu încordată; încheietura liberă, umărul lăsat în jos."
         },
         {
           "hu": "Hagyd az ingát teljesen elcsendesedni, és figyeld néhány percig a nyugalmi pontját.",
-          "en": "Let the pendulum settle completely and observe its resting point for a few minutes."
+          "en": "Let the pendulum settle completely and observe its resting point for a few minutes.",
+          "ro": "Lasă pendulul să se oprească de tot și privește-i câteva minute punctul de repaus."
         },
         {
           "hu": "Kísérletezz a zsinórhosszal: keresd meg, melyiknél a legérzékenyebb és mégis nyugodt a rendszer.",
-          "en": "Experiment with the cord length: find where the system is most sensitive and yet calm."
+          "en": "Experiment with the cord length: find where the system is most sensitive and yet calm.",
+          "ro": "Încearcă diferite lungimi de fir: caut-o pe aceea la care întregul e cel mai sensibil și totuși liniștit."
         }
       ],
       "keret": {
         "hu": "Az inga nem szent tárgy, hanem erősítő: a kéz parányi mozgásait teszi láthatóvá. Drága kristály semmivel sem tud többet egy anyacsavarnál — a valódi hangszer a nyugodt kezed.",
-        "en": "The pendulum is not a sacred object but an amplifier: it makes the hand's minuscule movements visible. An expensive crystal knows nothing a nut does not — the true instrument is your calm hand."
+        "en": "The pendulum is not a sacred object but an amplifier: it makes the hand's minuscule movements visible. An expensive crystal knows nothing a nut does not — the true instrument is your calm hand.",
+        "ro": "Pendulul nu este un obiect sacru, ci un amplificator: face vizibile mișcările minuscule ale mâinii. Un cristal scump nu știe nimic în plus față de o piuliță — adevăratul instrument este mâna ta liniștită."
       },
       "sorszam": 1
     },
@@ -56,37 +65,45 @@
       "sik": "test",
       "cim": {
         "hu": "Kalibrálás — a három jel",
-        "en": "Calibration — the three signals"
+        "en": "Calibration — the three signals",
+        "ro": "Calibrarea — cele trei semnale"
       },
       "cel": {
         "hu": "A személyes IGEN / NEM / NEM TUDOM jelmintázat rögzítése — minden ülés kötelező nyitánya.",
-        "en": "To record the personal YES / NO / DON'T KNOW signal pattern — the mandatory opening of every session."
+        "en": "To record the personal YES / NO / DON'T KNOW signal pattern — the mandatory opening of every session.",
+        "ro": "Să-ți fixezi tiparul personal de semnale DA / NU / NU ȘTIU — deschiderea obligatorie a fiecărei ședințe."
       },
       "modszer": [
         {
           "hu": "Vedd fel a begyakorolt tartást, és hagyd az ingát elcsendesedni a nyugalmi pontján.",
-          "en": "Take up the trained hold and let the pendulum settle at its resting point."
+          "en": "Take up the trained hold and let the pendulum settle at its resting point.",
+          "ro": "Ia ținerea exersată și lasă pendulul să se oprească în punctul lui de repaus."
         },
         {
           "hu": "Mondd ki magadban, nyugodtan: „Mutass IGEN-t” — és várd meg, milyen mozgás bontakozik ki; jegyezd fel.",
-          "en": "Say inwardly, calmly: 'Show me YES' — and wait for the motion that unfolds; write it down."
+          "en": "Say inwardly, calmly: 'Show me YES' — and wait for the motion that unfolds; write it down.",
+          "ro": "Spune în tine, liniștit: „Arată-mi DA” — și așteaptă mișcarea care se conturează; notează-o."
         },
         {
           "hu": "Csendesítsd el újra az ingát, majd kérd ugyanígy a NEM-et, végül a NEM TUDOM-ot.",
-          "en": "Still the pendulum again, then ask the same way for NO, and finally for DON'T KNOW."
+          "en": "Still the pendulum again, then ask the same way for NO, and finally for DON'T KNOW.",
+          "ro": "Oprește iar pendulul, apoi cere la fel NU, iar la urmă NU ȘTIU."
         },
         {
           "hu": "Ismételd a kört, míg a három jel egyértelműen elkülönül egymástól.",
-          "en": "Repeat the round until the three signals are clearly distinct from one another."
+          "en": "Repeat the round until the three signals are clearly distinct from one another.",
+          "ro": "Repetă runda până când cele trei semnale se deosebesc limpede unul de altul."
         },
         {
           "hu": "Minden ülés elején kalibrálj újra — a jelek napszakkal és hangulattal finoman változhatnak.",
-          "en": "Recalibrate at the start of every session — the signals may drift gently with time of day and mood."
+          "en": "Recalibrate at the start of every session — the signals may drift gently with time of day and mood.",
+          "ro": "Recalibrează la începutul fiecărei ședințe — semnalele se pot deplasa ușor, după ora zilei și după starea ta."
         }
       ],
       "keret": {
         "hu": "A jelmintázat a saját ideomotoros „nyelvjárásod” — nem szellemek ábécéje. Ha az inga nem mozdul, lazíts, és képzeld el élénken a mozgást: Carpenter óta tudjuk, hogy pont az elképzelt mozgás indítja el. Az erőltetés az egyetlen, ami biztosan nem segít.",
-        "en": "The signal pattern is your own ideomotor 'dialect' — not an alphabet of spirits. If the pendulum does not move, relax and vividly imagine the motion: since Carpenter we know it is precisely the imagined motion that starts it. Forcing is the one thing guaranteed not to help."
+        "en": "The signal pattern is your own ideomotor 'dialect' — not an alphabet of spirits. If the pendulum does not move, relax and vividly imagine the motion: since Carpenter we know it is precisely the imagined motion that starts it. Forcing is the one thing guaranteed not to help.",
+        "ro": "Tiparul semnalelor este propriul tău „dialect” ideomotor — nu un alfabet al spiritelor. Dacă pendulul nu se mișcă, relaxează-te și imaginează-ți viu mișcarea: de la Carpenter încoace știm că tocmai mișcarea imaginată o pornește. Forțarea este singurul lucru despre care e sigur că nu ajută."
       },
       "sorszam": 2
     },
@@ -98,37 +115,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A Chevreul-próba — honnan jön a mozgás?",
-        "en": "The Chevreul test — where does the motion come from?"
+        "en": "The Chevreul test — where does the motion come from?",
+        "ro": "Testul Chevreul — de unde vine mișcarea?"
       },
       "cel": {
         "hu": "Saját kézzel megtapasztalni Chevreul döntő megfigyelését: a mozgás forrása nem a súlyban van, hanem benned — ez a modul becsület-horgonya.",
-        "en": "To experience with your own hand Chevreul's decisive observation: the source of the motion is not in the weight but in you — this is the module's anchor of honesty."
+        "en": "To experience with your own hand Chevreul's decisive observation: the source of the motion is not in the weight but in you — this is the module's anchor of honesty.",
+        "ro": "Să trăiești cu propria ta mână observația hotărâtoare a lui Chevreul: izvorul mișcării nu este în greutate, ci în tine — aceasta este ancora de onestitate a modulului."
       },
       "modszer": [
         {
           "hu": "Kalibrálás után indíts el egy IGEN-jelet: gondolj erősen az igenre, és hagyd a mozgást kibontakozni.",
-          "en": "After calibration start a YES signal: think the yes strongly and let the motion unfold."
+          "en": "After calibration start a YES signal: think the yes strongly and let the motion unfold.",
+          "ro": "După calibrare pornește un semnal de DA: gândește puternic da-ul și lasă mișcarea să se desfășoare."
         },
         {
           "hu": "Most támaszd alá a karod teljes hosszában — könyök és csukló is felfekszik —, és ismételd meg ugyanazt a kérést.",
-          "en": "Now support your arm along its whole length — elbow and wrist both resting — and repeat the same request."
+          "en": "Now support your arm along its whole length — elbow and wrist both resting — and repeat the same request.",
+          "ro": "Acum sprijină-ți brațul pe toată lungimea lui — și cotul, și încheietura să se odihnească — și repetă aceeași cerere."
         },
         {
           "hu": "Figyeld meg pontosan, mi történik a lengéssel az alátámasztott helyzetben.",
-          "en": "Observe exactly what happens to the swing in the supported position."
+          "en": "Observe exactly what happens to the swing in the supported position.",
+          "ro": "Privește cu atenție ce se întâmplă cu balansul în poziția sprijinită."
         },
         {
           "hu": "Következő körben csukd be a szemed egy teljes percre, majd nyisd ki, és nézd meg, mit csinál az inga.",
-          "en": "In the next round close your eyes for a full minute, then open them and see what the pendulum is doing."
+          "en": "In the next round close your eyes for a full minute, then open them and see what the pendulum is doing.",
+          "ro": "În runda următoare închide ochii un minut întreg, apoi deschide-i și vezi ce face pendulul."
         },
         {
           "hu": "Jegyezd fel mindkét megfigyelést, és zárd egyetlen mondattal: mit mond ez a mozgás forrásáról?",
-          "en": "Record both observations and close with a single sentence: what does this say about the source of the motion?"
+          "en": "Record both observations and close with a single sentence: what does this say about the source of the motion?",
+          "ro": "Notează amândouă observațiile și încheie cu o singură frază: ce spune asta despre izvorul mișcării?"
         }
       ],
       "keret": {
         "hu": "Chevreul 1854-ben írta le: alátámasztott karral vagy csukott szemmel az inga elhal. Ez nem kiábrándítás, hanem használati utasítás — aki tudja, hogy a jel belülről jön, az pontosan tudja, mire jó az eszköz: önmagad meghallgatására.",
-        "en": "Chevreul described it in 1854: with the arm supported or the eyes closed, the pendulum dies down. This is not disillusionment but an instruction manual — whoever knows the signal comes from within knows exactly what the tool is for: listening to yourself."
+        "en": "Chevreul described it in 1854: with the arm supported or the eyes closed, the pendulum dies down. This is not disillusionment but an instruction manual — whoever knows the signal comes from within knows exactly what the tool is for: listening to yourself.",
+        "ro": "Chevreul a descris-o în 1854: cu brațul sprijinit sau cu ochii închiși, pendulul se stinge. Nu este o deziluzie, ci un manual de utilizare — cine știe că semnalul vine dinăuntru știe exact la ce folosește unealta: la a te asculta pe tine."
       },
       "sorszam": 3
     },
@@ -139,41 +164,50 @@
       "sik": "lelek",
       "cim": {
         "hu": "Az egy-kérdés protokoll",
-        "en": "The one-question protocol"
+        "en": "The one-question protocol",
+        "ro": "Protocolul unei singure întrebări"
       },
       "cel": {
         "hu": "A fegyelmezett kérdezés begyakorlása: egy tiszta, eldöntendő kérdés, kivárt jel, kommentár nélküli jegyzés — az ingamunka gerince.",
-        "en": "To train disciplined questioning: one clean decidable question, a waited-out signal, commentary-free recording — the spine of pendulum work."
+        "en": "To train disciplined questioning: one clean decidable question, a waited-out signal, commentary-free recording — the spine of pendulum work.",
+        "ro": "Să exersezi întrebarea disciplinată: o singură întrebare curată, decidabilă, un semnal așteptat până la capăt, o notare fără comentarii — coloana vertebrală a lucrului cu pendulul."
       },
       "modszer": [
         {
           "hu": "Fogalmazz meg írásban egy egyértelmű, igen/nem formájú kérdést, mielőtt az ingára néznél.",
-          "en": "Formulate in writing one unambiguous yes/no question before you look at the pendulum."
+          "en": "Formulate in writing one unambiguous yes/no question before you look at the pendulum.",
+          "ro": "Formulează în scris o singură întrebare neechivocă, cu răspuns da/nu, înainte să te uiți la pendul."
         },
         {
           "hu": "Kalibráld a három jelet.",
-          "en": "Calibrate the three signals."
+          "en": "Calibrate the three signals.",
+          "ro": "Calibrează cele trei semnale."
         },
         {
           "hu": "Tedd fel a kérdést pontosan úgy, ahogy leírtad — egy kérdés egyszerre.",
-          "en": "Ask the question exactly as written — one question at a time."
+          "en": "Ask the question exactly as written — one question at a time.",
+          "ro": "Pune întrebarea exact așa cum ai scris-o — o singură întrebare o dată."
         },
         {
           "hu": "Várd ki türelemmel a jelet, és jegyezd fel a választ kommentár nélkül.",
-          "en": "Wait out the signal patiently and record the answer without commentary."
+          "en": "Wait out the signal patiently and record the answer without commentary.",
+          "ro": "Așteaptă răbdător semnalul până la capăt și notează răspunsul fără comentarii."
         },
         {
           "hu": "Az ülés végén, letett ingával mérlegelj: mit kezdesz tudatosan a válasszal?",
-          "en": "At the end of the session, pendulum laid down, weigh: what will you consciously do with the answer?"
+          "en": "At the end of the session, pendulum laid down, weigh: what will you consciously do with the answer?",
+          "ro": "La sfârșitul ședinței, cu pendulul pus deoparte, cântărește: ce vei face conștient cu răspunsul?"
         }
       ],
       "keret": {
         "hu": "Az előre rögzített kérdés véd az utólagos átértelmezéstől — ugyanaz a fegyelem, mint a távolbalátás-modul jegyzőkönyvében. A válasz értéke nem az, hogy „igaz-e”, hanem hogy megmutatja, merre hajlik a nem tudatos részed.",
-        "en": "The pre-registered question protects against reinterpretation after the fact — the same discipline as the record-keeping of the remote viewing module. The answer's value is not whether it is 'true' but that it shows which way your non-conscious part leans."
+        "en": "The pre-registered question protects against reinterpretation after the fact — the same discipline as the record-keeping of the remote viewing module. The answer's value is not whether it is 'true' but that it shows which way your non-conscious part leans.",
+        "ro": "Întrebarea consemnată dinainte te apără de reinterpretarea de după — aceeași disciplină ca ținerea evidenței din modulul Remote Viewing. Valoarea răspunsului nu stă în aceea că ar fi „adevărat”, ci în aceea că îți arată încotro înclină partea ta neconștientă."
       },
       "etika": {
         "hu": "Orvosi, pénzügyi, párkapcsolati vagy más életdöntést soha ne tegyél fel inga-kérdésként. A válasz mindig nyersanyag a mérlegeléshez, sosem parancs.",
-        "en": "Never pose a medical, financial, relationship or other life decision as a pendulum question. The answer is always raw material for weighing, never a command."
+        "en": "Never pose a medical, financial, relationship or other life decision as a pendulum question. The answer is always raw material for weighing, never a command.",
+        "ro": "Nu pune niciodată la pendul o decizie medicală, financiară, de relație sau de viață. Răspunsul este întotdeauna material brut pentru cântărire, niciodată o poruncă."
       },
       "sorszam": 4
     },
@@ -185,41 +219,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Belső párbeszéd — a rejtett hajlam kihangosítása",
-        "en": "Inner dialogue — voicing the hidden inclination"
+        "en": "Inner dialogue — voicing the hidden inclination",
+        "ro": "Dialog lăuntric — să dai glas înclinației ascunse"
       },
       "cel": {
         "hu": "Az inga önismereti használata: kis tétű, rólad szóló kérdésekkel felszínre hozni, amit a tudatos éned esetleg elhallgat.",
-        "en": "Using the pendulum for self-knowledge: with low-stakes questions about yourself, surfacing what your conscious self may be keeping quiet."
+        "en": "Using the pendulum for self-knowledge: with low-stakes questions about yourself, surfacing what your conscious self may be keeping quiet.",
+        "ro": "Pendulul folosit pentru cunoașterea de sine: cu întrebări despre tine, fără miză, scoți la lumină ceea ce eul tău conștient poate că trece sub tăcere."
       },
       "modszer": [
         {
           "hu": "Válassz egy kis tétű, valóban nyitott belső kérdést — például: „Valójában el akarok-e menni szombaton?”",
-          "en": "Choose a low-stakes, genuinely open inner question — for instance: 'Do I actually want to go on Saturday?'"
+          "en": "Choose a low-stakes, genuinely open inner question — for instance: 'Do I actually want to go on Saturday?'",
+          "ro": "Alege o întrebare lăuntrică fără miză, cu adevărat deschisă — de pildă: „Chiar vreau să mă duc sâmbătă?”"
         },
         {
           "hu": "Írd le a kérdést, és mellé azt is, mit gondolsz tudatosan a válaszról.",
-          "en": "Write down the question, and next to it what you consciously think the answer is."
+          "en": "Write down the question, and next to it what you consciously think the answer is.",
+          "ro": "Scrie întrebarea, iar lângă ea ce crezi conștient că este răspunsul."
         },
         {
           "hu": "Kalibrálás után tedd fel a kérdést, és várd ki a jelet.",
-          "en": "After calibration ask the question and wait out the signal."
+          "en": "After calibration ask the question and wait out the signal.",
+          "ro": "După calibrare pune întrebarea și așteaptă semnalul până la capăt."
         },
         {
           "hu": "Vesd össze a kettőt: egyezik-e az inga válasza a tudatos tippeddel? Az eltérés a legérdekesebb — ott lakik az elhallgatott hajlam.",
-          "en": "Compare the two: does the pendulum's answer match your conscious guess? The divergence is the most interesting part — the silenced inclination lives there."
+          "en": "Compare the two: does the pendulum's answer match your conscious guess? The divergence is the most interesting part — the silenced inclination lives there.",
+          "ro": "Compară-le pe cele două: răspunsul pendulului se potrivește cu presupunerea ta conștientă? Nepotrivirea este partea cea mai interesantă — acolo trăiește înclinația redusă la tăcere."
         },
         {
           "hu": "Naplózd az ülést, és néhány nap múlva olvasd vissza: mit igazolt közben az élet?",
-          "en": "Log the session, and read it back a few days later: what has life confirmed in the meantime?"
+          "en": "Log the session, and read it back a few days later: what has life confirmed in the meantime?",
+          "ro": "Consemnează ședința și recitește-o peste câteva zile: ce a confirmat viața între timp?"
         }
       ],
       "keret": {
         "hu": "Rokona a bardoni lélektükör-munkának: a tükör listáz, az inga kérdez — mindkettő ugyanarra a nem tudatos rétegre világít. Amit itt kapsz, az nem jóslat, hanem adat önmagadról.",
-        "en": "A relative of Bardon's soul-mirror work: the mirror lists, the pendulum asks — both shine light on the same non-conscious layer. What you receive here is not prophecy but data about yourself."
+        "en": "A relative of Bardon's soul-mirror work: the mirror lists, the pendulum asks — both shine light on the same non-conscious layer. What you receive here is not prophecy but data about yourself.",
+        "ro": "O rudă a lucrului cu oglinda sufletului de la Bardon: oglinda enumeră, pendulul întreabă — amândouă luminează același strat neconștient. Ce primești aici nu este profeție, ci date despre tine însuți."
       },
       "etika": {
         "hu": "Maradj a kis tétnél. Ha a kérdés fájdalmas sebet érint, vagy krízisben vagy, tedd le az ingát, és fordulj emberhez — baráthoz vagy szakemberhez.",
-        "en": "Stay with low stakes. If the question touches a painful wound, or you are in crisis, put the pendulum down and turn to a human being — a friend or a professional."
+        "en": "Stay with low stakes. If the question touches a painful wound, or you are in crisis, put the pendulum down and turn to a human being — a friend or a professional.",
+        "ro": "Rămâi la miză mică. Dacă întrebarea atinge o rană dureroasă sau dacă ești în criză, lasă pendulul jos și întoarce-te spre un om — un prieten sau un profesionist."
       },
       "sorszam": 5
     },
@@ -231,37 +274,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Vak-teszt — három bögre",
-        "en": "Blind test — three mugs"
+        "en": "Blind test — three mugs",
+        "ro": "Test orb — trei căni"
       },
       "cel": {
         "hu": "Saját szemmel megmérni, mit tud az inga ismeretlen külső tényről — a találati arány vezetésével, a véletlen-alapvonalhoz mérve.",
-        "en": "To measure with your own eyes what the pendulum knows about an unknown external fact — keeping a hit tally measured against the chance baseline."
+        "en": "To measure with your own eyes what the pendulum knows about an unknown external fact — keeping a hit tally measured against the chance baseline.",
+        "ro": "Să măsori cu ochii tăi ce știe pendulul despre un fapt exterior necunoscut — ținând socoteala nimeririlor, măsurată față de referința întâmplării."
       },
       "modszer": [
         {
           "hu": "Kérj meg egy segítőt, hogy rejtsen egy kis tárgyat az egyik bögre alá — vagy keverd őket magad csukott szemmel, míg elveszted a fonalat.",
-          "en": "Ask a helper to hide a small object under one of three mugs — or shuffle them yourself with closed eyes until you lose the thread."
+          "en": "Ask a helper to hide a small object under one of three mugs — or shuffle them yourself with closed eyes until you lose the thread.",
+          "ro": "Roagă pe cineva să ascundă un obiect mic sub una din trei căni — sau amestecă-le tu însuți, cu ochii închiși, până pierzi firul."
         },
         {
           "hu": "Kalibrálás után ingázd végig a bögréket: melyik alatt van a tárgy?",
-          "en": "After calibration dowse over the mugs: which one is the object under?"
+          "en": "After calibration dowse over the mugs: which one is the object under?",
+          "ro": "După calibrare treci cu pendulul pe deasupra cănilor: sub care se află obiectul?"
         },
         {
           "hu": "Jegyezd fel a tippet, MIELŐTT felemelnéd a bögrét — csak utána ellenőrizz.",
-          "en": "Record your guess BEFORE lifting the mug — verify only afterwards."
+          "en": "Record your guess BEFORE lifting the mug — verify only afterwards.",
+          "ro": "Notează-ți presupunerea ÎNAINTE să ridici cana — verifică abia după aceea."
         },
         {
           "hu": "Csinálj végig egy 9–12 próbás sorozatot, minden próbát jegyezve: sorszám, tipp, eredmény.",
-          "en": "Complete a series of 9–12 trials, recording each: number, guess, result."
+          "en": "Complete a series of 9–12 trials, recording each: number, guess, result.",
+          "ro": "Fă o serie de 9–12 probe, notând fiecare: numărul, presupunerea, rezultatul."
         },
         {
           "hu": "Összesíts: hány találat a próbákból? Vesd össze az 1/3-os véletlen-alapvonallal, és írd le egyetlen mondatban a tanulságot.",
-          "en": "Tally up: how many hits out of the trials? Compare with the 1/3 chance baseline and write the lesson in a single sentence."
+          "en": "Tally up: how many hits out of the trials? Compare with the 1/3 chance baseline and write the lesson in a single sentence.",
+          "ro": "Fă socoteala: câte nimeriri din câte probe? Compară cu referința întâmplării de 1/3 și scrie învățătura într-o singură frază."
         }
       ],
       "keret": {
         "hu": "Kis mintán a nagy kilengés normális — a tanulság sok ülés összesítéséből rajzolódik ki. A nagy kettős-vak tesztek (müncheni pajta-kísérletek, kasseli GWUP-teszt) véletlen-szintet hoztak: ahol a válasz nem lehet benned, ott az inga elnémul. Ez nem kudarc, hanem az eszköz határvonalának pontos térképe.",
-        "en": "On a small sample large swings are normal — the lesson emerges from tallying many sessions. The big double-blind tests (Munich barn experiments, Kassel GWUP test) came out at chance level: where the answer cannot be within you, the pendulum falls silent. This is not failure but a precise map of the tool's boundary."
+        "en": "On a small sample large swings are normal — the lesson emerges from tallying many sessions. The big double-blind tests (Munich barn experiments, Kassel GWUP test) came out at chance level: where the answer cannot be within you, the pendulum falls silent. This is not failure but a precise map of the tool's boundary.",
+        "ro": "Pe un eșantion mic, oscilațiile mari sunt normale — învățătura se ivește din socoteala multor ședințe. Marile teste dublu-orb (experimentele din hambarul de la München, testul GWUP de la Kassel) au ieșit la nivelul întâmplării: acolo unde răspunsul nu poate fi înăuntrul tău, pendulul amuțește. Nu este un eșec, ci o hartă precisă a hotarului acestei unelte."
       },
       "sorszam": 6
     },
@@ -272,37 +323,45 @@
       "sik": "szellem",
       "cim": {
         "hu": "Vak-teszt — piros és fekete",
-        "en": "Blind test — red and black"
+        "en": "Blind test — red and black",
+        "ro": "Test orb — roșu și negru"
       },
       "cel": {
         "hu": "Hosszú távú találati statisztika építése egyszerű kétválasztásos céllal — a mérés maga a gyakorlat, nem az ellensége.",
-        "en": "To build long-term hit statistics with a simple two-choice target — measurement is the practice itself, not its enemy."
+        "en": "To build long-term hit statistics with a simple two-choice target — measurement is the practice itself, not its enemy.",
+        "ro": "Să-ți construiești o statistică de lungă durată a nimeririlor, cu o țintă simplă, cu două variante — măsurarea este însăși practica, nu dușmanul ei."
       },
       "modszer": [
         {
           "hu": "Keverj meg alaposan egy csomag francia kártyát, és tedd magad elé lefordítva.",
-          "en": "Shuffle a deck of playing cards thoroughly and place it face down before you."
+          "en": "Shuffle a deck of playing cards thoroughly and place it face down before you.",
+          "ro": "Amestecă bine un pachet de cărți de joc și pune-l cu fața în jos în fața ta."
         },
         {
           "hu": "Kalibrálás után kérdezd a legfelső lapra: „Piros?” — és jegyezd az inga jelét, MIELŐTT fordítanál.",
-          "en": "After calibration ask about the top card: 'Red?' — and record the pendulum's signal BEFORE turning it."
+          "en": "After calibration ask about the top card: 'Red?' — and record the pendulum's signal BEFORE turning it.",
+          "ro": "După calibrare întreabă despre cartea de deasupra: „Roșie?” — și notează semnalul pendulului ÎNAINTE s-o întorci."
         },
         {
           "hu": "Fordítsd fel a lapot, jegyezd az eredményt, és menj tovább — húsz-harminc lapos sorozatokban dolgozz.",
-          "en": "Turn the card over, record the result, and move on — work in series of twenty to thirty cards."
+          "en": "Turn the card over, record the result, and move on — work in series of twenty to thirty cards.",
+          "ro": "Întoarce cartea, notează rezultatul și mergi mai departe — lucrează în serii de douăzeci–treizeci de cărți."
         },
         {
           "hu": "Vezesd az összesítést ülésről ülésre: próbák, találatok, arány.",
-          "en": "Keep the running tally session by session: trials, hits, rate."
+          "en": "Keep the running tally session by session: trials, hits, rate.",
+          "ro": "Ține socoteala curentă de la o ședință la alta: probe, nimeriri, rată."
         },
         {
           "hu": "Havonta nézd meg a teljes arányt az 1/2-es alapvonalhoz mérve, és jegyezd le, mit látsz.",
-          "en": "Monthly, review the overall rate against the 1/2 baseline and note what you see."
+          "en": "Monthly, review the overall rate against the 1/2 baseline and note what you see.",
+          "ro": "O dată pe lună uită-te la rata generală față de referința de 1/2 și notează ce vezi."
         }
       ],
       "keret": {
         "hu": "Tíz lapból hét találat még semmi — a véletlen bőkezűen osztogat rövid szériákat. A becsület itt számtan: sok próba, előre jegyzett tipp, alapvonalhoz mért arány. Aki ezt a fegyelmet megtanulja, azt a mentalizmus-modul hidegolvasás-pajzsa már belülről védi.",
-        "en": "Seven hits out of ten cards means nothing yet — chance hands out short streaks generously. Honesty here is arithmetic: many trials, pre-recorded guesses, a rate measured against the baseline. Whoever learns this discipline is protected from within by the mentalism module's cold-reading shield."
+        "en": "Seven hits out of ten cards means nothing yet — chance hands out short streaks generously. Honesty here is arithmetic: many trials, pre-recorded guesses, a rate measured against the baseline. Whoever learns this discipline is protected from within by the mentalism module's cold-reading shield.",
+        "ro": "Șapte nimeriri din zece cărți încă nu înseamnă nimic — întâmplarea împarte cu dărnicie serii scurte. Onestitatea este aici aritmetică: multe probe, presupuneri notate dinainte, o rată măsurată față de referință. Cine deprinde această disciplină este apărat pe dinăuntru de scutul de cold-reading al modulului de mentalism."
       },
       "sorszam": 7
     },
@@ -314,37 +373,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A varázsvessző — Y-ág és L-pálcák",
-        "en": "The dowsing rod — Y-branch and L-rods"
+        "en": "The dowsing rod — Y-branch and L-rods",
+        "ro": "Bagheta radiestezică — creanga în Y și baghetele în L"
       },
       "cel": {
         "hu": "A hagyomány vessző-gyakorlatának megtapasztalása ellenőrizhető célponttal — és közben a feszített tartás ideomotoros érzékenységének megismerése.",
-        "en": "To experience the tradition's rod practice with a verifiable target — and to come to know the ideomotor sensitivity of the tensioned hold along the way."
+        "en": "To experience the tradition's rod practice with a verifiable target — and to come to know the ideomotor sensitivity of the tensioned hold along the way.",
+        "ro": "Să încerci practica baghetei din tradiție pe o țintă verificabilă — și să cunoști pe drum sensibilitatea ideomotorie a ținerii sub tensiune."
       },
       "modszer": [
         {
           "hu": "Vágj villás ágat — a hagyomány a mogyorót kedveli —, vagy hajlíts két L-pálcát drótból.",
-          "en": "Cut a forked branch — the tradition favours hazel — or bend two L-rods from wire."
+          "en": "Cut a forked branch — the tradition favours hazel — or bend two L-rods from wire.",
+          "ro": "Taie o creangă bifurcată — tradiția ține la alun — sau îndoaie două baghete în L din sârmă."
         },
         {
           "hu": "Az Y-vessző két szárát tenyérrel felfelé, enyhe feszítés alatt fogd; az L-pálcákat lazán, ökölbe zárt kézben tartsd.",
-          "en": "Hold the Y-rod's two arms palms up, under slight tension; hold the L-rods loosely in closed fists."
+          "en": "Hold the Y-rod's two arms palms up, under slight tension; hold the L-rods loosely in closed fists.",
+          "ro": "Ține cele două brațe ale baghetei în Y cu palmele în sus, sub o ușoară tensiune; baghetele în L ține-le lejer, în pumnii închiși."
         },
         {
           "hu": "Sétálj lassan nyílt terepen egy ellenőrizhető célpont — például a kerti vízvezeték — környékén.",
-          "en": "Walk slowly in open ground near a verifiable target — the garden water pipe, for instance."
+          "en": "Walk slowly in open ground near a verifiable target — the garden water pipe, for instance.",
+          "ro": "Umblă încet pe teren deschis, în apropierea unei ținte verificabile — de pildă conducta de apă din grădină."
         },
         {
           "hu": "Jegyezd fel, hol csapott le a vessző vagy hol kereszteződtek a pálcák.",
-          "en": "Record where the rod struck down or where the rods crossed."
+          "en": "Record where the rod struck down or where the rods crossed.",
+          "ro": "Însemnează unde a plonjat bagheta sau unde s-au încrucișat baghetele."
         },
         {
           "hu": "Vesd össze a jelöléseidet a tényleges nyomvonallal, és vezess találati összesítést a véletlenhez mérve.",
-          "en": "Compare your marks with the actual route and keep a hit tally measured against chance."
+          "en": "Compare your marks with the actual route and keep a hit tally measured against chance.",
+          "ro": "Compară semnele tale cu traseul real și ține socoteala nimeririlor măsurată față de întâmplare."
         }
       ],
       "keret": {
         "hu": "A feszített tartás miatt parányi izommozdulat is nagy kilendülést ad — a vessző még érzékenyebb ideomotoros erősítő, mint az inga. A hagyomány szerint a vessző a víz vagy az érc fölött magától lecsap * — Agricola 1556-ban már leírta a szokást, és már ő is kételkedett benne. A mérce nálad van: a jegyzőkönyved számai.\n\n[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "Because of the tensioned hold, a minuscule muscle movement produces a large deflection — the rod is an even more sensitive ideomotor amplifier than the pendulum. According to the tradition, the rod strikes down of its own accord above water or ore * — Agricola already described the custom in 1556, and was already skeptical of it. The measure stays with you: the numbers in your record.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "Because of the tensioned hold, a minuscule muscle movement produces a large deflection — the rod is an even more sensitive ideomotor amplifier than the pendulum. According to the tradition, the rod strikes down of its own accord above water or ore * — Agricola already described the custom in 1556, and was already skeptical of it. The measure stays with you: the numbers in your record.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Din pricina ținerii sub tensiune, o mișcare musculară minusculă dă o deviere mare — bagheta este un amplificator ideomotor și mai sensibil decât pendulul. Potrivit tradiției, bagheta plonjează de la sine deasupra apei sau a minereului * — Agricola descria deja obiceiul în 1556 și era deja neîncrezător față de el. Măsura rămâne la tine: cifrele din însemnările tale.\n\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       },
       "sorszam": 8
     },
@@ -356,41 +423,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "Térképes ingázás — hagyomány-játék ellenőrzéssel",
-        "en": "Map dowsing — a tradition game with verification"
+        "en": "Map dowsing — a tradition game with verification",
+        "ro": "Radiestezie pe hartă — un joc al tradiției, cu verificare"
       },
       "cel": {
         "hu": "A hagyomány távolsági gyakorlatának becsületes kipróbálása: ellenőrizhető célpont, előre rögzített tipp, tényleges ellenőrzés és jegyzőkönyv.",
-        "en": "An honest trial of the tradition's distance practice: a verifiable target, a pre-registered guess, actual verification and a written record."
+        "en": "An honest trial of the tradition's distance practice: a verifiable target, a pre-registered guess, actual verification and a written record.",
+        "ro": "O încercare cinstită a practicii la distanță din tradiție: o țintă verificabilă, o presupunere consemnată dinainte, o verificare adevărată și o însemnare scrisă."
       },
       "modszer": [
         {
           "hu": "Válassz ellenőrizhető célpontot — például: a város melyik negyedében van egy bizonyos típusú bolt, amit még nem ismersz.",
-          "en": "Choose a verifiable target — for instance: in which quarter of the city is a certain type of shop you do not yet know."
+          "en": "Choose a verifiable target — for instance: in which quarter of the city is a certain type of shop you do not yet know.",
+          "ro": "Alege o țintă verificabilă — de pildă: în ce cartier al orașului se află un anumit fel de prăvălie pe care încă n-o cunoști."
         },
         {
           "hu": "Oszd a térképet mezőkre, és kalibrálás után ingázd végig őket, mezőnként egy eldöntendő kérdéssel.",
-          "en": "Divide the map into fields, and after calibration dowse through them, one decidable question per field."
+          "en": "Divide the map into fields, and after calibration dowse through them, one decidable question per field.",
+          "ro": "Împarte harta în câmpuri și, după calibrare, treci cu pendulul peste ele, câte o întrebare decidabilă pentru fiecare câmp."
         },
         {
           "hu": "Rögzítsd írásban a tippedet, MIELŐTT bármit ellenőriznél.",
-          "en": "Fix your guess in writing BEFORE verifying anything."
+          "en": "Fix your guess in writing BEFORE verifying anything.",
+          "ro": "Fixează-ți presupunerea în scris ÎNAINTE de a verifica orice."
         },
         {
           "hu": "Ellenőrizd a valóságban vagy megbízható forrásból, és jegyezd az eredményt a találati összesítésbe.",
-          "en": "Verify in reality or from a reliable source, and record the result in your hit tally."
+          "en": "Verify in reality or from a reliable source, and record the result in your hit tally.",
+          "ro": "Verifică în realitate sau dintr-o sursă de încredere și notează rezultatul în socoteala nimeririlor."
         },
         {
           "hu": "Több forduló után mérd az arányt a mezők számából adódó véletlen-alapvonalhoz, és írd le a tanulságot.",
-          "en": "After several rounds measure the rate against the chance baseline given by the number of fields, and write down the lesson."
+          "en": "After several rounds measure the rate against the chance baseline given by the number of fields, and write down the lesson.",
+          "ro": "După mai multe runde măsoară rata față de referința întâmplării dată de numărul câmpurilor și scrie-ți învățătura."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint a térképes ingázásnál a távolság nem számít, és a keresett hely a térképen is megtalálható. * Amit ilyenkor bizonyíthatóan edzel, az a térkép-olvasó intuíciód és az asszociációs emlékezeted — az is érték, ha nevén nevezed. A jegyzőkönyv-fegyelem itt is a távolbalátás-modul rokona.\n\n[FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "According to the tradition, distance does not matter in map dowsing, and the sought place can be found on the map itself. * What you demonstrably train here is your map-reading intuition and associative memory — that too is of value, if you call it by its name. The record-keeping discipline is again a relative of the remote viewing module.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact."
+        "en": "According to the tradition, distance does not matter in map dowsing, and the sought place can be found on the map itself. * What you demonstrably train here is your map-reading intuition and associative memory — that too is of value, if you call it by its name. The record-keeping discipline is again a relative of the remote viewing module.\n\n[FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Potrivit tradiției, în radiestezia pe hartă distanța nu contează, iar locul căutat poate fi găsit chiar pe hartă. * Ceea ce exersezi aici în mod demonstrabil este intuiția ta de citire a hărții și memoria asociativă — și asta are valoarea ei, dacă o numești pe nume. Disciplina ținerii evidenței este iarăși o rudă a modulului Remote Viewing.\n\n[FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       },
       "etika": {
         "hu": "Házvonal, nem alku tárgya: eltűnt személyt, bűnügyet, tragédiát SOHA ne keress térképen se ingával, se másképp. Egészségi vagy pénzügyi célpont szintén tilos — csak semleges, játékos, ellenőrizhető célokkal dolgozz.",
-        "en": "House line, not negotiable: NEVER search a map for a missing person, a crime or a tragedy — with pendulum or otherwise. Health or financial targets are likewise forbidden — work only with neutral, playful, verifiable goals."
+        "en": "House line, not negotiable: NEVER search a map for a missing person, a crime or a tragedy — with pendulum or otherwise. Health or financial targets are likewise forbidden — work only with neutral, playful, verifiable goals.",
+        "ro": "Regula casei, fără negociere: NICIODATĂ nu căuta pe hartă o persoană dispărută, o crimă sau o tragedie — nici cu pendulul, nici altfel. Țintele legate de sănătate sau de bani sunt la fel de interzise — lucrează numai cu scopuri neutre, jucăușe, verificabile."
       },
       "sorszam": 9
     },
@@ -402,41 +478,50 @@
       "elem": "Levego",
       "cim": {
         "hu": "A mérleg-zárás — a döntés visszavétele",
-        "en": "Closing with the scales — taking the decision back"
+        "en": "Closing with the scales — taking the decision back",
+        "ro": "Încheierea cu balanța — luarea deciziei înapoi"
       },
       "cel": {
         "hu": "Minden inga-ülés lezárása a döntés tudatos visszavételével: a válasz nyersanyaggá válik, a felelősség nálad marad.",
-        "en": "To close every pendulum session by consciously taking the decision back: the answer becomes raw material, the responsibility stays with you."
+        "en": "To close every pendulum session by consciously taking the decision back: the answer becomes raw material, the responsibility stays with you.",
+        "ro": "Să închei fiecare ședință cu pendulul luându-ți conștient decizia înapoi: răspunsul devine material brut, răspunderea rămâne la tine."
       },
       "modszer": [
         {
           "hu": "Az ülés végén tedd le az ingát, és vedd elő a naplót.",
-          "en": "At the end of the session put the pendulum down and take out the journal."
+          "en": "At the end of the session put the pendulum down and take out the journal.",
+          "ro": "La sfârșitul ședinței pune pendulul jos și scoate jurnalul."
         },
         {
           "hu": "Írd le a kapott választ egyetlen tényszerű mondatban — se lelkesedés, se legyintés.",
-          "en": "Write the received answer in a single factual sentence — no enthusiasm, no dismissal."
+          "en": "Write the received answer in a single factual sentence — no enthusiasm, no dismissal.",
+          "ro": "Scrie răspunsul primit într-o singură frază faptică — fără entuziasm, fără desconsiderare."
         },
         {
           "hu": "Írj mellé két oszlopot: mi szól mellette, mi szól ellene — most már ébren, érvekkel.",
-          "en": "Write two columns beside it: what speaks for it, what speaks against it — now awake, with arguments."
+          "en": "Write two columns beside it: what speaks for it, what speaks against it — now awake, with arguments.",
+          "ro": "Scrie lângă el două coloane: ce vorbește pentru, ce vorbește împotrivă — acum treaz, cu argumente."
         },
         {
           "hu": "Hozd meg a döntést, vagy halaszd el tudatosan — és jegyezd fel, mi döntött.",
-          "en": "Make the decision, or postpone it consciously — and note what tipped the scales."
+          "en": "Make the decision, or postpone it consciously — and note what tipped the scales.",
+          "ro": "Ia decizia sau amân-o în mod conștient — și notează ce a înclinat balanța."
         },
         {
           "hu": "Egy hét múlva olvasd vissza: mit ért a válasz utólag, és mit tett hozzá a mérlegelés?",
-          "en": "A week later read it back: what was the answer worth in hindsight, and what did the weighing add?"
+          "en": "A week later read it back: what was the answer worth in hindsight, and what did the weighing add?",
+          "ro": "Peste o săptămână recitește: cât a valorat răspunsul privind înapoi și ce a adăugat cântărirea?"
         }
       ],
       "keret": {
         "hu": "Ez a gyakorlat maga a kerítés, működés közben: az inga jelezhet, de dönteni csak az éber, felelős éned dönthet. Kis tétnél az inga beszédes tükör — nagy tétnél le sem vesszük a szögről.",
-        "en": "This practice is the fence itself, in operation: the pendulum may signal, but only your awake, responsible self may decide. At low stakes the pendulum is a telling mirror — at high stakes we do not even take it off the hook."
+        "en": "This practice is the fence itself, in operation: the pendulum may signal, but only your awake, responsible self may decide. At low stakes the pendulum is a telling mirror — at high stakes we do not even take it off the hook.",
+        "ro": "Această practică este însuși gardul, în lucrare: pendulul are voie să semnaleze, dar numai eul tău treaz și răspunzător are voie să decidă. La miză mică pendulul este o oglindă grăitoare — la miză mare nici nu-l dăm jos din cui."
       },
       "etika": {
         "hu": "Orvosi, pénzügyi és életdöntés soha nem inga-kérdés — ilyenkor a mérleg-oszlopokat szakemberrel együtt töltsd ki. Akut krízisben az inga marad a fiókban: embert hívj.",
-        "en": "Medical, financial and life decisions are never pendulum questions — in such cases fill in the scale columns together with a professional. In acute crisis the pendulum stays in the drawer: call a human being."
+        "en": "Medical, financial and life decisions are never pendulum questions — in such cases fill in the scale columns together with a professional. In acute crisis the pendulum stays in the drawer: call a human being.",
+        "ro": "Deciziile medicale, financiare și de viață nu sunt niciodată întrebări pentru pendul — în astfel de cazuri completează coloanele balanței împreună cu un profesionist. În criză acută pendulul rămâne în sertar: sună un om."
       },
       "sorszam": 10
     }

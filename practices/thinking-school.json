@@ -3,7 +3,8 @@
   "id": "practice-pack-thinking",
   "nevek": {
     "hu": "Fejleszd a gondolkodásod — gyakorlatok",
-    "en": "Evolve Your Brain — practices"
+    "en": "Evolve Your Brain — practices",
+    "ro": "Evolve Your Brain — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "A nyugodt megfigyelő",
-        "en": "The Calm Observer"
+        "en": "The Calm Observer",
+        "ro": "Observatorul calm"
       },
       "cel": {
         "hu": "Megtanulni kívülről ránézni a saját gondolataidra — mint egy nyugodt kamera a jelenetre —, hogy a minta felismerése megelőzhesse a gépies lejátszást. Ez ugyanaz az izom, amelyet a Bardon I. lépés gondolatmegfigyelése (a gondolatok fürdője) edz: észreveszem a gondolatot, és nem kell vele mennem.",
-        "en": "To learn to look at your own thoughts from outside — like a calm camera on a scene — so that recognizing the pattern can come before replaying it on autopilot. It is the same muscle trained by the thought-observation of Bardon’s Step I (the bathing of thoughts): I notice the thought, and I do not have to go with it."
+        "en": "To learn to look at your own thoughts from outside — like a calm camera on a scene — so that recognizing the pattern can come before replaying it on autopilot. It is the same muscle trained by the thought-observation of Bardon’s Step I (the bathing of thoughts): I notice the thought, and I do not have to go with it.",
+        "ro": "Să înveți să-ți privești propriile gânduri din afară — ca o cameră liniștită așezată pe o scenă — astfel încât recunoașterea tiparului să vină înaintea rulării lui pe pilot automat. E același mușchi pe care îl antrenează observarea gândurilor din Pasul I al lui Bardon (îmbăierea gândurilor): observ gândul și nu sunt obligat să merg cu el."
       },
       "modszer": [
         {
           "hu": "Ülj le kényelmesen, egyenes háttal, csukd be a szemed, és ne irányíts semmit — csak figyelj.",
-          "en": "Sit comfortably, back straight, close your eyes, and steer nothing — only watch."
+          "en": "Sit comfortably, back straight, close your eyes, and steer nothing — only watch.",
+          "ro": "Așază-te confortabil, cu spatele drept, închide ochii și nu cârmui nimic — doar privește."
         },
         {
           "hu": "Hagyd, hogy a gondolatok jöjjenek és menjenek, mint felhők az égen; ne kapaszkodj beléjük, ne folytasd őket.",
-          "en": "Let thoughts come and go like clouds in the sky; do not grab them, do not continue them."
+          "en": "Let thoughts come and go like clouds in the sky; do not grab them, do not continue them.",
+          "ro": "Lasă gândurile să vină și să plece precum norii pe cer; nu le apuca, nu le continua."
         },
         {
           "hu": "Amikor észreveszed, hogy elkaptál egyet és vele vitorlázol, ez maga a siker: nevezd meg csendben („gondolkodom”), és lépj vissza a néző helyére.",
-          "en": "When you notice you have caught one and are sailing with it, that noticing is the success itself: quietly name it (‘thinking’), and step back to the watcher’s seat."
+          "en": "When you notice you have caught one and are sailing with it, that noticing is the success itself: quietly name it (‘thinking’), and step back to the watcher’s seat.",
+          "ro": "Când observi că ai prins unul și că plutești cu el, chiar observarea aceasta e reușita: numește-o liniștit („gândire”) și întoarce-te pe scaunul celui care privește."
         },
         {
           "hu": "Kérdezd meg időnként: tényleg én választom ezt a gondolatot, vagy csak lejátszom?",
-          "en": "Ask from time to time: am I really choosing this thought, or just replaying it?"
+          "en": "Ask from time to time: am I really choosing this thought, or just replaying it?",
+          "ro": "Întreabă-te din când în când: chiar aleg gândul acesta sau doar îl rulez din nou?"
         },
         {
           "hu": "Zárd öt–tíz perc után; a cél nem az üres elme, hanem a tiszta, türelmes figyelem.",
-          "en": "Close after five to ten minutes; the aim is not an empty mind but clear, patient attention."
+          "en": "Close after five to ten minutes; the aim is not an empty mind but clear, patient attention.",
+          "ro": "Încheie după cinci-zece minute; scopul nu e o minte goală, ci o atenție limpede și răbdătoare."
         }
       ],
       "keret": {
         "hu": "A kutatások szerint az agy egész életünkben képlékeny marad; a homloklebeny — a figyelem fókuszálója — edzhető, és az önmegfigyelés az első gyakorlata. Nem csodamódszer, hanem türelmes szoktatás.",
-        "en": "Research suggests the brain stays plastic throughout life; the frontal lobe — the focuser of attention — can be trained, and self-observation is its first exercise. Not a miracle method, but patient habituation."
+        "en": "Research suggests the brain stays plastic throughout life; the frontal lobe — the focuser of attention — can be trained, and self-observation is its first exercise. Not a miracle method, but patient habituation.",
+        "ro": "Cercetările sugerează că creierul rămâne plastic de-a lungul întregii vieți; lobul frontal — cel care focalizează atenția — poate fi antrenat, iar autoobservarea e primul lui exercițiu. Nu e o metodă miraculoasă, ci obișnuire răbdătoare."
       },
       "etika": {
         "hu": "Ez gyakorlás, nem terápia. Ha tartósan sötét vagy önbántó gondolatminták térnek vissza, az nem gyengeség — kérj szakember segítségét; a megfigyelés nem helyettesíti a gondozást.",
-        "en": "This is practice, not therapy. If dark or self-harming thought-patterns keep returning, that is not weakness — seek help from a professional; observation is no substitute for care."
+        "en": "This is practice, not therapy. If dark or self-harming thought-patterns keep returning, that is not weakness — seek help from a professional; observation is no substitute for care.",
+        "ro": "Aceasta e practică, nu terapie. Dacă tiparele de gândire întunecate sau autodistructive revin mereu, asta nu e slăbiciune — caută ajutorul unui profesionist; observarea nu ține locul îngrijirii."
       },
       "sorszam": 1
     },
@@ -61,37 +71,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A hurok felismerése",
-        "en": "Spotting the Loop"
+        "en": "Spotting the Loop",
+        "ro": "Prinderea buclei"
       },
       "cel": {
         "hu": "Tetten érni a gondolat–érzés–gondolat kört: a gondolat érzést kelt a testben, az érzés új gondolatot hív elő, és a kör forog. Amit felismersz, azt már nem muszáj gépiesen lejátszani.",
-        "en": "To catch the thought–feeling–thought loop in the act: a thought stirs a feeling in the body, the feeling calls up another thought, and the loop turns. What you recognize you no longer have to play out on autopilot."
+        "en": "To catch the thought–feeling–thought loop in the act: a thought stirs a feeling in the body, the feeling calls up another thought, and the loop turns. What you recognize you no longer have to play out on autopilot.",
+        "ro": "Să prinzi în flagrant bucla gând–simțire–gând: un gând stârnește o simțire în corp, simțirea cheamă un alt gând, și bucla se învârte. Ceea ce recunoști nu mai ești nevoit să joci pe pilot automat."
       },
       "modszer": [
         {
           "hu": "Napközben, amikor egy ismerős rossz érzés (harag, aggódás, önmarcangolás) felerősödik, állj meg egy pillanatra.",
-          "en": "During the day, when a familiar bad feeling (anger, worry, self-reproach) swells, stop for a moment."
+          "en": "During the day, when a familiar bad feeling (anger, worry, self-reproach) swells, stop for a moment.",
+          "ro": "În timpul zilei, când o simțire rea și cunoscută (furie, îngrijorare, reproș de sine) se umflă, oprește-te o clipă."
         },
         {
           "hu": "Keresd meg a párját: milyen gondolat előzte meg az érzést, és milyen gondolat követi éppen?",
-          "en": "Find its pair: what thought preceded the feeling, and what thought is following it right now?"
+          "en": "Find its pair: what thought preceded the feeling, and what thought is following it right now?",
+          "ro": "Găsește-i perechea: ce gând a precedat simțirea și ce gând o urmează chiar acum?"
         },
         {
           "hu": "Nevezd meg a hurkot ítélkezés nélkül: „ez most a régi minta” — és máris kicsit kívülről nézed.",
-          "en": "Name the loop without judgement: ‘this is the old pattern’ — and already you are watching it from a small distance."
+          "en": "Name the loop without judgement: ‘this is the old pattern’ — and already you are watching it from a small distance.",
+          "ro": "Numește bucla fără judecată: „acesta e tiparul vechi” — și deja o privești de la mică distanță."
         },
         {
           "hu": "Ne nyomd el az érzést; csak ne azonosulj vele. A kilépés a felismerés, nem az elfojtás.",
-          "en": "Do not suppress the feeling; just do not identify with it. The exit is recognition, not repression."
+          "en": "Do not suppress the feeling; just do not identify with it. The exit is recognition, not repression.",
+          "ro": "Nu înăbuși simțirea; doar nu te identifica cu ea. Ieșirea e recunoașterea, nu reprimarea."
         }
       ],
       "keret": {
         "hu": "A könyv megfigyelése szerint minden gondolatnak kémiai lenyomata van, és a test hozzászokik az ismerős állapothoz — ezért érződik biztonságosnak az is, ami fáj. A kutatások erre az összefüggésre utalnak, nem ígérnek azonnali szabadulást.",
-        "en": "The book observes that every thought has a chemical signature, and the body grows used to the familiar state — which is why even what hurts can feel safe. Research points toward this link; it promises no instant release."
+        "en": "The book observes that every thought has a chemical signature, and the body grows used to the familiar state — which is why even what hurts can feel safe. Research points toward this link; it promises no instant release.",
+        "ro": "Cartea observă că fiecare gând are o semnătură chimică, iar trupul se obișnuiește cu starea familiară — de aceea și ceea ce doare poate părea sigur. Cercetările indică această legătură; nu promit o eliberare instantanee."
       },
       "etika": {
         "hu": "Ha egy érzelmi hurok elviselhetetlenül erős vagy tartós, az nem edzés kérdése — ilyenkor szakember segítsége a helyes lépés.",
-        "en": "If an emotional loop is unbearably strong or persistent, that is not a matter of practice — the right step is help from a professional."
+        "en": "If an emotional loop is unbearably strong or persistent, that is not a matter of practice — the right step is help from a professional.",
+        "ro": "Dacă o buclă emoțională e insuportabil de puternică sau de stăruitoare, asta nu mai ține de practică — pasul potrivit e ajutorul unui profesionist."
       },
       "sorszam": 2
     },
@@ -103,33 +121,40 @@
       "elem": "Tuz",
       "cim": {
         "hu": "A tudatos szünet",
-        "en": "The Conscious Pause"
+        "en": "The Conscious Pause",
+        "ro": "Pauza conștientă"
       },
       "cel": {
         "hu": "A homloklebeny bevetése a mindennapokban: a reakció és a válasz közé egy rövid, tudatos szünetet iktatni, és magasabban gondolkodni, mint ahogy éppen érzel.",
-        "en": "To engage the frontal lobe in daily life: to insert a short, conscious pause between reaction and response, and to think higher than you currently feel."
+        "en": "To engage the frontal lobe in daily life: to insert a short, conscious pause between reaction and response, and to think higher than you currently feel.",
+        "ro": "Să pui la treabă lobul frontal în viața de zi cu zi: să strecori o scurtă pauză conștientă între reacție și răspuns și să gândești mai sus decât simți în acel moment."
       },
       "modszer": [
         {
           "hu": "Válassz ki egy visszatérő ingert, amelyre eddig azonnal, gépiesen reagáltál (egy megjegyzés, egy értesítés, egy dugó).",
-          "en": "Pick one recurring trigger to which you have so far reacted instantly and mechanically (a remark, a notification, a traffic jam)."
+          "en": "Pick one recurring trigger to which you have so far reacted instantly and mechanically (a remark, a notification, a traffic jam).",
+          "ro": "Alege un declanșator care revine și la care până acum ai reacționat instantaneu și mecanic (o remarcă, o notificare, un ambuteiaj)."
         },
         {
           "hu": "Amikor az inger megérkezik, végy egy lassú levegőt, és számolj el magadban háromig, mielőtt bármit tennél vagy mondanál.",
-          "en": "When the trigger arrives, take one slow breath and count to three inside before doing or saying anything."
+          "en": "When the trigger arrives, take one slow breath and count to three inside before doing or saying anything.",
+          "ro": "Când vine declanșatorul, trage o singură respirație lentă și numără în tine până la trei înainte de a face sau de a spune ceva."
         },
         {
           "hu": "A szünetben kérdezd meg: mit választanék most, ha nem a megszokás döntene helyettem?",
-          "en": "In the pause, ask: what would I choose now if habit were not deciding for me?"
+          "en": "In the pause, ask: what would I choose now if habit were not deciding for me?",
+          "ro": "În pauză, întreabă: ce aș alege acum, dacă obișnuința nu ar decide în locul meu?"
         },
         {
           "hu": "Válaszolj ebből a helyről — akár csak egy fokkal nyugodtabban, mint eddig. A kis különbség is új utat épít.",
-          "en": "Respond from that place — even one degree calmer than before. Even the small difference builds a new road."
+          "en": "Respond from that place — even one degree calmer than before. Even the small difference builds a new road.",
+          "ro": "Răspunde din locul acela — fie și cu un grad mai calm decât înainte. Chiar și diferența mică construiește un drum nou."
         }
       ],
       "keret": {
         "hu": "A könyv a homloklebenyt a fókuszált figyelem és a választás központjaként írja le: csendesíti a többi központ zaját. A kutatások szerint az ismételt tudatos választás idővel könnyebbé válik — de csak gyakorlással.",
-        "en": "The book describes the frontal lobe as the seat of focused attention and choice: it quiets the noise of the other centres. Research suggests repeated conscious choosing grows easier over time — but only with practice."
+        "en": "The book describes the frontal lobe as the seat of focused attention and choice: it quiets the noise of the other centres. Research suggests repeated conscious choosing grows easier over time — but only with practice.",
+        "ro": "Cartea descrie lobul frontal ca sediul atenției focalizate și al alegerii: el liniștește zgomotul celorlalte centre. Cercetările sugerează că alegerea conștientă repetată devine mai ușoară cu timpul — dar numai cu practică."
       },
       "sorszam": 3
     },
@@ -141,33 +166,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Napi egy új dolog",
-        "en": "One New Thing a Day"
+        "en": "One New Thing a Day",
+        "ro": "Un lucru nou pe zi"
       },
       "cel": {
         "hu": "Naponta táplálni az agyat a változás két útján: tudással (amit megértesz) és tapasztalással (amit megélsz). A tudás megnyitja a kaput; a tapasztalás lakja be a szobát.",
-        "en": "To feed the brain daily along the two routes of change: knowledge (what you understand) and experience (what you live). Knowledge opens the door; experience moves into the room."
+        "en": "To feed the brain daily along the two routes of change: knowledge (what you understand) and experience (what you live). Knowledge opens the door; experience moves into the room.",
+        "ro": "Să hrănești creierul zilnic pe cele două căi ale schimbării: cunoașterea (ce înțelegi) și experiența (ce trăiești). Cunoașterea deschide ușa; experiența se mută în încăpere."
       },
       "modszer": [
         {
           "hu": "Minden nap tanulj meg egy új dolgot: olvass el egy gondolatot, egy összefüggést, egy fogalmat, és gondold végig a saját szavaiddal.",
-          "en": "Each day learn one new thing: read an idea, a connection, a concept, and think it through in your own words."
+          "en": "Each day learn one new thing: read an idea, a connection, a concept, and think it through in your own words.",
+          "ro": "În fiecare zi învață un lucru nou: citește o idee, o legătură, un concept și gândește-l până la capăt cu propriile tale cuvinte."
         },
         {
           "hu": "Még aznap kösd tapasztaláshoz: próbáld ki, mondd el valakinek, alkalmazd egy helyzetben — vond be a testet és az érzékeket.",
-          "en": "That same day tie it to experience: try it out, tell someone, apply it in a situation — involve the body and the senses."
+          "en": "That same day tie it to experience: try it out, tell someone, apply it in a situation — involve the body and the senses.",
+          "ro": "Chiar în ziua aceea leagă-l de experiență: încearcă-l, spune-i cuiva, aplică-l într-o situație — implică trupul și simțurile."
         },
         {
           "hu": "Este idézd fel: mit értettem meg, és hol vált élővé? Ha csak „száraz” tudás maradt, tervezd meg, mikor éled meg.",
-          "en": "In the evening recall: what did I understand, and where did it come alive? If it stayed ‘dry’ knowledge, plan when you will live it."
+          "en": "In the evening recall: what did I understand, and where did it come alive? If it stayed ‘dry’ knowledge, plan when you will live it.",
+          "ro": "Seara adu-ți aminte: ce am înțeles și unde a prins viață? Dacă a rămas cunoaștere „uscată”, plănuiește când o vei trăi."
         },
         {
           "hu": "Ismételd másnap is: az új gondolat először halvány ösvény; a napi visszatérés teszi úttá.",
-          "en": "Repeat the next day too: a new thought is at first a faint trail; daily returning makes it a road."
+          "en": "Repeat the next day too: a new thought is at first a faint trail; daily returning makes it a road.",
+          "ro": "Repetă și a doua zi: un gând nou e la început o potecă abia vizibilă; revenirea zilnică îl face drum."
         }
       ],
       "keret": {
         "hu": "A kutatások szerint a tanulás és a megélt tapasztalás új idegi kapcsolatokat épít, a nem használt utak pedig elhalványulnak. Nem a mennyiség számít, hanem a rendszeresség és az, hogy a tudás megélt legyen.",
-        "en": "Research suggests that learning and lived experience build new neural connections, while unused pathways fade. What counts is not quantity but regularity, and that knowledge becomes lived."
+        "en": "Research suggests that learning and lived experience build new neural connections, while unused pathways fade. What counts is not quantity but regularity, and that knowledge becomes lived.",
+        "ro": "Cercetările sugerează că învățarea și experiența trăită construiesc legături neuronale noi, în timp ce căile nefolosite se sting. Nu cantitatea contează, ci regularitatea și faptul că cunoașterea devine trăită."
       },
       "sorszam": 4
     },
@@ -179,37 +211,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Mentális főpróba",
-        "en": "The Mental Dress Rehearsal"
+        "en": "The Mental Dress Rehearsal",
+        "ro": "Repetiția generală mentală"
       },
       "cel": {
         "hu": "Fejben, részletesen, újra és újra átvenni az új viselkedést vagy hozzáállást, mielőtt szükség lenne rá — így a belső ismétlés is utat épít az új mintának.",
-        "en": "To run through the new behaviour or attitude in the mind, in detail, again and again, before it is needed — so that inner repetition too builds a pathway for the new pattern."
+        "en": "To run through the new behaviour or attitude in the mind, in detail, again and again, before it is needed — so that inner repetition too builds a pathway for the new pattern.",
+        "ro": "Să parcurgi în minte noul comportament sau noua atitudine, în detaliu, iar și iar, înainte de a fi nevoie de el — astfel încât și repetarea interioară să construiască o cale pentru tiparul cel nou."
       },
       "modszer": [
         {
           "hu": "Válassz egy visszatérő helyzetet, amelyben eddig a régi minta indult be (feszült beszélgetés, halogatott feladat, önbírálat).",
-          "en": "Choose a recurring situation where the old pattern used to fire (a tense conversation, a postponed task, a bout of self-criticism)."
+          "en": "Choose a recurring situation where the old pattern used to fire (a tense conversation, a postponed task, a bout of self-criticism).",
+          "ro": "Alege o situație care revine și în care se declanșa tiparul vechi (o conversație tensionată, o sarcină amânată, un acces de autocritică)."
         },
         {
           "hu": "Ülj le csendben, halkítsd le a környezetet, csukd be a szemed, és játszd le a jelenetet fejben — most úgy, ahogy szeretnéd.",
-          "en": "Sit quietly, turn down the surroundings, close your eyes, and play the scene in your mind — now the way you want it."
+          "en": "Sit quietly, turn down the surroundings, close your eyes, and play the scene in your mind — now the way you want it.",
+          "ro": "Așază-te liniștit, estompează împrejurimile, închide ochii și derulează scena în minte — acum așa cum o vrei tu."
         },
         {
           "hu": "Tedd részletessé: lásd magad nyugodtnak, halld a hangod, érezd a testtartásod. Nem hazudsz magadnak — az új választ gyakorlod.",
-          "en": "Make it detailed: see yourself calm, hear your voice, feel your posture. You are not lying to yourself — you are practising the new response."
+          "en": "Make it detailed: see yourself calm, hear your voice, feel your posture. You are not lying to yourself — you are practising the new response.",
+          "ro": "Fă-o detaliată: vezi-te calm, auzi-ți vocea, simte-ți ținuta. Nu te minți pe tine însuți — exersezi răspunsul cel nou."
         },
         {
           "hu": "Vedd át többször, amíg természetesnek nem tűnik. Ha közben elveszíted az idő- és térérzéked, az jó jel: a fókusz átvette a vezetést.",
-          "en": "Run it several times, until it feels natural. If you lose your sense of time and space, that is a good sign: focus has taken the lead."
+          "en": "Run it several times, until it feels natural. If you lose your sense of time and space, that is a good sign: focus has taken the lead.",
+          "ro": "Derulează-o de mai multe ori, până când se simte firească. Dacă îți pierzi simțul timpului și al spațiului, e un semn bun: concentrarea a preluat conducerea."
         },
         {
           "hu": "Zárás: jegyezd fel, mikor lesz alkalmad a valóságban is kipróbálni — a főpróba a színpadért van.",
-          "en": "To close: note when you will have the chance to try it in reality — the dress rehearsal exists for the stage."
+          "en": "To close: note when you will have the chance to try it in reality — the dress rehearsal exists for the stage.",
+          "ro": "Ca încheiere: notează când vei avea prilejul să o încerci în realitate — repetiția generală există pentru scenă."
         }
       ],
       "keret": {
         "hu": "A kutatások szerint az agy sok szempontból hasonlóan reagál a jól elképzelt gyakorlásra, mint a valódira. Ez nem varázslat: a fejben ismételt minta könnyebben hívható elő, de a valós megélést nem pótolja.",
-        "en": "Research suggests the brain responds to well-imagined rehearsal in many ways as it does to the real thing. This is no magic: a pattern repeated in the mind is easier to call up, but it does not replace living it for real."
+        "en": "Research suggests the brain responds to well-imagined rehearsal in many ways as it does to the real thing. This is no magic: a pattern repeated in the mind is easier to call up, but it does not replace living it for real.",
+        "ro": "Cercetările sugerează că, în multe privințe, creierul răspunde la o repetiție bine imaginată la fel ca la lucrul real. Nu e magie: un tipar repetat în minte se cheamă mai ușor, dar nu înlocuiește trăirea lui aievea."
       },
       "sorszam": 5
     },
@@ -221,33 +261,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Ki a pályára",
-        "en": "Onto the Field"
+        "en": "Onto the Field",
+        "ro": "Pe teren"
       },
       "cel": {
         "hu": "A fejben gyakorolt új mintát valódi helyzetben megmutatni — előbb az elme, aztán az elme és a test együtt. A könyv határozott: a mentális gyakorlás megélés nélkül befejezetlen.",
-        "en": "To show the mentally rehearsed new pattern in a real situation — first the mind, then mind and body together. The book is firm: mental rehearsal without living it out is unfinished."
+        "en": "To show the mentally rehearsed new pattern in a real situation — first the mind, then mind and body together. The book is firm: mental rehearsal without living it out is unfinished.",
+        "ro": "Să arăți tiparul cel nou, repetat în minte, într-o situație reală — întâi mintea, apoi mintea și trupul împreună. Cartea e fermă: repetiția mentală fără trăire rămâne neterminată."
       },
       "modszer": [
         {
           "hu": "Vedd elő a mentális főpróbán begyakorolt jelenetet, és keresd meg (vagy teremtsd meg) az első valódi alkalmat.",
-          "en": "Take the scene you rehearsed mentally and find (or create) the first real occasion for it."
+          "en": "Take the scene you rehearsed mentally and find (or create) the first real occasion for it.",
+          "ro": "Ia scena pe care ai repetat-o în minte și găsește (sau creează) primul prilej real pentru ea."
         },
         {
           "hu": "Közvetlenül előtte idézd fel röviden a begyakorolt állapotot: a nyugodt hangot, a testtartást, az első mondatot.",
-          "en": "Right before it, briefly recall the rehearsed state: the calm voice, the posture, the opening sentence."
+          "en": "Right before it, briefly recall the rehearsed state: the calm voice, the posture, the opening sentence.",
+          "ro": "Chiar înainte de ea, adu-ți pe scurt aminte starea repetată: vocea calmă, ținuta, propoziția de început."
         },
         {
           "hu": "A helyzetben engedd, hogy a test is tanuljon: figyelj arra, milyen érzés másképp csinálni — ez a mélyebb, tartósabb emlék.",
-          "en": "In the situation, let the body learn too: notice how it feels to do it differently — this is the deeper, longer-lasting memory."
+          "en": "In the situation, let the body learn too: notice how it feels to do it differently — this is the deeper, longer-lasting memory.",
+          "ro": "În situație, lasă și trupul să învețe: observă cum e să faci altfel — aceasta e amintirea mai adâncă și mai durabilă."
         },
         {
           "hu": "Utána értékelj röviden, ítélkezés nélkül: mi ment át a fejből a valóságba, és mi maradt még próbára?",
-          "en": "Afterwards review briefly, without judgement: what carried over from mind to reality, and what still needs rehearsal?"
+          "en": "Afterwards review briefly, without judgement: what carried over from mind to reality, and what still needs rehearsal?",
+          "ro": "După aceea treci pe scurt în revistă, fără judecată: ce a trecut din minte în realitate și ce mai are nevoie de repetiție?"
         }
       ],
       "keret": {
         "hu": "A változás két útja — tudás és tapasztalás — itt ér össze: ahogy Arisztotelész mondta, azzá válunk, amit ismételten teszünk. A kutatások szerint a megélt ismétlés rögzíti legtartósabban az új mintát.",
-        "en": "The two routes of change — knowledge and experience — meet here: as Aristotle said, we become what we repeatedly do. Research suggests lived repetition fixes the new pattern most durably."
+        "en": "The two routes of change — knowledge and experience — meet here: as Aristotle said, we become what we repeatedly do. Research suggests lived repetition fixes the new pattern most durably.",
+        "ro": "Cele două căi ale schimbării — cunoașterea și experiența — se întâlnesc aici: cum spunea Aristotel, devenim ceea ce facem în mod repetat. Cercetările sugerează că repetarea trăită fixează cel mai durabil tiparul cel nou."
       },
       "sorszam": 6
     },
@@ -259,33 +306,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Törd meg a megszokást",
-        "en": "Break the Routine"
+        "en": "Break the Routine",
+        "ro": "Rupe rutina"
       },
       "cel": {
         "hu": "Naponta egy apró, szándékos eltéréssel fellazítani a megszokás kényelmét, és megtapasztalni: a gépies napirend nagy része nem választás, csak ismétlés.",
-        "en": "To loosen the comfort of routine with one small, deliberate deviation each day, and to experience that much of the mechanical daily round is not choice, only repetition."
+        "en": "To loosen the comfort of routine with one small, deliberate deviation each day, and to experience that much of the mechanical daily round is not choice, only repetition.",
+        "ro": "Să slăbești confortul rutinei printr-o mică abatere deliberată în fiecare zi și să experimentezi că mare parte din rutina zilnică mecanică nu e alegere, ci doar repetiție."
       },
       "modszer": [
         {
           "hu": "Válassz ki reggel egy apró rutint, és csináld ma szándékosan másképp: másik útvonal, másik kéz, másik sorrend, más reggeli.",
-          "en": "In the morning pick one small routine and do it deliberately differently today: another route, the other hand, another order, a different breakfast."
+          "en": "In the morning pick one small routine and do it deliberately differently today: another route, the other hand, another order, a different breakfast.",
+          "ro": "Dimineața alege o mică rutină și fă-o azi în mod deliberat altfel: alt drum, cealaltă mână, altă ordine, alt mic dejun."
         },
         {
           "hu": "Közben figyeld a belső ellenállást: a kis kényelmetlenség annak a jele, hogy egy bejáratott utat hagytál el.",
-          "en": "While doing it, watch the inner resistance: the small discomfort is the sign that you have left a well-worn path."
+          "en": "While doing it, watch the inner resistance: the small discomfort is the sign that you have left a well-worn path.",
+          "ro": "În timp ce o faci, privește rezistența interioară: micul disconfort e semnul că ai părăsit o cărare bătătorită."
         },
         {
           "hu": "Vedd észre, mennyivel éberebb vagy a szokatlanban — az újdonság felébreszti a figyelmet, amit a rutin elaltatott.",
-          "en": "Notice how much more awake you are in the unfamiliar — novelty rouses the attention that routine had lulled."
+          "en": "Notice how much more awake you are in the unfamiliar — novelty rouses the attention that routine had lulled.",
+          "ro": "Observă cât de mult mai treaz ești în ceea ce nu-ți e familiar — noutatea trezește atenția pe care rutina o adormise."
         },
         {
           "hu": "Este jegyezd fel, mit törtél meg és mit vettél észre; másnap válassz másik apróságot.",
-          "en": "In the evening note what you broke and what you noticed; the next day choose another small thing."
+          "en": "In the evening note what you broke and what you noticed; the next day choose another small thing.",
+          "ro": "Seara notează ce ai rupt și ce ai observat; a doua zi alege alt lucru mic."
         }
       ],
       "keret": {
         "hu": "A megszokás kényelme a régi idegi utak kitaposottsága. A kutatások szerint az újszerű, figyelmet kívánó cselekvés serkenti az agy alkalmazkodását — apró léptékben is.",
-        "en": "The comfort of routine is the well-trodden state of old neural paths. Research suggests novel, attention-demanding action stimulates the brain’s adaptation — even at a small scale."
+        "en": "The comfort of routine is the well-trodden state of old neural paths. Research suggests novel, attention-demanding action stimulates the brain’s adaptation — even at a small scale.",
+        "ro": "Confortul rutinei e starea bătătorită a vechilor căi neuronale. Cercetările sugerează că acțiunea nouă, care cere atenție, stimulează adaptarea creierului — chiar și la scară mică."
       },
       "sorszam": 7
     },
@@ -297,41 +351,50 @@
       "elem": "Ido",
       "cim": {
         "hu": "Esti mintaszemle",
-        "en": "The Evening Pattern Review"
+        "en": "The Evening Pattern Review",
+        "ro": "Trecerea în revistă de seară a tiparelor"
       },
       "cel": {
         "hu": "Napzárásként ítélkezés nélkül átnézni a nap gondolati és érzelmi mintáit: mi indult be gépiesen, hol sikerült kilépni, és mit érdemes holnap másképp gyakorolni.",
-        "en": "To close the day by reviewing, without judgement, its thought and feeling patterns: what fired on autopilot, where you managed to step out, and what is worth practising differently tomorrow."
+        "en": "To close the day by reviewing, without judgement, its thought and feeling patterns: what fired on autopilot, where you managed to step out, and what is worth practising differently tomorrow.",
+        "ro": "Să închei ziua trecând în revistă, fără judecată, tiparele ei de gând și de simțire: ce s-a declanșat pe pilot automat, unde ai reușit să ieși și ce merită exersat altfel mâine."
       },
       "modszer": [
         {
           "hu": "Este ülj le öt percre, és pörgesd végig a napot, mint egy nyugodt néző a felvételt — tényszerűen, ítélet nélkül.",
-          "en": "In the evening sit for five minutes and run through the day like a calm viewer watching the footage — factually, without verdicts."
+          "en": "In the evening sit for five minutes and run through the day like a calm viewer watching the footage — factually, without verdicts.",
+          "ro": "Seara așază-te cinci minute și derulează ziua ca un spectator liniștit care privește înregistrarea — la obiect, fără verdicte."
         },
         {
           "hu": "Keresd meg a nap egy-két pillanatát, amikor egy régi minta indult be: mi történt, milyen gondolat és érzés pörgött fel?",
-          "en": "Find one or two moments when an old pattern fired: what happened, what thought and feeling spun up?"
+          "en": "Find one or two moments when an old pattern fired: what happened, what thought and feeling spun up?",
+          "ro": "Găsește unul sau două momente în care s-a declanșat un tipar vechi: ce s-a întâmplat, ce gând și ce simțire s-au învârtit?"
         },
         {
           "hu": "Keresd meg azt is, ahol sikerült észrevenni, szünetet tartani vagy átkeretezni — a kis győzelem is győzelem, nevezd meg.",
-          "en": "Also find where you managed to notice, pause, or reframe — a small win is still a win; name it."
+          "en": "Also find where you managed to notice, pause, or reframe — a small win is still a win; name it.",
+          "ro": "Găsește și locurile unde ai reușit să observi, să faci o pauză sau să reformulezi — o victorie mică e tot o victorie; numește-o."
         },
         {
           "hu": "Válassz egy mintát, amelyet holnap tudatosan másképp játszol le, és képzeld el röviden az új választ.",
-          "en": "Choose one pattern to play differently tomorrow, on purpose, and briefly picture the new response."
+          "en": "Choose one pattern to play differently tomorrow, on purpose, and briefly picture the new response.",
+          "ro": "Alege un tipar pe care mâine să-l joci altfel, în mod intenționat, și imaginează-ți pe scurt răspunsul cel nou."
         },
         {
           "hu": "Zárd hálával vagy egyszerű nyugtázással: ma is néztem, tanultam — a szemle nem önostorozás.",
-          "en": "Close with gratitude or a simple acknowledgement: today too I watched and learned — the review is not self-flagellation."
+          "en": "Close with gratitude or a simple acknowledgement: today too I watched and learned — the review is not self-flagellation.",
+          "ro": "Încheie cu recunoștință sau cu o simplă recunoaștere: și azi am privit și am învățat — trecerea în revistă nu e autoflagelare."
         }
       ],
       "keret": {
         "hu": "Az esti visszatekintés a megfigyelést teszi rendszeressé: amit naponta észreveszel, azt egyre korábban veszed észre napközben is. A kutatások a rendszeres önreflexió hasznára utalnak — türelmes, fokozatos eszköz ez, nem gyorsjavítás.",
-        "en": "The evening look-back makes observation regular: what you notice daily, you begin to notice earlier and earlier during the day itself. Research points toward the value of regular self-reflection — a patient, gradual tool, not a quick fix."
+        "en": "The evening look-back makes observation regular: what you notice daily, you begin to notice earlier and earlier during the day itself. Research points toward the value of regular self-reflection — a patient, gradual tool, not a quick fix.",
+        "ro": "Privirea înapoi de seară face observarea regulată: ceea ce observi zilnic începi să observi tot mai devreme chiar în cursul zilei. Cercetările indică valoarea autoreflecției regulate — un instrument răbdător și treptat, nu o rezolvare rapidă."
       },
       "etika": {
         "hu": "A szemle célja a tanulás, nem az önítélet. Ha az esti visszanézés rendszeresen sötét, szorongó vagy önbántó mintákba fut, kérj szakember segítségét — ez gondozást kíván, nem több gyakorlást.",
-        "en": "The purpose of the review is learning, not self-judgement. If the evening look-back keeps running into dark, anxious, or self-harming patterns, seek help from a professional — that calls for care, not more practice."
+        "en": "The purpose of the review is learning, not self-judgement. If the evening look-back keeps running into dark, anxious, or self-harming patterns, seek help from a professional — that calls for care, not more practice.",
+        "ro": "Scopul trecerii în revistă e învățarea, nu judecarea de sine. Dacă privirea înapoi de seară dă mereu peste tipare întunecate, anxioase sau autodistructive, caută ajutorul unui profesionist — asta cere îngrijire, nu mai multă practică."
       },
       "sorszam": 8
     }

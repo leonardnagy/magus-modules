@@ -3,7 +3,8 @@
   "id": "practice-pack-rv-sanctuary",
   "nevek": {
     "hu": "Vak célpontok és a belső menedék",
-    "en": "Blind targets & the inner sanctuary"
+    "en": "Blind targets & the inner sanctuary",
+    "ro": "Ținte oarbe și refugiul interior"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -16,33 +17,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "A csend megteremtése és a test elrendezése",
-        "en": "Settling into quiet and grounding the body"
+        "en": "Settling into quiet and grounding the body",
+        "ro": "Intrarea în liniște și împământarea corpului"
       },
       "cel": {
         "hu": "Nyugodt, zavartalan belső kiindulóállapot kialakítása minden gyakorlat elé, hogy a figyelem tiszta és ne feszült legyen.",
-        "en": "Create a calm, undisturbed inner starting state before any exercise, so attention is clear rather than tense."
+        "en": "Create a calm, undisturbed inner starting state before any exercise, so attention is clear rather than tense.",
+        "ro": "Să creezi o stare interioară de pornire calmă și netulburată înaintea oricărui exercițiu, ca atenția să fie limpede, nu încordată."
       },
       "modszer": [
         {
           "hu": "Válassz egy csendes helyet és időt, ahol néhány percig senki és semmi nem szakít félbe.",
-          "en": "Choose a quiet place and time where nothing and no one will interrupt you for a few minutes."
+          "en": "Choose a quiet place and time where nothing and no one will interrupt you for a few minutes.",
+          "ro": "Alege un loc și un moment liniștit, unde nimic și nimeni nu te va întrerupe câteva minute."
         },
         {
           "hu": "Ülj kényelmesen, engedd el a vállad, és vegyél néhány lassú, természetes lélegzetet.",
-          "en": "Sit comfortably, let your shoulders drop, and take a few slow, natural breaths."
+          "en": "Sit comfortably, let your shoulders drop, and take a few slow, natural breaths.",
+          "ro": "Așază-te confortabil, lasă umerii să cadă și ia câteva respirații lente, firești."
         },
         {
           "hu": "Vidd a figyelmed a talpad, az ülőfelület és a kezed érzetére, amíg a test megnyugszik.",
-          "en": "Bring attention to the feel of your feet, your seat and your hands until the body settles."
+          "en": "Bring attention to the feel of your feet, your seat and your hands until the body settles.",
+          "ro": "Adu-ți atenția la senzația tălpilor, a șezutului și a mâinilor, până când corpul se liniștește."
         },
         {
           "hu": "Amikor a sietség érzése alábbhagy, jelezd magadnak, hogy készen állsz a gyakorlásra.",
-          "en": "When the sense of hurry fades, note to yourself that you are ready to begin."
+          "en": "When the sense of hurry fades, note to yourself that you are ready to begin.",
+          "ro": "Când senzația de grabă se stinge, spune-ți în gând că ești gata să începi."
         }
       ],
       "keret": {
         "hu": "A hagyomány saját modellje szerint a nyugodt test tisztább belső figyelmet enged; ezt nem tényként állítjuk, hanem a saját tapasztalatod méri: nyugalom, jelenlét, tisztább fej.",
-        "en": "In this tradition's own model a calm body allows clearer inner attention; this is not asserted as fact, it is measured by your own experience of calm, presence and a clearer head."
+        "en": "In this tradition's own model a calm body allows clearer inner attention; this is not asserted as fact, it is measured by your own experience of calm, presence and a clearer head.",
+        "ro": "În modelul propriu al acestei tradiții, un corp calm îngăduie o atenție lăuntrică mai limpede; asta nu o afirmăm ca pe un fapt, ci o măsoară propria ta experiență: calm, prezență, o minte mai limpede."
       }
     },
     {
@@ -54,37 +62,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Földelés, ha félelem vagy szorongás jön",
-        "en": "Grounding when fear or dread arises"
+        "en": "Grounding when fear or dread arises",
+        "ro": "Împământare, când apare frica sau spaima"
       },
       "cel": {
         "hu": "Egyszerű testi horgony, amely lecsendesíti a riadalmat, hogy a gyakorlás nyugodt és ne ijedt állapotból induljon.",
-        "en": "A simple bodily anchor that calms alarm, so practice starts from steadiness rather than fright."
+        "en": "A simple bodily anchor that calms alarm, so practice starts from steadiness rather than fright.",
+        "ro": "O ancoră corporală simplă care potolește alarma, ca practica să pornească dintr-o stare așezată, nu din spaimă."
       },
       "modszer": [
         {
           "hu": "Amikor katasztrofikus vagy ijesztő gondolat jelenik meg, állj meg, és nevezd meg magadban: ez félelem.",
-          "en": "When a catastrophic or frightening thought appears, pause and name it inwardly as fear."
+          "en": "When a catastrophic or frightening thought appears, pause and name it inwardly as fear.",
+          "ro": "Când apare un gând catastrofic sau înspăimântător, oprește-te și numește-l în gând: e frică."
         },
         {
           "hu": "Lassítsd a kilégzést, és tedd hosszabbá, mint a belégzést, néhány körön át.",
-          "en": "Slow the out-breath and make it longer than the in-breath for a few rounds."
+          "en": "Slow the out-breath and make it longer than the in-breath for a few rounds.",
+          "ro": "Încetinește expirația și fă-o mai lungă decât inspirația, timp de câteva runde."
         },
         {
           "hu": "Sorolj fel csendben öt dolgot, amit most látsz, és hármat, amit hallasz vagy tapintasz.",
-          "en": "Silently name five things you can see now, and three you can hear or touch."
+          "en": "Silently name five things you can see now, and three you can hear or touch.",
+          "ro": "Numește în tăcere cinci lucruri pe care le vezi acum și trei pe care le auzi sau le atingi."
         },
         {
           "hu": "Emlékeztesd magad, hogy egy gondolat vagy jóslat nem esemény, és most biztonságban vagy ebben a percben.",
-          "en": "Remind yourself that a thought or prediction is not an event, and that in this moment you are safe."
+          "en": "Remind yourself that a thought or prediction is not an event, and that in this moment you are safe.",
+          "ro": "Amintește-ți că un gând sau o prezicere nu e un eveniment și că, în clipa aceasta, ești în siguranță."
         }
       ],
       "keret": {
         "hu": "Ez nyugtató, jelenléti gyakorlat, nem a jövő megjövendölése; a hagyomány sötét jóslatai itt nem irányadók. A gyümölcse a lecsillapodás, nem a rettegés táplálása.",
-        "en": "This is a calming, present-moment practice, not fortune-telling; the tradition's dark predictions are not treated as guidance here. Its fruit is settling, not feeding dread."
+        "en": "This is a calming, present-moment practice, not fortune-telling; the tradition's dark predictions are not treated as guidance here. Its fruit is settling, not feeding dread.",
+        "ro": "Aceasta e o practică de liniștire, ancorată în clipa de față, nu ghicit în viitor; prezicerile sumbre ale tradiției nu sunt luate aici drept îndrumare. Rodul ei e așezarea, nu hrănirea spaimei."
       },
       "etika": {
         "hu": "Nem orvosi és nem pszichológiai kezelés. Tartós szorongás, pánik vagy krízis esetén fordulj szakemberhez; ez a gyakorlat nem helyettesíti az ellátást, és nem gyerekeknek vagy akut krízisben lévőknek szól.",
-        "en": "Not medical or psychological treatment. For lasting anxiety, panic or crisis, seek a professional; this practice does not replace care, and is not for children or people in acute crisis."
+        "en": "Not medical or psychological treatment. For lasting anxiety, panic or crisis, seek a professional; this practice does not replace care, and is not for children or people in acute crisis.",
+        "ro": "Nu e tratament medical sau psihologic. Pentru anxietate persistentă, panică sau criză, caută un profesionist; această practică nu înlocuiește îngrijirea și nu e pentru copii sau pentru oameni aflați în criză acută."
       }
     },
     {
@@ -96,33 +112,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Médiahigiénia és a hírfogyasztás mértéke",
-        "en": "Media hygiene and measured news intake"
+        "en": "Media hygiene and measured news intake",
+        "ro": "Igiena media și consumul măsurat de știri"
       },
       "cel": {
         "hu": "Tudatos keret a riasztó tartalmak fogyasztására, hogy a belső érzékelés ne torzuljon állandó vészhangulattá.",
-        "en": "A conscious frame for consuming alarming content, so inner perception is not distorted into constant alarm."
+        "en": "A conscious frame for consuming alarming content, so inner perception is not distorted into constant alarm.",
+        "ro": "Un cadru conștient pentru consumul de conținut alarmant, ca percepția lăuntrică să nu fie deformată într-o alarmă continuă."
       },
       "modszer": [
         {
           "hu": "Jelölj ki egy rövid, meghatározott időt a hírekre, ahelyett hogy egész nap sodródnál velük.",
-          "en": "Set a short, defined time for news instead of drifting through it all day."
+          "en": "Set a short, defined time for news instead of drifting through it all day.",
+          "ro": "Stabilește un timp scurt și bine definit pentru știri, în loc să te lași purtat prin ele toată ziua."
         },
         {
           "hu": "Vedd észre, amikor egy tartalom sürgetést, félelmet vagy végítélet-hangulatot próbál kelteni, és nevezd meg ezt magadban.",
-          "en": "Notice when content is trying to create urgency, fear or doom, and name that to yourself."
+          "en": "Notice when content is trying to create urgency, fear or doom, and name that to yourself.",
+          "ro": "Observă când un conținut încearcă să creeze urgență, frică sau presimțirea dezastrului, și numește-ți asta în gând."
         },
         {
           "hu": "Zárás után szánj egy percet földelésre, mielőtt bármi máshoz kezdesz.",
-          "en": "After finishing, take a minute to ground yourself before moving on."
+          "en": "After finishing, take a minute to ground yourself before moving on.",
+          "ro": "După ce termini, ia-ți un minut să te împământezi înainte de a merge mai departe."
         },
         {
           "hu": "Este kerüld a riasztó tartalmakat, hogy az alvásod és a nyugalmad ne sérüljön.",
-          "en": "Avoid alarming content late in the evening so your sleep and calm are protected."
+          "en": "Avoid alarming content late in the evening so your sleep and calm are protected.",
+          "ro": "Ocolește conținutul alarmant seara târziu, ca să-ți ferești somnul și calmul."
         }
       ],
       "keret": {
         "hu": "Ez higiéniai szokás a figyelem védelmére, nem a világ eseményeinek tagadása; a cél a nyugodt tisztánlátás, nem a félelem. A gyümölcse méri: kevesebb sodródás, több belső egyensúly.",
-        "en": "This is a hygiene habit protecting attention, not denial of world events; the aim is calm clarity, not fear. It is measured by its fruit: less drift, more inner balance."
+        "en": "This is a hygiene habit protecting attention, not denial of world events; the aim is calm clarity, not fear. It is measured by its fruit: less drift, more inner balance.",
+        "ro": "E un obicei de igienă care îți apără atenția, nu o negare a evenimentelor lumii; țelul e limpezimea calmă, nu frica. Se măsoară după rodul ei: mai puțină rătăcire, mai mult echilibru lăuntric."
       }
     },
     {
@@ -134,33 +157,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "A belső menedék megalapozása",
-        "en": "Establishing the inner sanctuary"
+        "en": "Establishing the inner sanctuary",
+        "ro": "Întemeierea refugiului interior"
       },
       "cel": {
         "hu": "Egy belső, képzeletbeli hely kialakítása, ahol biztonságban és nyugodtan érzed magad, és amelyhez bármikor visszatérhetsz.",
-        "en": "Build an inner, imagined place where you feel safe and calm, and to which you can return at any time."
+        "en": "Build an inner, imagined place where you feel safe and calm, and to which you can return at any time.",
+        "ro": "Să clădești un loc lăuntric, imaginat, unde te simți în siguranță și calm, și la care te poți întoarce oricând."
       },
       "modszer": [
         {
           "hu": "Csukott szemmel engedd, hogy megjelenjen egy hely, ahol jól és biztonságban érzed magad; ne erőltesd, hagyd kibontakozni.",
-          "en": "With eyes closed, let a place appear where you feel well and safe; do not force it, let it emerge."
+          "en": "With eyes closed, let a place appear where you feel well and safe; do not force it, let it emerge.",
+          "ro": "Cu ochii închiși, lasă să apară un loc unde te simți bine și în siguranță; nu-l forța, lasă-l să se ivească."
         },
         {
           "hu": "Figyeld meg a tág vonalait: kültér vagy beltér, tágas vagy zárt, világos vagy árnyékos.",
-          "en": "Notice its broad shape: outdoors or indoors, open or enclosed, bright or shaded."
+          "en": "Notice its broad shape: outdoors or indoors, open or enclosed, bright or shaded.",
+          "ro": "Observă-i forma largă: afară sau înăuntru, deschis sau închis, luminos sau umbrit."
         },
         {
           "hu": "Állj meg a hely közepén, és érezd, ahogy a talaj vagy a padló megtart.",
-          "en": "Stand at the centre of the place and feel the ground or floor holding you."
+          "en": "Stand at the centre of the place and feel the ground or floor holding you.",
+          "ro": "Stai în centrul locului și simte pământul sau podeaua care te ține."
         },
         {
           "hu": "Mielőtt kilépsz, jegyezd meg, milyen érzés volt ott lenni, hogy legközelebb könnyebben visszatalálj.",
-          "en": "Before leaving, note how it felt to be there, so you can return more easily next time."
+          "en": "Before leaving, note how it felt to be there, so you can return more easily next time.",
+          "ro": "Înainte să pleci, ia seama cum a fost să fii acolo, ca data viitoare să te întorci mai ușor."
         }
       ],
       "keret": {
         "hu": "A belső menedék a hagyomány saját belső eszköze: a képzelet és a nyugalom gyakorlása, nem valós hely és nem menekülési terv. A gyümölcse az élénkebb képzelet és a biztonságérzet.",
-        "en": "The inner sanctuary is this tradition's own inner tool: a practice of imagination and calm, not a real location or an escape plan. Its fruit is livelier imagination and a felt sense of safety."
+        "en": "The inner sanctuary is this tradition's own inner tool: a practice of imagination and calm, not a real location or an escape plan. Its fruit is livelier imagination and a felt sense of safety.",
+        "ro": "Refugiul interior e instrumentul lăuntric propriu acestei tradiții: o practică a imaginației și a calmului, nu un loc real și nici un plan de scăpare. Rodul lui e o imaginație mai vie și un simț trăit al siguranței."
       }
     },
     {
@@ -172,33 +202,40 @@
       "elem": "Viz",
       "cim": {
         "hu": "Víz képe a menedékben",
-        "en": "Water imagery in the sanctuary"
+        "en": "Water imagery in the sanctuary",
+        "ro": "Imaginea apei în refugiu"
       },
       "cel": {
         "hu": "A belső menedék elmélyítése egy nyugodt vízfelület képével, amely a béke és a felfrissülés érzetét hordozza.",
-        "en": "Deepen the inner sanctuary with the image of calm water that carries a sense of peace and refreshment."
+        "en": "Deepen the inner sanctuary with the image of calm water that carries a sense of peace and refreshment.",
+        "ro": "Să adâncești refugiul interior cu imaginea unei ape calme, care aduce cu sine pace și înviorare."
       },
       "modszer": [
         {
           "hu": "Helyezz a menedékedbe egy vizet: tavat, patakot, forrást vagy tengert, amelyik jólesik.",
-          "en": "Place water in your sanctuary: a lake, stream, spring or sea, whichever feels good."
+          "en": "Place water in your sanctuary: a lake, stream, spring or sea, whichever feels good.",
+          "ro": "Așază apă în refugiul tău: un lac, un pârâu, un izvor sau marea — oricare îți face bine."
         },
         {
           "hu": "Figyeld a víz mozgását, hangját és fényét, és engedd, hogy megnyugtasson.",
-          "en": "Watch the water's movement, sound and light, and let it soothe you."
+          "en": "Watch the water's movement, sound and light, and let it soothe you.",
+          "ro": "Privește mișcarea apei, sunetul și lumina ei, și las-o să te aline."
         },
         {
           "hu": "Vegyél néhány lélegzetet a víz ritmusára hangolódva.",
-          "en": "Take a few breaths, tuning to the rhythm of the water."
+          "en": "Take a few breaths, tuning to the rhythm of the water.",
+          "ro": "Ia câteva respirații, acordându-te la ritmul apei."
         },
         {
           "hu": "Engedd, hogy a nyugalom érzete kísérjen, amikor kilépsz a képből.",
-          "en": "Let the feeling of calm stay with you as you step out of the image."
+          "en": "Let the feeling of calm stay with you as you step out of the image.",
+          "ro": "Lasă senzația de calm să rămână cu tine când ieși din imagine."
         }
       ],
       "keret": {
         "hu": "Ez képzeleti és nyugtató gyakorlat; a víz itt jelkép, nem valós erőforrás felkutatása. A hagyomány saját modellje szerint a képek belső állapotot formálnak, amit a nyugalmad mér.",
-        "en": "This is imaginative and calming; the water here is a symbol, not the seeking of a real resource. In this tradition's own model images shape inner state, measured by your calm."
+        "en": "This is imaginative and calming; the water here is a symbol, not the seeking of a real resource. In this tradition's own model images shape inner state, measured by your calm.",
+        "ro": "E o lucrare de imaginație și de liniștire; apa e aici un simbol, nu căutarea unei resurse reale. În modelul propriu al acestei tradiții, imaginile modelează starea lăuntrică — măsura o dă calmul tău."
       }
     },
     {
@@ -210,33 +247,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Élő, növekvő dolgok a menedékben",
-        "en": "Living, growing things in the sanctuary"
+        "en": "Living, growing things in the sanctuary",
+        "ro": "Lucruri vii, care cresc, în refugiu"
       },
       "cel": {
         "hu": "A belső menedék gazdagítása élő növényzet és növekedés képével, amely a bőség és a gondoskodás nyugodt érzetét adja.",
-        "en": "Enrich the inner sanctuary with images of living plants and growth that give a calm sense of abundance and care."
+        "en": "Enrich the inner sanctuary with images of living plants and growth that give a calm sense of abundance and care.",
+        "ro": "Să îmbogățești refugiul interior cu imagini de plante vii și de creștere, care dau un simț calm al belșugului și al grijii."
       },
       "modszer": [
         {
           "hu": "Idézz fel a menedékedben növényeket: fűvet, fákat, kertet vagy gyümölcsöt, ami táplálónak érződik.",
-          "en": "Bring plants into your sanctuary: grass, trees, a garden or fruit that feels nourishing."
+          "en": "Bring plants into your sanctuary: grass, trees, a garden or fruit that feels nourishing.",
+          "ro": "Adu plante în refugiul tău: iarbă, copaci, o grădină sau fructe care îți par hrănitoare."
         },
         {
           "hu": "Figyeld a színeket, a formákat és a növekedés csendes folyamatát.",
-          "en": "Notice the colours, shapes and the quiet process of growth."
+          "en": "Notice the colours, shapes and the quiet process of growth.",
+          "ro": "Observă culorile, formele și procesul tăcut al creșterii."
         },
         {
           "hu": "Érezd, hogy a hely eltart és körülvesz, mintha része lennél egy élő körforgásnak.",
-          "en": "Feel the place sustaining and surrounding you, as if part of a living cycle."
+          "en": "Feel the place sustaining and surrounding you, as if part of a living cycle.",
+          "ro": "Simte locul cum te susține și te înconjoară, ca și cum ai fi parte dintr-un ciclu viu."
         },
         {
           "hu": "Zárásként vidd magaddal a gondoskodás és bőség belső érzetét.",
-          "en": "To close, carry with you the inner sense of care and abundance."
+          "en": "To close, carry with you the inner sense of care and abundance.",
+          "ro": "Pentru a încheia, ia cu tine simțul lăuntric al grijii și al belșugului."
         }
       ],
       "keret": {
         "hu": "A növekedés itt belső kép a nyugalomért és a bőségérzetért, nem élelmiszer-felhalmozás vagy túlélési terv. A gyümölcse a képzelet gazdagsága és a nyugodt jelenlét.",
-        "en": "Growth here is an inner image for calm and a sense of plenty, not stockpiling food or a survival plan. Its fruit is richness of imagination and calm presence."
+        "en": "Growth here is an inner image for calm and a sense of plenty, not stockpiling food or a survival plan. Its fruit is richness of imagination and calm presence.",
+        "ro": "Creșterea e aici o imagine lăuntrică pentru calm și pentru simțul îndestulării, nu o strângere de provizii și nici un plan de supraviețuire. Rodul ei e bogăția imaginației și prezența calmă."
       }
     },
     {
@@ -248,37 +292,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Fény és meleg a menedékben",
-        "en": "Light and warmth in the sanctuary"
+        "en": "Light and warmth in the sanctuary",
+        "ro": "Lumină și căldură în refugiu"
       },
       "cel": {
         "hu": "A menedék kiegészítése a fény és a kellemes meleg érzetével, amely a komfort és a biztonság hangulatát erősíti.",
-        "en": "Complete the sanctuary with a sense of light and pleasant warmth that strengthens comfort and safety."
+        "en": "Complete the sanctuary with a sense of light and pleasant warmth that strengthens comfort and safety.",
+        "ro": "Să întregești refugiul cu un simț al luminii și al unei călduri plăcute, care întărește tihna și siguranța."
       },
       "modszer": [
         {
           "hu": "Engedj be a menedékbe egy fényforrást: napfényt, parazsat vagy lágy ragyogást, ami jólesik.",
-          "en": "Let a source of light into the sanctuary: sunlight, embers or a soft glow that feels good."
+          "en": "Let a source of light into the sanctuary: sunlight, embers or a soft glow that feels good.",
+          "ro": "Lasă o sursă de lumină să intre în refugiu: lumina soarelui, jarul sau o strălucire blândă care îți face bine."
         },
         {
           "hu": "Érezd a meleget a bőrödön és a hely körül, ahogy oldódik a feszültség.",
-          "en": "Feel the warmth on your skin and around the place as tension eases."
+          "en": "Feel the warmth on your skin and around the place as tension eases.",
+          "ro": "Simte căldura pe piele și în jurul locului, în timp ce încordarea se domolește."
         },
         {
           "hu": "Hagyd, hogy a fény szelíden bevilágítsa a menedék részleteit.",
-          "en": "Let the light gently reveal the details of the sanctuary."
+          "en": "Let the light gently reveal the details of the sanctuary.",
+          "ro": "Lasă lumina să dezvăluie blând detaliile refugiului."
         },
         {
           "hu": "Vidd magaddal a meleg, oltalmazó érzetet, amikor visszatérsz a jelenbe.",
-          "en": "Carry the warm, sheltering feeling with you as you return to the present."
+          "en": "Carry the warm, sheltering feeling with you as you return to the present.",
+          "ro": "Ia cu tine senzația caldă, ocrotitoare, când te întorci în prezent."
         }
       ],
       "keret": {
         "hu": "A fény és meleg itt képzeleti komfort-jelkép, nem valós tűz. A hagyomány saját belső eszköze, amit a nyugalmad és a biztonságérzeted mér.",
-        "en": "Light and warmth here are an imagined symbol of comfort, not a real fire. This is an inner tool of the tradition, measured by your calm and sense of safety."
+        "en": "Light and warmth here are an imagined symbol of comfort, not a real fire. This is an inner tool of the tradition, measured by your calm and sense of safety.",
+        "ro": "Lumina și căldura sunt aici un simbol imaginat al tihnei, nu un foc real. E un instrument lăuntric al tradiției, măsurat după calmul și simțul tău de siguranță."
       },
       "etika": {
         "hu": "Ha a gyakorlathoz valós gyertyát vagy lángot használnál, tartsd be a tűzbiztonságot: felügyelet nélkül soha, éghető anyagoktól távol, alvás előtt eloltva. A képzeleti változat teljesen elég.",
-        "en": "If you use a real candle or flame alongside this, follow fire safety: never unattended, away from anything flammable, extinguished before sleep. The imagined version is entirely sufficient."
+        "en": "If you use a real candle or flame alongside this, follow fire safety: never unattended, away from anything flammable, extinguished before sleep. The imagined version is entirely sufficient.",
+        "ro": "Dacă folosești alături de asta o lumânare sau o flacără adevărată, respectă regulile de siguranță împotriva incendiilor: niciodată nesupravegheată, departe de orice e inflamabil, stinsă înainte de culcare. Varianta imaginată e pe deplin suficientă."
       }
     },
     {
@@ -290,33 +342,40 @@
       "elem": "Materia Prima",
       "cim": {
         "hu": "Elmélyítés az öt érzékkel",
-        "en": "Deepening with the five senses"
+        "en": "Deepening with the five senses",
+        "ro": "Adâncire prin cele cinci simțuri"
       },
       "cel": {
         "hu": "A belső menedék élénkebbé és stabilabbá tétele azzal, hogy tudatosan mind az öt érzéket bevonod a képbe.",
-        "en": "Make the inner sanctuary more vivid and stable by consciously involving all five senses."
+        "en": "Make the inner sanctuary more vivid and stable by consciously involving all five senses.",
+        "ro": "Să faci refugiul interior mai viu și mai stabil, implicând conștient toate cele cinci simțuri."
       },
       "modszer": [
         {
           "hu": "Térj vissza a menedékedbe, és először vedd sorra, mit látsz: színek, fények, formák.",
-          "en": "Return to your sanctuary and first take in what you see: colours, light, shapes."
+          "en": "Return to your sanctuary and first take in what you see: colours, light, shapes.",
+          "ro": "Întoarce-te în refugiul tău și cuprinde mai întâi ce vezi: culori, lumină, forme."
         },
         {
           "hu": "Figyelj a hangokra, majd a szagokra és ízekre, amelyek a helyhez tartoznak.",
-          "en": "Attend to sounds, then to smells and tastes that belong to the place."
+          "en": "Attend to sounds, then to smells and tastes that belong to the place.",
+          "ro": "Ia aminte la sunete, apoi la mirosurile și gusturile care aparțin locului."
         },
         {
           "hu": "Végül a tapintásra: a levegő, a felületek és a hőmérséklet érzete.",
-          "en": "Finally to touch: the feel of the air, of surfaces and of temperature."
+          "en": "Finally to touch: the feel of the air, of surfaces and of temperature.",
+          "ro": "La urmă, la atingere: senzația aerului, a suprafețelor și a temperaturii."
         },
         {
           "hu": "Engedd, hogy az érzékek együtt egyetlen élénk, összefüggő élménnyé álljanak össze.",
-          "en": "Let the senses come together into one vivid, coherent experience."
+          "en": "Let the senses come together into one vivid, coherent experience.",
+          "ro": "Lasă simțurile să se împreune într-o singură trăire vie și închegată."
         }
       ],
       "keret": {
         "hu": "Az érzékszervi elmélyítés a képzelet edzése; a hagyomány saját gyakorlata, amelyet az élénkség, az összeszedettség és a belső stabilitás mér, nem valóságos érzékelésként.",
-        "en": "Sensory deepening trains imagination; it is the tradition's own practice, measured by vividness, focus and inner stability, not treated as real perception."
+        "en": "Sensory deepening trains imagination; it is the tradition's own practice, measured by vividness, focus and inner stability, not treated as real perception.",
+        "ro": "Adâncirea senzorială antrenează imaginația; e practica proprie a tradiției, măsurată după vioiciunea imaginii, după concentrare și stabilitate lăuntrică, nu socotită drept percepție reală."
       }
     },
     {
@@ -328,33 +387,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "A kép maradjon szerény és valósághű",
-        "en": "Letting the image stay modest and realistic"
+        "en": "Letting the image stay modest and realistic",
+        "ro": "Imaginea să rămână modestă și verosimilă"
       },
       "cel": {
         "hu": "Annak gyakorlása, hogy a belső menedék olyan legyen, amilyen valóban jólesik, ne pedig egy elérhetetlen, nagyszabású elvárás.",
-        "en": "Practice letting the inner sanctuary be what truly feels good, rather than a grand, unreachable ideal."
+        "en": "Practice letting the inner sanctuary be what truly feels good, rather than a grand, unreachable ideal.",
+        "ro": "Să exersezi a lăsa refugiul interior să fie ceea ce îți face cu adevărat bine, nu un ideal grandios și de neatins."
       },
       "modszer": [
         {
           "hu": "Térj vissza a menedékbe, és figyeld meg, milyen léptékű hely érződik igazán megnyugtatónak.",
-          "en": "Return to the sanctuary and notice what scale of place actually feels soothing."
+          "en": "Return to the sanctuary and notice what scale of place actually feels soothing.",
+          "ro": "Întoarce-te în refugiu și observă ce mărime a locului te alină cu adevărat."
         },
         {
           "hu": "Ha a kép szerény és egyszerű, fogadd el ilyennek; a nyugalom nem a nagyságtól függ.",
-          "en": "If the image is modest and simple, accept it as such; calm does not depend on grandeur."
+          "en": "If the image is modest and simple, accept it as such; calm does not depend on grandeur.",
+          "ro": "Dacă imaginea e modestă și simplă, primește-o ca atare; calmul nu atârnă de măreție."
         },
         {
           "hu": "Engedd el a versengő elvárást, hogy a helynek látványosnak vagy tökéletesnek kellene lennie.",
-          "en": "Release any competing expectation that the place should be impressive or perfect."
+          "en": "Release any competing expectation that the place should be impressive or perfect.",
+          "ro": "Renunță la orice așteptare potrivnică — aceea că locul ar trebui să fie impresionant sau desăvârșit."
         },
         {
           "hu": "Jegyezd fel, mi tette igazán nyugodttá a helyet, függetlenül a méretétől.",
-          "en": "Note what genuinely made the place calm, regardless of its size."
+          "en": "Note what genuinely made the place calm, regardless of its size.",
+          "ro": "Notează ce anume a făcut cu adevărat locul să fie liniștit, indiferent de mărimea lui."
         }
       ],
       "keret": {
         "hu": "A hagyomány úgy tartja, hogy a belső kép megmutathat valamit rólad; ezt itt nem tényként, hanem önismereti tükörként kezeljük, amelyet az őszinteséged és a nyugalmad mér.",
-        "en": "The tradition holds that the inner image may reveal something about you; here it is treated not as fact but as a mirror for self-knowledge, measured by your honesty and calm."
+        "en": "The tradition holds that the inner image may reveal something about you; here it is treated not as fact but as a mirror for self-knowledge, measured by your honesty and calm.",
+        "ro": "Tradiția susține că imaginea lăuntrică poate dezvălui ceva despre tine; aici nu o luăm ca pe un fapt, ci ca pe o oglindă pentru cunoașterea de sine, măsurată după onestitatea și calmul tău."
       }
     },
     {
@@ -366,33 +432,40 @@
       "elem": "Viz",
       "cim": {
         "hu": "Napi visszatérés a menedékbe",
-        "en": "Daily return to the sanctuary"
+        "en": "Daily return to the sanctuary",
+        "ro": "Întoarcerea zilnică în refugiu"
       },
       "cel": {
         "hu": "A menedék rendszeres, rövid felkeresése, hogy megbízható belső horgonnyá váljon a nyugalomhoz.",
-        "en": "Visit the sanctuary regularly and briefly, so it becomes a reliable inner anchor for calm."
+        "en": "Visit the sanctuary regularly and briefly, so it becomes a reliable inner anchor for calm.",
+        "ro": "Să vizitezi refugiul regulat și pe scurt, ca el să devină o ancoră lăuntrică de nădejde pentru calm."
       },
       "modszer": [
         {
           "hu": "Válassz egy napi alkalmat, amikor egy-két percre felidézed a menedéket.",
-          "en": "Choose a daily moment to recall the sanctuary for a minute or two."
+          "en": "Choose a daily moment to recall the sanctuary for a minute or two.",
+          "ro": "Alege un moment zilnic în care să-ți readuci refugiul în minte pentru un minut sau două."
         },
         {
           "hu": "Lépj be a már ismerős helyre, és néhány lélegzeten át csak legyél ott.",
-          "en": "Enter the now-familiar place and simply be there for a few breaths."
+          "en": "Enter the now-familiar place and simply be there for a few breaths.",
+          "ro": "Intră în locul acum familiar și pur și simplu fii acolo câteva respirații."
         },
         {
           "hu": "Figyeld meg, mennyivel gyorsabban jelenik meg a kép a gyakorlással.",
-          "en": "Notice how much faster the image appears with practice."
+          "en": "Notice how much faster the image appears with practice.",
+          "ro": "Observă cât de repede apare imaginea odată cu exercițiul."
         },
         {
           "hu": "Kilépéskor vidd magaddal a nyugalom egy darabját a hétköznapokba.",
-          "en": "As you leave, carry a piece of the calm into your ordinary day."
+          "en": "As you leave, carry a piece of the calm into your ordinary day.",
+          "ro": "Când pleci, du o bucată din acel calm în ziua ta obișnuită."
         }
       ],
       "keret": {
         "hu": "A rendszeresség a hagyomány szerint erősíti a belső horgonyt; ezt a saját tapasztalatod méri: könnyebb elérés, mélyebb nyugalom, nem külső hatás.",
-        "en": "Regularity, in the tradition's view, strengthens the inner anchor; this is measured by your own experience of easier access and deeper calm, not any outward effect."
+        "en": "Regularity, in the tradition's view, strengthens the inner anchor; this is measured by your own experience of easier access and deeper calm, not any outward effect.",
+        "ro": "Potrivit tradiției, regularitatea întărește ancora lăuntrică; asta se măsoară după propria ta experiență — acces mai ușor și calm mai adânc — nu după vreun efect în afară."
       }
     },
     {
@@ -404,37 +477,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Hordozható menedék néhány lélegzetben",
-        "en": "A portable refuge in a few breaths"
+        "en": "A portable refuge in a few breaths",
+        "ro": "Un refugiu portabil, în câteva respirații"
       },
       "cel": {
         "hu": "A menedék lerövidítése egy pár másodperces belső gesztussá, amelyet bárhol, feszült helyzetben is elő tudsz hívni.",
-        "en": "Condense the sanctuary into a few-second inner gesture you can invoke anywhere, even in a tense moment."
+        "en": "Condense the sanctuary into a few-second inner gesture you can invoke anywhere, even in a tense moment.",
+        "ro": "Să condensezi refugiul într-un gest lăuntric de câteva secunde, pe care îl poți chema oriunde, chiar și într-o clipă încordată."
       },
       "modszer": [
         {
           "hu": "Válaszd ki a menedéked egyetlen legerősebb elemét: egy képet, hangot vagy érzetet.",
-          "en": "Choose the single strongest element of your sanctuary: an image, sound or feeling."
+          "en": "Choose the single strongest element of your sanctuary: an image, sound or feeling.",
+          "ro": "Alege singurul element cel mai puternic al refugiului tău: o imagine, un sunet sau o senzație."
         },
         {
           "hu": "Kösd össze egy lassú lélegzettel, hogy a kettő együtt idéződjön fel.",
-          "en": "Link it to one slow breath, so the two arise together."
+          "en": "Link it to one slow breath, so the two arise together.",
+          "ro": "Leagă-l de o singură respirație lentă, ca cele două să se ivească împreună."
         },
         {
           "hu": "Gyakorold nyugodt helyzetben, amíg a lélegzet önmagában előhívja a nyugalmat.",
-          "en": "Practise it while calm, until the breath alone brings the calm."
+          "en": "Practise it while calm, until the breath alone brings the calm.",
+          "ro": "Exersează-l când ești calm, până când respirația singură aduce calmul."
         },
         {
           "hu": "Feszült pillanatban vegyél egy ilyen lélegzetet, és engedd, hogy a horgony megjelenjen.",
-          "en": "In a tense moment, take one such breath and let the anchor appear."
+          "en": "In a tense moment, take one such breath and let the anchor appear.",
+          "ro": "Într-o clipă încordată, ia o astfel de respirație și lasă ancora să apară."
         }
       ],
       "keret": {
         "hu": "Ez egy gyors földelő gesztus a nyugalomért, nem menekülés a valóság elől és nem vészhelyzeti terv. A gyümölcse a gyorsabb lecsillapodás.",
-        "en": "This is a quick grounding gesture for calm, not an escape from reality or an emergency plan. Its fruit is faster settling."
+        "en": "This is a quick grounding gesture for calm, not an escape from reality or an emergency plan. Its fruit is faster settling.",
+        "ro": "E un gest rapid de împământare pentru calm, nu o fugă din realitate și nici un plan de urgență. Rodul lui e o așezare mai rapidă."
       },
       "etika": {
         "hu": "Valós veszélyben vagy sürgősségi helyzetben mindig a tényleges biztonságod és a szakszerű segítség az első; ez a gyakorlat a nyugalmat támogatja, nem helyettesíti a valós intézkedést.",
-        "en": "In real danger or an emergency, your actual safety and professional help come first; this practice supports calm, it does not replace real action."
+        "en": "In real danger or an emergency, your actual safety and professional help come first; this practice supports calm, it does not replace real action.",
+        "ro": "În pericol real sau în situație de urgență, siguranța ta efectivă și ajutorul profesionist vin pe primul loc; această practică sprijină calmul, nu înlocuiește acțiunea reală."
       }
     },
     {
@@ -446,33 +527,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "A menedék mint horgony a gyakorlás előtt",
-        "en": "The sanctuary as a pre-session anchor"
+        "en": "The sanctuary as a pre-session anchor",
+        "ro": "Refugiul ca ancoră înaintea ședinței"
       },
       "cel": {
         "hu": "A menedék felhasználása arra, hogy a naplózó vagy érzékelő gyakorlás előtt letisztuljon és elcsendesedjen a figyelem.",
-        "en": "Use the sanctuary to clear and quiet attention before a journaling or perceiving session."
+        "en": "Use the sanctuary to clear and quiet attention before a journaling or perceiving session.",
+        "ro": "Să folosești refugiul pentru a limpezi și a liniști atenția înaintea unei ședințe de jurnal sau de percepere."
       },
       "modszer": [
         {
           "hu": "Mielőtt vak célpontot vagy naplózást kezdesz, lépj be röviden a menedékbe.",
-          "en": "Before a blind target or journaling, step briefly into the sanctuary."
+          "en": "Before a blind target or journaling, step briefly into the sanctuary.",
+          "ro": "Înaintea unei ținte oarbe sau a scrisului în jurnal, intră scurt în refugiu."
         },
         {
           "hu": "Engedd, hogy a sietség és a várakozás lecsöndesedjen ott.",
-          "en": "Let hurry and expectation quiet down there."
+          "en": "Let hurry and expectation quiet down there.",
+          "ro": "Lasă graba și așteptarea să se potolească acolo."
         },
         {
           "hu": "Amikor a fej tiszta, lépj ki, és hozd magaddal a nyugodt figyelmet a gyakorláshoz.",
-          "en": "When the head is clear, step out and bring the calm attention to the practice."
+          "en": "When the head is clear, step out and bring the calm attention to the practice.",
+          "ro": "Când mintea ți-e limpede, ieși și adu atenția calmă în practică."
         },
         {
           "hu": "A gyakorlás után rövid visszatéréssel zárhatsz is, hogy elrendeződj.",
-          "en": "You may also close with a brief return afterwards to settle."
+          "en": "You may also close with a brief return afterwards to settle.",
+          "ro": "Poți încheia și cu o scurtă întoarcere, după aceea, ca să te așezi."
         }
       ],
       "keret": {
         "hu": "A horgony a hagyomány szerint tisztább kiindulást ad; ezt nem eredménygaranciaként, hanem a saját összeszedettséged jeleként kezeljük.",
-        "en": "The anchor, in the tradition's view, gives a clearer start; it is treated not as a guarantee of results but as a sign of your own composure."
+        "en": "The anchor, in the tradition's view, gives a clearer start; it is treated not as a guarantee of results but as a sign of your own composure.",
+        "ro": "Potrivit tradiției, ancora dă un început mai limpede; nu o luăm drept garanție a rezultatelor, ci drept semn al propriei tale stăpâniri de sine."
       }
     },
     {
@@ -484,37 +572,45 @@
       "elem": "Materia Prima",
       "cim": {
         "hu": "Vak gyakorlócélpont előkészítése",
-        "en": "Preparing a blind practice target"
+        "en": "Preparing a blind practice target",
+        "ro": "Pregătirea unei ținte oarbe de exercițiu"
       },
       "cel": {
         "hu": "Egy egyszerű, önirányított vak-célpont rendszer felállítása, ahol nem tudod előre, mi a célpont, és utólag ellenőrizheted magad.",
-        "en": "Set up a simple, self-directed blind-target system where you do not know the target in advance and can check yourself afterwards."
+        "en": "Set up a simple, self-directed blind-target system where you do not know the target in advance and can check yourself afterwards.",
+        "ro": "Să pui la punct un sistem simplu de ținte oarbe, condus de tine însuți, în care nu cunoști ținta dinainte și te poți verifica pe urmă."
       },
       "modszer": [
         {
           "hu": "Kérj meg valakit, vagy előre válassz több képet, és zárj le egyet borítékba úgy, hogy ne lásd.",
-          "en": "Ask someone, or preselect several images, and seal one in an envelope without seeing it."
+          "en": "Ask someone, or preselect several images, and seal one in an envelope without seeing it.",
+          "ro": "Roagă pe cineva, sau alege dinainte mai multe imagini, și sigilează una într-un plic fără să o vezi."
         },
         {
           "hu": "Rendelj a borítékhoz egy semleges címkét: egy véletlen számsort, amely nem árul el semmit a tartalomról.",
-          "en": "Assign the envelope a neutral label: a random string of numbers that reveals nothing about the content."
+          "en": "Assign the envelope a neutral label: a random string of numbers that reveals nothing about the content.",
+          "ro": "Dă plicului o etichetă neutră: un șir întâmplător de cifre, care nu trădează nimic despre conținut."
         },
         {
           "hu": "Készíts elő papírt és tollat a benyomások rögzítéséhez.",
-          "en": "Prepare paper and pen to record impressions."
+          "en": "Prepare paper and pen to record impressions.",
+          "ro": "Pregătește hârtie și pix pentru a nota impresiile."
         },
         {
           "hu": "Tedd félre a borítékot úgy, hogy csak a leírás után nyisd ki.",
-          "en": "Set the envelope aside to open only after the writing is done."
+          "en": "Set the envelope aside to open only after the writing is done.",
+          "ro": "Pune plicul deoparte, ca să-l deschizi abia după ce ai terminat de scris."
         }
       ],
       "keret": {
         "hu": "A vak célpont a hagyomány önellenőrző játéka: a figyelem, a képzelet és az őszinteség edzése, nem rejtett dolgok bizonyított érzékelése. Az eredményt önmagaddal szemben becsületesen méred.",
-        "en": "The blind target is the tradition's self-checking game: training of attention, imagination and honesty, not proven perception of hidden things. You score it honestly against yourself."
+        "en": "The blind target is the tradition's self-checking game: training of attention, imagination and honesty, not proven perception of hidden things. You score it honestly against yourself.",
+        "ro": "Ținta oarbă e jocul de auto-verificare al tradiției: antrenament al atenției, al imaginației și al onestității, nu percepție dovedită a lucrurilor ascunse. Te notezi cinstit, față de tine însuți."
       },
       "etika": {
         "hu": "Csak önirányított, semleges gyakorlócélpontokat használj. Ne célozz beazonosítható élő személyeket a beleegyezésük nélkül, és ne használd eltűnt emberek, nyereség vagy szerencsejáték céljára.",
-        "en": "Use only self-directed, neutral practice targets. Do not target identifiable living people without consent, and do not use this to find missing persons or for profit or gambling."
+        "en": "Use only self-directed, neutral practice targets. Do not target identifiable living people without consent, and do not use this to find missing persons or for profit or gambling.",
+        "ro": "Folosește numai ținte de exercițiu neutre, alese de tine. Nu lua drept țintă oameni vii identificabili fără consimțământul lor și nu folosi asta pentru a găsi persoane dispărute, pentru câștig sau pentru pariuri."
       }
     },
     {
@@ -526,33 +622,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "Nyitás semleges hivatkozási címkével",
-        "en": "Opening with a neutral reference tag"
+        "en": "Opening with a neutral reference tag",
+        "ro": "Deschiderea cu o etichetă de referință neutră"
       },
       "cel": {
         "hu": "A gyakorlás kezdése egy tartalom nélküli címkével, amely csak arra szolgál, hogy a figyelmet a rejtett célpontra irányítsa.",
-        "en": "Begin the session with a content-free tag whose only role is to point attention at the hidden target."
+        "en": "Begin the session with a content-free tag whose only role is to point attention at the hidden target.",
+        "ro": "Să începi ședința cu o etichetă golită de conținut, al cărei singur rol e să îndrepte atenția spre ținta ascunsă."
       },
       "modszer": [
         {
           "hu": "Írd a lap tetejére a boríték semleges számsorát.",
-          "en": "Write the envelope's neutral number string at the top of the page."
+          "en": "Write the envelope's neutral number string at the top of the page.",
+          "ro": "Scrie în capul paginii șirul neutru de cifre al plicului."
         },
         {
           "hu": "Ne próbálj jelentést olvasni a számokból; ezek csak egy címke.",
-          "en": "Do not try to read meaning into the numbers; they are only a label."
+          "en": "Do not try to read meaning into the numbers; they are only a label.",
+          "ro": "Nu încerca să citești vreun înțeles în cifre; ele sunt doar o etichetă."
         },
         {
           "hu": "Tartsd a figyelmed lazán a címkén, és engedd, hogy az első benyomások maguktól jöjjenek.",
-          "en": "Hold attention loosely on the tag and let first impressions arise on their own."
+          "en": "Hold attention loosely on the tag and let first impressions arise on their own.",
+          "ro": "Ține atenția lejer pe etichetă și lasă primele impresii să se ivească de la sine."
         },
         {
           "hu": "Ne várj el konkrét témát; maradj nyitott és üres.",
-          "en": "Do not expect a particular theme; stay open and blank."
+          "en": "Do not expect a particular theme; stay open and blank.",
+          "ro": "Nu aștepta o anumită temă; rămâi deschis și gol."
         }
       ],
       "keret": {
         "hu": "A címke a hagyomány szerint a figyelem semleges kapcsolója; nem tulajdonítunk neki erőt tényként, csak a fókuszálás eszközeként használjuk. A gyümölcs a nyitott, ítéletmentes figyelem.",
-        "en": "The tag, in the tradition, is a neutral switch for attention; we do not assert it has power as fact, only use it as a focusing device. The fruit is open, non-judging attention."
+        "en": "The tag, in the tradition, is a neutral switch for attention; we do not assert it has power as fact, only use it as a focusing device. The fruit is open, non-judging attention.",
+        "ro": "În tradiție, eticheta e un comutator neutru al atenției; nu afirmăm ca pe un fapt că ar avea putere, ci o folosim doar ca unealtă de focalizare. Rodul e o atenție deschisă, care nu judecă."
       }
     },
     {
@@ -564,33 +667,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "A spontán első vonás",
-        "en": "The spontaneous first mark"
+        "en": "The spontaneous first mark",
+        "ro": "Prima trăsătură spontană"
       },
       "cel": {
         "hu": "Egy gyors, gondolkodás nélküli tollvonás rögzítése a gyakorlás elején, amely oldja a fej görcsét és beindítja az érzékelést.",
-        "en": "Make a quick, thoughtless pen-stroke at the start of the session, loosening the mind and beginning the perceiving."
+        "en": "Make a quick, thoughtless pen-stroke at the start of the session, loosening the mind and beginning the perceiving.",
+        "ro": "Să faci o trăsătură rapidă, negândită, la începutul ședinței, slăbind strânsoarea minții și pornind perceperea."
       },
       "modszer": [
         {
           "hu": "A címke felírása után engedd, hogy a kezed egy gyors, spontán vonalat húzzon a lapra.",
-          "en": "After writing the tag, let your hand make a quick, spontaneous line on the page."
+          "en": "After writing the tag, let your hand make a quick, spontaneous line on the page.",
+          "ro": "După ce ai scris eticheta, lasă mâna să traseze o linie rapidă, spontană, pe pagină."
         },
         {
           "hu": "Ne tervezd meg és ne javítsd; hagyd, hogy a mozdulat magától jöjjön.",
-          "en": "Do not plan or correct it; let the movement come by itself."
+          "en": "Do not plan or correct it; let the movement come by itself.",
+          "ro": "Nu o plănui și nu o corecta; lasă mișcarea să vină de la sine."
         },
         {
           "hu": "Figyeld meg, milyen érzet, forma vagy szó tapad a vonáshoz, és jegyezd fel röviden.",
-          "en": "Notice any feeling, shape or word that clings to the stroke, and note it briefly."
+          "en": "Notice any feeling, shape or word that clings to the stroke, and note it briefly.",
+          "ro": "Observă orice senzație, formă sau cuvânt care se lipește de trăsătură și notează-l pe scurt."
         },
         {
           "hu": "Lépj tovább anélkül, hogy értelmezni próbálnád.",
-          "en": "Move on without trying to interpret it."
+          "en": "Move on without trying to interpret it.",
+          "ro": "Mergi mai departe fără să încerci să o interpretezi."
         }
       ],
       "keret": {
         "hu": "Ez a spontán mozdulat a hagyomány indító gesztusa a fej kikapcsolására; belső technika, amit az oldottság és a spontaneitás mér, nem rejtett igazság közvetlen jele.",
-        "en": "This spontaneous movement is the tradition's opening gesture to disengage the mind; it is an inner technique measured by looseness and spontaneity, not a direct sign of hidden truth."
+        "en": "This spontaneous movement is the tradition's opening gesture to disengage the mind; it is an inner technique measured by looseness and spontaneity, not a direct sign of hidden truth.",
+        "ro": "Această mișcare spontană e gestul de deschidere al tradiției, menit să desprindă mintea; e o tehnică lăuntrică măsurată după dezlegare și spontaneitate, nu un semn direct al vreunui adevăr ascuns."
       }
     },
     {
@@ -602,33 +712,40 @@
       "elem": "Eter",
       "cim": {
         "hu": "A benyomások rögzítése ítélkezés nélkül",
-        "en": "Noting impressions without judging them"
+        "en": "Noting impressions without judging them",
+        "ro": "Notarea impresiilor fără a le judeca"
       },
       "cel": {
         "hu": "Az alapfegyelem gyakorlása: nyitott, elvárás nélküli figyelemmel jegyzed fel, ami megjelenik, anélkül hogy közben megítélnéd vagy átfogalmaznád.",
-        "en": "Practise the core discipline: with open, expectation-free attention, note what appears without judging or rephrasing it as you go."
+        "en": "Practise the core discipline: with open, expectation-free attention, note what appears without judging or rephrasing it as you go.",
+        "ro": "Să exersezi disciplina de miez: cu o atenție deschisă, lipsită de așteptări, notează ce apare, fără să judeci și fără să reformulezi pe parcurs."
       },
       "modszer": [
         {
           "hu": "Indulj oldott, elvárás nélküli figyelemmel.",
-          "en": "Begin with a loose, expectation-free attention."
+          "en": "Begin with a loose, expectation-free attention.",
+          "ro": "Începe cu o atenție lejeră, lipsită de așteptări."
         },
         {
           "hu": "Írj vagy rajzolj le minden benyomást, ahogy jön: formák, színek, textúrák, szavak.",
-          "en": "Write or draw each impression as it comes: shapes, colours, textures, words."
+          "en": "Write or draw each impression as it comes: shapes, colours, textures, words.",
+          "ro": "Scrie sau desenează fiecare impresie cum vine: forme, culori, texturi, cuvinte."
         },
         {
           "hu": "Ne javíts, ne magyarázz, ne rangsorolj; a rögzítés a feladat, nem az értékelés.",
-          "en": "Do not correct, explain or rank; recording is the task, not evaluation."
+          "en": "Do not correct, explain or rank; recording is the task, not evaluation.",
+          "ro": "Nu corecta, nu explica, nu ierarhiza; sarcina e consemnarea, nu evaluarea."
         },
         {
           "hu": "Ha elakadsz, vegyél egy lélegzetet, és engedd, hogy a következő benyomás jöjjön.",
-          "en": "If you stall, take a breath and let the next impression arrive."
+          "en": "If you stall, take a breath and let the next impression arrive.",
+          "ro": "Dacă te împotmolești, ia o respirație și lasă următoarea impresie să sosească."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint az elemzés elrontja a nyers benyomást; ezt önfegyelmi gyakorlatként kezeljük, amit az összeszedettség és a nyitottság mér, nem a találatok bizonyítékaként.",
-        "en": "The tradition holds that analysis spoils the raw impression; this is treated as a discipline of self-restraint, measured by focus and openness, not as proof of hits."
+        "en": "The tradition holds that analysis spoils the raw impression; this is treated as a discipline of self-restraint, measured by focus and openness, not as proof of hits.",
+        "ro": "Tradiția susține că analiza strică impresia brută; aici o luăm ca pe o disciplină a stăpânirii de sine, măsurată după concentrare și deschidere, nu ca pe o dovadă a nimeririlor."
       }
     },
     {
@@ -640,37 +757,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "Szünet két ülés között",
-        "en": "A pause between sessions"
+        "en": "A pause between sessions",
+        "ro": "O pauză între ședințe"
       },
       "cel": {
         "hu": "A gyakorlások közötti pihenő beiktatása, hogy a figyelem felfrissüljön, és egyik ülés benyomásai ne folyjanak át a másikba.",
-        "en": "Insert a rest between sessions so attention refreshes and impressions from one do not bleed into the next."
+        "en": "Insert a rest between sessions so attention refreshes and impressions from one do not bleed into the next.",
+        "ro": "Să strecori o odihnă între ședințe, ca atenția să se împrospăteze și impresiile dintr-una să nu se scurgă în următoarea."
       },
       "modszer": [
         {
           "hu": "Egy ülés lezárása után tarts legalább egy rövid, néhány tíz perces szünetet.",
-          "en": "After closing a session, take at least a short break of a good many minutes."
+          "en": "After closing a session, take at least a short break of a good many minutes.",
+          "ro": "După ce închei o ședință, ia-ți măcar o pauză scurtă, de bune câteva minute."
         },
         {
           "hu": "A szünetben csinálj valami mást; ne pörgesd tovább az előző célpontot.",
-          "en": "During the break do something else; do not keep churning the previous target."
+          "en": "During the break do something else; do not keep churning the previous target.",
+          "ro": "În pauză fă altceva; nu tot frământa ținta dinainte."
         },
         {
           "hu": "Mielőtt újat kezdesz, ellenőrizd, hogy a fejed valóban letisztult-e.",
-          "en": "Before starting another, check that your head has genuinely cleared."
+          "en": "Before starting another, check that your head has genuinely cleared.",
+          "ro": "Înainte să începi alta, verifică dacă mintea ți s-a limpezit cu adevărat."
         },
         {
           "hu": "Csak akkor folytasd, ha frissnek és nyitottnak érzed magad.",
-          "en": "Continue only when you feel fresh and open."
+          "en": "Continue only when you feel fresh and open.",
+          "ro": "Continuă numai când te simți proaspăt și deschis."
         }
       ],
       "keret": {
         "hu": "A ritmus és a pihenő a hagyomány gyakorlati tanácsa a tisztább figyelemhez; a gyümölcse a frissesség, nem valamiféle külső hatás.",
-        "en": "Pacing and rest are the tradition's practical advice for clearer attention; its fruit is freshness, not any outward effect."
+        "en": "Pacing and rest are the tradition's practical advice for clearer attention; its fruit is freshness, not any outward effect.",
+        "ro": "Ritmul și odihna sunt sfatul practic al tradiției pentru o atenție mai limpede; rodul lor e prospețimea, nu vreun efect în afară."
       },
       "etika": {
         "hu": "Ne told túl a gyakorlást fáradtan vagy alváshiányosan; a pihenés és az alvás egészsége fontosabb, mint a több ülés.",
-        "en": "Do not push practice while tired or sleep-deprived; the health of rest and sleep matters more than more sessions."
+        "en": "Do not push practice while tired or sleep-deprived; the health of rest and sleep matters more than more sessions.",
+        "ro": "Nu forța practica atunci când ești obosit sau nedormit; sănătatea odihnei și a somnului contează mai mult decât încă o ședință."
       }
     },
     {
@@ -682,33 +807,40 @@
       "elem": "Materia Prima",
       "cim": {
         "hu": "Érzékszervi benyomások külön rögzítése",
-        "en": "Recording sensory impressions separately"
+        "en": "Recording sensory impressions separately",
+        "ro": "Consemnarea separată a impresiilor senzoriale"
       },
       "cel": {
         "hu": "A célpont érzékszervi jegyeinek tudatos, elkülönített gyűjtése: textúrák, formák, színek, hőmérséklet, hangok.",
-        "en": "Consciously collect the target's sensory qualities in a separate strand: textures, shapes, colours, temperature, sounds."
+        "en": "Consciously collect the target's sensory qualities in a separate strand: textures, shapes, colours, temperature, sounds.",
+        "ro": "Să aduni conștient calitățile senzoriale ale țintei pe un fir separat: texturi, forme, culori, temperatură, sunete."
       },
       "modszer": [
         {
           "hu": "Nyiss a lapon egy külön részt kifejezetten az érzékszervi jegyeknek.",
-          "en": "Open a separate part of the page just for sensory qualities."
+          "en": "Open a separate part of the page just for sensory qualities.",
+          "ro": "Deschide o parte separată a paginii doar pentru calitățile senzoriale."
         },
         {
           "hu": "Sorra vedd az érzékeket, és jegyezz fel minden nyers benyomást egyszerű szavakkal.",
-          "en": "Go through the senses and note each raw impression in simple words."
+          "en": "Go through the senses and note each raw impression in simple words.",
+          "ro": "Treci prin simțuri și notează fiecare impresie brută în cuvinte simple."
         },
         {
           "hu": "Kerüld a tárgyak megnevezését; maradj a jegyeknél, például kemény, sima, meleg, világos.",
-          "en": "Avoid naming objects; stay with qualities such as hard, smooth, warm, bright."
+          "en": "Avoid naming objects; stay with qualities such as hard, smooth, warm, bright.",
+          "ro": "Ocolește numirea obiectelor; rămâi la calități precum tare, neted, cald, luminos."
         },
         {
           "hu": "Hagyd, hogy a jegyek felhalmozódjanak, mielőtt bármit egésszé állítanál össze.",
-          "en": "Let the qualities accumulate before assembling anything into a whole."
+          "en": "Let the qualities accumulate before assembling anything into a whole.",
+          "ro": "Lasă calitățile să se adune înainte de a asambla ceva într-un întreg."
         }
       ],
       "keret": {
         "hu": "Az érzékszervi rétegek külön kezelése a hagyomány módszertani fogása a tisztább benyomásért; belső technika, amit a részletgazdagság és az érzékenység mér.",
-        "en": "Keeping sensory strands separate is the tradition's method for cleaner impressions; an inner technique measured by richness of detail and sensitivity."
+        "en": "Keeping sensory strands separate is the tradition's method for cleaner impressions; an inner technique measured by richness of detail and sensitivity.",
+        "ro": "Ținerea firelor senzoriale separate e metoda tradiției pentru impresii mai curate; o tehnică lăuntrică măsurată după bogăția detaliului și după finețea simțirii."
       }
     },
     {
@@ -720,37 +852,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Az érzelmi tónus rögzítése",
-        "en": "Recording the emotional tone"
+        "en": "Recording the emotional tone",
+        "ro": "Consemnarea tonului emoțional"
       },
       "cel": {
         "hu": "A célponthoz kapcsolódó érzelmi színezet külön feljegyzése, ami gyakran a tartalom fontos része.",
-        "en": "Separately note the emotional colouring attached to the target, often an important part of its content."
+        "en": "Separately note the emotional colouring attached to the target, often an important part of its content.",
+        "ro": "Să notezi separat colorarea emoțională lipită de țintă, deseori o parte însemnată a conținutului ei."
       },
       "modszer": [
         {
           "hu": "Nyiss egy külön részt az érzelmi benyomásoknak.",
-          "en": "Open a separate part for emotional impressions."
+          "en": "Open a separate part for emotional impressions.",
+          "ro": "Deschide o parte separată pentru impresiile emoționale."
         },
         {
           "hu": "Figyeld meg, milyen hangulat vagy érzés társul a célponthoz: nyugodt, feszült, emelkedett, nyomott.",
-          "en": "Notice what mood or feeling accompanies the target: calm, tense, uplifted, heavy."
+          "en": "Notice what mood or feeling accompanies the target: calm, tense, uplifted, heavy.",
+          "ro": "Observă ce stare sau ce simțire însoțește ținta: calmă, încordată, înălțătoare, apăsătoare."
         },
         {
           "hu": "Jegyezd fel az érzést anélkül, hogy magyaráznád, honnan ered.",
-          "en": "Note the feeling without explaining where it comes from."
+          "en": "Note the feeling without explaining where it comes from.",
+          "ro": "Notează simțirea fără să explici de unde vine."
         },
         {
           "hu": "Ha az érzés erős, vegyél egy földelő lélegzetet, mielőtt folytatod.",
-          "en": "If the feeling is strong, take a grounding breath before continuing."
+          "en": "If the feeling is strong, take a grounding breath before continuing.",
+          "ro": "Dacă simțirea e puternică, ia o respirație de împământare înainte de a continua."
         }
       ],
       "keret": {
         "hu": "Az érzelmi tónus a hagyomány szerint a benyomás része; itt belső érzékenységi gyakorlatként kezeljük, amit a figyelmed finomsága mér, nem külső tényként.",
-        "en": "Emotional tone is, in the tradition, part of the impression; here it is treated as an inner sensitivity practice, measured by the fineness of your attention, not as external fact."
+        "en": "Emotional tone is, in the tradition, part of the impression; here it is treated as an inner sensitivity practice, measured by the fineness of your attention, not as external fact.",
+        "ro": "În tradiție, tonul emoțional e parte din impresie; aici îl luăm ca pe o practică de finețe lăuntrică, măsurată după subtilitatea atenției tale, nu ca pe un fapt exterior."
       },
       "etika": {
         "hu": "Ha egy benyomás erős szorongást vagy zaklatottságot kelt, állj meg és földelj; a gyakorlás sosem előbbrevaló a saját nyugalmadnál.",
-        "en": "If an impression stirs strong anxiety or distress, stop and ground; practice never comes before your own calm."
+        "en": "If an impression stirs strong anxiety or distress, stop and ground; practice never comes before your own calm.",
+        "ro": "Dacă o impresie stârnește neliniște sau tulburare puternică, oprește-te și împământează-te; practica nu trece niciodată înaintea propriului tău calm."
       }
     },
     {
@@ -762,33 +902,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Az elemző elme rávetítéseinek felismerése",
-        "en": "Recognizing the analysing mind's guesses"
+        "en": "Recognizing the analysing mind's guesses",
+        "ro": "Recunoașterea presupunerilor minții analitice"
       },
       "cel": {
         "hu": "Annak megtanulása, hogy felismerd, amikor az elméd kész magyarázatot vagy tárgyat vetít a nyers benyomásra, és félretedd azt.",
-        "en": "Learn to recognize when your mind projects a ready-made explanation or object onto a raw impression, and set it aside."
+        "en": "Learn to recognize when your mind projects a ready-made explanation or object onto a raw impression, and set it aside.",
+        "ro": "Să înveți să recunoști când mintea proiectează pe o impresie brută o explicație sau un obiect de-a gata, și să o pui deoparte."
       },
       "modszer": [
         {
           "hu": "Amikor egy határozott tárgy neve ugrik be, jelöld meg külön a lapon mint feltételezést.",
-          "en": "When a definite object name pops up, mark it separately on the page as a guess."
+          "en": "When a definite object name pops up, mark it separately on the page as a guess.",
+          "ro": "Când îți sare în minte numele hotărât al unui obiect, însemnează-l separat pe pagină, ca presupunere."
         },
         {
           "hu": "Ne dolgozz tovább a feltételezésen; térj vissza a nyers érzékszervi jegyekhez.",
-          "en": "Do not build on the guess; return to the raw sensory qualities."
+          "en": "Do not build on the guess; return to the raw sensory qualities.",
+          "ro": "Nu clădi pe presupunere; întoarce-te la calitățile senzoriale brute."
         },
         {
           "hu": "Vedd észre, hogy a feltételezés gyakran túl gyors és túl magabiztos a valódi benyomáshoz képest.",
-          "en": "Notice that a guess is often too fast and too confident compared with a genuine impression."
+          "en": "Notice that a guess is often too fast and too confident compared with a genuine impression.",
+          "ro": "Observă că o presupunere e adesea prea rapidă și prea sigură pe ea, față de o impresie adevărată."
         },
         {
           "hu": "Hagyd elúszni, és figyeld, mi marad, ha nem kapaszkodsz bele.",
-          "en": "Let it drift off and watch what remains when you do not hold on to it."
+          "en": "Let it drift off and watch what remains when you do not hold on to it.",
+          "ro": "Las-o să se depărteze și privește ce rămâne când nu te agăți de ea."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint az elme kész válaszai elfedik a finomabb benyomást; ezt önmegfigyelési gyakorlatként kezeljük, amit a tisztánlátás és az őszinteség mér.",
-        "en": "The tradition holds that the mind's ready answers hide the finer impression; this is treated as a self-observation practice, measured by clarity and honesty."
+        "en": "The tradition holds that the mind's ready answers hide the finer impression; this is treated as a self-observation practice, measured by clarity and honesty.",
+        "ro": "Tradiția susține că răspunsurile de-a gata ale minții ascund impresia mai fină; aici o luăm ca pe o practică de auto-observare, măsurată după limpezime și onestitate."
       }
     },
     {
@@ -800,33 +947,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Témai feltételezések elengedése",
-        "en": "Releasing thematic assumptions"
+        "en": "Releasing thematic assumptions",
+        "ro": "Renunțarea la presupozițiile despre temă"
       },
       "cel": {
         "hu": "Annak gyakorlása, hogy ne feltételezd előre, miről szól a célpont, mert a várakozás eltorzítja az érzékelést.",
-        "en": "Practise not assuming in advance what the target is about, since expectation distorts perception."
+        "en": "Practise not assuming in advance what the target is about, since expectation distorts perception.",
+        "ro": "Să exersezi a nu presupune dinainte despre ce e ținta, fiindcă așteptarea deformează percepția."
       },
       "modszer": [
         {
           "hu": "Mielőtt kezdesz, vedd észre, ha bármilyen elvárás van benned a témáról, és tedd félre.",
-          "en": "Before starting, notice any expectation about the theme, and set it aside."
+          "en": "Before starting, notice any expectation about the theme, and set it aside.",
+          "ro": "Înainte să începi, observă orice așteptare legată de temă și pune-o deoparte."
         },
         {
           "hu": "Emlékeztesd magad, hogy a célpont bármi lehet, és a meglepetés része a gyakorlásnak.",
-          "en": "Remind yourself the target could be anything, and surprise is part of the practice."
+          "en": "Remind yourself the target could be anything, and surprise is part of the practice.",
+          "ro": "Amintește-ți că ținta poate fi orice și că surpriza e parte din practică."
         },
         {
           "hu": "Ha menet közben egy téma megszilárdul a fejedben, kezeld feltételezésként, nem eredményként.",
-          "en": "If a theme hardens mid-session, treat it as a guess, not a result."
+          "en": "If a theme hardens mid-session, treat it as a guess, not a result.",
+          "ro": "Dacă o temă se întărește în mijlocul ședinței, ia-o drept presupunere, nu drept rezultat."
         },
         {
           "hu": "Térj vissza a nyers benyomásokhoz, és engedd, hogy azok vezessenek.",
-          "en": "Return to the raw impressions and let them lead."
+          "en": "Return to the raw impressions and let them lead.",
+          "ro": "Întoarce-te la impresiile brute și lasă-le pe ele să conducă."
         }
       ],
       "keret": {
         "hu": "A várakozás elengedése a hagyomány gyakorlati fogása a tisztább érzékeléshez; belső fegyelem, amit a nyitottságod és a rugalmasságod mér, nem a találatok bizonyítéka.",
-        "en": "Releasing expectation is the tradition's device for cleaner perception; an inner discipline measured by your openness and flexibility, not by proof of hits."
+        "en": "Releasing expectation is the tradition's device for cleaner perception; an inner discipline measured by your openness and flexibility, not by proof of hits.",
+        "ro": "Lăsarea așteptării e unealta tradiției pentru o percepție mai curată; o disciplină lăuntrică măsurată după deschiderea și mlădierea ta, nu după dovada nimeririlor."
       }
     },
     {
@@ -838,33 +992,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "A leleplezés és az őszinte összevetés",
-        "en": "The reveal and honest comparison"
+        "en": "The reveal and honest comparison",
+        "ro": "Dezvăluirea și compararea cinstită"
       },
       "cel": {
         "hu": "A célpont felfedése a leírás után, és a jegyzeteid becsületes, elfogulatlan összevetése a valósággal.",
-        "en": "Reveal the target after writing, and compare your notes with it honestly and without bias."
+        "en": "Reveal the target after writing, and compare your notes with it honestly and without bias.",
+        "ro": "Să dezvălui ținta după ce ai scris și să-ți compari însemnările cu ea cinstit și fără părtinire."
       },
       "modszer": [
         {
           "hu": "Csak a leírás lezárása után nyisd ki a borítékot vagy fedd fel a célpontot.",
-          "en": "Open the envelope or reveal the target only after the writing is finished."
+          "en": "Open the envelope or reveal the target only after the writing is finished.",
+          "ro": "Deschide plicul sau dezvăluie ținta abia după ce ai terminat de scris."
         },
         {
           "hu": "Vesd össze a jegyzeteidet a célponttal, és jelöld meg, mi illett és mi nem.",
-          "en": "Compare your notes with the target and mark what matched and what did not."
+          "en": "Compare your notes with the target and mark what matched and what did not.",
+          "ro": "Compară-ți însemnările cu ținta și marchează ce s-a potrivit și ce nu."
         },
         {
           "hu": "Légy becsületes: ne nyújtsd rá a benyomásokat a célpontra utólag.",
-          "en": "Be honest: do not stretch impressions to fit the target after the fact."
+          "en": "Be honest: do not stretch impressions to fit the target after the fact.",
+          "ro": "Fii cinstit: nu întinde impresiile ca să se potrivească țintei după ce ai aflat-o."
         },
         {
           "hu": "Jegyezd fel, mit tanultál, függetlenül attól, mennyi volt a találat.",
-          "en": "Note what you learned, regardless of how much matched."
+          "en": "Note what you learned, regardless of how much matched.",
+          "ro": "Notează ce ai învățat, indiferent cât s-a potrivit."
         }
       ],
       "keret": {
         "hu": "A leleplezés a hagyomány önellenőrző mozzanata; nem a képességed bizonyítéka, hanem az őszinteség és a tanulás gyakorlása. A gyümölcse a tiszta önismeret, nem a teljesítmény.",
-        "en": "The reveal is the tradition's self-checking step; not proof of ability but a practice of honesty and learning. Its fruit is clear self-knowledge, not performance."
+        "en": "The reveal is the tradition's self-checking step; not proof of ability but a practice of honesty and learning. Its fruit is clear self-knowledge, not performance.",
+        "ro": "Dezvăluirea e pasul de auto-verificare al tradiției; nu o dovadă a vreunei abilități, ci o practică a onestității și a învățării. Rodul ei e o cunoaștere de sine limpede, nu performanța."
       }
     },
     {
@@ -876,33 +1037,40 @@
       "elem": "Ido",
       "cim": {
         "hu": "Hosszú távú napló a belső gyümölcsökről",
-        "en": "A longitudinal journal of inner fruits"
+        "en": "A longitudinal journal of inner fruits",
+        "ro": "Un jurnal de lungă durată al roadelor lăuntrice"
       },
       "cel": {
         "hu": "A gyakorlások nyomon követése az idő során, hogy lásd a belső változást: fókusz, nyugalom, képzelet, érzékenység, őszinteség.",
-        "en": "Track sessions over time to see inner change: focus, calm, imagination, sensitivity, honesty."
+        "en": "Track sessions over time to see inner change: focus, calm, imagination, sensitivity, honesty.",
+        "ro": "Să urmărești ședințele de-a lungul timpului, ca să vezi schimbarea lăuntrică: concentrare, calm, imaginație, finețe a simțirii, onestitate."
       },
       "modszer": [
         {
           "hu": "Vezess folyamatos naplót, amelyben minden ülés dátumát és rövid tapasztalatát rögzíted.",
-          "en": "Keep an ongoing journal recording each session's date and a brief note on the experience."
+          "en": "Keep an ongoing journal recording each session's date and a brief note on the experience.",
+          "ro": "Ține un jurnal continuu, în care să consemnezi data fiecărei ședințe și o notă scurtă despre trăire."
         },
         {
           "hu": "Jegyezd fel, mennyire voltál összeszedett, nyugodt és nyitott, nem csak a találatokat.",
-          "en": "Note how focused, calm and open you were, not just the matches."
+          "en": "Note how focused, calm and open you were, not just the matches.",
+          "ro": "Notează cât de concentrat, de calm și de deschis ai fost, nu doar potrivirile."
         },
         {
           "hu": "Időnként lapozz vissza, és figyeld a belső változás irányát.",
-          "en": "Periodically look back and observe the direction of inner change."
+          "en": "Periodically look back and observe the direction of inner change.",
+          "ro": "Din când în când privește înapoi și observă direcția schimbării lăuntrice."
         },
         {
           "hu": "Engedd, hogy a napló a fejlődés tükre legyen, ne pedig önostorozás eszköze.",
-          "en": "Let the journal be a mirror of growth, not a tool for self-criticism."
+          "en": "Let the journal be a mirror of growth, not a tool for self-criticism.",
+          "ro": "Lasă jurnalul să fie o oglindă a creșterii, nu o unealtă de auto-critică."
         }
       ],
       "keret": {
         "hu": "A hagyomány a belső gyümölcsökkel méri a haladást; ez a napló ezt szolgálja, és nem valamiféle bizonyított képességet, hanem a saját fejlődésedet tükrözi.",
-        "en": "The tradition measures progress by inner fruits; this journal serves that, reflecting your own development rather than any proven ability."
+        "en": "The tradition measures progress by inner fruits; this journal serves that, reflecting your own development rather than any proven ability.",
+        "ro": "Tradiția măsoară înaintarea după roadele lăuntrice; jurnalul acesta slujește tocmai asta, oglindind dezvoltarea ta, nu vreo abilitate dovedită."
       }
     },
     {
@@ -914,37 +1082,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Vegyes érzések megtartása feszültség nélkül",
-        "en": "Holding mixed feelings without forcing resolution"
+        "en": "Holding mixed feelings without forcing resolution",
+        "ro": "Ținerea simțirilor amestecate fără a forța o rezolvare"
       },
       "cel": {
         "hu": "Annak gyakorlása, hogy egyszerre jelenlévő, akár egymástól eltérő érzéseket úgy figyelj meg, hogy nem kell feloldanod vagy választanod közöttük.",
-        "en": "Practise observing simultaneous, even differing feelings without needing to resolve or choose between them."
+        "en": "Practise observing simultaneous, even differing feelings without needing to resolve or choose between them.",
+        "ro": "Să exersezi observarea simțirilor simultane, chiar și potrivnice, fără nevoia de a le rezolva sau de a alege între ele."
       },
       "modszer": [
         {
           "hu": "Amikor egy benyomáshoz egyszerre több, eltérő árnyalatú érzés társul, jegyezd fel valamennyit.",
-          "en": "When several feelings of different shades accompany one impression at once, note all of them."
+          "en": "When several feelings of different shades accompany one impression at once, note all of them.",
+          "ro": "Când o singură impresie e însoțită deodată de mai multe simțiri de nuanțe diferite, notează-le pe toate."
         },
         {
           "hu": "Ne próbáld eldönteni, melyik az igaz; engedd, hogy együtt legyenek jelen.",
-          "en": "Do not try to decide which is true; let them be present together."
+          "en": "Do not try to decide which is true; let them be present together.",
+          "ro": "Nu încerca să hotărăști care e adevărată; lasă-le să fie prezente împreună."
         },
         {
           "hu": "Figyeld meg, hogy a különböző érzések megférhetnek egymás mellett anélkül, hogy egységbe kellene rendezned őket.",
-          "en": "Notice that different feelings can sit side by side without your having to organize them into one."
+          "en": "Notice that different feelings can sit side by side without your having to organize them into one.",
+          "ro": "Observă că simțiri diferite pot sta alături fără să fii nevoit să le strângi într-una singură."
         },
         {
           "hu": "Maradj a megfigyelő helyzetében, és engedd, hogy a kép a maga összetettségében megmutatkozzon.",
-          "en": "Stay in the observer's seat and let the picture show itself in its full complexity."
+          "en": "Stay in the observer's seat and let the picture show itself in its full complexity.",
+          "ro": "Rămâi pe scaunul observatorului și lasă tabloul să se arate în toată complexitatea lui."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint a vegyes érzelmi tónus valós része lehet a benyomásnak; itt érzelmi érettségi gyakorlatként kezeljük, amit a belső tágasság és tolerancia mér.",
-        "en": "The tradition holds mixed emotional tone can be a genuine part of an impression; here it is treated as a practice of emotional maturity, measured by inner spaciousness and tolerance."
+        "en": "The tradition holds mixed emotional tone can be a genuine part of an impression; here it is treated as a practice of emotional maturity, measured by inner spaciousness and tolerance.",
+        "ro": "Tradiția susține că un ton emoțional amestecat poate fi o parte adevărată a impresiei; aici îl luăm ca pe o practică a maturității emoționale, măsurată după lărgimea lăuntrică și după îngăduință."
       },
       "etika": {
         "hu": "Ha a megtartott érzések közül valamelyik túl erőssé vagy nyomasztóvá válik, állj meg és földelj; ez a gyakorlat nem terápia, tartós zaklatottság esetén fordulj szakemberhez, és nem krízisben lévőknek szól.",
-        "en": "If any of the held feelings becomes too strong or oppressive, stop and ground; this practice is not therapy, for lasting distress seek a professional, and it is not for people in crisis."
+        "en": "If any of the held feelings becomes too strong or oppressive, stop and ground; this practice is not therapy, for lasting distress seek a professional, and it is not for people in crisis.",
+        "ro": "Dacă vreuna dintre simțirile ținute devine prea puternică sau apăsătoare, oprește-te și împământează-te; această practică nu e terapie, pentru tulburare persistentă caută un profesionist, și nu e pentru oameni aflați în criză."
       }
     },
     {
@@ -956,37 +1132,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "A valódi benyomás megkülönböztetése a vágytól és a félelemtől",
-        "en": "Distinguishing genuine impression from wish or fear"
+        "en": "Distinguishing genuine impression from wish or fear",
+        "ro": "Deosebirea impresiei adevărate de dorință și de frică"
       },
       "cel": {
         "hu": "A finom megkülönböztetés fejlesztése aközött, ami nyers benyomásként érkezik, és amit a saját vágyad vagy félelmed színez.",
-        "en": "Develop the fine discernment between what arrives as raw impression and what your own wish or fear is colouring."
+        "en": "Develop the fine discernment between what arrives as raw impression and what your own wish or fear is colouring.",
+        "ro": "Să-ți dezvolți discernământul fin între ce sosește ca impresie brută și ce colorează propria ta dorință sau frică."
       },
       "modszer": [
         {
           "hu": "Nézz vissza a jegyzeteidre, és keresd, hol lehetett a benyomás mögött vágy vagy félelem.",
-          "en": "Look back over your notes and find where a wish or fear may have sat behind an impression."
+          "en": "Look back over your notes and find where a wish or fear may have sat behind an impression.",
+          "ro": "Privește-ți însemnările înapoi și caută unde s-ar putea să fi stat o dorință sau o frică în spatele unei impresii."
         },
         {
           "hu": "Figyeld a jelet: a vágy vagy félelem gyakran ragaszkodóbb és érzelmileg töltöttebb.",
-          "en": "Watch for the sign: wish or fear is often more clinging and more emotionally charged."
+          "en": "Watch for the sign: wish or fear is often more clinging and more emotionally charged.",
+          "ro": "Fii atent la semn: dorința sau frica sunt adesea mai lipicioase și mai încărcate emoțional."
         },
         {
           "hu": "Jelöld meg ezeket, és tanuld meg felismerni a mintázatukat a jövőbeli ülésekben.",
-          "en": "Mark these and learn to recognize their pattern in future sessions."
+          "en": "Mark these and learn to recognize their pattern in future sessions.",
+          "ro": "Marchează-le și învață să le recunoști tiparul în ședințele viitoare."
         },
         {
           "hu": "Térj vissza a földeléshez, hogy a nyugodt állapot csökkentse a torzítást.",
-          "en": "Return to grounding, so a calm state reduces the distortion."
+          "en": "Return to grounding, so a calm state reduces the distortion.",
+          "ro": "Întoarce-te la împământare, ca o stare calmă să micșoreze deformarea."
         }
       ],
       "keret": {
         "hu": "Ez a hagyomány érett önvizsgálata; nem tévedhetetlen érzékelést ígér, hanem az őszinteség és az önismeret finomítását, amit a belső tisztaság mér.",
-        "en": "This is the tradition's mature self-examination; it promises not infallible perception but a refining of honesty and self-knowledge, measured by inner clarity."
+        "en": "This is the tradition's mature self-examination; it promises not infallible perception but a refining of honesty and self-knowledge, measured by inner clarity.",
+        "ro": "Aceasta e cercetarea de sine matură a tradiției; nu făgăduiește o percepție fără greș, ci o rafinare a onestității și a cunoașterii de sine, măsurată după limpezimea lăuntrică."
       },
       "etika": {
         "hu": "Ne építs valós élet-döntéseket egyetlen benyomásra, és ne használd a gyakorlást mások megítélésére vagy befolyásolására. Fontos döntésekhez keress megbízható, valós forrásokat és szakértőt.",
-        "en": "Do not build real-life decisions on a single impression, and do not use the practice to judge or influence others. For important decisions seek reliable real sources and professional advice."
+        "en": "Do not build real-life decisions on a single impression, and do not use the practice to judge or influence others. For important decisions seek reliable real sources and professional advice.",
+        "ro": "Nu clădi hotărâri din viața reală pe o singură impresie și nu folosi practica pentru a-i judeca sau a-i influența pe alții. Pentru hotărâri importante, caută surse reale de încredere și sfat profesionist."
       }
     },
     {
@@ -998,37 +1182,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Katasztrófagondolatok megnevezése és visszatérés a jelenbe",
-        "en": "Naming catastrophic thoughts and returning to the present"
+        "en": "Naming catastrophic thoughts and returning to the present",
+        "ro": "Numirea gândurilor catastrofice și întoarcerea în prezent"
       },
       "cel": {
         "hu": "Egy csendes szokás arra, hogy a végítélet-forgatókönyveket gondolatként ismerd fel, és ne engedd, hogy elragadják a figyelmedet.",
-        "en": "A quiet habit for recognizing doom scenarios as thoughts and not letting them carry your attention away."
+        "en": "A quiet habit for recognizing doom scenarios as thoughts and not letting them carry your attention away.",
+        "ro": "Un obicei liniștit prin care recunoști scenariile de dezastru drept gânduri și nu le lași să-ți ducă atenția cu ele."
       },
       "modszer": [
         {
           "hu": "Amikor egy katasztrofikus jövőkép megjelenik, mondd magadban: ez egy gondolat, nem esemény.",
-          "en": "When a catastrophic picture of the future appears, say inwardly: this is a thought, not an event."
+          "en": "When a catastrophic picture of the future appears, say inwardly: this is a thought, not an event.",
+          "ro": "Când apare o imagine catastrofică a viitorului, spune-ți în gând: acesta e un gând, nu un eveniment."
         },
         {
           "hu": "Ne vitatkozz vele és ne is táplald; csak nyugtázd, hogy jelen van.",
-          "en": "Do not argue with it or feed it; simply acknowledge it is present."
+          "en": "Do not argue with it or feed it; simply acknowledge it is present.",
+          "ro": "Nu te certa cu el și nu-l hrăni; doar recunoaște că e prezent."
         },
         {
           "hu": "Vidd vissza a figyelmed egy jelenbeli érzethez: a lélegzethez, a talajhoz, a kezedhez.",
-          "en": "Bring attention back to a present sensation: the breath, the ground, your hands."
+          "en": "Bring attention back to a present sensation: the breath, the ground, your hands.",
+          "ro": "Adu atenția înapoi la o senzație din prezent: respirația, pământul de sub tine, mâinile tale."
         },
         {
           "hu": "Ha kell, ismételd, valahányszor a gondolat visszatér, türelmesen.",
-          "en": "Repeat as needed, patiently, each time the thought returns."
+          "en": "Repeat as needed, patiently, each time the thought returns.",
+          "ro": "Repetă cât e nevoie, cu răbdare, de fiecare dată când gândul se întoarce."
         }
       ],
       "keret": {
         "hu": "Ez nyugtató, jelenléti szokás, nem jövőbelátás és nem a valós gondok tagadása; a hagyomány sötét forgatókönyveit itt gondolatokként kezeljük, nem tényként. A gyümölcse a nyugalom.",
-        "en": "This is a calming present-moment habit, not foresight and not denial of real concerns; the tradition's dark scenarios are treated here as thoughts, not fact. Its fruit is calm."
+        "en": "This is a calming present-moment habit, not foresight and not denial of real concerns; the tradition's dark scenarios are treated here as thoughts, not fact. Its fruit is calm.",
+        "ro": "E un obicei de liniștire ancorat în clipa de față, nu prevedere și nici negare a grijilor reale; scenariile sumbre ale tradiției sunt luate aici drept gânduri, nu drept fapte. Rodul lui e calmul."
       },
       "etika": {
         "hu": "Tartós, nyomasztó katasztrófagondolatok vagy kilátástalanság esetén fordulj szakemberhez; ez a gyakorlat nem terápia és nem helyettesíti a segítséget, és nem krízisben lévőknek szól.",
-        "en": "For persistent, oppressive catastrophic thoughts or hopelessness, seek a professional; this practice is not therapy and does not replace help, and is not for people in crisis."
+        "en": "For persistent, oppressive catastrophic thoughts or hopelessness, seek a professional; this practice is not therapy and does not replace help, and is not for people in crisis.",
+        "ro": "Pentru gânduri catastrofice stăruitoare și apăsătoare sau pentru deznădejde, caută un profesionist; această practică nu e terapie și nu înlocuiește ajutorul, și nu e pentru oameni aflați în criză."
       }
     },
     {
@@ -1040,33 +1232,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Hálás figyelem az egyszerű, fontos dolgokra",
-        "en": "Grateful attention to what is simple and important"
+        "en": "Grateful attention to what is simple and important",
+        "ro": "Atenție recunoscătoare față de ce e simplu și important"
       },
       "cel": {
         "hu": "Egy rövid reflexió, amely a félelem helyett a valóban értékes, egyszerű dolgok megbecsülésére irányítja a figyelmet.",
-        "en": "A short reflection that turns attention, instead of toward fear, to appreciation of what is simple and truly valuable."
+        "en": "A short reflection that turns attention, instead of toward fear, to appreciation of what is simple and truly valuable.",
+        "ro": "O reflecție scurtă care întoarce atenția, în loc de frică, spre prețuirea a ceea ce e simplu și cu adevărat de valoare."
       },
       "modszer": [
         {
           "hu": "Ülj el egy percre csendben, és idézz fel három egyszerű dolgot, ami most jó az életedben.",
-          "en": "Sit quietly for a minute and recall three simple things that are good in your life now."
+          "en": "Sit quietly for a minute and recall three simple things that are good in your life now.",
+          "ro": "Stai liniștit un minut și adu-ți aminte trei lucruri simple care sunt bune în viața ta acum."
         },
         {
           "hu": "Ne nagy vagy látványos dolgokat keress, hanem a hétköznapi, megtartó jelenlévőket.",
-          "en": "Look not for grand or dramatic things but for the everyday, sustaining ones."
+          "en": "Look not for grand or dramatic things but for the everyday, sustaining ones.",
+          "ro": "Nu căuta lucruri mărețe sau dramatice, ci pe cele de fiecare zi, care te susțin."
         },
         {
           "hu": "Időzz el egyenként mindegyiknél, és engedd, hogy a megbecsülés érzete kibontakozzon.",
-          "en": "Dwell on each in turn and let a feeling of appreciation unfold."
+          "en": "Dwell on each in turn and let a feeling of appreciation unfold.",
+          "ro": "Zăbovește pe fiecare pe rând și lasă un sentiment de prețuire să se desfășoare."
         },
         {
           "hu": "Zárásként vidd magaddal ezt a nyugodt megbecsülést a napodba.",
-          "en": "To close, carry this calm appreciation into your day."
+          "en": "To close, carry this calm appreciation into your day.",
+          "ro": "Pentru a încheia, du această prețuire calmă în ziua ta."
         }
       ],
       "keret": {
         "hu": "Ez a megbecsülés gyakorlata a nyugalomért, nem valamilyen jövendő katasztrófa mérlegelése; a hagyomány fenyegető keretét itt szándékosan csendes hálára cseréljük. A gyümölcse a belső egyensúly.",
-        "en": "This is a practice of appreciation for calm, not a weighing of some coming catastrophe; the tradition's threatening frame is deliberately replaced here with quiet gratitude. Its fruit is inner balance."
+        "en": "This is a practice of appreciation for calm, not a weighing of some coming catastrophe; the tradition's threatening frame is deliberately replaced here with quiet gratitude. Its fruit is inner balance.",
+        "ro": "E o practică a prețuirii, pentru calm, nu o cântărire a vreunei catastrofe ce ar veni; cadrul amenințător al tradiției e înlocuit aici, în chip deliberat, cu o recunoștință liniștită. Rodul ei e echilibrul lăuntric."
       }
     }
   ]

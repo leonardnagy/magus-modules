@@ -3,7 +3,8 @@
   "id": "practice-pack-silva-healing",
   "nevek": {
     "hu": "Silva Gyógyíthatsz — gyakorlatok",
-    "en": "Silva You the Healer — practices"
+    "en": "Silva You the Healer — practices",
+    "ro": "Silva You the Healer — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,41 +16,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Reggeli visszaszámlálásos ellazulás",
-        "en": "Morning countdown relaxation"
+        "en": "Morning countdown relaxation",
+        "ro": "Relaxare matinală cu numărătoare inversă"
       },
       "cel": {
         "hu": "Ébredés után, amikor az elme még közel van a nyugalomhoz, mély ellazulást tanulni a lassú visszaszámlálással — ez a hagyomány minden további gyakorlatának alapja.",
-        "en": "After waking, while the mind is still close to rest, to learn deep relaxation through the slow countdown — the foundation of every further practice in this tradition."
+        "en": "After waking, while the mind is still close to rest, to learn deep relaxation through the slow countdown — the foundation of every further practice in this tradition.",
+        "ro": "După trezire, cât timp mintea e încă aproape de odihnă, să înveți relaxarea profundă prin numărătoarea inversă lentă — temelia tuturor practicilor următoare din această tradiție."
       },
       "modszer": [
         {
           "hu": "Ébredés után helyezkedj el kényelmesen — ha kell, kelj fel előbb rövid időre, aztán térj vissza. Hunyd le a szemed, és csukott szemhéjad mögött tekints enyhén, körülbelül húsz fokkal a vízszintes fölé.",
-          "en": "After waking, settle comfortably — rise briefly first if you need to, then return. Close your eyes and, behind closed lids, look gently upward, about twenty degrees above the horizontal."
+          "en": "After waking, settle comfortably — rise briefly first if you need to, then return. Close your eyes and, behind closed lids, look gently upward, about twenty degrees above the horizontal.",
+          "ro": "După ce te trezești, așază-te confortabil — dacă e nevoie, ridică-te întâi pentru scurt timp, apoi întoarce-te. Închide ochii și, sub pleoapele închise, privește ușor în sus, cam la douăzeci de grade deasupra orizontalei."
         },
         {
           "hu": "Végy néhány mély lélegzetet, és minden kilégzésnél engedd el a tested feszültségét, fejtől a lábujjakig.",
-          "en": "Take a few deep breaths, and on each exhale release the tension of the body, from head to toes."
+          "en": "Take a few deep breaths, and on each exhale release the tension of the body, from head to toes.",
+          "ro": "Trage câteva respirații adânci și, la fiecare expirație, eliberează tensiunea corpului, din creștet până în vârfurile degetelor de la picioare."
         },
         {
           "hu": "Számolj lassan, gondolatban visszafelé 100-tól 1-ig, számonként körülbelül egy másodperc szünettel — a visszaszámlálás nem altatás, hanem elmélyítés.",
-          "en": "Count slowly and mentally backward from 100 to 1, pausing about a second per number — the countdown is not sleep, it is deepening."
+          "en": "Count slowly and mentally backward from 100 to 1, pausing about a second per number — the countdown is not sleep, it is deepening.",
+          "ro": "Numără lent, în gând, înapoi de la 100 la 1, cu o pauză de aproximativ o secundă la fiecare număr — numărătoarea inversă nu e adormire, ci adâncire."
         },
         {
           "hu": "A mélyponton mondd el gondolatban, saját szavaiddal a nyugodt szándékodat — például hogy testedet és elmédet derűben, rendben kívánod tartani.",
-          "en": "At the deep point, state your calm intention mentally, in your own words — for instance that you wish to keep your body and mind in serenity and good order."
+          "en": "At the deep point, state your calm intention mentally, in your own words — for instance that you wish to keep your body and mind in serenity and good order.",
+          "ro": "În punctul cel mai adânc, spune-ți în gând, cu propriile tale cuvinte, intenția ta liniștită — de pildă că vrei să-ți păstrezi trupul și mintea în seninătate și bună rânduială."
         },
         {
           "hu": "Zárásként számolj fölfelé 1-től 5-ig azzal a gondolattal, hogy az 5-nél éberen és felfrissülve nyitod ki a szemed — nyisd ki, és erősítsd meg.",
-          "en": "To close, count upward from 1 to 5 with the thought that at 5 you will open your eyes alert and refreshed — open them, and affirm it."
+          "en": "To close, count upward from 1 to 5 with the thought that at 5 you will open your eyes alert and refreshed — open them, and affirm it.",
+          "ro": "Ca încheiere, numără în sus de la 1 la 5, cu gândul că la 5 vei deschide ochii treaz și înviorat — deschide-i și întărește asta."
         }
       ],
       "keret": {
         "hu": "Támogató belső gyakorlat, amelyet kizárólag a gyümölcsein mérsz: nyugodtabb vagy-e, több-e a reményed, jobb-e a hangulatod, kitartóbb vagy-e a mindennapjaidban. Nem gyógymód és nem ígéret — a rendszeres relaxáció megfigyelhetően csökkentheti a feszültséget, minden ezen túli állítás a hagyomány hite, nem tény.",
-        "en": "A supportive inner practice, measured solely by its fruits: whether you are calmer, more hopeful, in better mood, steadier in your daily life. It is not a cure and not a promise — regular relaxation can observably ease tension; any claim beyond that is the tradition's faith, not fact."
+        "en": "A supportive inner practice, measured solely by its fruits: whether you are calmer, more hopeful, in better mood, steadier in your daily life. It is not a cure and not a promise — regular relaxation can observably ease tension; any claim beyond that is the tradition's faith, not fact.",
+        "ro": "Practică interioară de sprijin, măsurată exclusiv după roadele ei: dacă ești mai calm, mai plin de speranță, cu o dispoziție mai bună, mai statornic în viața ta de zi cu zi. Nu e leac și nu e o promisiune — relaxarea regulată poate scădea în mod observabil tensiunea; orice pretenție dincolo de asta e credința tradiției, nu un fapt."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practică doar alături de îngrijirea profesionistă, niciodată în locul ei. Pentru orice suferință mergi întâi la medic și nu amâna niciodată o investigație sau un tratament de dragul practicii. Schimbă medicația doar în acord cu medicul tău. Nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 1
     },
@@ -61,37 +71,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "A békés belső helyszín — a nyugalom horgonya",
-        "en": "The peaceful inner scene — the anchor of calm"
+        "en": "The peaceful inner scene — the anchor of calm",
+        "ro": "Scena interioară liniștită — ancora calmului"
       },
       "cel": {
         "hu": "Felépíteni és begyakorolni egy jól ismert, szeretett belső helyszínt, amely a mély ellazulás horgonyává válik, és amelyhez bármikor visszatérhetsz.",
-        "en": "To build and rehearse a well-known, beloved inner scene that becomes the anchor of deep relaxation, a place you can return to at any time."
+        "en": "To build and rehearse a well-known, beloved inner scene that becomes the anchor of deep relaxation, a place you can return to at any time.",
+        "ro": "Să construiești și să exersezi o scenă interioară bine cunoscută și dragă ție, care devine ancora relaxării profunde, un loc unde te poți întoarce oricând."
       },
       "modszer": [
         {
           "hu": "Ellazult állapotban — a visszaszámlálás mélypontján — idézz fel egy békés helyet, amelyet jól ismersz és szeretsz: valós vagy emlékből épült helyszínt.",
-          "en": "In the relaxed state — at the deep point of the countdown — recall a peaceful place you know well and love: a real place or one built from memory."
+          "en": "In the relaxed state — at the deep point of the countdown — recall a peaceful place you know well and love: a real place or one built from memory.",
+          "ro": "În starea de relaxare — în punctul cel mai adânc al numărătorii — adu-ți aminte de un loc liniștit pe care îl cunoști bine și îl iubești: un loc real sau unul construit din amintiri."
         },
         {
           "hu": "Járd be lassan: figyeld a fényeit, hangjait, illatait, a levegő hőmérsékletét — minden nap egészítsd ki egy-két új részlettel.",
-          "en": "Walk through it slowly: notice its light, its sounds, its scents, the temperature of the air — add a detail or two each day."
+          "en": "Walk through it slowly: notice its light, its sounds, its scents, the temperature of the air — add a detail or two each day.",
+          "ro": "Străbate-l încet: observă-i lumina, sunetele, mirosurile, temperatura aerului — adaugă în fiecare zi un detaliu sau două."
         },
         {
           "hu": "Időzz ott nyugodtan, sietség nélkül, és hagyd, hogy a hely békéje átjárjon.",
-          "en": "Linger there calmly, without hurry, and let the peace of the place fill you."
+          "en": "Linger there calmly, without hurry, and let the peace of the place fill you.",
+          "ro": "Zăbovește acolo liniștit, fără grabă, și lasă pacea locului să te umple."
         },
         {
           "hu": "Mielőtt fölfelé számolnál, mondd ki gondolatban, hogy ide bármikor visszatérhetsz, amikor nyugalomra van szükséged.",
-          "en": "Before counting upward, say in thought that you may return here whenever you need calm."
+          "en": "Before counting upward, say in thought that you may return here whenever you need calm.",
+          "ro": "Înainte de a număra în sus, spune-ți în gând că te poți întoarce aici ori de câte ori ai nevoie de liniște."
         }
       ],
       "keret": {
         "hu": "Támogató gyakorlat, nem gyógymód: a belső helyszín a nyugalom művelésének eszköze. Értékét belső gyümölcsei adják — nyugalom, remény, jobb hangulat, kitartás —, és semmilyen gyógyulási ígéret nem tartozik hozzá.",
-        "en": "A supportive practice, not a cure: the inner scene is a tool for cultivating calm. Its worth lies in inner fruits — calm, hope, better mood, steadiness — and no promise of healing attaches to it."
+        "en": "A supportive practice, not a cure: the inner scene is a tool for cultivating calm. Its worth lies in inner fruits — calm, hope, better mood, steadiness — and no promise of healing attaches to it.",
+        "ro": "Practică de sprijin, nu leac: scena interioară e un instrument pentru cultivarea calmului. Valoarea ei stă în roadele lăuntrice — calm, speranță, dispoziție mai bună, statornicie — și nicio promisiune de vindecare nu se leagă de ea."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practică doar alături de îngrijirea profesionistă, niciodată în locul ei. Pentru orice suferință mergi întâi la medic și nu amâna niciodată o investigație sau un tratament de dragul practicii. Schimbă medicația doar în acord cu medicul tău. Nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 2
     },
@@ -103,37 +121,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A belső képernyő — a képzelet munkafelülete",
-        "en": "The mental screen — the working surface of imagination"
+        "en": "The mental screen — the working surface of imagination",
+        "ro": "Ecranul mental — suprafața de lucru a imaginației"
       },
       "cel": {
         "hu": "Megtanulni a hagyomány munkafelületét: egy nagy, világos belső felületet, amelyen a képeket fegyelmezetten, szelíden vezeted — a képzelet tudatos irányításának alapkészségét.",
-        "en": "To learn the working surface of the tradition: a large, bright inner surface on which you guide images with discipline and gentleness — the basic skill of conscious imagination."
+        "en": "To learn the working surface of the tradition: a large, bright inner surface on which you guide images with discipline and gentleness — the basic skill of conscious imagination.",
+        "ro": "Să înveți suprafața de lucru a tradiției: o suprafață interioară mare și luminoasă, pe care conduci imaginile cu disciplină și blândețe — deprinderea de bază a imaginației conștiente."
       },
       "modszer": [
         {
           "hu": "Lazulj el a visszaszámlálással, majd képzelj magad elé, kissé a szemmagasság fölé egy nagy, világos felületet — ez a belső képernyőd.",
-          "en": "Relax with the countdown, then imagine a large, bright surface in front of you, slightly above eye level — this is your mental screen."
+          "en": "Relax with the countdown, then imagine a large, bright surface in front of you, slightly above eye level — this is your mental screen.",
+          "ro": "Relaxează-te cu numărătoarea inversă, apoi imaginează-ți în fața ta o suprafață mare și luminoasă, puțin deasupra nivelului ochilor — acesta este ecranul tău mental."
         },
         {
           "hu": "Helyezz rá egyszerű, semleges képet — egy gyümölcsöt, egy poharat, egy falevelet —, és tartsd ott nyugodtan, amíg el nem halványul.",
-          "en": "Place a simple, neutral image on it — a fruit, a glass, a leaf — and hold it there calmly until it fades."
+          "en": "Place a simple, neutral image on it — a fruit, a glass, a leaf — and hold it there calmly until it fades.",
+          "ro": "Așază pe el o imagine simplă, neutră — un fruct, un pahar, o frunză — și ține-o acolo liniștit, până se stinge."
         },
         {
           "hu": "Gyakorold a váltást: engedd el az egyik képet, és hívj elő egy másikat — mindig szelíden, erőltetés nélkül.",
-          "en": "Practice the change: release one image and call up another — always gently, without forcing."
+          "en": "Practice the change: release one image and call up another — always gently, without forcing.",
+          "ro": "Exersează schimbarea: lasă o imagine să plece și cheamă alta — întotdeauna blând, fără să forțezi."
         },
         {
           "hu": "Zárd a gyakorlatot fölfelé számolással, és jegyezd fel, milyen élesek és mennyire engedelmesek voltak a képeid.",
-          "en": "Close with the upward count, and note how sharp and how obedient your images were."
+          "en": "Close with the upward count, and note how sharp and how obedient your images were.",
+          "ro": "Încheie cu numărătoarea în sus și notează cât de clare și cât de ascultătoare au fost imaginile tale."
         }
       ],
       "keret": {
         "hu": "Képzeletfegyelmet művelő, támogató gyakorlat — nem gyógymód és nem jóslás. A belső képernyő nem mutat meg semmit a testedről vagy másokéról; amit rajta látsz, a saját képzeleted munkája. Értékét a nyugalom és a képfegyelem gyümölcsei adják.",
-        "en": "A supportive practice of image discipline — not a cure and not divination. The mental screen reveals nothing about your body or anyone else's; what you see on it is the work of your own imagination. Its worth lies in the fruits of calm and disciplined imagery."
+        "en": "A supportive practice of image discipline — not a cure and not divination. The mental screen reveals nothing about your body or anyone else's; what you see on it is the work of your own imagination. Its worth lies in the fruits of calm and disciplined imagery.",
+        "ro": "Practică de sprijin pentru disciplina imaginilor — nu e leac și nu e ghicire. Ecranul mental nu dezvăluie nimic despre corpul tău sau al altcuiva; ceea ce vezi pe el e lucrarea propriei tale imaginații. Valoarea lui stă în roadele calmului și ale imaginației disciplinate."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis — a belső képernyővel soha ne diagnosztizálj, se magadat, se mást. Kizárólag a szakszerű ellátás mellett gyakorolj, sosem helyette; panasz esetén először orvoshoz fordulj, vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt, gyógyszert csak kezelőorvosoddal egyeztetve módosíts, és más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis — never diagnose with the mental screen, neither yourself nor anyone else. Practice only alongside professional care, never instead of it; see a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis — never diagnose with the mental screen, neither yourself nor anyone else. Practice only alongside professional care, never instead of it; see a doctor first about any complaint, never delay an examination or treatment for the sake of practice, change medication only in agreement with your physician, and never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic — nu pune niciodată diagnostic cu ecranul mental, nici ție, nici altcuiva. Practică doar alături de îngrijirea profesionistă, niciodată în locul ei; pentru orice suferință mergi întâi la medic, nu amâna niciodată o investigație sau un tratament de dragul practicii, schimbă medicația doar în acord cu medicul tău și nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 3
     },
@@ -145,41 +171,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "A három kép — támogató gyógyító képzelet",
-        "en": "The three images — supportive healing visualization"
+        "en": "The three images — supportive healing visualization",
+        "ro": "Cele trei imagini — vizualizare de sprijin pentru vindecare"
       },
       "cel": {
         "hu": "A belső képernyőn három egymást követő képpel művelni a belső állapotot: a jelen szelíd tudomásulvételét, a jobbulás reményét és a derűs teljesség képét — a gyógyulást kísérő belső munkaként.",
-        "en": "To cultivate the inner state with three successive images on the mental screen: gentle acknowledgment of the present, the hope of improvement, and the image of serene wholeness — as inner work that accompanies recovery."
+        "en": "To cultivate the inner state with three successive images on the mental screen: gentle acknowledgment of the present, the hope of improvement, and the image of serene wholeness — as inner work that accompanies recovery.",
+        "ro": "Să-ți cultivi starea interioară cu trei imagini succesive pe ecranul mental: recunoașterea blândă a prezentului, speranța îmbunătățirii și imaginea întregirii senine — ca lucrare interioară care însoțește însănătoșirea."
       },
       "modszer": [
         {
           "hu": "Lazulj el a visszaszámlálással, és nyisd meg a belső képernyőt.",
-          "en": "Relax with the countdown and open the mental screen."
+          "en": "Relax with the countdown and open the mental screen.",
+          "ro": "Relaxează-te cu numărătoarea inversă și deschide ecranul mental."
         },
         {
           "hu": "Első kép: vedd tudomásul a jelen állapotot szelíden, félelemkeltés nélkül — ne időzz rajta sokáig.",
-          "en": "First image: acknowledge the present state gently, without stirring fear — do not linger on it long."
+          "en": "First image: acknowledge the present state gently, without stirring fear — do not linger on it long.",
+          "ro": "Prima imagine: recunoaște blând starea de acum, fără să stârnești frica — nu zăbovi mult asupra ei."
         },
         {
           "hu": "Második kép: jelenítsd meg a jobbulást, az erősödő rendet — a magad egyszerű, derűs jelképeivel.",
-          "en": "Second image: show improvement, order gaining strength — in your own simple, serene symbols."
+          "en": "Second image: show improvement, order gaining strength — in your own simple, serene symbols.",
+          "ro": "A doua imagine: arată îmbunătățirea, rânduiala care prinde putere — în simbolurile tale simple și senine."
         },
         {
           "hu": "Harmadik kép: lásd önmagadat derűsen, elevenen, teljességben — ennél a képnél időzz a legtovább, és mindig csak előre haladj a képeken.",
-          "en": "Third image: see yourself serene, alive, whole — linger longest on this image, and always move only forward through the images."
+          "en": "Third image: see yourself serene, alive, whole — linger longest on this image, and always move only forward through the images.",
+          "ro": "A treia imagine: vezi-te senin, viu, întreg — zăbovește cel mai mult asupra acestei imagini și treci mereu doar înainte prin ele."
         },
         {
           "hu": "Zárd hálával, majd számolj fölfelé 1-től 5-ig, és fordulj a nap teendői felé.",
-          "en": "Close with gratitude, then count upward from 1 to 5 and turn toward the tasks of the day."
+          "en": "Close with gratitude, then count upward from 1 to 5 and turn toward the tasks of the day.",
+          "ro": "Încheie cu recunoștință, apoi numără în sus de la 1 la 5 și întoarce-te spre treburile zilei."
         }
       ],
       "keret": {
         "hu": "Támogató képzeletgyakorlat, amely a belső állapotodat műveli: nyugalmat, reményt, együttműködést a saját gyógyulásoddal. Nem gyógymód: azt, hogy a képzelet közvetlenül gyógyítana, ez a gyakorlat nem állítja tényként — a hatását kizárólag belső gyümölcsein mérd, és a gyógyítást hagyd az orvostudományra.",
-        "en": "A supportive imagery practice that cultivates your inner state: calm, hope, cooperation with your own recovery. It is not a cure: this practice does not assert as fact that imagination heals directly — measure its effect solely by inner fruits, and leave healing to medicine."
+        "en": "A supportive imagery practice that cultivates your inner state: calm, hope, cooperation with your own recovery. It is not a cure: this practice does not assert as fact that imagination heals directly — measure its effect solely by inner fruits, and leave healing to medicine.",
+        "ro": "Practică de sprijin prin imagini, care îți cultivă starea interioară: calm, speranță, colaborare cu propria ta însănătoșire. Nu e leac: această practică nu susține ca fapt că imaginația vindecă în mod direct — măsoară-i efectul exclusiv după roadele lăuntrice și lasă vindecarea în seama medicinei."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panaszt soha ne a gyakorlással kezelj: először orvoshoz fordulj, és vizsgálatot vagy kezelést soha, egyetlen napot se halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts — akkor is, ha jobban érzed magad. Más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. Never treat a complaint with practice alone: see a doctor first, and never delay an examination or treatment for the sake of practice, not by a single day. Change medication only in agreement with your treating physician — even when you feel better. Never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. Never treat a complaint with practice alone: see a doctor first, and never delay an examination or treatment for the sake of practice, not by a single day. Change medication only in agreement with your treating physician — even when you feel better. Never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practică doar alături de îngrijirea profesionistă, niciodată în locul ei. Nu trata niciodată o suferință doar cu practica: mergi întâi la medic și nu amâna niciodată o investigație sau un tratament de dragul practicii, nici măcar cu o zi. Schimbă medicația doar în acord cu medicul care te tratează — chiar și atunci când te simți mai bine. Nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 4
     },
@@ -191,37 +226,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Napközbeni stresszoldó ellazulás",
-        "en": "Midday stress-release relaxation"
+        "en": "Midday stress-release relaxation",
+        "ro": "Relaxare de amiază pentru descărcarea stresului"
       },
       "cel": {
         "hu": "A nap közepén, feszült helyzetek után rövid ellazulással visszatérni a nyugalomhoz: elengedni a test feszültségét, és összeszedetten folytatni a napot.",
-        "en": "In the middle of the day, after tense situations, to return to calm with a short relaxation: releasing the body tension and continuing the day collected."
+        "en": "In the middle of the day, after tense situations, to return to calm with a short relaxation: releasing the body tension and continuing the day collected.",
+        "ro": "La mijlocul zilei, după situații tensionate, să te întorci la calm printr-o relaxare scurtă: să eliberezi tensiunea corpului și să continui ziua adunat."
       },
       "modszer": [
         {
           "hu": "Ülj le néhány percre zavartalan helyen, hunyd le a szemed, és tekints enyhén fölfelé a csukott szemhéj mögött.",
-          "en": "Sit down for a few minutes in an undisturbed place, close your eyes, and look gently upward behind closed lids."
+          "en": "Sit down for a few minutes in an undisturbed place, close your eyes, and look gently upward behind closed lids.",
+          "ro": "Așază-te câteva minute într-un loc unde nu ești deranjat, închide ochii și privește ușor în sus, sub pleoapele închise."
         },
         {
           "hu": "Végy három mély lélegzetet, és minden kilégzésnél engedd lazábbra a vállad, az állkapcsod, a kezed.",
-          "en": "Take three deep breaths, and on each exhale let your shoulders, jaw, and hands loosen."
+          "en": "Take three deep breaths, and on each exhale let your shoulders, jaw, and hands loosen.",
+          "ro": "Trage trei respirații adânci și, la fiecare expirație, lasă-ți umerii, maxilarul și mâinile să se destindă."
         },
         {
           "hu": "Számolj visszafelé 10-től 1-ig, lassan, és minden számnál süllyedj kicsit mélyebbre a nyugalomba — ha van időd, időzz egy pillanatra a békés belső helyszíneden.",
-          "en": "Count backward from 10 to 1, slowly, sinking a little deeper into calm at each number — if there is time, linger a moment in your peaceful inner scene."
+          "en": "Count backward from 10 to 1, slowly, sinking a little deeper into calm at each number — if there is time, linger a moment in your peaceful inner scene.",
+          "ro": "Numără înapoi de la 10 la 1, lent, coborând puțin mai adânc în calm la fiecare număr — dacă ai timp, zăbovește o clipă în scena ta interioară liniștită."
         },
         {
           "hu": "Számolj fölfelé 1-től 5-ig, nyisd ki a szemed frissen, és térj vissza a teendőidhez.",
-          "en": "Count upward from 1 to 5, open your eyes refreshed, and return to your tasks."
+          "en": "Count upward from 1 to 5, open your eyes refreshed, and return to your tasks.",
+          "ro": "Numără în sus de la 1 la 5, deschide ochii înviorat și întoarce-te la treburile tale."
         }
       ],
       "keret": {
         "hu": "Egyszerű, támogató stresszkezelő gyakorlat — a rendszeres relaxáció megfigyelhetően enyhítheti a feszültséget és javíthatja a közérzetet, ennél többet nem ígér. Gyümölcsein mérd: nyugodtabb kéz, tisztább fej, több erő a nap hátralévő részéhez.",
-        "en": "A simple, supportive stress-management practice — regular relaxation can observably ease tension and improve well-being, and it promises nothing more. Measure it by its fruits: a steadier hand, a clearer head, more strength for the rest of the day."
+        "en": "A simple, supportive stress-management practice — regular relaxation can observably ease tension and improve well-being, and it promises nothing more. Measure it by its fruits: a steadier hand, a clearer head, more strength for the rest of the day.",
+        "ro": "Practică simplă, de sprijin, pentru gestionarea stresului — relaxarea regulată poate scădea în mod observabil tensiunea și poate îmbunătăți starea de bine, și nu promite nimic mai mult. Măsoar-o după roadele ei: o mână mai sigură, o minte mai limpede, mai multă putere pentru restul zilei."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Tartós vagy erős stressz, szorongás, testi panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. With lasting or severe stress, anxiety, or any physical complaint, see a doctor first, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. With lasting or severe stress, anxiety, or any physical complaint, see a doctor first, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practică doar alături de îngrijirea profesionistă, niciodată în locul ei. La stres, anxietate sau orice suferință fizică durabilă ori severă, mergi întâi la medic și nu amâna niciodată o investigație sau un tratament de dragul practicii. Schimbă medicația doar în acord cu medicul tău. Nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 5
     },
@@ -233,37 +276,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Esti lecsendesedés — elengedés és átadás az alvásnak",
-        "en": "Evening settling — release and surrender to sleep"
+        "en": "Evening settling — release and surrender to sleep",
+        "ro": "Așezarea de seară — eliberare și predare somnului"
       },
       "cel": {
         "hu": "Elalvás előtt elengedni a nap feszültségét, ítélkezés nélkül áttekinteni a napot, és nyugodt zárómondattal átadni magad az alvásnak.",
-        "en": "Before sleep, to release the tension of the day, review the day without judgment, and surrender to sleep with a calm closing sentence."
+        "en": "Before sleep, to release the tension of the day, review the day without judgment, and surrender to sleep with a calm closing sentence.",
+        "ro": "Înainte de somn, să eliberezi tensiunea zilei, să treci ziua în revistă fără judecată și să te predai somnului cu o propoziție de încheiere liniștită."
       },
       "modszer": [
         {
           "hu": "Lefekvés után hunyd le a szemed, végy néhány mély lélegzetet, és minden kilégzésnél engedd el a nap terhét.",
-          "en": "After lying down, close your eyes, take a few deep breaths, and release the burden of the day on each exhale."
+          "en": "After lying down, close your eyes, take a few deep breaths, and release the burden of the day on each exhale.",
+          "ro": "După ce te-ai întins, închide ochii, trage câteva respirații adânci și lasă la fiecare expirație povara zilei."
         },
         {
           "hu": "Tekintsd át röviden a napot ítélkezés nélkül — mi történt, mi sikerült, mi maradt el —, aztán engedd el a képeket.",
-          "en": "Review the day briefly without judgment — what happened, what went well, what was left undone — then let the images go."
+          "en": "Review the day briefly without judgment — what happened, what went well, what was left undone — then let the images go.",
+          "ro": "Treci ziua pe scurt în revistă, fără judecată — ce s-a întâmplat, ce a mers bine, ce a rămas nefăcut — apoi lasă imaginile să plece."
         },
         {
           "hu": "Mondj gondolatban egy nyugodt zárómondatot a holnapi ébredésről — például hogy reggel frissen, kiegyensúlyozottan ébredsz.",
-          "en": "Say a calm closing sentence in thought about waking tomorrow — for instance that you will wake refreshed and balanced."
+          "en": "Say a calm closing sentence in thought about waking tomorrow — for instance that you will wake refreshed and balanced.",
+          "ro": "Spune în gând o propoziție liniștită de încheiere despre trezirea de mâine — de pildă că te vei trezi înviorat și în echilibru."
         },
         {
           "hu": "Hagyd, hogy a légzésed lelassuljon, és engedd át magad az alvásnak — itt nincs fölfelé számolás.",
-          "en": "Let your breathing slow and give yourself over to sleep — there is no upward count here."
+          "en": "Let your breathing slow and give yourself over to sleep — there is no upward count here.",
+          "ro": "Lasă-ți respirația să încetinească și dăruiește-te somnului — aici nu există numărătoare în sus."
         }
       ],
       "keret": {
         "hu": "Támogató esti gyakorlat a nap lezárására és a nyugodt elalvásra — nem gyógymód és nem alvásterápia. Gyümölcsein mérd: könnyebb elalvás, csendesebb elme, szelídebb reggel.",
-        "en": "A supportive evening practice for closing the day and settling into sleep — not a cure and not sleep therapy. Measure it by its fruits: easier falling asleep, a quieter mind, a gentler morning."
+        "en": "A supportive evening practice for closing the day and settling into sleep — not a cure and not sleep therapy. Measure it by its fruits: easier falling asleep, a quieter mind, a gentler morning.",
+        "ro": "Practică de seară, de sprijin, pentru încheierea zilei și așezarea în somn — nu e leac și nu e terapie a somnului. Măsoar-o după roadele ei: adormire mai ușoară, o minte mai liniștită, o dimineață mai blândă."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Tartós alvászavarral vagy bármilyen panasszal először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Altatót vagy bármilyen gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. With lasting sleep problems or any complaint, see a doctor first, and never delay an examination or treatment for the sake of practice. Change sleep medication or any medication only in agreement with your physician. Never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. With lasting sleep problems or any complaint, see a doctor first, and never delay an examination or treatment for the sake of practice. Change sleep medication or any medication only in agreement with your physician. Never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practică doar alături de îngrijirea profesionistă, niciodată în locul ei. La probleme de somn de durată sau la orice suferință, mergi întâi la medic și nu amâna niciodată o investigație sau un tratament de dragul practicii. Schimbă medicația pentru somn sau orice altă medicație doar în acord cu medicul tău. Nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 6
     },
@@ -275,41 +326,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Jóakarat a szeretted felé — jelenlét, nem kezelés",
-        "en": "Goodwill toward a loved one — presence, not treatment"
+        "en": "Goodwill toward a loved one — presence, not treatment",
+        "ro": "Bunăvoință față de cineva drag — prezență, nu tratament"
       },
       "cel": {
         "hu": "Ha szeretted beteg: a saját nyugalmadat művelni, hogy mellette teherbíró és derűs maradhass, és ellazult állapotban csendes jóakaratot küldeni felé — úgy, ahogy egy imádság vagy egy jó gondolat száll valaki felé.",
-        "en": "When a loved one is ill: to cultivate your own calm so you can stay resilient and serene beside them, and in the relaxed state to send them quiet goodwill — the way a prayer or a kind thought goes out to someone."
+        "en": "When a loved one is ill: to cultivate your own calm so you can stay resilient and serene beside them, and in the relaxed state to send them quiet goodwill — the way a prayer or a kind thought goes out to someone.",
+        "ro": "Când cineva drag e bolnav: să-ți cultivi propriul calm, ca să rămâi rezistent și senin lângă el, iar în starea de relaxare să-i trimiți o bunăvoință tăcută — așa cum pleacă spre cineva o rugăciune sau un gând bun."
       },
       "modszer": [
         {
           "hu": "Lazulj el a visszaszámlálással a saját gyakorlásodban — ez a munka a tiéd, nem az övé.",
-          "en": "Relax with the countdown in your own practice — this work is yours, not theirs."
+          "en": "Relax with the countdown in your own practice — this work is yours, not theirs.",
+          "ro": "Relaxează-te cu numărătoarea inversă în propria ta practică — această lucrare e a ta, nu a lui."
         },
         {
           "hu": "Idézd fel szeretted arcát derűsen, és fogalmazz felé egyszerű, csendes kívánságot: hogy jól legyen.",
-          "en": "Recall your loved one face serenely, and form a simple, quiet wish toward them: that they be well."
+          "en": "Recall your loved one face serenely, and form a simple, quiet wish toward them: that they be well.",
+          "ro": "Adu-ți aminte senin chipul celui drag și formulează spre el o dorință simplă și tăcută: să-i fie bine."
         },
         {
           "hu": "Ne diagnosztizáld, ne kezeld, ne dolgozz rajta — se tudtával, se tudta nélkül. Csak a jó szándék szálljon felé; útja, döntései és teste nem a te képzeleted alá tartoznak.",
-          "en": "Do not diagnose them, do not treat them, do not work on them — neither with their knowledge nor without it. Let only the kind intention travel; their path, their choices, and their body are not governed by your imagination."
+          "en": "Do not diagnose them, do not treat them, do not work on them — neither with their knowledge nor without it. Let only the kind intention travel; their path, their choices, and their body are not governed by your imagination.",
+          "ro": "Nu-l diagnostica, nu-l trata, nu lucra asupra lui — nici cu știrea lui, nici fără. Lasă să călătorească doar intenția bună; drumul lui, alegerile lui și trupul lui nu sunt cârmuite de imaginația ta."
         },
         {
           "hu": "A gyakorlaton kívül szolgáld őt kézzelfoghatóan: hallgasd meg, kísérd el a vizsgálatra, segíts a gyógyszereit rendben tartani, ülj mellette csendben.",
-          "en": "Outside the practice, serve them tangibly: listen, accompany them to appointments, help keep their medications in order, sit quietly beside them."
+          "en": "Outside the practice, serve them tangibly: listen, accompany them to appointments, help keep their medications in order, sit quietly beside them.",
+          "ro": "În afara practicii, slujește-l în chip concret: ascultă-l, însoțește-l la programări, ajută-l să-și țină medicamentele în ordine, stai tăcut lângă el."
         },
         {
           "hu": "Viselj gondot a magad lelkére is — pihenj, beszélj valakivel, kérj segítséget; a kísérő akkor tud kísérni, ha maga is áll a lábán.",
-          "en": "Care for your own soul as well — rest, talk to someone, ask for help; a companion can only accompany if they themselves remain standing."
+          "en": "Care for your own soul as well — rest, talk to someone, ask for help; a companion can only accompany if they themselves remain standing.",
+          "ro": "Ai grijă și de sufletul tău — odihnește-te, vorbește cu cineva, cere ajutor; un însoțitor poate însoți doar dacă rămâne el însuși în picioare."
         }
       ],
       "keret": {
         "hu": "Ez szeretet belső formában — nem beavatkozás és nem terápia. Soha ne ígérj gyógyulást, és soha ne sugalld, hogy a betegséget a gondolkodása okozta volna: az a teher kegyetlen és igaztalan. A gyakorlat gyümölcse a te nyugalmad és teherbírásod — a gyógyítás az orvosaié.",
-        "en": "This is love in inner form — not intervention and not therapy. Never promise healing, and never suggest that their illness was caused by their thinking: that burden is cruel and untrue. The fruit of this practice is your own calm and resilience — the healing belongs to their doctors."
+        "en": "This is love in inner form — not intervention and not therapy. Never promise healing, and never suggest that their illness was caused by their thinking: that burden is cruel and untrue. The fruit of this practice is your own calm and resilience — the healing belongs to their doctors.",
+        "ro": "Aceasta e iubire în formă lăuntrică — nu intervenție și nu terapie. Nu promite niciodată vindecare și nu sugera niciodată că boala lui a fost pricinuită de felul lui de a gândi: povara asta e crudă și neadevărată. Rodul acestei practici e propriul tău calm și propria ta rezistență — vindecarea le aparține medicilor lui."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett van helye, sosem helyette. Más emberen soha ne dolgozz a képzeleteddel — feléje csak jelenlét és jóakarat irányulhat. Soha ne beszéld le szerettedet vizsgálatról, gyógyszerről vagy kezelésről, és ellátást soha ne halasszatok a gyakorlás miatt; gyógyszert kizárólag a kezelőorvossal egyeztetve szabad módosítani.",
-        "en": "Not medical treatment and not a diagnosis; it has its place only alongside professional care, never instead of it. Never work on another person with your imagination — toward them only presence and goodwill may flow. Never talk a loved one out of an examination, a medication, or a treatment, and never let care be delayed for the sake of practice; medication may be changed only in agreement with the treating physician."
+        "en": "Not medical treatment and not a diagnosis; it has its place only alongside professional care, never instead of it. Never work on another person with your imagination — toward them only presence and goodwill may flow. Never talk a loved one out of an examination, a medication, or a treatment, and never let care be delayed for the sake of practice; medication may be changed only in agreement with the treating physician.",
+        "ro": "Nu e tratament medical și nu e diagnostic; își are locul doar alături de îngrijirea profesionistă, niciodată în locul ei. Nu lucra niciodată cu imaginația ta asupra altei persoane — spre ea pot curge doar prezența și bunăvoința. Nu-l convinge niciodată pe cel drag să renunțe la o investigație, la un medicament sau la un tratament și nu lăsa niciodată îngrijirea să fie amânată de dragul practicii; medicația poate fi schimbată doar în acord cu medicul curant."
       },
       "sorszam": 7
     },
@@ -321,37 +381,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A rövidülő visszaszámlálás — a mélység begyakorlása",
-        "en": "The shortening countdown — training the depth"
+        "en": "The shortening countdown — training the depth",
+        "ro": "Numărătoarea care se scurtează — antrenarea adâncimii"
       },
       "cel": {
         "hu": "Hetek türelmes gyakorlásával fokozatosan rövidíteni a visszaszámlálást — 100-tól, majd 50-től, 25-től, 10-től, végül 5-től 1-ig —, hogy a mély ellazulás egyre kevesebb lépésből, megbízhatóan elérhető legyen.",
-        "en": "Over weeks of patient practice, to gradually shorten the countdown — from 100, then from 50, 25, 10, finally from 5 to 1 — so that deep relaxation becomes reliably reachable in fewer and fewer steps."
+        "en": "Over weeks of patient practice, to gradually shorten the countdown — from 100, then from 50, 25, 10, finally from 5 to 1 — so that deep relaxation becomes reliably reachable in fewer and fewer steps.",
+        "ro": "De-a lungul unor săptămâni de practică răbdătoare, să scurtezi treptat numărătoarea — de la 100, apoi de la 50, 25, 10, în final de la 5 la 1 — astfel încât relaxarea profundă să devină accesibilă sigur, din tot mai puțini pași."
       },
       "modszer": [
         {
           "hu": "Gyakorold a reggeli ellazulást 100-tól 1-ig számolva, amíg a mélypont érzete ismerőssé és megbízhatóvá nem válik.",
-          "en": "Practice the morning relaxation counting from 100 to 1 until the feel of the deep point becomes familiar and reliable."
+          "en": "Practice the morning relaxation counting from 100 to 1 until the feel of the deep point becomes familiar and reliable.",
+          "ro": "Exersează relaxarea de dimineață numărând de la 100 la 1, până când senzația punctului adânc îți devine familiară și de încredere."
         },
         {
           "hu": "Ezután térj át 50-re, majd hetek múltán 25-re, 10-re, végül 5-re — mindig csak akkor rövidíts, ha a mélység nem sekélyesedik.",
-          "en": "Then move to 50, and over the weeks to 25, to 10, finally to 5 — shorten only when the depth does not grow shallow."
+          "en": "Then move to 50, and over the weeks to 25, to 10, finally to 5 — shorten only when the depth does not grow shallow.",
+          "ro": "Apoi treci la 50, iar de-a lungul săptămânilor la 25, la 10, în final la 5 — scurtează doar atunci când adâncimea nu se subțiază."
         },
         {
           "hu": "Minden szakaszban tartsd meg a teljes keretet: szemhéj mögötti enyhe fölfelé tekintés, elengedés kilégzésnél, békés belső helyszín, fölfelé számolás a végén.",
-          "en": "At every stage keep the full frame: the gentle upward gaze behind closed lids, release on the exhale, the peaceful inner scene, the upward count at the end."
+          "en": "At every stage keep the full frame: the gentle upward gaze behind closed lids, release on the exhale, the peaceful inner scene, the upward count at the end.",
+          "ro": "La fiecare etapă păstrează cadrul complet: privirea blândă în sus sub pleoapele închise, eliberarea la expirație, scena interioară liniștită, numărătoarea în sus la final."
         },
         {
           "hu": "Naplódban jegyezd fel, melyik hossz milyen mélységet adott — a rövidítés üteme a tapasztalatodhoz igazodjon, ne a türelmetlenségedhez.",
-          "en": "Record in your diary what depth each length gave — let the pace of shortening follow your experience, not your impatience."
+          "en": "Record in your diary what depth each length gave — let the pace of shortening follow your experience, not your impatience.",
+          "ro": "Notează în jurnal ce adâncime ți-a dat fiecare lungime — lasă ritmul scurtării să urmeze experiența ta, nu nerăbdarea ta."
         }
       ],
       "keret": {
         "hu": "Készséggyakorlás, nem verseny és nem gyógymód: a cél a nyugalom megbízható elérése, nem a sebesség. Gyümölcsein mérd — azon, hogy a hétköznapjaidban könnyebben találsz-e vissza a nyugalomhoz.",
-        "en": "Skill training, not a race and not a cure: the goal is reliable access to calm, not speed. Measure it by its fruits — whether in daily life you find your way back to calm more easily."
+        "en": "Skill training, not a race and not a cure: the goal is reliable access to calm, not speed. Measure it by its fruits — whether in daily life you find your way back to calm more easily.",
+        "ro": "Antrenament al unei deprinderi, nu o cursă și nu un leac: scopul e accesul sigur la calm, nu viteza. Măsoară-l după roadele lui — dacă în viața de zi cu zi îți găsești mai ușor drumul înapoi spre calm."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; kizárólag a szakszerű ellátás mellett végezd, sosem helyette. Panasz esetén először orvoshoz fordulj, és vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt. Gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts. Más emberen soha ne dolgozz a képzeleteddel.",
-        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination."
+        "en": "Not medical treatment and not a diagnosis; practice only alongside professional care, never instead of it. See a doctor first about any complaint, and never delay an examination or treatment for the sake of practice. Change medication only in agreement with your physician. Never work on another person with your imagination.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practică doar alături de îngrijirea profesionistă, niciodată în locul ei. Pentru orice suferință mergi întâi la medic și nu amâna niciodată o investigație sau un tratament de dragul practicii. Schimbă medicația doar în acord cu medicul tău. Nu lucra niciodată cu imaginația ta asupra altei persoane."
       },
       "sorszam": 8
     },
@@ -363,37 +431,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "A gyümölcsök naplója — őszinte mérés",
-        "en": "The diary of fruits — honest measurement"
+        "en": "The diary of fruits — honest measurement",
+        "ro": "Jurnalul roadelor — măsurare cinstită"
       },
       "cel": {
         "hu": "Naponta, őszintén feljegyezni a gyakorlás belső gyümölcseit és a hiányukat is — nyugalom, remény, hangulat, kitartás a kezelés és a teendők mellett —, hogy a módszert a saját tapasztalatod mérje, ne a hit vagy a vágy.",
-        "en": "To record daily and honestly the inner fruits of practice and their absence alike — calm, hope, mood, steadiness in treatment and duties — so that your own experience measures the method, not belief or desire."
+        "en": "To record daily and honestly the inner fruits of practice and their absence alike — calm, hope, mood, steadiness in treatment and duties — so that your own experience measures the method, not belief or desire.",
+        "ro": "Să notezi zilnic și cinstit roadele lăuntrice ale practicii, dar la fel și lipsa lor — calm, speranță, dispoziție, statornicie în tratament și în îndatoriri — astfel încât metoda să fie măsurată de propria ta experiență, nu de credință sau de dorință."
       },
       "modszer": [
         {
           "hu": "A napi gyakorlás után jegyezd fel röviden: milyen mély volt az ellazulás, milyen képekkel dolgoztál, és mit hagytak benned.",
-          "en": "After the daily practice, note briefly: how deep the relaxation was, what images you worked with, and what they left in you."
+          "en": "After the daily practice, note briefly: how deep the relaxation was, what images you worked with, and what they left in you.",
+          "ro": "După practica zilnică, notează pe scurt: cât de adâncă a fost relaxarea, cu ce imagini ai lucrat și ce au lăsat în tine."
         },
         {
           "hu": "Írd le a nap belső gyümölcseit — nyugalom, remény, jobb hangulat, több erő — és őszintén azt is, ami elmaradt.",
-          "en": "Write down the inner fruits of the day — calm, hope, better mood, more strength — and honestly, what failed to appear."
+          "en": "Write down the inner fruits of the day — calm, hope, better mood, more strength — and honestly, what failed to appear.",
+          "ro": "Scrie roadele lăuntrice ale zilei — calm, speranță, dispoziție mai bună, mai multă putere — și, cinstit, ce nu a apărut."
         },
         {
           "hu": "Ellenőrizd írásban az orvosi rendet: gyógyszer bevéve, időpont megtartva, semmi sem halasztva a gyakorlás miatt.",
-          "en": "Check the medical order in writing: medication taken, appointments kept, nothing postponed for the sake of practice."
+          "en": "Check the medical order in writing: medication taken, appointments kept, nothing postponed for the sake of practice.",
+          "ro": "Verifică în scris rânduiala medicală: medicamentele luate, programările respectate, nimic amânat de dragul practicii."
         },
         {
           "hu": "Hetente olvasd vissza a bejegyzéseket, és józanul mérlegelj: ha a gyakorlás szorongást, kényszeres méricskélést vagy az ellátástól való eltávolodást hozna, tedd le, és beszélj orvosoddal vagy pszichológussal.",
-          "en": "Reread the entries weekly and weigh them soberly: if practice were to bring anxiety, compulsive self-monitoring, or drift away from care, set it down and speak with your doctor or a psychologist."
+          "en": "Reread the entries weekly and weigh them soberly: if practice were to bring anxiety, compulsive self-monitoring, or drift away from care, set it down and speak with your doctor or a psychologist.",
+          "ro": "Recitește însemnările săptămânal și cântărește-le cu luciditate: dacă practica ar aduce anxietate, autoobservare compulsivă sau îndepărtare de îngrijire, las-o deoparte și vorbește cu medicul tău sau cu un psiholog."
         }
       ],
       "keret": {
         "hu": "A napló a módszer becsületességének őre: modellként gyakorolsz, és a gyümölcsökről beszélsz — sem magadnak, sem másnak nem állítod tényként, hogy a képzelet gyógyít. A visszavonulás, ha kell, nem kudarc, hanem józanság.",
-        "en": "The diary guards the honesty of the method: you practice it as a model and speak of its fruits — asserting to no one, not even yourself, that imagination heals as a matter of fact. Withdrawing, if needed, is not failure but sobriety."
+        "en": "The diary guards the honesty of the method: you practice it as a model and speak of its fruits — asserting to no one, not even yourself, that imagination heals as a matter of fact. Withdrawing, if needed, is not failure but sobriety.",
+        "ro": "Jurnalul păzește cinstea metodei: o practici ca pe un model și vorbești despre roadele ei — fără a susține nimănui, nici măcar ție, că imaginația vindecă în fapt. Retragerea, dacă e nevoie, nu e eșec, ci luciditate."
       },
       "etika": {
         "hu": "Nem orvosi kezelés és nem diagnózis; a gyakorlás kizárólag a szakszerű ellátás mellett folyhat, sosem helyette. Panasz esetén először orvoshoz fordulj, vizsgálatot vagy kezelést soha ne halassz a gyakorlás miatt, gyógyszert kizárólag kezelőorvosoddal egyeztetve módosíts — akkor is, ha jobban érzed magad. Más emberen soha ne dolgozz a képzeleteddel, és beteg embert soha ne terhelj a módszer hirdetésével vagy bűntudatkeltéssel.",
-        "en": "Not medical treatment and not a diagnosis; practice may proceed only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, and change medication only in agreement with your treating physician — even when you feel better. Never work on another person with your imagination, and never burden a sick person with preaching the method or with guilt."
+        "en": "Not medical treatment and not a diagnosis; practice may proceed only alongside professional care, never instead of it. See a doctor first about any complaint, never delay an examination or treatment for the sake of practice, and change medication only in agreement with your treating physician — even when you feel better. Never work on another person with your imagination, and never burden a sick person with preaching the method or with guilt.",
+        "ro": "Nu e tratament medical și nu e diagnostic; practica poate merge doar alături de îngrijirea profesionistă, niciodată în locul ei. Pentru orice suferință mergi întâi la medic, nu amâna niciodată o investigație sau un tratament de dragul practicii și schimbă medicația doar în acord cu medicul care te tratează — chiar și atunci când te simți mai bine. Nu lucra niciodată cu imaginația ta asupra altei persoane și nu împovăra niciodată un om bolnav cu predici despre metodă sau cu vinovăție."
       },
       "sorszam": 9
     }

@@ -3,7 +3,8 @@
   "id": "practice-pack-psychometry-craft",
   "nevek": {
     "hu": "Pszichometria — tárgyolvasás — gyakorlatok",
-    "en": "Psychometry — Object Reading — practices"
+    "en": "Psychometry — Object Reading — practices",
+    "ro": "Psihometrie — Citirea obiectelor — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,37 +16,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Érzéki leltár — a tárgy csukott szemmel",
-        "en": "Sensory inventory — the object with closed eyes"
+        "en": "Sensory inventory — the object with closed eyes",
+        "ro": "Inventar senzorial — obiectul cu ochii închiși"
       },
       "cel": {
         "hu": "A hétköznapi érzékelés kiélesítése tárgyakon: súly, hő, felület, szag tudatos leltára — a becsületes alap, amelyre minden későbbi olvasás épül.",
-        "en": "Sharpening ordinary perception on objects: a conscious inventory of weight, temperature, surface and smell — the honest base every later reading builds on."
+        "en": "Sharpening ordinary perception on objects: a conscious inventory of weight, temperature, surface and smell — the honest base every later reading builds on.",
+        "ro": "Ascuțirea percepției obișnuite pe obiecte: un inventar conștient al greutății, temperaturii, suprafeței și mirosului — temelia cinstită pe care se clădește orice citire de mai târziu."
       },
       "modszer": [
         {
           "hu": "Gyűjts össze három-négy különböző anyagú tárgyat — fém, fa, kő, textil —, és ülj le velük nyugodt helyen.",
-          "en": "Gather three or four objects of different materials — metal, wood, stone, fabric — and sit down with them in a quiet place."
+          "en": "Gather three or four objects of different materials — metal, wood, stone, fabric — and sit down with them in a quiet place.",
+          "ro": "Adună trei-patru obiecte din materiale diferite — metal, lemn, piatră, țesătură — și așază-te cu ele într-un loc liniștit."
         },
         {
           "hu": "Csukott szemmel vedd kézbe az elsőt, és járd végig lassan: súly, hőmérséklet, felület, élek, kopások.",
-          "en": "With closed eyes take the first in hand and walk through it slowly: weight, temperature, surface, edges, wear."
+          "en": "With closed eyes take the first in hand and walk through it slowly: weight, temperature, surface, edges, wear.",
+          "ro": "Cu ochii închiși ia-l pe primul în mână și străbate-l încet: greutate, temperatură, suprafață, muchii, urme de uzură."
         },
         {
           "hu": "Emeld az orrodhoz, és jegyezd a szagát is — a legtöbb tárgynak van, csak sosem figyeltél rá.",
-          "en": "Raise it to your nose and note its smell too — most objects have one, you have just never attended to it."
+          "en": "Raise it to your nose and note its smell too — most objects have one, you have just never attended to it.",
+          "ro": "Ridică-l la nas și notează-i și mirosul — cele mai multe obiecte au unul, doar că n-ai fost niciodată atent la el."
         },
         {
           "hu": "Tedd le, nyisd ki a szemed, és írj minden csatornáról egy-két szót a naplóba.",
-          "en": "Put it down, open your eyes, and write one or two words per channel into the diary."
+          "en": "Put it down, open your eyes, and write one or two words per channel into the diary.",
+          "ro": "Pune-l jos, deschide ochii și scrie în jurnal unul-două cuvinte despre fiecare canal."
         },
         {
           "hu": "Ismételd a többi tárggyal, majd zárásként hasonlítsd össze: melyik csatornád a legélesebb, melyik a leghomályosabb?",
-          "en": "Repeat with the other objects, then close by comparing: which of your channels is sharpest, which the dimmest?"
+          "en": "Repeat with the other objects, then close by comparing: which of your channels is sharpest, which the dimmest?",
+          "ro": "Repetă cu celelalte obiecte, apoi încheie comparând: care dintre canalele tale e cel mai ascuțit, care cel mai tulbure?"
         }
       ],
       "keret": {
         "hu": "Itt még semmi rendkívüli nem történik — és pontosan ez a lényeg. A tárgy valós jeleinek pontos érzékelése önértékű megfigyelői készség, és nélküle a későbbi benyomás-munka levegőben lógna.",
-        "en": "Nothing extraordinary happens here yet — and that is exactly the point. Precise perception of an object's real signals is an observer's skill of inherent worth, and without it the later impression work would hang in the air."
+        "en": "Nothing extraordinary happens here yet — and that is exactly the point. Precise perception of an object's real signals is an observer's skill of inherent worth, and without it the later impression work would hang in the air.",
+        "ro": "Aici nu se întâmplă încă nimic extraordinar — și tocmai asta e ideea. Percepția precisă a semnalelor reale ale unui obiect e o pricepere de observator cu valoare în sine, iar fără ea lucrul de mai târziu cu impresiile ar atârna în aer."
       },
       "sorszam": 1
     },
@@ -57,37 +66,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Nyers benyomások — megnevezés nélkül",
-        "en": "Raw impressions — without naming"
+        "en": "Raw impressions — without naming",
+        "ro": "Impresii brute — fără numire"
       },
       "cel": {
         "hu": "A benyomás-csatornák megnyitása egy saját tárgyon: kép, hang, hő, íz, szag, érzelem és testérzet fogadása úgy, hogy egyiket sem címkézed tárggyá vagy történetté.",
-        "en": "Opening the impression channels on an object of your own: receiving image, sound, temperature, taste, smell, emotion and body sense without labelling any of them into an object or a story."
+        "en": "Opening the impression channels on an object of your own: receiving image, sound, temperature, taste, smell, emotion and body sense without labelling any of them into an object or a story.",
+        "ro": "Deschiderea canalelor de impresie pe un obiect al tău: să primești imagine, sunet, temperatură, gust, miros, emoție și senzație trupească fără să etichetezi vreuna dintre ele ca obiect sau ca poveste."
       },
       "modszer": [
         {
           "hu": "Válassz egy saját tárgyat, ülj le vele nyugodt helyen, és hunyd le a szemed.",
-          "en": "Choose an object of your own, sit down with it in a quiet place, and close your eyes."
+          "en": "Choose an object of your own, sit down with it in a quiet place, and close your eyes.",
+          "ro": "Alege un obiect al tău, așază-te cu el într-un loc liniștit și închide ochii."
         },
         {
           "hu": "Tartsd lazán a kezedben, és várj — ne kergess semmit, csak fogadd, ami érkezik.",
-          "en": "Hold it loosely in your hand and wait — chase nothing, only receive what arrives."
+          "en": "Hold it loosely in your hand and wait — chase nothing, only receive what arrives.",
+          "ro": "Ține-l lejer în mână și așteaptă — nu vâna nimic, doar primește ce vine."
         },
         {
           "hu": "Minden benyomást egy-két szóval jegyezz le, időrendben: szín, hangfoszlány, hőérzet, halvány íz, érzelem, testérzet.",
-          "en": "Note every impression in one or two words, in order: a colour, a scrap of sound, a temperature, a faint taste, an emotion, a body sense."
+          "en": "Note every impression in one or two words, in order: a colour, a scrap of sound, a temperature, a faint taste, an emotion, a body sense.",
+          "ro": "Notează fiecare impresie în unul-două cuvinte, în ordine: o culoare, un crâmpei de sunet, o temperatură, un gust slab, o emoție, o senzație trupească."
         },
         {
           "hu": "Ha kész történet vagy tárgynév ugrik be, ne kövesd — jegyezd egy szóval, és térj vissza a nyershez.",
-          "en": "If a finished story or an object name pops up, do not follow it — note it in one word and return to the raw."
+          "en": "If a finished story or an object name pops up, do not follow it — note it in one word and return to the raw.",
+          "ro": "Dacă apare o poveste gata făcută sau numele unui obiect, nu o urma — notează-o într-un cuvânt și întoarce-te la brut."
         },
         {
           "hu": "Öt-tíz perc után zárd le az ülést, és olvasd vissza a listád: nyersanyagot gyűjtöttél, nem mesét.",
-          "en": "After five to ten minutes close the sitting and read back your list: you have gathered raw material, not a tale."
+          "en": "After five to ten minutes close the sitting and read back your list: you have gathered raw material, not a tale.",
+          "ro": "După cinci-zece minute încheie ședința și recitește-ți lista: ai adunat material brut, nu o poveste."
         }
       ],
       "keret": {
         "hu": "Hogy a benyomások a tárgy „lenyomatából” érkeznének, a hagyomány saját modellje — mi feljegyezzük őket, forrásmegjelölés nélkül. A mérce itt egyszerű: elevenebb és fegyelmezettebb lesz-e a figyelmed ülésről ülésre.",
-        "en": "That the impressions would arrive from the object's 'imprint' is the tradition's own model — we record them without assigning a source. The measure here is simple: does your attention grow more vivid and more disciplined from sitting to sitting."
+        "en": "That the impressions would arrive from the object's 'imprint' is the tradition's own model — we record them without assigning a source. The measure here is simple: does your attention grow more vivid and more disciplined from sitting to sitting.",
+        "ro": "Că impresiile ar veni din „amprenta” obiectului e modelul propriu al tradiției — noi le consemnăm fără să le atribuim o sursă. Măsura de aici e simplă: dacă atenția ta devine mai vie și mai disciplinată de la o ședință la alta."
       },
       "sorszam": 2
     },
@@ -99,37 +116,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "AOL-fegyelem — a címke megnevezése",
-        "en": "AOL discipline — naming the label"
+        "en": "AOL discipline — naming the label",
+        "ro": "Disciplina AOL — numirea etichetei"
       },
       "cel": {
         "hu": "A megnevezés csapdájának begyakorolt kezelése: a felbukkanó címkét és történet-kezdeményt „AOL:” jelöléssel a papírra tenni, majd egy lélegzettel visszatérni a nyers csatornákhoz.",
-        "en": "Trained handling of the naming trap: putting each surfacing label and story-seed on paper with the 'AOL:' mark, then returning to the raw channels with one breath."
+        "en": "Trained handling of the naming trap: putting each surfacing label and story-seed on paper with the 'AOL:' mark, then returning to the raw channels with one breath.",
+        "ro": "Mânuirea exersată a capcanei numirii: să pui pe hârtie fiecare etichetă și sămânță de poveste care se ivește, cu marcajul „AOL:”, apoi să te întorci la canalele brute cu o singură respirație."
       },
       "modszer": [
         {
           "hu": "Kezdj egy szokásos nyers-benyomás ülést egy tárggyal, papírral és tollal.",
-          "en": "Begin an ordinary raw-impression sitting with an object, paper and pen."
+          "en": "Begin an ordinary raw-impression sitting with an object, paper and pen.",
+          "ro": "Începe o ședință obișnuită de impresii brute, cu un obiect, hârtie și pix."
         },
         {
           "hu": "Ezen az ülésen kifejezetten vadászd a címkéket: amint tárgynév, személy vagy történet jelenik meg, ismerd fel a kerekségéről.",
-          "en": "In this sitting, deliberately hunt the labels: the moment an object name, a person or a story appears, recognise it by its roundness."
+          "en": "In this sitting, deliberately hunt the labels: the moment an object name, a person or a story appears, recognise it by its roundness.",
+          "ro": "În această ședință vânează anume etichetele: în clipa în care apare numele unui obiect, o persoană sau o poveste, recunoaște-o după rotunjimea ei."
         },
         {
           "hu": "Írd a papírra: „AOL:” és a címke egy-két szava — se el ne fojtsd, se ne kövesd.",
-          "en": "Write on the paper: 'AOL:' and one or two words of the label — neither suppress it nor follow it."
+          "en": "Write on the paper: 'AOL:' and one or two words of the label — neither suppress it nor follow it.",
+          "ro": "Scrie pe hârtie: „AOL:” și unul-două cuvinte din etichetă — nici n-o înăbuși, nici n-o urma."
         },
         {
           "hu": "Végy egy lassú lélegzetet, és kérdezd újra a nyers csatornákat: milyen szín, milyen hő, milyen érzelem?",
-          "en": "Take one slow breath and ask the raw channels again: what colour, what temperature, what emotion?"
+          "en": "Take one slow breath and ask the raw channels again: what colour, what temperature, what emotion?",
+          "ro": "Trage o singură respirație lentă și întreabă din nou canalele brute: ce culoare, ce temperatură, ce emoție?"
         },
         {
           "hu": "Az ülés végén számold meg az AOL-jelöléseket — a szám csökkenése hétről hétre a fejlődésed egyik legtisztább mércéje.",
-          "en": "At the end of the sitting count the AOL marks — their decline week by week is one of the cleanest measures of your progress."
+          "en": "At the end of the sitting count the AOL marks — their decline week by week is one of the cleanest measures of your progress.",
+          "ro": "La sfârșitul ședinței numără marcajele AOL — scăderea lor de la o săptămână la alta e una dintre cele mai curate măsuri ale progresului tău."
         }
       ],
       "keret": {
         "hu": "Az AOL-fegyelem a távolbalátás módszertanából érkezik — a szabaddá tett Stargate-jegyzőkönyvek visszatérő fogása —, és minden benyomás-munkában ugyanúgy véd: a megnevezett vendég nem veszi át a házat.",
-        "en": "AOL discipline comes from remote-viewing methodology — a recurring device of the declassified Stargate protocols — and it protects all impression work the same way: a guest called by name does not take over the house."
+        "en": "AOL discipline comes from remote-viewing methodology — a recurring device of the declassified Stargate protocols — and it protects all impression work the same way: a guest called by name does not take over the house.",
+        "ro": "Disciplina AOL vine din metodologia remote viewing — un instrument recurent al protocoalelor Stargate declasificate — și apără la fel orice lucru cu impresii: un oaspete chemat pe nume nu pune stăpânire pe casă."
       },
       "sorszam": 3
     },
@@ -141,37 +166,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "A teljes jegyzőkönyv — fejléctől az állításokig",
-        "en": "The full protocol — from header to claims"
+        "en": "The full protocol — from header to claims",
+        "ro": "Protocolul complet — de la antet la afirmații"
       },
       "cel": {
         "hu": "A teljes jegyzőkönyv-szerkezet begyakorlása egyetlen ülésben: fejléc, időrendi benyomások, AOL-jelölések, majd — még minden visszajelzés előtt — konkrét, ellenőrizhető állítások rögzítése.",
-        "en": "Practising the complete protocol structure in a single sitting: header, chronological impressions, AOL marks, then — before any feedback — recording concrete, verifiable claims."
+        "en": "Practising the complete protocol structure in a single sitting: header, chronological impressions, AOL marks, then — before any feedback — recording concrete, verifiable claims.",
+        "ro": "Exersarea structurii complete a protocolului într-o singură ședință: antet, impresii în ordine cronologică, marcaje AOL, apoi — înainte de orice feedback — consemnarea unor afirmații concrete, verificabile."
       },
       "modszer": [
         {
           "hu": "Nyisd meg a jegyzőkönyvet: dátum, időpont, tárgykód (sosem a tárgy neve), állapotod egy szóban.",
-          "en": "Open the protocol: date, time, object code (never the object's name), your state in one word."
+          "en": "Open the protocol: date, time, object code (never the object's name), your state in one word.",
+          "ro": "Deschide protocolul: data, ora, codul obiectului (niciodată numele obiectului), starea ta într-un cuvânt."
         },
         {
           "hu": "Vezesd az ülést a tanult módon: nyers benyomások időrendben, AOL-jelölések a helyükön.",
-          "en": "Run the sitting as learned: raw impressions in order, AOL marks in place."
+          "en": "Run the sitting as learned: raw impressions in order, AOL marks in place.",
+          "ro": "Desfășoară ședința așa cum ai învățat: impresii brute în ordine, marcaje AOL la locul lor."
         },
         {
           "hu": "Az ülés végén válaszd ki azokat a benyomásokat, amelyekből konkrét, ellenőrizhető állítást mersz tenni, és írd le őket számozva.",
-          "en": "At the end of the sitting choose the impressions from which you dare make concrete, verifiable claims, and write them down numbered."
+          "en": "At the end of the sitting choose the impressions from which you dare make concrete, verifiable claims, and write them down numbered.",
+          "ro": "La sfârșitul ședinței alege impresiile din care îndrăznești să faci afirmații concrete, verificabile, și scrie-le numerotat."
         },
         {
           "hu": "Ellenőrizd magad: „vízparthoz kötődik” — ellenőrizhető; „gazdája sokat küzdött” — mindenkire igaz, húzd ki.",
-          "en": "Check yourself: 'tied to a waterside' — verifiable; 'its owner struggled a lot' — true of everyone, strike it."
+          "en": "Check yourself: 'tied to a waterside' — verifiable; 'its owner struggled a lot' — true of everyone, strike it.",
+          "ro": "Verifică-te: „legat de un mal de apă” — verificabil; „stăpânul lui s-a chinuit mult” — adevărat despre oricine, taie-o."
         },
         {
           "hu": "Zárd le az ülést aláírással vagy időponttal — ettől kezdve a jegyzőkönyvhöz utólag hozzáírni nem szabad.",
-          "en": "Seal the sitting with a signature or timestamp — from this point nothing may be added to the protocol after the fact."
+          "en": "Seal the sitting with a signature or timestamp — from this point nothing may be added to the protocol after the fact.",
+          "ro": "Sigilează ședința cu o semnătură sau cu ora exactă — din acest punct nu se mai poate adăuga nimic la protocol după fapt."
         }
       ],
       "keret": {
         "hu": "A jegyzőkönyv nem a gyakorlat kerete, hanem a gyakorlat maga: a szubjektív validáció — hogy a homályos állítás utólag találatnak érződik — csak az előre rögzített, konkrét állítással szemben tehetetlen.",
-        "en": "The protocol is not the frame of the practice, it is the practice: subjective validation — a vague claim feeling like a hit in hindsight — is powerless only against the pre-registered, concrete claim."
+        "en": "The protocol is not the frame of the practice, it is the practice: subjective validation — a vague claim feeling like a hit in hindsight — is powerless only against the pre-registered, concrete claim.",
+        "ro": "Protocolul nu e rama practicii, el e practica: validarea subiectivă — o afirmație vagă care, privind înapoi, pare o potrivire — e neputincioasă doar în fața afirmației concrete, înregistrate dinainte."
       },
       "sorszam": 4
     },
@@ -183,41 +216,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "Fotóolvasás borítékból — vak célpont",
-        "en": "Photo reading from an envelope — a blind target"
+        "en": "Photo reading from an envelope — a blind target",
+        "ro": "Citirea unei fotografii din plic — o țintă oarbă"
       },
       "cel": {
         "hu": "A teljes protokoll alkalmazása fényképre mint vak célpontra: benyomások gyűjtése lezárt borítékon, előre rögzített állítások, majd nyitás és tételes értékelés.",
-        "en": "Applying the full protocol to a photograph as a blind target: gathering impressions on a sealed envelope, pre-registered claims, then opening and item-by-item evaluation."
+        "en": "Applying the full protocol to a photograph as a blind target: gathering impressions on a sealed envelope, pre-registered claims, then opening and item-by-item evaluation.",
+        "ro": "Aplicarea protocolului complet pe o fotografie ca țintă oarbă: adunarea impresiilor pe un plic sigilat, afirmații înregistrate dinainte, apoi deschiderea și evaluarea punct cu punct."
       },
       "modszer": [
         {
           "hu": "Kérj meg egy segítőt, hogy saját archívumából — az érintettek hozzájárulásával használt — fényképeket tegyen egyforma, lezárt borítékokba, és keverje össze őket.",
-          "en": "Ask a helper to place photographs from their own archive — used with the consent of those pictured — into identical sealed envelopes, and to shuffle them."
+          "en": "Ask a helper to place photographs from their own archive — used with the consent of those pictured — into identical sealed envelopes, and to shuffle them.",
+          "ro": "Roagă un ajutor să pună fotografii din propria arhivă — folosite cu acordul celor din poze — în plicuri sigilate identice și să le amestece."
         },
         {
           "hu": "Húzz egy borítékot, adj neki kódot, és nyisd meg a jegyzőkönyvet.",
-          "en": "Draw one envelope, give it a code, and open the protocol."
+          "en": "Draw one envelope, give it a code, and open the protocol.",
+          "ro": "Trage un plic, dă-i un cod și deschide protocolul."
         },
         {
           "hu": "Tartsd a borítékot a kezedben, és vezesd az ülést: nyers csatornák, AOL-jelölések — a borítékot ki ne nyisd.",
-          "en": "Hold the envelope in your hand and run the sitting: raw channels, AOL marks — do not open the envelope."
+          "en": "Hold the envelope in your hand and run the sitting: raw channels, AOL marks — do not open the envelope.",
+          "ro": "Ține plicul în mână și desfășoară ședința: canale brute, marcaje AOL — nu deschide plicul."
         },
         {
           "hu": "Rögzítsd az ellenőrizhető állításokat, és zárd le a jegyzőkönyvet.",
-          "en": "Record the verifiable claims and seal the protocol."
+          "en": "Record the verifiable claims and seal the protocol.",
+          "ro": "Consemnează afirmațiile verificabile și sigilează protocolul."
         },
         {
           "hu": "Csak ezután nyisd ki a borítékot, és értékelj tételesen: állításonként találat vagy tévesztés — mindkettőt jegyezd.",
-          "en": "Only then open the envelope and evaluate item by item: hit or miss per claim — record both."
+          "en": "Only then open the envelope and evaluate item by item: hit or miss per claim — record both.",
+          "ro": "Abia atunci deschide plicul și evaluează punct cu punct: potrivire sau ratare la fiecare afirmație — consemnează-le pe amândouă."
         }
       ],
       "keret": {
         "hu": "A fotó mint célpont a távolbalátó hagyomány klasszikusa, és a borítékos vak-réteg ingyen adja a fegyelmet: amit nem tudsz, azt az emlékezeted sem súghatja. Kis mintán a kilengés természetes — a mintázat tíz-húsz kör után beszél.",
-        "en": "The photo as target is a classic of the remote-viewing tradition, and the envelope blind layer gives discipline for free: what you do not know, your memory cannot whisper. On a small sample swings are natural — the pattern speaks after ten or twenty rounds."
+        "en": "The photo as target is a classic of the remote-viewing tradition, and the envelope blind layer gives discipline for free: what you do not know, your memory cannot whisper. On a small sample swings are natural — the pattern speaks after ten or twenty rounds.",
+        "ro": "Fotografia ca țintă e un clasic al tradiției remote viewing, iar stratul orb al plicului îți dă disciplină pe gratis: ce nu știi, memoria nu-ți poate șopti. Pe un eșantion mic, oscilațiile sunt firești — tiparul vorbește abia după zece-douăzeci de runde."
       },
       "etika": {
         "hu": "Csak olyan fényképpel dolgozz, amelyet a segítőd jogosan, az érintettek tudtával oszt meg veled. Idegen, nyilvános vagy megrendült helyzetben lévő emberek fotóit ne olvasd — és bűnügyhöz, eltűnt személyhez kapcsolódó képet soha, semmilyen kérésre ne végy kézbe.",
-        "en": "Work only with photographs your helper shares rightfully, with the knowledge of those pictured. Do not read photos of strangers, public figures or people in shaken circumstances — and never, on no request, take in hand an image tied to a crime or a missing person."
+        "en": "Work only with photographs your helper shares rightfully, with the knowledge of those pictured. Do not read photos of strangers, public figures or people in shaken circumstances — and never, on no request, take in hand an image tied to a crime or a missing person.",
+        "ro": "Lucrează numai cu fotografii pe care ajutorul tău le împărtășește pe drept, cu știrea celor din poze. Nu citi fotografii ale unor necunoscuți, ale unor persoane publice sau ale unor oameni aflați în împrejurări zguduite — și niciodată, la nicio rugăminte, nu lua în mână o imagine legată de o crimă sau de o persoană dispărută."
       },
       "sorszam": 5
     },
@@ -229,45 +271,55 @@
       "elem": "Viz",
       "cim": {
         "hu": "Kölcsöntárgy-kör — vak ülés visszajelzéssel",
-        "en": "Borrowed-object round — a blind sitting with feedback"
+        "en": "Borrowed-object round — a blind sitting with feedback",
+        "ro": "Runda cu obiect împrumutat — o ședință oarbă cu feedback"
       },
       "cel": {
         "hu": "A gyakorlás fő formája: ismeretlen történetű kölcsöntárgy olvasása vak-protokollal, majd a tulajdonos tételes visszajelzése alapján a találatok és tévesztések becsületes könyvelése.",
-        "en": "The main form of practice: reading a borrowed object of unknown history under a blind protocol, then honestly booking hits and misses from the owner's item-by-item feedback."
+        "en": "The main form of practice: reading a borrowed object of unknown history under a blind protocol, then honestly booking hits and misses from the owner's item-by-item feedback.",
+        "ro": "Forma principală a practicii: citirea unui obiect împrumutat, cu istorie necunoscută, sub protocol orb, apoi înregistrarea cinstită a potrivirilor și a ratărilor din feedbackul punct cu punct al proprietarului."
       },
       "modszer": [
         {
           "hu": "Kérj ismerőseidtől olyan tárgyakat, amelyek történetét nem ismered — mondd el, hogy gyakorláshoz kellenek, és a végén kérdezni fogsz.",
-          "en": "Ask friends for objects whose history you do not know — explain that they are for practice and that you will ask questions at the end."
+          "en": "Ask friends for objects whose history you do not know — explain that they are for practice and that you will ask questions at the end.",
+          "ro": "Cere-le prietenilor obiecte a căror istorie nu o cunoști — lămurește-i că sunt pentru exercițiu și că la sfârșit le vei pune întrebări."
         },
         {
           "hu": "Tedd a tárgyakat egyforma dobozokba vagy zacskókba, és keverd össze őket segítővel vagy csukott szemmel.",
-          "en": "Place the objects into identical boxes or pouches and shuffle them with a helper or with closed eyes."
+          "en": "Place the objects into identical boxes or pouches and shuffle them with a helper or with closed eyes.",
+          "ro": "Pune obiectele în cutii sau săculeți identici și amestecă-le cu un ajutor sau cu ochii închiși."
         },
         {
           "hu": "Húzz egyet, és vezesd végig a teljes jegyzőkönyvet: fejléc, nyers benyomások, AOL, előre rögzített állítások, lezárás.",
-          "en": "Draw one and run the complete protocol: header, raw impressions, AOL, pre-registered claims, seal."
+          "en": "Draw one and run the complete protocol: header, raw impressions, AOL, pre-registered claims, seal.",
+          "ro": "Trage unul și desfășoară protocolul complet: antet, impresii brute, AOL, afirmații înregistrate dinainte, sigiliu."
         },
         {
           "hu": "A visszajelzésnél a tulajdonos állításonként igazoljon vagy cáfoljon — hangulat-szintű „igen, valami ilyesmi” nem elég.",
-          "en": "At feedback, the owner confirms or refutes claim by claim — a mood-level 'yes, something like that' is not enough."
+          "en": "At feedback, the owner confirms or refutes claim by claim — a mood-level 'yes, something like that' is not enough.",
+          "ro": "La feedback, proprietarul confirmă sau infirmă afirmație cu afirmație — un „da, cam așa ceva” la nivel de simțire generală nu e de ajuns."
         },
         {
           "hu": "Könyveld a naplóban a találatot és a tévesztést is, majd add vissza a tárgyat köszönettel.",
-          "en": "Book both hit and miss in the diary, then return the object with thanks."
+          "en": "Book both hit and miss in the diary, then return the object with thanks.",
+          "ro": "Înregistrează în jurnal și potrivirea, și ratarea, apoi înapoiază obiectul cu mulțumiri."
         },
         {
           "hu": "Hetente olvasd vissza a köröket, és keresd a mintázatot: mely csatornáid pontosak, hol nyílik AOL-kapu?",
-          "en": "Re-read the rounds weekly and look for the pattern: which of your channels run true, where does an AOL gate open?"
+          "en": "Re-read the rounds weekly and look for the pattern: which of your channels run true, where does an AOL gate open?",
+          "ro": "Recitește rundele săptămânal și caută tiparul: care dintre canalele tale merg drept, unde se deschide o poartă de AOL?"
         }
       ],
       "keret": {
         "hu": "A tévesztés ugyanolyan értékes adat, mint a találat — együtt rajzolják ki, mit tud a figyelmed és mit tesz hozzá a képzeleted. A visszajelzés nélküli kör edzésnek jó, mérésnek semmit sem ér.",
-        "en": "A miss is data as valuable as a hit — together they draw what your attention can do and what your imagination adds. A round without feedback is fine as training and worth nothing as measurement."
+        "en": "A miss is data as valuable as a hit — together they draw what your attention can do and what your imagination adds. A round without feedback is fine as training and worth nothing as measurement.",
+        "ro": "O ratare e un dat la fel de valoros ca o potrivire — împreună desenează ce poate atenția ta și ce adaugă imaginația ta. O rundă fără feedback e bună ca antrenament și nu valorează nimic ca măsurătoare."
       },
       "etika": {
         "hu": "Kölcsöntárgyat csak a tulajdonos tudtával és beleegyezésével olvass, és a visszajelzésnél tiszteld a határait: ami magánügy, arra nem kérdezel rá. Élő személy „letapogatása” a tárgyán keresztül, beleegyezés nélkül — tilos.",
-        "en": "Read a borrowed object only with the owner's knowledge and consent, and respect their boundaries at feedback: what is private you do not probe. 'Scanning' a living person through their object, without consent — forbidden."
+        "en": "Read a borrowed object only with the owner's knowledge and consent, and respect their boundaries at feedback: what is private you do not probe. 'Scanning' a living person through their object, without consent — forbidden.",
+        "ro": "Citește un obiect împrumutat numai cu știrea și cu acordul proprietarului și respectă-i limitele la feedback: ce e privat nu iscodești. „Scanarea” unui om viu prin obiectul lui, fără acordul lui — interzisă."
       },
       "sorszam": 6
     },
@@ -279,37 +331,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "A józan szem — kontextus-olvasás külön menetben",
-        "en": "The sober eye — context reading in a separate pass"
+        "en": "The sober eye — context reading in a separate pass",
+        "ro": "Ochiul lucid — citirea contextului într-o trecere separată"
       },
       "cel": {
         "hu": "A két csatorna szétválasztása: előbb tudatos, hétköznapi következtetés a tárgy valós jeleiből — anyag, kopás, stílus, kor —, majd külön menetben nyers benyomások; a kettő összevetése tanítja meg, mit ad az egyik és mit a másik.",
-        "en": "Separating the two channels: first conscious, everyday inference from the object's real signals — material, wear, style, age — then raw impressions in a separate pass; comparing the two teaches what each provides."
+        "en": "Separating the two channels: first conscious, everyday inference from the object's real signals — material, wear, style, age — then raw impressions in a separate pass; comparing the two teaches what each provides.",
+        "ro": "Separarea celor două canale: mai întâi deducția conștientă, de fiecare zi, din semnalele reale ale obiectului — material, uzură, stil, vechime —, apoi impresiile brute într-o trecere separată; compararea celor două te învață ce dă fiecare."
       },
       "modszer": [
         {
           "hu": "Végy egy ismeretlen történetű tárgyat, és nyiss két oszlopot a naplóban: „józan szem” és „nyers benyomás”.",
-          "en": "Take an object of unknown history and open two columns in the diary: 'sober eye' and 'raw impression'."
+          "en": "Take an object of unknown history and open two columns in the diary: 'sober eye' and 'raw impression'.",
+          "ro": "Ia un obiect cu istorie necunoscută și deschide două coloane în jurnal: „ochiul lucid” și „impresie brută”."
         },
         {
           "hu": "Első menet nyitott szemmel: vizsgáld meg tüzetesen, és írd az első oszlopba, mire következtetsz az anyagból, kopásból, stílusból, korból.",
-          "en": "First pass with open eyes: examine it closely and write in the first column what you infer from material, wear, style, age."
+          "en": "First pass with open eyes: examine it closely and write in the first column what you infer from material, wear, style, age.",
+          "ro": "Prima trecere cu ochii deschiși: cercetează-l atent și scrie în prima coloană ce deduci din material, uzură, stil, vechime."
         },
         {
           "hu": "Tarts rövid szünetet, majd második menet csukott szemmel: nyers benyomások a tanult módon, AOL-jelöléssel, a második oszlopba.",
-          "en": "Take a short break, then a second pass with closed eyes: raw impressions as learned, with AOL marks, into the second column."
+          "en": "Take a short break, then a second pass with closed eyes: raw impressions as learned, with AOL marks, into the second column.",
+          "ro": "Ia o pauză scurtă, apoi a doua trecere cu ochii închiși: impresii brute așa cum ai învățat, cu marcaje AOL, în a doua coloană."
         },
         {
           "hu": "Vesd össze a két oszlopot: mely benyomásaid vezethetők vissza a józan szem adataira, és mi az, ami sehonnan sem magyarázható kényelmesen?",
-          "en": "Compare the two columns: which of your impressions trace back to the sober eye's data, and what cannot be comfortably explained from anywhere?"
+          "en": "Compare the two columns: which of your impressions trace back to the sober eye's data, and what cannot be comfortably explained from anywhere?",
+          "ro": "Compară cele două coloane: care dintre impresiile tale se pot urmări înapoi până la datele ochiului lucid, și ce nu se lasă explicat comod de nicăieri?"
         },
         {
           "hu": "A visszajelzésnél értékeld a két oszlopot külön — így látod, melyik csatorna milyen pontos.",
-          "en": "At feedback, evaluate the two columns separately — so you see how accurate each channel is."
+          "en": "At feedback, evaluate the two columns separately — so you see how accurate each channel is.",
+          "ro": "La feedback, evaluează separat cele două coloane — ca să vezi cât de exact e fiecare canal."
         }
       ],
       "keret": {
         "hu": "Ez a gyakorlat a mentalizmus-modul hideg-olvasás pajzsának testvére: aki tudja, mennyit lát a józan szem, az nem tulajdonítja rendkívülinek a hétköznapit — és épp ettől lesz hiteles minden további tapasztalata.",
-        "en": "This practice is sibling to the mentalism module's cold-reading shield: whoever knows how much the sober eye sees does not credit the ordinary as extraordinary — and exactly that makes all their further experience credible."
+        "en": "This practice is sibling to the mentalism module's cold-reading shield: whoever knows how much the sober eye sees does not credit the ordinary as extraordinary — and exactly that makes all their further experience credible.",
+        "ro": "Această practică e sora scutului împotriva cold reading-ului din modulul de mentalism: cine știe cât de mult vede ochiul lucid nu ia obișnuitul drept extraordinar — și tocmai de aceea devine credibilă toată experiența lui de mai departe."
       },
       "sorszam": 7
     },
@@ -321,37 +381,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "Találat-mérleg — a napló számai",
-        "en": "The hit ledger — the diary's numbers"
+        "en": "The hit ledger — the diary's numbers",
+        "ro": "Balanța potrivirilor — cifrele jurnalului"
       },
       "cel": {
         "hu": "A gyakorlás mérhetővé tétele: az előre rögzített állítások találat-arányának vezetése körről körre, és a számok józan, kis mintához illő olvasása.",
-        "en": "Making the practice measurable: keeping the hit rate of pre-registered claims round by round, and reading the numbers soberly, as befits a small sample."
+        "en": "Making the practice measurable: keeping the hit rate of pre-registered claims round by round, and reading the numbers soberly, as befits a small sample.",
+        "ro": "Să faci practica măsurabilă: să ții rundă cu rundă rata de potriviri a afirmațiilor înregistrate dinainte și să citești cifrele lucid, așa cum se cuvine unui eșantion mic."
       },
       "modszer": [
         {
           "hu": "Nyiss a naplóban egy mérleg-oldalt: dátum, tárgykód, rögzített állítások száma, igazolt, cáfolt, eldönthetetlen.",
-          "en": "Open a ledger page in the diary: date, object code, number of registered claims, confirmed, refuted, undecidable."
+          "en": "Open a ledger page in the diary: date, object code, number of registered claims, confirmed, refuted, undecidable.",
+          "ro": "Deschide în jurnal o pagină de balanță: data, codul obiectului, numărul afirmațiilor înregistrate, confirmate, infirmate, nedecidabile."
         },
         {
           "hu": "Minden visszajelzéses kör után vezesd fel a sort — aznap, ne emlékezetből.",
-          "en": "After every feedback round enter the row — that day, not from memory."
+          "en": "After every feedback round enter the row — that day, not from memory.",
+          "ro": "După fiecare rundă de feedback completează rândul — chiar în ziua aceea, nu din memorie."
         },
         {
           "hu": "Az eldönthetetlen állítást ne számold találatnak: az a megfogalmazásod hibája, tanulj belőle a következő körre.",
-          "en": "Do not count an undecidable claim as a hit: it is a fault of your wording — learn from it for the next round."
+          "en": "Do not count an undecidable claim as a hit: it is a fault of your wording — learn from it for the next round.",
+          "ro": "Nu socoti drept potrivire o afirmație nedecidabilă: e un cusur al formulării tale — învață din el pentru runda următoare."
         },
         {
           "hu": "Tíz kör után összesíts, és nézd meg a tévesztéseket is: melyik csatornád, melyik helyzeted termeli őket?",
-          "en": "After ten rounds, total up and look at the misses too: which channel, which situation of yours produces them?"
+          "en": "After ten rounds, total up and look at the misses too: which channel, which situation of yours produces them?",
+          "ro": "După zece runde fă totalul și uită-te și la ratări: care canal, care situație de-a ta le produce?"
         },
         {
           "hu": "Havonta írj egy rövid, őszinte összegzést: mit mutatnak a számok, és mit adott a gyakorlás a számokon túl?",
-          "en": "Monthly, write a short honest summary: what do the numbers show, and what has the practice given beyond the numbers?"
+          "en": "Monthly, write a short honest summary: what do the numbers show, and what has the practice given beyond the numbers?",
+          "ro": "Lunar, scrie un rezumat scurt și cinstit: ce arată cifrele și ce ți-a dat practica dincolo de cifre?"
         }
       ],
       "keret": {
         "hu": "Kis mintán a nagy kilengés a véletlen természetes viselkedése — öt körből semmit sem tudsz meg, ötvenből már látszik valami. A mérés nem a gyakorlat ellensége, hanem a gerince: enélkül a jóindulatú emlékezet írná a történetet.",
-        "en": "On a small sample large swings are chance behaving naturally — five rounds teach you nothing, fifty begin to show something. Measurement is not the practice's enemy but its spine: without it, kindly memory would write the story."
+        "en": "On a small sample large swings are chance behaving naturally — five rounds teach you nothing, fifty begin to show something. Measurement is not the practice's enemy but its spine: without it, kindly memory would write the story.",
+        "ro": "Pe un eșantion mic, oscilațiile mari sunt doar întâmplarea purtându-se firesc — cinci runde nu te învață nimic, cincizeci încep să arate ceva. Măsurătoarea nu e dușmanul practicii, ci șira ei spinării: fără ea, memoria binevoitoare ar scrie povestea."
       },
       "sorszam": 8
     },
@@ -363,41 +431,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "A húszas sorozat — egy ív, egy ítélet",
-        "en": "The series of twenty — one arc, one verdict"
+        "en": "The series of twenty — one arc, one verdict",
+        "ro": "Seria de douăzeci — un arc, un verdict"
       },
       "cel": {
         "hu": "Hosszú, egybefüggő gyakorlási ív: húsz vak-kör több segítővel, egységes protokollal és zárómérleggel — a saját képességed becsületes, elfogulatlan felmérése.",
-        "en": "A long, continuous arc of practice: twenty blind rounds with several helpers, a uniform protocol and a closing ledger — an honest, unbiased survey of your own ability."
+        "en": "A long, continuous arc of practice: twenty blind rounds with several helpers, a uniform protocol and a closing ledger — an honest, unbiased survey of your own ability.",
+        "ro": "Un arc lung și neîntrerupt de practică: douăzeci de runde oarbe cu mai multe ajutoare, cu protocol unitar și cu o balanță de încheiere — o măsurare cinstită și nepărtinitoare a propriei tale capacități."
       },
       "modszer": [
         {
           "hu": "Tervezd meg előre a sorozatot: húsz kör, legalább három segítőtől származó tárgyakkal és fotókkal, heti kettő-három ülés ütemben.",
-          "en": "Plan the series in advance: twenty rounds, with objects and photos from at least three helpers, at a pace of two or three sittings a week."
+          "en": "Plan the series in advance: twenty rounds, with objects and photos from at least three helpers, at a pace of two or three sittings a week.",
+          "ro": "Plănuiește seria dinainte: douăzeci de runde, cu obiecte și fotografii de la cel puțin trei ajutoare, în ritm de două-trei ședințe pe săptămână."
         },
         {
           "hu": "Rögzítsd előre a szabályokat is: egységes jegyzőkönyv, állításonkénti tételes visszajelzés, kihagyott kör nem pótolható utólag válogatással.",
-          "en": "Fix the rules in advance too: a uniform protocol, item-by-item feedback per claim, and a skipped round cannot be replaced by picking afterwards."
+          "en": "Fix the rules in advance too: a uniform protocol, item-by-item feedback per claim, and a skipped round cannot be replaced by picking afterwards.",
+          "ro": "Fixează dinainte și regulile: un protocol unitar, feedback punct cu punct la fiecare afirmație, iar o rundă sărită nu poate fi înlocuită printr-o alegere făcută ulterior."
         },
         {
           "hu": "Vezesd végig a húsz kört a teljes fegyelemmel — akkor is, ha egy-egy ülés üresnek érződik; az üres kör is a sorozat része.",
-          "en": "Carry the twenty rounds through with full discipline — even when a sitting feels empty; the empty round is part of the series too."
+          "en": "Carry the twenty rounds through with full discipline — even when a sitting feels empty; the empty round is part of the series too.",
+          "ro": "Du cele douăzeci de runde până la capăt cu disciplină deplină — chiar și când o ședință pare goală; runda goală face și ea parte din serie."
         },
         {
           "hu": "A sorozat végén készítsd el a zármérleget: állítások, találatok, tévesztések, AOL-számok alakulása az első körtől az utolsóig.",
-          "en": "At the end of the series draw the closing ledger: claims, hits, misses, and how the AOL counts moved from the first round to the last."
+          "en": "At the end of the series draw the closing ledger: claims, hits, misses, and how the AOL counts moved from the first round to the last.",
+          "ro": "La sfârșitul seriei întocmește balanța de încheiere: afirmații, potriviri, ratări și cum s-au mișcat numerele AOL de la prima rundă până la ultima."
         },
         {
           "hu": "Írd meg a saját ítéleted egy oldalban: mit mutatnak a számok, mit adott az ív a figyelmednek — és e kettő alapján hogyan gyakorolsz tovább?",
-          "en": "Write your own verdict in one page: what the numbers show, what the arc gave your attention — and, from both, how you will practise on."
+          "en": "Write your own verdict in one page: what the numbers show, what the arc gave your attention — and, from both, how you will practise on.",
+          "ro": "Scrie-ți propriul verdict într-o pagină: ce arată cifrele, ce a dat arcul atenției tale — și, din amândouă, cum vei practica mai departe."
         }
       ],
       "keret": {
         "hu": "A hosszú sorozat az egyetlen, ami a szerencsés hetek és a csüggedt hetek fölé emel: egyetlen ív, előre rögzített szabályokkal, amelynek a végén a saját naplód mondja ki az ítéletet — nem a reményed és nem a kételyed.",
-        "en": "The long series is the only thing that rises above lucky weeks and disheartened weeks: a single arc with rules fixed in advance, at whose end your own diary pronounces the verdict — not your hope and not your doubt."
+        "en": "The long series is the only thing that rises above lucky weeks and disheartened weeks: a single arc with rules fixed in advance, at whose end your own diary pronounces the verdict — not your hope and not your doubt.",
+        "ro": "Seria lungă e singurul lucru care se ridică deasupra săptămânilor norocoase și a săptămânilor descurajate: un singur arc, cu reguli fixate dinainte, la capătul căruia propriul tău jurnal rostește verdictul — nu speranța ta și nu îndoiala ta."
       },
       "etika": {
         "hu": "A házvonal a sorozatban is áll: bűnügy, eltűnt személy, tragédia tárgyát vagy fotóját ne fogadd el, bármilyen bizalommal kérnék. A mérleged rólad szól — döntést, diagnózist, ítéletet másokról ne alapozz rá, és akut élethelyzetben szakemberhez fordulj, ne a tárgyakhoz.",
-        "en": "The house line stands within the series too: accept no object or photo tied to a crime, a missing person or a tragedy, with whatever trust it is asked. Your ledger is about you — base no decision, diagnosis or judgement of others on it, and in an acute life situation turn to a professional, not to objects."
+        "en": "The house line stands within the series too: accept no object or photo tied to a crime, a missing person or a tragedy, with whatever trust it is asked. Your ledger is about you — base no decision, diagnosis or judgement of others on it, and in an acute life situation turn to a professional, not to objects.",
+        "ro": "Linia casei stă în picioare și înăuntrul seriei: nu accepta niciun obiect și nicio fotografie legată de o crimă, de o persoană dispărută sau de o tragedie, oricâtă încredere ți s-ar arăta când ți se cere. Balanța ta e despre tine — nu întemeia pe ea nicio decizie, niciun diagnostic și nicio judecată despre alții, iar într-o situație de viață acută întoarce-te către un profesionist, nu către obiecte."
       },
       "sorszam": 9
     }

@@ -3,7 +3,8 @@
   "id": "practice-pack-telekinesis",
   "nevek": {
     "hu": "Telekinézis — a Kinesis-ösvény",
-    "en": "Telekinesis — the Kinesis path"
+    "en": "Telekinesis — the Kinesis path",
+    "ro": "Telekinezie — calea Kinesis"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -12,37 +13,45 @@
       "sik": "szellem",
       "cim": {
         "hu": "Koncentráció a légzés horgonyán",
-        "en": "Concentration on the anchor of breath"
+        "en": "Concentration on the anchor of breath",
+        "ro": "Concentrare pe ancora respirației"
       },
       "cel": {
         "hu": "Stabil, ellazult figyelem építése, amely nem feszül, hanem nyugodtan kitart.",
-        "en": "Build steady, relaxed attention that does not strain but calmly endures."
+        "en": "Build steady, relaxed attention that does not strain but calmly endures.",
+        "ro": "Să construiești o atenție stabilă și relaxată, care nu se încordează, ci rezistă calm."
       },
       "modszer": [
         {
           "hu": "Ülj csendben, és tereld a teljes figyelmed a be- és kilégzésre; ne szabályozd, csak figyeld.",
-          "en": "Sit quietly and bring full attention to the in- and out-breath; do not control it, only observe."
+          "en": "Sit quietly and bring full attention to the in- and out-breath; do not control it, only observe.",
+          "ro": "Stai în liniște și adu-ți toată atenția la inspirație și la expirație; nu o controla, doar observ-o."
         },
         {
           "hu": "Valahányszor elkalandozik az elméd, ítélkezés nélkül, gyengéden hozd vissza a lélegzethez.",
-          "en": "Each time the mind wanders, gently return it to the breath without judgement."
+          "en": "Each time the mind wanders, gently return it to the breath without judgement.",
+          "ro": "De fiecare dată când mintea rătăcește, adu-o blând înapoi la respirație, fără să judeci."
         },
         {
           "hu": "Adj a figyelemnek egy halk belső szót — például most vagy csend —, és a légzés ütemére ismételd.",
-          "en": "Give attention a soft inner word — such as now or calm — repeated in rhythm with the breath."
+          "en": "Give attention a soft inner word — such as now or calm — repeated in rhythm with the breath.",
+          "ro": "Dă-i atenției un cuvânt lăuntric blând — de pildă acum sau calm — și repetă-l în ritmul respirației."
         },
         {
           "hu": "Kitartás-edzésként számolj visszafelé százról; ha elveszíted a fonalat, kezdd elölről, nyugodtan.",
-          "en": "As an endurance drill count backwards from a hundred; if you lose track, calmly start again."
+          "en": "As an endurance drill count backwards from a hundred; if you lose track, calmly start again.",
+          "ro": "Ca exercițiu de rezistență, numără invers de la o sută; dacă pierzi șirul, ia-o calm de la capăt."
         },
         {
           "hu": "Napi tíz percet szánj rá, és a nap közben is figyelj jelenléttel egy-egy hétköznapi mozdulatra.",
-          "en": "Give it ten minutes a day, and during the day also attend with presence to ordinary actions."
+          "en": "Give it ten minutes a day, and during the day also attend with presence to ordinary actions.",
+          "ro": "Rezervă-i zece minute pe zi, iar peste zi însoțește cu prezență și gesturile obișnuite."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez a nyugodt figyelem meditatív alapgyakorlat, nem varázslat. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This calm attention is a meditative foundation, not magic. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This calm attention is a meditative foundation, not magic. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Această atenție calmă este un exercițiu meditativ de bază, nu magie. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 1,
       "mester": "Telekinézis",
@@ -53,37 +62,45 @@
       "sik": "szellem",
       "cim": {
         "hu": "Lángnézés — a nyugvó tekintet edzése",
-        "en": "Flame-gazing — training the resting gaze"
+        "en": "Flame-gazing — training the resting gaze",
+        "ro": "Privirea flăcării — antrenarea privirii care se odihnește"
       },
       "cel": {
         "hu": "A tekintet és az elme mozdulatlanságát erősíteni egyetlen fénypontra irányítva.",
-        "en": "Strengthen stillness of gaze and mind by resting on a single point of light."
+        "en": "Strengthen stillness of gaze and mind by resting on a single point of light.",
+        "ro": "Să întărești liniștea privirii și a minții odihnindu-te pe un singur punct de lumină."
       },
       "modszer": [
         {
           "hu": "Helyezz egy gyertyát szemmagasságba, biztonságos, huzatmentes helyre, és gyújtsd meg.",
-          "en": "Place a candle at eye level in a safe, draught-free spot, and light it."
+          "en": "Place a candle at eye level in a safe, draught-free spot, and light it.",
+          "ro": "Așază o lumânare la nivelul ochilor, într-un loc sigur și ferit de curent, și aprinde-o."
         },
         {
           "hu": "Nézd a lángot pislogás nélkül, ameddig kényelmes; hagyd, hogy a figyelmed a fénybe olvadjon.",
-          "en": "Watch the flame without blinking as long as is comfortable; let attention melt into the light."
+          "en": "Watch the flame without blinking as long as is comfortable; let attention melt into the light.",
+          "ro": "Privește flacăra fără să clipești atât cât îți este comod; lasă atenția să se topească în lumină."
         },
         {
           "hu": "Amikor a szemed könnyezni kezd, hunyd le, és idézd fel belül a láng utóképét.",
-          "en": "When the eyes water, close them and recall the flame’s afterimage within."
+          "en": "When the eyes water, close them and recall the flame’s afterimage within.",
+          "ro": "Când ochii încep să lăcrimeze, închide-i și recheamă înăuntru imaginea rămasă a flăcării."
         },
         {
           "hu": "Ismételd néhány cikluson át, majd fújd el a lángot, és zárd le a gyakorlatot csendben.",
-          "en": "Repeat for a few cycles, then blow the flame out and close the practice in silence."
+          "en": "Repeat for a few cycles, then blow the flame out and close the practice in silence.",
+          "ro": "Repetă câteva cicluri, apoi stinge flacăra și încheie practica în tăcere."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A gyertya itt csak figyelem-horgony; nem a tűz meggyújtásáról vagy irányításáról szól. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The candle here is only a focus-anchor; it is not about lighting or steering fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The candle here is only a focus-anchor; it is not about lighting or steering fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Lumânarea este aici doar o ancoră pentru atenție; nu e vorba despre aprinderea sau dirijarea focului. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Tűzbiztonság: soha ne hagyd őrizetlenül a lángot, tarts távol minden gyúlékony anyagot, legyen kéznél víz, és jól szellőző helyen dolgozz.",
-        "en": "Fire safety: never leave the flame unattended, keep all flammables away, keep water at hand, and work in a well-ventilated place."
+        "en": "Fire safety: never leave the flame unattended, keep all flammables away, keep water at hand, and work in a well-ventilated place.",
+        "ro": "Siguranța la foc: nu lăsa niciodată flacăra nesupravegheată, ține departe tot ce este inflamabil, păstrează apă la îndemână și lucrează într-un loc bine aerisit."
       },
       "sorszam": 2,
       "mester": "Telekinézis",
@@ -94,33 +111,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Belső látás — tárgy és többérzék felidézése",
-        "en": "Inner sight — object and multisensory recall"
+        "en": "Inner sight — object and multisensory recall",
+        "ro": "Vederea lăuntrică — rechemarea obiectului cu toate simțurile"
       },
       "cel": {
         "hu": "Élénk, részletgazdag belső képet építeni, amely stabilan megmarad.",
-        "en": "Build a vivid, detailed inner image that stays stable."
+        "en": "Build a vivid, detailed inner image that stays stable.",
+        "ro": "Să construiești o imagine lăuntrică vie și detaliată, care rămâne stabilă."
       },
       "modszer": [
         {
           "hu": "Válassz egy egyszerű tárgyat — tollat, kulcsot, kavicsot —, és nézd egy percig figyelmesen.",
-          "en": "Choose a simple object — a feather, key or pebble — and study it for a minute."
+          "en": "Choose a simple object — a feather, key or pebble — and study it for a minute.",
+          "ro": "Alege un obiect simplu — o pană, o cheie sau o pietricică — și studiază-l un minut."
         },
         {
           "hu": "Hunyd le a szemed, és idézd fel minden szögből: formáját, súlyát, színét, felületét.",
-          "en": "Close your eyes and recall it from every angle: shape, weight, colour, texture."
+          "en": "Close your eyes and recall it from every angle: shape, weight, colour, texture.",
+          "ro": "Închide ochii și recheamă-l din toate unghiurile: formă, greutate, culoare, textură."
         },
         {
           "hu": "Vond be az összes érzéket — például egy citrom hűvös héját, illatát, savas ízét képzeld el.",
-          "en": "Engage every sense — imagine, say, a lemon’s cool skin, its scent, its sour taste."
+          "en": "Engage every sense — imagine, say, a lemon’s cool skin, its scent, its sour taste.",
+          "ro": "Pune la lucru toate simțurile — imaginează-ți, de pildă, coaja rece a unei lămâi, mirosul ei, gustul acru."
         },
         {
           "hu": "Ha a kép elhalványul, nyisd ki a szemed, frissítsd, majd folytasd; naponta gyakorold.",
-          "en": "If the image fades, open your eyes, refresh it, then continue; practise daily."
+          "en": "If the image fades, open your eyes, refresh it, then continue; practise daily.",
+          "ro": "Dacă imaginea se estompează, deschide ochii, împrospăteaz-o, apoi continuă; exersează zilnic."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A képzelet itt belső edzőterep, nem a valóság feletti hatalom. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Imagination here is an inner training ground, not power over reality. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Imagination here is an inner training ground, not power over reality. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Imaginația este aici un teren lăuntric de antrenament, nu putere asupra realității. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 3,
       "mester": "Telekinézis",
@@ -131,33 +155,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Formaformálás, fényjáték és mentális kivetítés",
-        "en": "Shape-shaping, light-play and mental projection"
+        "en": "Shape-shaping, light-play and mental projection",
+        "ro": "Modelarea formelor, jocul de lumină și proiecția mentală"
       },
       "cel": {
         "hu": "Rugalmasan tartani és átalakítani a belső képeket, hogy az energia áramlását könnyen elképzeld.",
-        "en": "Hold and transform inner images fluidly, so energy flow becomes easy to picture."
+        "en": "Hold and transform inner images fluidly, so energy flow becomes easy to picture.",
+        "ro": "Să ții și să transformi fluid imagini lăuntrice, astfel încât curgerea energiei să fie ușor de închipuit."
       },
       "modszer": [
         {
           "hu": "Képzelj el egy kockát, majd formáld gömbbé, gúlává, csővé; olvaszd, majd fagyaszd újra.",
-          "en": "Picture a cube, then morph it to a sphere, pyramid, tube; melt it, then freeze it again."
+          "en": "Picture a cube, then morph it to a sphere, pyramid, tube; melt it, then freeze it again.",
+          "ro": "Închipuie-ți un cub, apoi transformă-l în sferă, piramidă, tub; topește-l, apoi îngheață-l la loc."
         },
         {
           "hu": "Idézz fel egy fénygömböt a tenyered között; váltogasd a színét, lüktetését, méretét.",
-          "en": "Recall a ball of light between your palms; vary its colour, pulse and size."
+          "en": "Recall a ball of light between your palms; vary its colour, pulse and size.",
+          "ro": "Recheamă o sferă de lumină între palme; variază-i culoarea, pulsul și mărimea."
         },
         {
           "hu": "Válassz egy valós tárgyat a szobában, és a képzeletedben lásd, ahogy megrezdül vagy fordul.",
-          "en": "Choose a real object in the room and, in imagination, see it quiver or turn."
+          "en": "Choose a real object in the room and, in imagination, see it quiver or turn.",
+          "ro": "Alege un obiect real din încăpere și, în imaginație, vezi-l tremurând sau rotindu-se."
         },
         {
           "hu": "Ne erőltess semmit; csak megfigyelőként engedd, hogy a belső mozdulat élénk és tiszta legyen.",
-          "en": "Force nothing; as an observer simply let the inner motion be vivid and clear."
+          "en": "Force nothing; as an observer simply let the inner motion be vivid and clear.",
+          "ro": "Nu forța nimic; ca observator, lasă pur și simplu mișcarea lăuntrică să fie vie și limpede."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez mentális próba: a képzeletben történik, nem a tárgy fizikai mozgatásának ígérete. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a mental rehearsal: it happens in imagination, not a promise to move the object. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a mental rehearsal: it happens in imagination, not a promise to move the object. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este o repetiție mentală: se petrece în imaginație, nu este o promisiune că obiectul se va mișca. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 4,
       "mester": "Telekinézis",
@@ -168,33 +199,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Mély belső csend",
-        "en": "Deep inner silence"
+        "en": "Deep inner silence",
+        "ro": "Tăcerea lăuntrică adâncă"
       },
       "cel": {
         "hu": "Eljutni a szavak nélküli, tiszta jelenlét állapotába, ahol az elme csendes tóként nyugszik.",
-        "en": "Reach wordless, clear presence where the mind rests like a still lake."
+        "en": "Reach wordless, clear presence where the mind rests like a still lake.",
+        "ro": "Să ajungi la o prezență limpede, fără cuvinte, în care mintea se odihnește ca un lac neclintit."
       },
       "modszer": [
         {
           "hu": "Egyenes gerinccel ülj, csukott szemmel; kövesd a légzést, engedd ellazulni a vállad és állkapcsod.",
-          "en": "Sit with straight spine, eyes closed; follow the breath, let shoulders and jaw soften."
+          "en": "Sit with straight spine, eyes closed; follow the breath, let shoulders and jaw soften.",
+          "ro": "Stai cu șira spinării dreaptă și ochii închiși; urmărește respirația, lasă umerii și maxilarul să se destindă."
         },
         {
           "hu": "Nézd a gondolataidat, ahogy elhaladnak, mint felhők; ne üldözd, ne is harcolj velük.",
-          "en": "Watch thoughts pass like clouds; neither chase nor fight them."
+          "en": "Watch thoughts pass like clouds; neither chase nor fight them.",
+          "ro": "Privește gândurile trecând ca norii; nici nu le urmări, nici nu te lupta cu ele."
         },
         {
           "hu": "Pihentesd a figyelmed egyetlen ponton — halk szón vagy a homlok mögötti fénypontján.",
-          "en": "Rest attention on one point — a soft word or a point of light behind the forehead."
+          "en": "Rest attention on one point — a soft word or a point of light behind the forehead.",
+          "ro": "Odihnește-ți atenția într-un singur punct — un cuvânt blând sau un punct de lumină în spatele frunții."
         },
         {
           "hu": "Végül engedd el a szót, a képet, magát a törekvést is, és maradj a puszta jelenlétben.",
-          "en": "Finally release the word, the image, even the effort itself, and remain in bare presence."
+          "en": "Finally release the word, the image, even the effort itself, and remain in bare presence.",
+          "ro": "La final, lasă cuvântul, lasă imaginea și lasă chiar efortul însuși, și rămâi în prezența goală."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A csend itt önmagában a cél és az út: a belső elcsendesülés gyümölcsét figyeljük. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Silence here is both goal and path: we watch the fruit of inner quieting. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Silence here is both goal and path: we watch the fruit of inner quieting. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Tăcerea este aici deopotrivă țel și cale: urmărim roadele liniștirii lăuntrice. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 5,
       "mester": "Telekinézis",
@@ -205,37 +243,45 @@
       "sik": "lelek",
       "cim": {
         "hu": "Érzelmi tudatosság és energia-egyensúly",
-        "en": "Emotional awareness and energy balance"
+        "en": "Emotional awareness and energy balance",
+        "ro": "Conștiența emoțiilor și echilibrul energetic"
       },
       "cel": {
         "hu": "Megfigyelni és megnevezni az érzelmeket, hogy velük dolgozz, ne ellenük.",
-        "en": "Observe and name emotions so you work with them, not against them."
+        "en": "Observe and name emotions so you work with them, not against them.",
+        "ro": "Să observi și să numești emoțiile, ca să lucrezi cu ele, nu împotriva lor."
       },
       "modszer": [
         {
           "hu": "Napi háromszor — reggel, délben, este — kérdezd meg csendben: most mit érzek valójában?",
-          "en": "Three times a day — morning, noon, night — ask quietly: what am I actually feeling now?"
+          "en": "Three times a day — morning, noon, night — ask quietly: what am I actually feeling now?",
+          "ro": "De trei ori pe zi — dimineața, la prânz, seara — întreabă-te liniștit: ce simt de fapt acum?"
         },
         {
           "hu": "Nevezd meg az érzést ítélkezés nélkül, és figyeld, hol helyezkedik el a testedben.",
-          "en": "Name the feeling without judgement and notice where it sits in the body."
+          "en": "Name the feeling without judgement and notice where it sits in the body.",
+          "ro": "Numește trăirea fără să o judeci și observă unde se așază în corp."
         },
         {
           "hu": "Lélegezz abba a pontba, és minden kilégzésnél képzeld el, hogy az a hely ellágyul.",
-          "en": "Breathe into that spot and, on each out-breath, imagine that place softening."
+          "en": "Breathe into that spot and, on each out-breath, imagine that place softening.",
+          "ro": "Respiră în acel loc și, la fiecare expirație, imaginează-ți cum locul acela se înmoaie."
         },
         {
           "hu": "Zárásként földelj: állj mezítláb, képzelj gyökereket, vagy engedd, hogy a víz lemossa a felesleget.",
-          "en": "Close by grounding: stand barefoot, imagine roots, or let water rinse away the excess."
+          "en": "Close by grounding: stand barefoot, imagine roots, or let water rinse away the excess.",
+          "ro": "Încheie cu împământare: stai desculț, imaginează-ți rădăcini sau lasă apa să spele prisosul."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az érzelmet energiának tekintjük, amelyet megfigyelünk — ez érzelmi önismereti gyakorlat. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Emotion is treated as energy to be observed — this is emotional self-knowledge practice. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Emotion is treated as energy to be observed — this is emotional self-knowledge practice. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Emoția este tratată ca energie de observat — aceasta este o practică de autocunoaștere emoțională. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Nem gyógykezelés és nem pótolja a lelki segítséget; tartós szorongásnál keress szakembert.",
-        "en": "Not medical treatment and no substitute for mental-health support; for lasting anxiety seek a professional."
+        "en": "Not medical treatment and no substitute for mental-health support; for lasting anxiety seek a professional.",
+        "ro": "Nu este tratament medical și nu înlocuiește sprijinul pentru sănătatea mintală; la anxietate de durată, caută un profesionist."
       },
       "sorszam": 6,
       "mester": "Telekinézis",
@@ -246,33 +292,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Hit, megerősítések és belső összhang",
-        "en": "Belief, affirmations and inner alignment"
+        "en": "Belief, affirmations and inner alignment",
+        "ro": "Credință, afirmații și aliniere lăuntrică"
       },
       "cel": {
         "hu": "Feltárni és gyengéden átírni a gátló belső meggyőződéseket, hogy ne fojtsák el a figyelmet.",
-        "en": "Surface and gently rewrite blocking inner beliefs so they do not stifle attention."
+        "en": "Surface and gently rewrite blocking inner beliefs so they do not stifle attention.",
+        "ro": "Să scoți la lumină și să rescrii blând convingerile lăuntrice care te blochează, ca să nu-ți sufoce atenția."
       },
       "modszer": [
         {
           "hu": "Figyeld meg, milyen halk kételkedő mondatok kísérik a gyakorlásod, és írd le őket.",
-          "en": "Notice the quiet doubting sentences that accompany your practice, and write them down."
+          "en": "Notice the quiet doubting sentences that accompany your practice, and write them down.",
+          "ro": "Observă propozițiile șoptite de îndoială care îți însoțesc practica și scrie-le."
         },
         {
           "hu": "Fogalmazz meg néhány rövid, jelen idejű megerősítést — például: az elmém nyugodt és erős.",
-          "en": "Form a few short, present-tense affirmations — for example: my mind is calm and strong."
+          "en": "Form a few short, present-tense affirmations — for example: my mind is calm and strong.",
+          "ro": "Formulează câteva afirmații scurte, la timpul prezent — de pildă: mintea mea este calmă și puternică."
         },
         {
           "hu": "Meditáció közben vagy elalvás előtt ismételd őket, és érezd is a jelentésüket, ne csak mondd.",
-          "en": "Repeat them during meditation or before sleep, and feel their meaning, do not only say it."
+          "en": "Repeat them during meditation or before sleep, and feel their meaning, do not only say it.",
+          "ro": "Repetă-le în meditație sau înainte de somn și simte-le înțelesul, nu doar rosti-l."
         },
         {
           "hu": "Ha visszatér a kétely, ne ítéld el; térj vissza a lélegzethez és a megerősítéshez.",
-          "en": "When doubt returns, do not condemn it; return to the breath and the affirmation."
+          "en": "When doubt returns, do not condemn it; return to the breath and the affirmation.",
+          "ro": "Când îndoiala se întoarce, nu o condamna; întoarce-te la respirație și la afirmație."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A megerősítések a hozzáállást hangolják; a belső összhangot, nem külső eredményt mérjük. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Affirmations tune attitude; we measure inner alignment, not an outer result. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Affirmations tune attitude; we measure inner alignment, not an outer result. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Afirmațiile acordează atitudinea; măsurăm alinierea lăuntrică, nu un rezultat exterior. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 7,
       "mester": "Telekinézis",
@@ -283,33 +336,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Energianapló és tudatosság-követés",
-        "en": "Energy journal and awareness tracking"
+        "en": "Energy journal and awareness tracking",
+        "ro": "Jurnal de energie și urmărirea conștienței"
       },
       "cel": {
         "hu": "Napi feljegyzésekkel feltérképezni az energia, érzelem és figyelem mintázatait.",
-        "en": "Map the patterns of energy, emotion and focus through daily notes."
+        "en": "Map the patterns of energy, emotion and focus through daily notes.",
+        "ro": "Să cartografiezi tiparele energiei, ale emoției și ale atenției prin însemnări zilnice."
       },
       "modszer": [
         {
           "hu": "Minden nap írj néhány őszinte sort: milyen az érzelmi állapotod, a tested, a figyelmed?",
-          "en": "Each day write a few honest lines: how is your emotional state, your body, your focus?"
+          "en": "Each day write a few honest lines: how is your emotional state, your body, your focus?",
+          "ro": "Scrie zilnic câteva rânduri sincere: cum îți este starea emoțională, cum îți este corpul, cum îți este atenția?"
         },
         {
           "hu": "Jegyezd fel, gyakoroltál-e, milyen technikával, és éreztél-e finom jelet — meleget, bizsergést.",
-          "en": "Note whether you practised, with what technique, and any subtle sign — warmth, tingling."
+          "en": "Note whether you practised, with what technique, and any subtle sign — warmth, tingling.",
+          "ro": "Notează dacă ai exersat, cu ce tehnică, și orice semn subtil — căldură, furnicături."
         },
         {
           "hu": "Hetente olvasd vissza a bejegyzéseket, és keresd a visszatérő mintázatokat.",
-          "en": "Read back your entries weekly and look for recurring patterns."
+          "en": "Read back your entries weekly and look for recurring patterns.",
+          "ro": "Recitește-ți însemnările săptămânal și caută tiparele care revin."
         },
         {
           "hu": "Ne írj hosszan; a rendszeresség és az őszinteség fontosabb a mennyiségnél.",
-          "en": "Do not write at length; regularity and honesty matter more than volume."
+          "en": "Do not write at length; regularity and honesty matter more than volume.",
+          "ro": "Nu scrie pe larg; regularitatea și sinceritatea contează mai mult decât cantitatea."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A napló önmegfigyelő tükör; a belső fejlődés követésére szolgál, nem teljesítménymérésre. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The journal is a self-observing mirror; it tracks inner growth, not performance. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The journal is a self-observing mirror; it tracks inner growth, not performance. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Jurnalul este o oglindă de auto-observare; urmărește creșterea lăuntrică, nu performanța. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 8,
       "mester": "Telekinézis",
@@ -320,33 +380,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Energiapajzs és tisztítás",
-        "en": "Energy shield and cleansing"
+        "en": "Energy shield and cleansing",
+        "ro": "Scutul energetic și curățarea"
       },
       "cel": {
         "hu": "Szándékos képzelettel megerősíteni a saját belső határt, és elengedni, ami nem a tiéd.",
-        "en": "Firm your inner boundary through deliberate imagination, and release what is not yours."
+        "en": "Firm your inner boundary through deliberate imagination, and release what is not yours.",
+        "ro": "Să-ți întărești granița lăuntrică printr-o imaginație deliberată și să lași să plece ce nu-ți aparține."
       },
       "modszer": [
         {
           "hu": "Ülj csendben, és képzelj magad köré egy fénylő buborékot; válaszd a színét szabadon.",
-          "en": "Sit quietly and imagine a bubble of light around you; choose its colour freely."
+          "en": "Sit quietly and imagine a bubble of light around you; choose its colour freely.",
+          "ro": "Stai în liniște și imaginează-ți în jurul tău o bulă de lumină; alege-i culoarea liber."
         },
         {
           "hu": "Mondd magadban, hogy csak a jó szándékú, tiszta energia lép be ebbe a térbe.",
-          "en": "Say inwardly that only well-meaning, clear energy may enter this space."
+          "en": "Say inwardly that only well-meaning, clear energy may enter this space.",
+          "ro": "Spune înăuntrul tău că în acest spațiu poate intra doar energie limpede și binevoitoare."
         },
         {
           "hu": "Földelj: képzelj gyökereket a talpadból a földbe, és engedd le a felesleget.",
-          "en": "Ground: imagine roots from your soles into the earth and let excess drain away."
+          "en": "Ground: imagine roots from your soles into the earth and let excess drain away.",
+          "ro": "Împământează-te: imaginează-ți rădăcini care coboară din tălpi în pământ și lasă prisosul să se scurgă."
         },
         {
           "hu": "Tisztíts hanggal, tudatos zuhannyal vagy szellőztetéssel, és zárd le nyugodt légzéssel.",
-          "en": "Cleanse with sound, a conscious shower or airing the room, and close with calm breathing."
+          "en": "Cleanse with sound, a conscious shower or airing the room, and close with calm breathing.",
+          "ro": "Curăță cu sunet, cu un duș făcut conștient sau aerisind încăperea, și încheie cu respirație calmă."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez fókuszált képzelet és határhúzás gyakorlata, nem védekezés valós veszély ellen. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a practice of focused imagination and boundary-setting, not defence against a real threat. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a practice of focused imagination and boundary-setting, not defence against a real threat. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este o practică de imaginație concentrată și de așezare a granițelor, nu o apărare împotriva unei amenințări reale. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 9,
       "mester": "Telekinézis",
@@ -357,33 +424,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "A harmadik szem és a belső érzékelés",
-        "en": "The third eye and inner perception"
+        "en": "The third eye and inner perception",
+        "ro": "Al treilea ochi și percepția lăuntrică"
       },
       "cel": {
         "hu": "Finomítani a szemöldökök közötti figyelmet, és a látáson túli érzékelést gyakorolni.",
-        "en": "Refine attention between the brows and practise perception beyond sight."
+        "en": "Refine attention between the brows and practise perception beyond sight.",
+        "ro": "Să-ți rafinezi atenția dintre sprâncene și să exersezi percepția dincolo de văz."
       },
       "modszer": [
         {
           "hu": "Naponta néhány percig tereld a figyelmed a szemöldökök közé; lélegezz lágyan.",
-          "en": "For a few minutes daily bring attention to the space between the brows; breathe softly."
+          "en": "For a few minutes daily bring attention to the space between the brows; breathe softly.",
+          "ro": "Câteva minute pe zi, adu-ți atenția în spațiul dintre sprâncene; respiră blând."
         },
         {
           "hu": "Képzelj oda mély indigó vagy ibolya fényt, amely tágul és betölti a homlokod.",
-          "en": "Imagine a deep indigo or violet light there, expanding to fill the forehead."
+          "en": "Imagine a deep indigo or violet light there, expanding to fill the forehead.",
+          "ro": "Imaginează-ți acolo o lumină indigo adâncă sau violetă, care se lărgește până umple fruntea."
         },
         {
           "hu": "Tompa fényben nézz nyugodtan a saját szemedbe egy tükörben, ítélkezés nélkül.",
-          "en": "In dim light look calmly into your own eyes in a mirror, without judgement."
+          "en": "In dim light look calmly into your own eyes in a mirror, without judgement.",
+          "ro": "În lumină scăzută, privește-te calm în propriii ochi, în oglindă, fără să judeci."
         },
         {
           "hu": "Egy tárgynál — gyertyánál, kristálynál — válts a nézésről a ráérzésre: mit sugároz?",
-          "en": "With an object — a candle, a crystal — shift from looking to sensing: what does it radiate?"
+          "en": "With an object — a candle, a crystal — shift from looking to sensing: what does it radiate?",
+          "ro": "Cu un obiect — o lumânare, un cristal — treci de la privit la simțit: ce iradiază?"
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A belső látást szubjektív érzékelésként kezeljük; a felmerülő képek nem külső tények. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Inner sight is treated as subjective perception; any images that arise are not outward facts. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Inner sight is treated as subjective perception; any images that arise are not outward facts. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Vederea lăuntrică este tratată ca percepție subiectivă; imaginile care apar nu sunt fapte exterioare. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 10,
       "mester": "Telekinézis",
@@ -394,33 +468,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Aura és csakrák — az energia irányítása",
-        "en": "Aura and chakras — directing energy"
+        "en": "Aura and chakras — directing energy",
+        "ro": "Aura și chakrele — dirijarea energiei"
       },
       "cel": {
         "hu": "Kiegyensúlyozni a fő energiaközpontokat, hogy a figyelem tisztán és rendezetten áramoljon.",
-        "en": "Balance the main energy centres so attention flows clearly and in an ordered way."
+        "en": "Balance the main energy centres so attention flows clearly and in an ordered way.",
+        "ro": "Să echilibrezi centrii principali de energie, astfel încât atenția să curgă limpede și rânduit."
       },
       "modszer": [
         {
           "hu": "Meditálva képzeld el egyenként a csakrákat forgó fénykerekekként, és lélegezz beléjük.",
-          "en": "In meditation picture each chakra as a spinning wheel of light and breathe into it."
+          "en": "In meditation picture each chakra as a spinning wheel of light and breathe into it.",
+          "ro": "În meditație, închipuie-ți fiecare chakră ca pe o roată de lumină care se rotește, și respiră în ea."
         },
         {
           "hu": "Figyelj a napfonat, a harmadik szem és a korona központjára — a szándék, a látás és a kapcsolat helyeire.",
-          "en": "Attend to the solar plexus, third eye and crown centres — of intention, sight and connection."
+          "en": "Attend to the solar plexus, third eye and crown centres — of intention, sight and connection.",
+          "ro": "Fii atent la centrii plexului solar, ai celui de-al treilea ochi și ai coroanei — centrii intenției, ai vederii și ai legăturii."
         },
         {
           "hu": "Erősítsd az aurád földeléssel: mezítlábas séta, fénypajzs vagy hang- és vízfürdő.",
-          "en": "Strengthen the aura with grounding: barefoot walking, a shield of light, or a bath of sound or water."
+          "en": "Strengthen the aura with grounding: barefoot walking, a shield of light, or a bath of sound or water.",
+          "ro": "Întărește aura prin împământare: mers desculț, un scut de lumină sau o baie de sunet ori de apă."
         },
         {
           "hu": "Zárd le nyugodt megerősítéssel, például: az energiám tiszta, nyugodt szándékkal áramlik.",
-          "en": "Close with a calm affirmation, such as: my energy is clear and flows with quiet intention."
+          "en": "Close with a calm affirmation, such as: my energy is clear and flows with quiet intention.",
+          "ro": "Încheie cu o afirmație calmă, de pildă: energia mea este limpede și curge cu intenție liniștită."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az aurát és a csakrákat a hagyomány belső térképeként használjuk, nem mért fizikai valóságként. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Aura and chakras are used as the tradition’s inner map, not as measured physical reality. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Aura and chakras are used as the tradition’s inner map, not as measured physical reality. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aura și chakrele sunt folosite ca hartă lăuntrică a tradiției, nu ca realitate fizică măsurată. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 11,
       "mester": "Telekinézis",
@@ -431,33 +512,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Kapcsolódás az egyetemes energiához",
-        "en": "Connecting with universal energy"
+        "en": "Connecting with universal energy",
+        "ro": "Legătura cu energia universală"
       },
       "cel": {
         "hu": "A jelenlét és a nyitottság érzését elmélyíteni, hogy a gyakorlás ne erőlködés, hanem áramlás legyen.",
-        "en": "Deepen a sense of presence and openness so practice becomes flow rather than straining."
+        "en": "Deepen a sense of presence and openness so practice becomes flow rather than straining.",
+        "ro": "Să adâncești simțul prezenței și al deschiderii, astfel încât practica să devină curgere, nu încordare."
       },
       "modszer": [
         {
           "hu": "Lassíts, lélegezz, érezd a teret magad körül és magadban, és engedd elülni a belső zajt.",
-          "en": "Slow down, breathe, feel the space around and within you, and let inner noise settle."
+          "en": "Slow down, breathe, feel the space around and within you, and let inner noise settle.",
+          "ro": "Încetinește, respiră, simte spațiul din jurul tău și din tine, și lasă zgomotul lăuntric să se așeze."
         },
         {
           "hu": "Mondd csendben, hogy megnyílsz az élet éltető áramlására, és hagyd, hogy átjárjon.",
-          "en": "Say quietly that you open to the flow of life, and let it move through you."
+          "en": "Say quietly that you open to the flow of life, and let it move through you.",
+          "ro": "Spune liniștit că te deschizi curgerii vieții, și las-o să treacă prin tine."
         },
         {
           "hu": "Képzelj a fejed fölé meleg, aranyló fényt, amely a koronán át betölti a tested.",
-          "en": "Imagine a warm golden light above your head pouring in through the crown to fill the body."
+          "en": "Imagine a warm golden light above your head pouring in through the crown to fill the body.",
+          "ro": "Imaginează-ți deasupra capului o lumină aurie și caldă, care se revarsă prin creștet și umple corpul."
         },
         {
           "hu": "Gyakorlás közben ne told a szándékot, hanem engedd, hogy az áramlás vezessen.",
-          "en": "During practice do not push the intention but let the flow lead."
+          "en": "During practice do not push the intention but let the flow lead.",
+          "ro": "În timpul practicii nu împinge intenția, ci lasă curgerea să conducă."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az egyetemes energia itt élményszerű metafora a kapcsolódásra; nem bizonyított külső erő. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Universal energy here is an experiential metaphor for connection; not a proven external force. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Universal energy here is an experiential metaphor for connection; not a proven external force. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Energia universală este aici o metaforă trăită a legăturii, nu o forță exterioară dovedită. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 12,
       "mester": "Telekinézis",
@@ -468,33 +556,40 @@
       "sik": "test",
       "cim": {
         "hu": "Az energia érzékelése a kézben",
-        "en": "Sensing energy in the hands"
+        "en": "Sensing energy in the hands",
+        "ro": "Simțirea energiei în mâini"
       },
       "cel": {
         "hu": "Megismerni, milyen érzet kíséri a saját, figyelemmel felébresztett belső áramlást.",
-        "en": "Learn what sensation accompanies your own attention-awakened inner flow."
+        "en": "Learn what sensation accompanies your own attention-awakened inner flow.",
+        "ro": "Să afli ce senzație însoțește propria ta curgere lăuntrică, trezită de atenție."
       },
       "modszer": [
         {
           "hu": "Dörzsöld össze a tenyered, hogy érzékenyebbé váljon, majd lassan húzd szét őket.",
-          "en": "Rub your palms together to sensitise them, then slowly draw them apart."
+          "en": "Rub your palms together to sensitise them, then slowly draw them apart.",
+          "ro": "Freacă-ți palmele una de alta ca să le sensibilizezi, apoi depărtează-le încet."
         },
         {
           "hu": "Figyelj a tenyerek közötti térre; keress meleget, bizsergést, nyomást vagy hűvös fuvallatot.",
-          "en": "Attend to the space between the palms; look for warmth, tingling, pressure or a cool draught."
+          "en": "Attend to the space between the palms; look for warmth, tingling, pressure or a cool draught.",
+          "ro": "Fii atent la spațiul dintre palme; caută căldură, furnicături, presiune sau o adiere rece."
         },
         {
           "hu": "Közelítsd és távolítsd a kezed, és figyeld, változik-e az érzet — mintha ellenállna a tér.",
-          "en": "Move the hands closer and apart and notice whether the sensation changes — as if the space resists."
+          "en": "Move the hands closer and apart and notice whether the sensation changes — as if the space resists.",
+          "ro": "Apropie și depărtează mâinile și observă dacă senzația se schimbă — ca și cum spațiul ar opune rezistență."
         },
         {
           "hu": "Ha eleinte semmit sem érzel, ne aggódj; az érzékenység türelemmel épül.",
-          "en": "If at first you feel nothing, do not worry; sensitivity builds with patience."
+          "en": "If at first you feel nothing, do not worry; sensitivity builds with patience.",
+          "ro": "Dacă la început nu simți nimic, nu-ți face griji; sensibilitatea se clădește cu răbdare."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A jelzések szubjektív testérzetek; a lényeg a figyelem finomodása, nem a jelenség bizonyítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The signals are subjective bodily sensations; the point is refined attention, not proving a phenomenon. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The signals are subjective bodily sensations; the point is refined attention, not proving a phenomenon. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Semnalele sunt senzații corporale subiective; miza este atenția rafinată, nu dovedirea unui fenomen. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 13,
       "mester": "Telekinézis",
@@ -505,37 +600,45 @@
       "sik": "test",
       "cim": {
         "hu": "Pszi-gömb — energia formálása szándékkal",
-        "en": "Psi ball — shaping energy with intention"
+        "en": "Psi ball — shaping energy with intention",
+        "ro": "Sfera psi — modelarea energiei cu intenție"
       },
       "cel": {
         "hu": "Gyakorolni az energia érzékelését, összpontosítását és szándékkal való formálását a tenyerek között.",
-        "en": "Practise sensing, concentrating and intentionally shaping energy between the palms."
+        "en": "Practise sensing, concentrating and intentionally shaping energy between the palms.",
+        "ro": "Să exersezi simțirea, concentrarea și modelarea intenționată a energiei între palme."
       },
       "modszer": [
         {
           "hu": "Ellazult ülésben dörzsöld össze, majd húzd szét a tenyered, és figyelj a köztes térre.",
-          "en": "Relaxed and seated, rub then part the palms and attend to the space between."
+          "en": "Relaxed and seated, rub then part the palms and attend to the space between.",
+          "ro": "Relaxat și așezat, freacă-ți palmele, apoi depărtează-le și fii atent la spațiul dintre ele."
         },
         {
           "hu": "Belégzésnél képzeld, hogy energia gyűlik a mellkasodban vagy a napfonatodban.",
-          "en": "On the in-breath imagine energy gathering in the chest or solar plexus."
+          "en": "On the in-breath imagine energy gathering in the chest or solar plexus.",
+          "ro": "La inspirație, imaginează-ți energia adunându-se în piept sau în plexul solar."
         },
         {
           "hu": "Kilégzésnél küldd ezt gyengéden a tenyeredbe, és formálj belőle egy lüktető fénygömböt.",
-          "en": "On the out-breath send it gently to the palms and form a pulsing ball of light."
+          "en": "On the out-breath send it gently to the palms and form a pulsing ball of light.",
+          "ro": "La expirație, trimite-o blând spre palme și formează o sferă de lumină care pulsează."
         },
         {
           "hu": "Játssz a méretével — tömörítsd, tágítsd —, és tölts bele egy szándékot, például nyugalmat.",
-          "en": "Play with its size — compress, expand — and fill it with an intention, such as calm."
+          "en": "Play with its size — compress, expand — and fill it with an intention, such as calm.",
+          "ro": "Joacă-te cu mărimea ei — comprim-o, extinde-o — și umple-o cu o intenție, de pildă cu calm."
         },
         {
           "hu": "Zárásként tudatosan engedd el: szívd vissza, vagy oszlasd fel a térben.",
-          "en": "To close, release it consciously: reabsorb it or let it disperse into the space."
+          "en": "To close, release it consciously: reabsorb it or let it disperse into the space.",
+          "ro": "La încheiere, eliberează-o conștient: reabsoarbe-o sau las-o să se risipească în spațiu."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A pszi-gömb az energiaérzet formálásának belső gyakorlata; a súly- vagy nyomásérzet szubjektív. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The psi ball is an inner practice of shaping an energy-sensation; any felt weight or pressure is subjective. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The psi ball is an inner practice of shaping an energy-sensation; any felt weight or pressure is subjective. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Sfera psi este o practică lăuntrică de modelare a unei senzații de energie; orice greutate sau presiune simțită este subiectivă. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 14,
       "mester": "Telekinézis",
@@ -546,33 +649,40 @@
       "sik": "test",
       "cim": {
         "hu": "Pszi-kerék — a figyelem megfigyelése munka közben",
-        "en": "Psi wheel — observing focus at work"
+        "en": "Psi wheel — observing focus at work",
+        "ro": "Roata psi — observarea atenției la lucru"
       },
       "cel": {
         "hu": "Finom, csendes visszajelzést kapni a figyelem és a nyugalom állapotáról egy könnyű jelzőn.",
-        "en": "Get subtle, quiet feedback on the state of focus and calm through a light indicator."
+        "en": "Get subtle, quiet feedback on the state of focus and calm through a light indicator.",
+        "ro": "Să primești un semnal subtil și liniștit despre starea atenției și a calmului, printr-un indicator ușor."
       },
       "modszer": [
         {
           "hu": "Hajts egy kis papírt vagy fóliát négyágú alakzattá, és egyensúlyozd egy tű vagy ceruza hegyére.",
-          "en": "Fold a small paper or foil into a four-pointed shape and balance it on a needle or pencil tip."
+          "en": "Fold a small paper or foil into a four-pointed shape and balance it on a needle or pencil tip.",
+          "ro": "Împăturește o hârtie mică sau o folie într-o formă cu patru vârfuri și echilibreaz-o pe vârful unui ac sau al unui creion."
         },
         {
           "hu": "Zárd ki a hőt és a huzatot: fedd le pohárral, és tartsd távol a leheleted.",
-          "en": "Exclude heat and draught: cover it with a glass and keep your breath away."
+          "en": "Exclude heat and draught: cover it with a glass and keep your breath away.",
+          "ro": "Exclude căldura și curentul: acoper-o cu un pahar și ține-ți respirația departe."
         },
         {
           "hu": "Ülj nyugodtan, ne erőltess; lágy tekintettel és csendes elmével pihentesd rajta a figyelmed.",
-          "en": "Sit calmly and do not strain; with soft gaze and quiet mind rest attention on it."
+          "en": "Sit calmly and do not strain; with soft gaze and quiet mind rest attention on it.",
+          "ro": "Stai calm și nu te încorda; cu privirea blândă și mintea liniștită, odihnește-ți atenția pe ea."
         },
         {
           "hu": "Ha megrezdül vagy fordul, ne izgulj fel; maradj jelen, és jegyezd fel, milyen belső állapot kísérte.",
-          "en": "If it quivers or turns, do not get excited; stay present and note the inner state that accompanied it."
+          "en": "If it quivers or turns, do not get excited; stay present and note the inner state that accompanied it.",
+          "ro": "Dacă tremură sau se rotește, nu te înflăcăra; rămâi prezent și notează starea lăuntrică ce a însoțit-o."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A fedett kerék kizárja a huzatot és a hőt, hogy a figyelmet edzd; a mozgás nem az elme anyagmozgató erejének bizonyítéka. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The covered wheel excludes draught and heat so you train focus; any motion is not proof of a mind moving matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The covered wheel excludes draught and heat so you train focus; any motion is not proof of a mind moving matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Roata acoperită exclude curentul și căldura ca să-ți antrenezi atenția; orice mișcare nu este dovada unei minți care mișcă materia. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 15,
       "mester": "Telekinézis",
@@ -583,33 +693,40 @@
       "sik": "test",
       "cim": {
         "hu": "Tolás és húzás — kísérleti figyelemgyakorlat",
-        "en": "Pushing and pulling — an experimental focus drill"
+        "en": "Pushing and pulling — an experimental focus drill",
+        "ro": "Împingere și tragere — un exercițiu experimental de atenție"
       },
       "cel": {
         "hu": "Megfigyelni a belső érzeteket, miközben egy könnyű tárgyra irányítod a nyugodt szándékot.",
-        "en": "Observe inner sensations while directing calm intention at a light object."
+        "en": "Observe inner sensations while directing calm intention at a light object.",
+        "ro": "Să observi senzațiile lăuntrice în timp ce îndrepți o intenție calmă spre un obiect ușor."
       },
       "modszer": [
         {
           "hu": "Tegyél egy könnyű, kis súrlódású tárgyat — fóliát, ceruzát — sima, stabil felületre, huzatmentes szobában.",
-          "en": "Place a light, low-friction object — foil, a pencil — on a smooth, stable surface in a draught-free room."
+          "en": "Place a light, low-friction object — foil, a pencil — on a smooth, stable surface in a draught-free room.",
+          "ro": "Așază un obiect ușor, cu frecare mică — o folie, un creion — pe o suprafață netedă și stabilă, într-o încăpere fără curent."
         },
         {
           "hu": "Tolásnál képzeld, hogy egy lágy hullám indul a napfonatodból a tárgy felé; csak billenést várj, ne repülést.",
-          "en": "For pushing, imagine a soft wave moving from the solar plexus toward the object; expect a tilt, not flight."
+          "en": "For pushing, imagine a soft wave moving from the solar plexus toward the object; expect a tilt, not flight.",
+          "ro": "Pentru împingere, imaginează-ți un val blând pornind din plexul solar spre obiect; așteaptă-te la o înclinare, nu la zbor."
         },
         {
           "hu": "Húzásnál képzelj egy szálat a szívedtől a tárgyig, és minden kilégzésnél gyengéden vond befelé.",
-          "en": "For pulling, imagine a thread from the heart to the object and gently reel it in on each out-breath."
+          "en": "For pulling, imagine a thread from the heart to the object and gently reel it in on each out-breath.",
+          "ro": "Pentru tragere, imaginează-ți un fir de la inimă la obiect și trage-l blând spre tine la fiecare expirație."
         },
         {
           "hu": "Figyeld a hőmérséklet-, bizsergés- vagy nyomásérzetet a kezedben, és maradj érzelmileg nyugodt.",
-          "en": "Notice temperature, tingling or pressure in the hands, and stay emotionally calm."
+          "en": "Notice temperature, tingling or pressure in the hands, and stay emotionally calm.",
+          "ro": "Observă temperatura, furnicăturile sau presiunea din mâini, și rămâi calm în plan emoțional."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Kísérleti önmegfigyelés: a belső jelzések a lényegesek, nem a tárgy megmozdítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Experimental self-observation: the inner signals are what matter, not moving the object. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Experimental self-observation: the inner signals are what matter, not moving the object. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Auto-observare experimentală: semnalele lăuntrice sunt cele care contează, nu mișcarea obiectului. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 16,
       "mester": "Telekinézis",
@@ -620,37 +737,45 @@
       "sik": "test",
       "cim": {
         "hu": "Első lebegtetési kísérlet",
-        "en": "First levitation attempt"
+        "en": "First levitation attempt",
+        "ro": "Prima încercare de levitație"
       },
       "cel": {
         "hu": "Az emelkedő, könnyű energia irányításának gyakorlása minden eredményvárás nélkül.",
-        "en": "Practise directing a rising, light energy without any expectation of result."
+        "en": "Practise directing a rising, light energy without any expectation of result.",
+        "ro": "Să exersezi dirijarea unei energii ușoare, care se ridică, fără nicio așteptare de rezultat."
       },
       "modszer": [
         {
           "hu": "Válassz nagyon könnyű tárgyat — papírzsebkendőt, fóliagolyót, tollpihét —, és tedd jól látható helyre.",
-          "en": "Choose a very light object — a tissue, foil ball, feather — and set it where it is clearly visible."
+          "en": "Choose a very light object — a tissue, foil ball, feather — and set it where it is clearly visible.",
+          "ro": "Alege un obiect foarte ușor — un șervețel, o bilă de folie, o pană — și așază-l unde se vede limpede."
         },
         {
           "hu": "Földelj és nyugodj meg, majd hangold a hangulatod egy derűs, hálás, könnyű állapot felé.",
-          "en": "Ground and settle, then tune your mood toward a bright, thankful, light state."
+          "en": "Ground and settle, then tune your mood toward a bright, thankful, light state.",
+          "ro": "Împământează-te și așază-te în tine, apoi acordează-ți starea spre una luminoasă, recunoscătoare, ușoară."
         },
         {
           "hu": "Lágy tekintettel képzelj a tárgy köré meleg, felfelé áramló fénymezőt.",
-          "en": "With soft gaze imagine a warm, upward-flowing field of light around the object."
+          "en": "With soft gaze imagine a warm, upward-flowing field of light around the object.",
+          "ro": "Cu privirea blândă, imaginează-ți în jurul obiectului un câmp de lumină cald, care curge în sus."
         },
         {
           "hu": "Tartsd a csendes szándékot, hogy a tárgy könnyű és megtartott, és csak figyelj, ne erőltess.",
-          "en": "Hold the quiet intention that the object is light and supported, and simply observe without forcing."
+          "en": "Hold the quiet intention that the object is light and supported, and simply observe without forcing.",
+          "ro": "Ține intenția liniștită că obiectul este ușor și susținut, și doar observă, fără să forțezi."
         },
         {
           "hu": "Néhány perc után engedd el a törekvést, és zárd hálával, akármi történt.",
-          "en": "After a few minutes release the effort and close with gratitude, whatever happened."
+          "en": "After a few minutes release the effort and close with gratitude, whatever happened.",
+          "ro": "După câteva minute, lasă efortul și încheie cu recunoștință, orice s-ar fi întâmplat."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Nem állítjuk, hogy a gyakorlat felemel bármit; a felfelé irányuló figyelem és a belső könnyűség a mérték. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. We do not claim the practice lifts anything; upward-directed attention and inner lightness are the measure. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. We do not claim the practice lifts anything; upward-directed attention and inner lightness are the measure. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Nu susținem că practica ridică ceva; măsura sunt atenția îndreptată în sus și ușurătatea lăuntrică. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 17,
       "mester": "Telekinézis",
@@ -661,33 +786,40 @@
       "sik": "test",
       "cim": {
         "hu": "Meleg és hideg érzet gondolattal",
-        "en": "Warmth and cold by thought"
+        "en": "Warmth and cold by thought",
+        "ro": "Căldură și răceală prin gând"
       },
       "cel": {
         "hu": "Megtapasztalni, hogyan hangolja a figyelem és a képzelet a testérzetet a tenyérben.",
-        "en": "Experience how attention and imagination tune bodily sensation in the palm."
+        "en": "Experience how attention and imagination tune bodily sensation in the palm.",
+        "ro": "Să trăiești cum atenția și imaginația acordează senzația corporală din palmă."
       },
       "modszer": [
         {
           "hu": "Tartsd a tenyered egymás felé; belégzésnél képzelj aranyló lángot a napfonatodban.",
-          "en": "Hold your palms facing each other; on the in-breath imagine a golden flame in the solar plexus."
+          "en": "Hold your palms facing each other; on the in-breath imagine a golden flame in the solar plexus.",
+          "ro": "Ține palmele față în față; la inspirație, imaginează-ți o flacără aurie în plexul solar."
         },
         {
           "hu": "Vezesd ezt a meleget a karodon át a tenyeredbe, és figyeld, felmelegszik-e az érzet.",
-          "en": "Lead that warmth along the arm into the palm and notice whether the sensation warms."
+          "en": "Lead that warmth along the arm into the palm and notice whether the sensation warms.",
+          "ro": "Condu acea căldură de-a lungul brațului până în palmă și observă dacă senzația se încălzește."
         },
         {
           "hu": "Hűtéshez képzelj egy jégdarabot a középpontodban, amely hűvös, tiszta érzetet küld a kezedbe.",
-          "en": "For cooling, imagine a block of ice at your centre sending a cool, clean feeling to the hands."
+          "en": "For cooling, imagine a block of ice at your centre sending a cool, clean feeling to the hands.",
+          "ro": "Pentru răcorire, imaginează-ți în centrul tău un bloc de gheață care trimite spre mâini o senzație rece și curată."
         },
         {
           "hu": "Támogasd színképpel — melegnél vörös vagy arany, hidegnél kék vagy ezüst —, és ne erőltess.",
-          "en": "Support it with colour imagery — red or gold for heat, blue or silver for cold — and do not strain."
+          "en": "Support it with colour imagery — red or gold for heat, blue or silver for cold — and do not strain.",
+          "ro": "Sprijină-te pe imagini de culoare — roșu sau auriu pentru căldură, albastru sau argintiu pentru răcoare — și nu te încorda."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez a saját testérzet befelé figyelt hangolása; nem a levegő valódi hőmérsékletének mérhető megváltoztatása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is inner-attended tuning of your own bodily sensation; not a measurable change of the air’s real temperature. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is inner-attended tuning of your own bodily sensation; not a measurable change of the air’s real temperature. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este o acordare, urmărită lăuntric, a propriei senzații corporale, nu o schimbare măsurabilă a temperaturii reale a aerului. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 18,
       "mester": "Telekinézis",
@@ -698,37 +830,45 @@
       "sik": "test",
       "cim": {
         "hu": "Kanálhajlítás — figyelem és hit gyakorlata",
-        "en": "Spoon bending — a practice of focus and belief"
+        "en": "Spoon bending — a practice of focus and belief",
+        "ro": "Îndoirea lingurii — o practică de atenție și credință"
       },
       "cel": {
         "hu": "Szembenézni a belső gátakkal, és a figyelem, a nyugalom és a türelem állapotát edzeni.",
-        "en": "Meet inner blocks and train a state of focus, calm and patience."
+        "en": "Meet inner blocks and train a state of focus, calm and patience.",
+        "ro": "Să-ți întâlnești blocajele lăuntrice și să antrenezi o stare de atenție, calm și răbdare."
       },
       "modszer": [
         {
           "hu": "Fogj egy egyszerű fémkanalat, lehetőleg vékonyabbat, és ismerkedj a tapintásával, a hőmérsékletével.",
-          "en": "Take a simple metal spoon, preferably a thinner one, and get to know its feel and temperature."
+          "en": "Take a simple metal spoon, preferably a thinner one, and get to know its feel and temperature.",
+          "ro": "Ia o lingură simplă de metal, de preferință una mai subțire, și cunoaște-i atingerea și temperatura."
         },
         {
           "hu": "Lélegezz mélyen, lazítsd el a tested, és képzeld, hogy a figyelmed összeolvad a fémmel.",
-          "en": "Breathe deeply, relax the body and imagine attention merging with the metal."
+          "en": "Breathe deeply, relax the body and imagine attention merging with the metal.",
+          "ro": "Respiră adânc, relaxează corpul și imaginează-ți atenția contopindu-se cu metalul."
         },
         {
           "hu": "Tartsd a csendes szándékot, hogy a kanál engedékeny, és lásd magad előtt már meghajolva.",
-          "en": "Hold the quiet intention that the spoon is yielding, and picture it already bent."
+          "en": "Hold the quiet intention that the spoon is yielding, and picture it already bent.",
+          "ro": "Ține intenția liniștită că lingura cedează și închipuie-ți-o deja îndoită."
         },
         {
           "hu": "Ha enged, kövesd a mozdulatot; ha nem, ne feszülj — a gyakorlat a belső oldódásról szól.",
-          "en": "If it gives, follow the motion; if not, do not tense — the practice is about inner loosening."
+          "en": "If it gives, follow the motion; if not, do not tense — the practice is about inner loosening.",
+          "ro": "Dacă cedează, urmează mișcarea; dacă nu, nu te încorda — practica este despre destinderea lăuntrică."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A hangsúly a belső figyelmen és a kételyek oldásán van; a hajlítás mindig fizikai kézmunka, nem puszta gondolat. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The emphasis is on inner focus and loosening doubt; any bending is always physical handwork, not thought alone. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The emphasis is on inner focus and loosening doubt; any bending is always physical handwork, not thought alone. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Accentul cade pe atenția lăuntrică și pe destinderea îndoielii; orice îndoire este întotdeauna lucru fizic al mâinii, nu gând singur. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Bánj óvatosan az éles vagy törő fémmel, hogy ne sérülj meg.",
-        "en": "Handle sharp or snapping metal carefully so you do not get hurt."
+        "en": "Handle sharp or snapping metal carefully so you do not get hurt.",
+        "ro": "Umblă cu grijă cu metalul ascuțit sau care se poate rupe, ca să nu te rănești."
       },
       "sorszam": 19,
       "mester": "Telekinézis",
@@ -739,33 +879,40 @@
       "sik": "test",
       "cim": {
         "hu": "Haladó tárgykapcsolat — energetikai összeolvadás",
-        "en": "Advanced object contact — energetic merging"
+        "en": "Advanced object contact — energetic merging",
+        "ro": "Contact avansat cu obiectul — contopire energetică"
       },
       "cel": {
         "hu": "A finom, csendes jelenlét elmélyítése, amelyben a tárgytól való elkülönülés érzete oldódik.",
-        "en": "Deepen the subtle, quiet presence in which the felt separation from the object softens."
+        "en": "Deepen the subtle, quiet presence in which the felt separation from the object softens.",
+        "ro": "Să adâncești prezența subtilă și liniștită în care separarea simțită față de obiect se înmoaie."
       },
       "modszer": [
         {
           "hu": "Tegyél elé egy szilárd tárgyat — kavicsot, érmét, pohár vizet —, és csukott szemmel érezd belülről.",
-          "en": "Set a solid object before you — a pebble, coin, glass of water — and with eyes closed sense it from within."
+          "en": "Set a solid object before you — a pebble, coin, glass of water — and with eyes closed sense it from within.",
+          "ro": "Așază în fața ta un obiect solid — o pietricică, o monedă, un pahar cu apă — și, cu ochii închiși, simte-l dinăuntru."
         },
         {
           "hu": "Lélegezz vele együtt, és minden lélegzettel képzeld lágyabbnak a határt közted és a tárgy között.",
-          "en": "Breathe with it, and with each breath imagine the boundary between you and it softening."
+          "en": "Breathe with it, and with each breath imagine the boundary between you and it softening.",
+          "ro": "Respiră împreună cu el și, cu fiecare respirație, imaginează-ți cum granița dintre tine și el se înmoaie."
         },
         {
           "hu": "Ne lökj és ne húzz; képzelj inkább egy áramlás-irányt, mint egy patakot, amely elgördít egy kavicsot.",
-          "en": "Neither push nor pull; imagine instead a direction of flow, like a stream nudging a pebble."
+          "en": "Neither push nor pull; imagine instead a direction of flow, like a stream nudging a pebble.",
+          "ro": "Nici nu împinge, nici nu trage; imaginează-ți în schimb o direcție de curgere, ca un pârâu care împinge ușor o pietricică."
         },
         {
           "hu": "Rétegezd a figyelmed három lágy hullámban: az első oldja a teret, a második hangol, a harmadik visz.",
-          "en": "Layer attention in three soft waves: the first softens the space, the second attunes, the third carries."
+          "en": "Layer attention in three soft waves: the first softens the space, the second attunes, the third carries.",
+          "ro": "Așază atenția în trei valuri blânde: primul înmoaie spațiul, al doilea acordează, al treilea poartă."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A haladó gyakorlat a csendesebb, mélyebb jelenlétről szól; semmit sem állítunk anyag valós megmozdításáról. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The advanced practice is about quieter, deeper presence; we assert nothing about really moving matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The advanced practice is about quieter, deeper presence; we assert nothing about really moving matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Practica avansată este despre o prezență mai liniștită și mai adâncă; nu afirmăm nimic despre mișcarea reală a materiei. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 20,
       "mester": "Telekinézis",
@@ -776,33 +923,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "A Kinesis fogalma és az irányítás logikája",
-        "en": "The concept of Kinesis and the logic of control"
+        "en": "The concept of Kinesis and the logic of control",
+        "ro": "Conceptul de Kinesis și logica dirijării"
       },
       "cel": {
         "hu": "Megismerni a közös belső ritmust: előbb érzékelés és ráhangolódás, majd nyugodt szándék, végül a törekvés elengedése.",
-        "en": "Come to know the shared inner rhythm: first sensing and attuning, then a calm intention, and finally letting the striving go."
+        "en": "Come to know the shared inner rhythm: first sensing and attuning, then a calm intention, and finally letting the striving go.",
+        "ro": "Să cunoști ritmul lăuntric comun: mai întâi simțirea și acordarea, apoi o intenție calmă, iar la final lăsarea străduinței."
       },
       "modszer": [
         {
           "hu": "Válaszd ki, mihez kapcsolódsz — tárgyhoz vagy elemhez —, és először csak érzékeld a jelenlétét.",
-          "en": "Choose what you connect with — object or element — and first only sense its presence."
+          "en": "Choose what you connect with — object or element — and first only sense its presence.",
+          "ro": "Alege cu ce te legi — obiect sau element — și, la început, doar simte-i prezența."
         },
         {
           "hu": "Engedd, hogy a figyelmed minden erőltetés nélkül, lágyan találkozzon a jelenlétével.",
-          "en": "Let your attention meet its presence softly, without any forcing."
+          "en": "Let your attention meet its presence softly, without any forcing.",
+          "ro": "Lasă-ți atenția să întâlnească blând prezența lui, fără nicio forțare."
         },
         {
           "hu": "Tarts egy tiszta belső képet arról a lágy mozdulatról, amelyet elképzelsz.",
-          "en": "Hold a clear inner picture of the gentle motion you imagine."
+          "en": "Hold a clear inner picture of the gentle motion you imagine.",
+          "ro": "Ține o imagine lăuntrică limpede a mișcării blânde pe care ți-o închipui."
         },
         {
           "hu": "Végül engedd el a törekvést, és maradj nyitott, elfogadó jelenlétben — ez a gyakorlat magja.",
-          "en": "Finally let go of the striving and remain in open, accepting presence — this is the core of the practice."
+          "en": "Finally let go of the striving and remain in open, accepting presence — this is the core of the practice.",
+          "ro": "La final, lasă străduința și rămâi într-o prezență deschisă, primitoare — acesta este miezul practicii."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A Kinesist együttműködő figyelemgyakorlatnak tekintjük, nem az anyag feletti hatalomnak. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Kinesis is treated as a cooperative attention practice, not power over matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Kinesis is treated as a cooperative attention practice, not power over matter. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Kinesis este tratat ca o practică de atenție în colaborare, nu ca putere asupra materiei. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 21,
       "mester": "Telekinézis",
@@ -813,37 +967,45 @@
       "sik": "test",
       "cim": {
         "hu": "Biokinézis — a testkép és önazonosság hangolása",
-        "en": "Biokinesis — tuning body-image and self-identity"
+        "en": "Biokinesis — tuning body-image and self-identity",
+        "ro": "Biokinezie — acordarea imaginii corporale și a identității de sine"
       },
       "cel": {
         "hu": "A testhez fűződő belső viszony és önkép átformálása vizualizációval és megerősítéssel.",
-        "en": "Reshape the inner relationship to the body and the self-image through visualisation and affirmation."
+        "en": "Reshape the inner relationship to the body and the self-image through visualisation and affirmation.",
+        "ro": "Să remodelezi relația lăuntrică cu corpul și cu imaginea de sine, prin vizualizare și afirmație."
       },
       "modszer": [
         {
           "hu": "Válassz egyetlen konkrét célt, ne akarj mindent egyszerre megváltoztatni.",
-          "en": "Choose a single specific focus; do not try to change everything at once."
+          "en": "Choose a single specific focus; do not try to change everything at once.",
+          "ro": "Alege un singur punct anume; nu încerca să schimbi totul deodată."
         },
         {
           "hu": "Mély ellazulásban idézd fel élénken a kívánt állapotot, mintha máris valóság lenne.",
-          "en": "In deep relaxation vividly recall the desired state as if it were already so."
+          "en": "In deep relaxation vividly recall the desired state as if it were already so.",
+          "ro": "În relaxare adâncă, recheamă viu starea dorită, ca și cum ar fi deja așa."
         },
         {
           "hu": "Használj jelen idejű megerősítést, és érezd hozzá a hála és biztonság érzetét.",
-          "en": "Use present-tense affirmation and feel the accompanying sense of gratitude and safety."
+          "en": "Use present-tense affirmation and feel the accompanying sense of gratitude and safety.",
+          "ro": "Folosește afirmația la timpul prezent și simte recunoștința și siguranța care o însoțesc."
         },
         {
           "hu": "Támogasd hétköznapi gondoskodással — testtartás, mozgás, pihenés —, és kövesd a naplódban.",
-          "en": "Support it with ordinary care — posture, movement, rest — and track it in your journal."
+          "en": "Support it with ordinary care — posture, movement, rest — and track it in your journal.",
+          "ro": "Sprijin-o cu grijă obișnuită — postură, mișcare, odihnă — și urmărește-o în jurnal."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ezt önképet és önazonosságot alakító belső gyakorlatnak tekintjük; a hagyomány testre gyakorolt hatás-modellje nem bizonyított. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is treated as an inner practice of self-image and identity; the tradition’s claim of bodily change is unproven. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is treated as an inner practice of self-image and identity; the tradition’s claim of bodily change is unproven. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este tratată ca o practică lăuntrică a imaginii de sine și a identității; afirmația tradiției despre schimbarea corpului este nedovedită. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Nem orvosi eljárás és nem pótolja az egészségügyi ellátást; testi cél esetén se hagyd el az orvosi tanácsot, és fogadd el a tested adottságait.",
-        "en": "Not a medical procedure and no substitute for healthcare; for any bodily aim do not skip medical advice, and accept your body’s given nature."
+        "en": "Not a medical procedure and no substitute for healthcare; for any bodily aim do not skip medical advice, and accept your body’s given nature.",
+        "ro": "Nu este o procedură medicală și nu înlocuiește îngrijirea medicală; pentru orice țel legat de corp, nu sări peste sfatul medicului, și primește firea dată a corpului tău."
       },
       "sorszam": 22,
       "mester": "Telekinézis",
@@ -855,37 +1017,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Pirokinézis — a tűz érzékelése",
-        "en": "Pyrokinesis — sensing fire"
+        "en": "Pyrokinesis — sensing fire",
+        "ro": "Pirokinezie — simțirea focului"
       },
       "cel": {
         "hu": "Ráhangolódni a láng ritmusára és a saját belső melegre, nyugodt, tisztelettudó jelenléttel.",
-        "en": "Attune to the rhythm of the flame and your own inner warmth, with calm, respectful presence."
+        "en": "Attune to the rhythm of the flame and your own inner warmth, with calm, respectful presence.",
+        "ro": "Să te acordezi la ritmul flăcării și la propria ta căldură lăuntrică, cu o prezență calmă și respectuoasă."
       },
       "modszer": [
         {
           "hu": "Dörzsöld meg a tenyered, majd tartsd egy gyertyaláng közelébe — de nem túl közel —, és érezd a meleget.",
-          "en": "Rub your palms, then hold them near a candle flame — but not too close — and feel the warmth."
+          "en": "Rub your palms, then hold them near a candle flame — but not too close — and feel the warmth.",
+          "ro": "Freacă-ți palmele, apoi ține-le lângă flacăra unei lumânări — dar nu prea aproape — și simte căldura."
         },
         {
           "hu": "Figyeld egyszerre a kezed melegét és a láng mozgását, ahogy a légzésedre reagálni látszik.",
-          "en": "Attend at once to the warmth of the hands and the flame’s motion as it seems to answer your breath."
+          "en": "Attend at once to the warmth of the hands and the flame’s motion as it seems to answer your breath.",
+          "ro": "Fii atent deodată la căldura mâinilor și la mișcarea flăcării, care pare că răspunde respirației tale."
         },
         {
           "hu": "Képzeld, hogy a láng finoman megrezdül, elhajlik — halk belső jelzésként, nem parancsként.",
-          "en": "Imagine the flame subtly quivering or leaning — as a quiet inner cue, not a command."
+          "en": "Imagine the flame subtly quivering or leaning — as a quiet inner cue, not a command.",
+          "ro": "Imaginează-ți flacăra tremurând sau înclinându-se subtil — ca pe un semn lăuntric liniștit, nu ca pe o poruncă."
         },
         {
           "hu": "Maradj földelt és nyugodt; ha melegséget vagy fáradtságot érzel, pihenj meg.",
-          "en": "Stay grounded and calm; if you feel heat or fatigue, rest."
+          "en": "Stay grounded and calm; if you feel heat or fatigue, rest.",
+          "ro": "Rămâi împământat și calm; dacă simți căldură sau oboseală, odihnește-te."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez figyelem- és képzeletgyakorlat a láng mellett; nem állítjuk, hogy az elme mozgatja vagy gyújtja a tüzet. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is an attention and imagination practice beside a flame; we do not claim the mind moves or lights fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is an attention and imagination practice beside a flame; we do not claim the mind moves or lights fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este o practică de atenție și imaginație lângă o flacără; nu susținem că mintea mișcă sau aprinde focul. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Tűzbiztonság: soha ne hagyd őrizetlenül a lángot, tarts távol gyúlékony anyagot, legyen kéznél víz, jól szellőzz, és figyelem-, nem tűzgyújtási gyakorlatként végezd.",
-        "en": "Fire safety: never leave the flame unattended, keep flammables away, keep water at hand, ventilate well, and treat it as attention training, not fire-starting."
+        "en": "Fire safety: never leave the flame unattended, keep flammables away, keep water at hand, ventilate well, and treat it as attention training, not fire-starting.",
+        "ro": "Siguranța la foc: nu lăsa niciodată flacăra nesupravegheată, ține departe materialele inflamabile, păstrează apă la îndemână, aerisește bine și tratează totul ca antrenament al atenției, nu ca aprindere de foc."
       },
       "sorszam": 23,
       "mester": "Telekinézis",
@@ -897,37 +1067,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Pirokinézis — gyertya elcsendesítése és élénkítése",
-        "en": "Pyrokinesis — quieting and enlivening a candle"
+        "en": "Pyrokinesis — quieting and enlivening a candle",
+        "ro": "Pirokinezie — liniștirea și înviorarea unei lumânări"
       },
       "cel": {
         "hu": "Elmélyíteni a figyelmet és a láng iránti tiszteletet finom, csendes kísérletekben.",
-        "en": "Deepen focus and respect for the flame in subtle, quiet experiments."
+        "en": "Deepen focus and respect for the flame in subtle, quiet experiments.",
+        "ro": "Să adâncești atenția și respectul față de flacără, prin experimente subtile și liniștite."
       },
       "modszer": [
         {
           "hu": "Gyújts gyertyát fél méterre, huzatmentes, nyugodt térben, és eleinte csak figyeld a lángot.",
-          "en": "Light a candle half a metre away in a calm, draught-free space, and at first only watch the flame."
+          "en": "Light a candle half a metre away in a calm, draught-free space, and at first only watch the flame.",
+          "ro": "Aprinde o lumânare la o jumătate de metru, într-un spațiu calm și fără curent, și la început doar privește flacăra."
         },
         {
           "hu": "Csendesítéshez képzeld, hogy a láng összébb húzódik és halványul, és kilégzésnél hűvös nyugalmat irányíts felé.",
-          "en": "To quiet it, imagine the flame drawing in and dimming, and on the out-breath direct cool calm toward it."
+          "en": "To quiet it, imagine the flame drawing in and dimming, and on the out-breath direct cool calm toward it.",
+          "ro": "Ca să o liniștești, imaginează-ți flacăra strângându-se și scăzând, iar la expirație îndreaptă spre ea un calm răcoros."
         },
         {
           "hu": "Élénkítéshez képzeld a kanóc körüli fényt erősödni; tartsd a képet nyugodtan, ne sóváran.",
-          "en": "To enliven it, imagine the light around the wick strengthening; hold the image calmly, not cravingly."
+          "en": "To enliven it, imagine the light around the wick strengthening; hold the image calmly, not cravingly.",
+          "ro": "Ca să o înviorezi, imaginează-ți lumina din jurul fitilului întărindu-se; ține imaginea calm, nu cu poftă."
         },
         {
           "hu": "Bármi történik, maradj csendes és megfigyelő, majd fújd el a lángot, és jegyezd fel a hangulatod.",
-          "en": "Whatever happens, stay quiet and observing, then blow out the flame and note your mood."
+          "en": "Whatever happens, stay quiet and observing, then blow out the flame and note your mood.",
+          "ro": "Orice s-ar întâmpla, rămâi liniștit și în observare, apoi stinge flacăra și notează-ți starea."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A lángot légáramlat és hő könnyen mozgatja; ez a gyakorlat a figyelem edzése, nem az elme tűzgyújtó erejének állítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. A flame is easily moved by air and heat; this practice trains attention, not any claim of mind starting fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. A flame is easily moved by air and heat; this practice trains attention, not any claim of mind starting fire. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. O flacără este ușor mișcată de aer și de căldură; această practică antrenează atenția, fără vreo pretenție că mintea aprinde focul. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Tűzbiztonság: soha ne hagyd őrizetlenül a lángot, tarts távol gyúlékony anyagot, legyen kéznél víz, és jól szellőzz.",
-        "en": "Fire safety: never leave the flame unattended, keep flammables away, keep water at hand, and ventilate well."
+        "en": "Fire safety: never leave the flame unattended, keep flammables away, keep water at hand, and ventilate well.",
+        "ro": "Siguranța la foc: nu lăsa niciodată flacăra nesupravegheată, ține departe materialele inflamabile, păstrează apă la îndemână și aerisește bine."
       },
       "sorszam": 24,
       "mester": "Telekinézis",
@@ -939,33 +1117,40 @@
       "elem": "Viz",
       "cim": {
         "hu": "Hidrokinézis — meditációk a víz áramlásán",
-        "en": "Hydrokinesis — meditations on water flow"
+        "en": "Hydrokinesis — meditations on water flow",
+        "ro": "Hidrokinezie — meditații asupra curgerii apei"
       },
       "cel": {
         "hu": "A belső áramlás és nyugalom megtapasztalása a víz jelenlétében, kapcsolódásként, nem parancsként.",
-        "en": "Experience inner flow and calm in the presence of water, as connection rather than command."
+        "en": "Experience inner flow and calm in the presence of water, as connection rather than command.",
+        "ro": "Să trăiești curgerea și calmul lăuntric în prezența apei, ca legătură, nu ca poruncă."
       },
       "modszer": [
         {
           "hu": "Tegyél egy tál vagy pohár vizet magad elé csendes térben, és lélegezz mélyen.",
-          "en": "Set a bowl or glass of water before you in a quiet space and breathe deeply."
+          "en": "Set a bowl or glass of water before you in a quiet space and breathe deeply.",
+          "ro": "Așază în fața ta un bol sau un pahar cu apă, într-un spațiu liniștit, și respiră adânc."
         },
         {
           "hu": "Képzeld az elméd nyugodt tó tükrének; ha gondolat jön, engedd elülni, mint egy fodrot.",
-          "en": "Imagine the mind as a calm lake’s surface; if a thought comes, let it settle like a ripple."
+          "en": "Imagine the mind as a calm lake’s surface; if a thought comes, let it settle like a ripple.",
+          "ro": "Imaginează-ți mintea ca suprafața unui lac calm; dacă vine un gând, lasă-l să se așeze ca o undă."
         },
         {
           "hu": "Vidd a figyelmed a vízre, és lágy tekintettel érezd a jelenlétét, hűvösségét, súlyát.",
-          "en": "Bring attention to the water and, with soft gaze, feel its presence, coolness, weight."
+          "en": "Bring attention to the water and, with soft gaze, feel its presence, coolness, weight.",
+          "ro": "Adu-ți atenția la apă și, cu privirea blândă, simte-i prezența, răcoarea, greutatea."
         },
         {
           "hu": "Egy másik körben képzeld magad folyónak, amelynek árama a gerinceden és a kezeden át folyik.",
-          "en": "In another round imagine yourself a river whose current flows through your spine and hands."
+          "en": "In another round imagine yourself a river whose current flows through your spine and hands.",
+          "ro": "Într-o altă rundă, imaginează-te un râu al cărui curent trece prin șira spinării și prin mâini."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A hidrokinézist itt a víz jelenlétében végzett áramlás-meditációként műveljük; egy fodrozódás is lehet légmozgás vagy rezgés. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Hydrokinesis here is a flow-meditation in water’s presence; even a ripple may be air movement or vibration. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Hydrokinesis here is a flow-meditation in water’s presence; even a ripple may be air movement or vibration. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Hidrokinezia este aici o meditație a curgerii în prezența apei; chiar și o undă poate fi mișcare a aerului sau vibrație. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 25,
       "mester": "Telekinézis",
@@ -977,33 +1162,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Aerokinézis — kísérletek a levegő mozgásával",
-        "en": "Aerokinesis — experiments with moving air"
+        "en": "Aerokinesis — experiments with moving air",
+        "ro": "Aerokinezie — experimente cu aerul în mișcare"
       },
       "cel": {
         "hu": "A láthatatlan levegő finom jelenlétére ráhangolódni, és a lélegzet ritmusával eggyé válni.",
-        "en": "Attune to the subtle presence of invisible air and become one with the rhythm of breath."
+        "en": "Attune to the subtle presence of invisible air and become one with the rhythm of breath.",
+        "ro": "Să te acordezi la prezența subtilă a aerului nevăzut și să devii una cu ritmul respirației."
       },
       "modszer": [
         {
           "hu": "Menj ki egy szélcsendes napon; állj vagy ülj csendben, és érezd a levegőt a bőrödön.",
-          "en": "Go outside on a still day; stand or sit quietly and feel the air on your skin."
+          "en": "Go outside on a still day; stand or sit quietly and feel the air on your skin.",
+          "ro": "Ieși afară într-o zi fără vânt; stai în picioare sau așezat, liniștit, și simte aerul pe piele."
         },
         {
           "hu": "Minden kilégzésnél képzeld, hogy a figyelmed kitágul a körülötted lévő levegőbe.",
-          "en": "On each out-breath imagine attention expanding into the air around you."
+          "en": "On each out-breath imagine attention expanding into the air around you.",
+          "ro": "La fiecare expirație, imaginează-ți atenția lărgindu-se în aerul din jurul tău."
         },
         {
           "hu": "Emeld ki lassan a kezed, és képzelj egy suttogásnyi fuvallatot, amely a lélegzeteddel egy mozdulat.",
-          "en": "Slowly raise your hands and imagine a whisper-soft breeze that is one motion with your breath."
+          "en": "Slowly raise your hands and imagine a whisper-soft breeze that is one motion with your breath.",
+          "ro": "Ridică încet mâinile și imaginează-ți o adiere ușoară ca o șoaptă, care se mișcă una cu respirația ta."
         },
         {
           "hu": "Ne a látványra figyelj, hanem az érzetre; maradj oldott, és ne várj erős eredményt.",
-          "en": "Attend to sensation rather than sight; stay loose and expect no strong result."
+          "en": "Attend to sensation rather than sight; stay loose and expect no strong result.",
+          "ro": "Fii atent la senzație mai degrabă decât la ce vezi; rămâi destins și nu aștepta un rezultat puternic."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A levegőt szüntelen légmozgás járja át; ezt jelenlét- és érzékelésgyakorlatnak tekintjük, nem szél feletti hatalomnak. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Air is filled with constant currents; this is treated as a presence and sensitivity practice, not power over wind. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Air is filled with constant currents; this is treated as a presence and sensitivity practice, not power over wind. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aerul este plin de curenți neîncetați; aceasta este tratată ca o practică de prezență și sensibilitate, nu ca putere asupra vântului. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 26,
       "mester": "Telekinézis",
@@ -1015,33 +1207,40 @@
       "elem": "Fold",
       "cim": {
         "hu": "Terrakinézis — a föld érzékelése és a földelés",
-        "en": "Terrakinesis — sensing the earth and grounding"
+        "en": "Terrakinesis — sensing the earth and grounding",
+        "ro": "Terrakinezie — simțirea pământului și împământarea"
       },
       "cel": {
         "hu": "Mély, türelmes földeléssel kapcsolódni a talajhoz, és a szilárd nyugalmat gyakorolni.",
-        "en": "Connect to the ground through deep, patient grounding, and practise solid calm."
+        "en": "Connect to the ground through deep, patient grounding, and practise solid calm.",
+        "ro": "Să te legi de pământ printr-o împământare adâncă și răbdătoare, și să exersezi un calm solid."
       },
       "modszer": [
         {
           "hu": "Ülj le a földre, ha lehet mezítláb, csendes természeti helyen, és lélegezz lassan.",
-          "en": "Sit on the ground, barefoot if you can, in a quiet natural spot, and breathe slowly."
+          "en": "Sit on the ground, barefoot if you can, in a quiet natural spot, and breathe slowly.",
+          "ro": "Așază-te pe pământ, desculț dacă poți, într-un loc natural și liniștit, și respiră rar."
         },
         {
           "hu": "Kilégzésnél képzeld, hogy gyökerek nyúlnak a gerincedből és a talpadból a földbe.",
-          "en": "On the out-breath imagine roots reaching from your spine and soles into the earth."
+          "en": "On the out-breath imagine roots reaching from your spine and soles into the earth.",
+          "ro": "La expirație, imaginează-ți rădăcini care coboară din șira spinării și din tălpi în pământ."
         },
         {
           "hu": "Tedd a kezed a talajra, és csak hallgatózz; érezd a csend alatti mozdulatlan jelenlétet.",
-          "en": "Place your hands on the ground and simply listen; feel the still presence beneath the silence."
+          "en": "Place your hands on the ground and simply listen; feel the still presence beneath the silence.",
+          "ro": "Pune-ți mâinile pe pământ și doar ascultă; simte prezența neclintită de sub tăcere."
         },
         {
           "hu": "Ha kővel dolgozol, tartsd a tenyeredben, érezd a súlyát, és képzelj felé egy lágy, meleg figyelmet.",
-          "en": "If working with a stone, hold it, feel its weight, and imagine a soft, warm attention toward it."
+          "en": "If working with a stone, hold it, feel its weight, and imagine a soft, warm attention toward it.",
+          "ro": "Dacă lucrezi cu o piatră, ține-o în mână, simte-i greutatea și imaginează-ți o atenție blândă și caldă îndreptată spre ea."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A terrakinézist itt főként földelő, türelmet érlelő gyakorlatként műveljük; a belső szilárdság a mérték. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Terrakinesis here is mainly a grounding, patience-ripening practice; inner steadiness is the measure. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Terrakinesis here is mainly a grounding, patience-ripening practice; inner steadiness is the measure. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Terrakinezia este aici mai ales o practică de împământare care coace răbdarea; măsura este statornicia lăuntrică. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 27,
       "mester": "Telekinézis",
@@ -1052,37 +1251,45 @@
       "sik": "test",
       "cim": {
         "hu": "Elektrokinézis — ráhangolódás a saját belső árameinkre",
-        "en": "Electrokinesis — attuning to our own inner currents"
+        "en": "Electrokinesis — attuning to our own inner currents",
+        "ro": "Electrokinezie — acordarea la propriii noștri curenți lăuntrici"
       },
       "cel": {
         "hu": "Felébreszteni a figyelmet a testben és a környezetben zajló finom, elektromosnak érzett rezgésekre.",
-        "en": "Awaken attention to the subtle vibrations, felt as electric, in the body and surroundings."
+        "en": "Awaken attention to the subtle vibrations, felt as electric, in the body and surroundings.",
+        "ro": "Să-ți trezești atenția la vibrațiile subtile, simțite ca electrice, din corp și din jur."
       },
       "modszer": [
         {
           "hu": "Ülj egy biztonságos, alacsony feszültségű forrás — bekapcsolt lámpa vagy telefon — közelébe, de ne érintsd.",
-          "en": "Sit near a safe, low-voltage source — a lamp or phone that is on — but do not touch it."
+          "en": "Sit near a safe, low-voltage source — a lamp or phone that is on — but do not touch it.",
+          "ro": "Așază-te lângă o sursă sigură, de joasă tensiune — o lampă sau un telefon pornit — dar nu o atinge."
         },
         {
           "hu": "Figyelj a saját testedre: a szívverésre, az ujjbegyek lüktetésére, a tenyerek statikus érzetére.",
-          "en": "Attend to your own body: the heartbeat, the pulsing fingertips, the static feel of the palms."
+          "en": "Attend to your own body: the heartbeat, the pulsing fingertips, the static feel of the palms.",
+          "ro": "Fii atent la propriul corp: bătaia inimii, vârfurile degetelor care pulsează, senzația statică din palme."
         },
         {
           "hu": "Dörzsöld össze, majd tartsd kissé szét a kezed, és képzelj közéjük finom, bizsergő feszültséget.",
-          "en": "Rub then hold the hands slightly apart and imagine a fine, tingling tension between them."
+          "en": "Rub then hold the hands slightly apart and imagine a fine, tingling tension between them.",
+          "ro": "Freacă-ți mâinile, apoi ține-le puțin depărtate și imaginează-ți între ele o tensiune fină, care furnică."
         },
         {
           "hu": "Tartsd a nyugodt szándékot, hogy ráhangolódsz az áramlásra, és figyeld a belső jelzéseket.",
-          "en": "Hold the calm intention of attuning to the flow, and observe the inner signals."
+          "en": "Hold the calm intention of attuning to the flow, and observe the inner signals.",
+          "ro": "Ține intenția calmă de a te acorda la curgere, și observă semnalele lăuntrice."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Kizárólag biztonságos, alacsony feszültségű környezetben; ez érzékelésgyakorlat, nem elektromosság irányítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Only in a safe, low-voltage setting; this is a sensitivity practice, not control of electricity. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Only in a safe, low-voltage setting; this is a sensitivity practice, not control of electricity. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Numai într-un cadru sigur, de joasă tensiune; aceasta este o practică de sensibilitate, nu de control asupra electricității. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Soha ne dolgozz konnektorokkal, csupasz vezetékkel vagy magas feszültséggel; az áram valódi veszély.",
-        "en": "Never work with sockets, bare wires or high voltage; electricity is a real hazard."
+        "en": "Never work with sockets, bare wires or high voltage; electricity is a real hazard.",
+        "ro": "Nu lucra niciodată cu prize, cu fire neizolate sau cu înaltă tensiune; electricitatea este un pericol real."
       },
       "sorszam": 28,
       "mester": "Telekinézis",
@@ -1093,33 +1300,40 @@
       "sik": "test",
       "cim": {
         "hu": "Magnetokinézis — kapcsolat mágneses tárgyakkal",
-        "en": "Magnetokinesis — connecting with magnetic objects"
+        "en": "Magnetokinesis — connecting with magnetic objects",
+        "ro": "Magnetokinezie — legătura cu obiectele magnetice"
       },
       "cel": {
         "hu": "A polaritás és vonzás nyugodt megérzését gyakorolni egy fémtárgy jelenlétében.",
-        "en": "Practise the calm felt-sense of polarity and pull in the presence of a metal object."
+        "en": "Practise the calm felt-sense of polarity and pull in the presence of a metal object.",
+        "ro": "Să exersezi simțirea calmă a polarității și a atracției în prezența unui obiect de metal."
       },
       "modszer": [
         {
           "hu": "Tegyél egy kis fémtárgyat — gemkapcsot, szöget, alátétet — sima felületre, és földeld a tested.",
-          "en": "Place a small metal object — a paper clip, nail, washer — on a smooth surface and ground yourself."
+          "en": "Place a small metal object — a paper clip, nail, washer — on a smooth surface and ground yourself.",
+          "ro": "Așază un obiect mic de metal — o agrafă, un cui, o șaibă — pe o suprafață netedă și împământează-te."
         },
         {
           "hu": "Tartsd fölé a tenyered, és figyelj a tárgy belső állapotára: súlyára, sűrűségére, mozdulatlanságára.",
-          "en": "Hold your palms above it and attend to its inner state: weight, density, stillness."
+          "en": "Hold your palms above it and attend to its inner state: weight, density, stillness.",
+          "ro": "Ține palmele deasupra lui și fii atent la starea lui lăuntrică: greutate, densitate, nemișcare."
         },
         {
           "hu": "Képzelj egy összekötő szálat a tenyeredtől a tárgyig, amely nem tol és nem húz, csak összeköt.",
-          "en": "Imagine a connecting thread from palm to object that neither pushes nor pulls, only links."
+          "en": "Imagine a connecting thread from palm to object that neither pushes nor pulls, only links.",
+          "ro": "Imaginează-ți un fir care leagă palma de obiect și care nici nu împinge, nici nu trage, ci doar unește."
         },
         {
           "hu": "Egy valódi mágnest a kezedben tartva figyeld, hogyan reagál rá az energiaérzeted.",
-          "en": "Holding a real magnet, notice how your energy-sensation responds to it."
+          "en": "Holding a real magnet, notice how your energy-sensation responds to it.",
+          "ro": "Ținând în mână un magnet adevărat, observă cum îi răspunde senzația ta de energie."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A magnetokinézist a polaritásra való ráérzés belső gyakorlatának tekintjük; a felmerülő jelzések szubjektívek. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Magnetokinesis is treated as an inner practice of sensing polarity; any signals that arise are subjective. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Magnetokinesis is treated as an inner practice of sensing polarity; any signals that arise are subjective. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Magnetokinezia este tratată ca o practică lăuntrică de simțire a polarității; semnalele care apar sunt subiective. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 29,
       "mester": "Telekinézis",
@@ -1130,37 +1344,45 @@
       "sik": "lelek",
       "cim": {
         "hu": "Holdmunka és napenergia",
-        "en": "Lunar work and solar energy"
+        "en": "Lunar work and solar energy",
+        "ro": "Lucrul cu luna și energia solară"
       },
       "cel": {
         "hu": "A hold ciklusaira és a nap erejére hangolódva mélyíteni az érzelmi ritmust és a belső egyensúlyt.",
-        "en": "Attuning to the moon’s cycles and the sun’s force, deepen emotional rhythm and inner balance."
+        "en": "Attuning to the moon’s cycles and the sun’s force, deepen emotional rhythm and inner balance.",
+        "ro": "Acordându-te la ciclurile lunii și la forța soarelui, să adâncești ritmul emoțional și echilibrul lăuntric."
       },
       "modszer": [
         {
           "hu": "Holdas gyakorlathoz állj a holdfényben, és képzelj ezüst fényszálakat a mellkasodba és a kezedbe.",
-          "en": "For lunar practice stand in moonlight and imagine silver threads of light into chest and hands."
+          "en": "For lunar practice stand in moonlight and imagine silver threads of light into chest and hands.",
+          "ro": "Pentru practica lunară, stai în lumina lunii și imaginează-ți fire argintii de lumină intrând în piept și în mâini."
         },
         {
           "hu": "Fordítsd a tenyered felfelé, és képzeld, hogy nyugalmat és mélységet fogadsz, mint egy dagály.",
-          "en": "Turn your palms up and imagine receiving calm and depth, like a tide."
+          "en": "Turn your palms up and imagine receiving calm and depth, like a tide.",
+          "ro": "Întoarce palmele în sus și imaginează-ți că primești calm și adâncime, ca un flux."
         },
         {
           "hu": "Napos gyakorlathoz fordulj a fény felé csukott szemmel, és képzelj aranyló fényt a középpontodba.",
-          "en": "For solar practice face the light with closed eyes and imagine golden light into your centre."
+          "en": "For solar practice face the light with closed eyes and imagine golden light into your centre.",
+          "ro": "Pentru practica solară, întoarce-te spre lumină cu ochii închiși și imaginează-ți lumina aurie intrând în centrul tău."
         },
         {
           "hu": "Hold energiáját a befelé forduló csendhez, a napét a tiszta, cselekvő lendülethez társítsd.",
-          "en": "Pair lunar energy with inward calm, solar energy with clear, active drive."
+          "en": "Pair lunar energy with inward calm, solar energy with clear, active drive.",
+          "ro": "Împerechează energia lunară cu un calm îndreptat înăuntru, iar energia solară cu un elan limpede și activ."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A hold és a nap itt természetes ritmusok, amelyekre ráhangolódunk; nem befolyásoljuk az égitesteket. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Moon and sun here are natural rhythms we attune to; we do not influence the celestial bodies. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Moon and sun here are natural rhythms we attune to; we do not influence the celestial bodies. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Luna și soarele sunt aici ritmuri firești la care ne acordăm; nu influențăm corpurile cerești. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Sose nézz közvetlenül a napba; csukott szemmel, a bőrödön érezve dolgozz a fénnyel.",
-        "en": "Never look directly at the sun; work with its light through closed eyes, felt on the skin."
+        "en": "Never look directly at the sun; work with its light through closed eyes, felt on the skin.",
+        "ro": "Nu privi niciodată direct spre soare; lucrează cu lumina lui cu ochii închiși, simțind-o pe piele."
       },
       "sorszam": 30,
       "mester": "Telekinézis",
@@ -1171,33 +1393,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Napi fejlődési rutin",
-        "en": "Daily development routine"
+        "en": "Daily development routine",
+        "ro": "Rutina zilnică de dezvoltare"
       },
       "cel": {
         "hu": "Rövid, következetes napi lépésekbe rendezni a figyelem, energia és önmegfigyelés gyakorlását.",
-        "en": "Order the practice of focus, energy and self-observation into short, consistent daily steps."
+        "en": "Order the practice of focus, energy and self-observation into short, consistent daily steps.",
+        "ro": "Să rânduiești practica atenției, a energiei și a auto-observării în pași zilnici scurți și consecvenți."
       },
       "modszer": [
         {
           "hu": "Ébredés után ülj fel, végy három mély lélegzetet, és hangold magad nyugodt szándékkal a napra.",
-          "en": "On waking, sit up, take three deep breaths and set a calm intention for the day."
+          "en": "On waking, sit up, take three deep breaths and set a calm intention for the day.",
+          "ro": "La trezire, ridică-te în șezut, ia trei respirații adânci și așază o intenție calmă pentru ziua ta."
         },
         {
           "hu": "Tölts öt-tíz percet csendes meditációval, majd rövid energiaérzékeléssel a tenyeredben.",
-          "en": "Spend five to ten minutes in quiet meditation, then brief energy-sensing in the palms."
+          "en": "Spend five to ten minutes in quiet meditation, then brief energy-sensing in the palms.",
+          "ro": "Petrece cinci-zece minute în meditație liniștită, apoi simte scurt energia în palme."
         },
         {
           "hu": "Válassz egyetlen fő gyakorlatot a napra, és inkább a kapcsolódásra figyelj, mint a látványra.",
-          "en": "Choose a single core exercise for the day and attend to connection rather than spectacle."
+          "en": "Choose a single core exercise for the day and attend to connection rather than spectacle.",
+          "ro": "Alege un singur exercițiu de bază pentru ziua respectivă și fii atent la legătură, nu la spectacol."
         },
         {
           "hu": "Este röviden naplózz és földelj, és minden hetedik napon pihenj, hogy az energia beépülhessen.",
-          "en": "In the evening journal briefly and ground, and every seventh day rest so energy can integrate."
+          "en": "In the evening journal briefly and ground, and every seventh day rest so energy can integrate.",
+          "ro": "Seara, scrie pe scurt în jurnal și împământează-te, iar în fiecare a șaptea zi odihnește-te, ca energia să se poată integra."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A rutin a rendszeresség és a belső egyensúly kerete; a minőség fontosabb az időtartamnál. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The routine is a frame for regularity and inner balance; quality matters more than duration. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The routine is a frame for regularity and inner balance; quality matters more than duration. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Rutina este un cadru pentru regularitate și echilibru lăuntric; calitatea contează mai mult decât durata. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 31,
       "mester": "Telekinézis",
@@ -1208,33 +1437,40 @@
       "sik": "szellem",
       "cim": {
         "hu": "Elemazonosítás — melyik irány áll közel hozzád",
-        "en": "Element identification — which direction feels near"
+        "en": "Element identification — which direction feels near",
+        "ro": "Identificarea elementului — ce direcție îți este aproape"
       },
       "cel": {
         "hu": "Megfigyeléssel és rövid próbákkal feltérképezni, melyik elemi gyakorlat rezonál veled a legjobban.",
-        "en": "Through observation and short trials, map which elemental practice resonates most with you."
+        "en": "Through observation and short trials, map which elemental practice resonates most with you.",
+        "ro": "Prin observare și încercări scurte, să afli care practică a elementelor rezonează cel mai mult cu tine."
       },
       "modszer": [
         {
           "hu": "Figyeld a hétköznapokban, mihez vonzódsz: lánghoz, vízhez, szélhez, földhöz, elektromossághoz.",
-          "en": "Notice in daily life what draws you: flame, water, wind, earth, electricity."
+          "en": "Notice in daily life what draws you: flame, water, wind, earth, electricity.",
+          "ro": "Observă în viața de zi cu zi ce te atrage: flacăra, apa, vântul, pământul, electricitatea."
         },
         {
           "hu": "Próbáld ki röviden mindegyiket — gyertya, tál víz, tollpihe, kő, kis eszköz —, és csak érezd.",
-          "en": "Try each briefly — candle, bowl of water, feather, stone, small device — and simply feel."
+          "en": "Try each briefly — candle, bowl of water, feather, stone, small device — and simply feel.",
+          "ro": "Încearcă-le pe rând, pe scurt — lumânare, bol cu apă, pană, piatră, un mic aparat — și doar simte."
         },
         {
           "hu": "Kérdezd magadtól: melyiknél mélyül a figyelmed, hol jön könnyebben a nyugalom és az áramlás?",
-          "en": "Ask yourself: with which does focus deepen, where do calm and flow come more easily?"
+          "en": "Ask yourself: with which does focus deepen, where do calm and flow come more easily?",
+          "ro": "Întreabă-te: cu care se adâncește atenția, unde vin mai ușor calmul și curgerea?"
         },
         {
           "hu": "Kezdj a legközelebbivel, de tudd, hogy idővel a többi is fejleszthető.",
-          "en": "Begin with the nearest one, knowing the others can be developed in time."
+          "en": "Begin with the nearest one, knowing the others can be developed in time.",
+          "ro": "Începe cu cel care îți este cel mai aproape, știind că și celelalte se pot dezvolta cu timpul."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Az elemi hajlam itt önismereti irányjelző, nem született, rögzített képesség. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Elemental leaning here is a self-knowledge signpost, not an innate, fixed ability. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. Elemental leaning here is a self-knowledge signpost, not an innate, fixed ability. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Înclinarea către un element este aici un indicator de autocunoaștere, nu o însușire înnăscută și fixă. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 32,
       "mester": "Telekinézis",
@@ -1245,37 +1481,45 @@
       "sik": "lelek",
       "cim": {
         "hu": "Csoportos és távoli kísérlet",
-        "en": "Group and remote experiment"
+        "en": "Group and remote experiment",
+        "ro": "Experiment în grup și la distanță"
       },
       "cel": {
         "hu": "Megtapasztalni a közös, támogató figyelem élményét, és összevetni a résztvevők jegyzeteit.",
-        "en": "Experience the shared, supportive attention and compare participants’ notes."
+        "en": "Experience the shared, supportive attention and compare participants’ notes.",
+        "ro": "Să trăiești atenția împărtășită și sprijinitoare, și să compari însemnările participanților."
       },
       "modszer": [
         {
           "hu": "Alkoss két-öt fős, beleegyező csoportot; állapodjatok meg egy közös, egyszerű gyakorlatban.",
-          "en": "Form a consenting group of two to five; agree on one shared, simple exercise."
+          "en": "Form a consenting group of two to five; agree on one shared, simple exercise.",
+          "ro": "Adună un grup de doi până la cinci oameni care consimt; stabiliți împreună un singur exercițiu simplu și comun."
         },
         {
           "hu": "Gyakoroljatok csendben ugyanabban az időben tíz-tizenöt percig, majd osszátok meg az élményeket.",
-          "en": "Practise in silence at the same time for ten to fifteen minutes, then share experiences."
+          "en": "Practise in silence at the same time for ten to fifteen minutes, then share experiences.",
+          "ro": "Exersați în tăcere, în același timp, zece-cincisprezece minute, apoi împărtășiți-vă trăirile."
         },
         {
           "hu": "Távoli körben egy küldő figyel egy jelzőre, a többiek máshol, ugyanakkor meditálnak és jegyzetelnek.",
-          "en": "In a remote round one sender attends to an indicator while others, elsewhere, meditate and note at the same time."
+          "en": "In a remote round one sender attends to an indicator while others, elsewhere, meditate and note at the same time.",
+          "ro": "Într-o rundă la distanță, un emițător este atent la un indicator, în timp ce ceilalți, aflați în altă parte, meditează și notează în același timp."
         },
         {
           "hu": "Utána vessétek össze a feljegyzéseket, és keressetek egybeeséseket ítélkezés és versengés nélkül.",
-          "en": "Afterwards compare the notes and look for coincidences, without judgement or competition."
+          "en": "Afterwards compare the notes and look for coincidences, without judgement or competition.",
+          "ro": "După aceea comparați însemnările și căutați coincidențele, fără judecată și fără competiție."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ezt megosztott figyelemgyakorlatnak tekintjük; az egybeesések nem távhatás bizonyítékai. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is treated as a shared attention practice; coincidences are not proof of action at a distance. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is treated as a shared attention practice; coincidences are not proof of action at a distance. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este tratată ca o practică de atenție împărtășită; coincidențele nu sunt dovada unei acțiuni la distanță. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Csak beleegyező résztvevőkkel; sosem irányítsd meg nevesített, be nem egyező személyt vagy a tulajdonát. Nem használható haszonszerzésre, mások befolyásolására vagy eltűnt személyek keresésére.",
-        "en": "Only with consenting participants; never target a named, non-consenting person or their property. Not for profit, for influencing others, or for locating missing people."
+        "en": "Only with consenting participants; never target a named, non-consenting person or their property. Not for profit, for influencing others, or for locating missing people.",
+        "ro": "Numai cu participanți care consimt; nu ținti niciodată o persoană anume care nu și-a dat acordul, nici bunurile ei. Nu pentru câștig, nici pentru a-i influența pe alții, nici pentru găsirea persoanelor dispărute."
       },
       "sorszam": 33,
       "mester": "Telekinézis",
@@ -1286,37 +1530,45 @@
       "sik": "lelek",
       "cim": {
         "hu": "Erős érzelem átalakítása áramlássá",
-        "en": "Transforming strong emotion into flow"
+        "en": "Transforming strong emotion into flow",
+        "ro": "Transformarea emoției puternice în curgere"
       },
       "cel": {
         "hu": "Egy heves érzelmet nem elfojtani, hanem megfigyelni és nyugodt, testesült áramlássá alakítani.",
-        "en": "Not suppress a strong emotion but observe it and turn it into calm, embodied flow."
+        "en": "Not suppress a strong emotion but observe it and turn it into calm, embodied flow.",
+        "ro": "Să nu reprimi o emoție puternică, ci să o observi și să o prefaci într-o curgere calmă, trăită în corp."
       },
       "modszer": [
         {
           "hu": "Nevezd meg, mit érzel, és keresd meg, hol lakik a testedben — meleg-e, hideg-e, nyomás vagy súly.",
-          "en": "Name what you feel and find where it lives in the body — warm or cold, pressure or weight."
+          "en": "Name what you feel and find where it lives in the body — warm or cold, pressure or weight.",
+          "ro": "Numește ce simți și găsește unde locuiește în corp — cald sau rece, presiune sau greutate."
         },
         {
           "hu": "Csukott szemmel lélegezz; ne erőltess nyugalmat, csak adj formát és mozgást az érzésnek.",
-          "en": "With eyes closed breathe; do not force calm, only give the feeling shape and motion."
+          "en": "With eyes closed breathe; do not force calm, only give the feeling shape and motion.",
+          "ro": "Cu ochii închiși, respiră; nu forța calmul, doar dă-i trăirii formă și mișcare."
         },
         {
           "hu": "Tégy elé egy könnyű tárgyat, és engedd, hogy a figyelmed a lélegzeteden át felé áramoljon.",
-          "en": "Set a light object before you and let attention flow toward it through the breath."
+          "en": "Set a light object before you and let attention flow toward it through the breath.",
+          "ro": "Așază în fața ta un obiect ușor și lasă atenția să curgă spre el prin respirație."
         },
         {
           "hu": "Zárásként mindig földelj: tenyeret a mellkasra vagy a padlóra, lassú légzés, és köszönd meg az élményt.",
-          "en": "Always close by grounding: palm on chest or floor, slow breathing, and thank the experience."
+          "en": "Always close by grounding: palm on chest or floor, slow breathing, and thank the experience.",
+          "ro": "Încheie întotdeauna cu împământare: palma pe piept sau pe podea, respirație rară, și mulțumește pentru trăire."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. Ez egy önszabályozó, földelő gyakorlat erős érzelemre; nem a válság megoldása és nem pszichés erő állítása. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a self-regulating, grounding practice for strong emotion; not a solution to crisis nor a claim of psychic power. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. This is a self-regulating, grounding practice for strong emotion; not a solution to crisis nor a claim of psychic power. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Aceasta este o practică de autoreglare și de împământare pentru emoțiile puternice; nu o soluție pentru criză și nici o pretenție de putere psihică. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "etika": {
         "hu": "Nyugalmat, nem félelmet keltő gyakorlat, és nem pótolja a szakszerű segítséget. Ha válságban vagy — például önveszélyes gondolatok jönnek —, ne késleltesd az ellátást: fordulj azonnal bizalmi személyhez vagy krízisvonalhoz.",
-        "en": "A calm-not-fear practice, and no substitute for professional help. If you are in crisis — for example self-harm thoughts arise — do not delay care: reach out at once to a trusted person or a crisis line."
+        "en": "A calm-not-fear practice, and no substitute for professional help. If you are in crisis — for example self-harm thoughts arise — do not delay care: reach out at once to a trusted person or a crisis line.",
+        "ro": "O practică a calmului, nu a fricii, și care nu înlocuiește ajutorul profesionist. Dacă ești în criză — de pildă dacă apar gânduri de autovătămare — nu amâna îngrijirea: caută imediat o persoană de încredere sau o linie de criză."
       },
       "sorszam": 34,
       "mester": "Telekinézis",
@@ -1327,33 +1579,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Elme- és álomnapló",
-        "en": "Mind journal and dream log"
+        "en": "Mind journal and dream log",
+        "ro": "Jurnalul minții și jurnalul de vise"
       },
       "cel": {
         "hu": "A tudatalatti mintázatait megfigyelni az éber gondolatok és az álmok rendszeres feljegyzésével.",
-        "en": "Observe subconscious patterns by regularly recording waking thoughts and dreams."
+        "en": "Observe subconscious patterns by regularly recording waking thoughts and dreams.",
+        "ro": "Să observi tiparele subconștiente notând cu regularitate gândurile din starea de veghe și visele."
       },
       "modszer": [
         {
           "hu": "Reggel vagy este szánj öt percet: milyen gondolatok ismétlődtek, milyen érzelmek voltak erősek?",
-          "en": "Morning or evening spend five minutes: which thoughts recurred, which emotions were strong?"
+          "en": "Morning or evening spend five minutes: which thoughts recurred, which emotions were strong?",
+          "ro": "Dimineața sau seara, ia-ți cinci minute: ce gânduri au revenit, ce emoții au fost puternice?"
         },
         {
           "hu": "Jegyezd fel, felmerült-e ellenállás, kétely vagy váratlan belső kép a gyakorlás közben.",
-          "en": "Note whether resistance, doubt or an unexpected inner image arose during practice."
+          "en": "Note whether resistance, doubt or an unexpected inner image arose during practice.",
+          "ro": "Notează dacă în timpul practicii au apărut rezistență, îndoială sau o imagine lăuntrică neașteptată."
         },
         {
           "hu": "Tarts egy füzetet az ágyad mellett, és ébredéskor írd le, amire az álmaidból emlékszel.",
-          "en": "Keep a notebook by the bed and on waking write down whatever you recall from your dreams."
+          "en": "Keep a notebook by the bed and on waking write down whatever you recall from your dreams.",
+          "ro": "Ține un caiet lângă pat și, la trezire, scrie tot ce îți amintești din vise."
         },
         {
           "hu": "Idővel keresd a visszatérő szimbólumokat, és vesd össze az éber gyakorlás mintázataival.",
-          "en": "Over time look for recurring symbols and compare them with your waking practice patterns."
+          "en": "Over time look for recurring symbols and compare them with your waking practice patterns.",
+          "ro": "Cu timpul, caută simbolurile care revin și compară-le cu tiparele practicii tale din starea de veghe."
         }
       ],
       "keret": {
         "hu": "A Kinesis-ösvény saját belső modellje szerint dolgozunk: nem tényként állítjuk, hogy az elme közvetlenül mozgat anyagot. A naplót önmegfigyelő tükörnek tekintjük; az álomszimbólumok belső jelentések, nem külső jóslatok. A gyakorlat értékét befelé mérjük — figyelem, nyugalom, képzelet, érzékenység és belső változás —, sosem külső csoda ígéreteként. Nem gyerekeknek és nem lelki válságban lévőknek szól; ha nyomasztóvá válik, állj meg és térj vissza a csendes légzéshez.",
-        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The journal is a self-observing mirror; dream symbols are inner meanings, not outward predictions. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing."
+        "en": "We work inside the Kinesis path’s own inner model: we do not assert that the mind literally moves matter. The journal is a self-observing mirror; dream symbols are inner meanings, not outward predictions. The worth of the practice is measured inward — focus, calm, imagination, sensitivity and inner change — never promised as an outward wonder. It is not aimed at children or people in crisis; if it turns oppressive, stop and return to quiet breathing.",
+        "ro": "Lucrăm în modelul interior propriu al căii Kinesis: nu afirmăm că mintea mișcă literalmente materia. Jurnalul este o oglindă de auto-observare; simbolurile din vise sunt înțelesuri lăuntrice, nu preziceri exterioare. Valoarea practicii se măsoară înăuntru — atenție, calm, imaginație, sensibilitate și schimbare lăuntrică — niciodată promisă ca minune exterioară. Nu se adresează copiilor și nici celor aflați în criză sufletească; dacă devine apăsătoare, oprește-te și întoarce-te la respirația liniștită."
       },
       "sorszam": 35,
       "mester": "Telekinézis",

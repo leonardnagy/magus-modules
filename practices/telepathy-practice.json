@@ -3,7 +3,8 @@
   "id": "practice-pack-telepathy-practice",
   "nevek": {
     "hu": "Gyakorlati telepátia — gyakorlatok",
-    "en": "Practical Telepathy — practices"
+    "en": "Practical Telepathy — practices",
+    "ro": "Telepatie practică — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,37 +16,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Elme-csend — a fogadó alapállása",
-        "en": "Stillness of mind — the receiver's ground state"
+        "en": "Stillness of mind — the receiver's ground state",
+        "ro": "Liniștea minții — starea de bază a receptorului"
       },
       "cel": {
         "hu": "Az üres, fogadó figyelem begyakorlása: néhány percig gondolat-kommentár nélkül időzni, hogy a felmerülő benyomások tisztán, szűrés nélkül megfigyelhetők legyenek.",
-        "en": "To train empty, receptive attention: dwelling for a few minutes without mental commentary, so that arising impressions can be observed cleanly, without filtering."
+        "en": "To train empty, receptive attention: dwelling for a few minutes without mental commentary, so that arising impressions can be observed cleanly, without filtering.",
+        "ro": "Să exersezi atenția goală, receptivă: să zăbovești câteva minute fără comentariu mental, astfel încât impresiile care se ivesc să poată fi observate curat, fără filtrare."
       },
       "modszer": [
         {
           "hu": "Ülj kényelmesen, gerinced egyenes, szemed csukva; néhány mély lélegzettel engedd el a nap feszültségét.",
-          "en": "Sit comfortably, spine upright, eyes closed; release the day's tension with a few deep breaths."
+          "en": "Sit comfortably, spine upright, eyes closed; release the day's tension with a few deep breaths.",
+          "ro": "Așază-te comod, cu spatele drept și ochii închiși; lasă să plece tensiunea zilei cu câteva respirații adânci."
         },
         {
           "hu": "Fordítsd figyelmed a belső térre, és hagyd, hogy a gondolatok maguktól elcsituljanak — ne küzdj velük, csak ne fűzz hozzájuk semmit.",
-          "en": "Turn your attention to the inner space and let thoughts settle by themselves — do not fight them, simply add nothing to them."
+          "en": "Turn your attention to the inner space and let thoughts settle by themselves — do not fight them, simply add nothing to them.",
+          "ro": "Întoarce-ți atenția spre spațiul lăuntric și lasă gândurile să se așeze de la sine — nu te lupta cu ele, doar nu le mai adăuga nimic."
         },
         {
           "hu": "Amikor kép, szín vagy érzet merül fel, vedd észre, engedd el, és térj vissza az üres figyelembe.",
-          "en": "When an image, colour or sensation arises, notice it, let it go, and return to the empty attention."
+          "en": "When an image, colour or sensation arises, notice it, let it go, and return to the empty attention.",
+          "ro": "Când se ivește o imagine, o culoare sau o senzație, observ-o, las-o să plece și întoarce-te la atenția goală."
         },
         {
           "hu": "Kezdd három perccel, és növeld fokozatosan tízig; az ülés végén jegyezd fel, milyen sűrűn kellett visszatérned.",
-          "en": "Begin with three minutes and grow gradually to ten; at the end note how often you had to return."
+          "en": "Begin with three minutes and grow gradually to ten; at the end note how often you had to return.",
+          "ro": "Începe cu trei minute și crește treptat până la zece; la sfârșit notează de câte ori a trebuit să te întorci."
         },
         {
           "hu": "Zárásként nyisd ki a szemed, és egy mondatban rögzítsd a naplóban az ülés minőségét.",
-          "en": "To close, open your eyes and record the session's quality in one sentence in the diary."
+          "en": "To close, open your eyes and record the session's quality in one sentence in the diary.",
+          "ro": "La încheiere deschide ochii și consemnează în jurnal, într-o singură propoziție, calitatea sesiunii."
         }
       ],
       "keret": {
         "hu": "Ez a bardoni gondolat-csend rokona, és minden fogadó-munka alapja: a szűretlen megfigyelés készsége. Semmi rendkívülit nem állít — a mérce az, hogy hosszabbodik-e a zavartalan csend, és tisztábban látod-e, mi merül fel benned.",
-        "en": "A cousin of Bardon's vacancy of mind and the foundation of all receiving work: the skill of unfiltered observation. It claims nothing extraordinary — the measure is whether the undisturbed stillness lengthens and whether you see more clearly what arises in you."
+        "en": "A cousin of Bardon's vacancy of mind and the foundation of all receiving work: the skill of unfiltered observation. It claims nothing extraordinary — the measure is whether the undisturbed stillness lengthens and whether you see more clearly what arises in you.",
+        "ro": "O rudă apropiată a vidului de gânduri al lui Bardon și temelia oricărei lucrări de receptare: deprinderea observării nefiltrate. Nu afirmă nimic extraordinar — măsura este dacă liniștea netulburată se lungește și dacă vezi mai limpede ce se ivește în tine."
       },
       "sorszam": 1
     },
@@ -57,37 +66,45 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Kép-kondenzáció — a küldő alapkészsége",
-        "en": "Image condensation — the sender's core skill"
+        "en": "Image condensation — the sender's core skill",
+        "ro": "Condensarea imaginii — deprinderea de bază a emițătorului"
       },
       "cel": {
         "hu": "Egyetlen egyszerű kép olyan sűrűvé és plasztikussá formálása, hogy ingadozás nélkül megálljon az elmében — Bardon X. lépésének küldő-készsége, amely önmagában is elsőrangú koncentráció-edzés.",
-        "en": "To shape one simple image so dense and plastic that it stands in the mind without wavering — the sender's skill of Bardon's Step X, first-rate concentration training in its own right."
+        "en": "To shape one simple image so dense and plastic that it stands in the mind without wavering — the sender's skill of Bardon's Step X, first-rate concentration training in its own right.",
+        "ro": "Să modelezi o singură imagine simplă atât de densă și de plastică încât să stea în minte fără să oscileze — deprinderea de emițător din Pasul X al lui Bardon, care este prin ea însăși un antrenament de concentrare de primă mână."
       },
       "modszer": [
         {
           "hu": "Válassz egyetlen egyszerű célt: egy színt, egy alapformát vagy egy Zener-jelet.",
-          "en": "Choose one simple target: a colour, a basic shape or a Zener symbol."
+          "en": "Choose one simple target: a colour, a basic shape or a Zener symbol.",
+          "ro": "Alege o singură țintă simplă: o culoare, o formă de bază sau un simbol Zener."
         },
         {
           "hu": "Csukott szemmel építsd fel a képet — előbb a körvonal, majd a szín, végül a térbeliség.",
-          "en": "With eyes closed, build the image — outline first, then colour, finally depth."
+          "en": "With eyes closed, build the image — outline first, then colour, finally depth.",
+          "ro": "Cu ochii închiși, construiește imaginea — întâi conturul, apoi culoarea, la urmă adâncimea."
         },
         {
           "hu": "Sűrítsd: képzeld egyre elevenebbé, fényesebbé, jelenvalóbbá, míg szinte tapinthatóan áll előtted.",
-          "en": "Condense it: make it ever more vivid, luminous, present, until it stands before you almost tangibly."
+          "en": "Condense it: make it ever more vivid, luminous, present, until it stands before you almost tangibly.",
+          "ro": "Condenseaz-o: fă-o tot mai vie, mai luminoasă, mai prezentă, până când stă înaintea ta aproape palpabil."
         },
         {
           "hu": "Tartsd meg ingadozás és belső kommentár nélkül — kezdetben egy percig, később ötig.",
-          "en": "Hold it without wavering or inner commentary — one minute at first, later five."
+          "en": "Hold it without wavering or inner commentary — one minute at first, later five.",
+          "ro": "Ține-o fără oscilație și fără comentariu lăuntric — la început un minut, mai târziu cinci."
         },
         {
           "hu": "Ha a kép szétesik, ne bosszankodj: építsd újra nyugodtan, és jegyezd fel, meddig állt.",
-          "en": "If the image falls apart, do not fret: rebuild it calmly and note how long it stood."
+          "en": "If the image falls apart, do not fret: rebuild it calmly and note how long it stood.",
+          "ro": "Dacă imaginea se destramă, nu te necăji: reconstruiește-o calm și notează cât timp a stat."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint az így megformált gondolat átadható — mi ezt a hagyomány állításaként jegyezzük, a gyakorlatot pedig azon mérjük, ami ellenőrizhető: a kép tartóssága és elevensége nő-e hétről hétre.",
-        "en": "The tradition holds that a thought so formed can be transferred — we record that as the tradition's claim, and measure the practice by what is checkable: whether the image's steadiness and vividness grow week by week."
+        "en": "The tradition holds that a thought so formed can be transferred — we record that as the tradition's claim, and measure the practice by what is checkable: whether the image's steadiness and vividness grow week by week.",
+        "ro": "Tradiția susține că un gând astfel format poate fi transmis — noi consemnăm asta ca pretenție a tradiției, iar practica o măsurăm după ceea ce se poate verifica: dacă statornicia și viețuirea imaginii cresc de la o săptămână la alta."
       },
       "sorszam": 2
     },
@@ -98,41 +115,50 @@
       "sik": "lelek",
       "cim": {
         "hu": "A páros egyezség — beleegyezés, időablak, szabálykönyv",
-        "en": "The pair agreement — consent, time window, rulebook"
+        "en": "The pair agreement — consent, time window, rulebook",
+        "ro": "Înțelegerea în doi — consimțământ, fereastră de timp, regulament"
       },
       "cel": {
         "hu": "A közös munka tiszta kereteinek megteremtése: kimondott beleegyezés, rögzített időablak, céltípus és értékelési szabály — minden későbbi párgyakorlat érvényességi feltétele.",
-        "en": "To create clean conditions for joint work: spoken consent, a fixed time window, target type and scoring rule — the validity condition of every later pair practice."
+        "en": "To create clean conditions for joint work: spoken consent, a fixed time window, target type and scoring rule — the validity condition of every later pair practice.",
+        "ro": "Să creați condiții curate pentru lucrul împreună: consimțământ rostit, o fereastră de timp fixată, tipul de țintă și regula de evaluare — condiția de valabilitate a oricărei practici în doi de mai târziu."
       },
       "modszer": [
         {
           "hu": "Ülj le a társaddal, és mondjátok ki kölcsönösen: mindketten önként, kedvvel vesztek részt, és bármikor kiszállhattok.",
-          "en": "Sit down with your partner and state mutually: both of you take part freely, with goodwill, and may step out at any time."
+          "en": "Sit down with your partner and state mutually: both of you take part freely, with goodwill, and may step out at any time.",
+          "ro": "Așază-te cu partenerul tău și spuneți-vă unul altuia: amândoi participați liber, cu bunăvoință, și puteți ieși oricând."
         },
         {
           "hu": "Rögzítsétek az időablakot (pl. tíz perc egy megbeszélt órában) és a helyszíneket — külön szoba vagy külön lakás, minden érzékszervi csatorna zárva.",
-          "en": "Fix the time window (e.g. ten minutes at an agreed hour) and the locations — separate rooms or homes, every sensory channel closed."
+          "en": "Fix the time window (e.g. ten minutes at an agreed hour) and the locations — separate rooms or homes, every sensory channel closed.",
+          "ro": "Fixați fereastra de timp (de exemplu zece minute la o oră stabilită) și locurile — camere sau locuințe separate, cu orice canal senzorial închis."
         },
         {
           "hu": "Válasszatok céltípust a létráról (szín, Zener-jel, kép), és írjátok le az értékelés szabályát: mi számít találatnak, ki dönti el, mikor.",
-          "en": "Choose a target type from the ladder (colour, Zener symbol, picture) and write down the scoring rule: what counts as a hit, who decides, when."
+          "en": "Choose a target type from the ladder (colour, Zener symbol, picture) and write down the scoring rule: what counts as a hit, who decides, when.",
+          "ro": "Alegeți un tip de țintă de pe scară (culoare, simbol Zener, imagine) și scrieți regula de evaluare: ce contează drept nimerire, cine hotărăște, când."
         },
         {
           "hu": "Rögzítsétek előre a sorozat hosszát — és tartsátok magatokat hozzá, akárhogy alakul.",
-          "en": "Fix the series length in advance — and keep to it however the run unfolds."
+          "en": "Fix the series length in advance — and keep to it however the run unfolds.",
+          "ro": "Fixați dinainte lungimea seriei — și țineți-vă de ea, oricum ar decurge."
         },
         {
           "hu": "Az első ülés után tartsatok rövid megbeszélést: mi ment jól, hol szivároghatott jel, min változtattok — írásban.",
-          "en": "After the first session hold a short debrief: what went well, where cues may have leaked, what you will change — in writing."
+          "en": "After the first session hold a short debrief: what went well, where cues may have leaked, what you will change — in writing.",
+          "ro": "După prima sesiune faceți o scurtă analiză: ce a mers bine, pe unde ar fi putut scăpa indicii, ce veți schimba — în scris."
         }
       ],
       "keret": {
         "hu": "Ez a gyakorlat nem díszlet, hanem alap: megállapodás nélkül az eredmény értelmezhetetlen, beleegyezés nélkül pedig a gyakorlat maga tilos. A jó egyezség a barátságot is védi — a nem-találat így közös adat, nem sértődés.",
-        "en": "This practice is not scenery but foundation: without agreement the result is uninterpretable, and without consent the practice itself is forbidden. A good agreement protects the friendship too — a miss becomes shared data, not offence."
+        "en": "This practice is not scenery but foundation: without agreement the result is uninterpretable, and without consent the practice itself is forbidden. A good agreement protects the friendship too — a miss becomes shared data, not offence.",
+        "ro": "Această practică nu e decor, ci temelie: fără înțelegere rezultatul nu poate fi interpretat, iar fără consimțământ practica însăși este interzisă. O înțelegere bună apără și prietenia — un rateu devine astfel dată comună, nu supărare."
       },
       "etika": {
         "hu": "Párgyakorlat kizárólag kölcsönös, kimondott beleegyezéssel létezik. Soha nem célzol olyan embert, aki nem tud a gyakorlatról — se játékból, se jó szándékból. A kiszállás joga bármikor, indoklás nélkül megillet mindkettőtöket.",
-        "en": "Pair practice exists only through mutual, spoken consent. You never target a person who does not know about the practice — not in play, not with good intentions. The right to step out belongs to both of you at any time, without explanation."
+        "en": "Pair practice exists only through mutual, spoken consent. You never target a person who does not know about the practice — not in play, not with good intentions. The right to step out belongs to both of you at any time, without explanation.",
+        "ro": "Practica în doi există numai prin consimțământ reciproc, rostit. Nu ținti niciodată un om care nu știe de practică — nici în joacă, nici cu intenții bune. Dreptul de a ieși vă aparține amândurora oricând, fără explicații."
       },
       "sorszam": 3
     },
@@ -144,45 +170,55 @@
       "elem": "Levego",
       "cim": {
         "hu": "Két szín — az első mérhető sorozat",
-        "en": "Two colours — the first measurable series"
+        "en": "Two colours — the first measurable series",
+        "ro": "Două culori — prima serie măsurabilă"
       },
       "cel": {
         "hu": "A teljes protokoll begyakorlása a legegyszerűbb céltípuson: piros vagy kék, előre kevert sorrendből — ahol a véletlen pontosan 50%, és minden kör tisztán értékelhető.",
-        "en": "To rehearse the full protocol on the simplest target type: red or blue from a pre-shuffled order — where chance is exactly 50% and every round scores cleanly."
+        "en": "To rehearse the full protocol on the simplest target type: red or blue from a pre-shuffled order — where chance is exactly 50% and every round scores cleanly.",
+        "ro": "Să exersați protocolul complet pe cel mai simplu tip de țintă: roșu sau albastru, dintr-o ordine amestecată dinainte — unde hazardul este exact 50% și fiecare rundă se evaluează curat."
       },
       "modszer": [
         {
           "hu": "Készítsetek húsz kártyából álló, alaposan megkevert piros-kék sorrendet, amelyet csak a küldő lát.",
-          "en": "Prepare a thoroughly shuffled order of twenty red/blue cards, seen only by the sender."
+          "en": "Prepare a thoroughly shuffled order of twenty red/blue cards, seen only by the sender.",
+          "ro": "Pregătiți o ordine bine amestecată de douăzeci de cărți roșu/albastru, pe care o vede numai emițătorul."
         },
         {
           "hu": "A megbeszélt időablakban a küldő körönként egy percig kondenzálja az aktuális színt — betölti vele a belső látóterét.",
-          "en": "In the agreed window, the sender condenses the current colour for one minute per round — filling the inner field of view with it."
+          "en": "In the agreed window, the sender condenses the current colour for one minute per round — filling the inner field of view with it.",
+          "ro": "În fereastra stabilită, emițătorul condensează culoarea curentă câte un minut pe rundă — umplându-și cu ea câmpul vizual lăuntric."
         },
         {
           "hu": "A fogadó elme-csendből jegyzi a benyomását, majd leírja a tippjét: piros vagy kék.",
-          "en": "The receiver, from stillness, records the impression, then writes the guess: red or blue."
+          "en": "The receiver, from stillness, records the impression, then writes the guess: red or blue.",
+          "ro": "Receptorul, din liniștea minții, își notează impresia, apoi își scrie presupunerea: roșu sau albastru."
         },
         {
           "hu": "Jelzés (pl. előre egyeztetett óraütem) szerint léptek a következő körre — üzenetváltás nélkül.",
-          "en": "You advance to the next round on a pre-agreed clock rhythm — with no messages exchanged."
+          "en": "You advance to the next round on a pre-agreed clock rhythm — with no messages exchanged.",
+          "ro": "Treceți la runda următoare după un ritm de ceas stabilit dinainte — fără niciun schimb de mesaje."
         },
         {
           "hu": "A sorozat végén egyeztessetek, számoljátok össze a találatokat, és írjátok a napló mellé az 50%-os alapvonalat.",
-          "en": "At the series' end compare, count the hits, and write the 50% baseline next to the log entry."
+          "en": "At the series' end compare, count the hits, and write the 50% baseline next to the log entry.",
+          "ro": "La capătul seriei comparați, numărați nimeririle și scrieți lângă însemnarea din jurnal linia de referință de 50%."
         },
         {
           "hu": "Cseréljetek szerepet, és ismételjétek meg a sorozatot fordítva is.",
-          "en": "Swap roles and repeat the series the other way round."
+          "en": "Swap roles and repeat the series the other way round.",
+          "ro": "Schimbați rolurile și repetați seria și în sens invers."
         }
       ],
       "keret": {
         "hu": "Húsz körből 13-14 találat még simán lehet véletlen — ezért itt tanuld meg a legfontosabb mondatot: kis mintán a nagy kilengés normális. A sorozat értéke a fegyelemben van: teljes napló, előre rögzített hossz, semmi utólagos válogatás.",
-        "en": "Thirteen or fourteen hits out of twenty can still easily be chance — so learn the key sentence here: on small samples, large swings are normal. The series' value lies in discipline: a full log, a pre-fixed length, no after-the-fact selection."
+        "en": "Thirteen or fourteen hits out of twenty can still easily be chance — so learn the key sentence here: on small samples, large swings are normal. The series' value lies in discipline: a full log, a pre-fixed length, no after-the-fact selection.",
+        "ro": "Treisprezece sau paisprezece nimeriri din douăzeci pot fi încă foarte bine hazard — de aceea învață aici propoziția-cheie: pe eșantioane mici, abaterile mari sunt normale. Valoarea seriei stă în disciplină: un jurnal complet, o lungime fixată dinainte, nicio selecție făcută după fapt."
       },
       "etika": {
         "hu": "Csak a megkötött páros egyezség keretei között gyakorolj. A gyengébb sorozat nem kudarc és nem a társad hibája — a számokat adatként kezeljétek, ne ítéletként.",
-        "en": "Practise only within the pair agreement you have made. A weaker series is neither failure nor your partner's fault — treat the numbers as data, not as judgement."
+        "en": "Practise only within the pair agreement you have made. A weaker series is neither failure nor your partner's fault — treat the numbers as data, not as judgement.",
+        "ro": "Exersează numai în cadrul înțelegerii în doi pe care ați încheiat-o. O serie mai slabă nu e nici eșec, nici vina partenerului tău — tratați cifrele ca date, nu ca verdict."
       },
       "sorszam": 4
     },
@@ -194,37 +230,45 @@
       "elem": "Fold",
       "cim": {
         "hu": "Szóló kártyahúzás — azonnali visszajelzéssel",
-        "en": "Solo card draw — with immediate feedback"
+        "en": "Solo card draw — with immediate feedback",
+        "ro": "Tragere solo de cărți — cu verificare imediată"
       },
       "cel": {
         "hu": "Társ nélkül végezhető napi gyakorlat: benyomás jegyzése a húzás előtt, azonnali visszajelzés a lap felfordításával — a benyomás-képzés és a becsületes számolás iskolája.",
-        "en": "A daily practice needing no partner: noting the impression before the draw, immediate feedback on turning the card — a school of impression-forming and honest counting."
+        "en": "A daily practice needing no partner: noting the impression before the draw, immediate feedback on turning the card — a school of impression-forming and honest counting.",
+        "ro": "O practică zilnică ce nu are nevoie de partener: îți notezi impresia înainte de tragere, iar întoarcerea cărții aduce verificarea imediată — o școală a formării impresiei și a numărării cinstite."
       },
       "modszer": [
         {
           "hu": "Keverj meg alaposan egy piros-fekete paklit vagy saját Zener-készletet, és tedd magad elé lefordítva.",
-          "en": "Shuffle thoroughly a red/black deck or your own Zener set and place it face down before you."
+          "en": "Shuffle thoroughly a red/black deck or your own Zener set and place it face down before you.",
+          "ro": "Amestecă bine un pachet roșu/negru sau propriul tău set Zener și așază-l cu fața în jos înaintea ta."
         },
         {
           "hu": "Rögzítsd előre a körszámot — például huszonöt húzást —, és ettől ne térj el.",
-          "en": "Fix the round count in advance — twenty-five draws, for example — and do not depart from it."
+          "en": "Fix the round count in advance — twenty-five draws, for example — and do not depart from it.",
+          "ro": "Fixează dinainte numărul de runde — de pildă douăzeci și cinci de trageri — și nu te abate de la el."
         },
         {
           "hu": "Minden húzás előtt időzz pár lélegzetnyi elme-csendben, majd írd le a benyomásod vagy tipped.",
-          "en": "Before each draw dwell a few breaths in stillness, then write your impression or guess."
+          "en": "Before each draw dwell a few breaths in stillness, then write your impression or guess.",
+          "ro": "Înaintea fiecărei trageri zăbovește câteva respirații în liniștea minții, apoi scrie-ți impresia sau presupunerea."
         },
         {
           "hu": "Fordítsd fel a lapot, jegyezd az eredményt — találat vagy sem —, és tedd félre a lapot érzelem nélkül.",
-          "en": "Turn the card, record the result — hit or not — and set the card aside without emotion."
+          "en": "Turn the card, record the result — hit or not — and set the card aside without emotion.",
+          "ro": "Întoarce cartea, consemnează rezultatul — nimerire sau nu — și pune cartea deoparte fără emoție."
         },
         {
           "hu": "A sorozat végén számold ki az arányt, és írd mellé az alapvonalat: két színnél 50%, öt jelnél 20%.",
-          "en": "At the end compute the rate and write the baseline beside it: 50% for two colours, 20% for five symbols."
+          "en": "At the end compute the rate and write the baseline beside it: 50% for two colours, 20% for five symbols.",
+          "ro": "La final calculează procentul și scrie alături linia de referință: 50% la două culori, 20% la cinci simboluri."
         }
       ],
       "keret": {
         "hu": "Szóló munkában te vagy a kísérletvezető és az alany is — a gyakorlat valódi tárgya ezért a saját becsületed: bekerül-e minden kör, megáll-e az előre rögzített hossz. A távolbalátás-modul jegyzőkönyv-rendje — előbb nyers benyomás, csak a végén név — itt is jó szolgálatot tesz.",
-        "en": "In solo work you are experimenter and subject at once — so the practice's true object is your own honesty: does every round go in, does the pre-fixed length hold. The Remote Viewing module's protocol order — raw impression first, naming only at the end — serves well here too."
+        "en": "In solo work you are experimenter and subject at once — so the practice's true object is your own honesty: does every round go in, does the pre-fixed length hold. The Remote Viewing module's protocol order — raw impression first, naming only at the end — serves well here too.",
+        "ro": "În lucrul solo ești deodată și cel care conduce experimentul, și subiectul lui — de aceea adevăratul obiect al practicii este propria ta cinste: intră oare în jurnal fiecare rundă, se ține oare lungimea fixată dinainte. Rânduiala de protocol a modulului Remote Viewing (RV) — mai întâi impresia brută, numirea abia la sfârșit — face treabă bună și aici."
       },
       "sorszam": 5
     },
@@ -236,45 +280,55 @@
       "elem": "Levego",
       "cim": {
         "hu": "Zener-sorozat — huszonöt lap, öt jel",
-        "en": "The Zener series — twenty-five cards, five symbols"
+        "en": "The Zener series — twenty-five cards, five symbols",
+        "ro": "Seria Zener — douăzeci și cinci de cărți, cinci simboluri"
       },
       "cel": {
         "hu": "A klasszikus ötjeles protokoll végigvitele párban: kör, kereszt, hullámvonal, négyzet, csillag — szigorú elkülönítéssel és teljes naplóval, a 20%-os véletlen-alapvonalhoz mérve.",
-        "en": "To carry the classic five-symbol protocol through in a pair: circle, cross, wavy lines, square, star — with strict separation and a full log, measured against the 20% chance baseline."
+        "en": "To carry the classic five-symbol protocol through in a pair: circle, cross, wavy lines, square, star — with strict separation and a full log, measured against the 20% chance baseline.",
+        "ro": "Să duceți până la capăt, în doi, clasicul protocol cu cinci simboluri: cerc, cruce, linii ondulate, pătrat, stea — cu separare strictă și jurnal complet, măsurat față de linia de referință de 20% a hazardului."
       },
       "modszer": [
         {
           "hu": "Készítsetek 25 lapos Zener-paklit (mind az öt jelből öt), és a küldő keverje meg alaposan.",
-          "en": "Prepare a 25-card Zener deck (five of each symbol) and let the sender shuffle it thoroughly."
+          "en": "Prepare a 25-card Zener deck (five of each symbol) and let the sender shuffle it thoroughly.",
+          "ro": "Pregătiți un pachet Zener de 25 de cărți (câte cinci din fiecare simbol), iar emițătorul să-l amestece bine."
         },
         {
           "hu": "Külön helyiségből, a megbeszélt óraütemben a küldő laponként egy percig kondenzálja a jelet.",
-          "en": "From a separate room, on the agreed clock rhythm, the sender condenses each symbol for one minute per card."
+          "en": "From a separate room, on the agreed clock rhythm, the sender condenses each symbol for one minute per card.",
+          "ro": "Dintr-o cameră separată, după ritmul de ceas stabilit, emițătorul condensează fiecare simbol câte un minut pe carte."
         },
         {
           "hu": "A fogadó körönként egyetlen jelet ír le tippként — és mellé minden nyers benyomást, ami kísérte.",
-          "en": "The receiver writes one symbol per round as the guess — and beside it every raw impression that came with it."
+          "en": "The receiver writes one symbol per round as the guess — and beside it every raw impression that came with it.",
+          "ro": "Receptorul scrie câte un simbol pe rundă drept răspuns — iar alături fiecare impresie brută care l-a însoțit."
         },
         {
           "hu": "Az ülés alatt semmilyen visszajelzés nincs; az egyeztetés csak a 25. kör után történik, a jegyzetek lezárásával.",
-          "en": "No feedback is given during the session; comparison happens only after round 25, with the notes sealed."
+          "en": "No feedback is given during the session; comparison happens only after round 25, with the notes sealed.",
+          "ro": "În timpul sesiunii nu se dă nicio verificare; compararea se face abia după runda 25, cu însemnările sigilate."
         },
         {
           "hu": "Számoljátok össze a találatokat, és írjátok mellé: a véletlen várható értéke 5 a 25-ből.",
-          "en": "Count the hits and write beside them: the chance expectation is 5 out of 25."
+          "en": "Count the hits and write beside them: the chance expectation is 5 out of 25.",
+          "ro": "Numărați nimeririle și scrieți alături: așteptarea din hazard este 5 din 25."
         },
         {
           "hu": "Szerepcsere után ismételjétek meg — és a heti mérlegben több pakli eredményét összesítsétek.",
-          "en": "Repeat after swapping roles — and aggregate several decks' results in the weekly review."
+          "en": "Repeat after swapping roles — and aggregate several decks' results in the weekly review.",
+          "ro": "Repetați după schimbarea rolurilor — iar la recapitularea săptămânală adunați laolaltă rezultatele mai multor pachete."
         }
       ],
       "keret": {
         "hu": "Ez Rhine történeti protokolljának házi, megtisztított változata — épp azokat a réseket zárva, amelyeket a kritika a korai kísérletekben talált: teljes elkülönítés, néma ülés, előre rögzített hossz. Egy pakli semmit sem bizonyít; a több százas összesítés a beszédes szám.",
-        "en": "This is the domestic, cleaned-up version of Rhine's historical protocol — closing exactly the gaps criticism found in the early experiments: full separation, a silent session, pre-fixed length. One deck proves nothing; the aggregate over hundreds is the number that speaks."
+        "en": "This is the domestic, cleaned-up version of Rhine's historical protocol — closing exactly the gaps criticism found in the early experiments: full separation, a silent session, pre-fixed length. One deck proves nothing; the aggregate over hundreds is the number that speaks.",
+        "ro": "Aceasta este versiunea de casă, curățată, a protocolului istoric al lui Rhine — închizând tocmai portițele pe care critica le-a găsit în experimentele timpurii: separare deplină, sesiune tăcută, lungime fixată dinainte. Un singur pachet nu dovedește nimic; abia totalul adunat peste sute de runde este cifra care vorbește."
       },
       "etika": {
         "hu": "Kizárólag beleegyező társsal, a páros egyezség szabályai szerint. Az eredményt — bármilyen — közösen, ítélkezés nélkül nézzétek meg; a pakli nem személyiségteszt.",
-        "en": "Only with a consenting partner, under the rules of the pair agreement. Look at the result — whatever it is — together and without judgement; the deck is not a personality test."
+        "en": "Only with a consenting partner, under the rules of the pair agreement. Look at the result — whatever it is — together and without judgement; the deck is not a personality test.",
+        "ro": "Numai cu un partener care își dă consimțământul, după regulile înțelegerii în doi. Priviți rezultatul — oricare ar fi el — împreună și fără judecată; pachetul nu este un test de personalitate."
       },
       "sorszam": 6
     },
@@ -286,45 +340,55 @@
       "elem": "Viz",
       "cim": {
         "hu": "Szabad válaszú rajz-átvitel — Warcollier nyomán",
-        "en": "Free-response drawing transfer — after Warcollier"
+        "en": "Free-response drawing transfer — after Warcollier",
+        "ro": "Transmiterea unui desen în răspuns liber — după Warcollier"
       },
       "cel": {
         "hu": "A leggazdagabb és legnehezebben értékelhető céltípus fegyelmezett művelése: egyszerű rajz küldése és fogadása, majd vak bírálat négy kép közül, hogy a laza hasonlóság csapdája ne csaljon.",
-        "en": "To work the richest and hardest-to-score target type with discipline: sending and receiving a simple drawing, then blind judging among four pictures, so the trap of loose resemblance cannot deceive."
+        "en": "To work the richest and hardest-to-score target type with discipline: sending and receiving a simple drawing, then blind judging among four pictures, so the trap of loose resemblance cannot deceive.",
+        "ro": "Să lucrezi cu disciplină cel mai bogat și cel mai greu de evaluat tip de țintă: trimiterea și primirea unui desen simplu, apoi evaluarea în orb dintre patru imagini, ca să nu te înșele capcana asemănării vagi."
       },
       "modszer": [
         {
           "hu": "Egy harmadik személy — vagy vak sorsolás — válasszon négy egyszerű rajzból egyet célnak; a fogadó a készletet nem láthatja előre.",
-          "en": "Let a third person — or a blind draw — pick one target from four simple drawings; the receiver must not see the set beforehand."
+          "en": "Let a third person — or a blind draw — pick one target from four simple drawings; the receiver must not see the set beforehand.",
+          "ro": "O a treia persoană — sau o tragere în orb — să aleagă o țintă dintre patru desene simple; receptorul nu are voie să vadă setul dinainte."
         },
         {
           "hu": "Az időablakban a küldő a célrajzot kondenzálja: vonalról vonalra újrarajzolja belül, minden érzékkel.",
-          "en": "In the window, the sender condenses the target drawing: retracing it inwardly line by line, with every sense."
+          "en": "In the window, the sender condenses the target drawing: retracing it inwardly line by line, with every sense.",
+          "ro": "În fereastra de timp, emițătorul condensează desenul-țintă: îl reface lăuntric linie cu linie, cu toate simțurile."
         },
         {
           "hu": "A fogadó rajzol és ír mindent, ami jön — formatöredéket, mozdulatot, hangulatot —, megnevezés és ítélet nélkül.",
-          "en": "The receiver draws and writes everything that comes — shape fragments, movement, mood — without naming or judging."
+          "en": "The receiver draws and writes everything that comes — shape fragments, movement, mood — without naming or judging.",
+          "ro": "Receptorul desenează și scrie tot ce vine — frânturi de formă, mișcare, atmosferă — fără să numească și fără să judece."
         },
         {
           "hu": "Az ablak zárása után a fogadó megkapja mind a négy képet, és vak bírálattal rangsorolja őket: melyik illik legjobban a jegyzeteihez.",
-          "en": "After the window closes, the receiver gets all four pictures and ranks them by blind judging: which fits the notes best."
+          "en": "After the window closes, the receiver gets all four pictures and ranks them by blind judging: which fits the notes best.",
+          "ro": "După ce fereastra se închide, receptorul primește toate cele patru imagini și le clasează prin evaluare în orb: care se potrivește cel mai bine cu însemnările."
         },
         {
           "hu": "Találat, ha az első helyre a valódi cél került — a véletlen így 25%; jegyezzétek az eredményt és a rangsort is.",
-          "en": "It is a hit if the true target ranks first — chance is thus 25%; record both the result and the ranking."
+          "en": "It is a hit if the true target ranks first — chance is thus 25%; record both the result and the ranking.",
+          "ro": "Este nimerire dacă ținta adevărată iese pe primul loc — hazardul este așadar 25%; consemnați și rezultatul, și clasamentul."
         },
         {
           "hu": "Csak ezután beszéljétek át szabadon a részleges egyezéseket — tanulságként, nem pontszámként.",
-          "en": "Only then discuss the partial correspondences freely — as lessons, not as score."
+          "en": "Only then discuss the partial correspondences freely — as lessons, not as score.",
+          "ro": "Abia apoi discutați liber potrivirile parțiale — ca învățăminte, nu ca punctaj."
         }
       ],
       "keret": {
         "hu": "Warcollier csoportos rajzkísérletei és Sinclair „Mental Radio”-ja mutatták meg, milyen lenyűgöző — és milyen félrevezető — tud lenni a részleges hasonlóság. A vak bírálat az a szerszám, amely az élményből mérhető adatot csinál; enélkül a szabad válasz csak szép történet.",
-        "en": "Warcollier's group drawing experiments and Sinclair's 'Mental Radio' showed how fascinating — and how misleading — partial resemblance can be. Blind judging is the tool that turns experience into measurable data; without it, free response is only a fine story."
+        "en": "Warcollier's group drawing experiments and Sinclair's 'Mental Radio' showed how fascinating — and how misleading — partial resemblance can be. Blind judging is the tool that turns experience into measurable data; without it, free response is only a fine story.",
+        "ro": "Experimentele de grup cu desene ale lui Warcollier și „Mental Radio” al lui Sinclair au arătat cât de fascinantă — și cât de înșelătoare — poate fi asemănarea parțială. Evaluarea în orb este unealta care preface trăirea în date măsurabile; fără ea, răspunsul liber rămâne doar o poveste frumoasă."
       },
       "etika": {
         "hu": "A célkészletbe ne kerüljön személyes, terhelő vagy más embert ábrázoló érzékeny anyag. A gyakorlat sosem irányul kívülálló személyre — a cél mindig semleges kép, sosem valakinek a belső világa.",
-        "en": "Keep personal, distressing or sensitive material depicting other people out of the target set. The practice is never aimed at an outside person — the target is always a neutral picture, never someone's inner world."
+        "en": "Keep personal, distressing or sensitive material depicting other people out of the target set. The practice is never aimed at an outside person — the target is always a neutral picture, never someone's inner world.",
+        "ro": "Ține în afara setului de ținte materialul personal, tulburător sau sensibil care înfățișează alți oameni. Practica nu este niciodată îndreptată spre o persoană din afară — ținta este mereu o imagine neutră, niciodată lumea lăuntrică a cuiva."
       },
       "sorszam": 7
     },
@@ -336,41 +400,50 @@
       "elem": "Eter",
       "cim": {
         "hu": "Sorsolt célkép — szóló szabad válasz",
-        "en": "The randomly drawn target — solo free response"
+        "en": "The randomly drawn target — solo free response",
+        "ro": "Ținta trasă la întâmplare — răspuns liber în solo"
       },
       "cel": {
         "hu": "A szabad válaszú munka egyedül végezhető formája: véletlenszám-generátorral sorsolt, még nem látott célkép, benyomás-jegyzés, majd azonnali visszajelzés — társ nélkül is teljes protokoll.",
-        "en": "The solo form of free-response work: a target picture drawn by random number generator and not yet seen, impression noting, then immediate feedback — a full protocol without a partner."
+        "en": "The solo form of free-response work: a target picture drawn by random number generator and not yet seen, impression noting, then immediate feedback — a full protocol without a partner.",
+        "ro": "Forma solo a lucrului cu răspuns liber: o imagine-țintă aleasă cu un generator de numere aleatoare și încă nevăzută, notarea impresiilor, apoi verificarea imediată — un protocol complet, fără partener."
       },
       "modszer": [
         {
           "hu": "Készíts vagy tölts le egy számozott, legalább ötven képből álló gyűjteményt, amelyet nem nézegettél át.",
-          "en": "Prepare or download a numbered collection of at least fifty pictures you have not browsed."
+          "en": "Prepare or download a numbered collection of at least fifty pictures you have not browsed.",
+          "ro": "Pregătește sau descarcă o colecție numerotată de cel puțin cincizeci de imagini pe care nu le-ai răsfoit."
         },
         {
           "hu": "Sorsolj véletlenszám-generátorral egy számot — a képet még ne nyisd ki.",
-          "en": "Draw a number with a random number generator — do not open the picture yet."
+          "en": "Draw a number with a random number generator — do not open the picture yet.",
+          "ro": "Extrage un număr cu un generator de numere aleatoare — nu deschide încă imaginea."
         },
         {
           "hu": "Ülj elme-csendbe, és jegyezz minden benyomást nyersen: formát, színt, anyagot, hangulatot — megnevezés nélkül.",
-          "en": "Sit in stillness and note every impression raw: shape, colour, texture, mood — without naming."
+          "en": "Sit in stillness and note every impression raw: shape, colour, texture, mood — without naming.",
+          "ro": "Stai în liniștea minții și notează brut fiecare impresie: formă, culoare, textură, atmosferă — fără să numești."
         },
         {
           "hu": "Zárd le a jegyzetet egy rövid összefoglaló leírással, és csak ezután nyisd ki a célképet.",
-          "en": "Seal the notes with a short summary description, and only then open the target picture."
+          "en": "Seal the notes with a short summary description, and only then open the target picture.",
+          "ro": "Sigilează însemnările cu o scurtă descriere de ansamblu și abia apoi deschide imaginea-țintă."
         },
         {
           "hu": "Vesd össze becsületesen: mi egyezik, mi nem — mindkettőt írd le, ne csak az egyezést.",
-          "en": "Compare honestly: what matches, what does not — write down both, not only the matches."
+          "en": "Compare honestly: what matches, what does not — write down both, not only the matches.",
+          "ro": "Compară cinstit: ce se potrivește și ce nu — scrie-le pe amândouă, nu doar potrivirile."
         },
         {
           "hu": "Időnként futtass kontroll-kört: értékeld a jegyzeted egy másik, szintén sorsolt kép ellen is, és nézd meg, ott is „találsz-e” egyezést.",
-          "en": "Now and then run a control round: score your notes against another randomly drawn picture too, and see whether you 'find' matches there as well."
+          "en": "Now and then run a control round: score your notes against another randomly drawn picture too, and see whether you 'find' matches there as well.",
+          "ro": "Din când în când fă o rundă de control: evaluează-ți însemnările și față de o altă imagine trasă la întâmplare și vezi dacă „găsești” potriviri și acolo."
         }
       ],
       "keret": {
         "hu": "A kontroll-kör a gyakorlat legőszintébb pillanata: ha a jegyzeted egy vaktában választott másik képre is ugyanolyan jól illik, megismerted a szubjektív validációt működés közben — ez az ismeret értékesebb egy tucat szép találatnál.",
-        "en": "The control round is the practice's most honest moment: if your notes fit another blindly chosen picture just as well, you have met subjective validation in action — knowledge worth more than a dozen pretty hits."
+        "en": "The control round is the practice's most honest moment: if your notes fit another blindly chosen picture just as well, you have met subjective validation in action — knowledge worth more than a dozen pretty hits.",
+        "ro": "Runda de control este cel mai cinstit moment al practicii: dacă însemnările tale se potrivesc la fel de bine și cu o altă imagine aleasă în orb, ai întâlnit validarea subiectivă la lucru — o cunoaștere care valorează mai mult decât o duzină de nimeriri frumoase."
       },
       "sorszam": 8
     },
@@ -382,41 +455,50 @@
       "elem": "Ido",
       "cim": {
         "hu": "Heti mérleg — a számok kiolvasása",
-        "en": "The weekly review — reading out the numbers"
+        "en": "The weekly review — reading out the numbers",
+        "ro": "Recapitularea săptămânală — citirea cifrelor"
       },
       "cel": {
         "hu": "A hét összes naplózott körének összesítése céltípusonként, a véletlen-alapvonalhoz mérve — hogy a gyakorlásod irányát adatok vezessék, ne emlékek és benyomások.",
-        "en": "To aggregate the week's logged rounds per target type, measured against the chance baseline — so that data steers your practice, not memories and impressions."
+        "en": "To aggregate the week's logged rounds per target type, measured against the chance baseline — so that data steers your practice, not memories and impressions.",
+        "ro": "Să aduni pe tipuri de țintă rundele consemnate în săptămâna care a trecut, măsurate față de linia de referință a hazardului — pentru ca practica să-ți fie cârmuită de date, nu de amintiri și impresii."
       },
       "modszer": [
         {
           "hu": "Hetente egyszer, nyugodt órában vedd elő a naplót, és gyűjtsd ki céltípusonként: körök, találatok, arány.",
-          "en": "Once a week, in a quiet hour, take out the log and collect per target type: rounds, hits, rate."
+          "en": "Once a week, in a quiet hour, take out the log and collect per target type: rounds, hits, rate.",
+          "ro": "O dată pe săptămână, într-o oră liniștită, scoate jurnalul și adună pe tipuri de țintă: runde, nimeriri, procent."
         },
         {
           "hu": "Írd minden sor mellé az alapvonalat — 50%, 20% vagy 25% —, és a görgetett összesítést az előző hetekkel együtt.",
-          "en": "Write the baseline next to each row — 50%, 20% or 25% — plus the running total including previous weeks."
+          "en": "Write the baseline next to each row — 50%, 20% or 25% — plus the running total including previous weeks.",
+          "ro": "Scrie lângă fiecare rând linia de referință — 50%, 20% sau 25% — și totalul curent, cu tot cu săptămânile dinainte."
         },
         {
           "hu": "Ellenőrizd a hiánytalanságot: minden megkezdett sorozat teljes-e, került-e ki kör „mert nem sikerült”.",
-          "en": "Check completeness: is every started series whole, did any round drop out 'because it went badly'."
+          "en": "Check completeness: is every started series whole, did any round drop out 'because it went badly'.",
+          "ro": "Verifică integralitatea: este întreagă fiecare serie începută, a căzut vreo rundă „fiindcă a mers prost”."
         },
         {
           "hu": "Száz kör alatt ne vonj le következtetést; a fölött is előbb protokoll-rést keress, ha az arány elszáll fölfelé.",
-          "en": "Draw no conclusion under a hundred rounds; above that, look first for a protocol gap if the rate soars."
+          "en": "Draw no conclusion under a hundred rounds; above that, look first for a protocol gap if the rate soars.",
+          "ro": "Nu trage nicio concluzie sub o sută de runde; peste acest prag, dacă procentul urcă spectaculos, caută mai întâi o portiță în protocol."
         },
         {
           "hu": "Zárd a mérleget egy mondattal: mit tanultál a héten a figyelmedről, a képalkotásodról, a fegyelmedről.",
-          "en": "Close the review with one sentence: what the week taught you about your attention, your imagery, your discipline."
+          "en": "Close the review with one sentence: what the week taught you about your attention, your imagery, your discipline.",
+          "ro": "Încheie recapitularea cu o singură propoziție: ce te-a învățat săptămâna despre atenția ta, despre imaginile tale lăuntrice, despre disciplina ta."
         }
       ],
       "keret": {
         "hu": "A statisztika itt nem a gyakorlat ellensége, hanem a szíve: a véletlen-alapvonal az az őszinte tükör, amelyben a munkád valódi arca látszik. Az alapvonal körüli eredmény nem kudarc — a becsületes nulla is teljes értékű adat, a koncentráció-edzés gyümölcse pedig tőle független.",
-        "en": "Statistics here is not the practice's enemy but its heart: the chance baseline is the honest mirror in which your work's true face appears. A result around the baseline is no failure — an honest zero is fully valid data, and the fruit of the concentration training does not depend on it."
+        "en": "Statistics here is not the practice's enemy but its heart: the chance baseline is the honest mirror in which your work's true face appears. A result around the baseline is no failure — an honest zero is fully valid data, and the fruit of the concentration training does not depend on it.",
+        "ro": "Statistica nu este aici dușmanul practicii, ci inima ei: linia de referință a hazardului este oglinda cinstită în care se arată chipul adevărat al muncii tale. Un rezultat în jurul liniei de referință nu este un eșec — un zero cinstit este o dată pe deplin valabilă, iar rodul antrenamentului de concentrare nu atârnă de el."
       },
       "etika": {
         "hu": "A számokból se magadról, se a társadról ne gyárts címkét — „tehetséges” vagy „vak” senki nem lesz egy sorozattól. És a mérleg sosem érv arra, hogy a beleegyezés szabályát bárhol meglazítsd.",
-        "en": "Manufacture no label from the numbers, for yourself or your partner — no one becomes 'gifted' or 'blind' from one series. And the review is never an argument for loosening the consent rule anywhere."
+        "en": "Manufacture no label from the numbers, for yourself or your partner — no one becomes 'gifted' or 'blind' from one series. And the review is never an argument for loosening the consent rule anywhere.",
+        "ro": "Nu fabrica etichete din cifre, nici pentru tine, nici pentru partenerul tău — nimeni nu devine „înzestrat” sau „orb” dintr-o singură serie. Iar recapitularea nu este niciodată un argument pentru a slăbi undeva regula consimțământului."
       },
       "sorszam": 9
     }

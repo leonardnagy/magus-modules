@@ -3,7 +3,8 @@
   "id": "practice-pack-soul",
   "nevek": {
     "hu": "Lélek-munka és tükrök",
-    "en": "Soul work & mirrors"
+    "en": "Soul work & mirrors",
+    "ro": "Lucrul cu sufletul și oglinzile"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -14,33 +15,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Tükör rendezése elemek és fokozatok szerint",
-        "en": "Sorting the mirror by element and grade"
+        "en": "Sorting the mirror by element and grade",
+        "ro": "Sortarea oglinzii după element și grad"
       },
       "cel": {
         "hu": "A már összeírt tulajdonságaidból térképet készítesz: minden vonást besorolsz a négy elem egyikéhez, majd három erősségi fokozatba, hogy lásd, hol áll az elemi egyensúlyod és hol érdemes kezdened.",
-        "en": "Turn an already-written trait list into a map: assign each trait to one of the four elements, then into three grades of strength, so you can see where your elemental balance stands and where it makes sense to begin."
+        "en": "Turn an already-written trait list into a map: assign each trait to one of the four elements, then into three grades of strength, so you can see where your elemental balance stands and where it makes sense to begin.",
+        "ro": "Transformă o listă de trăsături deja scrisă într-o hartă: repartizează fiecare trăsătură unuia dintre cele patru elemente, apoi în trei grade de intensitate, ca să vezi unde stă echilibrul tău elemental și de unde are sens să începi."
       },
       "modszer": [
         {
           "hu": "Vedd elő a kész listádat, és minden vonás mellé írd oda a mozgatóelemet: akarat/hév = Tűz, gondolkodás = Levegő, érzés = Víz, szilárdság/tudatosság = Föld.",
-          "en": "Take your finished list and mark each trait with its driving element: will/heat = Fire, thinking = Air, feeling = Water, solidity/awareness = Earth."
+          "en": "Take your finished list and mark each trait with its driving element: will/heat = Fire, thinking = Air, feeling = Water, solidity/awareness = Earth.",
+          "ro": "Ia-ți lista terminată și marchează fiecare trăsătură cu elementul care o pune în mișcare: voință/căldură = Foc, gândire = Aer, simțire = Apă, soliditate/conștiență = Pământ."
         },
         {
           "hu": "Ha egy vonás bizonytalan, kérdezd meg, mi hajtja igazából — a domináns késztetés dönt; ez első körben munkahipotézis, nem végső ítélet.",
-          "en": "If a trait is unclear, ask what really drives it — the dominant impulse decides; treat this first pass as a working hypothesis, not a verdict."
+          "en": "If a trait is unclear, ask what really drives it — the dominant impulse decides; treat this first pass as a working hypothesis, not a verdict.",
+          "ro": "Dacă o trăsătură nu e limpede, întreabă-te ce o mână cu adevărat — impulsul dominant decide; tratează această primă trecere ca pe o ipoteză de lucru, nu ca pe o sentință."
         },
         {
           "hu": "Rendezd minden vonást három oszlopba: 1. a legerősebbek (gyakran, apró okra is), 2. a közepesek, 3. a ritkán felbukkanók.",
-          "en": "Sort every trait into three columns: 1. the strongest (frequent, on the slightest cue), 2. the medium ones, 3. those that surface only rarely."
+          "en": "Sort every trait into three columns: 1. the strongest (frequent, on the slightest cue), 2. the medium ones, 3. those that surface only rarely.",
+          "ro": "Împarte fiecare trăsătură în trei coloane: 1. cele mai puternice (frecvente, la cel mai mic semn), 2. cele medii, 3. cele care ies la suprafață doar rareori."
         },
         {
           "hu": "Nézd meg, melyik elem árnyoldala tolakszik az első oszlopba — ez a fő egyensúlyhiányod, és egyben a kezdőpontod.",
-          "en": "See which element's shadow side crowds into the first column — that is your main imbalance and your starting point."
+          "en": "See which element's shadow side crowds into the first column — that is your main imbalance and your starting point.",
+          "ro": "Uită-te care element își îngrămădește latura de umbră în prima coloană — acela e dezechilibrul tău principal și punctul tău de pornire."
         }
       ],
       "keret": {
         "hu": "Ez önismereti rendszerező eszköz a hagyomány elem-nyelvén; nem személyiségdiagnózis. Az értéke abban mérhető, mennyivel tisztábban látod a saját mintáidat utána.",
-        "en": "This is a self-knowledge sorting tool in the tradition's element-language, not a personality diagnosis. Its worth is measured by how much more clearly you see your own patterns afterward."
+        "en": "This is a self-knowledge sorting tool in the tradition's element-language, not a personality diagnosis. Its worth is measured by how much more clearly you see your own patterns afterward.",
+        "ro": "Acesta e un instrument de sortare pentru autocunoaștere, în limbajul elementelor propriu tradiției, nu un diagnostic de personalitate. Valoarea lui se măsoară după cât de limpede îți vezi propriile tipare după aceea."
       },
       "sorszam": 1
     },
@@ -52,33 +60,40 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Impulzusőrség és figyelem-átirányítás",
-        "en": "Impulse guard and attention redirection"
+        "en": "Impulse guard and attention redirection",
+        "ro": "Paza impulsului și redirecționarea atenției"
       },
       "cel": {
         "hu": "Egyetlen kiválasztott hibán dolgozol nappal: elkapod az impulzust, mielőtt tetté válna, és tudatosan olyan helyzeteket keresel, amelyek az ellentétes erényt gyakoroltatják — az elfojtás helyett átalakítva a szokást.",
-        "en": "Work on one chosen fault during the day: catch the impulse before it becomes action, and deliberately seek situations that exercise the opposite virtue — reshaping the habit rather than suppressing it."
+        "en": "Work on one chosen fault during the day: catch the impulse before it becomes action, and deliberately seek situations that exercise the opposite virtue — reshaping the habit rather than suppressing it.",
+        "ro": "Lucrează peste zi cu un singur defect ales: prinde impulsul înainte să devină faptă și caută intenționat situații care exersează virtutea opusă — remodelezi obiceiul, nu îl reprimi."
       },
       "modszer": [
         {
           "hu": "Válaszd ki a legerősebb fokozat egyetlen hibáját, és fogalmazd meg az ellentétes erényt, amely felé alakítod.",
-          "en": "Pick a single fault from the strongest grade and name the opposite virtue you are shaping it toward."
+          "en": "Pick a single fault from the strongest grade and name the opposite virtue you are shaping it toward.",
+          "ro": "Alege un singur defect din gradul cel mai puternic și numește virtutea opusă spre care îl modelezi."
         },
         {
           "hu": "Napközben állj őrt: amikor a hiba késztetése megmozdul, vedd észre, és tartsd vissza, mielőtt cselekvéssé válna.",
-          "en": "Stand guard through the day: when the fault's impulse stirs, notice it and hold it back before it becomes an action."
+          "en": "Stand guard through the day: when the fault's impulse stirs, notice it and hold it back before it becomes an action.",
+          "ro": "Stai de veghe toată ziua: când impulsul defectului se urnește, observă-l și oprește-l înainte să devină faptă."
         },
         {
           "hu": "Keress tudatosan olyan feladatokat, amelyek az ellentétes erényt kívánják meg — aki kapkod, vállaljon lassú, gondos munkát; aki halogat, végezzen azonnal befejezhető apró feladatokat.",
-          "en": "Deliberately take on tasks that call for the opposite virtue — if you rush, choose slow careful work; if you procrastinate, do small tasks you can finish at once."
+          "en": "Deliberately take on tasks that call for the opposite virtue — if you rush, choose slow careful work; if you procrastinate, do small tasks you can finish at once.",
+          "ro": "Ia-ți intenționat sarcini care cer virtutea opusă — dacă te grăbești, alege o muncă lentă și atentă; dacă amâni, fă lucruri mărunte pe care le poți termina pe loc."
         },
         {
           "hu": "Este jegyezd fel a napló mellé, hány impulzust csíptél el, és hol veszítettél — ítélkezés nélkül, ahogy a tudós rögzít egy mérést.",
-          "en": "In the evening record beside your journal how many impulses you caught and where you lost — without judgement, the way a scientist logs a measurement."
+          "en": "In the evening record beside your journal how many impulses you caught and where you lost — without judgement, the way a scientist logs a measurement.",
+          "ro": "Seara notează lângă jurnal câte impulsuri ai prins și unde ai pierdut — fără judecată, așa cum un cercetător își consemnează o măsurătoare."
         }
       ],
       "keret": {
         "hu": "Belső szokásátalakító gyakorlat, rokon a mai figyelem- és szokáskutatás módszereivel. Lassú munka; a mércéje nem a tökéletesség, hanem hogy a régi minta hetek alatt halványul-e.",
-        "en": "An inner habit-reshaping practice, akin to modern attention and habit work. It is slow; the measure is not perfection but whether the old pattern fades over weeks."
+        "en": "An inner habit-reshaping practice, akin to modern attention and habit work. It is slow; the measure is not perfection but whether the old pattern fades over weeks.",
+        "ro": "O practică lăuntrică de remodelare a obiceiului, înrudită cu lucrul modern cu atenția și cu obiceiurile. E lentă; măsura nu e perfecțiunea, ci faptul că vechiul tipar se estompează de-a lungul săptămânilor."
       },
       "sorszam": 2
     },
@@ -90,37 +105,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "Mágikus tükör egyetlen célra szentelése",
-        "en": "Dedicating a magic mirror to one purpose"
+        "en": "Dedicating a magic mirror to one purpose",
+        "ro": "Consacrarea unei oglinzi magice unui singur scop"
       },
       "cel": {
         "hu": "Egy nyugodt, semleges felületet (síküveg vagy homorú tál) egyetlen, előre meghatározott célnak szentelsz, és képzelettel-akarattal ráviszed a kívánt minőséget — hogy a figyelmednek rögzített pontja és a szándékodnak hordozója legyen.",
-        "en": "Dedicate a calm, neutral surface (flat glass or a concave bowl) to a single predefined purpose, and with imagination and will impress the desired quality onto it — giving your attention a fixed anchor and your intention a carrier."
+        "en": "Dedicate a calm, neutral surface (flat glass or a concave bowl) to a single predefined purpose, and with imagination and will impress the desired quality onto it — giving your attention a fixed anchor and your intention a carrier.",
+        "ro": "Consacră o suprafață liniștită, neutră (sticlă plană sau un vas concav) unui singur scop stabilit dinainte și, cu imaginație și voință, imprimă în ea calitatea dorită — astfel atenția ta primește o ancoră fixă, iar intenția ta un purtător."
       },
       "modszer": [
         {
           "hu": "Válassz egy tiszta, sík vagy homorú felületet, amely a te tulajdonod; a homorú forma a hagyomány szerint jobban gyűjti a ráirányított figyelmet.",
-          "en": "Choose a clean flat or concave surface that is yours alone; the concave form, tradition holds, gathers directed attention better."
+          "en": "Choose a clean flat or concave surface that is yours alone; the concave form, tradition holds, gathers directed attention better.",
+          "ro": "Alege o suprafață curată, plană sau concavă, care să fie numai a ta; forma concavă, susține tradiția, adună mai bine atenția dirijată."
         },
         {
           "hu": "Előre döntsd el a tükör egyetlen célját — nyugalom, összpontosítás, egy adott elem minősége —, mert a cél határozza meg a töltést.",
-          "en": "Decide the mirror's single purpose in advance — calm, focus, the quality of one element — because the purpose determines the charge."
+          "en": "Decide the mirror's single purpose in advance — calm, focus, the quality of one element — because the purpose determines the charge.",
+          "ro": "Hotărăște dinainte scopul unic al oglinzii — liniște, concentrare, calitatea unui element — fiindcă scopul determină încărcarea."
         },
         {
           "hu": "Ülj le nyugodtan, és képzeld el, hogy a kívánt minőséget sűrítve a felületbe vetíted, határozott szándékkal rögzítve, mire szolgáljon.",
-          "en": "Sit quietly and imagine projecting the desired quality in condensed form into the surface, fixing with a firm intention what it is to serve."
+          "en": "Sit quietly and imagine projecting the desired quality in condensed form into the surface, fixing with a firm intention what it is to serve.",
+          "ro": "Stai în liniște și imaginează-ți cum proiectezi calitatea dorită, în formă condensată, în suprafață, fixând cu o intenție fermă ce anume urmează să slujească."
         },
         {
           "hu": "Egy tükör — egy cél: ne tölts ugyanarra a felületre később mást, és használaton kívül tartsd letakarva, tiszta kendő alatt.",
-          "en": "One mirror, one purpose: do not later load the same surface with something else, and keep it covered with a clean cloth when not in use."
+          "en": "One mirror, one purpose: do not later load the same surface with something else, and keep it covered with a clean cloth when not in use.",
+          "ro": "O oglindă, un scop: nu încărca mai târziu aceeași suprafață cu altceva și ține-o acoperită cu o pânză curată când nu o folosești."
         }
       ],
       "keret": {
         "hu": "A tradíció szerint minden erő a gyakorlóból ered, a tükör csak fókuszál és megtart — a felület önmagában semleges tárgy. A gyakorlat gyümölcse befelé mérhető: nyugalom, összeszedettség, a szándék tisztulása.",
-        "en": "In the tradition all force comes from the practitioner; the mirror only focuses and holds — the surface itself is a neutral object. Judge the fruit inwardly: calm, composure, a clarifying of intention."
+        "en": "In the tradition all force comes from the practitioner; the mirror only focuses and holds — the surface itself is a neutral object. Judge the fruit inwardly: calm, composure, a clarifying of intention.",
+        "ro": "În tradiție, toată forța vine de la practicant; oglinda doar focalizează și păstrează — suprafața însăși e un obiect neutru. Judecă roada lăuntric: liniște, stăpânire de sine, o limpezire a intenției."
       },
       "etika": {
         "hu": "A tükör soha nem szolgálhat mások magánéletének kifürkészésére vagy befolyásolására; tiszteld mások szabad akaratát. Szigorúan személyes eszköz.",
-        "en": "A mirror must never serve to pry into or influence others' private lives; honour others' free will. It is a strictly personal instrument."
+        "en": "A mirror must never serve to pry into or influence others' private lives; honour others' free will. It is a strictly personal instrument.",
+        "ro": "O oglindă nu trebuie să slujească niciodată la iscodirea sau influențarea vieții private a altora; respectă liberul arbitru al celorlalți. E un instrument strict personal."
       },
       "sorszam": 3
     },
@@ -132,37 +155,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Helyiség átitatása kívánt légkörrel",
-        "en": "Impregnating a room with a chosen atmosphere"
+        "en": "Impregnating a room with a chosen atmosphere",
+        "ro": "Impregnarea unei încăperi cu o atmosferă aleasă"
       },
       "cel": {
         "hu": "Egy szobát tudatosan átitatsz egyetlen kívánt minőséggel — nyugalommal, összpontosítást segítő vagy pihentető hangulattal —, hogy a tér magától támogassa azt, amit ott tenni akarsz.",
-        "en": "Consciously saturate a room with one desired quality — calm, a focus-supporting or restful mood — so that the space itself supports what you mean to do there."
+        "en": "Consciously saturate a room with one desired quality — calm, a focus-supporting or restful mood — so that the space itself supports what you mean to do there.",
+        "ro": "Saturează conștient o încăpere cu o singură calitate dorită — liniște, o stare care sprijină concentrarea sau odihna — astfel încât spațiul însuși să sprijine ceea ce vrei să faci acolo."
       },
       "modszer": [
         {
           "hu": "Nevezd meg pontosan az egyetlen minőséget, amelyet a térbe akarsz vinni, és fogalmazd meg egy rövid mondatban a célját és időtartamát.",
-          "en": "Name precisely the single quality you want to bring into the space, and state in one short sentence its purpose and duration."
+          "en": "Name precisely the single quality you want to bring into the space, and state in one short sentence its purpose and duration.",
+          "ro": "Numește precis singura calitate pe care vrei s-o aduci în spațiu și spune într-o propoziție scurtă scopul și durata ei."
         },
         {
           "hu": "Állj vagy ülj a szoba közepén, csendesedj el a szokásos légzés- és gondolatnyugtatással.",
-          "en": "Stand or sit in the middle of the room and grow still with your usual breath and thought-quieting."
+          "en": "Stand or sit in the middle of the room and grow still with your usual breath and thought-quieting.",
+          "ro": "Stai în picioare sau așezat în mijlocul încăperii și liniștește-te cu respirația și cu potolirea gândurilor pe care le folosești de obicei."
         },
         {
           "hu": "Képzeld el, hogy a kívánt minőség finom közegként megtölti az egész teret a padlótól a mennyezetig, egyenletesen.",
-          "en": "Imagine the desired quality filling the whole space as a subtle medium, floor to ceiling, evenly."
+          "en": "Imagine the desired quality filling the whole space as a subtle medium, floor to ceiling, evenly.",
+          "ro": "Imaginează-ți cum calitatea dorită umple tot spațiul ca un mediu subtil, de la podea până la tavan, uniform."
         },
         {
           "hu": "Zárd le határozott szándékkal, majd figyeld meg a következő napokban, hogyan érzed magad a térben — és újítsd meg időnként.",
-          "en": "Seal it with a firm intention, then over the coming days observe how you feel in the space — and renew it from time to time."
+          "en": "Seal it with a firm intention, then over the coming days observe how you feel in the space — and renew it from time to time.",
+          "ro": "Pecetluiește-o cu o intenție fermă, apoi în zilele următoare observă cum te simți în spațiu — și reînnoiește-o din când în când."
         }
       ],
       "keret": {
         "hu": "A hagyomány szerint a szándékos figyelem és a tér hangulata együtt dolgozik; a hatás elsősorban belső élményként (a saját nyugalmadon, összeszedettségeden) mérhető, nem külső erőként. Nem ígér semmilyen fizikai vagy másokra kiterjedő eredményt.",
-        "en": "The tradition holds that focused attention and a space's mood work together; the effect is felt chiefly as an inner experience (your own calm, composure), not as an external force. It promises no physical result and no effect on other people."
+        "en": "The tradition holds that focused attention and a space's mood work together; the effect is felt chiefly as an inner experience (your own calm, composure), not as an external force. It promises no physical result and no effect on other people.",
+        "ro": "Tradiția susține că atenția concentrată și starea unui spațiu lucrează împreună; efectul se simte mai ales ca trăire lăuntrică (propria ta liniște, stăpânirea de sine), nu ca forță exterioară. Nu promite niciun rezultat fizic și niciun efect asupra altor oameni."
       },
       "etika": {
         "hu": "Csak a saját teredet vagy azt, amelyhez jogod van, itasd át; soha ne próbálj mások hangulatát vagy döntését befolyásolni. Tiszteld mások szabad akaratát.",
-        "en": "Only impregnate your own space or one you have the right to; never try to influence others' moods or choices. Honour others' free will."
+        "en": "Only impregnate your own space or one you have the right to; never try to influence others' moods or choices. Honour others' free will.",
+        "ro": "Impregnează doar spațiul tău sau unul asupra căruia ai dreptul; nu încerca niciodată să influențezi stările sau alegerile altora. Respectă liberul arbitru al celorlalți."
       },
       "sorszam": 4
     },
@@ -173,33 +204,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "Esti nap-visszajátszás semleges megfigyelőként",
-        "en": "Evening replay as a neutral observer"
+        "en": "Evening replay as a neutral observer",
+        "ro": "Reluarea de seară ca observator neutru"
       },
       "cel": {
         "hu": "Minden este kívülről, tárgyilagosan végignézed a napodat — nem bíróként és nem védőügyvédként —, hogy lásd, hol reagáltál a régi minta szerint, majd rövid, őszinte bejegyzést írsz róla.",
-        "en": "Each evening review your day from the outside, matter-of-factly — neither as judge nor defence lawyer — to see where you reacted along the old pattern, then write a short honest entry about it."
+        "en": "Each evening review your day from the outside, matter-of-factly — neither as judge nor defence lawyer — to see where you reacted along the old pattern, then write a short honest entry about it.",
+        "ro": "În fiecare seară treci-ți ziua în revistă din afară, obiectiv — nici ca judecător, nici ca avocat al apărării — ca să vezi unde ai reacționat după vechiul tipar, apoi scrie despre asta o însemnare scurtă și sinceră."
       },
       "modszer": [
         {
           "hu": "Ülj le este pár percre, és játszd le a napod jeleneteit úgy, mintha kívülállóként figyelnéd őket.",
-          "en": "Sit for a few minutes in the evening and replay the day's scenes as if watching them as an outsider."
+          "en": "Sit for a few minutes in the evening and replay the day's scenes as if watching them as an outsider.",
+          "ro": "Stai câteva minute seara și rederulează scenele zilei ca și cum le-ai privi din afară."
         },
         {
           "hu": "Ne ítélkezz és ne magyarázkodj — csak vedd észre, mit tettél, mit mondtál, hol mozdultál a megszokott mintád szerint.",
-          "en": "Do not pass sentence and do not make excuses — just notice what you did, what you said, where you moved along your habitual pattern."
+          "en": "Do not pass sentence and do not make excuses — just notice what you did, what you said, where you moved along your habitual pattern.",
+          "ro": "Nu da sentințe și nu găsi scuze — doar observă ce ai făcut, ce ai spus, unde te-ai mișcat după tiparul tău obișnuit."
         },
         {
           "hu": "Írj néhány őszinte sort: mit gyakoroltál, meddig, milyen minőségben, és a kudarcokat is szépítés nélkül.",
-          "en": "Write a few honest lines: what you practised, for how long, at what quality, and the failures too, without softening."
+          "en": "Write a few honest lines: what you practised, for how long, at what quality, and the failures too, without softening.",
+          "ro": "Scrie câteva rânduri sincere: ce ai exersat, cât timp, la ce calitate — și eșecurile la fel, fără să le îndulcești."
         },
         {
           "hu": "Zárd egyetlen apró dologgal, amin holnap változtatsz — a látás a mai, a változtatás a holnapi feladat.",
-          "en": "Close with one small thing to change tomorrow — seeing is today's task, changing is tomorrow's."
+          "en": "Close with one small thing to change tomorrow — seeing is today's task, changing is tomorrow's.",
+          "ro": "Încheie cu un singur lucru mic de schimbat mâine — a vedea e sarcina de azi, a schimba e sarcina de mâine."
         }
       ],
       "keret": {
         "hu": "Ez tárgyilagos önmegfigyelési és naplózási gyakorlat, rokon a reflektív naplóvezetéssel. A rögzített kudarc nem szégyen, hanem adat; a napló a haladás egyetlen tárgyilagos tanúja.",
-        "en": "This is an objective self-observation and journaling practice, akin to reflective journaling. A recorded failure is not a shame but a data point; the journal is the only objective witness of progress."
+        "en": "This is an objective self-observation and journaling practice, akin to reflective journaling. A recorded failure is not a shame but a data point; the journal is the only objective witness of progress.",
+        "ro": "Aceasta e o practică de autoobservare obiectivă și de ținere a jurnalului, înrudită cu jurnalul reflexiv. Un eșec consemnat nu e o rușine, ci un punct de date; jurnalul e singurul martor obiectiv al progresului."
       },
       "sorszam": 5
     },
@@ -210,33 +248,40 @@
       "sik": "lelek",
       "cim": {
         "hu": "A gyakorlás csendben tartása",
-        "en": "Keeping the practice in silence"
+        "en": "Keeping the practice in silence",
+        "ro": "Păstrarea practicii în tăcere"
       },
       "cel": {
         "hu": "Elhatározod, hogy a belső gyakorlásodról nem beszélsz kívülállóknak — nem titokzatoskodásból, hanem hogy a figyelmed a munkán maradjon, ne a róla festett képen.",
-        "en": "Resolve not to talk about your inner practice to outsiders — not out of mystery-mongering, but to keep your attention on the work itself rather than on the image you paint of it."
+        "en": "Resolve not to talk about your inner practice to outsiders — not out of mystery-mongering, but to keep your attention on the work itself rather than on the image you paint of it.",
+        "ro": "Hotărăște-te să nu vorbești celor din afară despre practica ta lăuntrică — nu din negustorie de mistere, ci ca să-ți ții atenția pe lucrarea însăși, nu pe imaginea pe care o zugrăvești despre ea."
       },
       "modszer": [
         {
           "hu": "Döntsd el tudatosan, hogy a gyakorlataidat magadnak tartod, és ezt írd is be a naplódba mint fogadalmat.",
-          "en": "Consciously decide to keep your practice to yourself, and note it in your journal as a vow."
+          "en": "Consciously decide to keep your practice to yourself, and note it in your journal as a vow.",
+          "ro": "Decide conștient să-ți păstrezi practica pentru tine și notează asta în jurnal ca pe un legământ."
         },
         {
           "hu": "Amikor kísértést érzel megosztani egy eredményt, figyeld meg, kinek a tetszéséért tennéd — és állj meg egy pillanatra.",
-          "en": "When you feel the urge to share a result, notice whose approval you would be seeking — and pause for a moment."
+          "en": "When you feel the urge to share a result, notice whose approval you would be seeking — and pause for a moment.",
+          "ro": "Când simți nevoia să împărtășești un rezultat, observă a cui aprobare o cauți de fapt — și oprește-te o clipă."
         },
         {
           "hu": "Ha valaki rákérdez, elég egy udvarias, semmitmondó válasz; a beszámoló helyét vegye át a naplóbejegyzés.",
-          "en": "If someone asks, a polite non-committal answer is enough; let a journal entry take the place of the account you would have given."
+          "en": "If someone asks, a polite non-committal answer is enough; let a journal entry take the place of the account you would have given.",
+          "ro": "Dacă te întreabă cineva, e de ajuns un răspuns politicos și neangajant; lasă o însemnare în jurnal să ia locul povestirii pe care ai fi făcut-o."
         },
         {
           "hu": "Hetente nézd meg a naplóban, sikerült-e — és mit vettél észre magadon, amikor mégis beszélni akartál róla.",
-          "en": "Weekly, check in your journal whether you kept it — and what you noticed in yourself when you wanted to talk about it after all."
+          "en": "Weekly, check in your journal whether you kept it — and what you noticed in yourself when you wanted to talk about it after all.",
+          "ro": "Săptămânal, verifică în jurnal dacă te-ai ținut de asta — și ce ai observat în tine când totuși ai vrut să vorbești."
         }
       ],
       "keret": {
         "hu": "Ez önfegyelmi és figyelemvédő szokás, nem ezoterikus tilalom. A hagyomány szerint a beszéd szétszórja, amit a munka összegyűjtött; a gyümölcse a saját nyugalmad és összeszedettséged.",
-        "en": "This is a self-discipline and attention-guarding habit, not an esoteric prohibition. The tradition holds that talk scatters what the work has gathered; its fruit is your own calm and composure."
+        "en": "This is a self-discipline and attention-guarding habit, not an esoteric prohibition. The tradition holds that talk scatters what the work has gathered; its fruit is your own calm and composure.",
+        "ro": "Acesta e un obicei de autodisciplină și de pază a atenției, nu o interdicție ezoterică. Tradiția susține că vorba risipește ceea ce lucrarea a adunat; roada lui e propria ta liniște și stăpânire de sine."
       },
       "sorszam": 6
     },
@@ -248,37 +293,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Mentális vándorlás közeli, ismert helyre",
-        "en": "Mental wandering to a nearby known place"
+        "en": "Mental wandering to a nearby known place",
+        "ro": "Rătăcire mentală într-un loc apropiat și cunoscut"
       },
       "cel": {
         "hu": "Nyugodt, kipihent állapotban a figyelmed súlypontját egy közeli, jól ismert helyre helyezed, megfigyeled a részleteket, szelíden visszatérsz — majd utólag összeveted a látottakat a valósággal.",
-        "en": "In a calm, rested state, shift the centre of your attention to a nearby, well-known place, observe the details, return gently — then afterward compare what you saw with reality."
+        "en": "In a calm, rested state, shift the centre of your attention to a nearby, well-known place, observe the details, return gently — then afterward compare what you saw with reality.",
+        "ro": "Într-o stare calmă și odihnită, mută centrul atenției tale într-un loc apropiat și bine cunoscut, observă detaliile, întoarce-te blând — apoi compară pe urmă ce ai văzut cu realitatea."
       },
       "modszer": [
         {
           "hu": "Csak akkor gyakorolj, ha nyugodt, egészséges és kipihent vagy; félve, betegen vagy kimerülten halaszd el.",
-          "en": "Practise only when calm, healthy and rested; if fearful, ill or exhausted, postpone."
+          "en": "Practise only when calm, healthy and rested; if fearful, ill or exhausted, postpone.",
+          "ro": "Exersează doar când ești calm, sănătos și odihnit; dacă ești speriat, bolnav sau epuizat, amână."
         },
         {
           "hu": "Helyezd a tested kényelembe, zavartalan helyre, és rövid, néhány perces ülésekkel indíts.",
-          "en": "Settle your body comfortably in an undisturbed place, and begin with short sessions of a few minutes."
+          "en": "Settle your body comfortably in an undisturbed place, and begin with short sessions of a few minutes.",
+          "ro": "Așază-ți corpul comod într-un loc netulburat și începe cu ședințe scurte, de câteva minute."
         },
         {
           "hu": "Vidd a figyelmedet erőltetés nélkül egy közeli, ismerős helyre — a szomszéd szobába, egy ismerős sarokra —, és figyeld a fényt, a tárgyakat, a változásokat.",
-          "en": "Bring your attention without forcing to a nearby, familiar place — the next room, a known corner — and observe the light, the objects, what has changed."
+          "en": "Bring your attention without forcing to a nearby, familiar place — the next room, a known corner — and observe the light, the objects, what has changed.",
+          "ro": "Adu-ți atenția, fără să forțezi, într-un loc apropiat și familiar — camera de alături, un colț cunoscut — și observă lumina, obiectele, ce s-a schimbat."
         },
         {
           "hu": "Minden alkalommal tudatosan és szelíden térj vissza, majd később nézd meg a helyet, és ellenőrizd, mi egyezett a megfigyelésből.",
-          "en": "Return consciously and gently every time, then later look at the place and check which of your observations matched."
+          "en": "Return consciously and gently every time, then later look at the place and check which of your observations matched.",
+          "ro": "Întoarce-te de fiecare dată conștient și blând, apoi mergi mai târziu să vezi locul și verifică ce observații s-au potrivit."
         }
       ],
       "keret": {
         "hu": "A tradíció ezt a tudat áthelyezésének tekinti; mai kereten belül nyugodtan tekinthető élénk, irányított imaginációs és emlékezeti gyakorlatnak. A módszer szíve az őszinte utólagos ellenőrzés — enélkül önámítás. Nem állít bizonyított testen kívüli észlelést.",
-        "en": "The tradition treats this as a transfer of consciousness; within a modern frame it can be taken as vivid, directed imagination and memory practice. The heart of the method is honest after-the-fact verification — without it, it is self-deception. It asserts no proven perception outside the body."
+        "en": "The tradition treats this as a transfer of consciousness; within a modern frame it can be taken as vivid, directed imagination and memory practice. The heart of the method is honest after-the-fact verification — without it, it is self-deception. It asserts no proven perception outside the body.",
+        "ro": "Tradiția tratează asta ca pe un transfer al conștiinței; într-un cadru modern poate fi luată ca exercițiu viu și dirijat de imaginație și de memorie. Miezul metodei e verificarea sinceră de după — fără ea, e autoamăgire. Nu afirmă nicio percepție dovedită în afara corpului."
       },
       "etika": {
         "hu": "Soha nem irányulhat mások megfigyelésére, magánéletük megsértésére vagy kémkedésre — csak saját, ismert helyekre. Tiszteld mások szabad akaratát és magánszféráját.",
-        "en": "It must never be aimed at observing others, invading their privacy, or spying — only at your own known places. Honour others' free will and privacy."
+        "en": "It must never be aimed at observing others, invading their privacy, or spying — only at your own known places. Honour others' free will and privacy.",
+        "ro": "Nu trebuie îndreptată niciodată spre observarea altora, spre încălcarea intimității lor sau spre spionaj — numai spre locurile tale cunoscute. Respectă liberul arbitru și intimitatea celorlalți."
       },
       "sorszam": 7
     },
@@ -290,37 +343,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Visszatérő érzelmi minta felismerése és kiéheztetése",
-        "en": "Recognizing and starving a recurring emotional pattern"
+        "en": "Recognizing and starving a recurring emotional pattern",
+        "ro": "Recunoașterea și înfometarea unui tipar emoțional care se tot repetă"
       },
       "cel": {
         "hu": "Felismered azt a heves, ismétlődő érzelmet, amely látszólag magától talál meg és önmagát erősíti, majd nyugodt figyelem-elterelessel megvonod tőle a táplálékot — se el nem fojtod, se bele nem merülsz.",
-        "en": "Recognize the intense, recurring emotion that seems to find you on its own and feed itself, then withdraw its fuel through calm, redirected attention — neither suppressing it nor sinking into it."
+        "en": "Recognize the intense, recurring emotion that seems to find you on its own and feed itself, then withdraw its fuel through calm, redirected attention — neither suppressing it nor sinking into it.",
+        "ro": "Recunoaște emoția intensă și repetitivă care pare că te găsește singură și se hrănește singură, apoi retrage-i combustibilul printr-o atenție calmă, redirecționată — fără s-o reprimi și fără să te scufunzi în ea."
       },
       "modszer": [
         {
           "hu": "Introspekcióval állapítsd meg, melyik érzelem tér vissza nálad menetrendszerűen, aránytalan hevességgel, mintha ő találna meg téged.",
-          "en": "Through introspection identify which emotion returns on schedule, with disproportionate intensity, as if it finds you rather than you finding it."
+          "en": "Through introspection identify which emotion returns on schedule, with disproportionate intensity, as if it finds you rather than you finding it.",
+          "ro": "Prin introspecție identifică ce emoție revine ca la program, cu o intensitate disproporționată, ca și cum ea te-ar găsi pe tine, nu tu pe ea."
         },
         {
           "hu": "Amikor jön az ismerős hullám, maradj nyugodt, és állapítsd meg tárgyilagosan: „ez az\" — a puszta felismerés már fél győzelem.",
-          "en": "When the familiar wave comes, stay calm and note matter-of-factly, \"there it is\" — mere recognition is already half the victory."
+          "en": "When the familiar wave comes, stay calm and note matter-of-factly, \"there it is\" — mere recognition is already half the victory.",
+          "ro": "Când vine valul cunoscut, rămâi calm și constată sec: „iată-l” — simpla recunoaștere e deja jumătate din izbândă."
         },
         {
           "hu": "Ne harcolj vele és ne rágódj rajta (a harc és a rágódás is figyelem, a figyelem pedig táplálék); fordítsd a figyelmed határozottan másra — egy gyakorlatra, testi munkára, semleges gondolatsorra.",
-          "en": "Do not fight it or dwell on it (fighting and dwelling are attention too, and attention is food); turn your attention firmly elsewhere — an exercise, physical work, a neutral train of thought."
+          "en": "Do not fight it or dwell on it (fighting and dwelling are attention too, and attention is food); turn your attention firmly elsewhere — an exercise, physical work, a neutral train of thought.",
+          "ro": "Nu te lupta cu el și nu zăbovi asupra lui (și lupta, și zăbovirea sunt tot atenție, iar atenția e hrană); mută-ți atenția ferm în altă parte — un exercițiu, o muncă fizică, un șir de gânduri neutru."
         },
         {
           "hu": "Naplózd hetek-hónapok alatt, hogyan ritkul és halványul a minta — a folyamat lassú, a mércéje a következetesség.",
-          "en": "Journal over weeks and months how the pattern grows rarer and fainter — the process is slow, and its measure is consistency."
+          "en": "Journal over weeks and months how the pattern grows rarer and fainter — the process is slow, and its measure is consistency.",
+          "ro": "Ține jurnal săptămâni și luni la rând despre cum tiparul se rărește și pălește — procesul e lent, iar măsura lui e consecvența."
         }
       ],
       "keret": {
         "hu": "A tradíció ezt egy önállósult gondolatformának, „lárvának\" nevezi; mai kereten belül úgy is érthető, mint egy önmegerősítő érzelmi-figyelmi hurok lebontása. Ha egy minta tartósan nyomaszt vagy meghaladja a mindennapi önsegítést, kérj szakembert.",
-        "en": "The tradition calls this an independent thought-form, a \"larva\"; within a modern frame it can also be read as dismantling a self-reinforcing emotion-attention loop. If a pattern is persistently distressing or beyond everyday self-help, seek a professional."
+        "en": "The tradition calls this an independent thought-form, a \"larva\"; within a modern frame it can also be read as dismantling a self-reinforcing emotion-attention loop. If a pattern is persistently distressing or beyond everyday self-help, seek a professional.",
+        "ro": "Tradiția numește asta o formă-gând de sine stătătoare, o „larvă”; într-un cadru modern poate fi citită și ca desfacerea unei bucle emoție-atenție care se autoîntărește. Dacă un tipar te tulbură stăruitor sau depășește autoajutorarea de zi cu zi, caută un specialist."
       },
       "etika": {
         "hu": "Ez önmegfigyelési gyakorlat, nem terápia, és nem pótolja a szakszerű lelki gondozást. Súlyos szorongás, kényszeres vagy depresszív minta esetén fordulj szakemberhez.",
-        "en": "This is a self-observation practice, not therapy, and does not replace professional mental-health care. For severe anxiety, compulsive or depressive patterns, consult a qualified professional."
+        "en": "This is a self-observation practice, not therapy, and does not replace professional mental-health care. For severe anxiety, compulsive or depressive patterns, consult a qualified professional.",
+        "ro": "Aceasta e o practică de autoobservare, nu o terapie, și nu înlocuiește îngrijirea profesionistă a sănătății mintale. Pentru anxietate severă, tipare compulsive sau depresive, consultă un specialist calificat."
       },
       "sorszam": 8
     },
@@ -331,37 +392,45 @@
       "sik": "szellem",
       "cim": {
         "hu": "Passzív ingakapcsolat és jegyzőkönyvezés",
-        "en": "Passive pendulum contact and record-keeping"
+        "en": "Passive pendulum contact and record-keeping",
+        "ro": "Contact pasiv cu pendulul și consemnarea răspunsurilor"
       },
       "cel": {
         "hu": "Előre rögzített igen/nem jelekkel dolgozó ingával egyszerű passzív gyakorlatot végzel, hidegvérrel jegyzőkönyvezve a válaszokat — a hangsúly nem a jóslaton, hanem a csatorna tisztaságának és a saját nyugalmadnak a tanulásán van.",
-        "en": "Do a simple passive exercise with a pendulum on pre-agreed yes/no signals, coolly recording the answers — the emphasis is not on divination but on learning the cleanliness of the channel and your own composure."
+        "en": "Do a simple passive exercise with a pendulum on pre-agreed yes/no signals, coolly recording the answers — the emphasis is not on divination but on learning the cleanliness of the channel and your own composure.",
+        "ro": "Fă un exercițiu pasiv simplu cu pendulul, pe semnale da/nu stabilite dinainte, consemnând răspunsurile cu răceală — accentul nu cade pe ghicit, ci pe învățarea curățeniei canalului și pe propria ta stăpânire de sine."
       },
       "modszer": [
         {
           "hu": "Csendesedj el a szokásos légzés- és gondolatnyugtatással, és rögzítsd előre az inga igen/nem/bizonytalan jeleit.",
-          "en": "Grow still with your usual breath and thought-quieting, and fix in advance the pendulum's yes/no/uncertain signals."
+          "en": "Grow still with your usual breath and thought-quieting, and fix in advance the pendulum's yes/no/uncertain signals.",
+          "ro": "Liniștește-te cu respirația și cu potolirea gândurilor pe care le folosești de obicei și stabilește dinainte semnalele pendulului pentru da/nu/nesigur."
         },
         {
           "hu": "Tegyél fel néhány egyszerű, ellenőrizhető kérdést, és hagyd a mozgást magától kibontakozni, erőltetés nélkül.",
-          "en": "Ask a few simple, checkable questions and let the movement unfold on its own, without forcing."
+          "en": "Ask a few simple, checkable questions and let the movement unfold on its own, without forcing.",
+          "ro": "Pune câteva întrebări simple, verificabile, și lasă mișcarea să se desfășoare de la sine, fără să forțezi."
         },
         {
           "hu": "Jegyezz fel minden kérdést és választ tárgyilagosan, majd később ellenőrizd, ahol lehet, a valósággal.",
-          "en": "Record every question and answer matter-of-factly, then later verify against reality where you can."
+          "en": "Record every question and answer matter-of-factly, then later verify against reality where you can.",
+          "ro": "Consemnează sec fiecare întrebare și fiecare răspuns, apoi verifică-le mai târziu față de realitate acolo unde poți."
         },
         {
           "hu": "Zárd le nyugodtan, és a naplóban figyeld meg, mennyire volt következetes és nyugodt a saját közreműködésed.",
-          "en": "Close calmly, and in your journal observe how consistent and calm your own participation was."
+          "en": "Close calmly, and in your journal observe how consistent and calm your own participation was.",
+          "ro": "Încheie calm și observă în jurnal cât de consecventă și de calmă a fost propria ta participare."
         }
       ],
       "keret": {
         "hu": "Az inga mozgása a mai megértés szerint jórészt öntudatlan finommozgásokból (ideomotoros hatás) ered; a hagyomány ezt passzív érintkezésnek nevezi. A gyakorlat értéke az önmegfigyelésben és a nyugalom edzésében van, nem megbízható jövendölésben. Ne hozz fontos döntést az inga alapján.",
-        "en": "The pendulum's movement is, on the modern understanding, largely driven by unconscious micro-movements (the ideomotor effect); the tradition calls it passive contact. The value lies in self-observation and training composure, not in reliable prediction. Do not base important decisions on the pendulum."
+        "en": "The pendulum's movement is, on the modern understanding, largely driven by unconscious micro-movements (the ideomotor effect); the tradition calls it passive contact. The value lies in self-observation and training composure, not in reliable prediction. Do not base important decisions on the pendulum.",
+        "ro": "Mișcarea pendulului este, în înțelegerea modernă, în mare parte pusă în mișcare de micromișcări inconștiente (efectul ideomotor); tradiția o numește contact pasiv. Valoarea stă în autoobservare și în antrenarea stăpânirii de sine, nu într-o predicție de încredere. Nu-ți întemeia deciziile importante pe pendul."
       },
       "etika": {
         "hu": "Ne használd mások megítélésére, egészségi vagy pénzügyi döntésekre; ez nem diagnózis és nem tanácsadás. Súlyos kérdésekben fordulj hozzáértő szakemberhez.",
-        "en": "Do not use it to judge others or for health or financial decisions; it is neither diagnosis nor counsel. For serious matters, consult a qualified professional."
+        "en": "Do not use it to judge others or for health or financial decisions; it is neither diagnosis nor counsel. For serious matters, consult a qualified professional.",
+        "ro": "Nu-l folosi ca să-i judeci pe alții și nici pentru decizii de sănătate sau financiare; nu e nici diagnostic, nici sfat. Pentru chestiuni serioase, consultă un specialist calificat."
       },
       "sorszam": 9
     },
@@ -373,37 +442,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "Belső közlések mérlegre tétele",
-        "en": "Weighing inner communications"
+        "en": "Weighing inner communications",
+        "ro": "Cântărirea comunicărilor lăuntrice"
       },
       "cel": {
         "hu": "Kialakítasz egy egyszerű megkülönböztető rutint: bármi is érkezik belső élményként — hang, kép, sugallat —, az eszed és a lelkiismereted mérlegére teszed, mielőtt bármit elhinnél vagy tennél belőle.",
-        "en": "Build a simple discernment routine: whatever arrives as an inner experience — a voice, an image, a prompting — you place on the scales of reason and conscience before believing or acting on any of it."
+        "en": "Build a simple discernment routine: whatever arrives as an inner experience — a voice, an image, a prompting — you place on the scales of reason and conscience before believing or acting on any of it.",
+        "ro": "Construiește-ți o rutină simplă de discernământ: orice sosește ca trăire lăuntrică — o voce, o imagine, un îndemn — pui pe cântarul rațiunii și al conștiinței înainte să crezi ceva sau să acționezi."
       },
       "modszer": [
         {
           "hu": "Bármilyen belső közlésnél állj meg, és tedd fel három kérdést: igaz-e, ésszerű-e, összefér-e az etikámmal?",
-          "en": "At any inner communication, pause and ask three questions: is it true, is it sensible, is it compatible with my ethics?"
+          "en": "At any inner communication, pause and ask three questions: is it true, is it sensible, is it compatible with my ethics?",
+          "ro": "La orice comunicare lăuntrică, oprește-te și pune trei întrebări: e adevărat? e cu judecată? se împacă cu etica mea?"
         },
         {
           "hu": "Vesd el habozás nélkül, ami a józan ésszel vagy az erkölccsel ütközik — függetlenül attól, milyen „forrásból\" érkezni látszik.",
-          "en": "Reject without hesitation whatever collides with sound reason or morality — regardless of what \"source\" it seems to come from."
+          "en": "Reject without hesitation whatever collides with sound reason or morality — regardless of what \"source\" it seems to come from.",
+          "ro": "Respinge fără ezitare tot ce se ciocnește de rațiunea sănătoasă sau de moralitate — indiferent de la ce „sursă” pare să vină."
         },
         {
           "hu": "Figyeld a jeleket: ami hízeleg, kiválasztottnak nevez, gyors hatalmat ígér, vak engedelmességet vagy imádatot követel, azt bizalmatlanul kezeld.",
-          "en": "Watch the signs: whatever flatters, calls you chosen, promises quick power, or demands blind obedience or worship, treat with distrust."
+          "en": "Watch the signs: whatever flatters, calls you chosen, promises quick power, or demands blind obedience or worship, treat with distrust.",
+          "ro": "Fii atent la semne: tot ce te lingușește, te numește ales, promite putere rapidă sau cere ascultare oarbă ori adorare — tratează cu neîncredere."
         },
         {
           "hu": "Vezess erről is naplót, és a legjobb pajzsnak a nyugodt elmét és a kiegyensúlyozott jellemet tekintsd — a félelem az egyetlen tárva hagyott kapu.",
-          "en": "Keep a journal of this too, and regard a calm mind and balanced character as the best shield — fear is the only gate left truly open."
+          "en": "Keep a journal of this too, and regard a calm mind and balanced character as the best shield — fear is the only gate left truly open.",
+          "ro": "Ține jurnal și despre asta și socotește mintea calmă și caracterul echilibrat drept cel mai bun scut — frica e singura poartă rămasă cu adevărat deschisă."
         }
       ],
       "keret": {
         "hu": "Ez kritikai gondolkodási és önvédelmi szokás, amelyet a hagyomány a láthatatlan világgal való érintkezésre fogalmaz meg, de bármely erős belső élményre alkalmazható. A magasabb közlés sosem kéri, hogy kikapcsold a gondolkodásodat.",
-        "en": "This is a critical-thinking and self-protection habit that the tradition frames for contact with the invisible world, but it applies to any strong inner experience. A higher communication never asks you to switch off your thinking."
+        "en": "This is a critical-thinking and self-protection habit that the tradition frames for contact with the invisible world, but it applies to any strong inner experience. A higher communication never asks you to switch off your thinking.",
+        "ro": "Acesta e un obicei de gândire critică și de autoprotecție pe care tradiția îl așază în cadrul contactului cu lumea nevăzută, dar se aplică oricărei trăiri lăuntrice puternice. O comunicare superioară nu-ți cere niciodată să-ți oprești gândirea."
       },
       "etika": {
         "hu": "Ha a belső hangok tolakodóvá, ijesztővé vagy irányítóvá válnak, az nem szellemi rangjelzés — kérj szakembert. A gyakorlat nem helyettesíti a lelki gondozást.",
-        "en": "If inner voices become intrusive, frightening or controlling, that is no spiritual badge — seek a professional. This practice does not replace mental-health care."
+        "en": "If inner voices become intrusive, frightening or controlling, that is no spiritual badge — seek a professional. This practice does not replace mental-health care.",
+        "ro": "Dacă vocile lăuntrice devin intruzive, înspăimântătoare sau stăpânitoare, asta nu e o insignă spirituală — caută un specialist. Această practică nu înlocuiește îngrijirea sănătății mintale."
       },
       "sorszam": 10
     },
@@ -415,33 +492,40 @@
       "elem": "Ido",
       "cim": {
         "hu": "Rögzített órák ritmusa és a napló mint időmérő",
-        "en": "Fixed-hour rhythm and the diary as timekeeper"
+        "en": "Fixed-hour rhythm and the diary as timekeeper",
+        "ro": "Ritmul orei fixe și jurnalul ca păstrător al timpului"
       },
       "cel": {
         "hu": "Minden nap ugyanabban az órában gyakorolsz, hogy a ritmus a szövetségeseddé váljon, és havonta visszaolvasod a naplódat, hogy a fejlődés valódi sebességét ne a hangulatod, hanem a régebbi bejegyzések mutassák meg.",
-        "en": "Practise at the same hour every day so the rhythm becomes your ally, and reread your diary monthly so the true speed of your growth is shown by older entries rather than your mood."
+        "en": "Practise at the same hour every day so the rhythm becomes your ally, and reread your diary monthly so the true speed of your growth is shown by older entries rather than your mood.",
+        "ro": "Exersează în fiecare zi la aceeași oră, ca ritmul să-ți devină aliat, și recitește-ți jurnalul lunar, ca viteza adevărată a creșterii tale să ți-o arate însemnările mai vechi, nu starea ta de moment."
       },
       "modszer": [
         {
           "hu": "Jelölj ki egy napi fix időpontot a gyakorlásra, és tartsd meg akkor is, ha látványos eredmény nincs.",
-          "en": "Set one fixed daily time for practice and keep it even when there is no spectacular result."
+          "en": "Set one fixed daily time for practice and keep it even when there is no spectacular result.",
+          "ro": "Fixează o singură oră zilnică pentru practică și ține-te de ea chiar și când nu apare niciun rezultat spectaculos."
         },
         {
           "hu": "Amikor türelmetlenség fog el, ismerd fel tűz-egyensúlyhibaként, és egyetlen lélegzettel térj vissza a jelenbe — csak ott tehetsz bármit.",
-          "en": "When impatience grips you, recognize it as a fire-imbalance, and return to the present with a single breath — only there can anything be done."
+          "en": "When impatience grips you, recognize it as a fire-imbalance, and return to the present with a single breath — only there can anything be done.",
+          "ro": "Când te apucă nerăbdarea, recunoaște-o ca dezechilibru de Foc și întoarce-te în prezent cu o singură respirație — doar acolo se poate face ceva."
         },
         {
           "hu": "Jegyezd fel a saját ciklusaidat: mikor mélyül a munka gyorsan, és mikor csak ülepszik a megszerzett — mindkettő a növekedéshez tartozik.",
-          "en": "Note your own cycles: when the work deepens quickly and when it merely settles — both belong to growth."
+          "en": "Note your own cycles: when the work deepens quickly and when it merely settles — both belong to growth.",
+          "ro": "Notează-ți propriile cicluri: când lucrarea se adâncește repede și când doar se așază — amândouă țin de creștere."
         },
         {
           "hu": "Havonta olvasd vissza a naplót: nem a tegnapi, hanem a három hónappal ezelőtti bejegyzés mutatja a valódi haladást.",
-          "en": "Reread the diary monthly: it is not yesterday's but the three-month-old entry that reveals real progress."
+          "en": "Reread the diary monthly: it is not yesterday's but the three-month-old entry that reveals real progress.",
+          "ro": "Recitește jurnalul lunar: nu însemnarea de ieri, ci cea de acum trei luni dezvăluie progresul real."
         }
       ],
       "keret": {
         "hu": "Ez a szokásépítés és a türelem gyakorlata a hagyomány idő-nyelvén; a rögzített időpont és a visszaolvasott napló ma is jól ismert eszközök a kitartó fejlődéshez. A mérce nem a naptár, hanem a megépített képesség stabilitása.",
-        "en": "This is habit-building and patience in the tradition's time-language; a fixed slot and a reread diary are well-known tools for steady growth today too. The measure is not the calendar but the stability of what you have built."
+        "en": "This is habit-building and patience in the tradition's time-language; a fixed slot and a reread diary are well-known tools for steady growth today too. The measure is not the calendar but the stability of what you have built.",
+        "ro": "Aceasta e construirea obiceiului și răbdarea, în limbajul timpului propriu tradiției; un interval fix și un jurnal recitit sunt și azi instrumente binecunoscute pentru o creștere statornică. Măsura nu e calendarul, ci stabilitatea a ceea ce ai construit."
       },
       "sorszam": 11
     },
@@ -453,33 +537,40 @@
       "elem": "Materia Prima",
       "cim": {
         "hu": "Szemlélődés az Egyről",
-        "en": "Contemplation on the One"
+        "en": "Contemplation on the One",
+        "ro": "Contemplarea Unului"
       },
       "cel": {
         "hu": "Nem technikát végzel, hanem csendes szemlélődésbe ülsz: a figyelmedet arra az osztatlan forrásra irányítod, amelyből a hagyomány szerint minden forma felmerül — nem hogy birtokba vedd, hanem hogy a gyakorlataid egy nagyobb egész köré rendeződjenek.",
-        "en": "You perform no technique but sit in quiet contemplation: turning your attention to the undivided source from which, in the tradition, all forms arise — not to possess it, but so your practice reorders around a greater whole."
+        "en": "You perform no technique but sit in quiet contemplation: turning your attention to the undivided source from which, in the tradition, all forms arise — not to possess it, but so your practice reorders around a greater whole.",
+        "ro": "Nu execuți nicio tehnică, ci stai într-o contemplare tăcută: îți întorci atenția spre izvorul nedivizat din care, în tradiție, se ivesc toate formele — nu ca să-l stăpânești, ci pentru ca practica ta să se reașeze în jurul unui întreg mai mare."
       },
       "modszer": [
         {
           "hu": "Ülj le nyugodtan, ahogy a légzésnél és a gondolatfegyelemnél tanultad, és engedd el a teljesítménykényszert — itt tájékozódsz, nem teljesítesz.",
-          "en": "Sit calmly, as you learned in breath work and thought discipline, and let go of any drive to perform — here you orient yourself, you do not achieve."
+          "en": "Sit calmly, as you learned in breath work and thought discipline, and let go of any drive to perform — here you orient yourself, you do not achieve.",
+          "ro": "Stai calm, așa cum ai învățat la lucrul cu respirația și la disciplina gândului, și lasă deoparte orice pornire de a performa — aici te orientezi, nu realizezi."
         },
         {
           "hu": "Vegyél egy szemlélődő magot, és időzz vele: „minden forma egyetlen forrásból bomlik ki, és oda tér vissza\".",
-          "en": "Take a contemplative seed and dwell with it: \"every form unfolds from a single source and returns to it\"."
+          "en": "Take a contemplative seed and dwell with it: \"every form unfolds from a single source and returns to it\".",
+          "ro": "Ia o sămânță de contemplare și rămâi cu ea: „orice formă se desfășoară dintr-un singur izvor și se întoarce la el”."
         },
         {
           "hu": "Figyeld meg, hogy minden fogalmad és képed a forrás után születik — ő maga a fogalmaid előtt marad; ne várj látomást vagy jelenséget.",
-          "en": "Notice that every concept and image of yours is born after the source — it itself stays prior to your concepts; expect no vision or phenomenon."
+          "en": "Notice that every concept and image of yours is born after the source — it itself stays prior to your concepts; expect no vision or phenomenon.",
+          "ro": "Observă că orice concept și orice imagine a ta se naște după izvor — el însuși rămâne dinaintea conceptelor tale; nu aștepta nicio viziune și niciun fenomen."
         },
         {
           "hu": "Zárd a szemlélődést alázattal: az eredetet nem birtokolni, csak szolgálni lehet — és épp ez a hódolat óvja meg a gyakorlót a hatalomvágy kísértéseitől.",
-          "en": "Close in humility: the origin cannot be possessed, only served — and it is this reverence that guards the practitioner against the temptations of the hunger for power."
+          "en": "Close in humility: the origin cannot be possessed, only served — and it is this reverence that guards the practitioner against the temptations of the hunger for power.",
+          "ro": "Încheie în smerenie: originea nu poate fi stăpânită, ci doar slujită — și tocmai această evlavie îl păzește pe practicant de ispitele foamei de putere."
         }
       ],
       "keret": {
         "hu": "A tradíció ezt az alkímia „első anyagához\", a megnyilvánulás gyökeréhez kapcsolja; mai kereten belül csendes, tárgy nélküli szemlélődő meditációként végezhető. A gyümölcse befelé mérhető: tágabb perspektíva és mélyebb tisztelet, nem különleges élmény.",
-        "en": "The tradition ties this to the alchemists' \"first matter,\" the root of manifestation; within a modern frame it can be done as a quiet, objectless contemplative meditation. Its fruit is measured inwardly — a wider perspective and deeper reverence, not a special experience."
+        "en": "The tradition ties this to the alchemists' \"first matter,\" the root of manifestation; within a modern frame it can be done as a quiet, objectless contemplative meditation. Its fruit is measured inwardly — a wider perspective and deeper reverence, not a special experience.",
+        "ro": "Tradiția leagă asta de „materia prima” a alchimiștilor, rădăcina manifestării; într-un cadru modern poate fi făcută ca meditație contemplativă tăcută, fără obiect. Roada ei se măsoară lăuntric — o perspectivă mai largă și o evlavie mai adâncă, nu o trăire specială."
       },
       "sorszam": 12
     }

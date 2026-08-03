@@ -3,7 +3,8 @@
   "id": "practice-pack-tarot-oracle",
   "nevek": {
     "hu": "Tarot és orákulum — a psziché tükre — gyakorlatok",
-    "en": "Tarot and Oracle — Mirror of the Psyche — practices"
+    "en": "Tarot and Oracle — Mirror of the Psyche — practices",
+    "ro": "Tarot și oracol — Oglinda psihicului — practici"
   },
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
@@ -15,37 +16,45 @@
       "elem": "Levego",
       "cim": {
         "hu": "A kép szó nélkül",
-        "en": "The image without words"
+        "en": "The image without words",
+        "ro": "Imaginea fără cuvinte"
       },
       "cel": {
         "hu": "Megtanulni a lapot képként nézni, jelentés-címkék nélkül — minden projektív munka alapja: előbb a saját nyers benyomás, csak utána a lexikon.",
-        "en": "To learn to look at a card as an image, without meaning labels — the foundation of all projective work: first your own raw impression, only then the lexicon."
+        "en": "To learn to look at a card as an image, without meaning labels — the foundation of all projective work: first your own raw impression, only then the lexicon.",
+        "ro": "Să înveți să privești o carte ca imagine, fără etichete de sens — temelia oricărei lucrări proiective: mai întâi propria ta impresie brută, abia apoi lexiconul."
       },
       "modszer": [
         {
           "hu": "Válassz találomra egy lapot a pakliból, és állítsd magad elé.",
-          "en": "Pick a card from the deck at random and set it before you."
+          "en": "Pick a card from the deck at random and set it before you.",
+          "ro": "Alege la întâmplare o carte din pachet și așaz-o înaintea ta."
         },
         {
           "hu": "Két-három percen át csak nézd — ne nevezd meg, ne értelmezd.",
-          "en": "For two or three minutes just look — do not name it, do not interpret it."
+          "en": "For two or three minutes just look — do not name it, do not interpret it.",
+          "ro": "Vreme de două-trei minute doar privește — nu o numi, nu o interpreta."
         },
         {
           "hu": "Figyeld, hová téved a szemed: melyik alak, tárgy, szín vonz, és melyik taszít.",
-          "en": "Notice where your eye wanders: which figure, object, colour pulls you, and which pushes you away."
+          "en": "Notice where your eye wanders: which figure, object, colour pulls you, and which pushes you away.",
+          "ro": "Observă unde îți rătăcește privirea: ce figură, ce obiect, ce culoare te atrage și care te respinge."
         },
         {
           "hu": "Nevezd meg egyetlen szóval az érzést, amit a kép kelt benned.",
-          "en": "Name in a single word the feeling the image stirs in you."
+          "en": "Name in a single word the feeling the image stirs in you.",
+          "ro": "Numește într-un singur cuvânt simțirea pe care imaginea o stârnește în tine."
         },
         {
           "hu": "Jegyezd le a naplóba a részletet és az érzést — jelentés-könyv nélkül.",
-          "en": "Note the detail and the feeling in the journal — without any meaning-book."
+          "en": "Note the detail and the feeling in the journal — without any meaning-book.",
+          "ro": "Notează în jurnal detaliul și simțirea — fără nicio carte de semnificații."
         }
       ],
       "keret": {
         "hu": "A lap többértelmű kép, és amit meglátsz benne, rólad beszél — ez a gyakorlat lényege, nem a hibája. Ugyanaz a logika dolgozik itt, mint a lélektan projektív tesztjeiben: a kép nyitott, a történetet te hozod.",
-        "en": "The card is an ambiguous image, and what you see in it speaks about you — that is the point of the practice, not its flaw. The same logic works here as in psychology's projective tests: the image is open, the story is yours."
+        "en": "The card is an ambiguous image, and what you see in it speaks about you — that is the point of the practice, not its flaw. The same logic works here as in psychology's projective tests: the image is open, the story is yours.",
+        "ro": "Cartea este o imagine cu mai multe înțelesuri, iar ceea ce vezi în ea vorbește despre tine — acesta este rostul practicii, nu cusurul ei. Aici lucrează aceeași logică precum în testele proiective ale psihologiei: imaginea este deschisă, povestea o aduci tu."
       },
       "sorszam": 1
     },
@@ -57,41 +66,50 @@
       "elem": "Viz",
       "cim": {
         "hu": "Egylapos napi húzás",
-        "en": "The one-card daily draw"
+        "en": "The one-card daily draw",
+        "ro": "Tragerea zilnică a unei singure cărți"
       },
       "cel": {
         "hu": "A modul alapprotokolljának napi begyakorlása: kép először, hagyomány utána, végül írás — hogy a lap a nap figyelem-fókusza legyen, ne jóslata.",
-        "en": "Daily training of the module's core protocol: image first, tradition after, writing last — so the card becomes the day's attention-focus, not its forecast."
+        "en": "Daily training of the module's core protocol: image first, tradition after, writing last — so the card becomes the day's attention-focus, not its forecast.",
+        "ro": "Exersarea zilnică a protocolului de bază al modulului: întâi imaginea, apoi tradiția, la urmă scrisul — pentru ca acea carte să devină focarul de atenție al zilei, nu prezicerea ei."
       },
       "modszer": [
         {
           "hu": "Reggel, csendben keverd meg a paklit, és húzz egy lapot képpel felfelé.",
-          "en": "In the morning, in quiet, shuffle the deck and draw one card face up."
+          "en": "In the morning, in quiet, shuffle the deck and draw one card face up.",
+          "ro": "Dimineața, în liniște, amestecă pachetul și trage o carte cu fața în sus."
         },
         {
           "hu": "Először CSAK a képet nézd: mi ugrik be elsőre, hová téved a szemed, mi az első érzés.",
-          "en": "First look ONLY at the image: what leaps out, where your eye wanders, what the first feeling is."
+          "en": "First look ONLY at the image: what leaps out, where your eye wanders, what the first feeling is.",
+          "ro": "Mai întâi privește DOAR imaginea: ce îți sare în ochi, unde îți rătăcește privirea, care este prima simțire."
         },
         {
           "hu": "Csak ezután idézd fel vagy nézd meg röviden a hagyományos jelentést, és figyeld meg, hol találkozik a benyomásoddal és hol tér el.",
-          "en": "Only then recall or briefly look up the traditional meaning, and observe where it meets your impression and where it departs."
+          "en": "Only then recall or briefly look up the traditional meaning, and observe where it meets your impression and where it departs.",
+          "ro": "Abia apoi adu-ți aminte sau caută pe scurt semnificația tradițională și observă unde se întâlnește cu impresia ta și unde se depărtează de ea."
         },
         {
           "hu": "Írj öt percen át folyamatosan a napló-kérdésre: „Az életem melyik pontját érinti ez ma?”",
-          "en": "Write continuously for five minutes on the journal question: 'Which point of my life does this touch today?'"
+          "en": "Write continuously for five minutes on the journal question: 'Which point of my life does this touch today?'",
+          "ro": "Scrie fără oprire, timp de cinci minute, la întrebarea de jurnal: „Ce punct al vieții mele atinge asta azi?”"
         },
         {
           "hu": "Este fél percben nézz vissza: mit vettél észre napközben, amit a reggeli lap fókuszba tett.",
-          "en": "In the evening take half a minute to look back: what did you notice during the day that the morning card had brought into focus."
+          "en": "In the evening take half a minute to look back: what did you notice during the day that the morning card had brought into focus.",
+          "ro": "Seara privește o jumătate de minut înapoi: ce ai observat peste zi din ceea ce cartea de dimineață pusese în focar."
         }
       ],
       "keret": {
         "hu": "A napi lap nem a nap előrejelzése, hanem figyelem-fókusz. A Barnum-hatás miatt szinte minden lap „stimmelni” fog — éppen ezért a mérce nem a találat-érzés, hanem az írásos, konkrét munka, amit a lap kiváltott.",
-        "en": "The daily card is not a forecast of the day but an attention-focus. Because of the Barnum effect almost any card will seem to 'fit' — which is exactly why the measure is not the feeling of a hit but the concrete written work the card set off."
+        "en": "The daily card is not a forecast of the day but an attention-focus. Because of the Barnum effect almost any card will seem to 'fit' — which is exactly why the measure is not the feeling of a hit but the concrete written work the card set off.",
+        "ro": "Cartea zilei nu este prezicerea zilei, ci un focar de atenție. Din pricina efectului Barnum aproape orice carte va părea că „se potrivește” — tocmai de aceea măsura nu este senzația de nimerire, ci lucrul concret, scris, pe care cartea l-a declanșat."
       },
       "etika": {
         "hu": "A napi lap nem hoz döntést és nem jósol: döntés előtt a saját, éber mérlegelésed a mérvadó, és a naplóban indokolsz. Ha a húzás kényszeressé válik, tarts szünetet.",
-        "en": "The daily card makes no decision and tells no fortune: before a decision your own waking judgement is the authority, and you justify it in the journal. If drawing becomes compulsive, take a break."
+        "en": "The daily card makes no decision and tells no fortune: before a decision your own waking judgement is the authority, and you justify it in the journal. If drawing becomes compulsive, take a break.",
+        "ro": "Cartea zilei nu ia nicio hotărâre și nu ghicește viitorul: înaintea unei decizii, cumpănirea ta trează este cea care hotărăște, iar în jurnal îți motivezi alegerea. Dacă tragerea devine compulsivă, ia o pauză."
       },
       "sorszam": 2
     },
@@ -102,37 +120,45 @@
       "sik": "test",
       "cim": {
         "hu": "A négy szín — elemek a kézben",
-        "en": "The four suits — elements in hand"
+        "en": "The four suits — elements in hand",
+        "ro": "Cele patru culori — elementele în mână"
       },
       "cel": {
         "hu": "A kis árkánum négy színének elem-minőségét kézközelből megismerni — Bardon tűz–víz–levegő–föld négyességének képi rokonaként.",
-        "en": "To come to know the element quality of the Minor Arcana's four suits at close hand — as the pictorial cousin of Bardon's fire-water-air-earth fourfold."
+        "en": "To come to know the element quality of the Minor Arcana's four suits at close hand — as the pictorial cousin of Bardon's fire-water-air-earth fourfold.",
+        "ro": "Să cunoști de aproape calitatea elementară a celor patru culori ale Arcanelor Minore — ca rudă în imagini a împătririi foc–apă–aer–pământ de la Bardon."
       },
       "modszer": [
         {
           "hu": "Válogasd szét a kis árkánumot négy kupacba: Botok, Kelyhek, Kardok, Érmék.",
-          "en": "Sort the Minor Arcana into four piles: Wands, Cups, Swords, Coins."
+          "en": "Sort the Minor Arcana into four piles: Wands, Cups, Swords, Coins.",
+          "ro": "Împarte Arcanele Minore în patru grămezi: Bastoane, Cupe, Săbii, Monede."
         },
         {
           "hu": "Végy kézbe egy-egy kupacot, lapozd át lassan, és figyeld a visszatérő hangulatot, mozdulatokat, tájakat.",
-          "en": "Take up each pile in turn, leaf through it slowly, and notice the recurring mood, gestures, landscapes."
+          "en": "Take up each pile in turn, leaf through it slowly, and notice the recurring mood, gestures, landscapes.",
+          "ro": "Ia pe rând fiecare grămadă, răsfoiește-o încet și observă atmosfera, gesturile și peisajele care se repetă."
         },
         {
           "hu": "Nevezd meg a négy minőséget: Botok=tűz (akarat, lendület), Kelyhek=víz (érzés, kapcsolat), Kardok=levegő (gondolat, konfliktus), Érmék=föld (test, munka, anyag).",
-          "en": "Name the four qualities: Wands=fire (will, drive), Cups=water (feeling, relationship), Swords=air (thought, conflict), Coins=earth (body, work, matter)."
+          "en": "Name the four qualities: Wands=fire (will, drive), Cups=water (feeling, relationship), Swords=air (thought, conflict), Coins=earth (body, work, matter).",
+          "ro": "Numește cele patru calități: Bastoane=foc (voință, avânt), Cupe=apă (simțire, relație), Săbii=aer (gând, conflict), Monede=pământ (corp, muncă, materie)."
         },
         {
           "hu": "Idézd fel, melyik elem-minőség a legismerősebb neked — és melyik a legidegenebb.",
-          "en": "Recall which element quality is most familiar to you — and which most foreign."
+          "en": "Recall which element quality is most familiar to you — and which most foreign.",
+          "ro": "Adu-ți aminte care calitate elementară îți este cea mai familiară — și care cea mai străină."
         },
         {
           "hu": "Naplózd a két választ egy-egy mondat indoklással.",
-          "en": "Journal both answers with one sentence of reasoning each."
+          "en": "Journal both answers with one sentence of reasoning each.",
+          "ro": "Scrie în jurnal ambele răspunsuri, fiecare cu o propoziție de motivare."
         }
       ],
       "keret": {
         "hu": "Ha jártad Bardon elem-lépéseit, itt képi formában találkozol ugyanazzal a négyességgel — a pakli az app elem-nyelvének képes szótára. A megfeleltetés a hagyomány konvenciója: rend, amelyben dolgozunk, nem természeti törvény.",
-        "en": "If you have walked Bardon's element steps, here you meet the same fourfold in pictorial form — the deck is a picture dictionary of the app's element language. The mapping is the tradition's convention: an order we work in, not a law of nature."
+        "en": "If you have walked Bardon's element steps, here you meet the same fourfold in pictorial form — the deck is a picture dictionary of the app's element language. The mapping is the tradition's convention: an order we work in, not a law of nature.",
+        "ro": "Dacă ai parcurs pașii elementari ai lui Bardon, aici întâlnești aceeași împătrire în formă de imagini — pachetul este un dicționar ilustrat al limbajului elementar din aplicație. Punerea în corespondență este o convenție a tradiției: o rânduială în care lucrăm, nu o lege a naturii."
       },
       "sorszam": 3
     },
@@ -144,37 +170,45 @@
       "elem": "Ido",
       "cim": {
         "hu": "A Bolond útja — kirakás",
-        "en": "The Fool's journey — the layout"
+        "en": "The Fool's journey — the layout",
+        "ro": "Călătoria Nebunului — așezarea"
       },
       "cel": {
         "hu": "A 22 nagy árkánum lapot fejlődés-térképként bejárni, és megtalálni rajta a saját mostani szakaszod — írásos indoklással.",
-        "en": "To walk the 22 Major Arcana cards as a development map and find your own current stage on it — with written reasoning."
+        "en": "To walk the 22 Major Arcana cards as a development map and find your own current stage on it — with written reasoning.",
+        "ro": "Să parcurgi cele 22 de cărți ale Arcanelor Majore ca pe o hartă a dezvoltării și să-ți afli pe ea treapta de acum — cu motivare scrisă."
       },
       "modszer": [
         {
           "hu": "Rakd ki a 22 nagy árkánum lapot sorban, a Bolondtól (0) a Világig (XXI).",
-          "en": "Lay out the 22 Major Arcana cards in order, from the Fool (0) to the World (XXI)."
+          "en": "Lay out the 22 Major Arcana cards in order, from the Fool (0) to the World (XXI).",
+          "ro": "Așază în ordine cele 22 de cărți ale Arcanelor Majore, de la Nebunul (0) până la Lumea (XXI)."
         },
         {
           "hu": "Járd végig a sort a szemeddel, mint egy történetet: indulás, eszközök, belső hang, próbák, visszavonulás, lezárás, összeomló hamis szerkezet, integráció.",
-          "en": "Walk the row with your eyes like a story: departure, tools, inner voice, trials, withdrawal, closure, collapsing false structure, integration."
+          "en": "Walk the row with your eyes like a story: departure, tools, inner voice, trials, withdrawal, closure, collapsing false structure, integration.",
+          "ro": "Parcurge șirul cu ochii ca pe o poveste: plecarea, uneltele, glasul lăuntric, încercările, retragerea, încheierea, structura falsă care se prăbușește, integrarea."
         },
         {
           "hu": "Kérdezd meg: „hol állok most ezen a térképen?” — és válaszd ki a lapot, amelyik a mostani szakaszodat mutatja.",
-          "en": "Ask: 'where do I stand on this map now?' — and choose the card that shows your current stage."
+          "en": "Ask: 'where do I stand on this map now?' — and choose the card that shows your current stage.",
+          "ro": "Întreabă-te: „unde mă aflu acum pe harta asta?” — și alege cartea care arată treapta ta de acum."
         },
         {
           "hu": "Írd meg a naplóba, miért éppen ez a lap — konkrét élethelyzetekkel, nem általánosságokkal.",
-          "en": "Write in the journal why this card in particular — with concrete life situations, not generalities."
+          "en": "Write in the journal why this card in particular — with concrete life situations, not generalities.",
+          "ro": "Scrie în jurnal de ce tocmai această carte — cu situații concrete de viață, nu cu generalități."
         },
         {
           "hu": "Zárásként nézd meg a következő állomást a sorban, és írd le egy mondatban, mit kérne tőled az az átmenet.",
-          "en": "To close, look at the next station in the row and write in one sentence what that transition would ask of you."
+          "en": "To close, look at the next station in the row and write in one sentence what that transition would ask of you.",
+          "ro": "La încheiere privește următoarea stație din șir și scrie într-o propoziție ce ți-ar cere acea trecere."
         }
       ],
       "keret": {
         "hu": "A „Bolond útja” a hagyomány olvasata: fejlődés-térkép, nem életrajz és nem menetrend. Az érték nem abban van, melyik lapot választod, hanem abban, hogyan indoklod — a kirakás az önelhelyezés írásos gyakorlata.",
-        "en": "The 'Fool's journey' is the tradition's reading: a development map, not a biography and not a timetable. The value lies not in which card you choose but in how you justify it — the layout is a written exercise in self-placement."
+        "en": "The 'Fool's journey' is the tradition's reading: a development map, not a biography and not a timetable. The value lies not in which card you choose but in how you justify it — the layout is a written exercise in self-placement.",
+        "ro": "„Călătoria Nebunului” este citirea tradiției: o hartă a dezvoltării, nu o biografie și nu un orar. Valoarea nu stă în ce carte alegi, ci în felul în care îți motivezi alegerea — așezarea este un exercițiu scris de a te situa pe tine însuți."
       },
       "sorszam": 4
     },
@@ -186,37 +220,45 @@
       "elem": "Viz",
       "cim": {
         "hu": "Háromlapos reflexió",
-        "en": "The three-card reflection"
+        "en": "The three-card reflection",
+        "ro": "Oglindirea în trei cărți"
       },
       "cel": {
         "hu": "Egy előre megválasztott reflexiós keretben — pl. „mi táplál / mi akaszt / mi kér figyelmet” — három lapon át rendezni a belső anyagot, írásban.",
-        "en": "Within a frame chosen in advance — e.g. 'what feeds me / what snags me / what asks for attention' — to order the inner material across three cards, in writing."
+        "en": "Within a frame chosen in advance — e.g. 'what feeds me / what snags me / what asks for attention' — to order the inner material across three cards, in writing.",
+        "ro": "Într-un cadru ales dinainte — de pildă „ce mă hrănește / ce mă agață / ce cere atenție” — să-ți așezi în ordine, în scris, materialul lăuntric pe trei cărți."
       },
       "modszer": [
         {
           "hu": "Válaszd meg a keretet ELŐRE, és írd fel a három kérdést a naplóba.",
-          "en": "Choose the frame IN ADVANCE and write the three questions in the journal."
+          "en": "Choose the frame IN ADVANCE and write the three questions in the journal.",
+          "ro": "Alege cadrul DINAINTE și scrie cele trei întrebări în jurnal."
         },
         {
           "hu": "Keverj, és rakd ki a három lapot sorban, a kérdések alá.",
-          "en": "Shuffle and lay the three cards in a row, beneath the questions."
+          "en": "Shuffle and lay the three cards in a row, beneath the questions.",
+          "ro": "Amestecă și așază cele trei cărți într-un rând, sub întrebări."
         },
         {
           "hu": "Lapról lapra ugyanaz a rend: kép először, aztán a hagyomány röviden, végül 2–3 mondat írásban.",
-          "en": "Card by card, the same order: image first, then the tradition briefly, finally 2–3 sentences in writing."
+          "en": "Card by card, the same order: image first, then the tradition briefly, finally 2–3 sentences in writing.",
+          "ro": "Carte cu carte, aceeași ordine: întâi imaginea, apoi pe scurt tradiția, la urmă 2–3 propoziții scrise."
         },
         {
           "hu": "Zárd egyetlen összegző mondattal: „Amit ebből ma meghallok: …”.",
-          "en": "Close with a single summary sentence: 'What I hear from this today: …'."
+          "en": "Close with a single summary sentence: 'What I hear from this today: …'.",
+          "ro": "Încheie cu o singură propoziție de sinteză: „Ce aud din asta azi: …”."
         },
         {
           "hu": "Tedd vissza a lapokat — a kérdés a naplóban él tovább, nem a paklin.",
-          "en": "Return the cards to the deck — the question lives on in the journal, not on the deck."
+          "en": "Return the cards to the deck — the question lives on in the journal, not on the deck.",
+          "ro": "Pune cărțile înapoi în pachet — întrebarea trăiește mai departe în jurnal, nu în pachet."
         }
       ],
       "keret": {
         "hu": "Nem múlt–jelen–jövő jóslás: a keret kérdései a te belső anyagodat rendezik. A keretet azért választod a húzás ELŐTT, mert utólag a megerősítési torzítás választana helyetted — azt a keretet „éreznéd meg”, amelyikben a lapok a legkellemesebbet mondják.",
-        "en": "Not past-present-future divination: the frame's questions order your inner material. You choose the frame BEFORE the draw because afterwards confirmation bias would choose for you — you would 'sense' the frame in which the cards say the most pleasant thing."
+        "en": "Not past-present-future divination: the frame's questions order your inner material. You choose the frame BEFORE the draw because afterwards confirmation bias would choose for you — you would 'sense' the frame in which the cards say the most pleasant thing.",
+        "ro": "Nu este ghicit trecut–prezent–viitor: întrebările cadrului îți pun în ordine materialul lăuntric. Alegi cadrul ÎNAINTE de tragere, fiindcă după aceea ar alege biasul de confirmare în locul tău — ai „simți” tocmai cadrul în care cărțile spun lucrul cel mai plăcut."
       },
       "sorszam": 5
     },
@@ -228,33 +270,40 @@
       "elem": "Levego",
       "cim": {
         "hu": "Ellenpróba — torzítás-vadászat",
-        "en": "The counter-check — bias hunting"
+        "en": "The counter-check — bias hunting",
+        "ro": "Contra-proba — vânătoarea de bias"
       },
       "cel": {
         "hu": "A megerősítési torzítás és a Barnum-hatás tetten érése a saját olvasataidban — a tükör-munka legjózanabb és legmélyebb gyakorlata.",
-        "en": "To catch confirmation bias and the Barnum effect red-handed in your own readings — the soberest and deepest exercise of mirror work."
+        "en": "To catch confirmation bias and the Barnum effect red-handed in your own readings — the soberest and deepest exercise of mirror work.",
+        "ro": "Să prinzi asupra faptului biasul de confirmare și efectul Barnum în propriile tale citiri — cel mai lucid și mai adânc exercițiu al lucrului cu oglinda."
       },
       "modszer": [
         {
           "hu": "Végezz el egy szokásos egylapos húzást a teljes írásos protokollal.",
-          "en": "Do an ordinary one-card draw with the full written protocol."
+          "en": "Do an ordinary one-card draw with the full written protocol.",
+          "ro": "Fă o tragere obișnuită cu o singură carte, cu tot protocolul scris."
         },
         {
           "hu": "Utána írd meg tudatosan az ellenkező olvasatot: „mit mondana ez a lap, ha az ellenkezőjét akarnám igazolni?”",
-          "en": "Then deliberately write the opposite reading: 'what would this card say if I wanted to prove the opposite?'"
+          "en": "Then deliberately write the opposite reading: 'what would this card say if I wanted to prove the opposite?'",
+          "ro": "Apoi scrie dinadins citirea contrară: „ce ar spune cartea asta dacă aș vrea să dovedesc contrariul?”"
         },
         {
           "hu": "Hasonlítsd össze a két olvasatot: melyik mögött van több valódi megfigyelés — és melyik mögött vágy.",
-          "en": "Compare the two readings: which has more genuine observation behind it — and which has desire."
+          "en": "Compare the two readings: which has more genuine observation behind it — and which has desire.",
+          "ro": "Compară cele două citiri: în spatele căreia stă mai multă observație adevărată — și în spatele căreia stă dorința."
         },
         {
           "hu": "Jegyezd fel, mit tanultál ebből a saját torzítás-mintádról.",
-          "en": "Note what this taught you about your own pattern of bias."
+          "en": "Note what this taught you about your own pattern of bias.",
+          "ro": "Notează ce te-a învățat asta despre tiparul tău de bias."
         }
       ],
       "keret": {
         "hu": "A mentalizmus-pajzs logikája: aki érti a hatáskeltés mechanizmusát, azt nem vakítja el. Az érték nem vész el attól, hogy átlátod — átkerül oda, ahová való: az önismereti munkába. A nem-stimmelő olvasat ugyanolyan informatív, mint a stimmelő.",
-        "en": "The logic of the mentalism shield: whoever understands the mechanics of effect cannot be dazzled by them. The value is not lost by seeing through it — it moves where it belongs: into the work of self-knowledge. The reading that does not fit is as informative as the one that does."
+        "en": "The logic of the mentalism shield: whoever understands the mechanics of effect cannot be dazzled by them. The value is not lost by seeing through it — it moves where it belongs: into the work of self-knowledge. The reading that does not fit is as informative as the one that does.",
+        "ro": "Logica scutului din mentalism: cine înțelege mecanica efectului nu se mai lasă orbit de ea. Valoarea nu se pierde prin faptul că vezi prin ea — se mută acolo unde îi este locul: în lucrarea de cunoaștere de sine. Citirea care nu se potrivește spune la fel de mult ca aceea care se potrivește."
       },
       "sorszam": 6
     },
@@ -266,41 +315,50 @@
       "elem": "Tuz",
       "cim": {
         "hu": "Az árnyék-lap",
-        "en": "The shadow card"
+        "en": "The shadow card",
+        "ro": "Cartea-umbră"
       },
       "cel": {
         "hu": "A kellemetlen lapokkal — Halál, Torony, nehéz Kard-jelenetek — való szándékos munka: az ijesztő kép mint az elakadt, lezárásra váró anyag tükre.",
-        "en": "Deliberate work with the unpleasant cards — Death, the Tower, hard Sword scenes: the frightening image as a mirror of stuck material waiting for closure."
+        "en": "Deliberate work with the unpleasant cards — Death, the Tower, hard Sword scenes: the frightening image as a mirror of stuck material waiting for closure.",
+        "ro": "Lucrul deliberat cu cărțile neplăcute — Moartea, Turnul, scenele grele de Săbii: imaginea înfricoșătoare ca oglindă a materialului blocat, care așteaptă o încheiere."
       },
       "modszer": [
         {
           "hu": "Válaszd ki a pakliból azt a lapot, amelyik a legkellemetlenebb neked — most nem húzol: tudatosan választasz.",
-          "en": "Choose from the deck the card most unpleasant to you — no drawing this time: you choose deliberately."
+          "en": "Choose from the deck the card most unpleasant to you — no drawing this time: you choose deliberately.",
+          "ro": "Alege din pachet cartea cea mai neplăcută pentru tine — de data asta nu tragi: alegi în mod deliberat."
         },
         {
           "hu": "Nézd a képet két-három percig, és figyeld, hol reagál rá a tested.",
-          "en": "Look at the image for two or three minutes and notice where your body reacts."
+          "en": "Look at the image for two or three minutes and notice where your body reacts.",
+          "ro": "Privește imaginea două-trei minute și observă unde reacționează corpul tău."
         },
         {
           "hu": "Kérdezd meg írásban: „Mit zárok le éppen? Milyen szerkezet az életemben az, ami már nem tart meg?”",
-          "en": "Ask in writing: 'What am I closing right now? Which structure in my life no longer holds me?'"
+          "en": "Ask in writing: 'What am I closing right now? Which structure in my life no longer holds me?'",
+          "ro": "Întreabă în scris: „Ce închei chiar acum? Ce structură din viața mea nu mă mai ține?”"
         },
         {
           "hu": "Dolgozz a hagyomány kulcsával: a Halál lezárás és átalakulás, a Torony a hamis szerkezet összeomlása — nem szó szerinti jövendölés.",
-          "en": "Work with the tradition's key: Death is closure and transformation, the Tower the collapse of a false structure — not literal fortune-telling."
+          "en": "Work with the tradition's key: Death is closure and transformation, the Tower the collapse of a false structure — not literal fortune-telling.",
+          "ro": "Lucrează cu cheia tradiției: Moartea înseamnă încheiere și transformare, Turnul înseamnă prăbușirea unei structuri false — nu ghicit luat la propriu."
         },
         {
           "hu": "Zárd le valami testessel: egy pohár víz, nyújtózás, nyitott ablak — és a lap visszakerül a pakliba.",
-          "en": "Close with something bodily: a glass of water, a stretch, an open window — and the card returns to the deck."
+          "en": "Close with something bodily: a glass of water, a stretch, an open window — and the card returns to the deck.",
+          "ro": "Încheie cu ceva trupesc: un pahar cu apă, o întindere a corpului, o fereastră deschisă — iar cartea se întoarce în pachet."
         }
       ],
       "keret": {
         "hu": "A lap kép, nem ítélet: a kellemetlen kép a saját elakadt anyagod előhívója, és éppen ezért értékes. A katasztrófa-olvasat — amikor a nehéz lapot szó szerinti fenyegetésként olvasod — nem éberség, hanem szorongás-minta, és néven kell nevezni.",
-        "en": "The card is an image, not a verdict: the unpleasant image retrieves your own stuck material, and that is exactly its value. The doom reading — taking a hard card as a literal threat — is not vigilance but an anxiety pattern, and must be named as such."
+        "en": "The card is an image, not a verdict: the unpleasant image retrieves your own stuck material, and that is exactly its value. The doom reading — taking a hard card as a literal threat — is not vigilance but an anxiety pattern, and must be named as such.",
+        "ro": "Cartea este o imagine, nu o sentință: imaginea neplăcută îți scoate la iveală propriul material blocat, și tocmai în asta stă valoarea ei. Citirea în cheie de nenorocire — a lua o carte grea drept amenințare la propriu — nu este vigilență, ci un tipar de anxietate, și trebuie numită ca atare."
       },
       "etika": {
         "hu": "Ha egy lap tartós szorongást kelt, vagy a gyakorlat után is nyomaszt, tedd le a paklit, és beszélj valakivel; tartós vagy funkciót rontó mintánál fordulj szakemberhez. Akut lelki krízisben ezt a gyakorlatot ne végezd.",
-        "en": "If a card causes lasting anxiety or weighs on you after the practice, put the deck down and talk to someone; with a persistent or function-impairing pattern, see a professional. Do not do this practice in an acute crisis."
+        "en": "If a card causes lasting anxiety or weighs on you after the practice, put the deck down and talk to someone; with a persistent or function-impairing pattern, see a professional. Do not do this practice in an acute crisis.",
+        "ro": "Dacă o carte îți stârnește o neliniște de durată sau te apasă și după practică, lasă pachetul deoparte și vorbește cu cineva; dacă tiparul stăruie sau îți strică funcționarea de zi cu zi, mergi la un specialist. Nu face această practică într-o criză acută."
       },
       "sorszam": 7
     },
@@ -312,45 +370,55 @@
       "elem": "Fold",
       "cim": {
         "hu": "Húzás döntés mellé — a vaskeret",
-        "en": "A draw beside a decision — the iron frame"
+        "en": "A draw beside a decision — the iron frame",
+        "ro": "O tragere alături de o decizie — cadrul de fier"
       },
       "cel": {
         "hu": "Begyakorolni a modul vaskeretét élesben: a lap szempontot ad a mérlegeléshez, de a döntést te hozod, és a naplóban úgy indoklod, hogy a lap nélkül is megállna.",
-        "en": "To train the module's iron frame in real conditions: the card adds a viewpoint to the weighing, but you make the decision, and you justify it in the journal so it would stand even without the card."
+        "en": "To train the module's iron frame in real conditions: the card adds a viewpoint to the weighing, but you make the decision, and you justify it in the journal so it would stand even without the card.",
+        "ro": "Să exersezi în condiții reale cadrul de fier al modulului: cartea adaugă un punct de vedere la cumpănire, dar decizia o iei tu și o motivezi în jurnal astfel încât să stea în picioare și fără carte."
       },
       "modszer": [
         {
           "hu": "Fogalmazd meg írásban a valódi döntéshelyzetet és a szóba jöhető utakat.",
-          "en": "Formulate in writing the real decision situation and the paths under consideration."
+          "en": "Formulate in writing the real decision situation and the paths under consideration.",
+          "ro": "Formulează în scris situația reală de decizie și căile aflate în cumpănă."
         },
         {
           "hu": "Húzz egy lapot — nem „válaszként”, hanem szempont-hozóként: milyen nézőpontot ad a kép, amire eddig nem gondoltál?",
-          "en": "Draw one card — not as an 'answer' but as a viewpoint-bringer: what perspective does the image add that you had not considered?"
+          "en": "Draw one card — not as an 'answer' but as a viewpoint-bringer: what perspective does the image add that you had not considered?",
+          "ro": "Trage o singură carte — nu ca „răspuns”, ci ca aducătoare de punct de vedere: ce perspectivă adaugă imaginea, la care nu te gândiseși?"
         },
         {
           "hu": "Írd össze éber fejjel az érveket és ellenérveket, a lap hozta szemponttal együtt.",
-          "en": "With a waking head, list the arguments for and against, including the viewpoint the card brought."
+          "en": "With a waking head, list the arguments for and against, including the viewpoint the card brought.",
+          "ro": "Cu capul treaz, înșiră argumentele pentru și împotrivă, inclusiv punctul de vedere adus de carte."
         },
         {
           "hu": "Hozd meg a döntést TE, és indokold meg a naplóban.",
-          "en": "Make the decision YOURSELF and justify it in the journal."
+          "en": "Make the decision YOURSELF and justify it in the journal.",
+          "ro": "Ia decizia TU ÎNSUȚI și motiveaz-o în jurnal."
         },
         {
           "hu": "Ellenőrizd: megállna-e az indoklásod a lap említése nélkül is? Ha nem, a mérlegelés még nem kész.",
-          "en": "Check: would your justification stand without mentioning the card? If not, the weighing is not yet done."
+          "en": "Check: would your justification stand without mentioning the card? If not, the weighing is not yet done.",
+          "ro": "Verifică: ar sta motivarea ta în picioare fără să pomenești cartea? Dacă nu, cumpănirea nu este încă gata."
         },
         {
           "hu": "Utólag jegyezd fel, mit adott ténylegesen a lap a folyamathoz.",
-          "en": "Afterwards note what the card actually contributed to the process."
+          "en": "Afterwards note what the card actually contributed to the process.",
+          "ro": "După aceea notează cu ce a contribuit de fapt cartea la acest proces."
         }
       ],
       "keret": {
         "hu": "Ez a gyakorlat a modul tartószerkezete: a lap anyagot ad, a felelősség nálad marad. Aki a döntéseit a paklinak adja át, nem tükröt használ, hanem a felelősségét szervezi ki — és pontosan ezt gyakoroljuk el nem tenni.",
-        "en": "This practice is the module's load-bearing structure: the card supplies material, the responsibility stays with you. Whoever hands decisions to the deck is not using a mirror but outsourcing responsibility — and not doing that is exactly what we train."
+        "en": "This practice is the module's load-bearing structure: the card supplies material, the responsibility stays with you. Whoever hands decisions to the deck is not using a mirror but outsourcing responsibility — and not doing that is exactly what we train.",
+        "ro": "Această practică este structura de rezistență a modulului: cartea dă material, răspunderea rămâne la tine. Cine predă deciziile pachetului nu folosește o oglindă, ci dă răspunderea pe mâna altcuiva — iar exact asta exersăm să nu facem."
       },
       "etika": {
         "hu": "Döntést soha nem a kártya hoz. Orvosi, pénzügyi és jogi kérdésben a megfelelő szakember a mérvadó; bűnügy és eltűnt személy keresése lapokkal nem téma — az a hatóságokra tartozik. Akut krízisben nem lapot húzunk, hanem segítséget hívunk.",
-        "en": "A decision is never made by the card. In medical, financial and legal questions the appropriate professional is the authority; searching for crimes or missing persons with cards is not a topic — that belongs to the authorities. In an acute crisis we do not draw a card, we call for help."
+        "en": "A decision is never made by the card. In medical, financial and legal questions the appropriate professional is the authority; searching for crimes or missing persons with cards is not a topic — that belongs to the authorities. In an acute crisis we do not draw a card, we call for help.",
+        "ro": "Decizia nu o ia niciodată cartea. În chestiuni medicale, financiare și juridice, specialistul potrivit este cel care hotărăște; căutarea infracțiunilor sau a persoanelor dispărute cu ajutorul cărților nu este un subiect — asta ține de autorități. Într-o criză acută nu tragem o carte, ci cerem ajutor."
       },
       "sorszam": 8
     },
@@ -362,37 +430,45 @@
       "elem": "Eter",
       "cim": {
         "hu": "Saját jelentés-tár",
-        "en": "Your own book of meanings"
+        "en": "Your own book of meanings",
+        "ro": "Propria ta carte de semnificații"
       },
       "cel": {
         "hu": "Hetek munkájával felépíteni a saját, tapasztalatból nőtt jelentés-szótárad — hogy a végén ne a lexikon olvassa a lapot, hanem a naplód.",
-        "en": "Over weeks of work, to build your own meaning dictionary grown from experience — so that in the end it is not the lexicon reading the card but your journal."
+        "en": "Over weeks of work, to build your own meaning dictionary grown from experience — so that in the end it is not the lexicon reading the card but your journal.",
+        "ro": "Să-ți clădești, în săptămâni de lucru, propriul dicționar de semnificații crescut din experiență — pentru ca la capăt cartea să nu fie citită de lexicon, ci de jurnalul tău."
       },
       "modszer": [
         {
           "hu": "Vezess laponkénti gyűjtőt a naplódban: mikor jött elő a lap, és mit hozott felszínre benned.",
-          "en": "Keep a per-card collection in your journal: when the card appeared and what it surfaced in you."
+          "en": "Keep a per-card collection in your journal: when the card appeared and what it surfaced in you.",
+          "ro": "Ține în jurnal o colecție pe cărți: când a apărut cartea și ce a scos la suprafață în tine."
         },
         {
           "hu": "Havonta olvasd vissza a gyűjtőt, és írd meg lapokként a saját, 1–2 mondatos jelentésed.",
-          "en": "Each month read the collection back and write your own 1–2 sentence meaning per card."
+          "en": "Each month read the collection back and write your own 1–2 sentence meaning per card.",
+          "ro": "În fiecare lună recitește colecția și scrie pentru fiecare carte propria ta semnificație, în 1–2 propoziții."
         },
         {
           "hu": "Csak ezután vesd össze Waite közkincs kulcsával (The Pictorial Key to the Tarot, 1911): hol egyezik, hol tér el.",
-          "en": "Only then compare it with Waite's public-domain key (The Pictorial Key to the Tarot, 1911): where it agrees, where it departs."
+          "en": "Only then compare it with Waite's public-domain key (The Pictorial Key to the Tarot, 1911): where it agrees, where it departs.",
+          "ro": "Abia apoi compar-o cu cheia lui Waite, aflată în domeniul public (The Pictorial Key to the Tarot, 1911): unde se potrivește și unde se depărtează."
         },
         {
           "hu": "Az eltérést ne hibának lásd, hanem a saját tükröd rajzolatának — jegyezd fel külön.",
-          "en": "See the departure not as an error but as the tracing of your own mirror — note it separately."
+          "en": "See the departure not as an error but as the tracing of your own mirror — note it separately.",
+          "ro": "Vezi depărtarea nu ca pe o greșeală, ci ca pe conturul propriei tale oglinzi — notează-o separat."
         },
         {
           "hu": "Időnként frissítsd a tárat: élő szöveg, amely veled együtt változik.",
-          "en": "Refresh the collection from time to time: a living text that changes with you."
+          "en": "Refresh the collection from time to time: a living text that changes with you.",
+          "ro": "Împrospătează colecția din când în când: un text viu, care se schimbă odată cu tine."
         }
       ],
       "keret": {
         "hu": "A hagyomány jelentés-listái konvenciók — a projektív munkában a te ismétlődő mintáid az igazi adat. A rend ugyanaz, mint az RV-modul vak-protokolljában: előbb a saját nyers adat, csak utána a címke; így a tár a pszichéd térképe lesz, nem egy könyv másolata.",
-        "en": "The tradition's meaning lists are conventions — in projective work your recurring patterns are the real data. The order is the same as in the RV module's blind protocol: first your own raw data, only then the label; thus the collection becomes a map of your psyche, not the copy of a book."
+        "en": "The tradition's meaning lists are conventions — in projective work your recurring patterns are the real data. The order is the same as in the RV module's blind protocol: first your own raw data, only then the label; thus the collection becomes a map of your psyche, not the copy of a book.",
+        "ro": "Listele de semnificații ale tradiției sunt convenții — în lucrul proiectiv, tiparele tale care se repetă sunt datele adevărate. Rânduiala este aceeași ca în protocolul în orb al modulului de remote viewing (RV): mai întâi datele tale brute, abia apoi eticheta; astfel colecția devine o hartă a psihicului tău, nu copia unei cărți."
       },
       "sorszam": 9
     }
