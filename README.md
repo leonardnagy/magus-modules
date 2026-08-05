@@ -164,3 +164,18 @@ Guided Holotope meditations and meditation-adjacent transmissions, linked only:
 | The Frequency Matching Secret | https://www.youtube.com/watch?v=XACq-4Gn2zI |
 | What is The Holotope? — Kirby Seid explains | https://www.youtube.com/watch?v=1O9HAOJW_2Y |
 
+
+## A Course in Miracles — Workbook (English, public domain)
+
+The 1975 Original Edition is in the public domain in the United States, so this one module
+carries the source text in full rather than the paraphrase used everywhere else in this catalog.
+It is deliberately **not** part of `everything.json` — 1.5 MB of English-only text does not belong
+in the one-scan install. Fetch it on its own:
+
+| Module | Link |
+|---|---|
+| ACIM Workbook — 365 lessons | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/acim.workbook/module.json` |
+
+Rebuild it with `python3 tools/fetch_acim_workbook.py` (source: Wikisource).
+Later editions and every translation are separately copyrighted — those come from the reader's
+own copy through the app's importer.
