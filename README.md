@@ -66,7 +66,7 @@ Existing items update by id; nothing is duplicated.
 
 | Bundle | Raw link |
 |---|---|
-| Everything (736 practices, 74 modules, 83 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
+| Everything (736 practices, 75 modules, 83 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |
 
 ## Quote packs (Idézetek és titkok)
 
@@ -141,6 +141,7 @@ working as of 2026-07.
 | Bashar — Eclipse (session, BasharTV) | https://tv.bashar.org/programs/eclipse |
 | Bashar — Epiphany (session, BasharTV) | https://tv.bashar.org/programs/epiphany |
 | Bashar — Limitations Unlimited (with Holotope section, BasharTV) | https://tv.bashar.org/programs/limitations-unlimited |
+| Bashar — Holotope meditations (module) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/bashar.meditations/module.json` |
 | Bashar :: Epsilon — Highlights (official YouTube) | https://www.youtube.com/watch?v=nZ_XuzgJ-mw |
 | Bashar :: Eclipse — Highlights (official YouTube) | https://www.youtube.com/watch?v=SRahNfDNOL0 |
 | Bashar :: Epiphany — Highlights (official YouTube) | https://www.youtube.com/watch?v=Tnti-MzXYk8 |
