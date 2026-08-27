@@ -9,651 +9,842 @@
   "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
   "gyakorlatok": [
     {
-      "id": "ac-reggeli-lecke",
+      "id": "ac-nap-gondolata",
       "mester": "A csodák tanítása",
       "szint": "kezdo",
       "sik": "szellem",
       "elem": "Levego",
       "cim": {
-        "hu": "A reggeli lecke — a nap gondolatának kitűzése",
-        "en": "The morning lesson — setting the thought for the day",
-        "ro": "Lecția de dimineață — stabilirea gândului pentru zi"
+        "hu": "A nap gondolatának kitűzése — a reggeli indítás",
+        "en": "Setting the day's thought — the morning start",
+        "ro": "Stabilirea gândului zilei — pornirea de dimineață"
       },
       "cel": {
-        "hu": "Megtanulni a Munkafüzet napjának alapformáját: reggelente egyetlen vezérgondolatot kitűzni, rövid csendes üléssel elmélyíteni, és válogatás nélkül alkalmazni — anélkül, hogy hinned kellene benne.",
-        "en": "To learn the basic shape of a Workbook day: setting a single guiding thought each morning, deepening it in a short quiet sitting, and applying it without picking favourites — with no requirement to believe it.",
-        "ro": "Ca să înveți forma de bază a unei zile din Caietul de exerciții: stabilești în fiecare dimineață un singur gând călăuzitor, îl adâncești într-o scurtă ședere în liniște și îl aplici fără să alegi favorite — fără nicio cerință să crezi în el."
+        "hu": "Megtanulni a Munkafüzet napjának első mozdulatát: reggel, még az első ügyed előtt felveszed az aznapi lecke gondolatát, egy rövid csendes üléssel megülepíted, és vele indulsz el a napba — naponta egyetlen gondolattal, soha többel.",
+        "en": "To learn the first movement of a Workbook day: in the morning, before your first errand, you pick up the thought of the day's lesson, let it settle in a short quiet sitting, and set out into the day with it — one thought a day, never more.",
+        "ro": "Să înveți prima mișcare a unei zile din Caietul de exerciții: dimineața, înainte de prima ta treabă, iei gândul lecției de azi, îl lași să se așeze într-o scurtă ședere în liniște și pornești cu el în zi — un singur gând pe zi, niciodată mai mult."
       },
       "modszer": [
         {
-          "hu": "Reggel válassz egyetlen mondatot a napra — a Munkafüzet olvasmányodból desztillálva vagy saját, őszinte megfogalmazásban. Naponta csak egy gondolat: lassítani szabad, halmozni nem.",
-          "en": "In the morning choose a single sentence for the day — distilled from your Workbook reading or in your own honest words. One thought per day only: slowing down is allowed, stacking up is not.",
-          "ro": "Dimineața alege o singură propoziție pentru zi — distilată din lectura ta din Caietul de exerciții sau în propriile tale cuvinte sincere. Un singur gând pe zi: a încetini e îngăduit, a îngrămădi nu."
+          "hu": "Reggel, még mielőtt a telefonhoz vagy a teendőidhez nyúlnál, nyisd meg az aznapi leckét, és olvasd el egyszer, lassan, elejétől a végéig.",
+          "en": "In the morning, before you reach for your phone or your errands, open the day's lesson and read it once, slowly, from beginning to end.",
+          "ro": "Dimineața, înainte să pui mâna pe telefon sau pe treburile tale, deschide lecția zilei și citește-o o dată, încet, de la început până la sfârșit."
         },
         {
-          "hu": "Ülj vele egy-két percet csendben: csukott szemmel, sietség nélkül ismételd, és hagyd leülepedni.",
-          "en": "Sit with it quietly for a minute or two: eyes closed, repeat it unhurriedly, and let it settle.",
-          "ro": "Stai cu el în liniște un minut sau două: ochii închiși, repetă-l fără grabă și lasă-l să se așeze."
+          "hu": "A lecke élén álló mondat a mai gondolatod — nem kiválasztod, hanem megkapod. Akkor is ez marad, ha egy másik sor jobban tetszett: a nap minden további utasítása erre az egy mondatra vonatkozik.",
+          "en": "The sentence standing at the head of the lesson is today's thought — you do not choose it, you receive it. It stays that one even if another line appealed to you more: every further instruction of the day refers to this one sentence.",
+          "ro": "Propoziția care stă în fruntea lecției e gândul tău de azi — nu îl alegi, îl primești. Rămâne acesta chiar dacă altă frază ți-a plăcut mai mult: toate celelalte instrucțiuni ale zilei se referă la această singură propoziție."
         },
         {
-          "hu": "Nyisd ki a szemed, és alkalmazd a gondolatot arra, amire épp ránézel vagy ami eszedbe jut — válogatás nélkül. Nem kell mindent érintened, de szándékosan ne zárj ki semmit és senkit.",
-          "en": "Open your eyes and apply the thought to whatever you happen to look at or think of — without selecting. You need not touch everything, but deliberately exclude nothing and no one.",
-          "ro": "Deschide ochii și aplică gândul la orice ți se întâmplă să privești sau să te gândești — fără să selectezi. Nu e nevoie să atingi totul, dar nu exclude deliberat nimic și pe nimeni."
+          "hu": "Ha közben egy másik sor is megragadt benned, annak a Csodanaplóban van a helye — egy szó elég. Nem lép a napi gondolat helyébe: jegyzet, nem lecke.",
+          "en": "If some other line stayed with you along the way, its place is the Miracle Journal — a single word is enough. It does not take the place of the day's thought: it is a note, not the lesson.",
+          "ro": "Dacă între timp ți-a rămas în minte și altă frază, locul ei e în Jurnalul miracolelor — un singur cuvânt e de ajuns. Nu ia locul gândului zilei: e o notă, nu lecția."
         },
         {
-          "hu": "A gyakorlat nem kér meggyőződést: akkor is működik, ha kételkedsz benne — a dolgod csak annyi, hogy elvégezd.",
-          "en": "The practice asks no conviction of you: it works even while you doubt it — your only task is to carry it out.",
-          "ro": "Practica nu-ți cere nicio convingere: funcționează chiar și în timp ce te îndoiești de ea — singura ta sarcină e să o duci la îndeplinire."
+          "hu": "Ülj vele egy-két percet csendben: csukott szem, néhány nyugodt lélegzet, és időnként belül megismételve a mondatot — nem kántálva, inkább úgy, ahogy egy nevet mondasz ki, amelyre emlékezni akarsz.",
+          "en": "Sit with it quietly for a minute or two: eyes closed, a few calm breaths, repeating the sentence inwardly now and then — not chanting it, more the way you say a name you want to remember.",
+          "ro": "Stai cu el în liniște un minut sau două: ochii închiși, câteva respirații calme, repetând propoziția în tine din când în când — nu cântând-o, mai degrabă așa cum rostești un nume pe care vrei să-l ții minte."
         },
         {
-          "hu": "Ha a gyakorlat kellemetlen érzést keltene, rövidítsd vagy hagyd abba aznapra — az erőltetés többet árt, mint a kihagyás.",
-          "en": "If the practice stirs discomfort, shorten it or stop for the day — forcing does more harm than skipping.",
-          "ro": "Dacă practica stârnește disconfort, scurteaz-o sau oprește-te pentru ziua aceea — a forța face mai mult rău decât a sări peste."
+          "hu": "Ne kérj magadtól se hitet, se érzést. Nem kell egyetértened azzal, amit olvasol — a gyakorlásnak nem feltétele; a kételkedés együtt is elfér a napi mozdulattal.",
+          "en": "Ask neither belief nor feeling of yourself. You need not agree with what you read — agreement is no precondition of the practice; doubting fits alongside the daily movement well enough.",
+          "ro": "Nu-ți cere nici credință, nici sentiment. Nu trebuie să fii de acord cu ce citești — acordul nu e o condiție a practicii; îndoiala încape alături de mișcarea zilnică."
         },
         {
-          "hu": "Este idézd fel még egyszer a gondolatot, egy perc csenddel lezárva a napot.",
-          "en": "In the evening recall the thought once more, closing the day with a minute of quiet.",
-          "ro": "Seara amintește-ți gândul încă o dată, încheind ziua cu un minut de liniște."
+          "hu": "Nyisd ki a szemed, és mielőtt felállnál, mondd ki magadban még egyszer — most már nyitott szemmel, a szobádra nézve. Ez a mozdulat viszi át a gondolatot a csendből a napodba.",
+          "en": "Open your eyes and, before you stand up, say it inwardly once more — now with open eyes, looking at your room. This movement is what carries the thought out of the quiet and into your day.",
+          "ro": "Deschide ochii și, înainte să te ridici, spune-o în tine încă o dată — acum cu ochii deschiși, privind camera ta. Această mișcare e cea care duce gândul din liniște în ziua ta."
+        },
+        {
+          "hu": "Ha a reggel kimarad, ne írd le a napot: az első csendes perc, amit találsz — a buszon, a lift előtt, a mosogatónál —, ugyanolyan jó indítás.",
+          "en": "If the morning slips away, do not write the day off: the first quiet minute you find — on the bus, waiting for the lift, at the sink — is just as good a start.",
+          "ro": "Dacă dimineața îți scapă, nu anula ziua: primul minut liniștit pe care îl găsești — în autobuz, așteptând liftul, la chiuvetă — e un început la fel de bun."
+        },
+        {
+          "hu": "Este a Csodanaplóba egyetlen sor is elég: eszedbe jutott-e ma a mondat magától, és mikor.",
+          "en": "In the evening a single line in the Miracle Journal is enough: whether the sentence came back to you on its own today, and when.",
+          "ro": "Seara, o singură linie în Jurnalul miracolelor e de ajuns: dacă propoziția ți-a revenit azi de la sine și când."
         }
       ],
       "keret": {
-        "hu": "A hagyomány egyéves, napi leckés formájából itt a nap alakját vesszük át. A lényege a megengedés: a gyakorlás csak elvégzést kér tőled, meggyőződést nem — a szkeptikus ugyanúgy gyakorolhat, mint a hívő. Lélektani nyelven: figyelem-tréning és szelíd átkeretezés, kis adagokban.",
-        "en": "From the tradition's one-year, lesson-a-day form we borrow here the shape of the day. Its heart is permission: the practice asks only doing of you, never conviction — the sceptic can practise exactly as the believer does. In psychological language: attention training and gentle reframing, in small doses.",
-        "ro": "Din forma tradiției de un an, o lecție pe zi, împrumutăm aici forma zilei. Inima ei e permisiunea: practica îți cere doar să faci, niciodată convingere — scepticul poate practica exact ca și credinciosul. În limbaj psihologic: antrenarea atenției și reîncadrare blândă, în doze mici."
+        "hu": "A Munkafüzet 365 számozott leckéből álló, egyéves elmetréning: napi egy lecke, soha több — lassítani szabad, gyorsítani nem. Ez a gyakorlat a nap első mozdulata, és minden további forma erre épül rá: a válogatás nélküli és a konkrét alkalmazás, a gyakori emlékeztetők, az esti ülés. A hagyomány azt állítja, hogy az elvégzett mozdulat akkor is dolgozik, ha közben nem értesz vele egyet. * Józanul nézve annyi történik, hogy a napod elejére egyetlen tudatos szándék kerül, és a figyelmed napközben visszatalál hozzá. A lecke szövegét te hozod: a saját példányodból — a fordítások önálló, szerzői jogi védelem alatt álló művek —, vagy angolul az app Munkafüzet-eszközéből; hogy az pontosan melyik kiadás szövegét adja, magán az eszközön szerepel. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The Workbook is a year of mind training in 365 numbered lessons: one lesson a day, never more — slowing down is allowed, speeding up is not. This practice is the day's first movement, and every other form rests upon it: application without selection, specific application, the frequent reminders, the evening sitting. The tradition claims the movement, once made, works even while you disagree with it. * Soberly seen, what happens is that a single conscious intention is set at the head of your day, and your attention finds its way back to it as the hours pass. You bring the lesson text yourself: from your own copy — translations are independent, copyrighted works — or in English from the app's Workbook tool; which edition's text that holds exactly is stated on the tool itself. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Caietul de exerciții e un an de antrenament al minții în 365 de lecții numerotate: o lecție pe zi, niciodată mai mult — a încetini e îngăduit, a grăbi nu. Această practică e prima mișcare a zilei, iar orice altă formă se sprijină pe ea: aplicarea fără selecție, aplicarea concretă, reamintirile dese, ședința de seară. Tradiția susține că mișcarea, odată făcută, lucrează chiar și atunci când nu ești de acord cu ea. * Privit sobru, ce se întâmplă e că un singur scop conștient e așezat în fruntea zilei tale, iar atenția ta își găsește drumul înapoi la el pe măsură ce trec orele. Textul lecției îl aduci tu: din propriul exemplar — traducerile sunt opere independente, protejate de drepturi de autor — sau, în engleză, din unealta Caietului de exerciții din aplicație; textul cărei ediții îl cuprinde exact e menționat chiar pe unealtă. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
+      },
+      "etika": {
+        "hu": "Ha egy lecke gondolata felkavar, rövidítsd le vagy hagyd abba aznapra — az erőltetés és a neheztelés kontraproduktív. A kihagyott nap nem bukás és nem lemaradás: ugyanott folytatod. Ez a gyakorlás orvosi vagy pszichológiai ellátás mellé való, sosem helyette; akut krízisben azonnal fordulj szakemberhez.",
+        "en": "If a lesson's thought stirs you up, shorten it or stop for the day — forcing and resentment are counterproductive. A missed day is neither failure nor falling behind: you continue right where you were. This practice goes alongside medical or psychological care, never instead of it; in acute crisis turn to a professional at once.",
+        "ro": "Dacă gândul unei lecții te tulbură, scurteaz-o sau oprește-te pentru ziua aceea — forțarea și resentimentul sunt contraproductive. O zi ratată nu e nici eșec, nici rămânere în urmă: continui exact de unde ai rămas. Această practică merge alături de îngrijirea medicală sau psihologică, niciodată în locul ei; în criză acută apelează de îndată la un profesionist."
       },
       "sorszam": 1
     },
     {
-      "id": "ac-orankenti-emlekezes",
+      "id": "ac-valogatas-nelkul",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Válogatás nélküli alkalmazás — semmit ki nem hagyva",
+        "en": "Application without selection — leaving nothing out",
+        "ro": "Aplicarea fără selecție — fără a lăsa nimic pe dinafară"
+      },
+      "cel": {
+        "hu": "A Munkafüzet sarokkövét begyakorolni: az aznapi gondolatot válogatás nélkül alkalmazod arra, ami eléd kerül. A szabálynak egyetlen éle van: szándékos kivétel nincs. Ez a gyakorlat arról szól, miért nehéz ez, és mit tanít meg rólad.",
+        "en": "To train the Workbook's cornerstone: you apply the day's thought without selection to whatever comes before you. The rule has one edge only: no deliberate exception. This practice is about why that is hard, and what it teaches you about yourself.",
+        "ro": "Să antrenezi piatra de temelie a Caietului de exerciții: aplici gândul zilei fără selecție la orice îți iese în cale. Regula are o singură muchie: nicio excepție deliberată. Această practică e despre de ce e greu asta și despre ce te învață despre tine."
+      },
+      "modszer": [
+        {
+          "hu": "Kezdd ott, ahol a szemed magától megáll: nézz körül, és alkalmazd a napi gondolatot az első három dologra, ami eléd kerül — sorrend és mérlegelés nélkül.",
+          "en": "Begin where your eye stops of its own accord: look around and apply the day's thought to the first three things that come before you — with no ordering and no weighing up.",
+          "ro": "Începe acolo unde ochiul tău se oprește de la sine: privește în jur și aplică gândul zilei primelor trei lucruri care îți ies în cale — fără ordine și fără cântărire."
+        },
+        {
+          "hu": "Aztán figyeld magát a szemedet. Észre fogod venni, hogy nem véletlenszerűen jár: kihagy. Átsiklik a rendetlen sarok, a kedvetlen kolléga, egy bizonyos arc fölött.",
+          "en": "Then watch your eye itself. You will notice it does not move at random: it skips. It glides past the untidy corner, the sullen colleague, one particular face.",
+          "ro": "Apoi urmărește-ți ochiul însuși. Vei observa că nu se mișcă la întâmplare: sare peste. Alunecă pe lângă colțul dezordonat, colegul posac, un anume chip."
+        },
+        {
+          "hu": "Amit átugrott, azt nevezd meg csendben magadban — és fordulj vissza hozzá. A kihagyás a gyakorlat legfontosabb információja: pontosan ott mutatja meg a válogatásodat, ahol a legjobban működik.",
+          "en": "Name silently to yourself what it skipped — and turn back to it. The omission is the practice's most valuable information: it shows you your selecting exactly where the selecting works best.",
+          "ro": "Numește în tăcere, pentru tine, ce a sărit — și întoarce-te la el. Omisiunea e informația cea mai valoroasă a practicii: îți arată selecția exact acolo unde selecția lucrează cel mai bine."
+        },
+        {
+          "hu": "Ne rangsorolj: a bögre, a felhő, az ismeretlen járókelő és a legnehezebb embered ugyanannyit kap. Aki fontosat és jelentéktelent szétválogat, az a régi nézését gyakorolja, nem az újat.",
+          "en": "Do not rank: the mug, the cloud, the stranger passing by and your hardest person all receive the same. To sort the important from the negligible is to practise the old way of seeing, not the new.",
+          "ro": "Nu ierarhiza: cana, norul, trecătorul necunoscut și omul tău cel mai greu primesc toți la fel. A separa importantul de neînsemnat înseamnă a exersa vechiul mod de a vedea, nu pe cel nou."
+        },
+        {
+          "hu": "Ne akarj teljes lenni: nem kell mindent érintened, és nem is lehet. A szabály nem a lefedettségről szól, hanem a szándékos kivételről.",
+          "en": "Do not aim at completeness: you need not touch everything, and cannot. The rule is not about coverage but about the deliberate exception.",
+          "ro": "Nu urmări completitudinea: nu trebuie să atingi totul și nici nu poți. Regula nu e despre acoperire, ci despre excepția deliberată."
+        },
+        {
+          "hu": "Ha valakit egyszerűen nem tudsz belefoglalni, ne erőltesd, de ne is hazudj magadnak: jegyezd fel egy szóval, és térj vissza hozzá napok múlva. A hajlandóság hajlandósága is hajlandóság.",
+          "en": "If there is someone you simply cannot include, do not force it, but do not lie to yourself either: note them down in a single word and come back to them days later. The willingness to be willing is also willingness.",
+          "ro": "Dacă e cineva pe care pur și simplu nu-l poți include, nu forța, dar nici nu te minți: notează-l într-un singur cuvânt și revino la el peste câteva zile. Disponibilitatea de a fi dispus e și ea disponibilitate."
+        },
+        {
+          "hu": "Este a Csodanaplóba egyetlen sor: kit vagy mit hagytál ki ma — és mi történt, amikor visszafordultál hozzá.",
+          "en": "In the evening, a single line in the Miracle Journal: whom or what you left out today — and what happened when you turned back to it.",
+          "ro": "Seara, o singură linie în Jurnalul miracolelor: pe cine sau ce ai lăsat pe dinafară azi — și ce s-a întâmplat când te-ai întors la el."
+        }
+      ],
+      "keret": {
+        "hu": "A Munkafüzet nem véletlenül teszi ezt a szabályt már az első leckék mellé: az egész évi képzés azon áll, hogy a gondolat mindenre és mindenkire egyformán vonatkozik — különben csak egy újabb kedvenc kategóriát építesz magadnak. A hagyomány szerint egyetlen szándékosan megtartott kivétel az egész képzést meggyengíti. * Józanul nézve azt teszi láthatóvá, amit a lélektan szelektív észlelésnek hív: a szem magától rangsorol, és a rangsor többnyire észrevétlen marad. A napi lecke szövegét a saját példányodból vagy angolul az app Munkafüzet-eszközéből veszed; ez a gyakorlat nem a szöveget adja, hanem a vele való bánásmódot. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The Workbook does not place this rule beside the very first lessons by accident: the whole year of training stands on the thought applying equally to everything and everyone — otherwise you are only building yourself one more favourite category. The tradition holds that a single deliberately kept exception weakens the entire training. * Soberly seen, it makes visible what psychology calls selective perception: the eye ranks by itself, and the ranking mostly goes unnoticed. You take the day's lesson text from your own copy, or in English from the app's Workbook tool; this practice supplies not the text but the way of handling it. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Caietul de exerciții nu așază această regulă lângă primele lecții din întâmplare: tot anul de antrenament stă pe faptul că gândul se aplică deopotrivă la tot și la toți — altfel îți construiești doar încă o categorie preferată. Tradiția susține că o singură excepție păstrată deliberat slăbește întregul antrenament. * Privit sobru, face vizibil ceea ce psihologia numește percepție selectivă: ochiul ierarhizează de la sine, iar ierarhia rămâne de cele mai multe ori neobservată. Textul lecției zilei îl iei din propriul exemplar sau în engleză din unealta Caietului de exerciții din aplicație; această practică nu furnizează textul, ci felul de a-l mânui. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
+      },
+      "etika": {
+        "hu": "A válogatás nélküliség a nézésedre vonatkozik, nem a viselkedésedre: attól, hogy valakit belefoglalsz a gyakorlatba, semmire nem kötelezed magad — se kapcsolattartásra, se kibékülésre, se arra, hogy ártalomban maradj. Bántalmazó helyzetben az első lépés a határ, a távolság és a segítségkérés; a belső munka csak utána, biztonságból nézve következik.",
+        "en": "Non-selection concerns your seeing, not your conduct: including someone in the practice commits you to nothing — not to contact, not to reconciliation, not to staying in harm's way. In an abusive situation the first step is the boundary, the distance and asking for help; the inner work comes only afterwards, looked at from safety.",
+        "ro": "Lipsa selecției privește felul tău de a vedea, nu purtarea ta: a include pe cineva în practică nu te obligă la nimic — nici la contact, nici la împăcare, nici la a rămâne în calea răului. Într-o situație abuzivă, primul pas e granița, distanța și cererea de ajutor; munca lăuntrică vine abia după aceea, privită din siguranță."
+      },
+      "sorszam": 2
+    },
+    {
+      "id": "ac-konkret-alkalmazas",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "test",
+      "elem": "Fold",
+      "cim": {
+        "hu": "Konkrét alkalmazás — ez a bögre, ez a kilincs, ez az arc",
+        "en": "Specific application — this mug, this door handle, this face",
+        "ro": "Aplicarea concretă — această cană, această clanță, acest chip"
+      },
+      "cel": {
+        "hu": "Kivenni a napi gondolatot az elvontból: egyesével, néven nevezve alkalmazod egy konkrét tárgyra, testrészre, emberre vagy helyzetre — mert a konkrétság az, ami a gondolatot leviszi a fejedből a napodba.",
+        "en": "To take the day's thought out of the abstract: you apply it one at a time, by name, to a specific object, body part, person or situation — because concreteness is what brings the thought down out of your head and into your day.",
+        "ro": "Să scoți gândul zilei din abstract: îl aplici pe rând, pe nume, unui obiect, unei părți a corpului, unei persoane sau unei situații anume — pentru că tocmai concretețea coboară gândul din capul tău în ziua ta."
+      },
+      "modszer": [
+        {
+          "hu": "Ne általánosságban mondd ki a gondolatot. Válassz egyetlen dolgot, amit épp látsz, és told bele a nevét — például a bögrédet, amelyik előtted áll.",
+          "en": "Do not say the thought in general. Choose one single thing you can see right now and put its name inside it — the mug in front of you, say.",
+          "ro": "Nu rosti gândul în general. Alege un singur lucru pe care îl vezi chiar acum și pune-i numele înăuntru — de pildă cana din fața ta."
+        },
+        {
+          "hu": "Nézz arra a dologra, amíg kimondod — ne csukott szemmel, ne emlékezetből. A tekintet és a mondat együtt dolgozik.",
+          "en": "Look at that thing while you say it — not with closed eyes, not from memory. The gaze and the sentence work together.",
+          "ro": "Privește lucrul acela în timp ce o rostești — nu cu ochii închiși, nu din memorie. Privirea și propoziția lucrează împreună."
+        },
+        {
+          "hu": "Ne siess tovább: adj neki egy-két másodpercet, aztán lépj a következőre. Három-négy megnevezett dolog többet ér, mint húsz átsuhanó.",
+          "en": "Do not hurry on: give it a second or two, then move to the next. Three or four things named are worth more than twenty skimmed.",
+          "ro": "Nu te grăbi mai departe: dă-i o secundă sau două, apoi treci la următorul. Trei-patru lucruri numite valorează mai mult decât douăzeci parcurse în fugă."
+        },
+        {
+          "hu": "Ne csak a kellemeset válaszd, de ne is csak a nehezet: a közeli és a távoli, a kedves és a semleges, a tárgy és az ember egyaránt sorra kerül.",
+          "en": "Choose not only the pleasant, but not only the difficult either: the near and the far, the dear and the neutral, the object and the person each take their turn.",
+          "ro": "Nu alege doar plăcutul, dar nici doar greul: apropiatul și depărtatul, dragul și neutrul, obiectul și persoana își au fiecare rândul."
+        },
+        {
+          "hu": "Amikor a nap közben felkavar valami, ott a legfontosabb a konkrétság: ne a világra alkalmazd a gondolatot, hanem erre az e-mailre, erre a mondatra, erre az arcra, amelyik az imént szúrt.",
+          "en": "When something upsets you during the day, concreteness matters most right there: apply the thought not to the world, but to this email, this sentence, this face that just stung.",
+          "ro": "Când ceva te tulbură în cursul zilei, tocmai acolo contează cel mai mult concretețea: aplică gândul nu lumii, ci acestui e-mail, acestei propoziții, acestui chip care tocmai a înțepat."
+        },
+        {
+          "hu": "Emberre alkalmazva mondd ki csendben a nevét is. A név az, ami kiemeli az embert a kategóriából — „az ügyfél”, „a sofőr”, „a szomszéd” —, és visszaadja neki, hogy valaki.",
+          "en": "When you apply it to a person, say their name silently too. The name is what lifts someone back out of the category — “the client”, “the driver”, “the neighbour” — into being someone.",
+          "ro": "Când îl aplici unei persoane, rostește în tăcere și numele ei. Numele e ceea ce scoate pe cineva din categorie — „clientul”, „șoferul”, „vecinul” — înapoi la a fi cineva."
+        },
+        {
+          "hu": "Ha egy tárgynál vagy egy embernél elakadsz, hagyd ott és lépj tovább — nincs mit befejezni. Amit kerülünk, az a szándékos kihagyás, nem a félbehagyott kör.",
+          "en": "If you get stuck at an object or a person, leave it and move on — there is nothing to finish. What we avoid is the deliberate omission, not the unfinished round.",
+          "ro": "Dacă te împotmolești la un obiect sau la o persoană, lasă-l și mergi mai departe — nu e nimic de terminat. Ceea ce evităm e omisiunea deliberată, nu runda neterminată."
+        }
+      ],
+      "keret": {
+        "hu": "A Munkafüzet szinte minden leckéje a konkrét alkalmazásra van kihegyezve: előbb a gondolat, aztán rögtön a pontos utasítás, hogy mire és hogyan alkalmazd — tárgyakra, testrészekre, emberekre, helyzetekre, egyesével. Ez az a réteg, amitől a képzés nem marad filozófia. A napi gondolatot reggel veszed fel, napközben itt válik használhatóvá, este a Csodanaplóban nézed vissza. A lecke szövegét a saját példányodból vagy angolul az app Munkafüzet-eszközéből olvasod — a gyakorlat itt az, hogy amit ott találsz, azt néven nevezve viszed végig. Lélektani nyelven: a konkretizálás érzékelhető horgonyokhoz köti az elvont szándékot, és ettől lesz belőle szokás, nem gondolat.",
+        "en": "Nearly every Workbook lesson is aimed at specific application: first the thought, then at once the precise instruction on what to apply it to and how — objects, body parts, people, situations, one at a time. This is the layer that keeps the training from remaining philosophy. You pick the day's thought up in the morning, it becomes usable here during the day, and in the evening you look back at it in the Miracle Journal. You read the lesson text from your own copy, or in English from the app's Workbook tool — the practice here is to carry what you find there through by name. In psychological language: concretising ties an abstract intention to perceptible anchors, and that is what turns it into a habit rather than a thought.",
+        "ro": "Aproape fiecare lecție din Caietul de exerciții e ascuțită spre aplicarea concretă: mai întâi gândul, apoi imediat instrucțiunea precisă despre ce anume și cum să-l aplici — obiecte, părți ale corpului, oameni, situații, pe rând. Acesta e stratul care împiedică antrenamentul să rămână filozofie. Gândul zilei îl iei dimineața, aici devine utilizabil peste zi, iar seara îl privești înapoi în Jurnalul miracolelor. Textul lecției îl citești din propriul exemplar sau în engleză din unealta Caietului de exerciții din aplicație — practica de aici e să duci ce găsești acolo până la capăt, pe nume. În limbaj psihologic: concretizarea leagă un scop abstract de ancore perceptibile, și tocmai asta îl face obicei, nu gând."
+      },
+      "etika": {
+        "hu": "Emberre alkalmazva ez néma, belső gyakorlat: nem kell szólnod róla, és nem is való bejelentésnek — senkiből ne csinálj gyakorlóterepet. Testi tünettel orvoshoz, tartós lelki teherrel pszichológushoz fordulj: a konkrét alkalmazás melléjük való, nem helyettük.",
+        "en": "Applied to a person this is a silent, inward practice: you need not speak of it, and it is not for announcing — make no one your training ground. With a bodily symptom go to a doctor, with a lasting emotional burden to a psychologist: specific application goes alongside them, not instead of them.",
+        "ro": "Aplicată unei persoane, aceasta e o practică tăcută, lăuntrică: nu trebuie să vorbești despre ea și nu e de anunțat — nu face din nimeni terenul tău de antrenament. Cu un simptom fizic mergi la medic, cu o povară sufletească de durată la psiholog: aplicarea concretă merge alături de ele, nu în locul lor."
+      },
+      "sorszam": 3
+    },
+    {
+      "id": "ac-oras-emlekeztetok",
       "mester": "A csodák tanítása",
       "szint": "kezdo",
       "sik": "lelek",
       "elem": "Ido",
       "cim": {
-        "hu": "Óránkénti emlékezés — horgonyok a napban",
-        "en": "Hourly remembering — anchors through the day",
-        "ro": "Amintirea din oră în oră — ancore de-a lungul zilei"
+        "hu": "Gyakori emlékeztetők — fix időköz és óránkénti megállás",
+        "en": "Frequent reminders — a fixed interval and the hourly stop",
+        "ro": "Reamintiri dese — un interval fix și oprirea din oră în oră"
       },
       "cel": {
-        "hu": "A napi gondolatot életben tartani a nap folyamán: rövid, egy lélegzetnyi felidézésekkel, visszatérő eseményekhez horgonyozva — bűntudat nélkül, szelíd visszatéréssel.",
-        "en": "To keep the day's thought alive through the day: with brief, one-breath recollections anchored to recurring events — without guilt, returning gently.",
-        "ro": "Ca să ții gândul zilei viu de-a lungul zilei: cu scurte reamintiri de o respirație, ancorate de evenimente care se repetă — fără vinovăție, revenind blând."
+        "hu": "Életben tartani a napi gondolatot a reggeli indítás és az esti zárás között: ébredéskor kitűzött fix időközzel, sűrű, egymondatos emlékeztetőkkel és óránként egy rövid megállással — és úgy megoldani az emlékeztetést, hogy maga az emlékeztető ne váljon szorongássá.",
+        "en": "To keep the day's thought alive between the morning start and the evening close: with a fixed interval set on waking, dense one-sentence reminders and one short stop an hour — and to arrange the reminding so that the reminder itself does not turn into anxiety.",
+        "ro": "Să ții viu gândul zilei între pornirea de dimineață și încheierea de seară: cu un interval fix stabilit la trezire, cu reamintiri dese de o singură propoziție și cu o scurtă oprire pe oră — și să potrivești reamintirea astfel încât însuși memento-ul să nu devină anxietate."
       },
       "modszer": [
         {
-          "hu": "Válassz horgonyokat: az óra fordulója, egy telefonos jelzés, felállás az asztaltól, ajtón átlépés, a vízforraló bekapcsolása.",
-          "en": "Choose anchors: the turn of the hour, a phone chime, standing up from the desk, passing through a doorway, switching on the kettle.",
-          "ro": "Alege ancore: schimbarea orei, un sunet de telefon, ridicarea de la birou, trecerea printr-o ușă, aprinderea ceainicului."
+          "hu": "Ébredéskor tűzz ki egy fix időközt, és tartsd a napon át: félóránként — ha megy, negyed- vagy húszpercenként. Ez nem az óránkénti megállás, hanem annál sűrűbb és rövidebb: egyetlen mondat magadban, akár beszélgetés vagy munka közben is, anélkül hogy bármit megzavarnál.",
+          "en": "On waking, set a definite interval and keep to it through the day: every half hour — every fifteen or twenty minutes if you can. This is not the hourly stop but something denser and briefer: one sentence to yourself, even in the middle of a conversation or a task, without disturbing anything.",
+          "ro": "La trezire fixează-ți un interval precis și ține-l toată ziua: din jumătate în jumătate de oră — la fiecare cincisprezece sau douăzeci de minute, dacă poți. Nu e oprirea din oră în oră, ci ceva mai des și mai scurt: o singură propoziție în tine, chiar și în mijlocul unei conversații sau al unei sarcini, fără să tulburi nimic."
         },
         {
-          "hu": "Minden horgonynál idézd fel egyszer a napi mondatot — egy lélegzetnyi idő elég, sietség nélkül.",
-          "en": "At each anchor recall the day's sentence once — the length of one breath is enough, without hurry.",
-          "ro": "La fiecare ancoră amintește-ți o dată propoziția zilei — lungimea unei respirații e de ajuns, fără grabă."
+          "hu": "Válaszd ki, mi jelezzen: az óra fordulója, egy halk telefonjelzés — vagy inkább egy visszatérő esemény: felállás az asztaltól, ajtón átlépés, a vízforraló kattanása.",
+          "en": "Choose what will signal: the turn of the hour, a soft phone chime — or better, a recurring event: standing up from the desk, passing through a doorway, the click of the kettle.",
+          "ro": "Alege ce să dea semnalul: schimbarea orei, un sunet discret de telefon — sau mai bine un eveniment care se repetă: ridicarea de la birou, trecerea printr-o ușă, clicul ceainicului."
         },
         {
-          "hu": "Kihagyott horgonyért semmi önvád: a szabály nem pontozás, hanem szelíd visszatérés a következőnél.",
-          "en": "No self-reproach for a missed anchor: the rule is not scorekeeping but a gentle return at the next one.",
-          "ro": "Fără auto-reproș pentru o ancoră ratată: regula nu e ținerea scorului, ci o revenire blândă la următoarea."
+          "hu": "Minden jelzésnél állj meg egy lélegzetnyi időre, és idézd fel a napi gondolatot. Ennyi elég; nem kell elmélyülnöd benne.",
+          "en": "At each signal stop for the length of one breath and recall the day's thought. That is enough; you need not go deep into it.",
+          "ro": "La fiecare semnal oprește-te cât o respirație și amintește-ți gândul zilei. Atât e de ajuns; nu trebuie să intri adânc în el."
         },
         {
-          "hu": "Ha két horgony között zaklatottság tör rád, ott és akkor alkalmazd a gondolatot az adott helyzetre — nem általánosságban, hanem néven nevezve, mi dúlt fel.",
-          "en": "If upset strikes between anchors, apply the thought there and then to the actual situation — not in general, but naming what disturbed you.",
-          "ro": "Dacă te lovește o tulburare între ancore, aplică gândul pe loc situației reale — nu în general, ci numind ce te-a tulburat."
+          "hu": "Ha lehet, ne csak a fejedben történjen: egy pillanatra emeld fel a tekinteted arról, amit épp csinálsz. A megállás rövidsége nem baj.",
+          "en": "If you can, do not let it happen in your head alone: lift your eyes for a moment from whatever you are doing. That the stop is brief is no problem.",
+          "ro": "Dacă poți, nu-l lăsa să se petreacă doar în capul tău: ridică-ți privirea o clipă de la ce faci. Faptul că oprirea e scurtă nu e o problemă."
         },
         {
-          "hu": "Hetek múltán bővíthetsz: időnként egy lélegzet helyett egy csendes perc — a fegyelem fokozatosan érkezik, sosem kényszerként.",
-          "en": "After some weeks you may widen it: now and then a quiet minute instead of one breath — discipline arrives gradually, never as coercion.",
-          "ro": "După câteva săptămâni poți lărgi: din când în când un minut de liniște în loc de o respirație — disciplina sosește treptat, niciodată ca o constrângere."
+          "hu": "A jelzés legyen halk és kikapcsolható. Ha egy riasztás felkap és megijeszt, cseréld eseményhorgonyra — a lényeg az emlékezés, nem az áramütés.",
+          "en": "Let the signal be quiet and easy to switch off. If an alarm jolts and startles you, swap it for an event anchor — the point is remembering, not an electric shock.",
+          "ro": "Semnalul să fie discret și ușor de oprit. Dacă o alarmă te smucește și te sperie, schimb-o cu o ancoră-eveniment — scopul e amintirea, nu un șoc electric."
+        },
+        {
+          "hu": "Amikor egy megállás kimarad, ne pótold és ne számold — de ne is ritkítsd miatta a következőket. Nincs elmulasztott adag és nincs napi kvóta: a következő intervallumban önvád nélkül folytatod.",
+          "en": "When a stop is missed, do not make it up and do not count it — but do not thin out the next ones because of it either. There is no missed dose and no daily quota: in the next interval you simply continue, without self-reproach.",
+          "ro": "Când o oprire e ratată, nu o recupera și nu o socoti — dar nici nu le rări din pricina asta pe cele următoare. Nu există doză ratată și nici cotă zilnică: în intervalul următor continui pur și simplu, fără auto-reproș."
+        },
+        {
+          "hu": "Ha sűrű a nap — tárgyalás, gyerek, vezetés —, engedd el a jelzéseket, és tedd át a gyakorlást az átmenetekre: a két dolog közötti résekbe. A Munkafüzet nem kéri, hogy a napodat rendezd át miatta.",
+          "en": "If the day is dense — a meeting, a child, driving — let the signals go and move the practice into the transitions: the gaps between two things. The Workbook does not ask you to rearrange your day for it.",
+          "ro": "Dacă ziua e densă — o ședință, un copil, condusul — lasă semnalele deoparte și mută practica în tranziții: în golurile dintre două lucruri. Caietul de exerciții nu-ți cere să-ți rearanjezi ziua pentru el."
+        },
+        {
+          "hu": "Este egyetlen mondat a Csodanaplóba: mi változott azokban a percekben, amikor tényleg megálltál.",
+          "en": "In the evening, a single sentence in the Miracle Journal: what changed in those minutes when you really did stop.",
+          "ro": "Seara, o singură propoziție în Jurnalul miracolelor: ce s-a schimbat în acele minute în care chiar te-ai oprit."
         }
       ],
       "keret": {
-        "hu": "A hagyomány szándékosan lazán indít, és csak lassan sűríti a ritmust, hogy a gyakorlás sose érződjön külső parancsnak. Mai nyelven szokás-fűzés: meglévő eseményekhez kötött mikro-emlékeztetők. A mérce nem a találati arány, hanem hogy egyenletesebb-e tőle a napod.",
-        "en": "The tradition deliberately starts loose and thickens the rhythm only slowly, so practice never feels like an outside command. In today's language, habit-stacking: micro-reminders tied to events already in your day. The measure is not your hit rate but whether your day grows steadier.",
-        "ro": "Tradiția începe în mod deliberat lejer și îngroașă ritmul doar încet, ca practica să nu se simtă niciodată ca o poruncă din afară. În limbajul de azi, stivuirea obiceiurilor: micro-reamintiri legate de evenimente deja din ziua ta. Măsura nu e rata ta de reușită, ci dacă ziua ta devine mai stabilă."
-      },
-      "sorszam": 2
-    },
-    {
-      "id": "ac-vetites-elkapasa",
-      "mester": "A csodák tanítása",
-      "szint": "kezdo",
-      "sik": "lelek",
-      "elem": "Viz",
-      "cim": {
-        "hu": "A vetítés elkapása — a zavar befelé fordítása",
-        "en": "Catching the projection — turning the disturbance inward",
-        "ro": "Prinderea proiecției — întoarcerea tulburării spre interior"
-      },
-      "cel": {
-        "hu": "Megtanulni, hogy amikor odakint valami felzaklat, a tekintet egy pillanatra befelé forduljon: mit vetítek én erre a helyzetre — és mi az, ami valójában bennem vár rendezésre?",
-        "en": "To learn that when something out there upsets you, the gaze turns inward for a moment: what am I projecting onto this situation — and what is it in me that actually waits to be settled?",
-        "ro": "Ca să înveți că atunci când ceva din afară te tulbură, privirea se întoarce o clipă spre interior: ce proiectez eu asupra acestei situații — și ce e în mine ceea ce așteaptă de fapt să fie așezat?"
-      },
-      "modszer": [
-        {
-          "hu": "Vedd észre a szúrást: valaki vagy valami odakint ingerel, sért, nyugtalanít.",
-          "en": "Notice the sting: someone or something out there irritates, offends, unsettles you.",
-          "ro": "Observă înțepătura: cineva sau ceva din afară te irită, te jignește, te tulbură."
-        },
-        {
-          "hu": "Állj meg egy lélegzetre, mielőtt a belső történet továbbpörögne.",
-          "en": "Pause for one breath before the inner story spins on.",
-          "ro": "Oprește-te pentru o respirație înainte ca povestea interioară să continue să se învârtă."
-        },
-        {
-          "hu": "Kérdezd meg: mit mond ez a zavar arról, amit én hordozok — milyen félelmet, bűntudatot vagy elvárást vetítek most kifelé?",
-          "en": "Ask: what does this disturbance say about what I carry — what fear, guilt or expectation am I casting outward right now?",
-          "ro": "Întreabă: ce spune această tulburare despre ce port eu — ce frică, vinovăție sau așteptare arunc eu în afară chiar acum?"
-        },
-        {
-          "hu": "Nevezd meg őszintén, önostorozás nélkül — a cél a látás, nem az ítélet.",
-          "en": "Name it honestly, without self-flagellation — the aim is sight, not verdict.",
-          "ro": "Numește-o sincer, fără autoflagelare — țelul e vederea, nu verdictul."
-        },
-        {
-          "hu": "Segít egy kitöltős mondat a saját szavaiddal: „Lehet, hogy nem is X miatt vagyok feldúlt, hanem valami miatt, amit magamban hordok.” Olvasd el lassan, és ülj vele húsz másodpercet.",
-          "en": "A fill-in sentence in your own words helps: \"Perhaps I am not upset because of X at all, but because of something I carry in myself.\" Read it slowly and sit with it for twenty seconds.",
-          "ro": "O propoziție de completat în propriile tale cuvinte ajută: „Poate că nu sunt deloc tulburat din cauza lui X, ci din cauza a ceva ce port în mine.” Citește-o încet și stai cu ea douăzeci de secunde."
-        },
-        {
-          "hu": "Zárd le szelíden: a vetítés visszavonása a megbocsátás első fele — a második felét ráérsz később gyakorolni.",
-          "en": "Close gently: withdrawing the projection is the first half of forgiveness — the second half can wait for later practice.",
-          "ro": "Închide blând: retragerea proiecției e prima jumătate a iertării — a doua jumătate poate aștepta pentru o practică ulterioară."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány ennél tovább megy: azt állítja, hogy a látott világ egésze belülről vetített kép. * A gyakorlathoz azonban elég a józan olvasat: a keresztény szókincs ellenére ez egyetemes belső munka — a vetítés visszavonása, a kognitív átkeretezés és a bűntudat-feloldás lélektanból ismert mozdulatai. Nem helyettesít orvosi vagy pszichológiai ellátást; mély sebekkel szakemberrel dolgozz, akut krízisben pedig azonnal kérj segítséget. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition goes further: it claims that the whole seen world is a picture projected from within. * For the practice, though, the sober reading suffices: despite the Christian vocabulary this is universal inner work — withdrawing projection, cognitive reframing and the resolving of guilt, moves well known to psychology. It does not replace medical or psychological care; work on deep wounds with a professional, and in acute crisis seek help at once. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
-        "ro": "Tradiția merge mai departe: pretinde că întreaga lume văzută e o imagine proiectată din interior. * Pentru practică, totuși, lectura sobră e de ajuns: în ciuda vocabularului creștin, aceasta e muncă interioară universală — retragerea proiecției, reîncadrarea cognitivă și rezolvarea vinovăției, mișcări bine cunoscute psihologiei. Nu înlocuiește îngrijirea medicală sau psihologică; lucrează rănile adânci cu un profesionist, iar în criză acută caută ajutor de îndată. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
-      },
-      "sorszam": 3
-    },
-    {
-      "id": "ac-megbocsatas-lepesben",
-      "mester": "A csodák tanítása",
-      "szint": "halado",
-      "sik": "lelek",
-      "elem": "Viz",
-      "cim": {
-        "hu": "Megbocsátás-gyakorlat lépésben",
-        "en": "Forgiveness practice, step by step",
-        "ro": "Practica iertării, pas cu pas"
-      },
-      "cel": {
-        "hu": "A hagyomány megbocsátás-munkájának begyakorlása három mozdulatban: a sérelem felismerése, a rávetített többlet visszavonása, majd az elengedés — nem a bántás jóváhagyásaként, hanem a saját terhed letételeként.",
-        "en": "To train the tradition's forgiveness work in three movements: recognizing the grievance, withdrawing what was projected onto it, then releasing — not as approval of the hurt, but as the laying down of your own burden.",
-        "ro": "Ca să antrenezi munca de iertare a tradiției în trei mișcări: recunoașterea nemulțumirii, retragerea a ceea ce a fost proiectat asupra ei, apoi eliberarea — nu ca aprobare a rănii, ci ca depunerea propriei tale poveri."
-      },
-      "modszer": [
-        {
-          "hu": "Válassz egyetlen valódi sérelmet — egy embert vagy eseményt, amely még mindig szúr, ha eszedbe jut.",
-          "en": "Choose one real grievance — a person or event that still stings when it comes to mind.",
-          "ro": "Alege o nemulțumire reală — o persoană sau un eveniment care încă înțeapă când îți vine în minte."
-        },
-        {
-          "hu": "Nézd meg először a puszta tényt: mi történt valójában? Majd külön a történetet és az ítéletet, amelyet te építettél rá.",
-          "en": "First look at the bare fact: what actually happened? Then, separately, at the story and the verdict you built upon it.",
-          "ro": "Privește mai întâi faptul gol: ce s-a întâmplat cu adevărat? Apoi, separat, la povestea și verdictul pe care le-ai clădit pe el."
-        },
-        {
-          "hu": "Ismerd fel a saját hozzáadásodat: a jelentést, a bűntudatot, az elvárást, amelyet a másikra vetítettél.",
-          "en": "Recognize your own addition: the meaning, the guilt, the expectation you projected onto the other.",
-          "ro": "Recunoaște-ți propria adăugire: sensul, vina, așteptarea pe care le-ai proiectat asupra celuilalt."
-        },
-        {
-          "hu": "Vond vissza: lásd be, hogy a békéd ott veszett el, ahol te ítéletet hoztál — nem ott, ahol az esemény történt.",
-          "en": "Withdraw it: see that your peace was lost where you passed the verdict — not where the event took place.",
-          "ro": "Retrage-o: vezi că ți-ai pierdut pacea acolo unde ai dat verdictul — nu acolo unde s-a petrecut evenimentul."
-        },
-        {
-          "hu": "Engedd el mindkettőtöket: kívánj a másiknak jót a saját szavaiddal. Ha ez még túl korai, elég a hajlandóság hajlandósága is — annyi, hogy szeretnél majd egyszer elengedni.",
-          "en": "Release you both: wish the other well in your own words. If that is still too soon, the willingness to be willing is enough — simply that one day you would like to let go.",
-          "ro": "Eliberează-vă pe amândoi: urează-i celuilalt binele cu propriile tale cuvinte. Dacă e încă prea devreme, disponibilitatea de a fi dispus e de ajuns — pur și simplu că într-o zi ai vrea să lași să plece."
-        },
-        {
-          "hu": "Figyeld a tested: a váll, a gyomor, a lélegzet enyhülése az elengedés nyugtája.",
-          "en": "Watch your body: the easing of shoulders, stomach and breath is the receipt of release.",
-          "ro": "Urmărește-ți corpul: destinderea umerilor, a stomacului și a respirației e chitanța eliberării."
-        }
-      ],
-      "keret": {
-        "hu": "A megbocsátás itt nem a bántás helyeslése és nem felejtés: annak a tehernek a letétele, amelyet a hordozója cipel. Lélektani nyelven átkeretezés és neheztelés-feloldás — a fogva tartott mellett mindig az őr is a rácsnál áll. A mérce nem érzelmi csúcsélmény, hanem hogy könnyebb-e utána a nap.",
-        "en": "Forgiveness here is neither approval of the hurt nor forgetting: it is the laying down of a burden carried by its bearer. In psychological language, reframing and the dissolving of resentment — beside every prisoner the guard, too, stands at the bars. The measure is no emotional peak but whether the day is lighter afterwards.",
-        "ro": "Iertarea aici nu e nici aprobarea rănii, nici uitarea: e așezarea jos a unei poveri purtate de cel care o poartă. În limbaj psihologic, reîncadrare și dizolvarea resentimentului — lângă fiecare prizonier stă și paznicul la gratii. Măsura nu e un vârf emoțional, ci dacă ziua e mai ușoară după aceea."
+        "hu": "A Munkafüzet szándékosan lazán indít, és csak fokozatosan sűríti a ritmust: eleinte napi néhány egyperces gyakorlat, később fix időközű, gyakori emlékeztetők és óránkénti megállások, majd hosszabb reggeli és esti ülések. Ez a réteg fűzi össze a napot a reggeli indítás és az esti ülés között — a hosszú, egyéves menet valójában ezekből a fél percekből áll. A napi lecke szövegét a saját példányodból vagy angolul az app Munkafüzet-eszközéből veszed; a megállásokhoz elég belőle az az egy mondat, amit reggel felvettél. Mai nyelven szokásfűzés: mikroemlékeztetők a napodban már meglévő eseményekhez kötve. A mérce nem a találati arány, hanem hogy egyenletesebb-e tőle a napod.",
+        "en": "The Workbook deliberately starts out loose and only gradually tightens the rhythm: at first a few one-minute practices a day, later frequent reminders on a fixed interval and hourly stops, then longer morning and evening sittings. This layer is what strings the day together between the morning start and the evening sitting — the long, year-long march is in truth made of these half-minutes. You take the day's lesson text from your own copy, or in English from the app's Workbook tool; for the stops, the one sentence you picked up in the morning is enough of it. In today's language, habit stacking: micro-reminders tied to events already present in your day. The measure is not your hit rate but whether your day grows steadier.",
+        "ro": "Caietul de exerciții începe în mod deliberat lejer și strânge ritmul doar treptat: la început câteva practici de un minut pe zi, mai târziu reamintiri dese la un interval fix și opriri din oră în oră, apoi ședințe mai lungi dimineața și seara. Acest strat e cel care leagă ziua între pornirea de dimineață și ședința de seară — lungul marș de un an e alcătuit, de fapt, din aceste jumătăți de minut. Textul lecției zilei îl iei din propriul exemplar sau, în engleză, din unealta Caietului de exerciții din aplicație; pentru opriri e de ajuns acea singură propoziție pe care ai luat-o dimineața. În limbajul de azi, stivuirea obiceiurilor: micro-reamintiri legate de evenimente deja prezente în ziua ta. Măsura nu e rata ta de reușită, ci dacă ziua ta devine mai stabilă."
       },
       "etika": {
-        "hu": "A megbocsátás sosem kötelez arra, hogy ártalomban maradj: a határ meghúzása, a jogsérelem jelzése és a védelem kérése mind összefér vele. Mély vagy traumatikus sebeken ne dolgozz egyedül — keresd szakember kíséretét.",
-        "en": "Forgiveness never obliges you to remain in harm's way: drawing a boundary, reporting a wrong and seeking protection are all compatible with it. Do not work on deep or traumatic wounds alone — seek a professional's accompaniment.",
-        "ro": "Iertarea nu te obligă niciodată să rămâi în calea răului: a trage o graniță, a raporta o nedreptate și a căuta protecție sunt toate compatibile cu ea. Nu lucra singur la răni adânci sau traumatice — caută însoțirea unui profesionist."
+        "hu": "Az emlékeztetőt sose vidd oda, ahol veszélyes: vezetés közben, gép mellett, létrán, éles munkahelyi figyelemben a gyakorlás vár. És ha a rendszer szorongássá válik — pontozás, önvád, kényszeres pótlás —, kivételként ritkítsd: napi három megállás, amit szívesen csinálsz, többet ér tizenkettőnél, amitől rettegsz. Ez kivétel, nem a forma alapbeállítása; a kihagyott nap pedig nem bukás.",
+        "en": "Never take the reminder where it is dangerous: while driving, at a machine, on a ladder, in sharp attention at work, the practice waits. And if the system turns into anxiety — scorekeeping, self-reproach, compulsive catching-up — thin it out as an exception: three stops a day you are glad to make are worth more than twelve you dread. That is an exception, not the form's default setting; and a missed day is not a failure.",
+        "ro": "Nu duce niciodată memento-ul acolo unde e periculos: la volan, lângă o mașinărie, pe o scară, în atenție ascuțită la muncă, practica așteaptă. Iar dacă sistemul se transformă în anxietate — ținerea scorului, auto-reproș, recuperare compulsivă — rărește-l ca excepție: trei opriri pe zi pe care le faci cu plăcere valorează mai mult decât douăsprezece de care te temi. E o excepție, nu setarea implicită a formei; iar o zi ratată nu e un eșec."
       },
       "sorszam": 4
     },
     {
-      "id": "ac-dontsd-el-ujra",
-      "mester": "A csodák tanítása",
-      "szint": "kezdo",
-      "sik": "lelek",
-      "cim": {
-        "hu": "Döntsd el újra — szeretet vagy félelem",
-        "en": "Decide again — love or fear",
-        "ro": "Decide din nou — iubire sau frică"
-      },
-      "cel": {
-        "hu": "Alan Cohen egyszerűsítő fogása a hétköznapokra: minden feszült pillanatban egyetlen kérdést feltenni — most a szeretet vagy a félelem beszél belőlem? — és a döntést tudatosan újra meghozni.",
-        "en": "Alan Cohen's simplifying device for everyday life: in every tense moment to ask a single question — is love or fear speaking in me right now? — and to make the decision consciously anew.",
-        "ro": "Dispozitivul simplificator al lui Alan Cohen pentru viața de zi cu zi: în fiecare moment tensionat să pui o singură întrebare — vorbește în mine acum iubirea sau frica? — și să iei decizia din nou, în mod conștient."
-      },
-      "modszer": [
-        {
-          "hu": "Amikor feszültséget, kapkodást vagy habozást veszel észre magadban, állj meg, és kérdezd meg: ebben a pillanatban melyik vezet — a szeretet vagy a félelem?",
-          "en": "When you notice tension, haste or hesitation in yourself, stop and ask: in this moment, which is leading — love or fear?",
-          "ro": "Când observi în tine tensiune, grabă sau ezitare, oprește-te și întreabă: în acest moment, care conduce — iubirea sau frica?"
-        },
-        {
-          "hu": "Ha a félelem, ne harcolj vele: nevezd meg pontosan, mitől tartasz. A megnevezett félelem már kisebb.",
-          "en": "If it is fear, do not fight it: name precisely what you are afraid of. A named fear is already smaller.",
-          "ro": "Dacă e frica, nu te lupta cu ea: numește precis de ce ți-e teamă. O frică numită e deja mai mică."
-        },
-        {
-          "hu": "Kérdezd meg: hogyan festene itt a szeretetteljes lépés — magad és a másik felé egyaránt?",
-          "en": "Ask: what would the loving step look like here — toward yourself and the other alike?",
-          "ro": "Întreabă: cum ar arăta aici pasul iubitor — față de tine și de celălalt deopotrivă?"
-        },
-        {
-          "hu": "Tégy egyetlen kis lépést abba az irányba: egy mondat, egy hangnem, egy elhalasztott visszavágás is elég.",
-          "en": "Take one small step in that direction: a sentence, a tone of voice, a retort postponed is enough.",
-          "ro": "Fă un pas mic în acea direcție: o propoziție, un ton al vocii, o replică amânată e de ajuns."
-        },
-        {
-          "hu": "Utána zsigeri próba: a béke és a világosság a jó irány jele; a sürgetés és a szorítás a régi vágányé.",
-          "en": "Afterwards, the gut test: peace and clarity mark the right direction; urgency and tightness mark the old track.",
-          "ro": "După aceea, testul din burta: pacea și claritatea marchează direcția corectă; urgența și strângerea marchează vechiul drum."
-        }
-      ],
-      "keret": {
-        "hu": "Ez a kétosztatú kérdés nem érzelemtan, hanem egyszerűsítő lencse a döntés pillanatára — a lélektan újraértékelésnek hívná. Nem kell hozzá elfogadnod a hagyomány világképét: elég kipróbálni, és a gyümölcsén mérni — szelídül-e tőle a napod.",
-        "en": "This twofold question is not a theory of emotion but a simplifying lens for the moment of choice — psychology would call it reappraisal. You need not accept the tradition's worldview: it is enough to try it and measure it by its fruit — whether your day grows gentler.",
-        "ro": "Această dublă întrebare nu e o teorie a emoției, ci o lentilă simplificatoare pentru momentul alegerii — psihologia i-ar spune reevaluare. Nu trebuie să accepți viziunea asupra lumii a tradiției: e de ajuns să o încerci și să o măsori după rodul ei — dacă ziua ta devine mai blândă."
-      },
-      "sorszam": 5
-    },
-    {
-      "id": "ac-szent-pillanat",
+      "id": "ac-hosszabb-gyakorlas",
       "mester": "A csodák tanítása",
       "szint": "halado",
       "sik": "szellem",
       "elem": "Eter",
       "cim": {
-        "hu": "A szent pillanat megállása",
-        "en": "The pause of the holy instant",
-        "ro": "Pauza clipei sfinte"
+        "hu": "Hosszabb gyakorlási időszak — csukott szemmel a nap gondolatával",
+        "en": "The longer practice period — eyes closed with the day's thought",
+        "ro": "Perioada mai lungă de practică — cu ochii închiși, cu gândul zilei"
       },
       "cel": {
-        "hu": "Rövid, teljes jelenlétű szünet a nap közepén: egy percre kilépni a múlt és a jövő forgalmából, és hagyni, hogy a most megmutassa magát — a hagyomány szavával a szent pillanatot meglátogatni.",
-        "en": "A brief, fully present pause in the middle of the day: stepping for one minute out of the traffic of past and future, letting the now show itself — in the tradition's word, visiting the holy instant.",
-        "ro": "O pauză scurtă, pe deplin prezentă, în mijlocul zilei: a ieși pentru un minut din traficul trecutului și viitorului, lăsând prezentul să se arate — în cuvântul tradiției, a vizita clipa sfântă."
+        "hu": "Megtanulni a Munkafüzet hosszabb üléseit: kimérni az aznapi lecke által kért időt, a gondolat lassú kimondása után befelé haladni a felszíni gondolatokon át, és az ülés nagyobbik részét csendes, figyelmes hallgatással tölteni — az elkalandozó elmét pedig szidás nélkül visszahozni az irányba, ahányszor csak kell.",
+        "en": "To learn the Workbook's longer sittings: to measure out the time the day's lesson asks for, to move inward past the surface thoughts after saying the thought slowly, and to spend the larger part of the sitting in quiet, attentive listening — bringing the wandering mind back to the direction without scolding, as often as it takes.",
+        "ro": "Să înveți ședințele mai lungi din Caietul de exerciții: să măsori timpul cerut de lecția zilei, ca după rostirea lentă a gândului să mergi înăuntru, pe lângă gândurile de suprafață, și să petreci partea mai mare a ședinței într-o ascultare liniștită și atentă — aducând mintea rătăcitoare înapoi la direcție, fără mustrare, de câte ori e nevoie."
       },
       "modszer": [
         {
-          "hu": "A nap közepén állj meg egy percre: tedd le, ami a kezedben van, lágyítsd a tekinteted vagy csukd be a szemed.",
-          "en": "In the middle of the day stop for one minute: put down what is in your hands, soften your gaze or close your eyes.",
-          "ro": "În mijlocul zilei oprește-te un minut: lasă jos ce ai în mâini, înmoaie-ți privirea sau închide ochii."
+          "hu": "Nézd meg, hány percet és hány alkalmat kér az aznapi lecke, és mérd ki előre — időzítővel, ne a jó szándékodra bízva. Az app Munkafüzet-eszköze kiteszi eléd az aznapi leckét; az időmérést hagyd a készülékre, hogy ne kelljen figyelned rá.",
+          "en": "Check how many minutes and how many sittings the day's lesson asks for, and measure it out in advance — with a timer, not left to your good intentions. The app's Workbook tool sets the day's lesson in front of you; leave the timekeeping to the device so you need not watch it.",
+          "ro": "Vezi câte minute și câte ședințe cere lecția zilei și măsoară-le dinainte — cu un cronometru, nu lăsate pe seama bunelor tale intenții. Unealta Caietului de exerciții din aplicație îți așază înainte lecția zilei; lasă măsurarea timpului pe seama dispozitivului, ca să nu trebuiască să o urmărești."
         },
         {
-          "hu": "Erre az egy percre engedd el a múltat és a jövőt — most nincs mit megoldani, és nincs kinek lenned.",
-          "en": "For this one minute let past and future go — right now there is nothing to solve and no one you must be.",
-          "ro": "Pentru acest un minut lasă trecutul și viitorul să plece — chiar acum nu e nimic de rezolvat și nimeni care trebuie să fii."
+          "hu": "Ülj le kényelmesen, egyenes háttal, csukd be a szemed, és vegyél néhány lassú lélegzetet, mielőtt bármihez hozzákezdenél.",
+          "en": "Sit comfortably with a straight back, close your eyes, and take a few slow breaths before you begin anything.",
+          "ro": "Așază-te comod, cu spatele drept, închide ochii și ia câteva respirații lente înainte de a începe orice."
         },
         {
-          "hu": "Érzékeld a jelent a testeden át: a lélegzet, a súly, a hangok — ami éppen van, ahogy van.",
-          "en": "Sense the present through the body: the breath, the weight, the sounds — what is, as it is.",
-          "ro": "Simte prezentul prin corp: respirația, greutatea, sunetele — ceea ce este, așa cum este."
+          "hu": "Mondd ki magadban lassan a nap gondolatát, és ismételd meg néhányszor — nem kántálva, inkább úgy, ahogy az ember irányt vesz fel. Ez az ülés indítása, nem a tartalma.",
+          "en": "Say the day's thought inwardly, slowly, and repeat it a few times — not chanting, more the way one takes a bearing. This starts the sitting; it is not its content.",
+          "ro": "Rostește lăuntric, rar, gândul zilei și repetă-l de câteva ori — nu cântându-l, mai degrabă așa cum îți iei o direcție. Aceasta e pornirea ședinței, nu conținutul ei."
         },
         {
-          "hu": "Ha ítélet vagy aggodalom érkezik, hagyd elhaladni, mint az utcai forgalmat, és térj vissza az érzékeléshez.",
-          "en": "If a judgement or a worry arrives, let it pass like street traffic and return to sensing.",
-          "ro": "Dacă sosește o judecată sau o grijă, las-o să treacă ca traficul de pe stradă și întoarce-te la simțire."
+          "hu": "Innen befelé és lefelé haladj: a felszíni gondolatok rétegén át egy csendesebb közép felé. A felbukkanó gondolatot nem nézed és nem elemzed — elhaladsz mellette, befelé menet. Ha az irány elveszik, idézd fel újra a mondatot, és menj tovább.",
+          "en": "From here move inward and downward: through the layer of surface thoughts towards a quieter centre. A thought that surfaces you do not watch and do not analyse — you slip past it on your way in. If the direction is lost, recall the sentence again and go on.",
+          "ro": "De aici mergi înăuntru și în jos: prin stratul gândurilor de suprafață, spre un centru mai liniștit. Gândul care iese la suprafață nu-l privești și nu-l analizezi — treci pe lângă el, în drumul spre înăuntru. Dacă direcția se pierde, amintește-ți din nou propoziția și mergi mai departe."
         },
         {
-          "hu": "Záráskor vigyél magaddal egyetlen cseppet ebből a csendből a következő teendődbe.",
-          "en": "As you close, carry a single drop of this stillness into your next task.",
-          "ro": "Când închei, du o singură picătură din această liniște în următoarea ta sarcină."
+          "hu": "Amikor a felszín elcsendesedik, ne csinálj semmit: hallgass. Ez a fogadó rész — csendes, de éber várakozás —, és ez teszi ki az ülés nagyobbik felét. Nem te termeled, ami jön; csak ott vagy neki.",
+          "en": "When the surface goes quiet, do nothing: listen. This is the receiving part — quiet but attentive waiting — and it takes up the larger half of the sitting. You do not produce what comes; you are simply there for it.",
+          "ro": "Când suprafața se liniștește, nu face nimic: ascultă. Aceasta e partea receptivă — o așteptare liniștită, dar atentă — și ocupă jumătatea mai mare a ședinței. Nu tu produci ce vine; doar ești acolo pentru asta."
+        },
+        {
+          "hu": "Az elkalandozás nem hiba, hanem a gyakorlat anyaga. Amint észreveszed, hogy elsodródtál — akár huszadszor is —, idézd fel még egyszer a mondatot, és vedd fel újra az irányt befelé. Szemrehányás egy sem tartozik ide.",
+          "en": "Wandering is not a fault but the material of the practice. The moment you notice you have drifted — even for the twentieth time — recall the sentence once more and take up the inward direction again. Not one reproach belongs here.",
+          "ro": "Rătăcirea nu e o greșeală, ci materia practicii. În clipa în care observi că ai plecat în derivă — fie și a douăzecea oară — amintește-ți încă o dată propoziția și reia direcția spre înăuntru. Niciun reproș nu-și are locul aici."
+        },
+        {
+          "hu": "Ha nyugtalanság, unalom vagy ellenállás támad, ne birkózz vele: nevezd meg egy szóval, hogy itt van, és menj vissza. Ha elviselhetetlenné válik, rövidítsd le az ülést — a rövid, őszinte gyakorlás többet ér a hosszú, kényszeredettnél.",
+          "en": "If restlessness, boredom or resistance rises, do not wrestle with it: name in one word that it is here, and go back. If it becomes unbearable, shorten the sitting — short, honest practice is worth more than long and forced.",
+          "ro": "Dacă se ridică neliniște, plictiseală sau rezistență, nu te lupta cu ele: numește într-un cuvânt că sunt aici și întoarce-te. Dacă devine de nesuportat, scurtează ședința — o practică scurtă și sinceră valorează mai mult decât una lungă și silită."
+        },
+        {
+          "hu": "Amikor letelt az idő, ne pontozd le magad, hogy „sikerült-e”. Ennek az ülésnek nincs teljesítménymércéje: az számít, hogy leültél.",
+          "en": "When the time is up, do not score yourself on whether it “worked”. This sitting has no measure of performance: what counts is that you sat down.",
+          "ro": "Când timpul s-a scurs, nu-ți da note pentru „dacă a reușit”. Această ședere nu are o măsură a performanței: contează că te-ai așezat."
+        },
+        {
+          "hu": "Nyisd ki a szemed, és vidd magaddal a gondolatot a következő órádba. Egy sort a Csodanaplóba is írhatsz róla — de csak ha jólesik, nem házi feladatként.",
+          "en": "Open your eyes and carry the thought into your next hour. You may write a line about it in the Miracle Journal too — but only if it feels good, never as homework.",
+          "ro": "Deschide ochii și du gândul în ora care urmează. Poți scrie și un rând despre el în Jurnalul miracolelor — dar numai dacă îți face bine, niciodată ca temă."
         }
       ],
       "keret": {
-        "hu": "A hagyomány azt tanítja, hogy a teljes jelenlét pillanatában az idő az időtlenre nyílik. * A józan olvasat is bőven elég ok a gyakorlásra: a félelem java része elővételezés — a jelen pillanatban ritkán van baj, és a figyelem ilyen újraindítása mérhetően nyugtat. A mérce: tisztább-e utána a következő órád. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition teaches that in the moment of full presence, time opens onto the timeless. * The sober reading is reason enough to practise: most fear is anticipation — in the present moment there is rarely anything wrong, and such a restart of attention calms measurably. The measure: whether your next hour is clearer. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
-        "ro": "Tradiția învață că în momentul prezenței depline, timpul se deschide spre atemporal. * Lectura sobră e motiv destul să practici: cea mai mare parte a fricii e anticipare — în momentul prezent rareori e ceva în neregulă, iar o astfel de repornire a atenției calmează măsurabil. Măsura: dacă următoarea ta oră e mai clară. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
+        "hu": "A Munkafüzet nem egyformán terheli az évet: eleinte napi egy-két perces gyakorlatokat kér, később hosszabb, csukott szemű reggeli és esti üléseket, a második részében pedig a szavak egyre inkább elcsendesülnek. Ez a gyakorlat ezt a hosszabb formát tanulja be — a pontos időt mindig az aznapi lecke mondja meg, nem én. A lecke szövegét a saját példányodból olvasod, vagy angolul az app Munkafüzet-eszközéből, amely aznapi leckeként hozza eléd. A hagyomány szerint a hosszabb csendben nem te éred el a gondolatot, hanem az ér el téged. * Józan olvasatban ez fókuszált figyelemtréning: hosszabb ülés, több elkalandozás, több visszatérés — és épp a visszatérésektől erősödik a figyelem. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The Workbook does not load the year evenly: at first it asks for one- or two-minute practices, later for longer morning and evening sittings with the eyes closed, and in its second part the words fall increasingly quiet. This practice trains that longer form — the exact time is always named by the day's lesson, not by me. You read the lesson's text in your own copy, or in English from the app's Workbook tool, which brings it to you as the day's lesson. The tradition holds that in the longer silence it is not you who reach the thought, but the thought that reaches you. * In the sober reading this is focused attention training: a longer sitting, more wandering, more returning — and it is the returns that strengthen attention. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Caietul de exerciții nu încarcă anul în mod egal: la început cere practici de un minut sau două, mai târziu ședințe mai lungi, de dimineață și de seară, cu ochii închiși, iar în partea a doua cuvintele se liniștesc tot mai mult. Această practică antrenează acea formă mai lungă — timpul exact e numit întotdeauna de lecția zilei, nu de mine. Textul lecției îl citești în propriul exemplar sau, în engleză, din unealta Caietului de exerciții din aplicație, care ți-l aduce ca lecția zilei. Tradiția susține că în liniștea mai lungă nu tu ajungi la gând, ci gândul ajunge la tine. * În lectura sobră, acesta e antrenament de atenție concentrată: o ședere mai lungă, mai multă rătăcire, mai multe reveniri — și tocmai revenirile întăresc atenția. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       },
-      "sorszam": 6
+      "etika": {
+        "hu": "Ne erőltesd: ha az ülés szorongást, pánikot vagy émelygést hoz, nyisd ki a szemed, és állj fel — a Munkafüzet maga is a rövidítést kéri ilyenkor. Trauma után a hosszú, csukott szemű csend felkavaró lehet; ilyenkor kezdj rövidebb, nyitott szemű formával, és mély sebeknél dolgozz szakemberrel. A kihagyott ülés nem bukás: ott folytatod, ahol abbahagytad.",
+        "en": "Do not force it: if the sitting brings anxiety, panic or nausea, open your eyes and stand up — the Workbook itself asks for shortening at such times. After trauma, a long silence with closed eyes can be stirring; then begin with a shorter, open-eyed form, and with deep wounds work alongside a professional. A missed sitting is no failure: you continue where you left off.",
+        "ro": "Nu forța: dacă ședința aduce anxietate, panică sau greață, deschide ochii și ridică-te — Caietul însuși cere scurtarea în asemenea momente. După o traumă, o liniște lungă cu ochii închiși poate tulbura; atunci începe cu o formă mai scurtă, cu ochii deschiși, iar la răni adânci lucrează alături de un profesionist. O ședință ratată nu e un eșec: continui de unde ai rămas."
+      },
+      "sorszam": 5
     },
     {
-      "id": "ac-belso-vezeto",
+      "id": "ac-elme-atvizsgalas",
       "mester": "A csodák tanítása",
       "szint": "halado",
       "sik": "szellem",
       "elem": "Levego",
       "cim": {
-        "hu": "A belső vezető megkérdezése",
-        "en": "Asking the inner guide",
-        "ro": "A întreba ghidul interior"
+        "hu": "Elmeátvizsgálás és a néven nevezett arc — csukott szemmel, ítélet nélkül",
+        "en": "Mind searching and the named face — eyes closed, without judgement",
+        "ro": "Cercetarea minții și chipul numit — cu ochii închiși, fără judecată"
       },
       "cel": {
-        "hu": "Döntés előtt csendes kérdést tenni befelé, és megtanulni várni a válaszra — majd azt, ami érkezik, a béke ismertetőjegyén megvizsgálni és józan ésszel mérlegelni.",
-        "en": "To put a quiet question inward before a decision and learn to wait for the answer — then to examine what comes by the mark of peace and weigh it with sober reason.",
-        "ro": "A pune o întrebare liniștită înăuntru înaintea unei decizii și a învăța să aștepți răspunsul — apoi a examina ce vine după semnul păcii și a-l cântări cu rațiune sobră."
+        "hu": "Begyakorolni a Munkafüzet két csukott szemű belső mozdulatát: végigpásztázni, ami éppen az elmédben van, minden felbukkanó gondolatot ugyanazzal a nyugalommal tudomásul venni — és utána egyetlen embert magad elé állítva végigvinni rajta a napi gondolatot, néven nevezve.",
+        "en": "To train the Workbook's two closed-eye inner moves: to scan whatever is in your mind right now and acknowledge every thought that surfaces with the same calm — and then, holding a single person before you, to carry the day's thought through with them, by name.",
+        "ro": "Să antrenezi cele două mișcări lăuntrice cu ochii închiși din Caiet: să treci în revistă ce se află acum în mintea ta și să iei act de fiecare gând care iese la suprafață cu același calm — iar apoi, ținând un singur om înaintea ta, să duci gândul zilei până la capăt cu el, pe nume."
       },
       "modszer": [
         {
-          "hu": "Fogalmazd meg a kérdést egyszerűen és őszintén — egyetlen mondatban, kertelés nélkül.",
-          "en": "Phrase the question simply and honestly — in a single sentence, without hedging.",
-          "ro": "Formulează întrebarea simplu și sincer — într-o singură propoziție, fără ocolișuri."
+          "hu": "Ülj le egy-két percre, csukd be a szemed, és tedd fel magadnak a keresés kérdését: mi van most az elmémben? Ne siess a válasszal — várd meg, mi jön magától.",
+          "en": "Sit for a minute or two, close your eyes, and put the searching question to yourself: what is in my mind right now? Do not hurry the answer — wait for what comes of itself.",
+          "ro": "Stai un minut sau două, închide ochii și pune-ți întrebarea de căutare: ce e în mintea mea acum? Nu grăbi răspunsul — așteaptă ce vine de la sine."
         },
         {
-          "hu": "Ülj le csendben, csillapodj egy percig, majd tedd fel a kérdést befelé — követelés nélkül, ahogy egy megbízható barátnak tennéd.",
-          "en": "Sit quietly, settle for a minute, then put the question inward — without demand, as you would to a trusted friend.",
-          "ro": "Stai liniștit, liniștește-te un minut, apoi pune întrebarea înăuntru — fără pretenție, așa cum i-ai pune unui prieten de încredere."
+          "hu": "Ami felbukkan, azt vedd sorra úgy, ahogy érkezik: egy arc, egy elmaradt telefon, egy régi szégyen, egy holnapi határidő. Ne rendezd át a sorrendet, és ne keress köztük összefüggést.",
+          "en": "Take what surfaces in the order it arrives: a face, a call not made, an old shame, tomorrow's deadline. Do not rearrange the order and do not look for connections between them.",
+          "ro": "Ia ce iese la suprafață în ordinea în care sosește: un chip, un telefon nedat, o rușine veche, un termen de mâine. Nu rearanja ordinea și nu căuta legături între ele."
         },
         {
-          "hu": "Várj erőltetés nélkül. A válasz jöhet gondolatként, képként, csendes hajlamként — vagy csak órákkal később, séta közben.",
-          "en": "Wait without forcing. The answer may come as a thought, an image, a quiet inclination — or only hours later, on a walk.",
-          "ro": "Așteaptă fără a forța. Răspunsul poate veni ca un gând, o imagine, o înclinație liniștită — sau abia ore mai târziu, la o plimbare."
+          "hu": "Tartsd a szabályt: semmi nem túl kicsi és semmi nem túl nagy. Az apró bosszúság ugyanúgy elveszi a békédet, mint a nagy seb — a rangsorolás maga az a szűrő, amelyet most leveszel.",
+          "en": "Keep the rule: nothing is too small and nothing is too big. A petty annoyance takes your peace just as a great wound does — the ranking itself is the filter you are now taking off.",
+          "ro": "Ține regula: nimic nu e prea mic și nimic nu e prea mare. O supărare măruntă îți ia pacea la fel ca o rană mare — ierarhizarea însăși e filtrul pe care îl dai acum jos."
         },
         {
-          "hu": "Vizsgáld az ismertetőjegyeket: a jó tanácsot béke, világosság és szelídség kíséri; a sürgetés, a rémisztgetés és az „azonnal!” a félelem hangja.",
-          "en": "Examine the marks: good counsel is accompanied by peace, clarity and gentleness; urgency, alarm and \"right now!\" are the voice of fear.",
-          "ro": "Examinează semnele: sfatul bun e însoțit de pace, claritate și blândețe; urgența, alarma și „chiar acum!” sunt vocea fricii."
+          "hu": "Mindegyiknél időzz egy pillanatot, ne tovább. Nem elemzed, nem oldod meg, nem magyarázod — megnevezed magadban, és mész tovább.",
+          "en": "Linger a moment at each, no longer. You do not analyse it, solve it or explain it — you name it inwardly and move on.",
+          "ro": "Zăbovește o clipă la fiecare, nu mai mult. Nu-l analizezi, nu-l rezolvi, nu-l explici — îl numești lăuntric și mergi mai departe."
         },
         {
-          "hu": "Amit kaptál, mérlegeld józan ésszel, egy tanácsként a többi között — a döntést felnőttként te hozod meg, tények és következmények ismeretében.",
-          "en": "Weigh what you received with sober reason, as one counsel among others — the decision you make as an adult, knowing the facts and the consequences.",
-          "ro": "Cântărește ce ai primit cu rațiune sobră, ca pe un sfat printre altele — decizia o iei ca adult, cunoscând faptele și consecințele."
+          "hu": "Ha ítélet érkezik — „ez nevetséges”, „ezen már rég túl kellene lennem” —, azt is csak vedd fel a sorba gondolatként. Az ítélet is gondolat, nem bíró.",
+          "en": "If a judgement arrives — “this is ridiculous”, “I should be long past this” — take that into the line as a thought too. A judgement is also a thought, not a judge.",
+          "ro": "Dacă sosește o judecată — „e ridicol”, „ar fi trebuit să trec demult peste asta” —, ia-o și pe ea în șir ca pe un gând. Judecata e și ea un gând, nu un judecător."
+        },
+        {
+          "hu": "Ha valamin megakadsz, mert fáj, ne kényszerítsd tovább magad. Jelöld meg egy szóval, hogy ide nyugodtabb időben — ha kell, szakember mellett — visszatérsz, és folytasd a pásztázást.",
+          "en": "If you get stuck on something because it hurts, do not push yourself further. Mark it with a single word to say you will come back here at a calmer time — with a professional if need be — and go on scanning.",
+          "ro": "Dacă te blochezi la ceva pentru că doare, nu te forța mai departe. Marchează-l cu un singur cuvânt, ca să te întorci aici într-un moment mai liniștit — cu un profesionist, dacă e nevoie — și continuă cercetarea."
+        },
+        {
+          "hu": "Zárásként vezesd végig a nap gondolatát azon, ami előjött — egyenként, ugyanabban a sorrendben, ahogy jöttek. Nem kell mindegyiket elérned; szándékosan kihagyni viszont egyet sem.",
+          "en": "To close, lead the day's thought through what came up — one by one, in the same order they came. You need not reach every one; but deliberately skip none.",
+          "ro": "La încheiere, poartă gândul zilei peste tot ce a ieșit — unul câte unul, în aceeași ordine în care au venit. Nu e nevoie să le atingi pe toate; dar nu sări deliberat peste niciunul."
+        },
+        {
+          "hu": "Amikor a pásztázás lecsendesedett, válassz egyetlen embert — mindig csak egyet. Csukott szemmel tartsd magad előtt az alakját úgy, ahogy eszedbe jut: az arcát, a testtartását, a hangját.",
+          "en": "When the scanning has quietened, choose a single person — always only one. With your eyes closed, hold their form before you as it comes to mind: the face, the posture, the voice.",
+          "ro": "Când cercetarea s-a liniștit, alege un singur om — întotdeauna doar unul. Cu ochii închiși, ține-i forma înaintea ta așa cum îți vine în minte: chipul, ținuta, vocea."
+        },
+        {
+          "hu": "Kezdd valakivel, akit nem kedvelsz. Ne magyarázd és ne mentegesd — csak nézd, amíg meg nem látsz benne egyetlen szikrát: egy fáradtságot, egy régi ijedtséget, valamit, ami nem az ellenfél.",
+          "en": "Begin with someone you do not like. Do not explain and do not excuse — only look until you see a single spark in them: a tiredness, an old fright, something that is not the adversary.",
+          "ro": "Începe cu cineva pe care nu-l placi. Nu explica și nu scuza — doar privește până vezi în el o singură scânteie: o oboseală, o spaimă veche, ceva ce nu e adversarul."
+        },
+        {
+          "hu": "Aztán állítsd mellé valakit, akit szeretsz, és tartsd a két arcot egymás mellett. Ne siettesd, mi történik köztük: itt a türelem a gyakorlat, nem a végeredmény.",
+          "en": "Then set beside them someone you love, and hold the two faces side by side. Do not hurry what happens between them: here the practice is patience, not the outcome.",
+          "ro": "Apoi așază lângă el pe cineva pe care îl iubești și ține cele două chipuri unul lângă altul. Nu grăbi ce se petrece între ele: aici practica e răbdarea, nu rezultatul."
+        },
+        {
+          "hu": "Zárásként mondd ki csendben a nevét, és kérj tőle áldást a magad szavaival. A kérés iránya számít: nem te adsz neki valamit, hanem tőle kérsz.",
+          "en": "To close, say their name silently and ask them for a blessing in your own words. The direction of the asking is what matters: you are not giving them something, you are asking of them.",
+          "ro": "La încheiere rostește-i în tăcere numele și cere-i o binecuvântare, în cuvintele tale. Direcția cererii contează: nu tu îi dai ceva, ci îi ceri lui."
+        },
+        {
+          "hu": "Néhány tétel és néhány név visszatérőnek bizonyul. Írd fel őket egy-egy szóval a Csodanaplód mellé — hetek múlva a lista maga mutatja meg, mi nyom valójában; és ha ugyanaz a név az Álomnaplódban is felbukkan, nézd össze a kettőt.",
+          "en": "A few items and a few names will prove recurrent. Write them down with a word each beside your Miracle Journal — after weeks the list itself shows what really weighs on you; and if the same name turns up in your Dream Journal, set the two side by side.",
+          "ro": "Câteva elemente și câteva nume se vor dovedi recurente. Notează-le cu câte un cuvânt lângă Jurnalul miracolelor — după săptămâni, lista însăși arată ce apasă cu adevărat; iar dacă același nume apare și în Jurnalul viselor, pune-le pe cele două alături."
         }
       ],
       "keret": {
-        "hu": "A hagyomány e belső hangot Szentléleknek, Belső Tanítónak nevezi, és valóságos vezetőnek tartja. * A józan olvasatban a csendes kérdezés a saját mélyebb tudásodhoz és értékeidhez nyit hozzáférést, amelyet a napi zaj rendesen elfed. Mindkét olvasatban ugyanaz a mérce: békét hoz-e, és beválik-e a gyümölcse. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition calls this inner voice the Holy Spirit, the Inner Teacher, and holds it to be a real guide. * In the sober reading, quiet questioning opens access to your own deeper knowing and values, which the day's noise ordinarily covers. In both readings the measure is the same: whether it brings peace, and whether its fruit holds up. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
-        "ro": "Tradiția numește această voce interioară Duhul Sfânt, Învățătorul Interior, și o consideră un ghid real. * În lectura sobră, întrebarea liniștită deschide accesul la propria ta cunoaștere mai adâncă și la valorile tale, pe care zgomotul zilei le acoperă de obicei. În ambele lecturi măsura e aceeași: dacă aduce pace și dacă rodul ei se menține. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
+        "hu": "Az év során a Munkafüzet többször kéri ezt a fajta belső keresést: nem szemlélődés, hanem célzott átvizsgálás, amelyben a napi gondolatot végigvezeted azon, ami éppen az elmédben van. Két szabálya van — rangsor nélkül és szándékos kivétel nélkül —, és a kettő valójában ugyanaz a mozdulat. Ugyanilyen gyakran kéri a másik, érzelmileg súlyosabb formát is: egyetlen embert magad elé állítva, csukott szemmel. A lecke szövegét a saját példányodból veszed, vagy angolul az app Munkafüzet-eszközéből, amely aznapi leckeként hozza eléd. A hagyomány szerint a gondolat nem semleges esemény: alakítja, mit látsz meg a világból. * Józan olvasatban ez metakogníció — megtanulod, hogy a gondolat esemény az elmédben, nem parancs és nem tény —, a rangsor elhagyása pedig épp azt a szűrőt függeszti fel, amellyel az apró terheket szó nélkül elviselhetőnek nyilvánítod. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "In the course of the year the Workbook asks for this kind of inner search more than once: not contemplation but a targeted review, in which you lead the day's thought through whatever is in your mind at that moment. It has two rules — no ranking and no deliberate exception — and the two are in fact the same move. Just as often it asks for the other, emotionally heavier form: a single person held before you, eyes closed. You take the lesson's text from your own copy, or in English from the app's Workbook tool, which brings it to you as the day's lesson. The tradition holds that a thought is no neutral event: it shapes what you make out of the world. * In the sober reading this is metacognition — you learn that a thought is an event in your mind, not a command and not a fact — and dropping the ranking suspends precisely the filter by which you silently declare small burdens bearable. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "În cursul anului, Caietul cere de mai multe ori acest fel de căutare lăuntrică: nu contemplare, ci o trecere în revistă țintită, în care porți gândul zilei peste tot ce se află în acel moment în mintea ta. Are două reguli — fără ierarhie și fără excepție deliberată — și cele două sunt de fapt aceeași mișcare. La fel de des cere și cealaltă formă, mai grea emoțional: un singur om ținut înaintea ta, cu ochii închiși. Textul lecției îl iei din propriul exemplar sau, în engleză, din unealta Caietului de exerciții din aplicație, care ți-l aduce ca lecția zilei. Tradiția susține că gândul nu e un eveniment neutru: modelează ce anume vezi din lume. * În lectura sobră, aceasta e metacogniție — înveți că un gând e un eveniment în mintea ta, nu o poruncă și nu un fapt — iar renunțarea la ierarhie suspendă tocmai filtrul prin care declari în tăcere că poverile mici sunt suportabile. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
       },
       "etika": {
-        "hu": "A belső válasz tanács, nem hatóság: orvosi, pénzügyi vagy jogi kérdésben tényekre és szakemberre van szükség, és belső hangra hivatkozva soha ne írd felül őket. Sürgető, félelemkeltő „útmutatást” ne kövess; akut krízisben azonnal fordulj szakemberhez.",
-        "en": "The inner answer is counsel, not authority: medical, financial and legal questions require facts and professionals, and you must never override them on the strength of an inner voice. Do not follow urgent, fear-driven \"guidance\"; in acute crisis turn to a professional at once.",
-        "ro": "Răspunsul interior e sfat, nu autoritate: întrebările medicale, financiare și juridice cer fapte și profesioniști, și nu trebuie niciodată să le treci cu vederea pe puterea unei voci interioare. Nu urma „îndrumări” urgente, mânate de frică; în criză acută apelează de îndată la un profesionist."
+        "hu": "Ez átvizsgálás, nem önbíráskodás: a felbukkanó gondolat nem hoz rólad ítéletet, és a puszta jelenléte nem szándék. A néven nevezett arc néma, belső gyakorlat: nem kötelez kapcsolattartásra, kibékülésre vagy megszólalásra, és bántalmazó helyzetben nem lép a határ, a távolság és a segítségkérés helyébe. Ha tolakodó, ijesztő vagy kényszeres gondolatok gyötörnek, ez a gyakorlat nem a helyes eszköz — a keresgélés ilyenkor ronthat is a helyzeten; fordulj szakemberhez. Traumatikus anyagot ne nyiss ki támogatás nélkül.",
+        "en": "This is a review, not a tribunal: a thought that surfaces passes no verdict on you, and its mere presence is not an intention. The named face is a silent, inward practice: it commits you to no contact, no reconciliation and no speaking out, and in an abusive situation it does not stand in for the boundary, the distance and asking for help. If intrusive, frightening or compulsive thoughts torment you, this practice is not the right tool — searching can even make things worse then; turn to a professional. Do not open traumatic material without support.",
+        "ro": "Aceasta e o cercetare, nu un tribunal: un gând care iese la suprafață nu dă niciun verdict despre tine, iar simpla lui prezență nu e o intenție. Chipul numit e o practică tăcută, lăuntrică: nu te obligă la contact, la împăcare sau la a vorbi, iar într-o situație abuzivă nu ține locul graniței, al distanței și al cererii de ajutor. Dacă te chinuie gânduri intruzive, înspăimântătoare sau compulsive, această practică nu e instrumentul potrivit — căutarea poate chiar înrăutăți lucrurile atunci; apelează la un profesionist. Material traumatic nu-l deschide fără sprijin."
+      },
+      "sorszam": 6
+    },
+    {
+      "id": "ac-valasz-a-kisertesre",
+      "mester": "A csodák tanítása",
+      "szint": "kezdo",
+      "sik": "lelek",
+      "elem": "Tuz",
+      "cim": {
+        "hu": "Válasz a kísértésre — ott helyben, nem később",
+        "en": "The answer to temptation — there and then, not later",
+        "ro": "Răspunsul la ispită — pe loc, nu mai târziu"
+      },
+      "cel": {
+        "hu": "A Munkafüzet legfontosabb átvitele a hétköznapba: amikor felkavarodsz, ne halaszd a gyakorlást a következő csendes percre, hanem ott, abban a percben, arra a konkrét helyzetre alkalmazd a nap gondolatát — néven nevezve, ami épp elvette a békédet.",
+        "en": "The Workbook's most important carry-over into everyday life: when you are upset, not to postpone the practice to the next quiet minute, but to apply the day's thought there, in that very minute, to that concrete situation — naming what has just taken your peace.",
+        "ro": "Cea mai importantă trecere a Caietului în viața de zi cu zi: când te tulburi, să nu amâni practica pentru următorul minut liniștit, ci să aplici gândul zilei acolo, chiar în acel minut, situației concrete — numind ce tocmai ți-a luat pacea."
+      },
+      "modszer": [
+        {
+          "hu": "Tanuld meg felismerni a jelet: nem a helyzet mérete számít, hanem a rándulás — a szoruló gyomor, a felszaladó hang, a néma visszavágás, amelyet magadban már meg is fogalmaztál.",
+          "en": "Learn to recognize the signal: it is not the size of the situation that counts but the flinch — the tightening stomach, the rising voice, the silent retort you have already phrased inside.",
+          "ro": "Învață să recunoști semnalul: nu mărimea situației contează, ci tresărirea — stomacul care se strânge, vocea care urcă, replica tăcută pe care ai formulat-o deja înăuntru."
+        },
+        {
+          "hu": "Állj meg egy lélegzetre. Ennyi elég: a gyakorlás nem kér tőled helyszínváltást, csukott szemet, sem magyarázkodást a jelenlévőknek.",
+          "en": "Stop for one breath. That is enough: the practice asks of you no change of place, no closed eyes, and no explanation to those present.",
+          "ro": "Oprește-te pentru o respirație. Atât e de ajuns: practica nu-ți cere nici schimbarea locului, nici ochii închiși, nici explicații față de cei de față."
+        },
+        {
+          "hu": "Nevezd meg pontosan, mi vette el a békédet — ne általánosságban („ideges vagyok”), hanem néven: ez az ember, ez a mondat, ez a hír, ez a késés.",
+          "en": "Name precisely what took your peace — not in general (“I'm on edge”), but by name: this person, this sentence, this piece of news, this delay.",
+          "ro": "Numește exact ce ți-a luat pacea — nu în general („am o stare”), ci pe nume: persoana asta, propoziția asta, știrea asta, întârzierea asta."
+        },
+        {
+          "hu": "Most helyettesíts be: a nap gondolatát mondd ki magadban erre a névre alkalmazva. A Munkafüzet éppen ezt a behelyettesítést kéri — nem elvont ismételgetést, hanem a konkrét helyzetre irányított mondatot.",
+          "en": "Now substitute: say the day's thought inwardly, applied to that name. This substitution is exactly what the Workbook asks for — not abstract repetition, but the sentence aimed at the concrete situation.",
+          "ro": "Acum substituie: rostește lăuntric gândul zilei, aplicat acelui nume. Tocmai această substituire o cere Caietul — nu repetare abstractă, ci propoziția îndreptată spre situația concretă."
+        },
+        {
+          "hu": "Ne várd, hogy elmúljon az érzés. A gyakorlat nem az érzés eltüntetése; annyi történik, hogy egy pillanatra kinyílik a választás: a helyzet talán mégsem az, aminek az első másodpercben látszott.",
+          "en": "Do not wait for the feeling to pass. The practice is not the removal of feeling; what happens is that for a moment choice opens: the situation may not be what it looked like in the first second.",
+          "ro": "Nu aștepta ca sentimentul să treacă. Practica nu e înlăturarea sentimentului; ce se întâmplă e că, pentru o clipă, se deschide alegerea: situația poate nu e ceea ce părea în prima secundă."
+        },
+        {
+          "hu": "Aztán cselekedj — nyugodtan, de a határaidat megtartva. A belső mozdulat nem helyettesíti a kimondott nemet, a segítségkérést vagy a távolságot.",
+          "en": "Then act — calmly, but keeping your boundaries. The inner move does not replace a spoken no, a request for help, or distance.",
+          "ro": "Apoi acționează — calm, dar păstrându-ți granițele. Mișcarea lăuntrică nu înlocuiește un nu rostit, o cerere de ajutor sau distanța."
+        },
+        {
+          "hu": "Ha csak órákkal később veszed észre, hogy elmaradt, akkor ott, utólag alkalmazd. Nincs késés és nincs büntetés — a következő alkalom hamarabb jön, mint hinnéd.",
+          "en": "If you only notice hours later that it was missed, then apply it there, after the fact. There is no lateness and no penalty — the next occasion comes sooner than you think.",
+          "ro": "Dacă observi abia ore mai târziu că a fost ratat, atunci aplică-l acolo, ulterior. Nu există întârziere și nu există pedeapsă — următoarea ocazie vine mai devreme decât crezi."
+        },
+        {
+          "hu": "Este jegyezd fel a Csodanaplóba azt az egy helyzetet, ahol tényleg ott helyben sikerült. Ez a bejegyzés a gyakorlásod legbecsületesebb bizonyítéka.",
+          "en": "In the evening note in the Miracle Journal the one situation where it really did work there and then. That entry is the most honest evidence of your practice.",
+          "ro": "Seara notează în Jurnalul miracolelor acea singură situație în care chiar a funcționat pe loc. Acea însemnare e cea mai onestă dovadă a practicii tale."
+        }
+      ],
+      "keret": {
+        "hu": "A Munkafüzet a kimért gyakorlások mellé egy eseményvezérelt réteget tesz, és ez az, ami a leckét kiviszi a fotelből a napodba. Az év előrehaladtával a percek pontos betartásának súlya csökken, ezé nő. A hagyomány kísértésen nem erkölcsi bukást ért, hanem a béke feladásának csábítását: azt a pillanatot, amikor a történet vonzóbb, mint a nyugalom. A lecke szövegét a saját példányodból veszed, vagy angolul az app Munkafüzet-eszközéből, amely aznapi leckeként hozza eléd. Józan olvasatban ez érzelemszabályozás a keletkezés pillanatában: minél korábban érkezik az átkeretezés, annál olcsóbb — és annál kevesebbet kell utólag helyrehozni.",
+        "en": "Alongside the measured practices the Workbook lays an event-driven layer, and it is this that carries the lesson out of the armchair into your day. As the year goes on, the weight of keeping the minutes exactly decreases and the weight of this increases. By temptation the tradition means no moral failure but the lure of giving up peace: the moment when the story is more attractive than calm. You take the lesson's text from your own copy, or in English from the app's Workbook tool, which brings it to you as the day's lesson. In the sober reading this is emotion regulation at the moment of onset: the earlier the reframe arrives, the cheaper it is — and the less there is to repair afterwards.",
+        "ro": "Pe lângă practicile măsurate, Caietul așază un strat declanșat de evenimente, și tocmai acesta duce lecția din fotoliu în ziua ta. Pe măsură ce anul înaintează, greutatea respectării exacte a minutelor scade, iar a acestuia crește. Prin ispită tradiția nu înțelege o cădere morală, ci ademenirea de a renunța la pace: momentul în care povestea e mai atrăgătoare decât liniștea. Textul lecției îl iei din propriul exemplar sau, în engleză, din unealta Caietului de exerciții din aplicație, care ți-l aduce ca lecția zilei. În lectura sobră, aceasta e reglare emoțională în momentul apariției: cu cât reîncadrarea sosește mai devreme, cu atât e mai ieftină — și cu atât mai puțin rămâne de reparat după aceea."
+      },
+      "etika": {
+        "hu": "A béke nem hallgatás. Ez a gyakorlat sosem kötelez arra, hogy elnyeld a jogos haragot, hogy ne jelezz visszaélést, vagy hogy ártalomban maradj — a határ meghúzása és a helyzet elhagyása is lehet a szeretetteljes lépés. Fenyegető vagy bántalmazó helyzetben az első válasz a biztonság: távolság, segítségkérés, hatóság. Belső gyakorlással soha ne pótold azt, amit a helyzet valódi rendezése kíván.",
+        "en": "Peace is not silence. This practice never obliges you to swallow legitimate anger, to leave abuse unreported, or to remain in harm's way — drawing a boundary and leaving the situation can equally be the loving step. In a threatening or abusive situation the first answer is safety: distance, asking for help, the authorities. Never let inner practice stand in for what the real settling of a situation requires.",
+        "ro": "Pacea nu e tăcere. Această practică nu te obligă niciodată să înghiți o mânie îndreptățită, să lași un abuz neraportat sau să rămâi în calea răului — a trage o graniță și a părăsi situația pot fi la fel de bine pasul iubitor. Într-o situație amenințătoare sau abuzivă, primul răspuns e siguranța: distanța, cererea de ajutor, autoritățile. Nu lăsa niciodată practica lăuntrică să țină locul a ceea ce cere rezolvarea reală a situației."
       },
       "sorszam": 7
     },
     {
-      "id": "ac-serelem-leltar",
-      "mester": "A csodák tanítása",
-      "szint": "halado",
-      "sik": "lelek",
-      "elem": "Fold",
-      "cim": {
-        "hu": "Sérelem-leltár és egy elengedés",
-        "en": "Grievance inventory and one release",
-        "ro": "Inventarul resentimentelor și o eliberare"
-      },
-      "cel": {
-        "hu": "Esténként őszintén megnézni, kit tartok még fogva a neheztelésemben — és minden este egyetlen foglyot szabadon engedni.",
-        "en": "To look honestly each evening at whom I still hold captive in my resentment — and each evening to set a single prisoner free.",
-        "ro": "Să privesc cinstit în fiecare seară pe cine mai țin captiv în resentimentul meu — și în fiecare seară să eliberez un singur prizonier."
-      },
-      "modszer": [
-        {
-          "hu": "Este, csendben fusd át a napodat és az életedet: hol rándul meg valami neheztelés? Kit tartok adósomnak?",
-          "en": "In the evening, in quiet, run through your day and your life: where does some resentment twitch? Whom do I hold in my debt?",
-          "ro": "Seara, în liniște, treci în revistă ziua și viața ta: unde tresare vreun resentiment? Pe cine țin în datoria mea?"
-        },
-        {
-          "hu": "Írj rövid listát, kommentár nélkül — nevek és egy-egy szó, semmi több.",
-          "en": "Write a short list, without commentary — names and a word each, nothing more.",
-          "ro": "Scrie o listă scurtă, fără comentarii — nume și câte un cuvânt fiecare, nimic mai mult."
-        },
-        {
-          "hu": "Válassz ki egyetlen tételt — a legkisebb is megteszi; a nagyokhoz ráérsz hetek múlva visszatérni.",
-          "en": "Choose a single item — the smallest will do; you can return to the big ones weeks from now.",
-          "ro": "Alege un singur element — cel mai mic e de ajuns; te poți întoarce la cele mari peste săptămâni."
-        },
-        {
-          "hu": "Nézd meg, mibe kerül neked a cipelése: az őr a fogolyhoz van kötözve, és a te válladat nyomja a lánc.",
-          "en": "Look at what carrying it costs you: the guard is bound to the prisoner, and it is your shoulder the chain weighs on.",
-          "ro": "Privește ce te costă să-l porți: paznicul e legat de prizonier, și pe umărul tău apasă lanțul."
-        },
-        {
-          "hu": "Engedd el a saját szavaiddal: kívánd, hogy a másik szabaduljon az ítéletedtől. Ha ez még nem megy, a puszta hajlandóság kimondása is elég ma estére.",
-          "en": "Release it in your own words: wish the other free of your verdict. If that is not yet possible, speaking the bare willingness is enough for tonight.",
-          "ro": "Eliberează-l în propriile tale cuvinte: dorește-i celuilalt să fie liber de verdictul tău. Dacă asta nu e încă posibil, a rosti simpla disponibilitate e de ajuns pentru seara asta."
-        },
-        {
-          "hu": "Csukd be a füzetet: a többi tétel várhat egy másik estére — kis lépések, türelem.",
-          "en": "Close the notebook: the other items can wait for another evening — small steps, patience.",
-          "ro": "Închide caietul: celelalte pot aștepta o altă seară — pași mici, răbdare."
-        }
-      ],
-      "keret": {
-        "hu": "Rokona az esti számvetés régi gyakorlatainak: leltár, nem önostorozás. Lélektani nyelven a neheztelés lassú, adagolt feldolgozása — épp a fokozatosság teszi elviselhetővé és tartóssá. A mérce: csendesebb-e az elalvásod, és könnyebb-e a reggeled.",
-        "en": "A cousin of the old practices of evening reckoning: an inventory, not self-flagellation. In psychological language, the slow, dosed processing of resentment — it is the gradualness that makes it bearable and lasting. The measure: whether you fall asleep more quietly and wake more lightly.",
-        "ro": "O rudă a vechilor practici de socoteală de seară: un inventar, nu autoflagelare. În limbaj psihologic, prelucrarea lentă, dozat a resentimentului — tocmai gradualitatea o face suportabilă și durabilă. Măsura: dacă adormi mai liniștit și te trezești mai ușor."
-      },
-      "etika": {
-        "hu": "Ha egy seb mély vagy traumatikus, ne egyedül dolgozz rajta: keresd terapeuta kíséretét. Az elengedés belső munka — nem kötelez sem kapcsolatfelvételre, sem kibékülésre, és nem törli a határaidat.",
-        "en": "If a wound is deep or traumatic, do not work on it alone: seek a therapist's accompaniment. Release is inner work — it obliges you neither to make contact nor to reconcile, and it does not erase your boundaries.",
-        "ro": "Dacă o rană e adâncă sau traumatică, nu lucra singur la ea: caută însoțirea unui terapeut. Eliberarea e muncă interioară — nu te obligă nici să iei legătura, nici să te împaci, și nu-ți șterge granițele."
-      },
-      "sorszam": 8
-    },
-    {
-      "id": "ac-szeretetet-tanitsd",
-      "mester": "A csodák tanítása",
-      "szint": "halado",
-      "sik": "lelek",
-      "elem": "Tuz",
-      "cim": {
-        "hu": "A támadás mint segélykiáltás — szeretettel válaszolni",
-        "en": "Attack as a cry for help — answering with love",
-        "ro": "Atacul ca un strigăt de ajutor — răspunsul cu iubire"
-      },
-      "cel": {
-        "hu": "Egy valós helyzetben kipróbálni a hagyomány átkeretezését: a felém irányuló támadás mögött félelmet, a félelem mögött segélykérést meglátni — és a kérésre válaszolni, nem a felszínre.",
-        "en": "To try the tradition's reframe in a real situation: to see fear behind an attack aimed at me, and behind the fear a plea for help — and to answer the plea, not the surface.",
-        "ro": "Să încerc reîncadrarea tradiției într-o situație reală: să văd frica din spatele unui atac îndreptat spre mine, și din spatele fricii o cerere de ajutor — și să răspund cererii, nu suprafeței."
-      },
-      "modszer": [
-        {
-          "hu": "Amikor valaki rád förmed vagy megtámad, először a saját reflexedet vedd észre: visszavágnál vagy elhúzódnál?",
-          "en": "When someone snaps at you or attacks, first notice your own reflex: would you strike back or withdraw?",
-          "ro": "Când cineva ți se răstește sau te atacă, observă mai întâi propriul reflex: ai lovi înapoi sau te-ai retrage?"
-        },
-        {
-          "hu": "Próbáld fel a hagyomány lencséjét: a támadás mögött félelem lapul, a félelem mögött kérés — figyelemre, biztonságra, arra, hogy számít.",
-          "en": "Try on the tradition's lens: behind the attack crouches fear, behind the fear a plea — for attention, for safety, for mattering.",
-          "ro": "Încearcă lentila tradiției: în spatele atacului stă ghemuită frica, în spatele fricii o cerere — de atenție, de siguranță, de a conta."
-        },
-        {
-          "hu": "Válaszolj a kérésre, ne a felszínre: nyugodtan, de nem hagyva magad eltaposni — a határozott és a jóindulatú megfér egy mondatban.",
-          "en": "Answer the plea, not the surface: calmly, yet without letting yourself be trampled — firm and kind fit in one sentence.",
-          "ro": "Răspunde cererii, nu suprafeței: calm, dar fără să te lași călcat în picioare — fermitatea și blândețea încap într-o singură propoziție."
-        },
-        {
-          "hu": "Ne feledd: az állapotoddal tanítasz, nem a szavaiddal — a megőrzött nyugalmad maga az üzenet.",
-          "en": "Remember: you teach with your state, not your words — your kept calm is itself the message.",
-          "ro": "Ține minte: predai prin starea ta, nu prin cuvinte — calmul pe care îl păstrezi e el însuși mesajul."
-        },
-        {
-          "hu": "Utána jegyezd fel, mi változott benned — akárhogy viselkedett is a másik. A gyakorlat rajtad mér, nem rajta.",
-          "en": "Afterwards note what changed in you — however the other behaved. The practice measures you, not them.",
-          "ro": "Apoi notează ce s-a schimbat în tine — indiferent cum s-a purtat celălalt. Practica te măsoară pe tine, nu pe ei."
-        }
-      ],
-      "keret": {
-        "hu": "A „támadás = szeretetért kiáltás” a hagyomány kerete; a lélektan feszültség-oldásnak és empatikus értelmezésnek hívná, amely gyakran megtöri a bántás körforgását. Nem szenteskedés és nem önfeladás: a jóindulat mellett a határ is a gyakorlat része. A mérce: ritkulnak-e az eszkalációk körülötted.",
-        "en": "\"Attack = a cry for love\" is the tradition's frame; psychology would call it de-escalation and empathic interpretation, which often breaks the cycle of hurt. It is neither piousness nor self-abandonment: alongside goodwill, the boundary is part of the practice. The measure: whether escalations grow rarer around you.",
-        "ro": "„Atac = un strigăt după iubire” e cadrul tradiției; psihologia l-ar numi dezescaladare și interpretare empatică, care adesea rupe ciclul rănirii. Nu e nici pietism, nici abandon de sine: alături de bunăvoință, granița face parte din practică. Măsura: dacă escaladările devin mai rare în jurul tău."
-      },
-      "etika": {
-        "hu": "A bántalmazás nem átkeretezési feladat. Erőszakos, fenyegető vagy rendszeresen megalázó helyzetben az első válasz a határ, a távolság és a segítségkérés — hatóság, szakember, segélyvonal. Az átkeretezés soha nem kötelez arra, hogy veszélyben maradj.",
-        "en": "Abuse is not a reframing exercise. In violent, threatening or systematically demeaning situations the first answer is boundary, distance and asking for help — authorities, professionals, helplines. Reframing never obliges you to remain in danger.",
-        "ro": "Abuzul nu e un exercițiu de reîncadrare. În situații violente, amenințătoare sau sistematic umilitoare, primul răspuns e granița, distanța și cererea de ajutor — autorități, profesioniști, linii de ajutor. Reîncadrarea nu te obligă niciodată să rămâi în pericol."
-      },
-      "sorszam": 9
-    },
-    {
-      "id": "ac-boldog-alom-nap",
-      "mester": "A csodák tanítása",
-      "szint": "mester",
-      "sik": "lelek",
-      "elem": "Eter",
-      "cim": {
-        "hu": "A boldog álom napja — egy nap tudatos átkeretezésben",
-        "en": "A day of the happy dream — one day in conscious reframing",
-        "ro": "O zi a visului fericit — o zi în reîncadrare conștientă"
-      },
-      "cel": {
-        "hu": "Egyetlen teljes napot annak szentelni, hogy mindent, ami felzaklat, más szemmel próbálsz nézni — ugyanaz az élet, más fényben: a hagyomány ezt hívja boldog álomnak.",
-        "en": "To dedicate one full day to trying to see everything that upsets you with other eyes — the same life in another light: this is what the tradition calls the happy dream.",
-        "ro": "Să dedic o zi întreagă încercării de a vedea tot ce te tulbură cu alți ochi — aceeași viață într-o altă lumină: asta numește tradiția visul fericit."
-      },
-      "modszer": [
-        {
-          "hu": "Reggel tűzd ki a nap szándékát a saját szavaiddal: ma mindenre, ami megzavar, keresek egy másik nézőpontot.",
-          "en": "In the morning set the day's intent in your own words: today, for everything that disturbs me, I will look for another way of seeing.",
-          "ro": "Dimineața stabilește intenția zilei în propriile tale cuvinte: astăzi, pentru tot ce mă tulbură, voi căuta un alt fel de a vedea."
-        },
-        {
-          "hu": "Jelölj ki három-négy fix ellenőrzőpontot — étkezések, útra kelések —, ahol a szándékot megújítod.",
-          "en": "Mark out three or four fixed checkpoints — meals, setting out on a journey — where you renew the intent.",
-          "ro": "Stabilește trei sau patru puncte fixe de control — mesele, plecarea la drum — unde reînnoiești intenția."
-        },
-        {
-          "hu": "Napközben minden zavar nyersanyag: kapd el a vetítést, döntsd el újra, halld meg a kérést a támadás mögött — azt a fogást használd, amelyik illik a helyzethez.",
-          "en": "Through the day every disturbance is raw material: catch the projection, decide again, hear the plea behind the attack — use whichever device fits the situation.",
-          "ro": "De-a lungul zilei fiecare tulburare e materie primă: prinde proiecția, decide din nou, auzi cererea din spatele atacului — folosește oricare mijloc se potrivește situației."
-        },
-        {
-          "hu": "A nagyobb választásoknál tedd fel a kettős kérdést: mit szolgál ez — a szeretet vagy a félelem ügyét? És mit remélek tőle valójában?",
-          "en": "At the larger choices ask the double question: what does this serve — the cause of love or of fear? And what do I actually hope to get from it?",
-          "ro": "La alegerile mai mari pune întrebarea dublă: ce servește asta — cauza iubirii sau a fricii? Și ce sper de fapt să obțin din ea?"
-        },
-        {
-          "hu": "Maradj két szinten egyszerre: nézheted a nap drámáit elvonuló képeknek, de cselekedj kézzelfogható jósággal — az igazság melegség nélkül sebez.",
-          "en": "Stay on two levels at once: you may view the day's dramas as passing pictures, but act with tangible kindness — truth without warmth wounds.",
-          "ro": "Rămâi pe două planuri deodată: poți privi dramele zilei ca pe imagini trecătoare, dar acționează cu bunătate palpabilă — adevărul fără căldură rănește."
-        },
-        {
-          "hu": "Este nézz vissza: hol könnyebbült meg a nap? Írj le három ilyen pillanatot.",
-          "en": "In the evening look back: where did the day grow lighter? Write down three such moments.",
-          "ro": "Seara privește înapoi: unde s-a luminat ziua? Notează trei astfel de momente."
-        }
-      ],
-      "keret": {
-        "hu": "A hagyomány azt tartja, hogy amikor megváltoztatod, ahogyan nézel, megváltozik az is, amit látsz. * Józan olvasatban ez egy egész napos figyelem-kísérlet: nem a világot cseréled le, hanem az értelmezéseidet teszed próbára — és az esti három feljegyzés a mérőműszered. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition holds that when you change how you look, what you see changes too. * In the sober reading this is a day-long attention experiment: you are not swapping the world but putting your interpretations to the test — and the three evening notes are your measuring instrument. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
-        "ro": "Tradiția susține că atunci când schimbi felul în care privești, se schimbă și ceea ce vezi. * În lectura sobră, acesta e un experiment de atenție pe tot parcursul zilei: nu schimbi lumea, ci îți pui interpretările la încercare — iar cele trei note de seară sunt instrumentul tău de măsură. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
-      },
-      "sorszam": 10
-    },
-    {
-      "id": "ac-esti-atnezes",
+      "id": "ac-esti-lecke-atnezes",
       "mester": "A csodák tanítása",
       "szint": "kezdo",
       "sik": "lelek",
       "elem": "Ido",
       "cim": {
-        "hu": "Esti átnézés — a nap mérlege és a csoda-napló",
-        "en": "Evening review — the day's balance and the miracle journal",
-        "ro": "Recapitularea de seară — balanța zilei și jurnalul miracolelor"
+        "hu": "Esti ülés — megbocsátás, hála és csend a nap végén",
+        "en": "The evening sitting — forgiveness, thanks and silence at the day's end",
+        "ro": "Ședința de seară — iertare, mulțumire și liniște la sfârșitul zilei"
       },
       "cel": {
-        "hu": "A nap leckéjének esti, ítélkezésmentes mérlege: hol dolgozott a gondolat, hol merült feledésbe — és a kis nézőpontváltások összegyűjtése egy csoda-naplóban.",
-        "en": "An evening, judgement-free balance of the day's lesson: where the thought worked, where it slipped into forgetting — and the gathering of the small shifts of view in a miracle journal.",
-        "ro": "O balanță de seară, fără judecată, a lecției zilei: unde gândul a funcționat, unde a alunecat în uitare — și adunarea micilor schimbări de privire într-un jurnal al miracolelor."
+        "hu": "Lezárni a Munkafüzet napját a könyv szerinti esti formával: a nap fájdalmas pillanatait néven nevezve elengedni, hálát adni azért, ami ma jött, és csendben ülni a napi gondolattal — a „hol emlékeztem, hol felejtettem el” pedig már csak rövid naplózás a végén.",
+        "en": "To close the Workbook's day in the evening form the book gives: to let go, by name, of the day's painful moments, to give thanks for what came today, and to sit quietly with the day's thought — while “where I remembered, where I forgot” is only short journalling at the end.",
+        "ro": "Să închei ziua Caietului în forma de seară pe care o dă cartea: să lași să plece, pe nume, momentele dureroase ale zilei, să mulțumești pentru ce a venit azi și să stai în liniște cu gândul zilei — iar „unde mi-am amintit, unde am uitat” rămâne doar o scurtă însemnare la final."
       },
       "modszer": [
         {
-          "hu": "Lefekvés előtt szánj néhány csendes percet a napra, és idézd fel még egyszer a nap gondolatát.",
-          "en": "Before bed give the day a few quiet minutes and recall the day's thought once more.",
-          "ro": "Înainte de culcare dă-i zilei câteva minute liniștite și reamintește-ți încă o dată gândul zilei."
+          "hu": "Lefekvés előtt szánj csendes időt a napra, és hozd elő még egyszer az aznapi gondolatot — az app Munkafüzet-eszközéből vagy a saját példányodból. Ez a nap egyik leghosszabb ülése: legalább öt perc, és ha az idődből telik, jóval több.",
+          "en": "Before bed give the day quiet time and bring up the day's thought once more — from the app's Workbook tool or from your own copy. This is one of the day's longest sittings: at least five minutes, and far more if your time allows.",
+          "ro": "Înainte de culcare acordă-i zilei timp liniștit și adu încă o dată gândul zilei — din unealta Caietului de exerciții din aplicație sau din propriul exemplar. E una dintre cele mai lungi ședințe ale zilei: cel puțin cinci minute și mult mai mult, dacă îți permite timpul."
         },
         {
-          "hu": "Járd végig a napot ítélet nélkül: hol dolgozott a gondolat, hol felejtetted el — mindkettő adat, egyik sem vád.",
-          "en": "Walk through the day without verdict: where the thought worked, where you forgot it — both are data, neither is an accusation.",
-          "ro": "Parcurge ziua fără verdict: unde gândul a funcționat, unde l-ai uitat — ambele sunt date, niciuna nu e o acuzație."
+          "hu": "Menj végig a napon nagyjából időrendben — reggel, délelőtt, délután, este —, és keresd meg, ami ma szúrt: egy mondat, egy arc, egy késés, egy saját mozdulatod. Nevezd meg egyenként, és engedd el őket; ez az esti forma gerince.",
+          "en": "Walk through the day roughly in order — morning, mid-morning, afternoon, evening — and look for what stung today: a sentence, a face, a delay, something you did yourself. Name them one by one and let them go; this is the backbone of the evening form.",
+          "ro": "Parcurge ziua aproximativ în ordine — dimineața, spre prânz, după-amiaza, seara — și caută ce a înțepat azi: o propoziție, un chip, o întârziere, ceva ce ai făcut chiar tu. Numește-le pe rând și lasă-le să plece; aceasta e coloana formei de seară."
         },
         {
-          "hu": "Csoda-napló: írj le egy-három pillanatot, amikor a nézésed megfordult — egy ellágyulás, egy lenyelt visszavágás, egy váratlan béke.",
-          "en": "Miracle journal: write down one to three moments when your seeing turned — a softening, a retort left unspoken, an unexpected peace.",
-          "ro": "Jurnalul miracolelor: notează unul până la trei momente în care privirea ta s-a întors — o înmuiere, o replică lăsată nespusă, o pace neașteptată."
+          "hu": "Aztán vedd sorra, amit a nap adott — a kicsiket is: egy pohár víz, egy jókor jött mondat, egy fájdalom, ami elmúlt. A hála itt nem kötelező érzés, hanem felsorolás; az érzés jöhet utána.",
+          "en": "Then take up in turn what the day gave — the small things too: a glass of water, a sentence that came at the right time, a pain that passed. Thanks here is not a required feeling but a listing; the feeling may follow after.",
+          "ro": "Apoi ia pe rând ce ți-a dat ziua — și lucrurile mici: un pahar cu apă, o propoziție venită la timp, o durere care a trecut. Mulțumirea nu e aici un sentiment obligatoriu, ci o enumerare; sentimentul poate veni după."
         },
         {
-          "hu": "Kihagyott nap vagy elfelejtett lecke után semmi önszidás: ugyanaz a lecke egyszerűen folytatódik holnap — lemaradás nincs.",
-          "en": "After a missed day or a forgotten lesson, no self-scolding: the same lesson simply continues tomorrow — there is no falling behind.",
-          "ro": "După o zi ratată sau o lecție uitată, fără auto-mustrare: aceeași lecție continuă pur și simplu mâine — nu există rămânere în urmă."
+          "hu": "Ezután ülj csendben a napi gondolattal: mondd ki egyszer, lassan, aztán hallgass. Az ülés nagyobbik része ez a csend legyen, ne a nap átgondolása.",
+          "en": "Then sit quietly with the day's thought: say it once, slowly, then listen. Let this silence be the larger part of the sitting, not the going-over of the day.",
+          "ro": "Apoi stai în liniște cu gândul zilei: rostește-l o dată, rar, apoi ascultă. Această liniște să fie partea mai mare a ședinței, nu trecerea în revistă a zilei."
         },
         {
-          "hu": "Zárd a napot egy saját szavaiddal megfogalmazott jóindulatú mondattal, és engedd el az egészet.",
-          "en": "Close the day with a kindly sentence phrased in your own words, and let the whole of it go.",
-          "ro": "Închide ziua cu o propoziție blândă formulată în cuvintele tale și lasă totul să plece."
+          "hu": "Zárd egyetlen mondattal, a magad szavaival — kérés, hála vagy egyszerű jókívánság magad felé —, és engedd el az egészet.",
+          "en": "Close with a single sentence in your own words — a request, a thanks, or a plain good wish towards yourself — and let the whole of it go.",
+          "ro": "Încheie cu o singură propoziție, în cuvintele tale — o cerere, o mulțumire sau o simplă urare bună către tine — și lasă totul să plece."
+        },
+        {
+          "hu": "Utána, már naplózásként, jegyezz fel két rövid sort: hol jutott eszedbe ma a lecke, és hol felejtetted el. Mindkettő adat, egyik sem vádirat — és nem ez a gyakorlat fő tartalma, hanem a lábjegyzete.",
+          "en": "Afterwards, now as journalling, note two short lines: where the lesson came to mind today, and where you forgot it. Both are data, neither an indictment — and this is not the practice's main content but its footnote.",
+          "ro": "După aceea, deja ca însemnare, notează două rânduri scurte: unde ți-a venit azi lecția în minte și unde ai uitat-o. Ambele sunt date, niciuna nu e un rechizitoriu — și nu acesta e conținutul principal al practicii, ci nota ei de subsol."
+        },
+        {
+          "hu": "A Csodanaplóba írj egy-három pillanatot, ahol a nézésed megfordult: egy ellágyulás, egy lenyelt visszavágás, egy váratlan csend. Rövid mondatok, dátummal.",
+          "en": "Into the Miracle Journal write one to three moments where your seeing turned: a softening, a retort swallowed, an unexpected quiet. Short sentences, with the date.",
+          "ro": "În Jurnalul miracolelor scrie unul până la trei momente în care privirea ta s-a întors: o înmuiere, o replică înghițită, o liniște neașteptată. Propoziții scurte, cu data."
+        },
+        {
+          "hu": "Jelölj ki egyetlen dolgot, ami holnapra átjön: egy helyzetet, egy embert vagy egy napszakot, amelyre holnap külön odafigyelsz. Egyet, ne hármat — és ne fogadkozz hozzá.",
+          "en": "Mark one single thing that carries over to tomorrow: a situation, a person or a time of day you will attend to especially. One, not three — and make no vows about it.",
+          "ro": "Marchează un singur lucru care trece mai departe spre mâine: o situație, o persoană sau un moment al zilei căruia îi vei da o atenție aparte. Unul, nu trei — și nu face promisiuni în privința lui."
+        },
+        {
+          "hu": "Ha ma egyáltalán nem gyakoroltál, az esti ülés akkor is elvégezhető — ma este ez a gyakorlás. A lecke holnap ugyanott folytatódik; lemaradás nincs.",
+          "en": "If you did not practise at all today, the evening sitting can still be done — tonight it is the practice. The lesson continues tomorrow right where it was; there is no falling behind.",
+          "ro": "Dacă azi nu ai practicat deloc, ședința de seară tot se poate face — în seara asta ea e practica. Lecția continuă mâine exact de unde a rămas; nu există rămânere în urmă."
+        },
+        {
+          "hu": "Ha valami a napból álomban tér vissza, reggel az Álomnaplóban van a helye.",
+          "en": "If something from the day returns in a dream, its place in the morning is the Dream Journal.",
+          "ro": "Dacă ceva din zi se întoarce într-un vis, locul lui dimineața e Jurnalul viselor."
         }
       ],
       "keret": {
-        "hu": "A hagyomány a nézőpont e megfordulását csodának nevezi, és valós hatóerőnek tartja. * A naplód azonban nem természetfeletti eseményeket gyűjt, hanem apró belső fordulatokat — és épp ezek adják a gyakorlás egyetlen becsületes bizonyítékát. A mérce: gyűlnek-e a bejegyzések, és csendesedik-e az estéd. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
-        "en": "The tradition calls this turning of view a miracle and holds it to be a real operative power. * Your journal, however, collects no supernatural events, only small inner turnings — and precisely these are the practice's one honest evidence. The measure: whether the entries accumulate and your evenings grow quieter. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
-        "ro": "Tradiția numește această întoarcere a privirii un miracol și o ține drept o putere operativă reală. * Jurnalul tău, însă, nu adună evenimente supranaturale, ci doar mici întoarceri lăuntrice — și tocmai acestea sunt singura dovadă onestă a practicii. Măsura: dacă însemnările se adună și serile tale devin mai liniștite. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
+        "hu": "A Munkafüzet kerekre zárja a napot: a reggeli kitűzés és az esti ülés fogja közre a nap gondolatát. Az esti forma nem számonkérés, hanem három mozdulat: a nap fájdalmas pillanatainak elengedése, hála azért, ami jött, és hosszabb csend a napi gondolattal — az év második felében ez lesz a nap egyik leghosszabb ülése. A lecke szövegét a saját példányodból olvasod, vagy angolul az app Munkafüzet-eszközéből, amely aznapi leckeként hozza eléd. A hagyomány szerint az elvégzett gyakorlás akkor sem vész el, ha a nap többi részében megfeledkeztél róla. * Józan olvasatban az esti ülés lezárás és visszacsatolás egyben: a napot nem nyitva viszed az álomba, a Csodanaplóba gyűlő rövid bejegyzések pedig hetek múltán a gyakorlásod egyetlen kézzelfogható mérőműszerét adják. [FINE]* A csillaggal jelölt kijelentések a hagyomány saját, rendkívüli állításai — a belső gyümölcsök szerint mérd őket, ne bizonyított tényként.",
+        "en": "The Workbook rounds off the day: the morning setting and the evening sitting enclose the day's thought between them. The evening form is no accounting but three movements: letting go of the day's painful moments, thanks for what came, and a longer silence with the day's thought — in the year's second half this becomes one of the day's longest sittings. You read the lesson's text from your own copy, or in English from the app's Workbook tool, which brings it to you as the day's lesson. The tradition holds that practice once done is not lost even if you forgot it for the rest of the day. * In the sober reading the evening sitting is a closing and a feedback in one: you do not carry the day open into sleep, and the short entries gathering in the Miracle Journal give, after weeks, the one tangible instrument by which your practice can be measured. [FINE]* The statements marked with an asterisk are the tradition's own extraordinary claims — measure them by their inner fruits, not as proven fact.",
+        "ro": "Caietul rotunjește ziua: stabilirea de dimineață și ședința de seară închid între ele gândul zilei. Forma de seară nu e o socoteală, ci trei mișcări: lăsarea să plece a momentelor dureroase ale zilei, mulțumirea pentru ce a venit și o liniște mai lungă cu gândul zilei — în a doua jumătate a anului aceasta devine una dintre cele mai lungi ședințe ale zilei. Textul lecției îl citești din propriul exemplar sau, în engleză, din unealta Caietului de exerciții din aplicație, care ți-l aduce ca lecția zilei. Tradiția susține că practica odată făcută nu se pierde nici dacă ai uitat-o în restul zilei. * În lectura sobră, ședința de seară e deopotrivă o încheiere și un feedback: nu duci ziua deschisă în somn, iar însemnările scurte care se adună în Jurnalul miracolelor dau, după săptămâni, singurul instrument palpabil cu care practica ta poate fi măsurată. [FINE]* Afirmațiile marcate cu asterisc sunt pretențiile extraordinare proprii tradiției — măsoară-le după roadele lor lăuntrice, nu ca pe fapte dovedite."
+      },
+      "etika": {
+        "hu": "Az esti ülés lezárás, nem tárgyalás: ha rágódásba fordul és ébren tart, hagyd abba, és halaszd reggelre. Ha a napjaid végét rendszeresen önvád és kilátástalanság önti el, az már nem gyakorlási kérdés — beszélj róla szakemberrel. A kihagyott nap nem bukás: ott folytatod, ahol abbahagytad.",
+        "en": "The evening sitting is a closing, not a trial: if it turns into brooding and keeps you awake, stop and postpone it to the morning. If self-reproach and hopelessness regularly flood the end of your days, that is no longer a question of practice — speak to a professional about it. A missed day is no failure: you continue where you left off.",
+        "ro": "Ședința de seară e o încheiere, nu un proces: dacă se transformă în rumegare și te ține treaz, oprește-te și amân-o pe dimineață. Dacă auto-reproșul și lipsa de speranță îți inundă în mod regulat sfârșitul zilelor, aceasta nu mai e o chestiune de practică — vorbește despre ea cu un profesionist. O zi ratată nu e un eșec: continui de unde ai rămas."
+      },
+      "sorszam": 8
+    },
+    {
+      "id": "ac-felulvizsgalati-nap",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Ido",
+      "cim": {
+        "hu": "A felülvizsgálati nap — két gondolat egy kereten belül",
+        "en": "The review day — two thoughts inside one frame",
+        "ro": "Ziua de recapitulare — două gânduri într-un singur cadru"
+      },
+      "cel": {
+        "hu": "Felvenni a Munkafüzet felülvizsgálati napjainak formáját: nem új lecke jön, hanem két korábbi gondolat tér vissza egyetlen napon — és megnézed, mit tesz hozzá a visszatérés ahhoz, amit már „tudsz”.",
+        "en": "To take up the shape of the Workbook's review days: no new lesson arrives, two earlier thoughts return within a single day instead — and you look at what the return adds to what you already “know”.",
+        "ro": "Să preiei forma zilelor de recapitulare din Caietul de exerciții: nu vine o lecție nouă, ci două gânduri anterioare se întorc într-o singură zi — și privești ce adaugă întoarcerea la ceea ce deja „știi”."
+      },
+      "modszer": [
+        {
+          "hu": "Reggel nyisd meg az aznapi felülvizsgálati napot a Munkafüzet-eszközben, és nézd meg, melyik két korábbi lecke tér vissza. Magát a szöveget a saját példányodból olvasd, vagy angolul az eszközből.",
+          "en": "In the morning open the day's review in the Workbook tool and see which two earlier lessons return. Read the text itself from your own copy, or in English from the tool.",
+          "ro": "Dimineața deschide ziua de recapitulare în unealta Caietului de exerciții din aplicație și vezi care două lecții anterioare se întorc. Textul propriu-zis citește-l din exemplarul tău sau, în engleză, din unealtă."
+        },
+        {
+          "hu": "Vedd elő az elsőt: olvasd el a gondolatot és a hozzá tartozó rövid kifejtést, aztán tedd le a könyvet. Az ülés hossza nagyjából negyedóra: ebből három-négy perc a gondolat átgondolása, a többi csukott szemű, csendes hallgatás.",
+          "en": "Take up the first: read the thought and the short comment belonging to it, then put the book down. The sitting runs about a quarter of an hour: three or four minutes of thinking the thought over, the rest quiet listening with your eyes closed.",
+          "ro": "Ia-l pe primul: citește gândul și scurta explicație care îi aparține, apoi lasă cartea jos. Ședința durează cam un sfert de oră: trei-patru minute de gândire asupra gândului, restul ascultare liniștită, cu ochii închiși."
+        },
+        {
+          "hu": "Ne várj új élményt. Egyetlen kérdés elég: hol állok most ezzel a gondolattal — máshol, mint amikor először találkoztam vele? Az ismerősség nem unalom, hanem az eddigi munkád nyoma.",
+          "en": "Expect no new experience. One question is enough: where do I stand with this thought now — somewhere other than when I first met it? Familiarity is not boredom but the trace of the work you have already done.",
+          "ro": "Nu aștepta o experiență nouă. O singură întrebare e de ajuns: unde stau acum cu acest gând — în alt loc decât atunci când l-am întâlnit prima dată? Familiaritatea nu e plictiseală, ci urma muncii pe care ai făcut-o deja."
+        },
+        {
+          "hu": "A másodikkal ugyanígy, ugyanannyi idővel — szintén egy hosszabb, negyedórás üléssel, és napközben mindkettőhöz rövid, sűrű felidézések járnak. Ne hagyd, hogy a kedvesebbik elvegye a másik perceit.",
+          "en": "With the second the same way, with the same amount of time — likewise one longer, quarter-hour sitting, with short, frequent recalls through the day belonging to each. Do not let the one you prefer eat up the other's minutes.",
+          "ro": "Cu al doilea la fel, cu același răgaz — tot o ședință mai lungă, de un sfert de oră, iar peste zi fiecăruia îi revin reamintiri scurte și dese. Nu lăsa gândul care îți place mai mult să înghită minutele celuilalt."
+        },
+        {
+          "hu": "Ahol a felülvizsgálati szakasznak végig visszatérő vezérgondolata van, azzal keretezd mindkét ülést: azzal kezdd és azzal zárd. Ez a fonál fűzi össze a tíz napot.",
+          "en": "Where the review period carries a guiding thought running through it, frame both sittings with it: begin with it and close with it. This is the thread that strings the ten days together.",
+          "ro": "Acolo unde perioada de recapitulare are un gând călăuzitor care o străbate, încadrează cu el ambele ședințe: începe cu el și încheie cu el. Acesta e firul care leagă cele zece zile."
+        },
+        {
+          "hu": "Ne a helyzet szerint válogass a kettő között: a nap első felét az első gondolat kíséri, a másodikat a második. A rövid, sűrű felidézések ezen a felosztáson belül futnak — így mindkettő megkapja a maga fél napját.",
+          "en": "Do not pick between the two according to the situation: the first thought accompanies the first half of the day, the second the second half. The short, frequent recalls run inside that division — so each gets its own half day.",
+          "ro": "Nu alege între cele două după situație: prima jumătate a zilei e însoțită de primul gând, a doua de al doilea. Reamintirile scurte și dese curg în interiorul acestei împărțiri — așa fiecare își primește jumătatea lui de zi."
+        },
+        {
+          "hu": "Este egyetlen sor a Csodanaplóba: melyik gondolat tért vissza magától, hívás nélkül? A felülvizsgálatnak ez az egyetlen becsületes mérőműszere.",
+          "en": "In the evening a single line in the Miracle Journal: which thought came back on its own, uncalled? That is the review's one honest instrument of measure.",
+          "ro": "Seara un singur rând în Jurnalul miracolelor: care gând s-a întors de la sine, nechemat? Acesta e singurul instrument onest de măsură al recapitulării."
+        }
+      ],
+      "keret": {
+        "hu": "A 365 napos menetben a felülvizsgálati szakaszok rögzített helyeken ülnek — az első ötven lecke után, majd nagyjából harmincnaponta —, és közben lassan sűrűsödnek: eleinte öt korábbi gondolat jut egy napra, később kettő, a végén már csak egy, közös vezérgondolattal keretezve. A felülvizsgálati nap se nem pihenőnap, se nem ismétlővizsga: az anyag marad ugyanaz, te változol közben. A leckék szövegét a saját példányodból veszed, vagy angolul az app Munkafüzet-eszközéből — itt csak a nap formáját adjuk.",
+        "en": "In the 365-day run the review periods sit at fixed places — after the first fifty lessons, then roughly every thirty days — and they slowly condense along the way: at first five earlier thoughts share a single day, later two, at the end only one, framed by a shared guiding thought. A review day is neither a rest day nor a re-examination: the material stays the same, it is you who change in the meantime. You take the lessons' text from your own copy, or in English from the app's Workbook tool — here we give only the shape of the day.",
+        "ro": "În parcursul de 365 de zile, perioadele de recapitulare stau în locuri fixe — după primele cincizeci de lecții, apoi cam la treizeci de zile — și se condensează încet pe drum: la început cinci gânduri anterioare împart o singură zi, mai târziu două, la sfârșit doar unul, încadrat de un gând călăuzitor comun. O zi de recapitulare nu e nici zi de odihnă, nici examen de repetare: materialul rămâne același, tu te schimbi între timp. Textul lecțiilor îl iei din exemplarul tău sau, în engleză, din unealta Caietului de exerciții din aplicație — aici dăm doar forma zilei."
+      },
+      "etika": {
+        "hu": "Ha egy visszatérő gondolat üresnek érződik, az adat, nem bukás — ne pótold hosszabb üléssel, és ne ülj törvényt magad felett. Kihagyott felülvizsgálati napot ne halmozz be: egyszerűen ott folytatod, ahol abbahagytad.",
+        "en": "If a returning thought feels empty, that is data, not failure — do not make up for it with a longer sitting, and do not sit in judgement over yourself. Do not pile up a missed review day: you simply continue where you left off.",
+        "ro": "Dacă un gând care revine ți se pare gol, asta e o informație, nu un eșec — nu compensa cu o ședere mai lungă și nu te judeca pe tine. Nu îngrămădi o zi de recapitulare ratată: continui pur și simplu de unde ai rămas."
+      },
+      "sorszam": 9
+    },
+    {
+      "id": "ac-masodik-resz-ritmusa",
+      "mester": "A csodák tanítása",
+      "szint": "halado",
+      "sik": "szellem",
+      "elem": "Viz",
+      "cim": {
+        "hu": "A II. rész ritmusa — olvasmány, lecke, válasz",
+        "en": "The rhythm of Part II — reading, lesson, response",
+        "ro": "Ritmul Părții a II-a — lectură, lecție, răspuns"
+      },
+      "cel": {
+        "hu": "Felvenni a Munkafüzet hosszabb, csendesebb szakaszának ritmusát: egy tíz napon át változatlan olvasmány, egy rövid napi gondolat, és egy válasz, amelyet a magad hangján mondasz ki — több csenddel, mint szóval.",
+        "en": "To take up the rhythm of the Workbook's longer, quieter section: a reading that stays unchanged for ten days, a short daily thought, and a response spoken in your own voice — with more silence than words.",
+        "ro": "Să preiei ritmul secțiunii mai lungi și mai liniștite a Caietului: o lectură neschimbată timp de zece zile, un gând zilnic scurt și un răspuns rostit cu vocea ta — cu mai multă liniște decât cuvinte."
+      },
+      "modszer": [
+        {
+          "hu": "A tíznapos szakasz elején olvasd el egyszer, sietség nélkül a szakasz élén álló olvasmányt — azt a rövid szöveget, amely egyetlen kulcsfogalmat jár körül. Ez tíz napon át ugyanaz marad.",
+          "en": "At the start of the ten-day stretch read once, unhurriedly, the reading that stands at its head — the short text that circles a single key concept. It stays the same for ten days.",
+          "ro": "La începutul etapei de zece zile citește o dată, fără grabă, lectura care stă în fruntea ei — textul scurt care înconjoară un singur concept-cheie. Rămâne același timp de zece zile."
+        },
+        {
+          "hu": "Minden reggel olvasd végig lassan az olvasmányt, és gondolkodj el rajta egy keveset — közvetlenül a napi csend előtt. Aztán vedd az aznapi gondolatot: itt már rövidebb, mint az év első felében, inkább egy sor, amit magaddal viszel, mint feladat, amit elvégzel.",
+          "en": "Every morning read the reading slowly all the way through and think about it a little — directly before the day's silence. Then take the day's thought: shorter here than in the year's first half, more a line you carry with you than a task you complete.",
+          "ro": "În fiecare dimineață citește lectura încet, până la capăt, și gândește-te puțin la ea — chiar înainte de liniștea zilei. Apoi ia gândul zilei: aici mai scurt decât în prima jumătate a anului, mai degrabă un rând pe care îl porți cu tine decât o sarcină pe care o îndeplinești."
+        },
+        {
+          "hu": "Aztán jön a válasz. Ezen a szakaszon a szöveg megszólít: imaformát ölt. Olvasd el lassan, majd mondd el a saját szavaiddal is. Nem előadás — az egyetlen dolga, hogy a hang a tiéd legyen.",
+          "en": "Then comes the response. In this section the text turns and addresses; it takes the form of a prayer. Read it slowly, then say it in your own words as well. Not a performance — its only job is for the voice to become yours.",
+          "ro": "Apoi vine răspunsul. În această secțiune textul se întoarce și se adresează; ia forma unei rugăciuni. Citește-l încet, apoi rostește-l și în cuvintele tale. Nu e o reprezentație — singura ei treabă e ca vocea să devină a ta."
+        },
+        {
+          "hu": "Aztán hallgass. Adj a csendnek több időt, mint a szavaknak: legalább öt percet, de itt már nem az óra dönt — annyit adsz, amennyire szükséged van. A könyv ezen a szakaszon nem korlátoz, hanem elenged; a szavak csak ajtók, nem kell megállni bennük.",
+          "en": "Then listen. Give the silence more time than the words: at least five minutes, but here the clock no longer decides — you give as much as you need. In this section the book does not cap you, it lets go; words are only doors, there is no need to stand still in them.",
+          "ro": "Apoi ascultă. Dă liniștii mai mult timp decât cuvintelor: cel puțin cinci minute, dar aici nu mai hotărăște ceasul — dai atât cât ai nevoie. În această secțiune cartea nu te limitează, ci te lasă liber; cuvintele sunt doar uși, nu e nevoie să te oprești în ele."
+        },
+        {
+          "hu": "Napközben rövidül a gyakorlás: egyetlen sor, majd egy lélegzetnyi csend. Ezen a szakaszon a Munkafüzet szándékosan kevesebbet utasít — mostanra rád bízza a napodat.",
+          "en": "Through the day the practice grows shorter: a single line, then a breath of quiet. In this section the Workbook deliberately instructs less — by now it leaves your day to you.",
+          "ro": "În timpul zilei practica se scurtează: un singur rând, apoi o respirație de liniște. În această secțiune Caietul dă în mod deliberat mai puține instrucțiuni — de acum îți lasă ziua ție."
+        },
+        {
+          "hu": "Este egy sor az Intuíciónaplóba vagy az Álomnaplóba arról, mit hozott a csend: egy kép, egy nyugalom, egy semmi. A „semmi” is érvényes bejegyzés.",
+          "en": "In the evening a line in the Intuition Journal or the Dream Journal about what the silence brought: an image, a calm, a nothing. “Nothing” is a valid entry too.",
+          "ro": "Seara un rând în Jurnalul intuiției sau în Jurnalul viselor despre ce a adus liniștea: o imagine, un calm, un nimic. „Nimic” e și el o însemnare valabilă."
+        }
+      ],
+      "keret": {
+        "hu": "A II. rész a 365 napos menet nagyjából utolsó harmada: kevesebb magyarázat, rövidebb leckék, hosszabb csendek, és tíznaponta egy visszatérő olvasmány, amely egy-egy alapfogalmat jár körül. A napi utasítás azért fogy el, mert a forma addigra a tiéd — nem azért, mert vége a munkának, és nem azért, mert kevesebb idő kellene. A szövegeket a saját példányodból veszed, vagy angolul az app Munkafüzet-eszközéből; ha pedig még nem jutottál el idáig az évben, ez a forma önmagában is kipróbálható egy tíznapos szakaszon.",
+        "en": "Part II is roughly the last third of the 365-day run: less explanation, shorter lessons, longer silences, and every ten days a returning reading that circles one basic concept. The daily instruction thins out because by then the form is yours — not because the work is over, and not because less time is wanted. You take the texts from your own copy, or in English from the app's Workbook tool; and if you have not yet reached this point in the year, the form can be tried on its own across a ten-day stretch.",
+        "ro": "Partea a II-a e cam ultima treime a parcursului de 365 de zile: mai puține explicații, lecții mai scurte, tăceri mai lungi și, la fiecare zece zile, o lectură care revine și înconjoară un concept de bază. Instrucțiunea zilnică se subțiază pentru că până atunci forma e a ta — nu pentru că munca s-ar fi terminat și nu pentru că ar fi nevoie de mai puțin timp. Textele le iei din exemplarul tău sau, în engleză, din unealta Caietului de exerciții din aplicație; iar dacă nu ai ajuns încă aici în an, forma poate fi încercată și pe cont propriu, într-o etapă de zece zile."
+      },
+      "etika": {
+        "hu": "A válasz megszólító, vallásos nyelvet használ. Ha ez idegen tőled, címezd oda, amit a legmélyebb őszinteségednek tartasz — a gyakorlat nem hitet kér, hanem elvégzést. Áhítatot ne erőltess magadra: a színlelt meghatottság többet árt, mint a száraz csend. Ha az ülés szorongást hoz, vagy nincs rá időd, rövidítsd — ez kivétel, nem a szakasz mértéke.",
+        "en": "The response is worded as direct address, in religious language. If that is foreign to you, address it to whatever you hold to be your deepest honesty — the practice asks not for belief but for doing. Do not force devotion upon yourself: feigned emotion does more harm than dry silence. If the sitting brings anxiety, or you have no time for it, shorten it — that is an exception, not this section's measure.",
+        "ro": "Răspunsul e formulat ca o adresare directă, într-un limbaj religios. Dacă îți e străin, îndreaptă-l spre ceea ce consideri a fi sinceritatea ta cea mai adâncă — practica nu cere credință, ci să o faci. Nu-ți impune evlavie: emoția simulată face mai mult rău decât liniștea seacă. Dacă ședința aduce anxietate sau nu ai timp pentru ea, scurteaz-o — e o excepție, nu măsura acestei secțiuni."
+      },
+      "sorszam": 10
+    },
+    {
+      "id": "ac-utolso-ot-nap",
+      "mester": "A csodák tanítása",
+      "szint": "mester",
+      "sik": "szellem",
+      "elem": "Eter",
+      "cim": {
+        "hu": "Az utolsó öt nap — rövid szó, aztán szótlan csend",
+        "en": "The last five days — a few words, then wordless silence",
+        "ro": "Ultimele cinci zile — câteva cuvinte, apoi liniște fără cuvinte"
+      },
+      "cel": {
+        "hu": "Felvenni a záró öt nap formáját: a szöveget már csak indításnak használod, és utána hosszabb, szótlan csend következik — nincs mondat, amit tartani kell. Közben megtapasztalod, mit tanít az ismétlés, amikor az újdonság elfogyott.",
+        "en": "To take up the form of the closing five days: the text is used only as a start, and a longer, wordless silence follows it — no sentence left to hold. Along the way you experience what repetition teaches once novelty has run out.",
+        "ro": "Să preiei forma celor cinci zile de încheiere: textul e folosit doar ca pornire, iar după el urmează o liniște mai lungă, fără cuvinte — nicio propoziție de ținut. Pe parcurs experimentezi ce te învață repetiția atunci când noutatea s-a terminat."
+      },
+      "modszer": [
+        {
+          "hu": "Jelölj ki öt egymást követő napot: vagy az év tényleges záró napjait, vagy — ha nem tartasz ott — öt napot, amelyet szándékosan lezárásnak szánsz.",
+          "en": "Mark out five consecutive days: either the year's actual closing days, or — if you are not that far — five days you deliberately set aside as a closing.",
+          "ro": "Însemnează cinci zile consecutive: fie zilele de încheiere efective ale anului, fie — dacă nu ai ajuns atât de departe — cinci zile pe care le pui deoparte în mod deliberat drept încheiere."
+        },
+        {
+          "hu": "Reggel olvasd el a rövid szöveget. Holnap ugyanazt fogod. Ne indulj benne új réteget keresni: a szöveg nem a cél, hanem az indítás.",
+          "en": "In the morning read the short text. Tomorrow you will read the same one. Do not set out hunting for a new layer in it: the text is not the goal but the start.",
+          "ro": "Dimineața citește textul scurt. Mâine îl vei citi pe același. Nu porni în căutarea unui strat nou în el: textul nu e ținta, ci pornirea."
+        },
+        {
+          "hu": "Amit a rövid szóban kimondasz, az átadás: a nap irányát teszed le. Mondd ki a saját szavaiddal, mit adsz át mára — egy döntést, egy félelmet, egyetlen órát —, konkrétan, ne általánosságban.",
+          "en": "What you say in those few words is a handing over: what you lay down is the direction of the day. Say in your own words what you hand over for today — a decision, a fear, a single hour — concretely, not in general.",
+          "ro": "Ce rostești în acele câteva cuvinte e o predare: ceea ce lași jos e direcția zilei. Spune în cuvintele tale ce predai pentru astăzi — o decizie, o frică, o singură oră — concret, nu în general."
+        },
+        {
+          "hu": "A szöveget csak indításnak használd: mondd ki egyszer, röviden, aztán engedd el. Innentől szótlan, hosszabb csend következik — nincs mondat, amit tartani kell, és nincs mit ismételni. Ezeken a napokon a gyakorlat maga a szavakon túli csend.",
+          "en": "Use the text only as a start: say it once, briefly, then let it go. From there a wordless, longer silence follows — no sentence to hold and nothing to repeat. On these days the practice is the silence beyond words itself.",
+          "ro": "Folosește textul doar ca pornire: rostește-l o dată, scurt, apoi lasă-l. De aici urmează o liniște mai lungă, fără cuvinte — nicio propoziție de ținut și nimic de repetat. În aceste zile practica e chiar liniștea de dincolo de cuvinte."
+        },
+        {
+          "hu": "Napközben nincs új gondolat, amit fejben kellene tartanod — csak ez az egy. Amikor észreveszed, hogy megint te kormányzol, tedd le újra, veszekedés nélkül.",
+          "en": "Through the day there is no new thought to keep in mind — only this one. When you notice that you are steering again, lay it down once more, without quarrelling with yourself.",
+          "ro": "În timpul zilei nu e niciun gând nou de ținut minte — doar acesta. Când observi că iar cârmuiești tu, lasă-l jos din nou, fără să te cerți cu tine."
+        },
+        {
+          "hu": "Kísérőmegfigyelésként figyeld, mit csinál veled az ismétlés: az első nap még jelent valamit, a második üresebb, a harmadik akár ingerlő is lehet. Az unalom nem kudarc, és nem is a gyakorlat tartalma — csak az, ami a csend körül zajlik.",
+          "en": "As an accompanying observation, watch what repetition does to you: on the first day it still means something, on the second it is emptier, on the third it may even irritate. Boredom is not failure, and it is not the practice's content either — only what goes on around the silence.",
+          "ro": "Ca observație însoțitoare, urmărește ce face repetiția cu tine: în prima zi încă înseamnă ceva, în a doua e mai goală, în a treia poate chiar irită. Plictiseala nu e un eșec și nici conținutul practicii — doar ce se petrece în jurul liniștii."
+        },
+        {
+          "hu": "Az ötödik este ne várj ünnepséget: az év úgy ér véget, hogy nem ad papírt a kezedbe. Írj egyetlen sort a Csodanaplóba: mit viszel tovább most, hogy nincs több utasítás?",
+          "en": "On the fifth evening expect no ceremony: the year ends without putting a certificate in your hand. Write one line in the Miracle Journal: what do you carry on with now that there are no more instructions?",
+          "ro": "În a cincea seară nu aștepta nicio ceremonie: anul se termină fără să-ți pună un certificat în mână. Scrie un rând în Jurnalul miracolelor: cu ce mergi mai departe acum, când nu mai sunt instrucțiuni?"
+        }
+      ],
+      "keret": {
+        "hu": "A Munkafüzet öt záró napja szándékosan egyetlen szöveget ismétel: a 365. nap után a Munkafüzet nem oszt több kijelölt leckét — a folytatás formáját neked kell megtalálnod. Ezért nincs csúcspont sem: az utolsó ötöd épp azt gyakoroltatja, hogy a folytatás nem újdonságon áll, és hogy a rövid szó után a csend viszi tovább. A szöveget a saját példányodból veszed, vagy angolul az app Munkafüzet-eszközéből; az öt nap ott is egymás után jön, ahogy a könyvben.",
+        "en": "The Workbook's five closing days deliberately repeat a single text: after day 365 the Workbook assigns no further lessons — the shape of what follows is yours to find. So there is no climax either: the last fifth trains exactly this, that continuing does not rest on novelty, and that after the few words it is the silence that carries on. You take the text from your own copy, or in English from the app's Workbook tool; there too the five days follow one another as they do in the book.",
+        "ro": "Cele cinci zile de încheiere ale Caietului repetă în mod deliberat un singur text: după ziua a 365-a, Caietul nu mai atribuie nicio lecție — forma continuării rămâne să o găsești tu. De aceea nu există nici punct culminant: ultima cincime exersează tocmai asta — continuarea nu se sprijină pe noutate, iar după cele câteva cuvinte liniștea e cea care duce mai departe. Textul îl iei din exemplarul tău sau, în engleză, din unealta Caietului de exerciții din aplicație; și acolo cele cinci zile vin una după alta, ca în carte."
+      },
+      "etika": {
+        "hu": "Az átadás nem felelősségátadás: orvosi, pénzügyi és jogi döntéseidet ugyanúgy józanul hozod meg, tényekre és szakemberre támaszkodva. És ne csinálj az öt napból állóképességi próbát — ha üresnek érzed, ne hosszabbítsd meg az ülést: az üresség adat, nem adósság.",
+        "en": "Handing over is not handing over responsibility: your medical, financial and legal decisions you still make soberly, leaning on facts and on professionals. And do not turn the five days into a test of endurance — if it feels empty, do not lengthen the sitting: emptiness is data, not debt.",
+        "ro": "Predarea nu e o predare a responsabilității: deciziile medicale, financiare și juridice le iei tot sobru, sprijinindu-te pe fapte și pe profesioniști. Și nu face din cele cinci zile o probă de rezistență — dacă ți se pare gol, nu prelungi ședința: golul e o informație, nu o datorie."
       },
       "sorszam": 11
     },
     {
-      "id": "ac-tanito-jellemvonasai",
+      "id": "ac-tanito-utja",
       "mester": "A csodák tanítása",
       "szint": "mester",
       "sik": "szellem",
       "elem": "Fold",
       "cim": {
-        "hu": "A tanító jellemvonásai — heti erény-fókusz",
-        "en": "The teacher's traits — a weekly virtue focus",
-        "ro": "Trăsăturile învățătorului — un focar săptămânal pe o virtute"
+        "hu": "A tanító útja — a tanítás mint a tanulás folytatása",
+        "en": "The teacher's path — teaching as the continuation of learning",
+        "ro": "Calea învățătorului — predarea ca prelungire a învățării"
       },
       "cel": {
-        "hu": "A gyakorlást jellemmé érlelni: a Kézikönyv tanítói erényei közül — bizalom, becsületesség, türelem, szelídség, védtelenség, nyitottság — hetente egyet választani, és a hét minden napján abban gyakorolni.",
-        "en": "To ripen practice into character: choosing each week one of the Manual's virtues of a teacher — trust, honesty, patience, gentleness, defencelessness, open-mindedness — and practising in it every day of that week.",
-        "ro": "Ca practica să se coacă în caracter: alegi în fiecare săptămână una dintre virtuțile învățătorului din Manual — încredere, onestitate, răbdare, blândețe, neapărare, deschidere a minții — și exersezi în ea în fiecare zi a acelei săptămâni."
+        "hu": "Az év után folytatni: a Kézikönyv gyakorlati részének formájában hetente egy jellemvonást választani és napi mértékkel gyakorolni — miközben megszokod, hogy nem a szavaid tanítanak, hanem az állapotod.",
+        "en": "To continue after the year: in the form of the Manual's practical part, to choose one trait a week and practise it in daily measure — while growing used to the fact that it is not your words that teach, but your state.",
+        "ro": "Să continui după an: în forma părții practice a Manualului, să alegi o trăsătură pe săptămână și să o exersezi cu măsură zilnică — obișnuindu-te totodată cu faptul că nu cuvintele tale sunt cele care îi învață pe alții, ci starea ta."
       },
       "modszer": [
         {
-          "hu": "A hét elején válassz egyetlen erényt — például a bizalmat, a becsületességet vagy a türelmet.",
-          "en": "At the week's start choose a single virtue — trust, honesty or patience, for example.",
-          "ro": "La începutul săptămânii alege o singură virtute — încredere, onestitate sau răbdare, de pildă."
+          "hu": "A hét elején válassz egyetlen vonást a Kézikönyv listájából — bizalom, becsületesség, türelem, szelídség, védtelenség, nyitottság —, és maradj vele hét napig. Egy hét, egy vonás.",
+          "en": "At the week's start choose a single trait from the Manual's list — trust, honesty, patience, gentleness, defencelessness, open-mindedness — and stay with it for seven days. One week, one trait.",
+          "ro": "La începutul săptămânii alege o singură trăsătură din lista Manualului — încredere, onestitate, răbdare, blândețe, lipsa de apărare, deschiderea minții — și rămâi cu ea șapte zile. O săptămână, o trăsătură."
         },
         {
-          "hu": "Első reggel fogalmazd meg a saját szavaiddal: hogyan fest ez az erény a te napjaidban, a te munkádban, a te kapcsolataidban?",
-          "en": "On the first morning phrase it in your own words: what does this virtue look like in your days, your work, your relationships?",
-          "ro": "În prima dimineață formuleaz-o în cuvintele tale: cum arată această virtute în zilele tale, în munca ta, în relațiile tale?"
+          "hu": "Minden reggel fordítsd le a mai napodra: kivel, hol és melyik órában lesz ez nehéz? A vonásból akkor lesz gyakorlat, ha van neve, helye és időpontja.",
+          "en": "Every morning translate it into today: with whom, where and in which hour will this be hard? A trait becomes a practice when it has a name, a place and an hour.",
+          "ro": "În fiecare dimineață tradu-o în ziua de azi: cu cine, unde și în ce oră va fi greu? O trăsătură devine practică atunci când are un nume, un loc și o oră."
         },
         {
-          "hu": "Minden reggel kösd össze a nap gondolatával; minden este egyetlen sor: hol jelent meg, hol hiányzott?",
-          "en": "Each morning tie it to the day's thought; each evening a single line: where did it appear, where was it missing?",
-          "ro": "În fiecare dimineață leag-o de gândul zilei; în fiecare seară un singur rând: unde a apărut, unde a lipsit?"
+          "hu": "Napközben ne tanítsd senkinek. Egyetlen próba van: aki ma eléd kerül, nyugodtabban vagy nyugtalanabbul megy tovább?",
+          "en": "Through the day teach it to no one. There is one test only: whoever comes before you today — do they go on calmer or more restless?",
+          "ro": "În timpul zilei nu o preda nimănui. Există un singur test: cine îți iese în cale astăzi — pleacă mai calm sau mai neliniștit?"
         },
         {
-          "hu": "A becsületességet vedd teljességnek: azt figyeld, egyet mond-e a szavad, a tetted és a belső állapotod.",
-          "en": "Take honesty as wholeness: watch whether your word, your deed and your inner state say one and the same thing.",
-          "ro": "Ia onestitatea ca întregime: privește dacă cuvântul tău, fapta ta și starea ta lăuntrică spun unul și același lucru."
+          "hu": "A becsületességet vedd egységnek: egyet mond-e a szavad, a tetted és a belső állapotod? Ahol a három közül kettő szétválik, ott van a heti munkád.",
+          "en": "Take honesty as wholeness: do your word, your deed and your inner state say one and the same thing? Wherever two of the three come apart, there lies your week's work.",
+          "ro": "Ia onestitatea ca întregime: spun cuvântul tău, fapta ta și starea ta lăuntrică unul și același lucru? Oriunde două dintre cele trei se despart, acolo stă munca ta din săptămâna aceea."
         },
         {
-          "hu": "A hét végén rövid mérleg, majd új erény — lassú körforgás hónapokon át, sietség nélkül.",
-          "en": "At the week's end a short balance, then a new virtue — a slow rotation over months, without hurry.",
-          "ro": "La sfârșitul săptămânii o scurtă balanță, apoi o virtute nouă — o rotație lentă de-a lungul lunilor, fără grabă."
+          "hu": "A bizalomnál számíts hullámvölgyre: a Kézikönyv szerint a nyugtalanság szakasza az út rendes része, nem visszaesés. Ne írd felül miatta az egészet.",
+          "en": "With trust, expect a trough: the Manual holds the unsettled stretch to be a normal part of the road, not a relapse. Do not rewrite the whole thing because of it.",
+          "ro": "Cu încrederea, așteaptă-te la un gol: Manualul socotește etapa de tulburare drept o parte normală a drumului, nu o recădere. Nu rescrie totul din pricina ei."
         },
         {
-          "hu": "A haladás egyetlen mérőműszere végig a belső béke: ahol hiányzik, ott van még gyakorolnivaló.",
-          "en": "Throughout, the sole gauge of progress is inner peace: where it is missing, there is still practising to do.",
-          "ro": "De-a lungul timpului, singura măsură a progresului este pacea lăuntrică: unde lipsește, mai e de exersat."
+          "hu": "Este egyetlen sor a Csodanaplóba: hol jelent meg a vonás, hol hiányzott — vád nélkül, leletként. A hét végén rövid mérleg, majd új vonás; a kör hónapokon át forog, sietség nélkül.",
+          "en": "In the evening a single line in the Miracle Journal: where did the trait appear, where was it missing — without accusation, as a finding. At the week's end a short balance, then a new trait; the circle turns over months, without hurry.",
+          "ro": "Seara un singur rând în Jurnalul miracolelor: unde a apărut trăsătura, unde a lipsit — fără acuzație, ca o constatare. La sfârșitul săptămânii o scurtă balanță, apoi o trăsătură nouă; cercul se rotește de-a lungul lunilor, fără grabă."
+        },
+        {
+          "hu": "A mérce végig ugyanaz: a belső béke. Ahol hiányzik, ott van még gyakorolnivaló — az nem hiba, hanem cím.",
+          "en": "Throughout, the measure stays the same: inner peace. Where it is missing, there is still practising to do — that is not a fault but an address.",
+          "ro": "De-a lungul timpului măsura rămâne aceeași: pacea lăuntrică. Unde lipsește, mai e de exersat — asta nu e o vină, ci o adresă."
         }
       ],
       "keret": {
-        "hu": "A Kézikönyv tanítón nem hivatást ért, hanem mindenkit, aki a saját békéjével tanít. Ez a gyakorlat rendkívülit nem állít: erénymunka, rokona az erényetikának és a bardoni lélek-nemesítésnek. A cél nem teljesítmény, hanem hogy amit gyakorolsz, lassan azzá váljon, aki vagy.",
-        "en": "By a teacher the Manual means no profession but anyone who teaches with their own peace. This practice claims nothing extraordinary: it is virtue work, kin to virtue ethics and to Bardon's ennobling of the soul. The aim is not performance, but that what you practise slowly becomes who you are.",
-        "ro": "Prin învățător Manualul nu înțelege o profesie, ci pe oricine care predă cu propria sa pace. Această practică nu pretinde nimic extraordinar: este lucru cu virtuțile, înrudit cu etica virtuții și cu înnobilarea sufletului la Bardon. Țelul nu e performanța, ci ca ceea ce exersezi să devină încet cine ești."
+        "hu": "A mű harmadik, legrövidebb része kérdés-válasz formában szól a folytatásról, és tanítón nem hivatást ért: bárkit, aki a saját békéjével tanít. Ez az egyetlen gyakorlat a sorban, amelynek nincs napszáma — a 365 nap után kezdődik, és nincs vége. A vonások leírását a saját példányodból veszed; itt csak a heti forma van meg. Rendkívülit nem állít: erénymunka ez, rokona az erényetikának és a bardoni léleknemesítésnek.",
+        "en": "The work's third and shortest part speaks of the continuation in question-and-answer form, and by a teacher it means no profession: anyone who teaches with their own peace. This is the one practice in the series without a day number — it begins after the 365 days and has no end. You take the description of the traits from your own copy; here you have only the weekly form. It claims nothing extraordinary: this is virtue work, kin to virtue ethics and to Bardon's ennobling of the soul.",
+        "ro": "A treia și cea mai scurtă parte a lucrării vorbește despre continuare sub formă de întrebări și răspunsuri, iar prin învățător nu înțelege o profesie: pe oricine predă cu propria sa pace. Aceasta e singura practică din serie fără număr de zi — începe după cele 365 de zile și nu are sfârșit. Descrierea trăsăturilor o iei din exemplarul tău; aici ai doar forma săptămânală. Nu pretinde nimic extraordinar: e lucru cu virtuțile, înrudit cu etica virtuții și cu înnobilarea sufletului la Bardon."
+      },
+      "etika": {
+        "hu": "A „tanító” itt nem felhatalmazás: kérés nélkül ne kezdj mások lelki vezetésébe, orvosi vagy pszichológiai kérdésben pedig irányíts szakemberhez. A védtelenség nem határnélküliség — a szelídséggel együtt a nem is a gyakorlat része.",
+        "en": "“Teacher” here is no authorization: do not take up the spiritual guidance of others unasked, and in medical or psychological questions point them to a professional. Defencelessness is not boundlessness — alongside gentleness, the no is part of the practice too.",
+        "ro": "„Învățător” aici nu e o autorizare: nu te apuca de îndrumarea spirituală a altora fără să ți se ceară, iar în chestiuni medicale sau psihologice îndreaptă-i spre un profesionist. Lipsa de apărare nu înseamnă lipsă de granițe — alături de blândețe, și nu-ul face parte din practică."
       },
       "sorszam": 12
     }
