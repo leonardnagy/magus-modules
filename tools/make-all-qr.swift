@@ -23,6 +23,10 @@ let kodok = [
       alcim: "hangoskönyv · 76 sáv · 3 kötet",
       hol: "Meditációk → QR ikon",
       link: "https://drive.google.com/file/d/1ZovnG6oEhjQBb3RGbEnv_Gz-7OVusyuj/view"),
+  Kod(cim: "Bashar — meditációk",
+      alcim: "203 felvétel · 3 csoport",
+      hol: "Meditációk → QR ikon",
+      link: "https://drive.google.com/file/d/1tuTxe7sYA_MYHxsf7_pzCo9NGPeXH1Ri/view"),
 ]
 
 let ctx = CIContext()
