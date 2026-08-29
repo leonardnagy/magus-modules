@@ -473,5 +473,37 @@
         "ro": "*Material de studiu în spiritul învățăturilor lui Ryokah (linia Sassani) așa cum au fost canalizate de Tyler Ellison (canalul Health Thyself, thegalacticguide.com), construit pe tradiția clasică a celor șapte etape ale alchimiei occidentale. Acest text este o parafrază originală, nu un citat textual — caută sursele originale pentru învățăturile complete.*\n\n*Cântărește întotdeauna învățăturile canalizate cu propriul tău discernământ: păstrează ceea ce se confirmă în experiența ta. Acesta nu este sfat medical sau psihologic — dacă treci prin suferință, consultă un profesionist. Practică etic și cu răbdare.*"
       }
     }
+  ],
+  "meditaciok": [
+    {
+      "nevek": {
+        "hu": "Desztillációs légzés"
+      },
+      "csoport": {
+        "hu": "Ryokah — Alkímia"
+      },
+      "sorszam": 1,
+      "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.alchemy/audio/meditacio/ryokah-alchemy-timer-distillation.m4a"
+    },
+    {
+      "nevek": {
+        "hu": "Csí-gömb gyakorlat"
+      },
+      "csoport": {
+        "hu": "Ryokah — Alkímia"
+      },
+      "sorszam": 2,
+      "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.alchemy/audio/meditacio/ryokah-alchemy-timer-chiball.m4a"
+    },
+    {
+      "nevek": {
+        "hu": "Fermentációs meditáció"
+      },
+      "csoport": {
+        "hu": "Ryokah — Alkímia"
+      },
+      "sorszam": 3,
+      "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.alchemy/audio/meditacio/ryokah-alchemy-timer-fermentation.m4a"
+    }
   ]
 }
