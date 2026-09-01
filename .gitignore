@@ -1,1 +1,6 @@
+*.pyc
 .DS_Store
+.epites/
+.guided-tmp/
+__pycache__/
+tools/guided/*.m4a

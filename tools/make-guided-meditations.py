@@ -33,6 +33,7 @@ MODEL = "grok-tts"
 MAPPA = {
     "ryokah-alchemy": "ryokah.alchemy",
     "ryokah-magick": "ryokah.magick",
+    "bashar-shifting": "bashar.shifting",
 }
 
 
@@ -94,6 +95,8 @@ def main():
             tervek.append(t)
             osszes_kar += sum(len(x["szoveg"]) for x in t["szegmensek"])
 
+    for t in tervek:
+        modul_mappa(t["id"])       # elore dol el, ne API-hivas utan alljon le
     print(f"{len(tervek)} meditáció, {osszes_kar:,} karakter")
     print(f"becsült költség: ~${osszes_kar / 1_000_000 * 4.2:.3f}")
     if args.dry_run:
