@@ -23,7 +23,7 @@ GYOKER = ITT.parent.parent
 SZOVEG = ITT / "bashar-hoppanalas.txt"
 MUNKA = ITT / ".epites"
 AZONOSITO = "bashar-shifting-timer-hoppban-allas"
-TELJES = 2400                      # 40 perc
+TELJES = 2880                      # 48 perc — a MARADÁS nyeli el a többletet
 
 # Kisbetuvel: a mondatkezdo nagy kezdobetu nehol elrontja a hangzast
 # (a "Hét." roviden jott ki). A szamokat egyszer gyartjuk, sokszor hasznaljuk.
