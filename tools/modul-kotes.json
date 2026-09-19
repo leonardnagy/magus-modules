@@ -1,0 +1,457 @@
+{
+ "_": "Melyik modulhoz tartozik egy gyakorlat. A csomag a pontosabb: ha van rá bejegyzés, az dönt; különben a gyakorlat mestere. A build-everything.py oldja fel, és minden gyakorlatra ráírja a 'modulok' mezőt.",
+ "csomag": {
+  "practice-pack-acim": [
+   "acim-course",
+   "acim-easy"
+  ],
+  "practice-pack-angelic-work": [
+   "angelic-work"
+  ],
+  "practice-pack-arion": [
+   "arion.answers"
+  ],
+  "practice-pack-astral-basics": [
+   "astral.basics"
+  ],
+  "practice-pack-astral-direct": [
+   "astral.direct"
+  ],
+  "practice-pack-astral-explorations": [
+   "astral.explorations"
+  ],
+  "practice-pack-astral-indirect": [
+   "astral.indirect"
+  ],
+  "practice-pack-astral-sid": [
+   "astral.sid"
+  ],
+  "practice-pack-aura-reading": [
+   "aura-reading"
+  ],
+  "practice-pack-automatic-writing": [
+   "automatic-writing"
+  ],
+  "practice-pack-bardon-steps": [
+   "iih-step-01",
+   "iih-step-02",
+   "iih-step-03",
+   "iih-step-04",
+   "iih-step-05",
+   "iih-step-06",
+   "iih-step-07",
+   "iih-step-08",
+   "iih-step-09",
+   "iih-step-10"
+  ],
+  "practice-pack-bashar-spheres": [
+   "bashar-spheres"
+  ],
+  "practice-pack-chakra-system": [
+   "chakra-system"
+  ],
+  "practice-pack-dispenza-newself": [
+   "dispenza.newself"
+  ],
+  "practice-pack-dispenza-placebo": [
+   "dispenza.placebo"
+  ],
+  "practice-pack-dispenza-supernatural": [
+   "dispenza.supernatural"
+  ],
+  "practice-pack-elements": [
+   "iih-theme-elements",
+   "iih-theme-fire",
+   "iih-theme-air",
+   "iih-theme-water",
+   "iih-theme-earth",
+   "iih-theme-akasha"
+  ],
+  "practice-pack-energy-protection": [
+   "energy-protection"
+  ],
+  "practice-pack-mediumship": [
+   "mediumship.craft"
+  ],
+  "practice-pack-numerology-core": [
+   "numerology-core"
+  ],
+  "practice-pack-pendulum-dowsing": [
+   "pendulum-dowsing"
+  ],
+  "practice-pack-psychometry-craft": [
+   "psychometry-craft"
+  ],
+  "practice-pack-remote-influencing": [
+   "remote.influencing"
+  ],
+  "practice-pack-rv-advanced": [
+   "rv.advanced"
+  ],
+  "practice-pack-rv-associative": [
+   "rv.associative"
+  ],
+  "practice-pack-rv-basics": [
+   "rv.basics"
+  ],
+  "practice-pack-rv-place": [
+   "rv.place"
+  ],
+  "practice-pack-rv-sanctuary": [
+   "rv.sanctuary"
+  ],
+  "practice-pack-silva-healing": [
+   "silva.healing"
+  ],
+  "practice-pack-silva-mindcontrol": [
+   "silva.mindcontrol"
+  ],
+  "practice-pack-soul": [
+   "iih-theme-soulmirror",
+   "iih-theme-ethics"
+  ],
+  "practice-pack-tarot-oracle": [
+   "tarot-oracle"
+  ],
+  "practice-pack-telekinesis": [
+   "telekinesis.kinesis"
+  ],
+  "practice-pack-telepathy-practice": [
+   "telepathy-practice"
+  ],
+  "practice-pack-thinking": [
+   "thinking.school"
+  ],
+  "practice-pack-zeland-transurfing": [
+   "zeland-transurfing"
+  ]
+ },
+ "mester": {
+  "A Föld elem": [
+   "iih-theme-earth"
+  ],
+  "A Levegő elem": [
+   "iih-theme-air"
+  ],
+  "A Tűz elem": [
+   "iih-theme-fire"
+  ],
+  "A Víz elem": [
+   "iih-theme-water"
+  ],
+  "A csakra-rendszer": [
+   "chakra-system"
+  ],
+  "A csodák tanítása": [
+   "acim-course",
+   "acim-easy"
+  ],
+  "A csodák tanítása könnyedén — Cohen ösvénye": [
+   "acim-easy"
+  ],
+  "A csodák tanítása — a Kurzus": [
+   "acim-course"
+  ],
+  "A direkt módszer — ébren át a küszöbön": [
+   "astral.direct"
+  ],
+  "A hajnali kapu — lépcsőzetes ébredési gyakorlat": [
+   "astral.sid"
+  ],
+  "A lélektükör módszer": [
+   "iih-theme-soulmirror"
+  ],
+  "A szándék önmagunkra — a fordított távérzékelés": [
+   "remote.influencing"
+  ],
+  "A távérzékelő napló — vak célpontok és a belső menedék": [
+   "rv.sanctuary"
+  ],
+  "Anatolij Kashpirovsky": [
+   "kashpirovsky-suggestion"
+  ],
+  "Angyal-munka — vezetők, gyógyulás, bőség": [
+   "angelic-work"
+  ],
+  "Arion": [
+   "arion.answers"
+  ],
+  "Arion mester válaszai — a Bardon-út élő kérdései": [
+   "arion.answers"
+  ],
+  "Asszociatív távérzékelés — a bináris intuíció-próba": [
+   "rv.associative"
+  ],
+  "Asztrális felfedezések — vezetők, ugrások, emlékezet": [
+   "astral.explorations"
+  ],
+  "Asztrális hagyomány": [
+   "astral.basics",
+   "astral.direct",
+   "astral.indirect",
+   "astral.explorations",
+   "astral.sid"
+  ],
+  "Asztrális kivetülés — alapok és térkép": [
+   "astral.basics"
+  ],
+  "Aura és finomtestek": [
+   "aura-reading"
+  ],
+  "Automatikus írás": [
+   "automatic-writing"
+  ],
+  "Az Akasha (Éter)": [
+   "iih-theme-akasha"
+  ],
+  "Az Idő princípium": [
+   "iih-theme-timeprinciple"
+  ],
+  "Az elemek tana": [
+   "iih-theme-elements"
+  ],
+  "Az indirekt út — álomból ébredni": [
+   "astral.indirect"
+  ],
+  "Bashar": [
+   "bashar-spheres",
+   "bashar-shifting",
+   "bashar-meditations"
+  ],
+  "Bashar (Darryl Anka)": [
+   "bashar-spheres",
+   "bashar-shifting",
+   "bashar-meditations"
+  ],
+  "Bashar — A három gömb: Epsilon, Epiphany, Eclipse": [
+   "bashar-spheres"
+  ],
+  "Bashar — Holotope meditációk (linkek)": [
+   "bashar-meditations"
+  ],
+  "Bashar — Valóságváltás és a Cédulák forrása": [
+   "bashar-shifting"
+  ],
+  "Elementálok, lárvák, elementárok": [
+   "iih-theme-beings"
+  ],
+  "Energiavédelem": [
+   "energy-protection"
+  ],
+  "Etika és a mágikus napló": [
+   "iih-theme-ethics"
+  ],
+  "Fejleszd a gondolkodásod — a gondolat iskolája": [
+   "thinking.school"
+  ],
+  "Fluidkondenzátorok": [
+   "iih-theme-condensers"
+  ],
+  "Franz Bardon": [
+   "iih-step-01",
+   "iih-theme-elements"
+  ],
+  "Grigorij Ignatenko": [
+   "ignatenko-cosmohumanism"
+  ],
+  "Gyakorlati telepátia": [
+   "telepathy-practice"
+  ],
+  "Hermész Triszmegisztosz": [
+   "hermes-trismegistos"
+  ],
+  "Hermész Triszmegisztosz — Az ősi gyökér": [
+   "hermes-trismegistos"
+  ],
+  "I. Lépés — Alapok": [
+   "iih-step-01"
+  ],
+  "II. Lépés — Elmélyítés": [
+   "iih-step-02"
+  ],
+  "III. Lépés — Elemegyensúly": [
+   "iih-step-03"
+  ],
+  "IV. Lépés — Tudatáthelyezés és felhalmozás": [
+   "iih-step-04"
+  ],
+  "IX. Lépés — Tisztánlátás és elválás": [
+   "iih-step-09"
+  ],
+  "Ignatenko": [
+   "ignatenko-cosmohumanism"
+  ],
+  "Inga és varázsvessző": [
+   "pendulum-dowsing"
+  ],
+  "Joe Dispenza": [
+   "dispenza.newself",
+   "dispenza.placebo",
+   "dispenza.supernatural"
+  ],
+  "Joe Dispenza — A placebo te magad légy": [
+   "dispenza.placebo"
+  ],
+  "Joe Dispenza — Engedd el önmagad, válj új emberré": [
+   "dispenza.newself"
+  ],
+  "Joe Dispenza — Válj természetfelettivé": [
+   "dispenza.supernatural"
+  ],
+  "José Silva": [
+   "silva.mindcontrol",
+   "silva.healing"
+  ],
+  "José Silva — Agykontroll: az alfa-szint iskolája": [
+   "silva.mindcontrol"
+  ],
+  "Kaspirovszkij": [
+   "kashpirovsky-suggestion"
+  ],
+  "Kaspirovszkij — A szuggesztió két éle": [
+   "kashpirovsky-suggestion"
+  ],
+  "Kloss-Ignatenko — Kozmohumanizmus és a fenomén-út": [
+   "ignatenko-cosmohumanism"
+  ],
+  "Materia Prima": [
+   "iih-theme-materiaprima"
+  ],
+  "Mediumitás": [
+   "mediumship.craft"
+  ],
+  "Mediumitás és megkülönböztetés — beszéd a holtakkal": [
+   "mediumship.craft"
+  ],
+  "Mentalizmus": [
+   "mentalism-craft"
+  ],
+  "Mentalizmus — A mesterség és a pajzs": [
+   "mentalism-craft"
+  ],
+  "Mentális vándorlás": [
+   "iih-theme-mentalwandering"
+  ],
+  "Mágikus tükrök": [
+   "iih-theme-mirrors"
+  ],
+  "Numerológia — a számok tükre": [
+   "numerology-core"
+  ],
+  "Ozirisz": [
+   "osiris-rebirth"
+  ],
+  "Ozirisz — A halál és újjászületés misztériumai": [
+   "osiris-rebirth"
+  ],
+  "Pszichometria — tárgyolvasás": [
+   "psychometry-craft"
+  ],
+  "Ptah": [
+   "ptah-creation"
+  ],
+  "Ptah — A szív és a nyelv teremtése": [
+   "ptah-creation"
+  ],
+  "Remote Influencing": [
+   "remote.influencing"
+  ],
+  "Remote Viewing": [
+   "rv.basics",
+   "rv.advanced",
+   "rv.associative",
+   "rv.place",
+   "rv.sanctuary"
+  ],
+  "Ryokah": [
+   "ryokah-alchemy",
+   "ryokah-magick"
+  ],
+  "Ryokah Alkímia — A Nagy Mű utolsó három lépése": [
+   "ryokah-alchemy"
+  ],
+  "Ryokah High Magick — a játékos mágia műhelye": [
+   "ryokah-magick"
+  ],
+  "Ré": [
+   "ra-solar"
+  ],
+  "Ré — A Nap útja": [
+   "ra-solar"
+  ],
+  "Sai Baba + Ryokah": [
+   "saibaba-love",
+   "ryokah-alchemy",
+   "ryokah-magick"
+  ],
+  "Saint Germain": [
+   "saintgermain-violetflame"
+  ],
+  "Saint Germain — A Lila Láng alkímiája": [
+   "saintgermain-violetflame"
+  ],
+  "Sathya Sai Baba": [
+   "saibaba-love"
+  ],
+  "Sathya Sai Baba — Szeretet és szolgálat": [
+   "saibaba-love"
+  ],
+  "Silva — Gyógyíthatsz: a gyógyító képzelet iskolája": [
+   "silva.healing"
+  ],
+  "Szellemlények és a vezető": [
+   "iih-theme-spiritbeings"
+  ],
+  "Tarot és orákulum — a psziché tükre": [
+   "tarot-oracle"
+  ],
+  "Telekinézis": [
+   "telekinesis.kinesis"
+  ],
+  "Telekinézis — a Kinesis-ösvény (figyelem, képzelet, szándék)": [
+   "telekinesis.kinesis"
+  ],
+  "Thot": [
+   "thoth-wisdom"
+  ],
+  "Thot — Az írnok bölcsessége": [
+   "thoth-wisdom"
+  ],
+  "Tudatos- és pórus-légzés": [
+   "iih-theme-breathing"
+  ],
+  "Távérzékelés és a hely — az intuitív helyérzékelés gyakorlata": [
+   "rv.place"
+  ],
+  "Távérzékelés — az intuíció fegyelme (haladó)": [
+   "rv.advanced"
+  ],
+  "Távérzékelés — az intuíció négylépéses iskolája": [
+   "rv.basics"
+  ],
+  "V. Lépés — Vetítés és vezető": [
+   "iih-step-05"
+  ],
+  "VI. Lépés — Szellem és Akasha": [
+   "iih-step-06"
+  ],
+  "VII. Lépés — Asztrális érzékek": [
+   "iih-step-07"
+  ],
+  "VIII. Lépés — Mentális vándorlás és fluidok": [
+   "iih-step-08"
+  ],
+  "Vadim Zeland": [
+   "zeland-transurfing"
+  ],
+  "Vadim Zeland — Transzörfing: a valóság szörfözése": [
+   "zeland-transurfing"
+  ],
+  "X. Lépés — Egyesülés": [
+   "iih-step-10"
+  ],
+  "Életerő és akkumuláció": [
+   "iih-theme-vitalenergy"
+  ]
+ }
+}
