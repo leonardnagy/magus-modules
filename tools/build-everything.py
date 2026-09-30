@@ -55,11 +55,78 @@ if hianyzo:
     for pid, mester in sorted(hianyzo):
         print('  %s / %s' % (pid, mester))
 
+# Pictures. The pack names the one its practices share; a practice whose
+# subject has a picture of its own names that instead. Resolved here for the
+# same reason as the modules: the phone reads a key and never has to guess.
+RAW = 'https://raw.githubusercontent.com/leonardnagy/magus-modules/main'
+KEP_BASE = RAW + '/illustrations'
+kepek = load(os.path.join(ROOT, 'tools', 'kep-kotes.json'))
+van_kep = {os.path.splitext(f)[0] for f in os.listdir(os.path.join(ROOT, 'illustrations'))
+           if f.endswith('.png')}
+kep_hiany = set()
+for pack in practices:
+    csomag_kep = kepek['csomag'].get(pack['id'])
+    if csomag_kep in van_kep:
+        pack['kep'] = csomag_kep
+        pack['kepBase'] = KEP_BASE
+    for gy in pack['gyakorlatok']:
+        k = kepek['gyakorlat'].get(gy['id']) or csomag_kep
+        if k in van_kep:
+            gy['kep'] = k
+        else:
+            gy.pop('kep', None)
+            kep_hiany.add(pack['id'])
+    if 'kep' in pack and 'kepBase' not in pack:
+        pack['kepBase'] = KEP_BASE
+if kep_hiany:
+    print('FIGYELEM: kep nelkuli csomagok: ' + ', '.join(sorted(kep_hiany)))
+
+def meret(mappa, kiterjesztes):
+    """(files, bytes) of one kind of file directly inside `mappa`."""
+    if not os.path.isdir(mappa):
+        return 0, 0
+    f = [os.path.join(mappa, x) for x in os.listdir(mappa) if x.endswith(kiterjesztes)]
+    return len(f), sum(os.path.getsize(x) for x in f)
+
+# What the phone can fetch after the install, and how big it is. The app
+# estimates "what is still missing here" from these averages, so its download
+# button can say how much it is about to spend before it spends it — and it
+# only asks for a narration language that actually exists, instead of spending
+# a thousand requests on 404s for a language nobody recorded.
+letoltheto = {'kepBase': KEP_BASE}
+db, b = meret(os.path.join(ROOT, 'illustrations'), '.png')
+letoltheto['kepek'] = {'db': db, 'bajt': b}
+gyh = {}
+for nyelv in sorted(os.listdir(os.path.join(ROOT, 'audio', 'practices'))):
+    db, b = meret(os.path.join(ROOT, 'audio', 'practices', nyelv), '.mp3')
+    if db:
+        gyh[nyelv] = {'db': db, 'bajt': b}
+letoltheto['gyakorlatHang'] = gyh
+mh = {}
+for m in modules:
+    base = m.get('audioBase') or ''
+    if not base.startswith(RAW + '/'):
+        continue
+    mappa = os.path.join(ROOT, base[len(RAW) + 1:])
+    if not os.path.isdir(mappa):
+        continue
+    for nyelv in os.listdir(mappa):
+        db, b = meret(os.path.join(mappa, nyelv), '.mp3')
+        if db:
+            t = mh.setdefault(nyelv, {'db': 0, 'bajt': 0})
+            t['db'] += db
+            t['bajt'] += b
+letoltheto['modulHang'] = mh
+# The recordings live on Drive, not here, so their size cannot be measured at
+# build time. Measured once over the Drive folder and written down.
+letoltheto['meditacio'] = load(os.path.join(ROOT, 'tools', 'meditacio-meret.json'))['meditacio']
+
 quotes = []
 for path in sorted(glob.glob(os.path.join(ROOT, 'quotes', '*.json'))):
     quotes.extend(load(path))
 
-bundle = {'formatVersion': 1, 'modules': modules, 'practices': practices, 'quotes': quotes}
+bundle = {'formatVersion': 1, 'modules': modules, 'practices': practices, 'quotes': quotes,
+          'letoltheto': letoltheto}
 out = os.path.join(ROOT, 'everything.json')
 with io.open(out, 'w', encoding='utf-8') as f:
     f.write(json.dumps(bundle, ensure_ascii=False, separators=(',', ':')))
@@ -67,6 +134,9 @@ with io.open(out, 'w', encoding='utf-8') as f:
 n_pr = sum(len(p['gyakorlatok']) for p in practices)
 n_kotve = sum(1 for p in practices for g in p['gyakorlatok'] if g['modulok'])
 print('modul-kotes: %d/%d gyakorlat' % (n_kotve, n_pr))
+n_kep = sum(1 for p in practices for g in p['gyakorlatok'] if g.get('kep'))
+print('kep-kotes: %d/%d gyakorlat' % (n_kep, n_pr))
+print('letoltheto: ' + json.dumps(letoltheto, ensure_ascii=False))
 print('%s: %d modules, %d practice packs (%d practices), %d quotes, %.1f MB'
       % (os.path.basename(out), len(modules), len(practices), n_pr, len(quotes),
          os.path.getsize(out) / 1024 / 1024))
