@@ -119,7 +119,9 @@ for m in modules:
 letoltheto['modulHang'] = mh
 # The recordings live on Drive, not here, so their size cannot be measured at
 # build time. Measured once over the Drive folder and written down.
-letoltheto['meditacio'] = load(os.path.join(ROOT, 'tools', 'meditacio-meret.json'))['meditacio']
+med_meret = load(os.path.join(ROOT, 'tools', 'meditacio-meret.json'))
+letoltheto['meditacio'] = med_meret['meditacio']
+letoltheto['meditacioModul'] = med_meret.get('modulonkent', {})
 
 quotes = []
 for path in sorted(glob.glob(os.path.join(ROOT, 'quotes', '*.json'))):
