@@ -39,6 +39,9 @@ practices.sort(key=lambda p: p['id'])
 
 kotes = load(os.path.join(ROOT, 'tools', 'modul-kotes.json'))
 ismert = {m['id'] for m in modules}
+# Modules installed from private Drive bundles: not in the repo, but real
+# on the phone, and a practice may link to the recordings they bring.
+ismert |= set(load(os.path.join(ROOT, 'tools', 'privat-modulok.json'))['modulok'])
 hianyzo = set()
 for pack in practices:
     csomag_modulok = kotes['csomag'].get(pack['id'])

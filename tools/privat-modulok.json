@@ -1,0 +1,8 @@
+{
+ "_": "Modules that live only in private Drive bundles (their audio is the reader's own copy), so build-everything does not see them in the repo. Practices may still name them: the app links a practice to the recordings those modules install.",
+ "modulok": [
+  "bashar-meditations-audio",
+  "acim-hangoskonyv",
+  "ryokah-channeling-hang"
+ ]
+}

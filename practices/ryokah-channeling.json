@@ -1,0 +1,650 @@
+{
+ "formatVersion": 1,
+ "id": "practice-pack-ryokah-channeling",
+ "nevek": {
+  "hu": "Ryokah — Csatornázás",
+  "en": "Ryokah — Channeling"
+ },
+ "audioBase": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/audio/practices",
+ "gyakorlatok": [
+  {
+   "id": "rch-nyito-ritual",
+   "mester": "Ryokah",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Nyitó rituálé: gyökerek és védőgömbök",
+    "en": "Opening ritual: roots and protective spheres"
+   },
+   "cel": {
+    "hu": "Minden csatornázó gyakorlás előtt stabil, biztonságos alapot teremteni: a figyelmet a testbe és a földbe horgonyozni, majd fénygömbökkel kijelölni a saját teredet. Ryokah tanítása szerint minél mélyebbre eresztjük a gyökereinket, annál magasabbra emelkedhetünk.",
+    "en": "To build a stable, safe base before any channeling practice: anchor your attention in the body and the earth, then mark out your own space with spheres of light. In Ryokah's teaching, the deeper we send our roots, the higher we can rise."
+   },
+   "modszer": [
+    {
+     "hu": "1. Ülj le kényelmesen, egyenes háttal. Érintsd a nyelved hegyét a szájpadlásodhoz, és hagyd ott a gyakorlás végéig.",
+     "en": "1. Sit comfortably with a straight back. Touch the tip of your tongue to the roof of your mouth and leave it there until the end of the practice."
+    },
+    {
+     "hu": "2. Vidd a figyelmed a két szemöldököd közötti pontra, és képzelj oda egy ragyogó lila csillagot. Hagyd, hogy a légzéseddel együtt lüktessen: minden lüktetéssel lazul a fejed, a gondolatok pedig szétoszlanak, mint a felhők a napsütésben.",
+     "en": "2. Bring your attention to the point between your eyebrows and imagine a radiant purple star there. Let it pulse with your breathing: each pulse softens your head, and your thoughts disperse like clouds in sunshine."
+    },
+    {
+     "hu": "3. Engedj meg magadnak egy halvány mosolyt. Ezzel azt üzened az idegrendszerednek, hogy biztonságban vagy.",
+     "en": "3. Allow yourself a faint smile. It tells your nervous system that you are safe."
+    },
+    {
+     "hu": "4. Engedd le a fényt a mellkasod közepére, ahol meleg, aranyló nap ragyog. Érezd, ahogy a szívverésed táplálja, és hagyd, hogy szeretet áradjon belőle.",
+     "en": "4. Let the light sink to the centre of your chest, where a warm golden sun is shining. Feel your heartbeat feeding it, and let love flow out from it."
+    },
+    {
+     "hu": "5. Vezesd tovább a fényt a köldököd mögé. Ott egy kicsi, fénylő Föld forog: ez a belső Föld, a horgonyod és a tárolód, amely megtartja a fölötte lévő napot és csillagot.",
+     "en": "5. Guide the light on to just behind your navel. A small, luminous Earth turns there: this is the inner earth, your anchor and your store, holding the sun and the star above it."
+    },
+    {
+     "hu": "6. Áraszd az energiát le a lábadon, amíg mindkét talpadban egy-egy arany örvény nem kavarog.",
+     "en": "6. Let the energy flow down your legs until a golden vortex swirls in the sole of each foot."
+    },
+    {
+     "hu": "7. Belégzéskor gyűjtsd össze az energiát. Kilégzéskor ereszd le a talpadból villámszerű gyökereket mélyen a bolygóba, mélyebbre a szokásosnál. Lásd, ahogy kilométereken át szétágaznak, mint egy idegháló.",
+     "en": "7. On the in-breath, gather the energy. On the out-breath, send roots like lightning from your soles deep into the planet, deeper than usual. See them branch out for miles like a network of nerves."
+    },
+    {
+     "hu": "8. Néhány lélegzeten át szívd fel a föld energiáját a gyökereken át, fel a lábadon és a test középvonalán, egészen a fejtetődig.",
+     "en": "8. For a few breaths, draw the earth's energy up through the roots, up your legs and the midline of your body, all the way to the crown of your head."
+    },
+    {
+     "hu": "9. Térj vissza a szívedben ragyogó naphoz, és vegyél három nyugodt lélegzetet. Az első kilégzéssel egy arany védőgömb tágul ki a tested körül, a másodikkal a szoba (vagy jármű) körül, a harmadikkal az egész épület, telek vagy környezet körül.",
+     "en": "9. Return to the sun in your heart and take three calm breaths. On the first out-breath a golden protective sphere expands around your body, on the second around the room (or vehicle), on the third around the whole building, property or surroundings."
+    },
+    {
+     "hu": "10. Maradj egy percig ebben a rétegzett, nyugodt térben. Ha itt befejezed, zárj a Visszatérés és mentés gyakorlattal; ha folytatod, innen indul minden további gyakorlat.",
+     "en": "10. Stay in this layered, quiet space for a minute. If you stop here, close with the Return and save practice; if you go on, every further practice starts from here."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah képzeleti, testközpontú nyitó rituáléja. A csillag, a nap, a belső Föld és a gyökerek belső képek, amelyek összeszedik a figyelmet és megnyugtatják a testet; a védőgömb a saját határaid tudatos kijelölése. Ryokah a védelmet olyan természetesnek tartja, mint a biztonsági övet: nem félelemből csináljuk, és nem kell gyanakvóvá válni tőle.",
+    "en": "Ryokah's imaginative, body-centred opening ritual. The star, the sun, the inner earth and the roots are inner images that gather attention and settle the body; the protective sphere is a conscious marking of your own boundaries. Ryokah treats protection as something as ordinary as a seatbelt: we do it without fear, and it should not make us suspicious of everything."
+   },
+   "sorszam": 1
+  },
+  {
+   "id": "rch-visszateres-mentes",
+   "mester": "Ryokah",
+   "szint": "kezdo",
+   "sik": "test",
+   "elem": "Fold",
+   "cim": {
+    "hu": "Visszatérés és mentés",
+    "en": "Return and save"
+   },
+   "cel": {
+    "hu": "Minden gyakorlás után biztonságosan, tiszta fejjel visszatérni a hétköznapi éberségbe, és a megélt állapotot egy belső mentés képével lezárni. Érdemes másodikként megtanulni, mert Ryokah minden ülést, minden csatornázást így zár.",
+    "en": "To come back safely and clear-headed into everyday alertness after every practice, and to close the state you experienced with an inner image of saving. Learn it second, because Ryokah ends every session and every channeling this way."
+   },
+   "modszer": [
+    {
+     "hu": "1. Ha csatornáztál, először köszönd meg magadban a lénynek vagy a felsőbb énednek, hogy jelen volt, és jelezd, hogy most befejezed.",
+     "en": "1. If you have been channeling, first thank the being or your higher self inwardly for being present, and signal that you are finishing now."
+    },
+    {
+     "hu": "2. Belégzéskor gyűjtsd össze az összes megmozdult energiát, kilégzéskor pedig vezesd le a köldököd mögötti belső Földbe (a taoista hagyomány alsó dantienjébe). Hagyd ott megpihenni.",
+     "en": "2. On the in-breath, gather all the energy that has been stirred; on the out-breath, guide it down into the inner earth behind your navel (the lower dantian of the Taoist tradition). Let it settle there."
+    },
+    {
+     "hu": "3. Kérd csendben, hogy amit most gyakoroltál, erősödjön tovább, és a tested meg az izommemóriád őrizze meg ezt az érzést és a kapcsolatot.",
+     "en": "3. Ask silently that what you have just practised keeps growing stronger, and that your body and muscle memory keep this feeling and this connection."
+    },
+    {
+     "hu": "4. Képzeld el, hogy megnyomsz egy mentés gombot. Ryokah szerint a gyakorlás innen a háttérben is tovább érik a következő alkalomig.",
+     "en": "4. Imagine pressing a save button. According to Ryokah, from here the practice keeps maturing in the background until next time."
+    },
+    {
+     "hu": "5. Emeld a figyelmed a mellkasodban ragyogó naphoz, majd a szemöldököd közötti lila csillaghoz.",
+     "en": "5. Raise your attention to the sun shining in your chest, then to the purple star between your eyebrows."
+    },
+    {
+     "hu": "6. Csak akkor nyisd ki lassan a szemed, amikor valóban készen állsz.",
+     "en": "6. Open your eyes slowly, and only when you are really ready."
+    },
+    {
+     "hu": "7. Dörzsöld össze a tenyeredet, amíg felmelegszik, tapsolj háromszor, aztán paskold végig a testedet a válladtól a lábfejedig.",
+     "en": "7. Rub your palms together until they are warm, clap three times, then pat your body down from your shoulders to your feet."
+    },
+    {
+     "hu": "8. Mozgasd át a nyakad és a vállad, igyál egy pohár vizet. Csak akkor vezess, vagy kezdj figyelmet igénylő munkába, ha teljesen éber vagy.",
+     "en": "8. Loosen your neck and shoulders and drink a glass of water. Only drive or start work that needs your attention once you are fully alert."
+    }
+   ],
+   "keret": {
+    "hu": "Ez Ryokah lezáró sorrendje. A mentés gomb képe segít határozottan kilépni az elmélyült állapotból, és könnyebben előhívhatóvá teszi a gyakorlás emlékét; nem jelent garantált vagy végleges változást. A taps és a paskolás a testbe való visszatérést szolgálja.",
+    "en": "This is Ryokah's closing sequence. The save-button image helps you step decisively out of the absorbed state and makes the memory of the practice easier to recall; it does not mean a guaranteed or permanent change. The clapping and patting bring you back into the body."
+   },
+   "etika": {
+    "hu": "Ha a gyakorlás után szédülsz, zavartnak vagy szokatlanul nyugtalannak érzed magad, aznap ne folytasd: sétálj, egyél valamit, igyál vizet. Ha az érzés tartósan megmarad, beszélj szakemberrel.",
+    "en": "If you feel dizzy, confused or unusually restless after practice, stop for the day: take a walk, eat something, drink water. If the feeling persists, talk to a professional."
+   },
+   "sorszam": 2
+  },
+  {
+   "id": "rch-kozmikus-emelkedes",
+   "mester": "Ryokah",
+   "szint": "kezdo",
+   "sik": "szellem",
+   "elem": "Eter",
+   "cim": {
+    "hu": "Kozmikus emelkedés és ima a forrásfényhez",
+    "en": "Cosmic ascent and a prayer to the source light"
+   },
+   "cel": {
+    "hu": "A földelt alapról lépcsőről lépcsőre a végtelenig tágítani a figyelmet, ott letenni a legőszintébb kérésedet, majd a fényt lehozni a testbe, miközben a gyökereid végig a földben maradnak.",
+    "en": "From a grounded base, to widen your attention step by step out to the infinite, lay down your most sincere request there, then bring the light down into the body while your roots stay in the earth the whole time."
+   },
+   "modszer": [
+    {
+     "hu": "1. Végezd el a Nyitó rituálét a gyökerekig. A gyökerek a helyükön maradnak, csak a figyelmed indul felfelé.",
+     "en": "1. Do the Opening ritual as far as the roots. The roots stay where they are; only your attention starts to rise."
+    },
+    {
+     "hu": "2. Emeld a figyelmed a fejed fölé, a lélekcsillagba: ez egy fehér, szellemi nap, a felsőbb éned kapuja a világegyetem felé.",
+     "en": "2. Lift your attention above your head into the soul star: a white, spiritual sun, your higher self's gateway to the universe."
+    },
+    {
+     "hu": "3. Emelkedj tovább a felhőkön át a legkékebb égig. Ryokah képében a felhők a magasabb álmaink, amelyek üzeneteket hordoznak.",
+     "en": "3. Rise on through the clouds into the bluest sky. In Ryokah's imagery the clouds are our higher dreams, carrying messages."
+    },
+    {
+     "hu": "4. Érkezz meg az arany-ezüst Holdhoz. Emlékeztessen a természettel való kapcsolatodra, a bolygó ciklusaira, és arra a hosszú útra, amelyet az élet öröksége, a DNS a kozmoszból idáig, a Földig megtett.",
+     "en": "4. Arrive at the gold-and-silver Moon. Let it remind you of your bond with nature, of the planet's cycles, and of the long road life's inheritance, DNA, has travelled from the cosmos to this Earth."
+    },
+    {
+     "hu": "5. Haladj tovább a királyi arany Szaturnuszhoz, a stabilitás, a határok, az idővel való bánni tudás és a maradandó örökség képéhez. Érezd, ahogy megnyugtatja és megszilárdítja az energiatestedet.",
+     "en": "5. Move on to royal golden Saturn, an image of stability, boundaries, mastery of time and a lasting legacy. Feel it calm and steady your energy body."
+    },
+    {
+     "hu": "6. Aztán a Naphoz: itt a magadért és másokért végzett szolgálat egybeolvad a forrás szolgálatával. Ez a megbocsátás és az új hajnal képe; fürödj egy kicsit a melegében.",
+     "en": "6. Then to the Sun: here serving yourself and serving others merge into serving the source. It is an image of forgiveness and a new dawn; bask in its warmth for a while."
+    },
+    {
+     "hu": "7. Onnan a lila Sarkcsillaghoz, amely körül az éjszakai ég minden csillaga az óramutató járásával egyezően kering. Ő az életed csendes megfigyelője.",
+     "en": "7. From there to the purple Pole Star, around which every star of the night sky circles clockwise. It is the quiet observer of your life."
+    },
+    {
+     "hu": "8. Aztán az egész galaxishoz, amely egy fényes középpont körül örvénylik. Minden csillaga olyan, mint egy idegsejt egy kozmikus agyban.",
+     "en": "8. Then to the whole galaxy, swirling around a bright centre. Each of its stars is like a nerve cell in a cosmic brain."
+    },
+    {
+     "hu": "9. Végül mindezen túl: a fehér fény végtelen óceánja, a forrás. Ide tedd le a legmélyebb imádat vagy kérésedet saját szavaiddal, érezz hálát, és idézd fel, hogy mindig is kapcsolódtál.",
+     "en": "9. Finally, beyond all of it: the endless ocean of white light, the source. Lay your deepest prayer or request here in your own words, feel gratitude, and recall that you have always been connected."
+    },
+    {
+     "hu": "10. Belégzéskor az óceán felragyog. Kilégzéskor egy fénysugár (vízesés, oszlop vagy villám) ereszkedik le a világegyetemen át, belép a fejtetődön, végigfut a középcsatornádon, és lehorgonyoz a belső Földben. Érezd a hármasságot: föld alattad, kozmosz fölötted, szeretet benned.",
+     "en": "10. On the in-breath the ocean brightens. On the out-breath a beam of light (a waterfall, a pillar or a lightning bolt) comes down through the universe, enters your crown, runs down your central channel and anchors in the inner earth. Feel the three together: earth below you, cosmos above, love within."
+    },
+    {
+     "hu": "11. Térj vissza a szívedben ragyogó naphoz. Ha a Nyitó rituáléban még nem tetted meg, most három nyugodt kilégzéssel tágítsd ki az arany védőgömböket: a tested, a helyiség, végül az egész épület köré; a tréningben is itt kerülnek sorra. Aztán zárj a Visszatérés és mentés gyakorlattal.",
+     "en": "11. Return to the sun in your heart. If you did not do it in the Opening ritual, expand the golden protective spheres now over three calm out-breaths: around your body, the room, then the whole building; this is where they come in the training too. Then close with the Return and save practice."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah vezetett képzeleti utazása. Az égitestek itt jelképek, mindegyik egy belső minőséget hív elő (ciklus, stabilitás, szolgálat, rálátás); nem csillagászati vagy asztrológiai állítások. Az emelkedés a figyelem tágítása, az ima a saját szándékod megfogalmazása, nem pedig válaszgarancia.",
+    "en": "A guided imaginative journey by Ryokah. The celestial bodies are symbols here, each evoking an inner quality (cycle, stability, service, perspective); they are not astronomical or astrological claims. The ascent is a widening of attention, and the prayer is a way of putting your own intention into words, not a guarantee of an answer."
+   },
+   "sorszam": 3
+  },
+  {
+   "id": "rch-erzekek-hangolasa",
+   "mester": "Ryokah",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "cim": {
+    "hu": "Az öt finom érzék felhangolása",
+    "en": "Tuning up the five subtle senses"
+   },
+   "cel": {
+    "hu": "Képzeleti gyakorlattal ráhangolni a figyelmet arra az öt finom észlelésmódra, amelyen át Ryokah szerint a csatornázott anyag érkezik, és megadni magadnak az engedélyt a csatornázásra, külső jóváhagyásra várás nélkül.",
+    "en": "To use an imaginative exercise to tune your attention to the five subtle ways of perceiving through which, according to Ryokah, channeled material arrives, and to give yourself permission to channel without waiting for anyone's approval."
+   },
+   "modszer": [
+    {
+     "hu": "1. Végezd el a Nyitó rituálét és a Kozmikus emelkedést, hogy a forrásfény már a belső Földben horgonyozzon.",
+     "en": "1. Do the Opening ritual and the Cosmic ascent so that the source light is already anchored in the inner earth."
+    },
+    {
+     "hu": "2. Fül, kék: lásd mindkét füledet királykéken izzani. Képzelj el egy kart, gombot vagy csúszkát a tisztánhallás számára, és állítsd feljebb. Aztán horgonyozd a füledet a két vesédbe, amelyek szintén kéken világítanak, és ott is állítsd feljebb.",
+     "en": "2. Ears, blue: see both ears glowing royal blue. Imagine a lever, button or slider for clairaudience and turn it up. Then anchor your ears into your two kidneys, which glow blue as well, and turn it up there too."
+    },
+    {
+     "hu": "3. Nyelv, vörös: a nyelved a szájpadláson marad, és energetikailag a homlokod csillagáig ér. Lásd vörösen izzani, és állítsd feljebb a tisztántudást, a beszédet és a hangos csatornázás tisztaságát. Horgonyozd a szíved közepébe, és ott is erősítsd meg.",
+     "en": "3. Tongue, red: your tongue stays on the palate and reaches energetically up to the star at your brow. See it glow red and turn up claircognizance, speech and the clarity of vocal channeling. Anchor it into the centre of your heart and reinforce it there."
+    },
+    {
+     "hu": "4. Szem, zöld: lásd a szemedet élénkzölden ragyogni, és kapcsold be teljesen a tisztánlátást. Horgonyozd le a jobb oldaladon lévő májadba, és ott is erősítsd meg.",
+     "en": "4. Eyes, green: see your eyes shining vivid green and switch clairvoyance fully on. Anchor them down into your liver on the right and reinforce it there."
+    },
+    {
+     "hu": "5. Orr, gyémántfehér: lásd az orrodat fehéren ragyogni, és kapcsold be a nyomkövető érzéket (Ryokah szavával clairkinesthesia): az energia áramlatainak és nyomainak követését térben és időben. Horgonyozd a két orrlyukon át a két tüdődbe, és erősítsd meg.",
+     "en": "5. Nose, diamond white: see your nose shining white and switch on the tracking sense (Ryokah's word is clairkinesthesia): following currents and trails of energy through space and time. Anchor it through both nostrils into both lungs and reinforce it."
+    },
+    {
+     "hu": "6. Ajkak, arany: lásd az ajkadat aranyban ragyogni, és kapcsold be a tisztánérzést, a finom energiák testi érzékelését. Horgonyozd le a bal oldaladon lévő lépedbe, és erősítsd meg.",
+     "en": "6. Lips, gold: see your lips shining gold and switch on clairsentience, feeling subtle energy in the body. Anchor them down into your spleen on the left and reinforce it."
+    },
+    {
+     "hu": "7. Lásd együtt az öt színes gömböt: vörös szív, sárga lép, fehér tüdő, kék vesék, zöld máj. Engedd, hogy mind az öt beáramoljon a belső Földbe, amely a kristályaiban tárolja a beállításokat, akár egy akkumulátor.",
+     "en": "7. See the five coloured spheres together: red heart, yellow spleen, white lungs, blue kidneys, green liver. Let all five flow into the inner earth, whose crystals store the settings like a battery."
+    },
+    {
+     "hu": "8. Tedd a tenyeredet a köldöködre, helyezkedj el kényelmesen (hátra is dőlhetsz), és minden kilégzéssel engedj el egy kevés feszültséget, a lábfejedtől a fejtetődig haladva.",
+     "en": "8. Rest your palms on your navel, settle in comfortably (you may recline), and with each out-breath release a little tension, moving from your feet up to the top of your head."
+    },
+    {
+     "hu": "9. Ebben az ellazult állapotban mondd magadban, saját szavaiddal, jelen időben, hogy engedélyt adsz magadnak a csatornázásra, elengeded és megbocsátod a régi bizonytalanságot, és a képességed és a bizalmad napról napra nő. Elég egy-két mondat, ami igaz neked.",
+     "en": "9. In this relaxed state, tell yourself in your own words, in the present tense, that you give yourself permission to channel, that you release and forgive the old uncertainty, and that your skill and confidence grow day by day. One or two sentences that ring true for you are enough."
+    },
+    {
+     "hu": "10. Zárj a Visszatérés és mentés gyakorlattal.",
+     "en": "10. Close with the Return and save practice."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah ezt az idegrendszer átprogramozásának nevezi; pontosabban fogalmazva képzeleti és önszuggesztiós gyakorlat, amely a figyelmet a finom benyomásokra irányítja, és oldja a belső gátlást. A szerv, szín és érzék párosítása a taoista ötelem-hagyomány jelképrendszeréből ered (Tyler Ellison, Ryokah csatornája, a Universal Healing Tao oktatója); ezek nem élettani állítások, és a gyakorlat semmilyen szervet nem gyógyít.",
+    "en": "Ryokah calls this a rewiring of the nervous system; put more accurately, it is an imaginative and self-suggestion exercise that directs attention to subtle impressions and eases inner inhibition. The pairing of organ, colour and sense comes from the symbolism of the Taoist five-element tradition (Tyler Ellison, who channels Ryokah, is an instructor in the Universal Healing Tao); these are not physiological claims, and the practice heals no organ."
+   },
+   "sorszam": 4
+  },
+  {
+   "id": "rch-automatikus-iras",
+   "mester": "Ryokah",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Viz",
+   "cim": {
+    "hu": "Automatikus írás a felsőbb éntől",
+    "en": "Automatic writing from the higher self"
+   },
+   "cel": {
+    "hu": "Az első kézzelfogható csatornázási tapasztalat: szándékkal megnyitni egy írásfolyamot, és cenzúra nélkül leírni, ami jön. Ryokah szerint aki így üzenetet kap, az már csatornáz.",
+    "en": "A first, tangible experience of channeling: open a stream of writing with a clear intention and write down whatever comes, without censoring it. In Ryokah's view, anyone who receives a message this way is already channeling."
+   },
+   "modszer": [
+    {
+     "hu": "1. Készíts elő egy füzetet és egy tollat. Egy új oldal tetejére írd fel: Automatikus írás, 1. gyakorlat, és mellé a dátumot.",
+     "en": "1. Have a notebook and pen ready. At the top of a fresh page write: Automatic writing, exercise 1, with the date."
+    },
+    {
+     "hu": "2. Végezd el a Nyitó rituálét a védőgömbökig; ha van időd, a Kozmikus emelkedést is.",
+     "en": "2. Do the Opening ritual up to the protective spheres; if you have time, the Cosmic ascent as well."
+    },
+    {
+     "hu": "3. Fogd a tollat, emeld magasra, és rajzolj vele a levegőbe lassú köröket, az óramutató járásával egyezően.",
+     "en": "3. Take the pen, hold it up high and draw slow clockwise circles in the air with it."
+    },
+    {
+     "hu": "4. Idézd fel a fenti kapcsolatodat, és érezd, ahogy energia áramlik le, és körbefonja a tollat, a kezedet, a csuklódat, az alkarod és a felkarod csontjait, a neked kedves színben: fehérben, aranyban vagy lilában.",
+     "en": "4. Recall your connection above and feel energy flowing down and wrapping around the pen, your hand, your wrist and the bones of your forearm and upper arm, in the colour you prefer: white, gold or purple."
+    },
+    {
+     "hu": "5. Nyitott szívvel fogalmazd meg a szándékodat a saját szavaiddal, például: azokat az üzeneteket kérem a felsőbb énemtől, amelyek most a javamat szolgálják.",
+     "en": "5. With an open heart, put your intention into your own words, for example: I ask my higher self for the messages that serve my good right now."
+    },
+    {
+     "hu": "6. Mondj köszönetet a világegyetemnek, a felsőbb énednek és a segítőidnek.",
+     "en": "6. Give thanks to the universe, to your higher self and to your helpers."
+    },
+    {
+     "hu": "7. Várj, amíg rezgést, bizsergést vagy melegséget érzel. Tyler Ellison, Ryokah csatornája, a tenyerében érzi; nálad lehet, hogy az ujjaidban. Ha egy perc után sem jön semmi különös, kezdd el akkor is.",
+     "en": "7. Wait until you feel a vibration, tingling or warmth. Tyler Ellison, who channels Ryokah, feels it in his palm; for you it may be in your fingers. If nothing special comes after a minute, begin anyway."
+    },
+    {
+     "hu": "8. Érintsd a tollat a papírhoz, és írj megállás, javítás és cenzúra nélkül, nagyjából öt percig. Ha elakadsz, írd le újra az utolsó szót, amíg tovább nem lendül.",
+     "en": "8. Touch the pen to the paper and write without stopping, correcting or censoring, for about five minutes. If you get stuck, write the last word again until it moves on."
+    },
+    {
+     "hu": "9. Tedd le a tollat, és zárj a Visszatérés és mentés gyakorlattal. Csak ezután olvasd el, amit írtál.",
+     "en": "9. Put the pen down and close with the Return and save practice. Only then read what you wrote."
+    },
+    {
+     "hu": "10. Olvasd el nyugodtan, és jegyezd fel mellé, mi volt meglepő, mi ismerős, és mi tűnik a saját gondolatodnak. Ne dönts el semmit azonnal; néhány nap múlva olvasd újra.",
+     "en": "10. Read it calmly and note beside it what surprised you, what felt familiar and what seems to be your own thinking. Don't decide anything straight away; read it again a few days later."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah gyakorlata. Az automatikus írás a tudatos kontroll lazításával az intuitív, kevésbé tudatos anyagot is felszínre engedi. Hogy ebből mi a felsőbb énedé és mi a saját gondolatod, azt nem lehet biztosan eldönteni, és nem is szükséges; tekintsd belső párbeszédnek és tükörnek, ne tévedhetetlen kinyilatkoztatásnak.",
+    "en": "A practice taught by Ryokah. By loosening conscious control, automatic writing lets intuitive, less conscious material surface as well. Which part comes from your higher self and which is your own thinking cannot be settled for certain, and it doesn't need to be; treat it as an inner dialogue and a mirror, not as infallible revelation."
+   },
+   "etika": {
+    "hu": "Az így kapott szöveg alapján ne hozz egészségügyi, jogi vagy pénzügyi döntést, és fontos életdöntést se bízz egyetlen írásra. Ha a szöveg félelemkeltő, parancsoló vagy bántó hangot üt meg, hagyd abba, földelj, és aznap ne folytasd.",
+    "en": "Don't base medical, legal or financial decisions on writing received this way, and don't leave an important life decision to a single session. If the text turns frightening, commanding or hurtful, stop, ground yourself and leave it for the day."
+   },
+   "sorszam": 5
+  },
+  {
+   "id": "rch-vezeto-rajzolasa",
+   "mester": "Ryokah",
+   "szint": "kezdo",
+   "sik": "lelek",
+   "elem": "Tuz",
+   "cim": {
+    "hu": "A vezető megrajzolása (automatikus illusztráció)",
+    "en": "Drawing your guide (automatic illustration)"
+   },
+   "cel": {
+    "hu": "A képi csatornán keresztül közeledni a vezetődhöz, legyen az egy már ismert vezető, egy új, vagy egy ismert vezető új arca. Rajztehetség nem kell hozzá.",
+    "en": "To approach your guide through the visual channel, whether a guide you already know, a new one, or a new face of a familiar one. No talent for drawing is needed."
+   },
+   "modszer": [
+    {
+     "hu": "1. Lapozz egy új oldalra, és írd fel a tetejére: Automatikus illusztráció. A vonal lehet ügyetlen, a képnek nem kell szépnek lennie.",
+     "en": "1. Turn to a new page and write at the top: Automatic illustration. The lines may be clumsy; the picture doesn't need to be pretty."
+    },
+    {
+     "hu": "2. Végezd el a Nyitó rituálét. Ha az automatikus írás után folytatod, elég felfrissíteni a gyökereket és a védőgömböt.",
+     "en": "2. Do the Opening ritual. If you are continuing after automatic writing, it is enough to refresh the roots and the protective sphere."
+    },
+    {
+     "hu": "3. Emeld fel a tollat, rajzolj vele köröket a levegőbe, és érezd, ahogy a kozmikus energia leáramlik a tollra, a kezed, a csuklód és a karod csontjaira.",
+     "en": "3. Raise the pen, draw circles in the air and feel cosmic energy flowing down onto the pen and the bones of your hand, wrist and arm."
+    },
+    {
+     "hu": "4. Érintsd meg a szívközpontodat, és mondd ki a szándékodat saját szavaiddal: szeretném lerajzolni a csatornázásban segítő vezetőm képét. Mondj négyszer köszönetet.",
+     "en": "4. Touch your heart centre and state your intention in your own words: I would like to draw the image of the guide who helps me channel. Say thank you four times."
+    },
+    {
+     "hu": "5. Amikor érzed, hogy az energia megmozdul (Tyler Ellison, Ryokah csatornája, úgy éli meg, mintha a tenyere közepe kinyílna), kezdj el rajzolni.",
+     "en": "5. When you feel the energy stir (Tyler Ellison, who channels Ryokah, experiences it as the centre of his palm opening), start drawing."
+    },
+    {
+     "hu": "6. Kezdhetsz firkával, és rajzolj addig, amíg vonások nem bontakoznak ki. Amikor Tyler Ibizán így rajzolt, előbb egy szem jelent meg, aztán egy másik, egy orr, végül egy arc. Ha belső képet látsz, rajzold rögtön azt.",
+     "en": "6. You can start with a scribble and keep drawing until features emerge. When Tyler drew this way in Ibiza, an eye appeared first, then a second, a nose, and finally a face. If you see an inner image, draw that straight away."
+    },
+    {
+     "hu": "7. Rajzolj körülbelül tíz percig, ítélkezés nélkül.",
+     "en": "7. Draw for about ten minutes without judging."
+    },
+    {
+     "hu": "8. Amikor a kép késznek érződik, kérdezd meg a nevét. Ha jön egy név, írd ugyanarra az oldalra a kép mellé; ha nem jön, az is rendben van.",
+     "en": "8. When the picture feels complete, ask for its name. If a name comes, write it on the same page beside the picture; if none comes, that's fine too."
+    },
+    {
+     "hu": "9. Zárj a Visszatérés és mentés gyakorlattal, majd jegyezd fel, milyen volt rajzolni, és milyen most ránézni a képre.",
+     "en": "9. Close with the Return and save practice, then note what drawing felt like and what it is like to look at the picture now."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah gyakorlata. A rajz a képzelet és az intuíció kifejezése. A képet és a nevet kezeld belső jelképként, amely a későbbi ráhangolódásban segíthet, ne egy külső lény igazolt portréjaként.",
+    "en": "A practice taught by Ryokah. The drawing is an expression of imagination and intuition. Treat the picture and the name as inner symbols that can help you attune later, not as a verified portrait of an outside being."
+   },
+   "sorszam": 6
+  },
+  {
+   "id": "rch-keret-es-hangolodas",
+   "mester": "Ryokah",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Szerep, keret és ráhangolódás egy lényre",
+    "en": "Role, frame and attuning to a being"
+   },
+   "cel": {
+    "hu": "Csatornázás előtt tisztázni, kinek a nevében és milyen belső tartásban szólalsz meg: kiválasztani a forrást (a felsőbb énedet vagy egy konkrét lényt), a segítő szerepet és a hozzá illő keretet, és megismerni a lény jellegzetes rezgését, mielőtt beszélni kezdesz.",
+    "en": "Before channeling, to get clear on whose behalf you will speak and from what inner stance: choose the source (your higher self or a specific being), the helping role and a frame to suit it, and get to know the being's characteristic vibration before you start to speak."
+   },
+   "modszer": [
+    {
+     "hu": "1. Döntsd el, kit csatornázol. Ha nincs konkrét lényed, dolgozz a felsőbb éneddel. Ryokah szerint ugyanakkora tisztelet illeti, mint bármely más lényt, és egyfajta parabolaantennaként másoktól is fogad.",
+     "en": "1. Decide whom you will channel. If you have no specific being, work with your higher self. According to Ryokah it deserves the same respect as any other being, and it also receives from others, a kind of satellite dish."
+    },
+    {
+     "hu": "2. Ha konkrét lényt választasz, válassz tudatosan, ne nyílj meg arra, aki éppen jön. Forrás lehet egy angyalokról szóló kézikönyv, csillaglények leírása, de egy növény vagy kristály is. Tanulmányozd a hozzá tartozó színeket, bolygókat, elemeket.",
+     "en": "2. If you choose a specific being, choose deliberately rather than opening up to whoever happens to come. Sources may be a handbook on angels or descriptions of star beings, or even a plant or a crystal. Study the colours, planets and elements that belong to it."
+    },
+    {
+     "hu": "3. Ne emeld piedesztálra. Ryokah szerint akit magad fölé emelsz, azt nem tudod magadba fogadni.",
+     "en": "3. Don't put it on a pedestal. According to Ryokah, a being you raise high above yourself is one you cannot take in."
+    },
+    {
+     "hu": "4. Hangolódj rá, mielőtt csatornázod: érzékeld távolról az energiáját és alakját, a hangját, az érzelmeit, a meggyőződései minőségét, és pillants bele egy kicsit a tapasztalataiba, ahogy egy embert ismersz meg közelről. Ebből rajzolódik ki a jellegzetes rezgése.",
+     "en": "4. Attune to it before you channel it: sense its energy and form from a distance, its voice, its emotions, the quality of its beliefs, and glimpse a little of its experiences, the way you get to know a person closely. Its characteristic vibration takes shape from this."
+    },
+    {
+     "hu": "5. Engedd el előre, amit a csatornázásról tudni vélsz: mások csatornázásait, az elvárásaidat arról, hogyan kellene szólnia. Ryokah ezeket korlátozó forgatókönyveknek tartja; ami valóban kell a tudásodból, az úgyis elérhető marad.",
+     "en": "5. Let go in advance of what you think you know about channeling: other people's channelings, your expectations of how it ought to sound. Ryokah sees these as limiting scripts; whatever you truly need from your knowledge will still be there."
+    },
+    {
+     "hu": "6. Fogalmazd meg a szerepedet: azért beszélsz, hogy segíts annak, aki veled szemben ül, ahogy egy barátodnak segítesz a nézőpontoddal, nem azért, hogy bölcsnek vagy lenyűgözőnek tűnj.",
+     "en": "6. Put your role into words: you speak to help the person in front of you, the way you help a friend with your perspective, not to seem wise or impressive."
+    },
+    {
+     "hu": "7. Válassz keretet, vagyis archetipikus tartást, amelyből ezt a szerepet játszod: anyai, apai vagy gyermeki. Az apai keret a provokáló, támadó hangokat is jóindulatú derűvel kezeli, a gyermeki játékos, és átlát a mellébeszélésen. Ryokah szerint a spirituális tanító vagy vezető kerete kevésbé tartós és kevésbé véd, mert irigységet és kihívást vonz.",
+     "en": "7. Choose a frame, an archetypal stance from which to play the role: maternal, paternal or childlike. The paternal frame meets provoking or hostile voices with good-humoured warmth; the childlike frame is playful and sees through pretence. According to Ryokah the frame of the spiritual teacher or leader holds up less well and protects less, because it draws envy and challenge."
+    },
+    {
+     "hu": "8. Csatornázás közben figyeld a különbséget: ha valami szereplésnek, a figyelem megszerzésének érződik, az valószínűleg már te vagy. Lépj hátrébb, hogy a lény maradjon a középpontban.",
+     "en": "8. While channeling, notice the difference: if something feels like performing or like grabbing attention, it is probably you. Step back so the being stays at the centre."
+    },
+    {
+     "hu": "9. Ha egy kérdés a saját érzelmeidet vagy meggyőződéseidet kavarja fel, nyugtázd, mondd neki magadban, hogy most nem, és vedd vissza a keretet.",
+     "en": "9. If a question stirs your own emotions or beliefs, acknowledge it, tell it inwardly 'not now', and take up the frame again."
+    },
+    {
+     "hu": "10. A gyakorlás előtt írd a naplódba a forrást, a szerepet és a keretet, a végén pedig zárj a Visszatérés és mentés gyakorlattal.",
+     "en": "10. Before you practise, write the source, the role and the frame in your journal, and at the end close with the Return and save practice."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah tanítása a csatornázás belső tartásáról. A keret lélektani szerepvállalás, amely nyugalmat, együttérzést és határokat ad; a ráhangolódás képzeleti ismerkedés. Hogy a lény önálló létező-e vagy a psziché egyik arca, azt a gyakorlat nem dönti el; értékét a tisztaságán és a hatásán mérd.",
+    "en": "Ryokah's teaching on the inner stance of channeling. The frame is a psychological role that gives calm, compassion and boundaries; attuning is an imaginative getting-to-know. Whether the being exists independently or is one face of the psyche, the practice does not settle; judge its worth by its clarity and its effects."
+   },
+   "etika": {
+    "hu": "Ryokah figyelmeztetése szerint ne nyílj meg válogatás nélkül bárkinek, és ne csatornázz frissen elhunytakat, például olyan hírességeket, akiket még el sem temettek; és amit a lelkiismereted távolbalátásként sem engedne (például valaki magánszférájába való betolakodást), azt csatornázásként se tedd. Ha valami ellenségesnek vagy megfélemlítőnek érződik, szakítsd meg, földelj és zárj. Azt is vedd számításba, hogy a látszólagos támadás sokszor a saját árnyékod vagy feszült idegrendszered jelzése.",
+    "en": "As Ryokah warns, don't open yourself indiscriminately to anyone, and don't channel the recently deceased, such as celebrities who have not even been buried yet; whatever your conscience would not allow as remote viewing (intruding on someone's privacy, for instance), don't do as channeling either. If something feels hostile or intimidating, break off, ground yourself and close. Bear in mind too that an apparent attack is often a signal from your own shadow or a tense nervous system."
+   },
+   "sorszam": 7
+  },
+  {
+   "id": "rch-csatorna-allapot",
+   "mester": "Ryokah",
+   "szint": "halado",
+   "sik": "lelek",
+   "elem": "Eter",
+   "cim": {
+    "hu": "A csatornázó állapot felépítése csakráról csakrára",
+    "en": "Building the channeling state, chakra by chakra"
+   },
+   "cel": {
+    "hu": "Felépíteni a hangos csatornázáshoz szükséges állapotot: a választott forrás képét a fejed fölé helyezni, a fényét csakráról csakrára lehozni, amíg a jelenlétét benned és körülötted is érzed, majd egy meleg köszöntéssel megnyitni a beszédet.",
+    "en": "To build the state needed for vocal channeling: place the image of your chosen source above your head, bring its light down chakra by chakra until you feel its presence within you and around you, then open the speaking with a warm greeting."
+   },
+   "modszer": [
+    {
+     "hu": "1. Nyelv a szájpadláson. Frissítsd fel a jelképeket: lila csillag a homlokon, arany nap a mellkasban, belső Föld a köldök mögött, mély gyökerek, és a gáttól a fejtetőig világító középcsatorna.",
+     "en": "1. Tongue on the palate. Refresh the symbols: purple star at the brow, golden sun in the chest, inner earth behind the navel, deep roots, and the central channel glowing from perineum to crown."
+    },
+    {
+     "hu": "2. Ha a felsőbb énedet csatornázod, lásd a fejed fölötti lélekcsillagban egy gyémántfehér lótuszt, a közepén a saját arcoddal. Ha egy lényt, akkor a lélekcsillag fölötti szellemcsillagban lásd a lótuszt, benne a lény arcával.",
+     "en": "2. If you are channeling your higher self, see a diamond-white lotus in the soul star above your head, with your own face at its centre. If you are channeling a being, see the lotus in the spirit star just above the soul star, holding the being's face."
+    },
+    {
+     "hu": "3. Emelkedj fel röviden a Kozmikus emelkedés lépcsőin (ég, Hold, Szaturnusz, Nap, Sarkcsillag, galaxis) a forrásfényig.",
+     "en": "3. Rise briefly through the steps of the Cosmic ascent (sky, Moon, Saturn, Sun, Pole Star, galaxy) up to the source light."
+    },
+    {
+     "hu": "4. Mondj egy rövid imát saját szavaiddal: legyen a csatornázásod tiszta, erős és felemelő, és hozzon békét neked, a barátaidnak és mindenkinek, aki békére vágyik. Köszönd meg.",
+     "en": "4. Say a short prayer in your own words: may your channeling be clear, strong and uplifting, and may it bring peace to you, your friends and everyone who longs for peace. Give thanks."
+    },
+    {
+     "hu": "5. Engedd le a fehér fény vízesését. Ha lényt csatornázol, előbb a szellemcsillagba kapcsolódik, amely felragyog, aztán a lélekcsillagba.",
+     "en": "5. Let the waterfall of white light come down. If you are channeling a being, it connects to the spirit star first, which lights up, and then to the soul star."
+    },
+    {
+     "hu": "6. Vezesd le a fejtetődbe, és lásd ott a lény (vagy a felsőbb éned) képét lótuszportréként.",
+     "en": "6. Bring it down into your crown and see the image of the being (or your higher self) there as a lotus portrait."
+    },
+    {
+     "hu": "7. Haladj lefelé a középcsatornában, minden központ elejét és hátulját feltöltve, és mindegyikben lásd ugyanazt az arcot: harmadik szem, torok, szív, napfonat, köldök, szeméremcsont és keresztcsont, gát.",
+     "en": "7. Move down the central channel, filling the front and back of each centre and seeing the same face in each: third eye, throat, heart, solar plexus, navel, pubic bone and sacrum, perineum."
+    },
+    {
+     "hu": "8. Lélegezz természetesen, hogy a csakrák megteljenek fénnyel. Három kilégzéssel tágítsd ki belőlük az aurádat, amíg három rétegben körülölel a fény. Ryokah szerint ilyenkor nemcsak a lény van benned, hanem te is őbenne.",
+     "en": "8. Breathe naturally so the chakras fill with light. Over three out-breaths, expand your aura out from them until the light surrounds you in three layers. As Ryokah puts it, now the being is not only within you; you are also nestled within it."
+    },
+    {
+     "hu": "9. Vidd a figyelmed a torkodra. Idézd fel, milyen érzés volt segíteni valakinek, és milyen volt az automatikus írás és a rajzolás közben: most ugyanaz a képesség szólal meg hanggal.",
+     "en": "9. Bring your attention to your throat. Recall what it felt like to help someone, and what it felt like during the automatic writing and drawing: the same ability is now about to speak aloud."
+    },
+    {
+     "hu": "10. Képzelj el egy hangerőszabályzót: a lény vagy a felsőbb éned hangját tekerd fel, a személyes énedét halkítsd le.",
+     "en": "10. Imagine a volume dial: turn the voice of the being or your higher self up, and your personal self's voice down."
+    },
+    {
+     "hu": "11. Nyisd ki annyira a szemed, hogy lásd a partneredet (vagy a felvevőt), és amikor készen állsz, köszöntsd melegen, a lényként, első személyben. Innen a Hangos csatornázás párban vagy az Önálló ülés két eszközzel gyakorlat folytatódik; a végén mindig Visszatérés és mentés következik.",
+     "en": "11. Open your eyes just enough to see your partner (or the recorder) and, when you are ready, greet them warmly as the being. From here, continue with Vocal channeling in pairs or Solo session with two devices; always finish with Return and save."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah indukciója. A lótusz, a fényvízesés és a hangerőszabályzó képzeleti eszközök, amelyek enyhe vagy közepes transzszerű összpontosítást hoznak létre. Ryokah szerint ennyi elég; a teljes öntudatlanság nem cél, és a legtöbb csatornázó félig tudatos marad: Tyler Ellison, Ryokah csatornája is csak töredékesen emlékszik utólag arra, ami az üléseken elhangzott. A gyakorlat nem garantálja, hogy egy külső lény valóban megszólal.",
+    "en": "Ryokah's induction. The lotus, the waterfall of light and the volume dial are imaginative tools that create a light to medium trance-like focus. According to Ryokah that is enough; complete unconsciousness is not the aim, most channels stay half-aware: Tyler Ellison, who channels Ryokah, also remembers only fragments of what was said in his sessions. The practice does not guarantee that an outside being will actually speak."
+   },
+   "etika": {
+    "hu": "Ne gyakorold, ha hajlamos vagy disszociatív élményekre, pszichózisra vagy súlyos szorongásra, vagy ha a módosult tudatállapot korábban megviselt; ilyenkor előbb beszélj szakemberrel. Soha ne végezd vezetés vagy gépkezelés közben, és mindig zárj a Visszatérés és mentés gyakorlattal.",
+    "en": "Don't practise this if you are prone to dissociation, psychosis or severe anxiety, or if altered states have unsettled you before; talk to a professional first. Never do it while driving or operating machinery, and always close with the Return and save practice."
+   },
+   "sorszam": 8
+  },
+  {
+   "id": "rch-hangos-csatornazas-parban",
+   "mester": "Ryokah",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Levego",
+   "cim": {
+    "hu": "Hangos csatornázás párban: csatornázó és kérdező",
+    "en": "Vocal channeling in pairs: channel and interviewer"
+   },
+   "cel": {
+    "hu": "Az első hangos csatornázás biztonságos, kölcsönös keretben: az egyik fél csatornáz, a másik kérdez, aztán szerepet cserélnek. Bashar nyomán Ryokah is úgy tanítja, hogy a kérdező jelenléte földeli az áramkört, így a szavak könnyebben folynak.",
+    "en": "A first vocal channeling within a safe, mutual setting: one person channels, the other asks, then you swap roles. Following Bashar, Ryokah also teaches that the interviewer's presence grounds the circuit, so the words flow more easily."
+   },
+   "modszer": [
+    {
+     "hu": "1. Előre egyezzetek meg, ki csatornáz először és mennyi ideig (kb. tíz percig), és abban, hogy bármelyikőtök bármikor megállíthatja az ülést. Online gyakorlásnál a csatornázó a megszólalás előtt kapcsolja be a mikrofonját; az elmélyült állapotban is lehet mozogni és gombot nyomni.",
+     "en": "1. Agree beforehand who channels first and for how long (about ten minutes), and that either of you can stop the session at any time. When practising online, the channel unmutes before speaking; you can still move and press buttons in the absorbed state."
+    },
+    {
+     "hu": "2. A kérdező írjon elő négy-hat nyitott kérdést. Jó kezdő kérdések: mesélj magadról; milyen az élet ott, ahonnan jössz; mit érdemes most tudnom az utamról; milyen üzenetet hozol ennek a csoportnak.",
+     "en": "2. The interviewer writes four to six open questions in advance. Good first questions: tell me about yourself; what is life like where you come from; what is worth knowing about my path right now; what message do you bring this group."
+    },
+    {
+     "hu": "3. A csatornázó a Szerep, keret és ráhangolódás gyakorlat szerint tisztázza a forrását és a keretét, majd felépíti a csatornázó állapotot.",
+     "en": "3. The channel clarifies their source and frame as in the Role, frame and attuning practice, then builds the channeling state."
+    },
+    {
+     "hu": "4. Amikor kész, nyissa meg a beszélgetést meleg köszöntéssel, a lényként, és kérdezze meg, miben lehet a partnere szolgálatára. Ne várja, hogy a beszéd magától induljon: az első néhány mondatnál még neki kell elrugaszkodnia, a valódi áramlás gyakran csak utána jön.",
+     "en": "4. When ready, the channel opens the conversation with a warm greeting as the being and asks how it can be of service to the partner. They shouldn't wait for the speech to start on its own: the first few sentences are still their own leap, and the real flow often comes after them."
+    },
+    {
+     "hu": "5. Ha erőltetettnek érzi, mintha csak ő maga beszélne, ne álljon meg. Lépjen bele, ahogy egy jó színész mondja a szerepe sorait, és közben átveszi a szereplő hangját.",
+     "en": "5. If it feels forced, as if they were only talking as themselves, they shouldn't stop. They step into it, the way a good actor speaks a character's lines and, in doing so, takes on the character's voice."
+    },
+    {
+     "hu": "6. A kérdező válaszoljon a köszöntésre, és tegye fel a kérdéseit egyenként, türelmesen kivárva a csendeket. Ülés közben ne vitatkozzon és ne értékeljen; arra a végén lesz idő.",
+     "en": "6. The interviewer answers the greeting and asks the questions one at a time, patiently waiting through the silences. No arguing or judging during the session; there is time for that at the end."
+    },
+    {
+     "hu": "7. Ha a csatornázót egy kérdés személyesen felkavarja, nyugtázza magában, és vegye vissza a keretet. Ha nem megy, nyugodtan zárja le az ülést.",
+     "en": "7. If a question stirs the channel personally, they acknowledge it inwardly and take up the frame again. If that doesn't work, it is fine to close the session."
+    },
+    {
+     "hu": "8. A végén a csatornázó köszönje meg a lénynek a jelenlétét, gyűjtse az energiát a belső Földbe, mentsen, tapsoljon, és paskolja végig magát (Visszatérés és mentés). Ha kell, a kérdező vezesse végig ezen.",
+     "en": "8. At the end the channel thanks the being, gathers the energy into the inner earth, saves, claps and pats down (Return and save). If needed, the interviewer talks them through it."
+    },
+    {
+     "hu": "9. Rögzítsétek a beszélgetést (csak közös engedéllyel), vagy jegyzeteljetek, aztán beszéljétek meg: mi volt pontos, mi hasznos, és mi tűnt a csatornázó saját hangjának. Ezután cseréljetek szerepet.",
+     "en": "9. Record the conversation (only with mutual consent) or take notes, then talk it over: what was accurate, what was useful, and what seemed to be the channel's own voice. Then swap roles."
+    },
+    {
+     "hu": "10. Gyakoroljatok rendszeresen. Ryokah szerint már napi húsz perc is sokat számít, és váltakozó partnerekkel tovább finomodik a készség.",
+     "en": "10. Practise regularly. According to Ryokah, even twenty minutes a day makes a big difference, and the skill keeps refining with changing partners."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah képzésének gyakorló formája. A csatornázott válaszokat belső, intuitív anyagként kezeld, ne tényként vagy jóslatként; a pontosságot a megbeszélés és az idő igazolja vagy cáfolja. A gyakorlás célja a folyékonyság és a bizalom, nem a hitelesség bizonyítása.",
+    "en": "The practice format used in Ryokah's training. Treat the channeled answers as inner, intuitive material, not as fact or prediction; accuracy is confirmed or disproved by the debrief and by time. The aim of the practice is fluency and confidence, not proof of authenticity."
+   },
+   "etika": {
+    "hu": "Csak beleegyezéssel csatornázz másnak, és a felvételhez is kérj engedélyt. Ne adj orvosi, jogi, pénzügyi vagy pszichológiai tanácsot, ne mondj diagnózist; ilyen kérdésnél tereld a kérdezőt szakemberhez. Igazítsd a mélységet a kérdező állapotához: megrendült, sérülékeny embernek ne zúdíts nehéz vagy rideg igazságokat. Tyler Ellison (Ryokah csatornája) egyik mesterétől tanult sorrend: először lásd meg a szenvedést, aztán ismerd magad, aztán a hallgatódat. Kérdezőként pedig Starshine, a képzés társvezetője szempontját érdemes követni: az az üzenet jó, amely megerősít és önállóvá tesz, nem az, amely függővé tesz a csatornázótól.",
+    "en": "Channel for someone else only with their consent, and ask permission before recording. Give no medical, legal, financial or psychological advice and no diagnoses; for such questions, point the person to a professional. Match the depth to the person's state: don't unload heavy or cold truths on someone shaken or vulnerable. An order Tyler Ellison, who channels Ryokah, learned from one of his mentors: first see the suffering, then know yourself, then know your listener. As the interviewer, follow the yardstick of Starshine, the training's co-host: a good message strengthens you and makes you more self-reliant, not dependent on the channel."
+   },
+   "sorszam": 9
+  },
+  {
+   "id": "rch-ket-eszkozos-ules",
+   "mester": "Ryokah",
+   "szint": "halado",
+   "sik": "szellem",
+   "elem": "Ido",
+   "cim": {
+    "hu": "Önálló ülés két eszközzel: előre felvett kérdések",
+    "en": "Solo session with two devices: pre-recorded questions"
+   },
+   "cel": {
+    "hu": "Partner nélkül is kérdezővel gyakorolni: a telefonra előre felmondott, csenddel tagolt kérdéseid kérdeznek, a számítógép pedig rögzíti a csatornázást. Ryokah ajánlása, az Opening to Channel (Sanaya Roman és Duane Packer) nyomán.",
+    "en": "To practise with an interviewer even without a partner: your own questions, recorded in advance on your phone with silences between them, do the asking, while the computer records the channeling. Recommended by Ryokah, after Opening to Channel (Sanaya Roman and Duane Packer)."
+   },
+   "modszer": [
+    {
+     "hu": "1. Készíts elő két eszközt: a telefonon rögzíted a kérdéseket, a számítógépen (vagy egy második eszközön) magát az ülést.",
+     "en": "1. Prepare two devices: the phone records the questions, the computer (or a second device) records the session itself."
+    },
+    {
+     "hu": "2. Írj fel három-hat kérdést. Kezdőként válassz általános, nem rólad szóló kérdéseket (például a lény világáról, egy gyakorlatról, egy témáról); a magadat érintő kérdésekre a legnehezebb a saját elvárásaid színezése nélkül választ fogadni.",
+     "en": "2. Write down three to six questions. As a beginner, pick general questions rather than ones about yourself (for example about the being's world, a practice or a topic); questions about yourself are the hardest to receive without your own expectations colouring the answer."
+    },
+    {
+     "hu": "3. Indítsd el a felvételt a telefonon, és először hagyj csendet a ráhangolódásra: annyit, amennyi neked kell, fél perctől nagyjából négy percig.",
+     "en": "3. Start recording on the phone and leave silence first for attuning: as much as you need, from half a minute up to about four minutes."
+    },
+    {
+     "hu": "4. A csend után mondd fel az első kérdést lassan, tisztán.",
+     "en": "4. After the silence, speak the first question slowly and clearly."
+    },
+    {
+     "hu": "5. Utána hagyj fél perc és négy perc közötti csendet a válaszra.",
+     "en": "5. Then leave between half a minute and four minutes of silence for the answer."
+    },
+    {
+     "hu": "6. Mondd fel a következő kérdést, utána ismét csend, és így tovább mindegyikkel. Az utolsó kérdés csendje után állítsd le és mentsd el a felvételt.",
+     "en": "6. Speak the next question, then silence again, and so on for each one. After the silence following the last question, stop and save the recording."
+    },
+    {
+     "hu": "7. Gyakorláskor végezd el a Nyitó rituálét, indítsd el a számítógépen a felvételt, majd játszd le a telefonos kérdéssort.",
+     "en": "7. When you practise, do the Opening ritual, start the recording on the computer, then play the question track from your phone."
+    },
+    {
+     "hu": "8. A kezdő csend alatt építsd fel a csatornázó állapotot, a szünetekben pedig válaszolj hangosan, a lényként. Ryokah szerint itt a kérdező múltbeli éned tölti be a második ember szerepét, és ez földeli az ülést.",
+     "en": "8. Build the channeling state during the opening silence, and answer aloud as the being in the gaps. According to Ryokah, your past self who asks the questions takes the place of the second person here, and this grounds the session."
+    },
+    {
+     "hu": "9. Az utolsó válasz után zárj a Visszatérés és mentés gyakorlattal, és csak azután hallgasd vissza a felvételt.",
+     "en": "9. After the last answer, close with the Return and save practice, and only then listen back to the recording."
+    },
+    {
+     "hu": "10. Visszahallgatás közben jegyezd fel, mi volt meglepő, mi tűnik a saját gondolatodnak, és hol bizonytalanodtál el. A teljesen kötetlen, kérdések nélküli önálló csatornázást Ryokah későbbre ajánlja, amikor már magabiztosabb vagy.",
+     "en": "10. While listening back, note what surprised you, what seems to be your own thinking and where you wavered. Ryokah recommends saving fully free-form solo channeling, with no questions, for later, once you are more confident."
+    }
+   ],
+   "keret": {
+    "hu": "Ryokah ajánlása, az Opening to Channel nyomán. A módszer szerkezetet ad az egyéni gyakorlásnak, de nem zárja ki, hogy a válaszokat a saját elvárásaid színezzék; ezért fontos a visszahallgatás, és az, hogy idővel összevesd a jegyzeteidet.",
+    "en": "Recommended by Ryokah, after Opening to Channel. The method gives structure to solo practice, but it cannot rule out your own expectations colouring the answers; that is why listening back, and comparing your notes over time, matters."
+   },
+   "etika": {
+    "hu": "Ne használd egészségügyi, jogi vagy pénzügyi döntésekhez. Ha egyedül gyakorolsz, és nyugtalanság, félelem vagy zavartság jelentkezik, állítsd le a lejátszást, földelj, zárj, és aznap ne folytasd.",
+    "en": "Don't use it for medical, legal or financial decisions. If restlessness, fear or confusion comes up while you practise alone, stop the playback, ground yourself, close, and leave it for the day."
+   },
+   "sorszam": 10
+  }
+ ]
+}

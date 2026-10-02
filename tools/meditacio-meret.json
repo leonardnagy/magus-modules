@@ -1,8 +1,21 @@
 {
   "_": "The guided recordings are hosted on Drive, so build-everything cannot measure them. Bashar: measured over My Drive/Bashar Meditaciok on 2026-09-30 (204 files). ACIM audiobook: 76 tracks, 552 MB, measured on the downloaded set in August 2026. Keyed by the module the recordings are installed from; the app estimates per module and falls back to the overall average.",
-  "meditacio": { "db": 280, "bajt": 4958735633 },
+  "meditacio": {
+    "db": 282,
+    "bajt": 4990494584
+  },
   "modulonkent": {
-    "bashar-meditations-audio": { "db": 204, "bajt": 4406735633 },
-    "acim-hangoskonyv": { "db": 76, "bajt": 552000000 }
+    "bashar-meditations-audio": {
+      "db": 204,
+      "bajt": 4406735633
+    },
+    "acim-hangoskonyv": {
+      "db": 76,
+      "bajt": 552000000
+    },
+    "ryokah-channeling-hang": {
+      "db": 2,
+      "bajt": 31758951
+    }
   }
 }
