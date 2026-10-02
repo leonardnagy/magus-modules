@@ -468,20 +468,28 @@
   "meditaciok": [
     {
       "nevek": {
-        "hu": "Csí-gömb mágia"
+        "hu": "Csí-gömb mágia",
+        "en": "Chi ball magick",
+        "ro": "Magia sferei de chi"
       },
       "csoport": {
-        "hu": "Ryokah — High Magick"
+        "hu": "Ryokah — High Magick",
+        "en": "Ryokah — High Magick",
+        "ro": "Ryokah — High Magick"
       },
       "sorszam": 1,
       "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.magick/audio/meditacio/ryokah-magick-timer-chiball.m4a"
     },
     {
       "nevek": {
-        "hu": "Varázslat-műhely"
+        "hu": "Varázslat-műhely",
+        "en": "Spell workshop",
+        "ro": "Atelierul de vrăji"
       },
       "csoport": {
-        "hu": "Ryokah — High Magick"
+        "hu": "Ryokah — High Magick",
+        "en": "Ryokah — High Magick",
+        "ro": "Ryokah — High Magick"
       },
       "sorszam": 2,
       "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.magick/audio/meditacio/ryokah-magick-timer-spell.m4a"

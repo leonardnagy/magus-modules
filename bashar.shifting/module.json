@@ -466,10 +466,14 @@
  "meditaciok": [
   {
    "nevek": {
-    "hu": "Az első hoppban állás"
+    "hu": "Az első hoppban állás",
+    "en": "Standing in the first shift (Hungarian narration)",
+    "ro": "Prima deplasare (narațiune în maghiară)"
    },
    "csoport": {
-    "hu": "Bashar — vezetett gyakorlat"
+    "hu": "Bashar — vezetett gyakorlat",
+    "en": "Bashar — guided practice",
+    "ro": "Bashar — practică ghidată"
    },
    "sorszam": 1,
    "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/bashar.shifting/audio/meditacio/bashar-shifting-timer-hoppban-allas.m4a"

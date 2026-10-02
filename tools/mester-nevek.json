@@ -1,0 +1,28 @@
+{
+  "_": "Display names for the practices' `mester` field, which stays a stable key (modul-kotes.json and the app group by it). build-everything stamps the localized names on each practice as `mesterNevek`; the app shows them in the reader's language, falling back to English. Personal names that read the same everywhere are not listed.",
+  "nevek": {
+    "Asztrális hagyomány": {"hu": "Asztrális hagyomány", "en": "Astral tradition", "ro": "Tradiția astrală", "de": "Astrale Tradition"},
+    "Mediumitás": {"hu": "Mediumitás", "en": "Mediumship", "ro": "Mediumnitate", "de": "Medialität"},
+    "Telekinézis": {"hu": "Telekinézis", "en": "Telekinesis", "ro": "Telekinezie", "de": "Telekinese"},
+    "A csodák tanítása": {"hu": "A csodák tanítása", "en": "A Course in Miracles", "ro": "Un curs de miracole", "de": "Ein Kurs in Wundern"},
+    "Angyal-munka — vezetők, gyógyulás, bőség": {"hu": "Angyal-munka — vezetők, gyógyulás, bőség", "en": "Angel work — guides, healing, abundance", "ro": "Lucrul cu îngerii — ghizi, vindecare, abundență", "de": "Engelarbeit — Führung, Heilung, Fülle"},
+    "Automatikus írás": {"hu": "Automatikus írás", "en": "Automatic writing", "ro": "Scriere automată", "de": "Automatisches Schreiben"},
+    "Energiavédelem": {"hu": "Energiavédelem", "en": "Energy protection", "ro": "Protecție energetică", "de": "Energieschutz"},
+    "Inga és varázsvessző": {"hu": "Inga és varázsvessző", "en": "Pendulum and dowsing rod", "ro": "Pendul și baghetă", "de": "Pendel und Wünschelrute"},
+    "Aura és finomtestek": {"hu": "Aura és finomtestek", "en": "Aura and subtle bodies", "ro": "Aura și corpurile subtile", "de": "Aura und feinstoffliche Körper"},
+    "A csakra-rendszer": {"hu": "A csakra-rendszer", "en": "The chakra system", "ro": "Sistemul chakrelor", "de": "Das Chakrensystem"},
+    "Numerológia — a számok tükre": {"hu": "Numerológia — a számok tükre", "en": "Numerology — the mirror of numbers", "ro": "Numerologie — oglinda numerelor", "de": "Numerologie — der Spiegel der Zahlen"},
+    "Pszichometria — tárgyolvasás": {"hu": "Pszichometria — tárgyolvasás", "en": "Psychometry — object reading", "ro": "Psihometrie — citirea obiectelor", "de": "Psychometrie — Gegenstandslesen"},
+    "Tarot és orákulum — a psziché tükre": {"hu": "Tarot és orákulum — a psziché tükre", "en": "Tarot and oracle — the mirror of the psyche", "ro": "Tarot și oracol — oglinda psihicului", "de": "Tarot und Orakel — der Spiegel der Psyche"},
+    "Gyakorlati telepátia": {"hu": "Gyakorlati telepátia", "en": "Practical telepathy", "ro": "Telepatie practică", "de": "Praktische Telepathie"},
+    "Mentalizmus": {"hu": "Mentalizmus", "en": "Mentalism", "ro": "Mentalism", "de": "Mentalismus"},
+    "Thot": {"hu": "Thot", "en": "Thoth", "ro": "Thot", "de": "Thot"},
+    "Hermész Triszmegisztosz": {"hu": "Hermész Triszmegisztosz", "en": "Hermes Trismegistus", "ro": "Hermes Trismegistus", "de": "Hermes Trismegistos"},
+    "Ré": {"hu": "Ré", "en": "Ra", "ro": "Ra", "de": "Re"},
+    "Ozirisz": {"hu": "Ozirisz", "en": "Osiris", "ro": "Osiris", "de": "Osiris"},
+    "Kaspirovszkij": {"hu": "Kaspirovszkij", "en": "Kashpirovsky", "ro": "Kașpirovski", "de": "Kaschpirowski"},
+    "Anatolij Kashpirovsky": {"hu": "Anatolij Kaspirovszkij", "en": "Anatoly Kashpirovsky", "ro": "Anatoli Kașpirovski", "de": "Anatoli Kaschpirowski"},
+    "Grigorij Ignatenko": {"hu": "Grigorij Ignatenko", "en": "Grigori Ignatenko", "ro": "Grigori Ignatenko", "de": "Grigori Ignatenko"},
+    "Sai Baba + Ryokah": {"hu": "Sai Baba és Ryokah", "en": "Sai Baba and Ryokah", "ro": "Sai Baba și Ryokah", "de": "Sai Baba und Ryokah"}
+  }
+}

@@ -477,30 +477,42 @@
   "meditaciok": [
     {
       "nevek": {
-        "hu": "Desztillációs légzés"
+        "hu": "Desztillációs légzés",
+        "en": "Distillation breathing",
+        "ro": "Respirația distilării"
       },
       "csoport": {
-        "hu": "Ryokah — Alkímia"
+        "hu": "Ryokah — Alkímia",
+        "en": "Ryokah — Alchemy",
+        "ro": "Ryokah — Alchimie"
       },
       "sorszam": 1,
       "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.alchemy/audio/meditacio/ryokah-alchemy-timer-distillation.m4a"
     },
     {
       "nevek": {
-        "hu": "Csí-gömb gyakorlat"
+        "hu": "Csí-gömb gyakorlat",
+        "en": "Chi ball practice",
+        "ro": "Practica sferei de chi"
       },
       "csoport": {
-        "hu": "Ryokah — Alkímia"
+        "hu": "Ryokah — Alkímia",
+        "en": "Ryokah — Alchemy",
+        "ro": "Ryokah — Alchimie"
       },
       "sorszam": 2,
       "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.alchemy/audio/meditacio/ryokah-alchemy-timer-chiball.m4a"
     },
     {
       "nevek": {
-        "hu": "Fermentációs meditáció"
+        "hu": "Fermentációs meditáció",
+        "en": "Fermentation meditation",
+        "ro": "Meditația fermentării"
       },
       "csoport": {
-        "hu": "Ryokah — Alkímia"
+        "hu": "Ryokah — Alkímia",
+        "en": "Ryokah — Alchemy",
+        "ro": "Ryokah — Alchimie"
       },
       "sorszam": 3,
       "url": "https://raw.githubusercontent.com/leonardnagy/magus-modules/main/ryokah.alchemy/audio/meditacio/ryokah-alchemy-timer-fermentation.m4a"

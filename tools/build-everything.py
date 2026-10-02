@@ -126,9 +126,25 @@ med_meret = load(os.path.join(ROOT, 'tools', 'meditacio-meret.json'))
 letoltheto['meditacio'] = med_meret['meditacio']
 letoltheto['meditacioModul'] = med_meret.get('modulonkent', {})
 
+# The practices' `mester` is a key, Hungarian for the traditions without a
+# person's name; the screen shows `mesterNevek` in the reader's language.
+mester_nevek = load(os.path.join(ROOT, 'tools', 'mester-nevek.json'))['nevek']
+for pack in practices:
+    for gy in pack['gyakorlatok']:
+        if gy['mester'] in mester_nevek:
+            gy['mesterNevek'] = mester_nevek[gy['mester']]
+        else:
+            gy.pop('mesterNevek', None)
+
 quotes = []
 for path in sorted(glob.glob(os.path.join(ROOT, 'quotes', '*.json'))):
     quotes.extend(load(path))
+# The Hungarian original goes into the translations too, so the app can show
+# any language and come back to Hungarian without keeping two copies apart.
+for q in quotes:
+    if q.get('forditasok'):
+        q['forditasok'].setdefault('hu', {'szoveg': q['szoveg'], 'forras': q['forras'],
+                                          'cimkek': q.get('cimkek') or []})
 
 bundle = {'formatVersion': 1, 'modules': modules, 'practices': practices, 'quotes': quotes,
           'letoltheto': letoltheto}
