@@ -64,6 +64,10 @@ A single manifest inlining **every module, practice pack and quote pack** —
 install it all in one tap (app: Modules tab → + → Install everything, or scan its QR).
 Existing items update by id; nothing is duplicated.
 
+It also carries `modulPolcok`, the Modules tab's shelves and each module's tile (symbol, colour,
+short caption), copied from `tools/modul-polcok.json` — a new module gets its place there, and
+`tools/build-everything.py` warns about any module left off a shelf or without a tile.
+
 | Bundle | Raw link |
 |---|---|
 | Everything (736 practices, 75 modules, 83 quotes) | `https://raw.githubusercontent.com/leonardnagy/magus-modules/main/everything.json` |

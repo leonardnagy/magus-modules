@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Rebuild everything.json — the one-scan install bundle.
 
-modules   : every */module.json except acim-workbook (1.5 MB of English-only
-            lesson text does not belong in the one-tap install), sorted by id
-practices : every practices/*.json pack, sorted by id, each practice stamped
-            with the modules it belongs to
-quotes    : every quotes/*.json entry, concatenated in filename order
+modules     : every */module.json except acim-workbook (1.5 MB of English-only
+              lesson text does not belong in the one-tap install), sorted by id
+practices   : every practices/*.json pack, sorted by id, each practice stamped
+              with the modules it belongs to
+quotes      : every quotes/*.json entry, concatenated in filename order
+modulPolcok : tools/modul-polcok.json as written, the Modules tab's shelves
+              and each module's tile (symbol, colour, short caption), checked
+              against the modules that actually exist
 
 Every practice carries a `modulok` list naming the modules it belongs to. The
 module is the hub the three halves of the app meet at: a module knows its
@@ -146,8 +149,27 @@ for q in quotes:
         q['forditasok'].setdefault('hu', {'szoveg': q['szoveg'], 'forras': q['forras'],
                                           'cimkek': q.get('cimkek') or []})
 
+# The Modules tab's shelves, laid out like the Tools tab: which shelf a module
+# sits on and in what order, and the symbol, colour and caption of its tile.
+# Copied through as written; the build only checks it against the modules that
+# exist, so a new module that was never given a place shows up here first.
+polc_tabla = load(os.path.join(ROOT, 'tools', 'modul-polcok.json'))
+modul_polcok = {'polcok': polc_tabla['polcok'], 'modulok': polc_tabla['modulok']}
+bundle_ids = {m['id'] for m in modules}
+polcon = [mid for polc in modul_polcok['polcok'] for mid in polc['modulok']]
+# A private module is real on the phone, so a shelf may hold it (see above).
+polc_ismeretlen = set(polcon) - ismert
+if polc_ismeretlen:
+    print('FIGYELEM: polcon levo ismeretlen modulok: ' + ', '.join(sorted(polc_ismeretlen)))
+polc_nelkul = bundle_ids - set(polcon)
+if polc_nelkul:
+    print('FIGYELEM: polc nelkuli modulok: ' + ', '.join(sorted(polc_nelkul)))
+csempe_nelkul = (bundle_ids | set(polcon)) - set(modul_polcok['modulok'])
+if csempe_nelkul:
+    print('FIGYELEM: csempe nelkuli modulok: ' + ', '.join(sorted(csempe_nelkul)))
+
 bundle = {'formatVersion': 1, 'modules': modules, 'practices': practices, 'quotes': quotes,
-          'letoltheto': letoltheto}
+          'letoltheto': letoltheto, 'modulPolcok': modul_polcok}
 out = os.path.join(ROOT, 'everything.json')
 with io.open(out, 'w', encoding='utf-8') as f:
     f.write(json.dumps(bundle, ensure_ascii=False, separators=(',', ':')))
@@ -158,6 +180,9 @@ print('modul-kotes: %d/%d gyakorlat' % (n_kotve, n_pr))
 n_kep = sum(1 for p in practices for g in p['gyakorlatok'] if g.get('kep'))
 print('kep-kotes: %d/%d gyakorlat' % (n_kep, n_pr))
 print('letoltheto: ' + json.dumps(letoltheto, ensure_ascii=False))
+print('modul-polcok: %d polc, %d/%d modul polcon, %d csempe'
+      % (len(modul_polcok['polcok']), len(bundle_ids & set(polcon)), len(bundle_ids),
+         len(modul_polcok['modulok'])))
 print('%s: %d modules, %d practice packs (%d practices), %d quotes, %.1f MB'
       % (os.path.basename(out), len(modules), len(practices), n_pr, len(quotes),
          os.path.getsize(out) / 1024 / 1024))

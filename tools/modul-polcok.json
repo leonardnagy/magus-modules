@@ -1,0 +1,1050 @@
+{
+  "_": "The Modules tab's shelves, built like the Tools tab. `polcok` lists the shelves in display order: a name in each of the app's 15 languages, the SF Symbol of the heading, and the module ids on it in the order they are meant to be met. `modulok` is each module's tile: an SF Symbol, a palette colour (purple, indigo, blue, cyan, teal, mint, green, yellow, orange, red, pink, brown, gray) and a short caption in hu/en/ro (other languages fall back to English). The caption leans on its shelf — on the remote-viewing shelf 'Advanced' is enough — and keeps the teacher's name where that is how the module is known. build-everything copies this file into everything.json as `modulPolcok`. To add a module: put its id on one shelf, where it belongs in the order (recordings and links right after their course), and give it a row under `modulok` with a symbol that exists on iOS 17.0. A module on no shelf still installs; the app shows it on an 'Other' shelf with the default icon.",
+  "polcok": [
+    {
+      "id": "bardon-lepesek",
+      "nevek": {
+        "en": "Bardon's ten steps",
+        "hu": "Bardon tíz lépése",
+        "de": "Bardons zehn Stufen",
+        "es": "Pasos de Bardon",
+        "fr": "Degrés de Bardon",
+        "it": "Gradini di Bardon",
+        "pt": "Passos de Bardon",
+        "ro": "Treptele lui Bardon",
+        "pl": "Dziesięć stopni Bardona",
+        "cs": "Deset Bardonových stupňů",
+        "sk": "Desať Bardonových stupňov",
+        "ja": "バードンの十段階",
+        "zh": "巴登的十个阶段",
+        "ru": "Десять ступеней Бардона",
+        "ar": "خطوات باردون العشر"
+      },
+      "ikon": "stairs",
+      "modulok": [
+        "iih-step-01",
+        "iih-step-02",
+        "iih-step-03",
+        "iih-step-04",
+        "iih-step-05",
+        "iih-step-06",
+        "iih-step-07",
+        "iih-step-08",
+        "iih-step-09",
+        "iih-step-10"
+      ]
+    },
+    {
+      "id": "elemek",
+      "nevek": {
+        "en": "Elements",
+        "hu": "Elemek",
+        "de": "Elemente",
+        "es": "Elementos",
+        "fr": "Éléments",
+        "it": "Elementi",
+        "pt": "Elementos",
+        "ro": "Elemente",
+        "pl": "Żywioły",
+        "cs": "Živly",
+        "sk": "Živly",
+        "ja": "元素",
+        "zh": "元素",
+        "ru": "Элементы",
+        "ar": "العناصر"
+      },
+      "ikon": "circle.grid.cross",
+      "modulok": [
+        "iih-theme-fire",
+        "iih-theme-water",
+        "iih-theme-air",
+        "iih-theme-earth",
+        "iih-theme-elements",
+        "iih-theme-akasha",
+        "iih-theme-timeprinciple",
+        "iih-theme-materiaprima"
+      ]
+    },
+    {
+      "id": "bardon-temak",
+      "nevek": {
+        "en": "Bardon themes",
+        "hu": "Bardon-témák",
+        "de": "Bardon-Themen",
+        "es": "Temas de Bardon",
+        "fr": "Thèmes de Bardon",
+        "it": "Temi di Bardon",
+        "pt": "Temas de Bardon",
+        "ro": "Temele lui Bardon",
+        "pl": "Tematy Bardona",
+        "cs": "Bardonova témata",
+        "sk": "Bardonove témy",
+        "ja": "バードンのテーマ",
+        "zh": "巴登专题",
+        "ru": "Темы Бардона",
+        "ar": "موضوعات باردون"
+      },
+      "ikon": "books.vertical",
+      "modulok": [
+        "iih-theme-ethics",
+        "arion.answers",
+        "iih-theme-soulmirror",
+        "iih-theme-breathing",
+        "iih-theme-vitalenergy",
+        "iih-theme-spiritbeings",
+        "iih-theme-beings",
+        "iih-theme-mentalwandering",
+        "iih-theme-condensers",
+        "iih-theme-mirrors"
+      ]
+    },
+    {
+      "id": "hermesz-egyiptom",
+      "nevek": {
+        "en": "Hermes & Egypt",
+        "hu": "Hermész és Egyiptom",
+        "de": "Hermes und Ägypten",
+        "es": "Hermes y Egipto",
+        "fr": "Hermès et l'Égypte",
+        "it": "Ermete e l'Egitto",
+        "pt": "Hermes e Egito",
+        "ro": "Hermes și Egiptul",
+        "pl": "Hermes i Egipt",
+        "cs": "Hermés a Egypt",
+        "sk": "Hermes a Egypt",
+        "ja": "ヘルメスとエジプト",
+        "zh": "赫尔墨斯与埃及",
+        "ru": "Гермес и Египет",
+        "ar": "هرمس ومصر"
+      },
+      "ikon": "pyramid",
+      "modulok": [
+        "hermes-trismegistos",
+        "ptah-creation",
+        "thoth-wisdom",
+        "osiris-rebirth",
+        "ra-solar"
+      ]
+    },
+    {
+      "id": "elmetrening",
+      "nevek": {
+        "en": "Mind training",
+        "hu": "Elmetréning",
+        "de": "Mentaltraining",
+        "es": "Entrenamiento mental",
+        "fr": "Entraînement mental",
+        "it": "Allenamento mentale",
+        "pt": "Treino mental",
+        "ro": "Antrenament mental",
+        "pl": "Trening umysłu",
+        "cs": "Trénink mysli",
+        "sk": "Tréning mysle",
+        "ja": "メンタルトレーニング",
+        "zh": "心智训练",
+        "ru": "Тренировка ума",
+        "ar": "تدريب العقل"
+      },
+      "ikon": "brain",
+      "modulok": [
+        "thinking.school",
+        "dispenza.newself",
+        "dispenza.placebo",
+        "dispenza.supernatural",
+        "silva.mindcontrol",
+        "silva.healing",
+        "ignatenko-cosmohumanism",
+        "telekinesis.kinesis",
+        "kashpirovsky-suggestion",
+        "mentalism-craft"
+      ]
+    },
+    {
+      "id": "intuicio",
+      "nevek": {
+        "en": "Intuition",
+        "hu": "Intuíció",
+        "de": "Intuition",
+        "es": "Intuición",
+        "fr": "Intuition",
+        "it": "Intuizione",
+        "pt": "Intuição",
+        "ro": "Intuiție",
+        "pl": "Intuicja",
+        "cs": "Intuice",
+        "sk": "Intuícia",
+        "ja": "直感",
+        "zh": "直觉",
+        "ru": "Интуиция",
+        "ar": "الحدس"
+      },
+      "ikon": "lightbulb",
+      "modulok": [
+        "tarot-oracle",
+        "numerology-core",
+        "pendulum-dowsing",
+        "automatic-writing",
+        "psychometry-craft",
+        "telepathy-practice",
+        "mediumship.craft"
+      ]
+    },
+    {
+      "id": "taverzekeles",
+      "nevek": {
+        "en": "Remote viewing",
+        "hu": "Távérzékelés",
+        "de": "Remote Viewing",
+        "es": "Visión remota",
+        "fr": "Vision à distance",
+        "it": "Visione remota",
+        "pt": "Visão remota",
+        "ro": "Remote viewing",
+        "pl": "Zdalne widzenie",
+        "cs": "Dálkové vidění",
+        "sk": "Diaľkové videnie",
+        "ja": "リモートビューイング",
+        "zh": "遥视",
+        "ru": "Удалённое видение",
+        "ar": "الرؤية عن بُعد"
+      },
+      "ikon": "eye",
+      "modulok": [
+        "rv.basics",
+        "rv.sanctuary",
+        "rv.place",
+        "rv.associative",
+        "rv.advanced",
+        "remote.influencing"
+      ]
+    },
+    {
+      "id": "asztralis-utazas",
+      "nevek": {
+        "en": "Astral travel",
+        "hu": "Asztrális utazás",
+        "de": "Astralreisen",
+        "es": "Viaje astral",
+        "fr": "Voyage astral",
+        "it": "Viaggio astrale",
+        "pt": "Viagem astral",
+        "ro": "Călătorie astrală",
+        "pl": "Podróże astralne",
+        "cs": "Astrální cestování",
+        "sk": "Astrálne cestovanie",
+        "ja": "幽体離脱",
+        "zh": "星体投射",
+        "ru": "Выход в астрал",
+        "ar": "الإسقاط النجمي"
+      },
+      "ikon": "moon.stars",
+      "modulok": [
+        "astral.basics",
+        "astral.indirect",
+        "astral.sid",
+        "astral.direct",
+        "astral.explorations"
+      ]
+    },
+    {
+      "id": "energia-es-feny",
+      "nevek": {
+        "en": "Energy & light",
+        "hu": "Energia és fény",
+        "de": "Energie und Licht",
+        "es": "Energía y luz",
+        "fr": "Énergie et lumière",
+        "it": "Energia e luce",
+        "pt": "Energia e luz",
+        "ro": "Energie și lumină",
+        "pl": "Energia i światło",
+        "cs": "Energie a světlo",
+        "sk": "Energia a svetlo",
+        "ja": "エネルギーと光",
+        "zh": "能量与光",
+        "ru": "Энергия и свет",
+        "ar": "الطاقة والنور"
+      },
+      "ikon": "rays",
+      "modulok": [
+        "chakra-system",
+        "aura-reading",
+        "energy-protection",
+        "angelic-work",
+        "saintgermain-violetflame",
+        "saibaba-love"
+      ]
+    },
+    {
+      "id": "csodak-tanitasa",
+      "nevek": {
+        "en": "A Course in Miracles",
+        "hu": "A csodák tanítása",
+        "de": "Ein Kurs in Wundern",
+        "es": "Un curso de milagros",
+        "fr": "Un cours en miracles",
+        "it": "Un corso in miracoli",
+        "pt": "Um Curso em Milagres",
+        "ro": "Un curs de miracole",
+        "pl": "Kurs cudów",
+        "cs": "Kurz zázraků",
+        "sk": "Kurz zázrakov",
+        "ja": "奇跡のコース",
+        "zh": "奇迹课程",
+        "ru": "Курс чудес",
+        "ar": "دورة في المعجزات"
+      },
+      "ikon": "wand.and.rays",
+      "modulok": [
+        "acim-course",
+        "acim-hangoskonyv",
+        "acim-easy"
+      ]
+    },
+    {
+      "id": "valosagteremtes",
+      "nevek": {
+        "en": "Reality creation",
+        "hu": "Valóságteremtés",
+        "de": "Realität erschaffen",
+        "es": "Crear la realidad",
+        "fr": "Créer sa réalité",
+        "it": "Creare la realtà",
+        "pt": "Criar a realidade",
+        "ro": "Crearea realității",
+        "pl": "Tworzenie rzeczywistości",
+        "cs": "Tvoření reality",
+        "sk": "Tvorenie reality",
+        "ja": "現実創造",
+        "zh": "创造现实",
+        "ru": "Создание реальности",
+        "ar": "خلق الواقع"
+      },
+      "ikon": "sparkles",
+      "modulok": [
+        "bashar-shifting",
+        "bashar-spheres",
+        "bashar-meditations",
+        "bashar-meditations-audio",
+        "ryokah-alchemy",
+        "ryokah-magick",
+        "ryokah-channeling",
+        "ryokah-channeling-hang",
+        "zeland-transurfing"
+      ]
+    }
+  ],
+  "modulok": {
+    "iih-step-01": {
+      "ikon": "1.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Alapok",
+        "en": "Foundations",
+        "ro": "Fundamente"
+      }
+    },
+    "iih-step-02": {
+      "ikon": "2.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Elmélyítés",
+        "en": "Deepening",
+        "ro": "Aprofundarea"
+      }
+    },
+    "iih-step-03": {
+      "ikon": "3.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Elemegyensúly",
+        "en": "Elemental balance",
+        "ro": "Echilibrul elementelor"
+      }
+    },
+    "iih-step-04": {
+      "ikon": "4.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Áthelyezés, felhalmozás",
+        "en": "Transfer & accumulation",
+        "ro": "Transfer și acumulare"
+      }
+    },
+    "iih-step-05": {
+      "ikon": "5.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Vetítés és vezető",
+        "en": "Projection & guide",
+        "ro": "Proiecție și ghid"
+      }
+    },
+    "iih-step-06": {
+      "ikon": "6.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Szellem és Akasha",
+        "en": "Spirit & Akasha",
+        "ro": "Spirit și Akasha"
+      }
+    },
+    "iih-step-07": {
+      "ikon": "7.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Asztrális érzékek",
+        "en": "Astral senses",
+        "ro": "Simțurile astrale"
+      }
+    },
+    "iih-step-08": {
+      "ikon": "8.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Vándorlás és fluidok",
+        "en": "Wandering & fluids",
+        "ro": "Rătăcire și fluide"
+      }
+    },
+    "iih-step-09": {
+      "ikon": "9.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Tisztánlátás és elválás",
+        "en": "Clairvoyance, separation",
+        "ro": "Clarviziune și separare"
+      }
+    },
+    "iih-step-10": {
+      "ikon": "10.circle.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Egyesülés",
+        "en": "Union",
+        "ro": "Unirea"
+      }
+    },
+    "iih-theme-fire": {
+      "ikon": "flame.fill",
+      "szin": "red",
+      "rovid": {
+        "hu": "Tűz",
+        "en": "Fire",
+        "ro": "Foc"
+      }
+    },
+    "iih-theme-water": {
+      "ikon": "drop.fill",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Víz",
+        "en": "Water",
+        "ro": "Apă"
+      }
+    },
+    "iih-theme-air": {
+      "ikon": "wind",
+      "szin": "cyan",
+      "rovid": {
+        "hu": "Levegő",
+        "en": "Air",
+        "ro": "Aer"
+      }
+    },
+    "iih-theme-earth": {
+      "ikon": "mountain.2.fill",
+      "szin": "green",
+      "rovid": {
+        "hu": "Föld",
+        "en": "Earth",
+        "ro": "Pământ"
+      }
+    },
+    "iih-theme-elements": {
+      "ikon": "circle.grid.cross.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Az elemek tana",
+        "en": "Doctrine of elements",
+        "ro": "Doctrina elementelor"
+      }
+    },
+    "iih-theme-akasha": {
+      "ikon": "sparkles",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Akasha",
+        "en": "Akasha",
+        "ro": "Akasha"
+      }
+    },
+    "iih-theme-timeprinciple": {
+      "ikon": "clock.fill",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Idő",
+        "en": "Time",
+        "ro": "Timp"
+      }
+    },
+    "iih-theme-materiaprima": {
+      "ikon": "cube.fill",
+      "szin": "brown",
+      "rovid": {
+        "hu": "Materia prima",
+        "en": "Materia prima",
+        "ro": "Materia prima"
+      }
+    },
+    "iih-theme-ethics": {
+      "ikon": "text.book.closed.fill",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Etika és napló",
+        "en": "Ethics & diary",
+        "ro": "Etică și jurnal"
+      }
+    },
+    "arion.answers": {
+      "ikon": "questionmark.bubble.fill",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Arion válaszai",
+        "en": "Arion's answers",
+        "ro": "Răspunsurile lui Arion"
+      }
+    },
+    "iih-theme-soulmirror": {
+      "ikon": "circle.lefthalf.filled",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Lélektükör",
+        "en": "Soul mirror",
+        "ro": "Oglinda sufletului"
+      }
+    },
+    "iih-theme-breathing": {
+      "ikon": "lungs.fill",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Légzés",
+        "en": "Breathing",
+        "ro": "Respirația"
+      }
+    },
+    "iih-theme-vitalenergy": {
+      "ikon": "bolt.heart.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Életerő",
+        "en": "Vital energy",
+        "ro": "Energia vitală"
+      }
+    },
+    "iih-theme-spiritbeings": {
+      "ikon": "figure.stand.line.dotted.figure.stand",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Szellemlények és vezető",
+        "en": "Spirits & the guide",
+        "ro": "Spiritele și ghidul"
+      }
+    },
+    "iih-theme-beings": {
+      "ikon": "lizard.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Elementálok, lárvák",
+        "en": "Elementals & larvae",
+        "ro": "Elementali și larve"
+      }
+    },
+    "iih-theme-mentalwandering": {
+      "ikon": "figure.walk.motion",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Mentális vándorlás",
+        "en": "Mental wandering",
+        "ro": "Rătăcirea mentală"
+      }
+    },
+    "iih-theme-condensers": {
+      "ikon": "testtube.2",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Kondenzátorok",
+        "en": "Fluid condensers",
+        "ro": "Condensatoare"
+      }
+    },
+    "iih-theme-mirrors": {
+      "ikon": "oval.portrait.inset.filled",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Mágikus tükrök",
+        "en": "Magic mirrors",
+        "ro": "Oglinzi magice"
+      }
+    },
+    "hermes-trismegistos": {
+      "ikon": "scroll.fill",
+      "szin": "brown",
+      "rovid": {
+        "hu": "Hermész",
+        "en": "Hermes",
+        "ro": "Hermes"
+      }
+    },
+    "ptah-creation": {
+      "ikon": "mouth.fill",
+      "szin": "brown",
+      "rovid": {
+        "hu": "Ptah",
+        "en": "Ptah",
+        "ro": "Ptah"
+      }
+    },
+    "thoth-wisdom": {
+      "ikon": "bird.fill",
+      "szin": "brown",
+      "rovid": {
+        "hu": "Thot",
+        "en": "Thoth",
+        "ro": "Thoth"
+      }
+    },
+    "osiris-rebirth": {
+      "ikon": "leaf.fill",
+      "szin": "green",
+      "rovid": {
+        "hu": "Ozirisz",
+        "en": "Osiris",
+        "ro": "Osiris"
+      }
+    },
+    "ra-solar": {
+      "ikon": "sun.max.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Ré",
+        "en": "Ra",
+        "ro": "Ra"
+      }
+    },
+    "thinking.school": {
+      "ikon": "brain.head.profile",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Fejleszd a gondolkodásod",
+        "en": "Develop your thinking",
+        "ro": "Dezvoltă-ți gândirea"
+      }
+    },
+    "dispenza.newself": {
+      "ikon": "leaf.arrow.triangle.circlepath",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Dispenza: új ember",
+        "en": "Dispenza: new self",
+        "ro": "Dispenza: noul sine"
+      }
+    },
+    "dispenza.placebo": {
+      "ikon": "pills.fill",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Dispenza: placebo",
+        "en": "Dispenza: placebo",
+        "ro": "Dispenza: placebo"
+      }
+    },
+    "dispenza.supernatural": {
+      "ikon": "heart.circle.fill",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Dispenza: szívkoherencia",
+        "en": "Dispenza: supernatural",
+        "ro": "Dispenza: supranatural"
+      }
+    },
+    "silva.mindcontrol": {
+      "ikon": "waveform",
+      "szin": "green",
+      "rovid": {
+        "hu": "Silva: agykontroll",
+        "en": "Silva: Mind Control",
+        "ro": "Silva: Mind Control"
+      }
+    },
+    "silva.healing": {
+      "ikon": "hands.and.sparkles.fill",
+      "szin": "green",
+      "rovid": {
+        "hu": "Silva: gyógyító képzelet",
+        "en": "Silva: You the Healer",
+        "ro": "Silva: You the Healer"
+      }
+    },
+    "ignatenko-cosmohumanism": {
+      "ikon": "globe.europe.africa.fill",
+      "szin": "green",
+      "rovid": {
+        "hu": "Ignatenko",
+        "en": "Ignatenko",
+        "ro": "Ignatenko"
+      }
+    },
+    "telekinesis.kinesis": {
+      "ikon": "arrow.up.and.down.and.sparkles",
+      "szin": "green",
+      "rovid": {
+        "hu": "Telekinézis",
+        "en": "Telekinesis",
+        "ro": "Telekinezie"
+      }
+    },
+    "kashpirovsky-suggestion": {
+      "ikon": "sparkles.tv.fill",
+      "szin": "mint",
+      "rovid": {
+        "hu": "Kaspirovszkij",
+        "en": "Kashpirovsky",
+        "ro": "Kashpirovsky"
+      }
+    },
+    "mentalism-craft": {
+      "ikon": "theatermasks.fill",
+      "szin": "mint",
+      "rovid": {
+        "hu": "Mentalizmus",
+        "en": "Mentalism",
+        "ro": "Mentalism"
+      }
+    },
+    "tarot-oracle": {
+      "ikon": "rectangle.portrait.on.rectangle.portrait.angled.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Tarot",
+        "en": "Tarot",
+        "ro": "Tarot"
+      }
+    },
+    "numerology-core": {
+      "ikon": "123.rectangle.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Numerológia",
+        "en": "Numerology",
+        "ro": "Numerologie"
+      }
+    },
+    "pendulum-dowsing": {
+      "ikon": "metronome.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Inga és varázsvessző",
+        "en": "Pendulum & dowsing",
+        "ro": "Pendul și radiestezie"
+      }
+    },
+    "automatic-writing": {
+      "ikon": "pencil.and.scribble",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Automatikus írás",
+        "en": "Automatic writing",
+        "ro": "Scrierea automată"
+      }
+    },
+    "psychometry-craft": {
+      "ikon": "hand.point.up.braille.fill",
+      "szin": "yellow",
+      "rovid": {
+        "hu": "Pszichometria",
+        "en": "Psychometry",
+        "ro": "Psihometrie"
+      }
+    },
+    "telepathy-practice": {
+      "ikon": "person.line.dotted.person.fill",
+      "szin": "yellow",
+      "rovid": {
+        "hu": "Telepátia",
+        "en": "Telepathy",
+        "ro": "Telepatie"
+      }
+    },
+    "mediumship.craft": {
+      "ikon": "ear.fill",
+      "szin": "yellow",
+      "rovid": {
+        "hu": "Mediumitás",
+        "en": "Mediumship",
+        "ro": "Mediumnitate"
+      }
+    },
+    "rv.basics": {
+      "ikon": "scope",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Alapok",
+        "en": "Basics",
+        "ro": "Bazele"
+      }
+    },
+    "rv.sanctuary": {
+      "ikon": "tent.fill",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Napló és menedék",
+        "en": "Journal & sanctuary",
+        "ro": "Jurnal și sanctuar"
+      }
+    },
+    "rv.place": {
+      "ikon": "mappin.and.ellipse",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Helyérzékelés",
+        "en": "Sensing a place",
+        "ro": "Simțirea locului"
+      }
+    },
+    "rv.associative": {
+      "ikon": "circle.grid.2x1.left.filled",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Asszociatív",
+        "en": "Associative",
+        "ro": "Asociativ"
+      }
+    },
+    "rv.advanced": {
+      "ikon": "binoculars.fill",
+      "szin": "blue",
+      "rovid": {
+        "hu": "Haladó",
+        "en": "Advanced",
+        "ro": "Avansat"
+      }
+    },
+    "remote.influencing": {
+      "ikon": "arrow.uturn.backward.circle.fill",
+      "szin": "cyan",
+      "rovid": {
+        "hu": "Szándék befelé",
+        "en": "Intention inward",
+        "ro": "Intenția spre sine"
+      }
+    },
+    "astral.basics": {
+      "ikon": "map.fill",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Alapok és térkép",
+        "en": "Basics & map",
+        "ro": "Bazele și harta"
+      }
+    },
+    "astral.indirect": {
+      "ikon": "moon.zzz.fill",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Indirekt út",
+        "en": "Indirect path",
+        "ro": "Calea indirectă"
+      }
+    },
+    "astral.sid": {
+      "ikon": "sunrise.fill",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Hajnali kapu",
+        "en": "Dawn gate",
+        "ro": "Poarta zorilor"
+      }
+    },
+    "astral.direct": {
+      "ikon": "door.left.hand.open",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Direkt módszer",
+        "en": "Direct method",
+        "ro": "Metoda directă"
+      }
+    },
+    "astral.explorations": {
+      "ikon": "sparkle.magnifyingglass",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Felfedezések",
+        "en": "Explorations",
+        "ro": "Explorări"
+      }
+    },
+    "chakra-system": {
+      "ikon": "camera.macro",
+      "szin": "mint",
+      "rovid": {
+        "hu": "Csakrák",
+        "en": "Chakras",
+        "ro": "Chakrele"
+      }
+    },
+    "aura-reading": {
+      "ikon": "person.and.background.dotted",
+      "szin": "mint",
+      "rovid": {
+        "hu": "Aura és finomtestek",
+        "en": "Aura & subtle bodies",
+        "ro": "Aura și corpuri subtile"
+      }
+    },
+    "energy-protection": {
+      "ikon": "shield.lefthalf.filled",
+      "szin": "mint",
+      "rovid": {
+        "hu": "Energiavédelem",
+        "en": "Energy protection",
+        "ro": "Protecție energetică"
+      }
+    },
+    "angelic-work": {
+      "ikon": "sparkle",
+      "szin": "yellow",
+      "rovid": {
+        "hu": "Angyal-munka",
+        "en": "Angelic work",
+        "ro": "Lucrul cu îngerii"
+      }
+    },
+    "saintgermain-violetflame": {
+      "ikon": "flame.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Saint Germain",
+        "en": "Saint Germain",
+        "ro": "Saint Germain"
+      }
+    },
+    "saibaba-love": {
+      "ikon": "heart.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Sai Baba",
+        "en": "Sai Baba",
+        "ro": "Sai Baba"
+      }
+    },
+    "acim-course": {
+      "ikon": "book.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "A Kurzus",
+        "en": "The Course",
+        "ro": "Cursul"
+      }
+    },
+    "acim-hangoskonyv": {
+      "ikon": "headphones",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Hangoskönyv",
+        "en": "Audiobook",
+        "ro": "Carte audio"
+      }
+    },
+    "acim-easy": {
+      "ikon": "signpost.right.fill",
+      "szin": "purple",
+      "rovid": {
+        "hu": "Cohen ösvénye",
+        "en": "Cohen's path",
+        "ro": "Calea lui Cohen"
+      }
+    },
+    "bashar-shifting": {
+      "ikon": "square.3.layers.3d",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Bashar: valóságváltás",
+        "en": "Bashar: reality shifting",
+        "ro": "Bashar: shifting"
+      }
+    },
+    "bashar-spheres": {
+      "ikon": "point.3.filled.connected.trianglepath.dotted",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Bashar: három gömb",
+        "en": "Bashar: three spheres",
+        "ro": "Bashar: trei sfere"
+      }
+    },
+    "bashar-meditations": {
+      "ikon": "link.circle.fill",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Bashar: Holotope",
+        "en": "Bashar: Holotope",
+        "ro": "Bashar: Holotope"
+      }
+    },
+    "bashar-meditations-audio": {
+      "ikon": "headphones",
+      "szin": "teal",
+      "rovid": {
+        "hu": "Bashar: felvételek",
+        "en": "Bashar: recordings",
+        "ro": "Bashar: înregistrări"
+      }
+    },
+    "ryokah-alchemy": {
+      "ikon": "flask.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Ryokah: alkímia",
+        "en": "Ryokah: alchemy",
+        "ro": "Ryokah: alchimie"
+      }
+    },
+    "ryokah-magick": {
+      "ikon": "wand.and.stars",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Ryokah: High Magick",
+        "en": "Ryokah: High Magick",
+        "ro": "Ryokah: High Magick"
+      }
+    },
+    "ryokah-channeling": {
+      "ikon": "person.wave.2.fill",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Ryokah: csatornázás",
+        "en": "Ryokah: channeling",
+        "ro": "Ryokah: channeling"
+      }
+    },
+    "ryokah-channeling-hang": {
+      "ikon": "headphones",
+      "szin": "orange",
+      "rovid": {
+        "hu": "Ryokah: felvételek",
+        "en": "Ryokah: recordings",
+        "ro": "Ryokah: înregistrări"
+      }
+    },
+    "zeland-transurfing": {
+      "ikon": "figure.surfing",
+      "szin": "yellow",
+      "rovid": {
+        "hu": "Zeland: transzörfing",
+        "en": "Zeland: Transurfing",
+        "ro": "Zeland: Transurfing"
+      }
+    }
+  }
+}
