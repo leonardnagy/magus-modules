@@ -243,7 +243,8 @@
         "astral.indirect",
         "astral.sid",
         "astral.direct",
-        "astral.explorations"
+        "astral.explorations",
+        "astral-meditations-audio"
       ]
     },
     {
@@ -1044,6 +1045,15 @@
         "hu": "Zeland: transzörfing",
         "en": "Zeland: Transurfing",
         "ro": "Zeland: Transurfing"
+      }
+    },
+    "astral-meditations-audio": {
+      "ikon": "headphones",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Felvételek",
+        "en": "Recordings",
+        "ro": "Înregistrări"
       }
     }
   }
