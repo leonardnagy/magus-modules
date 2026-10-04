@@ -240,11 +240,14 @@
       "ikon": "moon.stars",
       "modulok": [
         "astral.basics",
+        "astral-hang-alapok",
         "astral.indirect",
+        "astral-hang-indirekt",
         "astral.sid",
+        "astral-hang-sid",
         "astral.direct",
-        "astral.explorations",
-        "astral-meditations-audio"
+        "astral-hang-direkt",
+        "astral.explorations"
       ]
     },
     {
@@ -1047,13 +1050,40 @@
         "ro": "Zeland: Transurfing"
       }
     },
-    "astral-meditations-audio": {
+    "astral-hang-alapok": {
       "ikon": "headphones",
       "szin": "indigo",
       "rovid": {
-        "hu": "Felvételek",
-        "en": "Recordings",
-        "ro": "Înregistrări"
+        "hu": "Légzés és napi",
+        "en": "Breath & daily",
+        "ro": "Respirație și zilnic"
+      }
+    },
+    "astral-hang-indirekt": {
+      "ikon": "headphones",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Indirekt felvételek",
+        "en": "Indirect recordings",
+        "ro": "Înregistrări indirecte"
+      }
+    },
+    "astral-hang-sid": {
+      "ikon": "headphones",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "SID felvételek",
+        "en": "SID recordings",
+        "ro": "Înregistrări SID"
+      }
+    },
+    "astral-hang-direkt": {
+      "ikon": "headphones",
+      "szin": "indigo",
+      "rovid": {
+        "hu": "Direkt felvételek",
+        "en": "Direct recordings",
+        "ro": "Înregistrări directe"
       }
     }
   }

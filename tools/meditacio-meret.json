@@ -1,5 +1,5 @@
 {
-  "_": "The guided recordings are hosted on Drive, so build-everything cannot measure them. Bashar: measured over My Drive/Bashar Meditaciok on 2026-09-30 (204 files). ACIM audiobook: 76 tracks, 552 MB, measured on the downloaded set in August 2026. Keyed by the module the recordings are installed from; the app estimates per module and falls back to the overall average. Astral travel recordings: 22 tracks, measured from the Drive Content-Range headers on 2026-10-04. Ryokah channeling: 4 guided parts since 2026-10-03.",
+  "_": "The guided recordings are hosted on Drive, so build-everything cannot measure them. Bashar: measured over My Drive/Bashar Meditaciok on 2026-09-30 (204 files). ACIM audiobook: 76 tracks, 552 MB, measured on the downloaded set in August 2026. Keyed by the module the recordings are installed from; the app estimates per module and falls back to the overall average. Astral travel recordings: 22 tracks in four method modules, measured from the Drive Content-Range headers on 2026-10-04. Ryokah channeling: 4 guided parts since 2026-10-03.",
   "meditacio": {
     "db": 306,
     "bajt": 8837892505
@@ -17,9 +17,21 @@
       "db": 4,
       "bajt": 47758176
     },
-    "astral-meditations-audio": {
-      "db": 22,
-      "bajt": 3831398696
+    "astral-hang-indirekt": {
+      "db": 2,
+      "bajt": 30156575
+    },
+    "astral-hang-sid": {
+      "db": 6,
+      "bajt": 1037781560
+    },
+    "astral-hang-direkt": {
+      "db": 10,
+      "bajt": 2425887914
+    },
+    "astral-hang-alapok": {
+      "db": 4,
+      "bajt": 337572647
     }
   }
 }
