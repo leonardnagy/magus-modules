@@ -9,6 +9,10 @@ quotes      : every quotes/*.json entry, concatenated in filename order
 modulPolcok : tools/modul-polcok.json as written, the Modules tab's shelves
               and each module's tile (symbol, colour, short caption), checked
               against the modules that actually exist
+hangok      : every narration file with its size and sha (tools/hang_index.py,
+              which also writes the root hangok.json the app re-reads daily).
+              The Workbook's text stays out; its narration list goes in, so the
+              one scan brings the Workbook's recordings too.
 
 Every practice carries a `modulok` list naming the modules it belongs to. The
 module is the hub the three halves of the app meet at: a module knows its
@@ -21,7 +25,10 @@ decides where it can (a pack is about one subject), the practice's master
 decides for the thematic packs that mix several. Fifty lines of table for 736
 practices, instead of a pairing written out by hand.
 """
-import glob, io, json, os
+import glob, io, json, os, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import hang_index
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXCLUDED_MODULES = {'acim-workbook'}
@@ -102,27 +109,24 @@ def meret(mappa, kiterjesztes):
 letoltheto = {'kepBase': KEP_BASE}
 db, b = meret(os.path.join(ROOT, 'illustrations'), '.png')
 letoltheto['kepek'] = {'db': db, 'bajt': b}
-gyh = {}
-for nyelv in sorted(os.listdir(os.path.join(ROOT, 'audio', 'practices'))):
-    db, b = meret(os.path.join(ROOT, 'audio', 'practices', nyelv), '.mp3')
-    if db:
-        gyh[nyelv] = {'db': db, 'bajt': b}
-letoltheto['gyakorlatHang'] = gyh
-mh = {}
-for m in modules:
-    base = m.get('audioBase') or ''
-    if not base.startswith(RAW + '/'):
-        continue
-    mappa = os.path.join(ROOT, base[len(RAW) + 1:])
-    if not os.path.isdir(mappa):
-        continue
-    for nyelv in os.listdir(mappa):
-        db, b = meret(os.path.join(mappa, nyelv), '.mp3')
-        if db:
-            t = mh.setdefault(nyelv, {'db': 0, 'bajt': 0})
-            t['db'] += db
-            t['bajt'] += b
-letoltheto['modulHang'] = mh
+# The narration's numbers come from the same list the phone gets, so they
+# count exactly the files that belong to something: the orphans left in the
+# folder by renamed practices are neither listed nor counted.
+hangok = hang_index.build()
+hang_index.write(hangok)
+
+def osszeg(csoportok):
+    t = {}
+    for cs in csoportok:
+        for nyelv, fajlok in (cs or {}).get('nyelvek', {}).items():
+            x = t.setdefault(nyelv, {'db': 0, 'bajt': 0})
+            x['db'] += len(fajlok)
+            x['bajt'] += sum(f[0] for f in fajlok.values())
+    return t
+
+letoltheto['gyakorlatHang'] = osszeg([hangok.get('gyakorlatok')])
+letoltheto['modulHang'] = osszeg(hangok.get('modulok', {}).values())
+letoltheto['munkafuzetHang'] = osszeg(hangok.get('munkafuzetek', {}).values())
 # The recordings live on Drive, not here, so their size cannot be measured at
 # build time. Measured once over the Drive folder and written down.
 med_meret = load(os.path.join(ROOT, 'tools', 'meditacio-meret.json'))
@@ -169,7 +173,7 @@ if csempe_nelkul:
     print('FIGYELEM: csempe nelkuli modulok: ' + ', '.join(sorted(csempe_nelkul)))
 
 bundle = {'formatVersion': 1, 'modules': modules, 'practices': practices, 'quotes': quotes,
-          'letoltheto': letoltheto, 'modulPolcok': modul_polcok}
+          'letoltheto': letoltheto, 'modulPolcok': modul_polcok, 'hangok': hangok}
 out = os.path.join(ROOT, 'everything.json')
 with io.open(out, 'w', encoding='utf-8') as f:
     f.write(json.dumps(bundle, ensure_ascii=False, separators=(',', ':')))

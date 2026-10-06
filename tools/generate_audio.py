@@ -9,8 +9,11 @@ The audio lands next to the module it belongs to:
 
     <module-dir>/audio/<lang>/<item-id>.mp3
 
-The app looks for exactly that file; if it is missing it falls back to the
-built-in on-device read-aloud, so partial coverage is always safe.
+The app looks for exactly that file, and only through hangok.json: after
+rendering, run tools/build-everything.py (it re-indexes every file) and push
+the audio together with hangok.json and everything.json. There is no
+on-device voice any more: an item without a recording has no read-aloud
+button, so a recording missing from the index is simply silent.
 
 Usage
 -----
@@ -19,8 +22,8 @@ Usage
     python3 tools/generate_audio.py acim.easy               # generate
     python3 tools/generate_audio.py --all --lang hu         # everything
 
-The text is cleaned the same way the app's Felolvaso.tisztit() cleans it, so
-the spoken words match what the reader hears from the built-in voice.
+The text is cleaned of the [FINE] footnote, links and markdown, so the spoken
+words match the text on the screen.
 """
 
 import argparse
@@ -35,7 +38,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 ENDPOINT = "https://api.x.ai/v1/tts"
-USD_PER_MILLION_CHARS = 4.20        # xAI TTS list price
+USD_PER_MILLION_CHARS = 15.00       # xAI TTS list price since 2026-05-12 (was 4.20 at launch)
 MAX_CHARS_PER_REQUEST = 15_000      # xAI unary limit
 
 # BCP-47 codes for the languages the content is authored in.
@@ -58,8 +61,8 @@ def read_api_key() -> str | None:
 
 
 def clean(text: str) -> str:
-    """Mirror of the app's Felolvaso.tisztit(): drop the [FINE] footnote and
-    markdown scaffolding, then join lines into sentences."""
+    """Drop the [FINE] footnote and markdown scaffolding, then join lines into
+    sentences (once mirrored by the app's on-device voice, now gone)."""
     if "[FINE]" in text:
         text = text.split("[FINE]", 1)[0]
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)      # [label](url) -> label
